@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29119105">
+  <sentence id="29119105.s0" text="Mutations in genes involved in the biosynthesis of the glycosylphosphatidylinositol (glucosamine catabolic process) anchor cause autosomal recessive glycosylation defects, with a wide phenotypic spectrum of intellectual disability, seizures, minor facial dysmorphism, hypotonia, and elevated serum alkaline phosphatase.">
+    <entity charOffset="85-114" id="29119105.s0.e0" ontology_id="GO_0006043" text="glucosamine catabolic process" type="GO"/>
+    <entity charOffset="207-230" id="29119105.s0.e1" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <pair e1="29119105.s0.e0" e2="29119105.s0.e1" id="29119105.s0.p0" relation="false"/>
+  </sentence>
+</document>

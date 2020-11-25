@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="29668979">
+  <sentence id="29668979.s0" text="Mutations in bestrophin-1 (chloride transport) are associated with distinct retinopathies, notably three forms with autosomal dominant inheritance and one condition with an autosomal recessive mode of transmission.">
+    <entity charOffset="27-45" id="29668979.s0.e0" ontology_id="GO_0006821" text="chloride transport" type="GO"/>
+    <entity charOffset="173-192" id="29668979.s0.e1" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <pair e1="29668979.s0.e0" e2="29668979.s0.e1" id="29668979.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29668979.s1" text="Although heterozygous missense mutations in chloride transport reveal dominant-negative effects in patients with autosomal dominant chloride transport disease (BD), heterozygous mutations associated with autosomal recessive bestrophinopathy (ARB) display no disease phenotype.">
+    <entity charOffset="44-62" id="29668979.s1.e0" ontology_id="GO_0006821" text="chloride transport" type="GO"/>
+    <entity charOffset="132-150" id="29668979.s1.e1" ontology_id="GO_0006821" text="chloride transport" type="GO"/>
+    <entity charOffset="204-223" id="29668979.s1.e2" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <pair e1="29668979.s1.e0" e2="29668979.s1.e2" id="29668979.s1.p0" relation="true"/>
+    <pair e1="29668979.s1.e1" e2="29668979.s1.e2" id="29668979.s1.p1" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27624628">
+  <sentence id="27624628.s0" text="We report the association of many previously unreported variants with retinal disease, as well as new disease phenotypes associated with known genes, including the first association of the ion transport gene with retinitis pigmentosa.">
+    <entity charOffset="70-85" id="27624628.s0.e0" ontology_id="HP_0000479" text="retinal disease" type="HP"/>
+    <entity charOffset="189-202" id="27624628.s0.e1" ontology_id="GO_0006811" text="ion transport" type="GO"/>
+    <pair e1="27624628.s0.e0" e2="27624628.s0.e1" id="27624628.s0.p0" relation="true"/>
+  </sentence>
+</document>

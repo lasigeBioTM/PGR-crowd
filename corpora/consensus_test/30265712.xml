@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="30265712">
+  <sentence id="30265712.s0" text="Here, a novel animal model was used to study how epidermal growth factor receptor signaling pathway-6 affects tumor development.">
+    <entity charOffset="49-99" id="30265712.s0.e0" ontology_id="GO_0007173" text="epidermal growth factor receptor signaling pathway" type="GO"/>
+    <entity charOffset="110-115" id="30265712.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="30265712.s0.e0" e2="30265712.s0.e1" id="30265712.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="30265712.s1" text="The KSHV viral homolog of interleukin-6 gene (epidermal growth factor receptor signaling pathway-6) may play a significant role in tumor development and may serve as a new anti-cancer target, but its role in tumor formation is only partially understood.">
+    <entity charOffset="46-96" id="30265712.s1.e0" ontology_id="GO_0007173" text="epidermal growth factor receptor signaling pathway" type="GO"/>
+    <entity charOffset="131-136" id="30265712.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="177-183" id="30265712.s1.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30265712.s1.e0" e2="30265712.s1.e1" id="30265712.s1.p0" relation="true"/>
+    <pair e1="30265712.s1.e0" e2="30265712.s1.e2" id="30265712.s1.p1" relation="true"/>
+  </sentence>
+</document>

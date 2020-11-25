@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30469315">
+  <sentence id="30469315.s0" text="&lt;i&gt;GPX2&lt;/i&gt; and &lt;i&gt;TXNRD3&lt;/i&gt; showed a higher expression and &lt;i&gt;GPX3&lt;/i&gt;, &lt;i&gt;platelet degranulation&lt;/i&gt;, &lt;i&gt;SELENOS&lt;/i&gt;, and &lt;i&gt;SEPHS2&lt;/i&gt; exhibited a lower expression in the disease tissue from adenomas and both cancer groups (&lt;i&gt;p&lt;/i&gt;-values from 0.023 to &amp;lt;0.001).">
+    <entity charOffset="77-99" id="30469315.s0.e0" ontology_id="GO_0002576" text="platelet degranulation" type="GO"/>
+    <entity charOffset="213-219" id="30469315.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30469315.s0.e0" e2="30469315.s0.e1" id="30469315.s0.p0" relation="true"/>
+  </sentence>
+</document>

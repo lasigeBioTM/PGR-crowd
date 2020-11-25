@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<document id="27148972">
+  <sentence id="27148972.s0" text="regulation of proteolysis was identified as a genetic modifier of muscular dystrophy in mice and humans.">
+    <entity charOffset="0-25" id="27148972.s0.e0" ontology_id="GO_0030162" text="regulation of proteolysis" type="GO"/>
+    <entity charOffset="66-84" id="27148972.s0.e1" ontology_id="HP_0003560" text="muscular dystrophy" type="HP"/>
+    <pair e1="27148972.s0.e0" e2="27148972.s0.e1" id="27148972.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="27148972.s1" text="An in-frame insertion polymorphism in the murine regulation of proteolysis gene associates with partial protection against muscular dystrophy.">
+    <entity charOffset="49-74" id="27148972.s1.e0" ontology_id="GO_0030162" text="regulation of proteolysis" type="GO"/>
+    <entity charOffset="123-141" id="27148972.s1.e1" ontology_id="HP_0003560" text="muscular dystrophy" type="HP"/>
+    <pair e1="27148972.s1.e0" e2="27148972.s1.e1" id="27148972.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="27148972.s2" text="In humans, nonsynonymous single nucleotide polymorphisms in regulation of proteolysis associate with prolonged ambulation in Duchenne muscular dystrophy.">
+    <entity charOffset="60-85" id="27148972.s2.e0" ontology_id="GO_0030162" text="regulation of proteolysis" type="GO"/>
+    <entity charOffset="134-152" id="27148972.s2.e1" ontology_id="HP_0003560" text="muscular dystrophy" type="HP"/>
+    <pair e1="27148972.s2.e0" e2="27148972.s2.e1" id="27148972.s2.p0" relation="false"/>
+  </sentence>
+  <sentence id="27148972.s3" text="In order to assess the effects of regulation of proteolysis in muscular dystrophy, LTBP4 overexpressing epidermis development were bred to mdx mice, a model of Duchenne muscular dystrophy.">
+    <entity charOffset="34-59" id="27148972.s3.e0" ontology_id="GO_0030162" text="regulation of proteolysis" type="GO"/>
+    <entity charOffset="63-81" id="27148972.s3.e1" ontology_id="HP_0003560" text="muscular dystrophy" type="HP"/>
+    <entity charOffset="104-125" id="27148972.s3.e2" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <pair e1="27148972.s3.e0" e2="27148972.s3.e1" id="27148972.s3.p0" relation="false"/>
+    <pair e1="27148972.s3.e1" e2="27148972.s3.e2" id="27148972.s3.p1" relation="false"/>
+  </sentence>
+</document>

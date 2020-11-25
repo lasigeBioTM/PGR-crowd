@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<document id="30055288">
+  <sentence id="30055288.s0" text="Aberrant expression of different family members of the positive regulation of cell-matrix adhesion/ephrin system, which comprises the Eph receptors (Ephs) and their ligands (ephrins), has been implicated in various malignancies including breast cancer.">
+    <entity charOffset="55-98" id="30055288.s0.e0" ontology_id="GO_0001954" text="positive regulation of cell-matrix adhesion" type="GO"/>
+    <entity charOffset="245-251" id="30055288.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30055288.s0.e0" e2="30055288.s0.e1" id="30055288.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="30055288.s1" text="This review reflects the existing positive regulation of cell-matrix adhesion/ephrin literature while focusing on breast cancer heterogeneity.">
+    <entity charOffset="34-77" id="30055288.s1.e0" ontology_id="GO_0001954" text="positive regulation of cell-matrix adhesion" type="GO"/>
+    <entity charOffset="128-141" id="30055288.s1.e1" ontology_id="HP_0001425" text="heterogeneity" type="HP"/>
+    <pair e1="30055288.s1.e0" e2="30055288.s1.e1" id="30055288.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="30055288.s2" text="Hormone positive, signal transduction positive and triple negative breast cancer (TNBC) cell lines, xenografts/mutant animal models and patient samples are examined separately as, in humans, they represent entities with differences in prognosis and treatment.">
+    <entity charOffset="18-37" id="30055288.s2.e0" ontology_id="GO_0007165" text="signal transduction" type="GO"/>
+    <entity charOffset="74-80" id="30055288.s2.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30055288.s2.e0" e2="30055288.s2.e1" id="30055288.s2.p0" relation="true"/>
+  </sentence>
+  <sentence id="30055288.s3" text="positive regulation of cell-matrix adhesionA2, EphB4 and EphB6 are the members most extensively studied in breast cancer.">
+    <entity charOffset="0-43" id="30055288.s3.e0" ontology_id="GO_0001954" text="positive regulation of cell-matrix adhesion" type="GO"/>
+    <entity charOffset="114-120" id="30055288.s3.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30055288.s3.e0" e2="30055288.s3.e1" id="30055288.s3.p0" relation="true"/>
+  </sentence>
+  <sentence id="30055288.s4" text="Existing research points to the potential use of various positive regulation of cell-matrix adhesion/ephrin members as biomarkers for assessing prognosis and selecting the most suitable thtranscription by RNA polymerase IIpeutic strategies in variable clinical scenarios, also for overcoming drug resistance, in the era of breast cancer heterogeneity">
+    <entity charOffset="57-100" id="30055288.s4.e0" ontology_id="GO_0001954" text="positive regulation of cell-matrix adhesion" type="GO"/>
+    <entity charOffset="188-222" id="30055288.s4.e1" ontology_id="GO_0006366" text="transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="330-336" id="30055288.s4.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30055288.s4.e1" e2="30055288.s4.e2" id="30055288.s4.p0" relation="true"/>
+  </sentence>
+</document>

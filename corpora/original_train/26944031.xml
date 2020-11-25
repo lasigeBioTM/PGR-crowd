@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="26944031">
+  <sentence id="26944031.s0" text="Mosaicism was identified for autosomal dominant (JAG1, COL3A1), autosomal recessive (glycogen metabolic process), and X-linked (PHKA2, PDHA1, OTC, and creatine transmembrane transport) disorders.">
+    <entity charOffset="64-83" id="26944031.s0.e0" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="85-111" id="26944031.s0.e1" ontology_id="GO_0005977" text="glycogen metabolic process" type="GO"/>
+    <entity charOffset="151-183" id="26944031.s0.e2" ontology_id="GO_0015881" text="creatine transmembrane transport" type="GO"/>
+    <pair e1="26944031.s0.e0" e2="26944031.s0.e1" id="26944031.s0.p0" relation="true"/>
+    <pair e1="26944031.s0.e0" e2="26944031.s0.e2" id="26944031.s0.p1" relation="false"/>
+  </sentence>
+</document>

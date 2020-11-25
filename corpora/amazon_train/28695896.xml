@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<document id="28695896">
+  <sentence id="28695896.s0" text="Here, we describe the generation of transgenic, inducible CRISPR-based mouse systems to engineer and study recurrent colon cancer-associated translational initiation-positive regulation of Wnt signaling pathway and PTPRK-positive regulation of Wnt signaling pathway chromosome rearrangements in vivo.">
+    <entity charOffset="123-129" id="28695896.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="141-165" id="28695896.s0.e1" ontology_id="GO_0006413" text="translational initiation" type="GO"/>
+    <entity charOffset="166-210" id="28695896.s0.e2" ontology_id="GO_0030177" text="positive regulation of Wnt signaling pathway" type="GO"/>
+    <entity charOffset="221-265" id="28695896.s0.e3" ontology_id="GO_0030177" text="positive regulation of Wnt signaling pathway" type="GO"/>
+    <pair e1="28695896.s0.e0" e2="28695896.s0.e1" id="28695896.s0.p0" relation="true"/>
+    <pair e1="28695896.s0.e0" e2="28695896.s0.e2" id="28695896.s0.p1" relation="true"/>
+    <pair e1="28695896.s0.e0" e2="28695896.s0.e3" id="28695896.s0.p2" relation="true"/>
+  </sentence>
+  <sentence id="28695896.s1" text="We show that both positive regulation of Wnt signaling pathway and Rspo3 fusion events are sufficient to initiate hyperplasia and tumour development in vivo, without additional cooperating genetic events.">
+    <entity charOffset="18-62" id="28695896.s1.e0" ontology_id="GO_0030177" text="positive regulation of Wnt signaling pathway" type="GO"/>
+    <entity charOffset="130-136" id="28695896.s1.e1" ontology_id="HP_0002664" text="tumour" type="HP"/>
+    <pair e1="28695896.s1.e0" e2="28695896.s1.e1" id="28695896.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="28695896.s2" text="Altogether, our study provides direct evidence that endogenous positive regulation of Wnt signaling pathway and positive regulation of Wnt signaling pathway chromosome rearrangements can initiate and maintain tumour development, and indicate a viable therapeutic window for LGK974 treatment of RSPO-fusion cancers">
+    <entity charOffset="63-107" id="28695896.s2.e0" ontology_id="GO_0030177" text="positive regulation of Wnt signaling pathway" type="GO"/>
+    <entity charOffset="112-156" id="28695896.s2.e1" ontology_id="GO_0030177" text="positive regulation of Wnt signaling pathway" type="GO"/>
+    <entity charOffset="209-215" id="28695896.s2.e2" ontology_id="HP_0002664" text="tumour" type="HP"/>
+    <entity charOffset="306-312" id="28695896.s2.e3" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28695896.s2.e0" e2="28695896.s2.e2" id="28695896.s2.p0" relation="true"/>
+    <pair e1="28695896.s2.e1" e2="28695896.s2.e3" id="28695896.s2.p1" relation="true"/>
+    <pair e1="28695896.s2.e1" e2="28695896.s2.e2" id="28695896.s2.p2" relation="true"/>
+  </sentence>
+</document>

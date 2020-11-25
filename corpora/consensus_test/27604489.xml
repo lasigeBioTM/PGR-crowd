@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="27604489">
+  <sentence id="27604489.s0" text="Mucinous tubular and spindle cell carcinoma (MTSCC) is a relatively rare subtype of renal cell carcinoma (response to hydroperoxide) with distinctive morphologic and cytogenetic features.">
+    <entity charOffset="84-104" id="27604489.s0.e0" ontology_id="HP_0005584" text="renal cell carcinoma" type="HP"/>
+    <entity charOffset="106-131" id="27604489.s0.e1" ontology_id="GO_0033194" text="response to hydroperoxide" type="GO"/>
+  </sentence>
+</document>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="26091610">
+  <sentence id="26091610.s0" text="We generated a transgenic rat strain with a missense mutation in V286L (V286L-TG), in the gene encoding the neuronal nicotinic acetylcholine receptor β2 subunit (response to hypoxia) found in patients with autosomal dominant nocturnal frontal lobe epilepsy (ADNFLE).">
+    <entity charOffset="162-181" id="26091610.s0.e0" ontology_id="GO_0001666" text="response to hypoxia" type="GO"/>
+    <entity charOffset="225-234" id="26091610.s0.e1" ontology_id="HP_0025301" text="nocturnal" type="HP"/>
+    <entity charOffset="248-256" id="26091610.s0.e2" ontology_id="HP_0001250" text="epilepsy" type="HP"/>
+    <pair e1="26091610.s0.e0" e2="26091610.s0.e1" id="26091610.s0.p0" relation="false"/>
+    <pair e1="26091610.s0.e0" e2="26091610.s0.e2" id="26091610.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="26091610.s1" text="This seizure muscle organ development is similar to &amp;quot;paroxysmal arousals&amp;quot; that are observed in human ADNFLE.">
+    <entity charOffset="5-12" id="26091610.s1.e0" ontology_id="HP_0001250" text="seizure" type="HP"/>
+    <entity charOffset="13-37" id="26091610.s1.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+  </sentence>
+</document>

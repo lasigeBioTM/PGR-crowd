@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<document id="23064016">
+  <sentence id="23064016.s0" text="Deficiency of the extracellular matrix molecule morphogenesis of an epithelium, normally expressed by the ureteric bud, leads to bilateral renal agenesis in humans with Fraser syndrome and blebbed (morphogenesis of an epithelium(bl/bl)) epidermis development.">
+    <entity charOffset="48-78" id="23064016.s0.e0" ontology_id="GO_0002009" text="morphogenesis of an epithelium" type="GO"/>
+    <entity charOffset="129-138" id="23064016.s0.e1" ontology_id="HP_0012832" text="bilateral" type="HP"/>
+    <entity charOffset="139-153" id="23064016.s0.e2" ontology_id="HP_0000104" text="renal agenesis" type="HP"/>
+    <entity charOffset="198-228" id="23064016.s0.e3" ontology_id="GO_0002009" text="morphogenesis of an epithelium" type="GO"/>
+    <entity charOffset="237-258" id="23064016.s0.e4" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <pair e1="23064016.s0.e0" e2="23064016.s0.e2" id="23064016.s0.p0" relation="true"/>
+    <pair e1="23064016.s0.e1" e2="23064016.s0.e4" id="23064016.s0.p1" relation="true"/>
+    <pair e1="23064016.s0.e2" e2="23064016.s0.e4" id="23064016.s0.p2" relation="true"/>
+  </sentence>
+  <sentence id="23064016.s1" text="This prevented renal agenesis in morphogenesis of an epithelium(bl/bl) epidermis development, permitting kidney development and postnatal survival.">
+    <entity charOffset="15-29" id="23064016.s1.e0" ontology_id="HP_0000104" text="renal agenesis" type="HP"/>
+    <entity charOffset="33-63" id="23064016.s1.e1" ontology_id="GO_0002009" text="morphogenesis of an epithelium" type="GO"/>
+    <entity charOffset="71-92" id="23064016.s1.e2" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <pair e1="23064016.s1.e0" e2="23064016.s1.e1" id="23064016.s1.p0" relation="true"/>
+    <pair e1="23064016.s1.e0" e2="23064016.s1.e2" id="23064016.s1.p1" relation="true"/>
+  </sentence>
+</document>

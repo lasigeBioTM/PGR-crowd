@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29309307">
+  <sentence id="29309307.s0" text="Our findings open new opportunities for targeted therapy, as tumors with osteoblast differentiation oncogenic activation, and subsequent PTCH1 overexpression, might be sensitive to sonic hedgehog pathway inhibitors">
+    <entity charOffset="61-67" id="29309307.s0.e0" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <entity charOffset="73-99" id="29309307.s0.e1" ontology_id="GO_0001649" text="osteoblast differentiation" type="GO"/>
+    <pair e1="29309307.s0.e0" e2="29309307.s0.e1" id="29309307.s0.p0" relation="true"/>
+  </sentence>
+</document>

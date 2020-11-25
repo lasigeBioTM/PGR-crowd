@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29352327">
+  <sentence id="29352327.s0" text="We show that active cofilin, LIMK1, LIMK2, and regulation of cellular protein metabolic process are overexpressed in human CRC and are associated with tumor progression parameters.">
+    <entity charOffset="47-95" id="29352327.s0.e0" ontology_id="GO_0032268" text="regulation of cellular protein metabolic process" type="GO"/>
+    <entity charOffset="151-156" id="29352327.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29352327.s0.e0" e2="29352327.s0.e1" id="29352327.s0.p0" relation="true"/>
+  </sentence>
+</document>

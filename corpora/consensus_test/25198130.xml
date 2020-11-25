@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="25198130">
+  <sentence id="25198130.s0" text="Here we used an integrative strategy to examine the hypothesis that genetic variants at response to estradiol/2 binding elements may be associated with sexual dimorphism of hepatocellular carcinoma (HCC) risk.">
+    <entity charOffset="88-109" id="25198130.s0.e0" ontology_id="GO_0032355" text="response to estradiol" type="GO"/>
+    <entity charOffset="173-197" id="25198130.s0.e1" ontology_id="HP_0001402" text="hepatocellular carcinoma" type="HP"/>
+    <pair e1="25198130.s0.e0" e2="25198130.s0.e1" id="25198130.s0.p0" relation="false"/>
+  </sentence>
+</document>

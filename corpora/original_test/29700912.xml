@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29700912">
+  <sentence id="29700912.s0" text="In addition, the coexistence of high MACC1 and low positive regulation of DNA binding-H1 expression and tumor budding was associated with short OS (p &amp;lt; 0.001).">
+    <entity charOffset="51-85" id="29700912.s0.e0" ontology_id="GO_0043388" text="positive regulation of DNA binding" type="GO"/>
+    <entity charOffset="104-109" id="29700912.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29700912.s0.e0" e2="29700912.s0.e1" id="29700912.s0.p0" relation="true"/>
+  </sentence>
+</document>

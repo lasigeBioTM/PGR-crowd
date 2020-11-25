@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="30147320">
+  <sentence id="30147320.s0" text="Abnormal prion proteins are responsible for several fatal neurodegenerative diseases in humans and in animals, including Creutzfeldt-Jakob disease (positive regulation of peptidyl-tyrosine phosphorylation), Gerstmann-Sträussler-Scheinker disease, and fatal familial insomnia.">
+    <entity charOffset="58-84" id="30147320.s0.e0" ontology_id="HP_0002180" text="neurodegenerative diseases" type="HP"/>
+    <entity charOffset="148-204" id="30147320.s0.e1" ontology_id="GO_0050731" text="positive regulation of peptidyl-tyrosine phosphorylation" type="GO"/>
+    <pair e1="30147320.s0.e0" e2="30147320.s0.e1" id="30147320.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="30147320.s1" text="In addition, different prion mutations were suggested to play a possible role in additional phenomuscle organ developments, such as Alzheimer's type pathology, spongiform encephalopathy, or frontotemporal dementia.">
+    <entity charOffset="97-121" id="30147320.s1.e0" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="171-185" id="30147320.s1.e1" ontology_id="HP_0001298" text="encephalopathy" type="HP"/>
+    <entity charOffset="190-213" id="30147320.s1.e2" ontology_id="HP_0002145" text="frontotemporal dementia" type="HP"/>
+    <pair e1="30147320.s1.e0" e2="30147320.s1.e1" id="30147320.s1.p0" relation="true"/>
+    <pair e1="30147320.s1.e0" e2="30147320.s1.e2" id="30147320.s1.p1" relation="false"/>
+  </sentence>
+</document>

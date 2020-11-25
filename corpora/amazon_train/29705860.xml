@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="29705860">
+  <sentence id="29705860.s0" text="In 20/23 cases, MDRnegative regulation of gene expression BSI occurred during neutropenia.">
+    <entity charOffset="19-57" id="29705860.s0.e0" ontology_id="GO_0010629" text="negative regulation of gene expression" type="GO"/>
+    <entity charOffset="78-89" id="29705860.s0.e1" ontology_id="HP_0001875" text="neutropenia" type="HP"/>
+  </sentence>
+  <sentence id="29705860.s1" text="MDR rectal colonization occurs in 6.5% of haematological inpatients and predicts a 16% probability of MDRnegative regulation of gene expression BSI, particularly during neutropenia, as well as a higher probability of unfavourable outcomes in positive regulation of cytosolic calcium ion concentration-rel BSIs.">
+    <entity charOffset="105-143" id="29705860.s1.e0" ontology_id="GO_0010629" text="negative regulation of gene expression" type="GO"/>
+    <entity charOffset="169-180" id="29705860.s1.e1" ontology_id="HP_0001875" text="neutropenia" type="HP"/>
+    <entity charOffset="242-300" id="29705860.s1.e2" ontology_id="GO_0007204" text="positive regulation of cytosolic calcium ion concentration" type="GO"/>
+    <pair e1="29705860.s1.e1" e2="29705860.s1.e2" id="29705860.s1.p0" relation="true"/>
+  </sentence>
+</document>

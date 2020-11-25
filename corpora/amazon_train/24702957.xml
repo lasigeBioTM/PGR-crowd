@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="24702957">
+  <sentence id="24702957.s0" text="Here we describe two unrelated individuals with infantile-onset epilepsy and abnormalities of brain morphology, harboring de novo variants that affect adjacent amino acids in a beta-tubulin gene biological_process.">
+    <entity charOffset="64-72" id="24702957.s0.e0" ontology_id="HP_0001250" text="epilepsy" type="HP"/>
+    <entity charOffset="195-213" id="24702957.s0.e1" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <pair e1="24702957.s0.e0" e2="24702957.s0.e1" id="24702957.s0.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<document id="23174333">
+  <sentence id="23174333.s0" text="An array of tumor syndromes caused by complex II-associated gene mutations, in both succinate dehydrogenase and associated accessory factor genes (succinate metabolic process, tricarboxylic acid cycle, tricarboxylic acid cycle, tricarboxylic acid cycle, SDHAF1, SDHAF2), have been identified over the last 12 years and include hereditary paraganglioma-pheochromocytomas, a diverse group of renal cell carcinomas, and a specific subtype of gastrointestinal stromal tumors (GIST).">
+    <entity charOffset="12-17" id="23174333.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="147-174" id="23174333.s0.e1" ontology_id="GO_0006105" text="succinate metabolic process" type="GO"/>
+    <entity charOffset="176-200" id="23174333.s0.e2" ontology_id="GO_0006099" text="tricarboxylic acid cycle" type="GO"/>
+    <entity charOffset="202-226" id="23174333.s0.e3" ontology_id="GO_0006099" text="tricarboxylic acid cycle" type="GO"/>
+    <entity charOffset="228-252" id="23174333.s0.e4" ontology_id="GO_0006099" text="tricarboxylic acid cycle" type="GO"/>
+    <entity charOffset="338-351" id="23174333.s0.e5" ontology_id="HP_0002668" text="paraganglioma" type="HP"/>
+    <entity charOffset="352-369" id="23174333.s0.e6" ontology_id="HP_0002666" text="pheochromocytomas" type="HP"/>
+    <entity charOffset="390-411" id="23174333.s0.e7" ontology_id="HP_0005584" text="renal cell carcinomas" type="HP"/>
+    <pair e1="23174333.s0.e0" e2="23174333.s0.e1" id="23174333.s0.p0" relation="true"/>
+    <pair e1="23174333.s0.e0" e2="23174333.s0.e2" id="23174333.s0.p1" relation="true"/>
+    <pair e1="23174333.s0.e0" e2="23174333.s0.e4" id="23174333.s0.p2" relation="true"/>
+    <pair e1="23174333.s0.e1" e2="23174333.s0.e5" id="23174333.s0.p3" relation="true"/>
+    <pair e1="23174333.s0.e1" e2="23174333.s0.e6" id="23174333.s0.p4" relation="true"/>
+    <pair e1="23174333.s0.e3" e2="23174333.s0.e6" id="23174333.s0.p5" relation="true"/>
+    <pair e1="23174333.s0.e3" e2="23174333.s0.e7" id="23174333.s0.p6" relation="true"/>
+    <pair e1="23174333.s0.e4" e2="23174333.s0.e5" id="23174333.s0.p7" relation="true"/>
+    <pair e1="23174333.s0.e4" e2="23174333.s0.e6" id="23174333.s0.p8" relation="true"/>
+    <pair e1="23174333.s0.e4" e2="23174333.s0.e7" id="23174333.s0.p9" relation="true"/>
+  </sentence>
+</document>

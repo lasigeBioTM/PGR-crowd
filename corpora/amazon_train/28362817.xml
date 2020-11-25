@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<document id="28362817">
+  <sentence id="28362817.s0" text="In trans-ethnic meta-analyses of U4C and UK Biobank data, we found significant associations between breast cancer risk and the expression of chromatin organization (joint p-value: 3.6x10-06) and pyrimidine nucleoside biosynthetic process (p-value: 7.1x10-06) in breast tissue, as well as a suggestive association for ANKLE1 (p-value: 9.3x10-05).">
+    <entity charOffset="107-113" id="28362817.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="141-163" id="28362817.s0.e1" ontology_id="GO_0006325" text="chromatin organization" type="GO"/>
+    <entity charOffset="195-237" id="28362817.s0.e2" ontology_id="GO_0046134" text="pyrimidine nucleoside biosynthetic process" type="GO"/>
+    <pair e1="28362817.s0.e0" e2="28362817.s0.e1" id="28362817.s0.p0" relation="true"/>
+    <pair e1="28362817.s0.e0" e2="28362817.s0.e2" id="28362817.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="28362817.s1" text="While genome-wide association studies (GWAS) have implicated chromatin organization and protein export from nucleus in breast cancer risk, they have not identified the remaining three genes.">
+    <entity charOffset="61-83" id="28362817.s1.e0" ontology_id="GO_0006325" text="chromatin organization" type="GO"/>
+    <entity charOffset="88-115" id="28362817.s1.e1" ontology_id="GO_0006611" text="protein export from nucleus" type="GO"/>
+    <entity charOffset="126-132" id="28362817.s1.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28362817.s1.e0" e2="28362817.s1.e2" id="28362817.s1.p0" relation="true"/>
+    <pair e1="28362817.s1.e1" e2="28362817.s1.e2" id="28362817.s1.p1" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<document id="30256478">
+  <sentence id="30256478.s0" text="In vivo MRI sequences consisted of T&lt;sub&gt;2w&lt;/sub&gt; for tumor localization, T&lt;sub&gt;2w&lt;/sub&gt; * to assess YbHPDO3A biodistribution by exploiting its magnetic susceptibility effect and CEST for glioma L-phenylalanine catabolic processe mapping.">
+    <entity charOffset="188-194" id="30256478.s0.e0" ontology_id="HP_0009733" text="glioma" type="HP"/>
+    <entity charOffset="195-228" id="30256478.s0.e1" ontology_id="GO_0006559" text="L-phenylalanine catabolic process" type="GO"/>
+  </sentence>
+  <sentence id="30256478.s1" text="This study is focused on the application of the YbHPDO3A (ytterbium 1,4,7-triscarboxymethyl-1,4,7,10-tetraazacyclododecane) probe for in vivo glioma L-phenylalanine catabolic processe quantification using chemical exchange saturation transfer (CEST)-MRI and its correlation with tumor metabolism assessed by immunohistochemistry.">
+    <entity charOffset="149-182" id="30256478.s1.e0" ontology_id="GO_0006559" text="L-phenylalanine catabolic process" type="GO"/>
+    <entity charOffset="279-284" id="30256478.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+  </sentence>
+</document>

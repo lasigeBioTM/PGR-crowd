@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30248162">
+  <sentence id="30248162.s0" text="This review goes over recent scientific progress in understanding the molecular mechanisms governing pruritus, the cross-talk between the immune and nervous systems that regulate ubiquitin-dependent protein catabolic process, and central nervous pathways and projections affected by itch.">
+    <entity charOffset="179-224" id="30248162.s0.e0" ontology_id="GO_0006511" text="ubiquitin-dependent protein catabolic process" type="GO"/>
+    <entity charOffset="230-237" id="30248162.s0.e1" ontology_id="HP_0030645" text="central" type="HP"/>
+    <pair e1="30248162.s0.e0" e2="30248162.s0.e1" id="30248162.s0.p0" relation="false"/>
+  </sentence>
+</document>

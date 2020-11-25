@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="29758293">
+  <sentence id="29758293.s0" text="We studied a consanguineous Pakistani family with postnatal microcephaly, orofacial dyskinesia, spastic quadriplegia and, on MRI, cortical atrophy with myelination delay, suggestive of a negative regulation of transcription, DNA-templated-like presentation.">
+    <entity charOffset="74-94" id="29758293.s0.e0" ontology_id="HP_0002310" text="orofacial dyskinesia" type="HP"/>
+    <entity charOffset="96-116" id="29758293.s0.e1" ontology_id="HP_0002510" text="spastic quadriplegia" type="HP"/>
+    <entity charOffset="187-238" id="29758293.s0.e2" ontology_id="GO_0045892" text="negative regulation of transcription, DNA-templated" type="GO"/>
+    <pair e1="29758293.s0.e0" e2="29758293.s0.e2" id="29758293.s0.p0" relation="true"/>
+    <pair e1="29758293.s0.e1" e2="29758293.s0.e2" id="29758293.s0.p1" relation="false"/>
+  </sentence>
+  <sentence id="29758293.s1" text="The regulation of the post-mitotic neural survival activity of TLE1 depends critically on an interaction with negative regulation of transcription, DNA-templated, a gene shown to be involved in a postnatal microcephaly syndrome.">
+    <entity charOffset="110-161" id="29758293.s1.e0" ontology_id="GO_0045892" text="negative regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="206-218" id="29758293.s1.e1" ontology_id="HP_0000252" text="microcephaly" type="HP"/>
+    <pair e1="29758293.s1.e0" e2="29758293.s1.e1" id="29758293.s1.p0" relation="true"/>
+  </sentence>
+</document>

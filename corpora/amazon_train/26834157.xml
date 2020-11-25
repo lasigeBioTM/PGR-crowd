@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="26834157">
+  <sentence id="26834157.s0" text="JAK2V617F(+) myeloproliferative neoplasms (proteolysiss) frequently progress into leukemias, but the fcoenzyme A biosynthetic processors driving this process are not understood.">
+    <entity charOffset="32-41" id="26834157.s0.e0" ontology_id="HP_0002664" text="neoplasms" type="HP"/>
+    <entity charOffset="43-54" id="26834157.s0.e1" ontology_id="GO_0006508" text="proteolysis" type="GO"/>
+    <entity charOffset="102-133" id="26834157.s0.e2" ontology_id="GO_0015937" text="coenzyme A biosynthetic process" type="GO"/>
+  </sentence>
+</document>

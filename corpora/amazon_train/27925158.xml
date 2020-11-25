@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<document id="27925158">
+  <sentence id="27925158.s0" text="The short-rib polydactyly syndromes (muscle contractionS) are autosomal recessively inherited, genetically heterogeneous skeletal ciliopathies.">
+    <entity charOffset="14-25" id="27925158.s0.e0" ontology_id="HP_0010442" text="polydactyly" type="HP"/>
+    <entity charOffset="37-55" id="27925158.s0.e1" ontology_id="GO_0006936" text="muscle contraction" type="GO"/>
+    <entity charOffset="107-120" id="27925158.s0.e2" ontology_id="HP_0001425" text="heterogeneous" type="HP"/>
+    <pair e1="27925158.s0.e1" e2="27925158.s0.e2" id="27925158.s0.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="30442903">
+  <sentence id="30442903.s0" text="However, no study has investigated the relationship between androgen catabolic process in living brains and personality negative regulation of transcription by RNA polymerase II including aggression.">
+    <entity charOffset="60-86" id="30442903.s0.e0" ontology_id="GO_0006710" text="androgen catabolic process" type="GO"/>
+    <entity charOffset="120-177" id="30442903.s0.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="188-198" id="30442903.s0.e2" ontology_id="HP_0000718" text="aggression" type="HP"/>
+  </sentence>
+  <sentence id="30442903.s1" text="Females showed associations between aromatase levels in subcortical regions, such as the amygdala and supraoptic nucleus of the hypothalamus, and personality negative regulation of transcription by RNA polymerase II such as aggression, novelty seeking, and self-transcendence.">
+    <entity charOffset="158-215" id="30442903.s1.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="224-234" id="30442903.s1.e1" ontology_id="HP_0000718" text="aggression" type="HP"/>
+  </sentence>
+</document>

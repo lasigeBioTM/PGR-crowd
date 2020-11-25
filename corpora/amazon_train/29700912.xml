@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<document id="29700912">
+  <sentence id="29700912.s0" text="The tumor-node-metastasis (regulation of transcription by RNA polymerase III) classification, the presence of a mucinous component, and signet ring cells are well-known criteria for identifying patients at a high risk for recurrence and determining the therapeutic approach for early-stage colon cancer (eCC).">
+    <entity charOffset="4-9" id="29700912.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="27-76" id="29700912.s0.e1" ontology_id="GO_0006359" text="regulation of transcription by RNA polymerase III" type="GO"/>
+    <entity charOffset="296-302" id="29700912.s0.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29700912.s0.e1" e2="29700912.s0.e2" id="29700912.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29700912.s1" text="The aims of the present study were to evaluate the relation of dysregulated positive regulation of transcription by RNA polymerase II, c-apoptotic process, and positive regulation of DNA binding-H1 expression with the histopathological features of tumors in recurrence formation in eCC cases.">
+    <entity charOffset="76-133" id="29700912.s1.e0" ontology_id="GO_0045944" text="positive regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="137-154" id="29700912.s1.e1" ontology_id="GO_0006915" text="apoptotic process" type="GO"/>
+    <entity charOffset="160-194" id="29700912.s1.e2" ontology_id="GO_0043388" text="positive regulation of DNA binding" type="GO"/>
+    <entity charOffset="248-253" id="29700912.s1.e3" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29700912.s1.e0" e2="29700912.s1.e3" id="29700912.s1.p0" relation="true"/>
+    <pair e1="29700912.s1.e1" e2="29700912.s1.e3" id="29700912.s1.p1" relation="true"/>
+    <pair e1="29700912.s1.e2" e2="29700912.s1.e3" id="29700912.s1.p2" relation="true"/>
+  </sentence>
+  <sentence id="29700912.s2" text="The relationship between the altered expression of positive regulation of transcription by RNA polymerase II, c-apoptotic process, and positive regulation of DNA binding-negative regulation of cell migration and pathological microenvironmental features, including the presence of tumor budding and desmoplasia, were assessed.">
+    <entity charOffset="51-108" id="29700912.s2.e0" ontology_id="GO_0045944" text="positive regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="112-129" id="29700912.s2.e1" ontology_id="GO_0006915" text="apoptotic process" type="GO"/>
+    <entity charOffset="135-169" id="29700912.s2.e2" ontology_id="GO_0043388" text="positive regulation of DNA binding" type="GO"/>
+    <entity charOffset="170-207" id="29700912.s2.e3" ontology_id="GO_0030336" text="negative regulation of cell migration" type="GO"/>
+    <entity charOffset="280-285" id="29700912.s2.e4" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29700912.s2.e0" e2="29700912.s2.e4" id="29700912.s2.p0" relation="true"/>
+    <pair e1="29700912.s2.e1" e2="29700912.s2.e4" id="29700912.s2.p1" relation="true"/>
+    <pair e1="29700912.s2.e3" e2="29700912.s2.e4" id="29700912.s2.p2" relation="true"/>
+  </sentence>
+  <sentence id="29700912.s3" text="In addition, the coexistence of high positive regulation of transcription by RNA polymerase II and low positive regulation of DNA binding-H1 expression and tumor budding was associated with short OS (p &amp;lt; 0.001).">
+    <entity charOffset="37-94" id="29700912.s3.e0" ontology_id="GO_0045944" text="positive regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="103-137" id="29700912.s3.e1" ontology_id="GO_0043388" text="positive regulation of DNA binding" type="GO"/>
+    <entity charOffset="156-161" id="29700912.s3.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29700912.s3.e0" e2="29700912.s3.e2" id="29700912.s3.p0" relation="true"/>
+    <pair e1="29700912.s3.e1" e2="29700912.s3.e2" id="29700912.s3.p1" relation="true"/>
+  </sentence>
+  <sentence id="29700912.s4" text="We suggest that the combination of reduced NM23-negative regulation of cell migration, induced MACC1, and the presence of tumor budding are promising biomarkers for the prediction of recurrence and may somatic diversification of immunoglobulins the stratification of patients with stage II colon cancer for adjuvant chemotherapy">
+    <entity charOffset="48-85" id="29700912.s4.e0" ontology_id="GO_0030336" text="negative regulation of cell migration" type="GO"/>
+    <entity charOffset="122-127" id="29700912.s4.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="202-244" id="29700912.s4.e2" ontology_id="GO_0016445" text="somatic diversification of immunoglobulins" type="GO"/>
+    <entity charOffset="296-302" id="29700912.s4.e3" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29700912.s4.e0" e2="29700912.s4.e1" id="29700912.s4.p0" relation="true"/>
+    <pair e1="29700912.s4.e0" e2="29700912.s4.e3" id="29700912.s4.p1" relation="false"/>
+  </sentence>
+</document>

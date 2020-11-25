@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28373572">
+  <sentence id="28373572.s0" text="The K&lt;sup&gt;+&lt;/sup&gt; channel cellular response to drug has been proposed as a tumor suppressor in colorectal cancer (CRC).">
+    <entity charOffset="26-51" id="28373572.s0.e0" ontology_id="GO_0035690" text="cellular response to drug" type="GO"/>
+    <entity charOffset="75-80" id="28373572.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28373572.s0.e0" e2="28373572.s0.e1" id="28373572.s0.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<document id="30057031">
+  <sentence id="30057031.s0" text="Five individuals who carry negative regulation of transcription by RNA polymerase II nonsense variants resulting in a premature lysosome localization codon display severe neurodevelopmental regression, hypotonia, progressive ataxia, seizures, and a lack of coordination.">
+    <entity charOffset="27-84" id="30057031.s0.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="128-149" id="30057031.s0.e1" ontology_id="GO_0032418" text="lysosome localization" type="GO"/>
+    <entity charOffset="171-200" id="30057031.s0.e2" ontology_id="HP_0002376" text="neurodevelopmental regression" type="HP"/>
+    <entity charOffset="213-224" id="30057031.s0.e3" ontology_id="HP_0003676" text="progressive" type="HP"/>
+    <entity charOffset="225-231" id="30057031.s0.e4" ontology_id="HP_0001251" text="ataxia" type="HP"/>
+    <entity charOffset="233-241" id="30057031.s0.e5" ontology_id="HP_0001250" text="seizures" type="HP"/>
+    <pair e1="30057031.s0.e0" e2="30057031.s0.e2" id="30057031.s0.p0" relation="true"/>
+    <pair e1="30057031.s0.e0" e2="30057031.s0.e3" id="30057031.s0.p1" relation="true"/>
+    <pair e1="30057031.s0.e0" e2="30057031.s0.e4" id="30057031.s0.p2" relation="true"/>
+    <pair e1="30057031.s0.e0" e2="30057031.s0.e5" id="30057031.s0.p3" relation="true"/>
+    <pair e1="30057031.s0.e1" e2="30057031.s0.e3" id="30057031.s0.p4" relation="false"/>
+    <pair e1="30057031.s0.e1" e2="30057031.s0.e5" id="30057031.s0.p5" relation="false"/>
+  </sentence>
+</document>

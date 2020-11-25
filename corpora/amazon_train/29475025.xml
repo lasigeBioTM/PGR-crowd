@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29475025">
+  <sentence id="29475025.s0" text="In the second example, Mdx mice, a model for Duchenne muscular dystrophy, were intravenously injected with AAV8-extracellular matrix organization.">
+    <entity charOffset="54-72" id="29475025.s0.e0" ontology_id="HP_0003560" text="muscular dystrophy" type="HP"/>
+    <entity charOffset="112-145" id="29475025.s0.e1" ontology_id="GO_0030198" text="extracellular matrix organization" type="GO"/>
+    <pair e1="29475025.s0.e0" e2="29475025.s0.e1" id="29475025.s0.p0" relation="true"/>
+  </sentence>
+</document>

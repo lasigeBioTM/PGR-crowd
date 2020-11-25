@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="30541997">
+  <sentence id="30541997.s0" text="Primary hyperoxaluria muscle organ development 1 (PH1), a rare autosomal recessive disorder, is characterized by renal stones, nephrocalcinosis, and chronic kidney disease.">
+    <entity charOffset="8-21" id="30541997.s0.e0" ontology_id="HP_0003159" text="hyperoxaluria" type="HP"/>
+    <entity charOffset="22-46" id="30541997.s0.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="113-125" id="30541997.s0.e2" ontology_id="HP_0000787" text="renal stones" type="HP"/>
+    <entity charOffset="127-143" id="30541997.s0.e3" ontology_id="HP_0000121" text="nephrocalcinosis" type="HP"/>
+    <pair e1="30541997.s0.e0" e2="30541997.s0.e1" id="30541997.s0.p0" relation="false"/>
+    <pair e1="30541997.s0.e1" e2="30541997.s0.e2" id="30541997.s0.p1" relation="false"/>
+    <pair e1="30541997.s0.e1" e2="30541997.s0.e3" id="30541997.s0.p2" relation="false"/>
+  </sentence>
+</document>

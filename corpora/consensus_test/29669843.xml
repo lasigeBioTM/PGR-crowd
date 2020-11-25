@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="29669843">
+  <sentence id="29669843.s0" text="However, there was no research elucidating the genetic association of entire positive regulation of cholesterol transport pathway with ovarian cancer susceptibility.">
+    <entity charOffset="77-121" id="29669843.s0.e0" ontology_id="GO_0032376" text="positive regulation of cholesterol transport" type="GO"/>
+    <entity charOffset="143-149" id="29669843.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29669843.s0.e0" e2="29669843.s0.e1" id="29669843.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="29669843.s1" text="Therefore, we conducted genotyping for 17 SNPs of six NER core genes (&lt;i&gt;XPA, XPC, XPG, nucleotide-excision repair, ERCC2&lt;/i&gt;, and &lt;i&gt;ERCC4&lt;/i&gt;) in 89 ovarian cancer cases and 356 cancer-free controls.">
+    <entity charOffset="88-114" id="29669843.s1.e0" ontology_id="GO_0006289" text="nucleotide-excision repair" type="GO"/>
+    <entity charOffset="159-165" id="29669843.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29669843.s1.e0" e2="29669843.s1.e1" id="29669843.s1.p0" relation="true"/>
+  </sentence>
+</document>

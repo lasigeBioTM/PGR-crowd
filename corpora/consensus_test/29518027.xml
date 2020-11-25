@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29518027">
+  <sentence id="29518027.s0" text="There were no statistically significant associations between phospho-positive regulation of transcription, DNA-templated expression and tumor grade, presence of concurrent carcinoma in situ or hydronephrosis, or pN status.">
+    <entity charOffset="69-120" id="29518027.s0.e0" ontology_id="GO_0045893" text="positive regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="136-141" id="29518027.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29518027.s0.e0" e2="29518027.s0.e1" id="29518027.s0.p0" relation="true"/>
+  </sentence>
+</document>

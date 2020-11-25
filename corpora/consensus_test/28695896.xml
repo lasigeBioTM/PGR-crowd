@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="28695896">
+  <sentence id="28695896.s0" text="Altogether, our study provides direct evidence that endogenous positive regulation of Wnt signaling pathway and Rspo3 chromosome rearrangements can initiate and maintain tumour development, and indicate a viable therapeutic window for LGK974 treatment of RSPO-fusion cancers">
+    <entity charOffset="63-107" id="28695896.s0.e0" ontology_id="GO_0030177" text="positive regulation of Wnt signaling pathway" type="GO"/>
+    <entity charOffset="267-273" id="28695896.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28695896.s0.e0" e2="28695896.s0.e1" id="28695896.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28695896.s1" text="We show that both Rspo2 and positive regulation of Wnt signaling pathway fusion events are sufficient to initiate hyperplasia and tumour development in vivo, without additional cooperating genetic events.">
+    <entity charOffset="28-72" id="28695896.s1.e0" ontology_id="GO_0030177" text="positive regulation of Wnt signaling pathway" type="GO"/>
+    <entity charOffset="130-136" id="28695896.s1.e1" ontology_id="HP_0002664" text="tumour" type="HP"/>
+    <pair e1="28695896.s1.e0" e2="28695896.s1.e1" id="28695896.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="28695896.s2" text="Here, we describe the generation of transgenic, inducible CRISPR-based mouse systems to engineer and study recurrent colon cancer-associated EIF3E-RSPO2 and protein dephosphorylation-RSPO3 chromosome rearrangements in vivo.">
+    <entity charOffset="123-129" id="28695896.s2.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="157-182" id="28695896.s2.e1" ontology_id="GO_0006470" text="protein dephosphorylation" type="GO"/>
+    <pair e1="28695896.s2.e0" e2="28695896.s2.e1" id="28695896.s2.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="21565611">
+  <sentence id="21565611.s0" text="Nephronophthisis (NPHP), Joubert (JBTS), and Meckel-Gruber (MKS) syndromes are autosomal-recessive ciliopathies presenting with cystic kidneys, retinal degeneration, and cerebellar/neural centrosome cycle malformation.">
+    <entity charOffset="144-164" id="21565611.s0.e0" ontology_id="HP_0000546" text="retinal degeneration" type="HP"/>
+    <entity charOffset="188-204" id="21565611.s0.e1" ontology_id="GO_0007098" text="centrosome cycle" type="GO"/>
+  </sentence>
+</document>

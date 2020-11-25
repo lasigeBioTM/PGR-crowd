@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="26033187">
+  <sentence id="26033187.s0" text="regulation of signaling receptor activity may enhance the migratory and invasive capabilities of endometrial tumor cells by the phosphorylation of ERK1/2, Akt and p38 molecules.">
+    <entity charOffset="0-41" id="26033187.s0.e0" ontology_id="GO_0010469" text="regulation of signaling receptor activity" type="GO"/>
+    <entity charOffset="109-114" id="26033187.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="26033187.s0.e0" e2="26033187.s0.e1" id="26033187.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="26033187.s1" text="regulation of signaling receptor activity is a dysregulated gene involved in the tumorigenesis, bio-pathological features and outcomes of EEC. uPA may be a potential molecule and target for the detection and treatment of EEC.">
+    <entity charOffset="0-41" id="26033187.s1.e0" ontology_id="GO_0010469" text="regulation of signaling receptor activity" type="GO"/>
+    <entity charOffset="81-86" id="26033187.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="26033187.s1.e0" e2="26033187.s1.e1" id="26033187.s1.p0" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29108898">
+  <sentence id="29108898.s0" text="In this review article, we summarize the discovery of pyrimidine nucleoside metabolic process and the potential molecular mechanisms of TYMP involved in the development of various diseases, especially cardiovascular diseases.">
+    <entity charOffset="54-93" id="29108898.s0.e0" ontology_id="GO_0006213" text="pyrimidine nucleoside metabolic process" type="GO"/>
+    <entity charOffset="201-224" id="29108898.s0.e1" ontology_id="HP_0001626" text="cardiovascular diseases" type="HP"/>
+    <pair e1="29108898.s0.e0" e2="29108898.s0.e1" id="29108898.s0.p0" relation="false"/>
+  </sentence>
+</document>

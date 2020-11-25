@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="27206021">
+  <sentence id="27206021.s0" text="Main complications were due to anemia and ineffective erythropoiesis [osteoporosis (8/9, 89%), cholelithiasis (21/30, 70%), pulmonary arterial hypertension (L-phenylalanine catabolic process) (6/25, 24%)] and iron overload [hypothyroidism (9/24, 38%), and diabetes mellitus (6/32, 19%)].">
+    <entity charOffset="124-155" id="27206021.s0.e0" ontology_id="HP_0002092" text="pulmonary arterial hypertension" type="HP"/>
+    <entity charOffset="157-190" id="27206021.s0.e1" ontology_id="GO_0006559" text="L-phenylalanine catabolic process" type="GO"/>
+    <entity charOffset="224-238" id="27206021.s0.e2" ontology_id="HP_0000821" text="hypothyroidism" type="HP"/>
+    <pair e1="27206021.s0.e0" e2="27206021.s0.e1" id="27206021.s0.p0" relation="false"/>
+    <pair e1="27206021.s0.e1" e2="27206021.s0.e2" id="27206021.s0.p1" relation="false"/>
+  </sentence>
+  <sentence id="27206021.s1" text="Congenital dyserythropoietic anemia muscle organ development I (CDAI) is a rare autosomal recessive disease characterized by macrocytic anemia, ineffective erythropoiesis, and secondary hemochromatosis.">
+    <entity charOffset="36-60" id="27206021.s1.e0" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="144-170" id="27206021.s1.e1" ontology_id="HP_0010972" text="ineffective erythropoiesis" type="HP"/>
+  </sentence>
+</document>

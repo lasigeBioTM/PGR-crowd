@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27380241">
+  <sentence id="27380241.s0" text="These disorders include cancer, bipolar disorder, schizophrenia, autism, Cri-du-phosphatidylcholine biosynthetic process syndrome, myopia, cortical cataract-linked Alzheimer's disease, and infectious diseases.">
+    <entity charOffset="32-48" id="27380241.s0.e0" ontology_id="HP_0007302" text="bipolar disorder" type="HP"/>
+    <entity charOffset="80-120" id="27380241.s0.e1" ontology_id="GO_0006656" text="phosphatidylcholine biosynthetic process" type="GO"/>
+    <entity charOffset="131-137" id="27380241.s0.e2" ontology_id="HP_0000545" text="myopia" type="HP"/>
+  </sentence>
+</document>

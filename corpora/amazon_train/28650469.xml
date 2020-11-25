@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<document id="28650469">
+  <sentence id="28650469.s0" text="Sonic Hedgehog (positive regulation of cell proliferation) signaling at primary cilia drives the proliferation and progression of a subset of medulloblastomas, the most common malignant paediatric brain tumor.">
+    <entity charOffset="16-57" id="28650469.s0.e0" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <entity charOffset="142-158" id="28650469.s0.e1" ontology_id="HP_0002885" text="medulloblastomas" type="HP"/>
+    <pair e1="28650469.s0.e0" e2="28650469.s0.e1" id="28650469.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28650469.s1" text="However, the role protein processing involved in protein targeting to mitochondrion plays in cancer is unknown and the contribution of peptide cross-linking-kinase signaling to cilia function is little characterized.">
+    <entity charOffset="18-83" id="28650469.s1.e0" ontology_id="GO_0006627" text="protein processing involved in protein targeting to mitochondrion" type="GO"/>
+    <entity charOffset="93-99" id="28650469.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="135-156" id="28650469.s1.e2" ontology_id="GO_0018149" text="peptide cross-linking" type="GO"/>
+  </sentence>
+  <sentence id="28650469.s2" text="Here, we reveal protein processing involved in protein targeting to mitochondrion promotes positive regulation of cell proliferation signaling in SHH medulloblastoma by negatively regulating a cilia-compartmentalized peptide cross-linking-kinase signaling axis that maintains primary cilia on tumor cells.">
+    <entity charOffset="16-81" id="28650469.s2.e0" ontology_id="GO_0006627" text="protein processing involved in protein targeting to mitochondrion" type="GO"/>
+    <entity charOffset="91-132" id="28650469.s2.e1" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <entity charOffset="150-165" id="28650469.s2.e2" ontology_id="HP_0002885" text="medulloblastoma" type="HP"/>
+    <entity charOffset="217-238" id="28650469.s2.e3" ontology_id="GO_0018149" text="peptide cross-linking" type="GO"/>
+    <entity charOffset="293-298" id="28650469.s2.e4" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28650469.s2.e0" e2="28650469.s2.e4" id="28650469.s2.p0" relation="true"/>
+    <pair e1="28650469.s2.e0" e2="28650469.s2.e2" id="28650469.s2.p1" relation="true"/>
+    <pair e1="28650469.s2.e1" e2="28650469.s2.e2" id="28650469.s2.p2" relation="true"/>
+    <pair e1="28650469.s2.e2" e2="28650469.s2.e3" id="28650469.s2.p3" relation="true"/>
+    <pair e1="28650469.s2.e3" e2="28650469.s2.e4" id="28650469.s2.p4" relation="true"/>
+  </sentence>
+  <sentence id="28650469.s3" text="Conditional deletion of protein processing involved in protein targeting to mitochondrion in a murine model of constitutively active Smoothened-driven medulloblastoma slowed tumor progression, suppressed cell proliferation, reduced positive regulation of cell proliferation signaling and promoted tumor cell cilia loss.">
+    <entity charOffset="24-89" id="28650469.s3.e0" ontology_id="GO_0006627" text="protein processing involved in protein targeting to mitochondrion" type="GO"/>
+    <entity charOffset="151-166" id="28650469.s3.e1" ontology_id="HP_0002885" text="medulloblastoma" type="HP"/>
+    <entity charOffset="174-179" id="28650469.s3.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="232-273" id="28650469.s3.e3" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <pair e1="28650469.s3.e0" e2="28650469.s3.e2" id="28650469.s3.p0" relation="true"/>
+    <pair e1="28650469.s3.e2" e2="28650469.s3.e3" id="28650469.s3.p1" relation="true"/>
+  </sentence>
+  <sentence id="28650469.s4" text="The number of PtdIns(3,4,5)P&lt;sub&gt;3&lt;/sub&gt;/pAKT/pGSK3β-positive cilia was increased in cultured protein processing involved in protein targeting to mitochondrion-null tumor cells relative to controls.">
+    <entity charOffset="94-159" id="28650469.s4.e0" ontology_id="GO_0006627" text="protein processing involved in protein targeting to mitochondrion" type="GO"/>
+    <entity charOffset="165-170" id="28650469.s4.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28650469.s4.e0" e2="28650469.s4.e1" id="28650469.s4.p0" relation="true"/>
+  </sentence>
+  <sentence id="28650469.s5" text="peptide cross-linking-kinase inhibition or expression of wild-type, but not catalytically inactive HA-INPP5E partially rescued cilia loss in protein processing involved in protein targeting to mitochondrion-null tumor cells in vitro.">
+    <entity charOffset="0-21" id="28650469.s5.e0" ontology_id="GO_0018149" text="peptide cross-linking" type="GO"/>
+    <entity charOffset="141-206" id="28650469.s5.e1" ontology_id="GO_0006627" text="protein processing involved in protein targeting to mitochondrion" type="GO"/>
+    <entity charOffset="212-217" id="28650469.s5.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28650469.s5.e0" e2="28650469.s5.e2" id="28650469.s5.p0" relation="true"/>
+    <pair e1="28650469.s5.e1" e2="28650469.s5.e2" id="28650469.s5.p1" relation="true"/>
+  </sentence>
+  <sentence id="28650469.s6" text="protein processing involved in protein targeting to mitochondrion mRNA and copy number were reduced in human positive regulation of cell proliferation medulloblastoma compared to other molecular subtypes and consistent with the murine model, reduced INPP5E was associated with improved overall survival.">
+    <entity charOffset="0-65" id="28650469.s6.e0" ontology_id="GO_0006627" text="protein processing involved in protein targeting to mitochondrion" type="GO"/>
+    <entity charOffset="109-150" id="28650469.s6.e1" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <entity charOffset="151-166" id="28650469.s6.e2" ontology_id="HP_0002885" text="medulloblastoma" type="HP"/>
+    <pair e1="28650469.s6.e0" e2="28650469.s6.e2" id="28650469.s6.p0" relation="true"/>
+    <pair e1="28650469.s6.e1" e2="28650469.s6.e2" id="28650469.s6.p1" relation="true"/>
+  </sentence>
+  <sentence id="28650469.s7" text="Therefore our study identifies a compartmentalized PtdIns(3,4,5)P&lt;sub&gt;3&lt;/sub&gt;/AKT/GSK3β signaling axis at cilia in positive regulation of cell proliferation-dependent medulloblastoma that is regulated by protein processing involved in protein targeting to mitochondrion to maintain tumor cell cilia, promote SHH signaling and thereby medulloblastoma progression">
+    <entity charOffset="115-156" id="28650469.s7.e0" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <entity charOffset="167-182" id="28650469.s7.e1" ontology_id="HP_0002885" text="medulloblastoma" type="HP"/>
+    <entity charOffset="204-269" id="28650469.s7.e2" ontology_id="GO_0006627" text="protein processing involved in protein targeting to mitochondrion" type="GO"/>
+    <entity charOffset="282-287" id="28650469.s7.e3" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28650469.s7.e1" e2="28650469.s7.e2" id="28650469.s7.p0" relation="true"/>
+  </sentence>
+</document>

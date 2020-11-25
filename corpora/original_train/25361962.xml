@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="25361962">
+  <sentence id="25361962.s0" text="Jeune asphyxiating thoracic dystrophy (JATD) is a skeletal dysplasia characterized by a small thoracic biological_process and a range of skeletal and extra-skeletal anomalies.">
+    <entity charOffset="50-68" id="25361962.s0.e0" ontology_id="HP_0002652" text="skeletal dysplasia" type="HP"/>
+    <entity charOffset="103-121" id="25361962.s0.e1" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <pair e1="25361962.s0.e0" e2="25361962.s0.e1" id="25361962.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="25361962.s1" text="Inhibition of the positive regulation of centriole elongation ortholog in zebrafish produced pleiotropic phenotypes characteristic of cilia defects including abnormal body curvature, hydrocephalus, otolith defects and abnormal renal, head and craniofacial development.">
+    <entity charOffset="18-61" id="25361962.s1.e0" ontology_id="GO_1903724" text="positive regulation of centriole elongation" type="GO"/>
+    <entity charOffset="183-196" id="25361962.s1.e1" ontology_id="HP_0000238" text="hydrocephalus" type="HP"/>
+    <pair e1="25361962.s1.e0" e2="25361962.s1.e1" id="25361962.s1.p0" relation="true"/>
+  </sentence>
+</document>

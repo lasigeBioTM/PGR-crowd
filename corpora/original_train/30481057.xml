@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="30481057">
+  <sentence id="30481057.s0" text="Pathogenic mutations have been identified in the nervous system development (nervous system development) and visual perception (visual perception) genes and are linked to Mohr-Tranebjærg syndrome and dilated cardiomyopathy syndrome (with and without ataxia), respectively.">
+    <entity charOffset="49-75" id="30481057.s0.e0" ontology_id="GO_0007399" text="nervous system development" type="GO"/>
+    <entity charOffset="77-103" id="30481057.s0.e1" ontology_id="GO_0007399" text="nervous system development" type="GO"/>
+    <entity charOffset="109-126" id="30481057.s0.e2" ontology_id="GO_0007601" text="visual perception" type="GO"/>
+    <entity charOffset="128-145" id="30481057.s0.e3" ontology_id="GO_0007601" text="visual perception" type="GO"/>
+    <entity charOffset="250-256" id="30481057.s0.e4" ontology_id="HP_0001251" text="ataxia" type="HP"/>
+    <pair e1="30481057.s0.e0" e2="30481057.s0.e4" id="30481057.s0.p0" relation="false"/>
+    <pair e1="30481057.s0.e1" e2="30481057.s0.e4" id="30481057.s0.p1" relation="false"/>
+    <pair e1="30481057.s0.e2" e2="30481057.s0.e4" id="30481057.s0.p2" relation="true"/>
+    <pair e1="30481057.s0.e3" e2="30481057.s0.e4" id="30481057.s0.p3" relation="true"/>
+  </sentence>
+</document>

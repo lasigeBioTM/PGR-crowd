@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="29372690">
+  <sentence id="29372690.s0" text="We have revealed significant association of positive regulation of cell proliferation and cellular response to mechanical stimulus polymorphisms with breast cancer.">
+    <entity charOffset="44-85" id="29372690.s0.e0" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <entity charOffset="90-130" id="29372690.s0.e1" ontology_id="GO_0071260" text="cellular response to mechanical stimulus" type="GO"/>
+    <entity charOffset="157-163" id="29372690.s0.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29372690.s0.e0" e2="29372690.s0.e2" id="29372690.s0.p0" relation="true"/>
+    <pair e1="29372690.s0.e1" e2="29372690.s0.e2" id="29372690.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="29372690.s1" text="The Random Forest algorithm selected FGFR2, cellular response to mechanical stimulus and age as important breast cancer predictors.">
+    <entity charOffset="44-84" id="29372690.s1.e0" ontology_id="GO_0071260" text="cellular response to mechanical stimulus" type="GO"/>
+    <entity charOffset="113-119" id="29372690.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29372690.s1.e0" e2="29372690.s1.e1" id="29372690.s1.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="30333494">
+  <sentence id="30333494.s0" text="In vivo, negative regulation of nitric oxide mediated signal transduction is expressed in the stroma of solid tumours and is routinely detectable in peripheral blood of cancer patients after chemotherapy.">
+    <entity charOffset="9-73" id="30333494.s0.e0" ontology_id="GO_0010751" text="negative regulation of nitric oxide mediated signal transduction" type="GO"/>
+    <entity charOffset="110-116" id="30333494.s0.e1" ontology_id="HP_0002664" text="tumour" type="HP"/>
+    <pair e1="30333494.s0.e0" e2="30333494.s0.e1" id="30333494.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="30333494.s1" text="Strikingly, negative regulation of nitric oxide mediated signal transduction reprograms the expression profile of cancer cells, causing prominent epithelial-endothelial transition (EET), a phenotypic switch mediated by EGFR signaling but hitherto rarely reported for a SASP factor.">
+    <entity charOffset="12-76" id="30333494.s1.e0" ontology_id="GO_0010751" text="negative regulation of nitric oxide mediated signal transduction" type="GO"/>
+    <entity charOffset="114-120" id="30333494.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30333494.s1.e0" e2="30333494.s1.e1" id="30333494.s1.p0" relation="true"/>
+  </sentence>
+</document>

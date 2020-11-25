@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<document id="26642364">
+  <sentence id="26642364.s0" text="Here, we have described a homozygous missense variant (c.602C&amp;gt;T, p.S201F) in epithelial cell-cell adhesion, identified by whole-exome sequencing, in a family of 4 with cardiac arrhythmia and limb-girdle muscular dystrophy (LGMD).">
+    <entity charOffset="80-109" id="26642364.s0.e0" ontology_id="GO_0090136" text="epithelial cell-cell adhesion" type="GO"/>
+    <entity charOffset="171-189" id="26642364.s0.e1" ontology_id="HP_0011675" text="cardiac arrhythmia" type="HP"/>
+    <pair e1="26642364.s0.e0" e2="26642364.s0.e1" id="26642364.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="26642364.s1" text="Our study therefore identifies epithelial cell-cell adhesion as a disease gene causing a very rare autosomal recessive cardiac arrhythmia and LGMD, expanding the genetic causes of this heterogeneous group of inherited rare diseases">
+    <entity charOffset="31-60" id="26642364.s1.e0" ontology_id="GO_0090136" text="epithelial cell-cell adhesion" type="GO"/>
+    <entity charOffset="99-118" id="26642364.s1.e1" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="119-137" id="26642364.s1.e2" ontology_id="HP_0011675" text="cardiac arrhythmia" type="HP"/>
+    <entity charOffset="185-198" id="26642364.s1.e3" ontology_id="HP_0001425" text="heterogeneous" type="HP"/>
+    <pair e1="26642364.s1.e0" e2="26642364.s1.e1" id="26642364.s1.p0" relation="true"/>
+    <pair e1="26642364.s1.e0" e2="26642364.s1.e2" id="26642364.s1.p1" relation="true"/>
+    <pair e1="26642364.s1.e0" e2="26642364.s1.e3" id="26642364.s1.p2" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="29351440">
+  <sentence id="29351440.s0" text="Previously, we demonstrated that several common pathological gene regulatory programs such as innate inflammatory and profibrotic transcriptional networks were shared by intracellular protein transport and heart failure.">
+    <entity charOffset="170-201" id="29351440.s0.e0" ontology_id="GO_0006886" text="intracellular protein transport" type="GO"/>
+    <entity charOffset="206-219" id="29351440.s0.e1" ontology_id="HP_0001635" text="heart failure" type="HP"/>
+  </sentence>
+</document>

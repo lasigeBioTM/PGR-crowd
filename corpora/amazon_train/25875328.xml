@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="25875328">
+  <sentence id="25875328.s0" text="Mutations in the coumarin metabolic process gene have been identified in patients with temporal lobe epilepsy and febrile seizures.">
+    <entity charOffset="17-43" id="25875328.s0.e0" ontology_id="GO_0009804" text="coumarin metabolic process" type="GO"/>
+    <entity charOffset="101-109" id="25875328.s0.e1" ontology_id="HP_0001250" text="epilepsy" type="HP"/>
+    <pair e1="25875328.s0.e0" e2="25875328.s0.e1" id="25875328.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="25875328.s1" text="In the present study, we screened for coumarin metabolic process mutations in patients with juvenile myoclonic epilepsy and identified two novel missense mutations: Arg36His and Asn271Ser.">
+    <entity charOffset="38-64" id="25875328.s1.e0" ontology_id="GO_0009804" text="coumarin metabolic process" type="GO"/>
+    <entity charOffset="111-119" id="25875328.s1.e1" ontology_id="HP_0001250" text="epilepsy" type="HP"/>
+    <pair e1="25875328.s1.e0" e2="25875328.s1.e1" id="25875328.s1.p0" relation="true"/>
+  </sentence>
+</document>

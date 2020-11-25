@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="26771602">
+  <sentence id="26771602.s0" text="Dihydropyrimidinase (DHP) deficiency is an autosomal recessive disease caused by mutations in the pyrimidine nucleobase catabolic process gene.">
+    <entity charOffset="43-62" id="26771602.s0.e0" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="98-137" id="26771602.s0.e1" ontology_id="GO_0006208" text="pyrimidine nucleobase catabolic process" type="GO"/>
+    <pair e1="26771602.s0.e0" e2="26771602.s0.e1" id="26771602.s0.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30156215">
+  <sentence id="30156215.s0" text="Next, we took epicardial positive regulation of cell-matrix adhesion samples from patients with valvular heart disease and non- coronary artery disease.">
+    <entity charOffset="25-68" id="30156215.s0.e0" ontology_id="GO_0001954" text="positive regulation of cell-matrix adhesion" type="GO"/>
+    <entity charOffset="96-118" id="30156215.s0.e1" ontology_id="HP_0001654" text="valvular heart disease" type="HP"/>
+    <pair e1="30156215.s0.e0" e2="30156215.s0.e1" id="30156215.s0.p0" relation="false"/>
+  </sentence>
+</document>

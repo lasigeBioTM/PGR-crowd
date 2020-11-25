@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="26099505">
+  <sentence id="26099505.s0" text="Functional inhibition of activation of innate immune response and its receptors abrogated HMGB1-induced angiogenic properties of ECs co-cultured with tumour cells.">
+    <entity charOffset="25-61" id="26099505.s0.e0" ontology_id="GO_0002218" text="activation of innate immune response" type="GO"/>
+    <entity charOffset="150-156" id="26099505.s0.e1" ontology_id="HP_0002664" text="tumour" type="HP"/>
+    <pair e1="26099505.s0.e0" e2="26099505.s0.e1" id="26099505.s0.p0" relation="true"/>
+  </sentence>
+</document>

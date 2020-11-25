@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30300827">
+  <sentence id="30300827.s0" text="positive regulation of B cell proliferation and its ligand are members of the TNF/TNF receptor superfamily, which includes various molecules influencing cellular signaling and function of both tumor and immune cells.">
+    <entity charOffset="0-43" id="30300827.s0.e0" ontology_id="GO_0030890" text="positive regulation of B cell proliferation" type="GO"/>
+    <entity charOffset="193-198" id="30300827.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="30300827.s0.e0" e2="30300827.s0.e1" id="30300827.s0.p0" relation="false"/>
+  </sentence>
+</document>

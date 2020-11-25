@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27062609">
+  <sentence id="27062609.s0" text="Our study expands the genetic heterogeneity of negative regulation of gene expression and RTT-like phenotypes.">
+    <entity charOffset="30-43" id="27062609.s0.e0" ontology_id="HP_0001425" text="heterogeneity" type="HP"/>
+    <entity charOffset="47-85" id="27062609.s0.e1" ontology_id="GO_0010629" text="negative regulation of gene expression" type="GO"/>
+    <pair e1="27062609.s0.e0" e2="27062609.s0.e1" id="27062609.s0.p0" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="28607447">
+  <sentence id="28607447.s0" text="Recently, the roles of FAM83H in tumorigenesis have been interested and increased expression of FAM83H and negative regulation of transcription by RNA polymerase II in hepatocellular carcinoma (HCC) have been reported.">
+    <entity charOffset="33-38" id="28607447.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="107-164" id="28607447.s0.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="28607447.s0.e0" e2="28607447.s0.e1" id="28607447.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="28607447.s1" text="In conclusion, we present an oncogenic role of FAM83H in liver cancer, which is closely associated with the oncogene negative regulation of transcription by RNA polymerase II.">
+    <entity charOffset="63-69" id="28607447.s1.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="117-174" id="28607447.s1.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="28607447.s1.e0" e2="28607447.s1.e1" id="28607447.s1.p0" relation="true"/>
+  </sentence>
+</document>

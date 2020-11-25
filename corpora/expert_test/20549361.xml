@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="20549361">
+  <sentence id="20549361.s0" text="Malonyl coenzyme A (CoA) decarboxylase (EC 4.1.1.9, acetyl-CoA biosynthetic process) deficiency, or malonic aciduria, is a rare inborn error of metabolism characterised by a variable phenotype of developmental delay, seizures, cardiomyopathy and acidosis.">
+    <entity charOffset="52-83" id="20549361.s0.e0" ontology_id="GO_0006085" text="acetyl-CoA biosynthetic process" type="GO"/>
+    <entity charOffset="196-215" id="20549361.s0.e1" ontology_id="HP_0001263" text="developmental delay" type="HP"/>
+    <pair e1="20549361.s0.e0" e2="20549361.s0.e1" id="20549361.s0.p0" relation="true"/>
+  </sentence>
+</document>

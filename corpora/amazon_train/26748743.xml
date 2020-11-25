@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="26748743">
+  <sentence id="26748743.s0" text="Epithelial-stromal angiogenesis dystrophies, macular corneal dystrophy and Schnyder corneal dystrophy (quaternary ammonium group transport) showed 100% mutation detection rates, while endothelial corneal dystrophies showed lower detection rates of 3%.">
+    <entity charOffset="19-31" id="26748743.s0.e0" ontology_id="GO_0001525" text="angiogenesis" type="GO"/>
+    <entity charOffset="53-70" id="26748743.s0.e1" ontology_id="HP_0001131" text="corneal dystrophy" type="HP"/>
+    <entity charOffset="103-138" id="26748743.s0.e2" ontology_id="GO_0015697" text="quaternary ammonium group transport" type="GO"/>
+    <entity charOffset="196-215" id="26748743.s0.e3" ontology_id="HP_0001131" text="corneal dystrophies" type="HP"/>
+    <pair e1="26748743.s0.e0" e2="26748743.s0.e3" id="26748743.s0.p0" relation="false"/>
+    <pair e1="26748743.s0.e0" e2="26748743.s0.e1" id="26748743.s0.p1" relation="true"/>
+    <pair e1="26748743.s0.e1" e2="26748743.s0.e2" id="26748743.s0.p2" relation="true"/>
+    <pair e1="26748743.s0.e2" e2="26748743.s0.e3" id="26748743.s0.p3" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="29734195">
+  <sentence id="29734195.s0" text="Rarely, patients with severe, salt-wasting CAH have deletions of steroid biosynthetic process that extend into collagen metabolic process, resulting in a &amp;quot;contiguous gene syndrome&amp;quot; consisting of CAH and EDS.">
+    <entity charOffset="65-93" id="29734195.s0.e0" ontology_id="GO_0006694" text="steroid biosynthetic process" type="GO"/>
+    <entity charOffset="111-137" id="29734195.s0.e1" ontology_id="GO_0032963" text="collagen metabolic process" type="GO"/>
+    <entity charOffset="160-184" id="29734195.s0.e2" ontology_id="HP_0001466" text="contiguous gene syndrome" type="HP"/>
+    <pair e1="29734195.s0.e0" e2="29734195.s0.e2" id="29734195.s0.p0" relation="true"/>
+    <pair e1="29734195.s0.e1" e2="29734195.s0.e2" id="29734195.s0.p1" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<document id="29047041">
+  <sentence id="29047041.s0" text="The mutations in the purine nucleobase metabolic process gene leads to X-linked Charcot-Marie-Tooth neuropathy muscle organ development 5 (purine nucleobase metabolic process), PRS super activity, positive regulation of protein ubiquitination syndrome, X-linked deafness-1, breast cancer, and colorectal cancer.">
+    <entity charOffset="21-56" id="29047041.s0.e0" ontology_id="GO_0006144" text="purine nucleobase metabolic process" type="GO"/>
+    <entity charOffset="100-110" id="29047041.s0.e1" ontology_id="HP_0009830" text="neuropathy" type="HP"/>
+    <entity charOffset="111-135" id="29047041.s0.e2" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="139-174" id="29047041.s0.e3" ontology_id="GO_0006144" text="purine nucleobase metabolic process" type="GO"/>
+    <entity charOffset="197-242" id="29047041.s0.e4" ontology_id="GO_0031398" text="positive regulation of protein ubiquitination" type="GO"/>
+    <entity charOffset="262-270" id="29047041.s0.e5" ontology_id="HP_0000365" text="deafness" type="HP"/>
+    <entity charOffset="281-287" id="29047041.s0.e6" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29047041.s0.e0" e2="29047041.s0.e1" id="29047041.s0.p0" relation="true"/>
+    <pair e1="29047041.s0.e0" e2="29047041.s0.e6" id="29047041.s0.p1" relation="false"/>
+    <pair e1="29047041.s0.e1" e2="29047041.s0.e2" id="29047041.s0.p2" relation="false"/>
+    <pair e1="29047041.s0.e1" e2="29047041.s0.e4" id="29047041.s0.p3" relation="false"/>
+    <pair e1="29047041.s0.e2" e2="29047041.s0.e5" id="29047041.s0.p4" relation="false"/>
+    <pair e1="29047041.s0.e2" e2="29047041.s0.e6" id="29047041.s0.p5" relation="false"/>
+    <pair e1="29047041.s0.e3" e2="29047041.s0.e5" id="29047041.s0.p6" relation="true"/>
+    <pair e1="29047041.s0.e3" e2="29047041.s0.e6" id="29047041.s0.p7" relation="false"/>
+    <pair e1="29047041.s0.e4" e2="29047041.s0.e5" id="29047041.s0.p8" relation="false"/>
+  </sentence>
+</document>

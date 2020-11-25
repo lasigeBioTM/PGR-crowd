@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30320381">
+  <sentence id="30320381.s0" text="In the present study, western blotting was used to verified the expression of T lymphocyte CaSR and pathway proteins, including phosphorylated extracellular signal‑regulated kinase (P‑ERK)1/2 and phosphorylated c‑Jun N‑terminal kinase (P‑JNK), and used cytometric bead array to detect the secretion of interleukin (IL)‑4, IL‑6, IL‑10 and tumor necrosis factor (negative regulation of transcription by RNA polymerase II)‑α in AMI onset, the results demonstrated that they were all increased.">
+    <entity charOffset="338-343" id="30320381.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="361-418" id="30320381.s0.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="30320381.s0.e0" e2="30320381.s0.e1" id="30320381.s0.p0" relation="false"/>
+  </sentence>
+</document>

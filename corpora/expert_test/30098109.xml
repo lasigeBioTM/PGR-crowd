@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30098109">
+  <sentence id="30098109.s0" text="Here, we investigated the biological functions and clinical significance of negative regulation of receptor recycling44 in human esophageal cancer (HEC).">
+    <entity charOffset="76-117" id="30098109.s0.e0" ontology_id="GO_0001920" text="negative regulation of receptor recycling" type="GO"/>
+    <entity charOffset="140-146" id="30098109.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30098109.s0.e0" e2="30098109.s0.e1" id="30098109.s0.p0" relation="true"/>
+  </sentence>
+</document>

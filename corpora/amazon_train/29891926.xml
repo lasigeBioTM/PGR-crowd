@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29891926">
+  <sentence id="29891926.s0" text="Fanconi anemia (regulation of ferrochelatase activity) is a rare disease characterized by bone marrow failure, developmental abnormalities, and increased cancer risk that is caused by defective repair of DNA interstrand crosslinks (ICLs).">
+    <entity charOffset="16-53" id="29891926.s0.e0" ontology_id="GO_0010722" text="regulation of ferrochelatase activity" type="GO"/>
+    <entity charOffset="154-160" id="29891926.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29891926.s0.e0" e2="29891926.s0.e1" id="29891926.s0.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<document id="30458457">
+  <sentence id="30458457.s0" text="BACKGROUND The present study explored the expression of coiled-coil domain-containing 34 (biological_process) in cervical cancer (CC) and its prognostic value.">
+    <entity charOffset="90-108" id="30458457.s0.e0" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="122-128" id="30458457.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30458457.s0.e0" e2="30458457.s0.e1" id="30458457.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="30458457.s1" text="MATERIAL AND METHODS GEPIA and Oncomine cancer databases were mined to predict the biological_process differential expression level between a CC group and a normal group.">
+    <entity charOffset="40-46" id="30458457.s1.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="83-101" id="30458457.s1.e1" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <pair e1="30458457.s1.e0" e2="30458457.s1.e1" id="30458457.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="30458457.s2" text="CD31 and vascular endothelial growth factor (negative regulation of transcription by RNA polymerase II) were stained to reflect tumor angiogenesis in 67 CC tissues.">
+    <entity charOffset="45-102" id="30458457.s2.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="128-133" id="30458457.s2.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="30458457.s2.e0" e2="30458457.s2.e1" id="30458457.s2.p0" relation="true"/>
+  </sentence>
+  <sentence id="30458457.s3" text="RESULTS Both GEPIA and Oncomine cancer databases mining results revealed that biological_process was more highly expressed in the CC group than in the normal group (all P&amp;lt;0.05).">
+    <entity charOffset="32-38" id="30458457.s3.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="78-96" id="30458457.s3.e1" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <pair e1="30458457.s3.e0" e2="30458457.s3.e1" id="30458457.s3.p0" relation="true"/>
+  </sentence>
+  <sentence id="30458457.s4" text="CONCLUSIONS High expression of biological_process is an independent unfavorable prognostic parameter for OS and DFS of CC patients, which was strongly associated with tumor angiogenesis">
+    <entity charOffset="31-49" id="30458457.s4.e0" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="167-172" id="30458457.s4.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="30458457.s4.e0" e2="30458457.s4.e1" id="30458457.s4.p0" relation="true"/>
+  </sentence>
+</document>

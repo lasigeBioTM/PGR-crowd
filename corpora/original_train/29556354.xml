@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="29556354">
+  <sentence id="29556354.s0" text="Genetic modification of a human prostate cancer cell line to induce miR-101 and suppress protein transport decreased cell migration and invasion.">
+    <entity charOffset="41-47" id="29556354.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="89-106" id="29556354.s0.e1" ontology_id="GO_0015031" text="protein transport" type="GO"/>
+    <pair e1="29556354.s0.e0" e2="29556354.s0.e1" id="29556354.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="29556354.s1" text="As prostate cancer xenografts in epidermis development, these cells had decreased visibility on diffusion weighted MRI and decreased perfusion, which correlated with immunostaining showing decreased cell density and proliferation.">
+    <entity charOffset="12-18" id="29556354.s1.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="33-54" id="29556354.s1.e1" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <pair e1="29556354.s1.e0" e2="29556354.s1.e1" id="29556354.s1.p0" relation="false"/>
+  </sentence>
+</document>

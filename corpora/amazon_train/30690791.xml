@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30690791">
+  <sentence id="30690791.s0" text="Human genetic evidence demonstrates that positive regulation of cell proliferation mutations cause osteogenesis imperfecta (OI) and early-onset osteoporosis, implicating WNT1 as a major regulator of bone metabolism.">
+    <entity charOffset="41-82" id="30690791.s0.e0" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <entity charOffset="144-156" id="30690791.s0.e1" ontology_id="HP_0000939" text="osteoporosis" type="HP"/>
+    <pair e1="30690791.s0.e0" e2="30690791.s0.e1" id="30690791.s0.p0" relation="true"/>
+  </sentence>
+</document>

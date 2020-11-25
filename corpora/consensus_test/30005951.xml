@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<document id="30005951">
+  <sentence id="30005951.s0" text="This work provides novel evidence regarding the complex interplay between the circadian protein acetylation and metabolic alterations in carcinogenesis and identifies new connections between both systems with pivotal roles in cancer progression and response to therapy">
+    <entity charOffset="88-107" id="30005951.s0.e0" ontology_id="GO_0006473" text="protein acetylation" type="GO"/>
+    <entity charOffset="226-232" id="30005951.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+  </sentence>
+  <sentence id="30005951.s1" text="Besides dramatic metabolic alterations, cancer cells display severe changes in the protein acetylation phenotype with likely consequences in tumor progression and treatment response.">
+    <entity charOffset="40-46" id="30005951.s1.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="83-102" id="30005951.s1.e1" ontology_id="GO_0006473" text="protein acetylation" type="GO"/>
+  </sentence>
+</document>

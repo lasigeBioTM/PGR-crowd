@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="30306202">
+  <sentence id="30306202.s0" text="Dendritic cell (neuron migration)-based immunotherapies have been created for a broad expanse of cancers, and DC vaccines prepared with Wilms' tumor protein 1 (WT1) peptides have shown G protein-coupled receptor signaling pathway therapeutic efficacy in these diseases.">
+    <entity charOffset="16-32" id="30306202.s0.e0" ontology_id="GO_0001764" text="neuron migration" type="GO"/>
+    <entity charOffset="97-103" id="30306202.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="143-148" id="30306202.s0.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="185-229" id="30306202.s0.e3" ontology_id="GO_0007186" text="G protein-coupled receptor signaling pathway" type="GO"/>
+  </sentence>
+  <sentence id="30306202.s1" text="In this paper, we report the results of a phase I/II study of a neuron migration-based vaccination for advanced breast, ovarian, and gastric cancers, and we offer evidence that patients can be effectively vaccinated with autologous DCs pulsed with WT1 peptide.">
+    <entity charOffset="64-80" id="30306202.s1.e0" ontology_id="GO_0001764" text="neuron migration" type="GO"/>
+    <entity charOffset="133-148" id="30306202.s1.e1" ontology_id="HP_0012126" text="gastric cancers" type="HP"/>
+  </sentence>
+</document>

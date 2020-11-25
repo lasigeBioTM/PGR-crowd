@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="20850505">
+  <sentence id="20850505.s0" text="In a large Scottish pedigree, a balanced translocation t (1;11)(q42.1;q14.3) disrupting the microtubule cytoskeleton organization and DISC2 genes segregates with major mental illness, including schizophrenia and depression.">
+    <entity charOffset="92-129" id="20850505.s0.e0" ontology_id="GO_0000226" text="microtubule cytoskeleton organization" type="GO"/>
+    <entity charOffset="194-207" id="20850505.s0.e1" ontology_id="HP_0100753" text="schizophrenia" type="HP"/>
+    <pair e1="20850505.s0.e0" e2="20850505.s0.e1" id="20850505.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="20850505.s1" text="A frame-shift carboxyl-terminal deletion was reported in microtubule cytoskeleton organization in an American family with schizophrenia, but subsequently found in two controls.">
+    <entity charOffset="57-94" id="20850505.s1.e0" ontology_id="GO_0000226" text="microtubule cytoskeleton organization" type="GO"/>
+    <entity charOffset="122-135" id="20850505.s1.e1" ontology_id="HP_0100753" text="schizophrenia" type="HP"/>
+    <pair e1="20850505.s1.e0" e2="20850505.s1.e1" id="20850505.s1.p0" relation="false"/>
+  </sentence>
+</document>

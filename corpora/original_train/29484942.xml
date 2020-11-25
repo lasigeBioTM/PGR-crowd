@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29484942">
+  <sentence id="29484942.s0" text="After diagnosis of granular cell tumour by core needle biopsy, the cell adhesion mediated by integrines were excised with histopathological and immunohistochemical analysis of both specimens confirming the presence of non-malignant granular cell tumours.">
+    <entity charOffset="33-39" id="29484942.s0.e0" ontology_id="HP_0002664" text="tumour" type="HP"/>
+    <entity charOffset="67-101" id="29484942.s0.e1" ontology_id="GO_0033627" text="cell adhesion mediated by integrin" type="GO"/>
+    <pair e1="29484942.s0.e0" e2="29484942.s0.e1" id="29484942.s0.p0" relation="false"/>
+  </sentence>
+</document>

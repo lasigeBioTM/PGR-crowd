@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="21376300">
+  <sentence id="21376300.s0" text="We hypothesized that de novo mutations (endocytosiss) in synaptic genes explain an important fraction of sporadic NSID cases.">
+    <entity charOffset="40-51" id="21376300.s0.e0" ontology_id="GO_0006897" text="endocytosis" type="GO"/>
+    <entity charOffset="105-113" id="21376300.s0.e1" ontology_id="HP_0003745" text="sporadic" type="HP"/>
+    <pair e1="21376300.s0.e0" e2="21376300.s0.e1" id="21376300.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="21376300.s1" text="Sequencing these four genes in 50 additional sporadic cases of NSID identified a second endocytosis in biological_process (c.1679_1681dup/p.Ser560dup).">
+    <entity charOffset="45-53" id="21376300.s1.e0" ontology_id="HP_0003745" text="sporadic" type="HP"/>
+    <entity charOffset="88-99" id="21376300.s1.e1" ontology_id="GO_0006897" text="endocytosis" type="GO"/>
+    <entity charOffset="103-121" id="21376300.s1.e2" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <pair e1="21376300.s1.e0" e2="21376300.s1.e1" id="21376300.s1.p0" relation="true"/>
+    <pair e1="21376300.s1.e0" e2="21376300.s1.e2" id="21376300.s1.p1" relation="true"/>
+  </sentence>
+</document>

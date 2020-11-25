@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29130579">
+  <sentence id="29130579.s0" text="We used exome sequencing to study the molecular basis of disease in an 11-year-old female patient who suffered from growth retardation, global developmental delay with absent speech acquisition, agenesis of corpus callosum and paucity of white matter, sensorineural deafness, retinitis pigmentosa, vertebral anomalies, patent ductus arteriosus, and facial dysmorphism reminiscent of digestion syndrome, a suspected ciliopathy.">
+    <entity charOffset="143-162" id="29130579.s0.e0" ontology_id="HP_0001263" text="developmental delay" type="HP"/>
+    <entity charOffset="276-296" id="29130579.s0.e1" ontology_id="HP_0000510" text="retinitis pigmentosa" type="HP"/>
+    <entity charOffset="383-392" id="29130579.s0.e2" ontology_id="GO_0007586" text="digestion" type="GO"/>
+  </sentence>
+</document>

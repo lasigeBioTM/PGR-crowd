@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="26929985">
+  <sentence id="26929985.s0" text="These analyses revealed significantly higher methylation frequencies in high-grade tumors relative to low-intermediate-grade tumors for the ATP5G2, negative regulation of transcription by RNA polymerase II and VAX2 genes (P&amp;lt;0.05), and similarly significant increases in mean levels of methylation in high-grade tumors for the ATP5G2, VAX2, INSRR, PRDM14, VSX1, TFAP2b, PRRX1, and HIST1H4F genes (P&amp;lt;0.05).">
+    <entity charOffset="83-88" id="26929985.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="148-205" id="26929985.s0.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="26929985.s0.e0" e2="26929985.s0.e1" id="26929985.s0.p0" relation="true"/>
+  </sentence>
+</document>

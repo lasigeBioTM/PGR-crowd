@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="29061346">
+  <sentence id="29061346.s0" text="Over 140 disease-causing mutations have been described so far in regulation of rhodopsin mediated signaling pathway, 88% of which cause autosomal recessive Leber congenital amaurosis (clathrin coat assembly) while heterozygous missense mutations cause autosomal dominant cone-rod degeneration (adCRD).">
+    <entity charOffset="65-115" id="29061346.s0.e0" ontology_id="GO_0022400" text="regulation of rhodopsin mediated signaling pathway" type="GO"/>
+    <entity charOffset="136-155" id="29061346.s0.e1" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="184-206" id="29061346.s0.e2" ontology_id="GO_0048268" text="clathrin coat assembly" type="GO"/>
+    <pair e1="29061346.s0.e0" e2="29061346.s0.e1" id="29061346.s0.p0" relation="true"/>
+    <pair e1="29061346.s0.e1" e2="29061346.s0.e2" id="29061346.s0.p1" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="28993958">
+  <sentence id="28993958.s0" text="Hypomorphic cellular response to DNA damage stimulus mutations in males are typically associated with anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID).">
+    <entity charOffset="12-52" id="28993958.s0.e0" ontology_id="GO_0006974" text="cellular response to DNA damage stimulus" type="GO"/>
+    <entity charOffset="113-133" id="28993958.s0.e1" ontology_id="HP_0000968" text="ectodermal dysplasia" type="HP"/>
+    <pair e1="28993958.s0.e0" e2="28993958.s0.e1" id="28993958.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28993958.s1" text="As rare polymorphisms have been described in IKBKG and polygenic inheritance remains an option in the presented case, this study emphasizes the need for thorough functional and genetic evaluation when encountering and interpreting suspected disease-causing cellular response to DNA damage stimulus-ID variants">
+    <entity charOffset="55-76" id="28993958.s1.e0" ontology_id="HP_0010982" text="polygenic inheritance" type="HP"/>
+    <entity charOffset="257-297" id="28993958.s1.e1" ontology_id="GO_0006974" text="cellular response to DNA damage stimulus" type="GO"/>
+    <pair e1="28993958.s1.e0" e2="28993958.s1.e1" id="28993958.s1.p0" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29444948">
+  <sentence id="29444948.s0" text="The linear ubiquitination-specific deubiquitinase ovarian tumor domain deubiquitinase with linear linkage specificity (regulation of tumor necrosis factor-mediated signaling pathway) can control the immune signaling transduction pathway by restricting the Met1-linked ubiquitination process.">
+    <entity charOffset="58-63" id="29444948.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="119-181" id="29444948.s0.e1" ontology_id="GO_0010803" text="regulation of tumor necrosis factor-mediated signaling pathway" type="GO"/>
+    <pair e1="29444948.s0.e0" e2="29444948.s0.e1" id="29444948.s0.p0" relation="false"/>
+  </sentence>
+</document>

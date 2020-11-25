@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30264912">
+  <sentence id="30264912.s0" text="Highlights include the discoveries of (i) a new genetic etiology, autosomal recessive SPPL2a deficiency, (ii) TYK2-deficient patients with a clinical phenotype of MSMD, (iii) an allelic form of partial recessive blood coagulation-yR2 deficiency, and (iv) two forms of syndromic MSMD: RORy/RORyT and JAK1 deficiencies.">
+    <entity charOffset="66-85" id="30264912.s0.e0" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="212-229" id="30264912.s0.e1" ontology_id="GO_0007596" text="blood coagulation" type="GO"/>
+    <pair e1="30264912.s0.e0" e2="30264912.s0.e1" id="30264912.s0.p0" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30642872">
+  <sentence id="30642872.s0" text="By 3 months, zonular fibers invariably ruptured and epidermis development developed ectopia lentis, a hallmark of Marfan syndrome.">
+    <entity charOffset="52-73" id="30642872.s0.e0" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="84-98" id="30642872.s0.e1" ontology_id="HP_0001083" text="ectopia lentis" type="HP"/>
+    <pair e1="30642872.s0.e0" e2="30642872.s0.e1" id="30642872.s0.p0" relation="false"/>
+  </sentence>
+</document>

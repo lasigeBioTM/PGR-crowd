@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<document id="29084757">
+  <sentence id="29084757.s0" text="This essential role of CIB2 in mechanotransduction and cell survival that, we show, is restricted to the cochlea, probably accounts for the presence in &lt;i&gt;CIB2&lt;/i&gt;&lt;sup&gt;-/-&lt;/sup&gt; epidermis development and &lt;i&gt;CIB2&lt;/i&gt; patients, unlike in Usher syndrome, of isolated hearing loss without balance and vision deficits">
+    <entity charOffset="178-199" id="29084757.s0.e0" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="264-276" id="29084757.s0.e1" ontology_id="HP_0000365" text="hearing loss" type="HP"/>
+  </sentence>
+  <sentence id="29084757.s1" text="Defects of positive regulation of cytosolic calcium ion concentration, calcium- and integrin-binding protein 2, have been reported to cause isolated deafness, positive regulation of cytosolic calcium ion concentration and Usher syndrome type-IJ, characterized by congenital profound deafness, balance defects and blindness.">
+    <entity charOffset="11-69" id="29084757.s1.e0" ontology_id="GO_0007204" text="positive regulation of cytosolic calcium ion concentration" type="GO"/>
+    <entity charOffset="149-157" id="29084757.s1.e1" ontology_id="HP_0000365" text="deafness" type="HP"/>
+    <entity charOffset="159-217" id="29084757.s1.e2" ontology_id="GO_0007204" text="positive regulation of cytosolic calcium ion concentration" type="GO"/>
+    <entity charOffset="274-282" id="29084757.s1.e3" ontology_id="HP_0012829" text="profound" type="HP"/>
+    <entity charOffset="313-322" id="29084757.s1.e4" ontology_id="HP_0000618" text="blindness" type="HP"/>
+    <pair e1="29084757.s1.e0" e2="29084757.s1.e1" id="29084757.s1.p0" relation="true"/>
+    <pair e1="29084757.s1.e0" e2="29084757.s1.e4" id="29084757.s1.p1" relation="true"/>
+    <pair e1="29084757.s1.e2" e2="29084757.s1.e3" id="29084757.s1.p2" relation="false"/>
+  </sentence>
+  <sentence id="29084757.s2" text="Also, the generated &lt;i&gt;CIB2&lt;/i&gt;&lt;sup&gt;-/-&lt;/sup&gt; epidermis development display an early onset profound deafness and have normal balance and retinal functions.">
+    <entity charOffset="46-67" id="29084757.s2.e0" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="91-99" id="29084757.s2.e1" ontology_id="HP_0012829" text="profound" type="HP"/>
+  </sentence>
+  <sentence id="29084757.s3" text="We report here two new nonsense mutations (pGln12* and pTyr110*) in &lt;i&gt;positive regulation of cytosolic calcium ion concentration&lt;/i&gt; patients displaying nonsyndromic profound hearing loss, with no evidence of vestibular or retinal dysfunction.">
+    <entity charOffset="71-129" id="29084757.s3.e0" ontology_id="GO_0007204" text="positive regulation of cytosolic calcium ion concentration" type="GO"/>
+    <entity charOffset="176-188" id="29084757.s3.e1" ontology_id="HP_0000365" text="hearing loss" type="HP"/>
+    <pair e1="29084757.s3.e0" e2="29084757.s3.e1" id="29084757.s3.p0" relation="true"/>
+  </sentence>
+</document>

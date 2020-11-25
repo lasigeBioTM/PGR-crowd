@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="25462154">
+  <sentence id="25462154.s0" text="Charcot-Marie-Tooth disease muscle organ development 4B2 with early-onset glaucoma (myelination, OMIM 604563) is a genetically-heterogeneous childhood-onset neuromuscular disorder.">
+    <entity charOffset="28-52" id="25462154.s0.e0" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="74-82" id="25462154.s0.e1" ontology_id="HP_0000501" text="glaucoma" type="HP"/>
+    <entity charOffset="84-95" id="25462154.s0.e2" ontology_id="GO_0042552" text="myelination" type="GO"/>
+    <entity charOffset="127-140" id="25462154.s0.e3" ontology_id="HP_0001425" text="heterogeneous" type="HP"/>
+    <pair e1="25462154.s0.e0" e2="25462154.s0.e3" id="25462154.s0.p0" relation="false"/>
+    <pair e1="25462154.s0.e0" e2="25462154.s0.e1" id="25462154.s0.p1" relation="false"/>
+    <pair e1="25462154.s0.e1" e2="25462154.s0.e2" id="25462154.s0.p2" relation="true"/>
+  </sentence>
+</document>

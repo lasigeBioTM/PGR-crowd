@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<document id="27353389">
+  <sentence id="27353389.s0" text="A mutation of cilium movement has been identified in human patients with primary ciliary dyskinesia (motile cilium assembly).">
+    <entity charOffset="14-29" id="27353389.s0.e0" ontology_id="GO_0003341" text="cilium movement" type="GO"/>
+    <entity charOffset="81-99" id="27353389.s0.e1" ontology_id="HP_0012265" text="ciliary dyskinesia" type="HP"/>
+    <entity charOffset="101-123" id="27353389.s0.e2" ontology_id="GO_0044458" text="motile cilium assembly" type="GO"/>
+    <pair e1="27353389.s0.e0" e2="27353389.s0.e1" id="27353389.s0.p0" relation="true"/>
+    <pair e1="27353389.s0.e1" e2="27353389.s0.e2" id="27353389.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="27353389.s1" text="Mutant epidermis development lacking Lrrc6 show typical motile cilium assembly defects such as hydrocephalus and laterality defects.">
+    <entity charOffset="7-28" id="27353389.s1.e0" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="56-78" id="27353389.s1.e1" ontology_id="GO_0044458" text="motile cilium assembly" type="GO"/>
+    <entity charOffset="95-108" id="27353389.s1.e2" ontology_id="HP_0000238" text="hydrocephalus" type="HP"/>
+    <pair e1="27353389.s1.e0" e2="27353389.s1.e2" id="27353389.s1.p0" relation="false"/>
+    <pair e1="27353389.s1.e1" e2="27353389.s1.e2" id="27353389.s1.p1" relation="false"/>
+  </sentence>
+</document>

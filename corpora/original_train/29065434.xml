@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="29065434">
+  <sentence id="29065434.s0" text="The major question to be solved is the genetic basis of bilateral adrenal hyperplasia (positive regulation of proteolysis).">
+    <entity charOffset="56-65" id="29065434.s0.e0" ontology_id="HP_0012832" text="bilateral" type="HP"/>
+    <entity charOffset="66-85" id="29065434.s0.e1" ontology_id="HP_0008221" text="adrenal hyperplasia" type="HP"/>
+    <entity charOffset="87-121" id="29065434.s0.e2" ontology_id="GO_0045862" text="positive regulation of proteolysis" type="GO"/>
+    <pair e1="29065434.s0.e0" e2="29065434.s0.e2" id="29065434.s0.p0" relation="false"/>
+    <pair e1="29065434.s0.e1" e2="29065434.s0.e2" id="29065434.s0.p1" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<document id="30005966">
+  <sentence id="30005966.s0" text="We used bivariate and multivariate analyses to examine the variations in the rates of TMA complications according to multicellular organism development, age, bile acid metabolic process, and comorbid conditions, including nonpalpable pedal pulses, end-stage renal disease, coronary artery disease, hypertension, smoking status, and preoperative albumin &amp;lt;3.5 mg/dL.">
+    <entity charOffset="117-151" id="30005966.s0.e0" ontology_id="GO_0007275" text="multicellular organism development" type="GO"/>
+    <entity charOffset="158-185" id="30005966.s0.e1" ontology_id="GO_0008206" text="bile acid metabolic process" type="GO"/>
+    <entity charOffset="298-310" id="30005966.s0.e2" ontology_id="HP_0000822" text="hypertension" type="HP"/>
+    <pair e1="30005966.s0.e0" e2="30005966.s0.e2" id="30005966.s0.p0" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<document id="27612429">
+  <sentence id="27612429.s0" text="Recent evidence suggests that negative regulation of cell proliferation genes may participate in a wide array of cellular processes, and may contribute to the pathology of autoimmune disease, cancer, and other diseases.">
+    <entity charOffset="30-71" id="27612429.s0.e0" ontology_id="GO_0008285" text="negative regulation of cell proliferation" type="GO"/>
+    <entity charOffset="192-198" id="27612429.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27612429.s0.e0" e2="27612429.s0.e1" id="27612429.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="27612429.s1" text="Several studies have suggested a role for the glutamyl prolyl tRNA synthetase (prolyl-tRNA aminoacylation) in breast cancers, although none has identified any underlying mechanism about how EPRS contributes to carcinogenesis.">
+    <entity charOffset="79-105" id="27612429.s1.e0" ontology_id="GO_0006433" text="prolyl-tRNA aminoacylation" type="GO"/>
+    <entity charOffset="117-123" id="27612429.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27612429.s1.e0" e2="27612429.s1.e1" id="27612429.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="27612429.s2" text="Finally, we constructed a causal gene network based on over 2500 ER+ breast tumor samples to build up an prolyl-tRNA aminoacylation-estrogen signaling pathway.">
+    <entity charOffset="76-81" id="27612429.s2.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="105-131" id="27612429.s2.e1" ontology_id="GO_0006433" text="prolyl-tRNA aminoacylation" type="GO"/>
+    <pair e1="27612429.s2.e0" e2="27612429.s2.e1" id="27612429.s2.p0" relation="true"/>
+  </sentence>
+  <sentence id="27612429.s3" text="prolyl-tRNA aminoacylation and its regulated estrogenic gene network may offer a promising alternative approach to target ER+ breast cancers that are refractory to current anti-estrogens">
+    <entity charOffset="0-26" id="27612429.s3.e0" ontology_id="GO_0006433" text="prolyl-tRNA aminoacylation" type="GO"/>
+    <entity charOffset="133-139" id="27612429.s3.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27612429.s3.e0" e2="27612429.s3.e1" id="27612429.s3.p0" relation="true"/>
+  </sentence>
+</document>

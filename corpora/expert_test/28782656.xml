@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28782656">
+  <sentence id="28782656.s0" text="PKD1 and protein phosphorylation germline mutations are found in patients with autosomal dominant polycystic kidney disease (ADPKD).">
+    <entity charOffset="9-32" id="28782656.s0.e0" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <entity charOffset="109-123" id="28782656.s0.e1" ontology_id="HP_0000077" text="kidney disease" type="HP"/>
+    <pair e1="28782656.s0.e0" e2="28782656.s0.e1" id="28782656.s0.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<document id="24998186">
+  <sentence id="24998186.s0" text="We evaluated whether methylation of tumor-suppressor genes (TSGs) would classify non-muscle-invasive (inflammatory response) bladder cancer subgroups and predict outcome.">
+    <entity charOffset="102-123" id="24998186.s0.e0" ontology_id="GO_0006954" text="inflammatory response" type="GO"/>
+    <entity charOffset="133-139" id="24998186.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="24998186.s0.e0" e2="24998186.s0.e1" id="24998186.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="24998186.s1" text="A retrospective design included the following paraffin-embedded primary inflammatory response tumor types (n = 251): biological_process low grade (LG) (n = 79), pT1LG (n = 81), and pT1 high grade (HG) (n = 91).">
+    <entity charOffset="72-93" id="24998186.s1.e0" ontology_id="GO_0006954" text="inflammatory response" type="GO"/>
+    <entity charOffset="94-99" id="24998186.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="117-135" id="24998186.s1.e2" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <pair e1="24998186.s1.e0" e2="24998186.s1.e1" id="24998186.s1.p0" relation="false"/>
+    <pair e1="24998186.s1.e1" e2="24998186.s1.e2" id="24998186.s1.p1" relation="false"/>
+  </sentence>
+  <sentence id="24998186.s2" text="Methylation of RARB, CD44, PAX5A, GSTP1, T cell mediated cytotoxicity (CADM1), activation of innate immune response, sprouting angiogenesis, TP53, and positive regulation of transcription by RNA polymerase II classified biological_process versus pT1 tumors whereas RARB, CD44, GSTP1, IGSF4, protein polyubiquitination, PYCARD, TP53, protein phosphorylation, and GATA5 distinguished LG versus HG tumors.">
+    <entity charOffset="41-69" id="24998186.s2.e0" ontology_id="GO_0001913" text="T cell mediated cytotoxicity" type="GO"/>
+    <entity charOffset="79-115" id="24998186.s2.e1" ontology_id="GO_0002218" text="activation of innate immune response" type="GO"/>
+    <entity charOffset="117-139" id="24998186.s2.e2" ontology_id="GO_0002040" text="sprouting angiogenesis" type="GO"/>
+    <entity charOffset="151-208" id="24998186.s2.e3" ontology_id="GO_0045944" text="positive regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="220-238" id="24998186.s2.e4" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="250-255" id="24998186.s2.e5" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="291-317" id="24998186.s2.e6" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="333-356" id="24998186.s2.e7" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <pair e1="24998186.s2.e0" e2="24998186.s2.e5" id="24998186.s2.p0" relation="false"/>
+    <pair e1="24998186.s2.e1" e2="24998186.s2.e5" id="24998186.s2.p1" relation="false"/>
+    <pair e1="24998186.s2.e2" e2="24998186.s2.e5" id="24998186.s2.p2" relation="false"/>
+    <pair e1="24998186.s2.e3" e2="24998186.s2.e5" id="24998186.s2.p3" relation="false"/>
+    <pair e1="24998186.s2.e4" e2="24998186.s2.e5" id="24998186.s2.p4" relation="false"/>
+    <pair e1="24998186.s2.e5" e2="24998186.s2.e7" id="24998186.s2.p5" relation="true"/>
+    <pair e1="24998186.s2.e5" e2="24998186.s2.e6" id="24998186.s2.p6" relation="false"/>
+  </sentence>
+</document>

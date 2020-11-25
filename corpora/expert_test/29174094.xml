@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="29174094">
+  <sentence id="29174094.s0" text="We expand the knowledge about protein localization to plasma membrane deficiency, describing a patient with the mild phenotype of TTC7A deficiency but presenting overlapping features of SD/THE and MIA-CID: intestinal atresia and inflammatory bowel disease evocative of MIA-CID, but also dental abnormalities, huge forehead, liver abnormalities, autoimmune thyroiditis and hypogammaglobulinemia, evocative of SD/THE">
+    <entity charOffset="30-69" id="29174094.s0.e0" ontology_id="GO_0072659" text="protein localization to plasma membrane" type="GO"/>
+    <entity charOffset="287-307" id="29174094.s0.e1" ontology_id="HP_0000164" text="dental abnormalities" type="HP"/>
+    <pair e1="29174094.s0.e0" e2="29174094.s0.e1" id="29174094.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29174094.s1" text="There are two different phenotypes of patients with protein localization to plasma membrane mutations: the severe form, caused by null mutations and leading to the classical MIA-CID; and the mild form, caused by missense mutations and leading to predominant features of VEO-IBD, less severe immunological involvement and hair abnormalities.">
+    <entity charOffset="52-91" id="29174094.s1.e0" ontology_id="GO_0072659" text="protein localization to plasma membrane" type="GO"/>
+    <entity charOffset="321-339" id="29174094.s1.e1" ontology_id="HP_0001595" text="hair abnormalities" type="HP"/>
+    <pair e1="29174094.s1.e0" e2="29174094.s1.e1" id="29174094.s1.p0" relation="true"/>
+  </sentence>
+</document>

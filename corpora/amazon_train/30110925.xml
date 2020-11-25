@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="30110925">
+  <sentence id="30110925.s0" text="The clinical phenomuscle organ development of CMT1A is determined by the degree of axonal loss, and patients suffer from progressive muscle weakness and impaired sensation.">
+    <entity charOffset="18-42" id="30110925.s0.e0" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="83-94" id="30110925.s0.e1" ontology_id="HP_0003447" text="axonal loss" type="HP"/>
+  </sentence>
+</document>

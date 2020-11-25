@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<document id="28332095">
+  <sentence id="28332095.s0" text="Among others, an immature subpopulation of self-renewing and therapy-resistant tumor cells-often referred to as glioblastoma stem-like cells (neural crest cell fate specifications)-cellular response to platelet-derived growth factor stimulus been shown to contribute to disease recurrence.">
+    <entity charOffset="79-84" id="28332095.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="112-124" id="28332095.s0.e1" ontology_id="HP_0012174" text="glioblastoma" type="HP"/>
+    <entity charOffset="142-178" id="28332095.s0.e2" ontology_id="GO_0014036" text="neural crest cell fate specification" type="GO"/>
+    <entity charOffset="181-241" id="28332095.s0.e3" ontology_id="GO_0036120" text="cellular response to platelet-derived growth factor stimulus" type="GO"/>
+    <pair e1="28332095.s0.e0" e2="28332095.s0.e3" id="28332095.s0.p0" relation="true"/>
+    <pair e1="28332095.s0.e1" e2="28332095.s0.e2" id="28332095.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="28332095.s1" text="In summary, we identified novel immunogenic proteins, which frequently induce tumor-specific T cell responses in GBM patients and were also detected in vitro in therapy-resistant quiescent, slow-cycling neural crest cell fate specifications.">
+    <entity charOffset="78-83" id="28332095.s1.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="203-239" id="28332095.s1.e1" ontology_id="GO_0014036" text="neural crest cell fate specification" type="GO"/>
+    <pair e1="28332095.s1.e0" e2="28332095.s1.e1" id="28332095.s1.p0" relation="true"/>
+  </sentence>
+</document>

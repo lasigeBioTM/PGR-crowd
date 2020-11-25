@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29655892">
+  <sentence id="29655892.s0" text="However, to date the genetic cause remains unknown in around 40% of positive regulation of transcription, DNA-templated cases, suggesting genetic heterogeneity and involvement of other genes.">
+    <entity charOffset="68-119" id="29655892.s0.e0" ontology_id="GO_0045893" text="positive regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="146-159" id="29655892.s0.e1" ontology_id="HP_0001425" text="heterogeneity" type="HP"/>
+    <pair e1="29655892.s0.e0" e2="29655892.s0.e1" id="29655892.s0.p0" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="29511671">
+  <sentence id="29511671.s0" text="Moreover, we found ITGA3 expression correlated with several clinicopathological features, including tumor size, lymph node metastasis, and the regulation of transcription by RNA polymerase III stage.">
+    <entity charOffset="100-105" id="29511671.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="143-192" id="29511671.s0.e1" ontology_id="GO_0006359" text="regulation of transcription by RNA polymerase III" type="GO"/>
+  </sentence>
+  <sentence id="29511671.s1" text="However, as a classical cell surface adhesion molecule, we found positive regulation of protein localization to plasma membrane correlated negatively with the migration and invasion of ICC cell lines, which differs from other malignant tumors.">
+    <entity charOffset="65-127" id="29511671.s1.e0" ontology_id="GO_1903078" text="positive regulation of protein localization to plasma membrane" type="GO"/>
+    <entity charOffset="236-241" id="29511671.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29511671.s1.e0" e2="29511671.s1.e1" id="29511671.s1.p0" relation="true"/>
+  </sentence>
+</document>

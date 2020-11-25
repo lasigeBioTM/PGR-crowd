@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="25869670">
+  <sentence id="25869670.s0" text="Consistent with a role in transition zone function, mutation of mouse smoothened signaling pathway disrupts the localization of proteins including smoothened signaling pathway and protein processing involved in protein targeting to mitochondrion to cilia, resulting in phenotypes characteristic of cilium assembly such as polydactyly and kidney cysts.">
+    <entity charOffset="70-98" id="25869670.s0.e0" ontology_id="GO_0007224" text="smoothened signaling pathway" type="GO"/>
+    <entity charOffset="147-175" id="25869670.s0.e1" ontology_id="GO_0007224" text="smoothened signaling pathway" type="GO"/>
+    <entity charOffset="180-245" id="25869670.s0.e2" ontology_id="GO_0006627" text="protein processing involved in protein targeting to mitochondrion" type="GO"/>
+    <entity charOffset="298-313" id="25869670.s0.e3" ontology_id="GO_0060271" text="cilium assembly" type="GO"/>
+    <entity charOffset="322-333" id="25869670.s0.e4" ontology_id="HP_0010442" text="polydactyly" type="HP"/>
+    <pair e1="25869670.s0.e0" e2="25869670.s0.e4" id="25869670.s0.p0" relation="true"/>
+    <pair e1="25869670.s0.e1" e2="25869670.s0.e4" id="25869670.s0.p1" relation="true"/>
+    <pair e1="25869670.s0.e2" e2="25869670.s0.e4" id="25869670.s0.p2" relation="false"/>
+    <pair e1="25869670.s0.e3" e2="25869670.s0.e4" id="25869670.s0.p3" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="27447970">
+  <sentence id="27447970.s0" text="Our results demonstrated that the overall expression of tRNA methylation significantly correlated with clinical stage (P=0.027), tumor classification (P=0.012), pathological differentiation (P=0.023), as well as with the expression levels of estrogen receptor (P&amp;lt;0.001), progesterone receptor (P=0.001), and Ki-67 (P&amp;lt;0.001).">
+    <entity charOffset="56-72" id="27447970.s0.e0" ontology_id="GO_0030488" text="tRNA methylation" type="GO"/>
+    <entity charOffset="129-134" id="27447970.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="27447970.s0.e0" e2="27447970.s0.e1" id="27447970.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="27447970.s1" text="tRNA methylation expression was shown to be significantly higher in breast cancer cells and tissues than in normal breast epithelial cells and tissues, at both mRNA and protein levels.">
+    <entity charOffset="0-16" id="27447970.s1.e0" ontology_id="GO_0030488" text="tRNA methylation" type="GO"/>
+    <entity charOffset="75-81" id="27447970.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27447970.s1.e0" e2="27447970.s1.e1" id="27447970.s1.p0" relation="true"/>
+  </sentence>
+</document>

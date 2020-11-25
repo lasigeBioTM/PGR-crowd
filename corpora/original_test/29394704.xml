@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29394704">
+  <sentence id="29394704.s0" text="The tumor was diagnosed ACC with immunohistochemistry; positive to ACC phenotype(DNA clamp unloading-antitrypsin, a1-antichymotrypsin, BCL10).">
+    <entity charOffset="4-9" id="29394704.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="81-100" id="29394704.s0.e1" ontology_id="GO_0090618" text="DNA clamp unloading" type="GO"/>
+    <pair e1="29394704.s0.e0" e2="29394704.s0.e1" id="29394704.s0.p0" relation="true"/>
+  </sentence>
+</document>

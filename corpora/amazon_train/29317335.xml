@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<document id="29317335">
+  <sentence id="29317335.s0" text="Four established melanoma susceptibility genes achieved nominal statistical significance, MC1R (p = .0014), positive regulation of gene expression (p = .0165) mitotic cytokinesis (p = .0206), and MTAP (p = .0393).">
+    <entity charOffset="17-25" id="29317335.s0.e0" ontology_id="HP_0002861" text="melanoma" type="HP"/>
+    <entity charOffset="108-146" id="29317335.s0.e1" ontology_id="GO_0010628" text="positive regulation of gene expression" type="GO"/>
+    <entity charOffset="159-178" id="29317335.s0.e2" ontology_id="GO_0000281" text="mitotic cytokinesis" type="GO"/>
+    <pair e1="29317335.s0.e0" e2="29317335.s0.e1" id="29317335.s0.p0" relation="true"/>
+    <pair e1="29317335.s0.e0" e2="29317335.s0.e2" id="29317335.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="29317335.s1" text="We also observed a suggestive association for DNA repair (p = .002), a gene previously implicated in melanoma survival.">
+    <entity charOffset="46-56" id="29317335.s1.e0" ontology_id="GO_0006281" text="DNA repair" type="GO"/>
+    <entity charOffset="101-109" id="29317335.s1.e1" ontology_id="HP_0002861" text="melanoma" type="HP"/>
+    <pair e1="29317335.s1.e0" e2="29317335.s1.e1" id="29317335.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="29317335.s2" text="Although MC1R carriers were represented proportionally among the four molecular tumor submuscle organ developments, these individuals accounted for 69% of ultraviolet (UV) radiation mutational signatures among triple-wild type tumors (p = .040), highlighting the increased sensitivity to UV exposure among individuals with loss-of-function variants in MC1R">
+    <entity charOffset="80-85" id="29317335.s2.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="89-113" id="29317335.s2.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+  </sentence>
+</document>

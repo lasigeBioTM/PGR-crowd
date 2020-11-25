@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29670000">
+  <sentence id="29670000.s0" text="Importantly, bone cell activity was inversely correlated to tumor cell AR activity (measured as AR, FOXA1, HOXB13, KLK2, plasminogen activation, NKX3-1, STEAP2, and TMPRSS2 expression) and to patient serum prostate-specific antigen (PSA) levels.">
+    <entity charOffset="60-65" id="29670000.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="121-143" id="29670000.s0.e1" ontology_id="GO_0031639" text="plasminogen activation" type="GO"/>
+    <pair e1="29670000.s0.e0" e2="29670000.s0.e1" id="29670000.s0.p0" relation="false"/>
+  </sentence>
+</document>

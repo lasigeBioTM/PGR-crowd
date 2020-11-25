@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29551494">
+  <sentence id="29551494.s0" text="Furthermore, the xenograft study confirmed the tumor proliferation-promoting role of SPRY4-centrosome cycle in PANC1 cells.">
+    <entity charOffset="47-52" id="29551494.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="91-107" id="29551494.s0.e1" ontology_id="GO_0007098" text="centrosome cycle" type="GO"/>
+    <pair e1="29551494.s0.e0" e2="29551494.s0.e1" id="29551494.s0.p0" relation="true"/>
+  </sentence>
+</document>

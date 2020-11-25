@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<document id="30643356">
+  <sentence id="30643356.s0" text="In respect to achalasia, circadian regulation of gene expression-oral endoscopic myotomy (ureteric bud development) which was developed in Japan, has become an alternative to the traditional Heller's myotomy.">
+    <entity charOffset="14-23" id="30643356.s0.e0" ontology_id="HP_0002571" text="achalasia" type="HP"/>
+    <entity charOffset="25-64" id="30643356.s0.e1" ontology_id="GO_0032922" text="circadian regulation of gene expression" type="GO"/>
+    <entity charOffset="90-114" id="30643356.s0.e2" ontology_id="GO_0001657" text="ureteric bud development" type="GO"/>
+    <pair e1="30643356.s0.e0" e2="30643356.s0.e1" id="30643356.s0.p0" relation="false"/>
+    <pair e1="30643356.s0.e0" e2="30643356.s0.e2" id="30643356.s0.p1" relation="false"/>
+  </sentence>
+  <sentence id="30643356.s1" text="In regard to BE, endoscopic submucosal dissection (glutathione derivative biosynthetic process) which is well established in Asia, is now becoming more mainstream in the West for the treatment of BE with high grade dysplasia, as well as early esophageal cancer.">
+    <entity charOffset="51-94" id="30643356.s1.e0" ontology_id="GO_1901687" text="glutathione derivative biosynthetic process" type="GO"/>
+    <entity charOffset="254-260" id="30643356.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30643356.s1.e0" e2="30643356.s1.e1" id="30643356.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="30643356.s2" text="Importantly, in regard to early gastric cancer and submucosal tumors (SMTs) of the stomach, glutathione derivative biosynthetic process and full thickness resection (FTR) can excise these lesions &lt;i&gt;en-bloc&lt;/i&gt; and endoscopic suturing is now used to close large defects and circadian regulation of gene expressionforations.">
+    <entity charOffset="40-46" id="30643356.s2.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="62-68" id="30643356.s2.e1" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <entity charOffset="92-135" id="30643356.s2.e2" ontology_id="GO_1901687" text="glutathione derivative biosynthetic process" type="GO"/>
+    <entity charOffset="274-313" id="30643356.s2.e3" ontology_id="GO_0032922" text="circadian regulation of gene expression" type="GO"/>
+    <pair e1="30643356.s2.e0" e2="30643356.s2.e3" id="30643356.s2.p0" relation="false"/>
+    <pair e1="30643356.s2.e0" e2="30643356.s2.e2" id="30643356.s2.p1" relation="false"/>
+    <pair e1="30643356.s2.e1" e2="30643356.s2.e3" id="30643356.s2.p2" relation="false"/>
+    <pair e1="30643356.s2.e1" e2="30643356.s2.e2" id="30643356.s2.p3" relation="false"/>
+  </sentence>
+</document>

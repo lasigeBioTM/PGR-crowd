@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="29179235">
+  <sentence id="29179235.s0" text="A novel hereditary disorder encompassing high blood Mn levels, dystonia, polycythemia, distinctive cell recognition hyperintense signals in the basal ganglia on magnetic resonance imaging (MRI) brain, and chronic liver disease was recently described.">
+    <entity charOffset="63-71" id="29179235.s0.e0" ontology_id="HP_0001332" text="dystonia" type="HP"/>
+    <entity charOffset="99-115" id="29179235.s0.e1" ontology_id="GO_0008037" text="cell recognition" type="GO"/>
+  </sentence>
+</document>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="29215551">
+  <sentence id="29215551.s0" text="Aim of this study was to analyze the reproductive process mRNA and protein expression in soft tissue sarcoma and their association with patient outcome.">
+    <entity charOffset="37-57" id="29215551.s0.e0" ontology_id="GO_0022414" text="reproductive process" type="GO"/>
+    <entity charOffset="101-108" id="29215551.s0.e1" ontology_id="HP_0100242" text="sarcoma" type="HP"/>
+    <pair e1="29215551.s0.e0" e2="29215551.s0.e1" id="29215551.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29215551.s1" text="reproductive process mRNA was measured in 121 tumor samples of soft tissue sarcoma patients using quantitative real-time PCR.">
+    <entity charOffset="0-20" id="29215551.s1.e0" ontology_id="GO_0022414" text="reproductive process" type="GO"/>
+    <entity charOffset="75-82" id="29215551.s1.e1" ontology_id="HP_0100242" text="sarcoma" type="HP"/>
+    <pair e1="29215551.s1.e0" e2="29215551.s1.e1" id="29215551.s1.p0" relation="true"/>
+  </sentence>
+</document>

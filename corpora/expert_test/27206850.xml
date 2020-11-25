@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="27206850">
+  <sentence id="27206850.s0" text="Additional functional analyses suggested that mRNA splicing, via spliceosome played an oncogenic role in bladder cancer by inducing cell proliferation and suppressing apoptosis.">
+    <entity charOffset="46-76" id="27206850.s0.e0" ontology_id="GO_0000398" text="mRNA splicing, via spliceosome" type="GO"/>
+    <entity charOffset="113-119" id="27206850.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27206850.s0.e0" e2="27206850.s0.e1" id="27206850.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="27206850.s1" text="The rs2042329 risk allele was also related to significantly increased expression levels of mRNA splicing, via spliceosome mRNA and protein in bladder cancer tissues from Chinese patients.">
+    <entity charOffset="91-121" id="27206850.s1.e0" ontology_id="GO_0000398" text="mRNA splicing, via spliceosome" type="GO"/>
+    <entity charOffset="150-156" id="27206850.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27206850.s1.e0" e2="27206850.s1.e1" id="27206850.s1.p0" relation="true"/>
+  </sentence>
+</document>

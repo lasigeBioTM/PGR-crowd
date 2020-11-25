@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="28343629">
+  <sentence id="28343629.s0" text="cell proliferation encodes a member of the ovarian tumor domain (OTU)-containing subfamily of deubiquitinating enzymes.">
+    <entity charOffset="0-18" id="28343629.s0.e0" ontology_id="GO_0008283" text="cell proliferation" type="GO"/>
+    <entity charOffset="51-56" id="28343629.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28343629.s0.e0" e2="28343629.s0.e1" id="28343629.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28343629.s1" text="Herein, we report biallelic pathogenic variants in cell proliferation in 12 individuals from 6 independent families with an intellectual disability syndrome associated with seizures and dysmorphic features.">
+    <entity charOffset="51-69" id="28343629.s1.e0" ontology_id="GO_0008283" text="cell proliferation" type="GO"/>
+    <entity charOffset="124-147" id="28343629.s1.e1" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <pair e1="28343629.s1.e0" e2="28343629.s1.e1" id="28343629.s1.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="25882839">
+  <sentence id="25882839.s0" text="RNF170 is an endoplasmic reticulum membrane ubiquitin ligase that contributes to the ubiquitination of activated inositol 1,4,5-trisphosphate (IP3) receptors, and also, when point mutated (arginine to cysteine at position 199), causes autosomal dominant sensory ataxia (protein ubiquitination), a disease characterized by neurodegeneration in the posterior columns of the spinal cord.">
+    <entity charOffset="262-268" id="25882839.s0.e0" ontology_id="HP_0001251" text="ataxia" type="HP"/>
+    <entity charOffset="270-292" id="25882839.s0.e1" ontology_id="GO_0016567" text="protein ubiquitination" type="GO"/>
+    <pair e1="25882839.s0.e0" e2="25882839.s0.e1" id="25882839.s0.p0" relation="false"/>
+  </sentence>
+</document>

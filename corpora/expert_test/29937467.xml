@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29937467">
+  <sentence id="29937467.s0" text="However, the negative association between 25(OH)D and negative regulation of apoptotic process was modified by obesity and sun exposure.">
+    <entity charOffset="54-94" id="29937467.s0.e0" ontology_id="GO_0043066" text="negative regulation of apoptotic process" type="GO"/>
+    <entity charOffset="111-118" id="29937467.s0.e1" ontology_id="HP_0001513" text="obesity" type="HP"/>
+    <pair e1="29937467.s0.e0" e2="29937467.s0.e1" id="29937467.s0.p0" relation="true"/>
+  </sentence>
+</document>

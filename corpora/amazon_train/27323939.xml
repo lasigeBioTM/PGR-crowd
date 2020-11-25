@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<document id="27323939">
+  <sentence id="27323939.s0" text="Focal epilepsies, where seizures initiate in spatially limited networks, are the most frequent epilepsy muscle organ development, accounting for two-thirds of patients.">
+    <entity charOffset="95-103" id="27323939.s0.e0" ontology_id="HP_0001250" text="epilepsy" type="HP"/>
+    <entity charOffset="104-128" id="27323939.s0.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <pair e1="27323939.s0.e0" e2="27323939.s0.e1" id="27323939.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="27323939.s1" text="Brain somatic mutations in the gene encoding regulation of cell growth (regulation of cell growth) have recently been linked to focal cortical dysplasia and other associated brain pathologies including hemimegalencephaly.">
+    <entity charOffset="45-70" id="27323939.s1.e0" ontology_id="GO_0001558" text="regulation of cell growth" type="GO"/>
+    <entity charOffset="72-97" id="27323939.s1.e1" ontology_id="GO_0001558" text="regulation of cell growth" type="GO"/>
+    <entity charOffset="134-152" id="27323939.s1.e2" ontology_id="HP_0002539" text="cortical dysplasia" type="HP"/>
+    <entity charOffset="202-220" id="27323939.s1.e3" ontology_id="HP_0007206" text="hemimegalencephaly" type="HP"/>
+    <pair e1="27323939.s1.e0" e2="27323939.s1.e2" id="27323939.s1.p0" relation="true"/>
+    <pair e1="27323939.s1.e0" e2="27323939.s1.e3" id="27323939.s1.p1" relation="true"/>
+    <pair e1="27323939.s1.e1" e2="27323939.s1.e2" id="27323939.s1.p2" relation="true"/>
+  </sentence>
+</document>

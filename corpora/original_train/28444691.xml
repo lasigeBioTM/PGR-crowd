@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="28444691">
+  <sentence id="28444691.s0" text="ER to Golgi vesicle-mediated transport-CDG (COG5 subunit deficiency) is a multisystem disease with dysmorphic features, intellectual disability of variable degree, seizures, acquired microcephaly, sensory defects and autistic behavior.">
+    <entity charOffset="0-38" id="28444691.s0.e0" ontology_id="GO_0006888" text="ER to Golgi vesicle-mediated transport" type="GO"/>
+    <entity charOffset="164-172" id="28444691.s0.e1" ontology_id="HP_0001250" text="seizures" type="HP"/>
+    <entity charOffset="183-195" id="28444691.s0.e2" ontology_id="HP_0000252" text="microcephaly" type="HP"/>
+    <pair e1="28444691.s0.e0" e2="28444691.s0.e1" id="28444691.s0.p0" relation="false"/>
+    <pair e1="28444691.s0.e0" e2="28444691.s0.e2" id="28444691.s0.p1" relation="false"/>
+  </sentence>
+</document>

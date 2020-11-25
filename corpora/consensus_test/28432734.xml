@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="28432734">
+  <sentence id="28432734.s0" text="The presence of positive regulation of glucose transmembrane transport loss-of-function variants in WFS1 predicted isolated diabetes, isolated deafness, or isolated congenital cataracts without development of the full syndrome (sensitivity 100% [93%-100%]; specificity 78% [73%-82%]).">
+    <entity charOffset="16-70" id="28432734.s0.e0" ontology_id="GO_0010828" text="positive regulation of glucose transmembrane transport" type="GO"/>
+    <entity charOffset="143-151" id="28432734.s0.e1" ontology_id="HP_0000365" text="deafness" type="HP"/>
+  </sentence>
+</document>

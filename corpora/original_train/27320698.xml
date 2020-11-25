@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<document id="27320698">
+  <sentence id="27320698.s0" text="The eye features were a notable part of this child's presentation and mutations in the linkeropathy genes (proteoglycan biosynthetic process, heparan sulfate proteoglycan biosynthetic process, glycosaminoglycan biosynthetic process, glycosaminoglycan biosynthetic process, and glycosaminoglycan biosynthetic process) can be associated with ocular findings, including blue sclerae, refractive errors, corneal clouding, strabismus, nystagmus, cataracts, glaucoma, and retinal abnormalities, including retinal detachment.">
+    <entity charOffset="107-140" id="27320698.s0.e0" ontology_id="GO_0030166" text="proteoglycan biosynthetic process" type="GO"/>
+    <entity charOffset="142-191" id="27320698.s0.e1" ontology_id="GO_0015012" text="heparan sulfate proteoglycan biosynthetic process" type="GO"/>
+    <entity charOffset="193-231" id="27320698.s0.e2" ontology_id="GO_0006024" text="glycosaminoglycan biosynthetic process" type="GO"/>
+    <entity charOffset="233-271" id="27320698.s0.e3" ontology_id="GO_0006024" text="glycosaminoglycan biosynthetic process" type="GO"/>
+    <entity charOffset="277-315" id="27320698.s0.e4" ontology_id="GO_0006024" text="glycosaminoglycan biosynthetic process" type="GO"/>
+    <entity charOffset="400-416" id="27320698.s0.e5" ontology_id="HP_0007957" text="corneal clouding" type="HP"/>
+    <entity charOffset="418-428" id="27320698.s0.e6" ontology_id="HP_0000486" text="strabismus" type="HP"/>
+    <entity charOffset="430-439" id="27320698.s0.e7" ontology_id="HP_0000639" text="nystagmus" type="HP"/>
+    <entity charOffset="441-450" id="27320698.s0.e8" ontology_id="HP_0000518" text="cataracts" type="HP"/>
+    <entity charOffset="452-460" id="27320698.s0.e9" ontology_id="HP_0000501" text="glaucoma" type="HP"/>
+    <entity charOffset="499-517" id="27320698.s0.e10" ontology_id="HP_0000541" text="retinal detachment" type="HP"/>
+    <pair e1="27320698.s0.e0" e2="27320698.s0.e5" id="27320698.s0.p0" relation="false"/>
+    <pair e1="27320698.s0.e0" e2="27320698.s0.e6" id="27320698.s0.p1" relation="false"/>
+    <pair e1="27320698.s0.e0" e2="27320698.s0.e7" id="27320698.s0.p2" relation="false"/>
+    <pair e1="27320698.s0.e0" e2="27320698.s0.e9" id="27320698.s0.p3" relation="true"/>
+    <pair e1="27320698.s0.e1" e2="27320698.s0.e8" id="27320698.s0.p4" relation="true"/>
+    <pair e1="27320698.s0.e1" e2="27320698.s0.e7" id="27320698.s0.p5" relation="true"/>
+    <pair e1="27320698.s0.e1" e2="27320698.s0.e9" id="27320698.s0.p6" relation="false"/>
+    <pair e1="27320698.s0.e1" e2="27320698.s0.e10" id="27320698.s0.p7" relation="true"/>
+    <pair e1="27320698.s0.e2" e2="27320698.s0.e5" id="27320698.s0.p8" relation="false"/>
+    <pair e1="27320698.s0.e2" e2="27320698.s0.e8" id="27320698.s0.p9" relation="false"/>
+    <pair e1="27320698.s0.e2" e2="27320698.s0.e6" id="27320698.s0.p10" relation="false"/>
+    <pair e1="27320698.s0.e2" e2="27320698.s0.e7" id="27320698.s0.p11" relation="false"/>
+    <pair e1="27320698.s0.e2" e2="27320698.s0.e9" id="27320698.s0.p12" relation="false"/>
+    <pair e1="27320698.s0.e2" e2="27320698.s0.e10" id="27320698.s0.p13" relation="false"/>
+    <pair e1="27320698.s0.e3" e2="27320698.s0.e5" id="27320698.s0.p14" relation="false"/>
+    <pair e1="27320698.s0.e3" e2="27320698.s0.e8" id="27320698.s0.p15" relation="false"/>
+    <pair e1="27320698.s0.e3" e2="27320698.s0.e7" id="27320698.s0.p16" relation="false"/>
+    <pair e1="27320698.s0.e3" e2="27320698.s0.e9" id="27320698.s0.p17" relation="false"/>
+    <pair e1="27320698.s0.e3" e2="27320698.s0.e10" id="27320698.s0.p18" relation="false"/>
+    <pair e1="27320698.s0.e4" e2="27320698.s0.e8" id="27320698.s0.p19" relation="false"/>
+    <pair e1="27320698.s0.e4" e2="27320698.s0.e6" id="27320698.s0.p20" relation="true"/>
+    <pair e1="27320698.s0.e4" e2="27320698.s0.e7" id="27320698.s0.p21" relation="false"/>
+  </sentence>
+  <sentence id="27320698.s1" text="The corneal clouding and cataracts in this patient may thus have been caused by her glycosaminoglycan biosynthetic process mutation, but the colobomas are a novel phenotypic finding.">
+    <entity charOffset="4-20" id="27320698.s1.e0" ontology_id="HP_0007957" text="corneal clouding" type="HP"/>
+    <entity charOffset="25-34" id="27320698.s1.e1" ontology_id="HP_0000518" text="cataracts" type="HP"/>
+    <entity charOffset="84-122" id="27320698.s1.e2" ontology_id="GO_0006024" text="glycosaminoglycan biosynthetic process" type="GO"/>
+    <pair e1="27320698.s1.e0" e2="27320698.s1.e2" id="27320698.s1.p0" relation="false"/>
+    <pair e1="27320698.s1.e1" e2="27320698.s1.e2" id="27320698.s1.p1" relation="false"/>
+  </sentence>
+</document>

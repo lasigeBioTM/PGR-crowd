@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<document id="29892902">
+  <sentence id="29892902.s0" text="Mutations in the vesicle-mediated transport showed a wide phenotypic spectrum from hereditary spastic paraplegia (HSP) to axonal Charcot-Marie-Tooth peripheral neuropathy muscle organ development 2 (microtubule-based movement).">
+    <entity charOffset="17-43" id="29892902.s0.e0" ontology_id="GO_0016192" text="vesicle-mediated transport" type="GO"/>
+    <entity charOffset="94-112" id="29892902.s0.e1" ontology_id="HP_0001258" text="spastic paraplegia" type="HP"/>
+    <entity charOffset="149-159" id="29892902.s0.e2" ontology_id="HP_0030646" text="peripheral" type="HP"/>
+    <entity charOffset="160-170" id="29892902.s0.e3" ontology_id="HP_0009830" text="neuropathy" type="HP"/>
+    <entity charOffset="171-195" id="29892902.s0.e4" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="199-225" id="29892902.s0.e5" ontology_id="GO_0007018" text="microtubule-based movement" type="GO"/>
+    <pair e1="29892902.s0.e0" e2="29892902.s0.e1" id="29892902.s0.p0" relation="true"/>
+    <pair e1="29892902.s0.e0" e2="29892902.s0.e3" id="29892902.s0.p1" relation="true"/>
+    <pair e1="29892902.s0.e2" e2="29892902.s0.e4" id="29892902.s0.p2" relation="true"/>
+    <pair e1="29892902.s0.e2" e2="29892902.s0.e5" id="29892902.s0.p3" relation="true"/>
+    <pair e1="29892902.s0.e3" e2="29892902.s0.e5" id="29892902.s0.p4" relation="true"/>
+  </sentence>
+  <sentence id="29892902.s1" text="The p.Arg204Trp mutation was identified from a CMT2 patient with additional complex phenomuscle organ developments of HSP, ataxia, fatigability and pyramidal sign, but the p.Arg280His and p.Leu588Pro mutations were identified in each axonal CMT2 patient.">
+    <entity charOffset="89-113" id="29892902.s1.e0" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="123-129" id="29892902.s1.e1" ontology_id="HP_0001251" text="ataxia" type="HP"/>
+  </sentence>
+  <sentence id="29892902.s2" text="As the first report in Korea, this study identified three KIF5A mutations as the underlying cause of axonal peripheral neuropathy with or without the HSP phenomuscle organ development.">
+    <entity charOffset="108-118" id="29892902.s2.e0" ontology_id="HP_0030646" text="peripheral" type="HP"/>
+    <entity charOffset="159-183" id="29892902.s2.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+  </sentence>
+</document>

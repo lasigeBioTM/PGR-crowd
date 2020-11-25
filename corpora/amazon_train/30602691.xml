@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="30602691">
+  <sentence id="30602691.s0" text="The lifestyle gradually transformed from Bedouin life to urban sedentary life, along with a negative regulation of transcription by RNA polymerase II increase in obesity and other comorbidities.">
+    <entity charOffset="92-149" id="30602691.s0.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="162-169" id="30602691.s0.e1" ontology_id="HP_0001513" text="obesity" type="HP"/>
+  </sentence>
+</document>

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<document id="29505555">
+  <sentence id="29505555.s0" text="Three loci with high mutation frequencies, the 138665410 FOXL2 gene variant, the 23862952 regulation of the force of heart contraction gene variant, and the 71098693 epithelial cell development gene variant were found to be significantly associated with sporadic ASD (P&amp;lt;0.05); variants in FOXL2 and MYH6 were found in patients with isolated, sporadic ASD (P&amp;lt;5×10^-4).">
+    <entity charOffset="90-134" id="29505555.s0.e0" ontology_id="GO_0002026" text="regulation of the force of heart contraction" type="GO"/>
+    <entity charOffset="166-193" id="29505555.s0.e1" ontology_id="GO_0002064" text="epithelial cell development" type="GO"/>
+    <entity charOffset="254-262" id="29505555.s0.e2" ontology_id="HP_0003745" text="sporadic" type="HP"/>
+    <pair e1="29505555.s0.e0" e2="29505555.s0.e2" id="29505555.s0.p0" relation="true"/>
+    <pair e1="29505555.s0.e1" e2="29505555.s0.e2" id="29505555.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="29505555.s1" text="CONCLUSIONS This was the first study that demonstrated variants in negative regulation of transcription, DNA-templated and epithelial cell development associated with sporadic ASD, and supported the use of WES and bioinformatics analysis to identify disease-associated mutations">
+    <entity charOffset="67-118" id="29505555.s1.e0" ontology_id="GO_0045892" text="negative regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="123-150" id="29505555.s1.e1" ontology_id="GO_0002064" text="epithelial cell development" type="GO"/>
+    <entity charOffset="167-175" id="29505555.s1.e2" ontology_id="HP_0003745" text="sporadic" type="HP"/>
+    <pair e1="29505555.s1.e0" e2="29505555.s1.e2" id="29505555.s1.p0" relation="true"/>
+    <pair e1="29505555.s1.e1" e2="29505555.s1.e2" id="29505555.s1.p1" relation="true"/>
+  </sentence>
+</document>

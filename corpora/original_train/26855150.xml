@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="26855150">
+  <sentence id="26855150.s0" text="Cytochrome P450 3A5 (lipid hydroxylation) metabolizes these compounds in tumors of the exocrine-like subtype, and pharmacological or short hairpin RNA (shRNA)-mediated CYP3A5 inhibition sensitizes tumor cells to these drugs.">
+    <entity charOffset="21-40" id="26855150.s0.e0" ontology_id="GO_0002933" text="lipid hydroxylation" type="GO"/>
+    <entity charOffset="73-79" id="26855150.s0.e1" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <entity charOffset="197-202" id="26855150.s0.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="26855150.s0.e0" e2="26855150.s0.e1" id="26855150.s0.p0" relation="false"/>
+    <pair e1="26855150.s0.e0" e2="26855150.s0.e2" id="26855150.s0.p1" relation="false"/>
+  </sentence>
+</document>

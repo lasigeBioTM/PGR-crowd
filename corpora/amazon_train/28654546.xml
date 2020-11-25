@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<document id="28654546">
+  <sentence id="28654546.s0" text="In this study, we evaluated the possible interaction between protein polyubiquitination-146a and one of its putative targets ribonuclease L (negative regulation of viral genome replication) in the risk of sporadic melanoma.">
+    <entity charOffset="61-87" id="28654546.s0.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="141-188" id="28654546.s0.e1" ontology_id="GO_0045071" text="negative regulation of viral genome replication" type="GO"/>
+    <entity charOffset="205-213" id="28654546.s0.e2" ontology_id="HP_0003745" text="sporadic" type="HP"/>
+    <entity charOffset="214-222" id="28654546.s0.e3" ontology_id="HP_0002861" text="melanoma" type="HP"/>
+    <pair e1="28654546.s0.e0" e2="28654546.s0.e2" id="28654546.s0.p0" relation="true"/>
+    <pair e1="28654546.s0.e0" e2="28654546.s0.e3" id="28654546.s0.p1" relation="true"/>
+    <pair e1="28654546.s0.e1" e2="28654546.s0.e2" id="28654546.s0.p2" relation="true"/>
+  </sentence>
+  <sentence id="28654546.s1" text="Polymorphisms rs2910164 in protein polyubiquitination-146a and rs486907 in the RNASEL gene have both independently been associated with the risk of different cancers, and an interaction between them has been observed in nonmelanoma skin cancer.">
+    <entity charOffset="27-53" id="28654546.s1.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="158-164" id="28654546.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="223-231" id="28654546.s1.e2" ontology_id="HP_0002861" text="melanoma" type="HP"/>
+    <pair e1="28654546.s1.e0" e2="28654546.s1.e2" id="28654546.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="28654546.s2" text="The results reported in the present study suggest a multicellular organism development-specific interaction between miR-146a and negative regulation of viral genome replication genes in melanoma skin cancer susceptibility, and could account for possible discordant results in association studies when stratification according to sex is not performed">
+    <entity charOffset="52-86" id="28654546.s2.e0" ontology_id="GO_0007275" text="multicellular organism development" type="GO"/>
+    <entity charOffset="129-176" id="28654546.s2.e1" ontology_id="GO_0045071" text="negative regulation of viral genome replication" type="GO"/>
+    <entity charOffset="186-194" id="28654546.s2.e2" ontology_id="HP_0002861" text="melanoma" type="HP"/>
+    <entity charOffset="200-206" id="28654546.s2.e3" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28654546.s2.e1" e2="28654546.s2.e2" id="28654546.s2.p0" relation="true"/>
+    <pair e1="28654546.s2.e1" e2="28654546.s2.e3" id="28654546.s2.p1" relation="true"/>
+  </sentence>
+</document>

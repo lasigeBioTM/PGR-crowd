@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="24916641">
+  <sentence id="24916641.s0" text="A hypomorphic variant in cellular copper ion homeostasis was previously reported in association with a familial case of syndromic X-linked intellectual disability, which shows phenotypic overlap with RSS/3C syndrome.">
+    <entity charOffset="25-56" id="24916641.s0.e0" ontology_id="GO_0006878" text="cellular copper ion homeostasis" type="GO"/>
+    <entity charOffset="139-162" id="24916641.s0.e1" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <pair e1="24916641.s0.e0" e2="24916641.s0.e1" id="24916641.s0.p0" relation="true"/>
+  </sentence>
+</document>

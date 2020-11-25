@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27642048">
+  <sentence id="27642048.s0" text="Mutations in subunits of mitochondrial m-AAA proteases in the inner membrane cause neurodegeneration in spinocerebellar ataxia (proteolysis) and hereditary spastic paraplegia (HSP7).">
+    <entity charOffset="128-139" id="27642048.s0.e0" ontology_id="GO_0006508" text="proteolysis" type="GO"/>
+    <entity charOffset="156-174" id="27642048.s0.e1" ontology_id="HP_0001258" text="spastic paraplegia" type="HP"/>
+    <pair e1="27642048.s0.e0" e2="27642048.s0.e1" id="27642048.s0.p0" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<document id="28901390">
+  <sentence id="28901390.s0" text="In this study, we found that tumor suppressor candidate 3 (magnesium ion transport) was downregulated in temozolomide-resistant U87MG cells (U87MG-res cells) and its restoration sensitized U87MG-res cells to temozolomide.">
+    <entity charOffset="29-34" id="28901390.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="59-82" id="28901390.s0.e1" ontology_id="GO_0015693" text="magnesium ion transport" type="GO"/>
+    <pair e1="28901390.s0.e0" e2="28901390.s0.e1" id="28901390.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="28901390.s1" text="protein polyubiquitination‑132 was upregulated in the U87MG-res cells and its overexpression induced temozolomide resistance and the formation of cancer stem cell phenotypes in the U87MG cells.">
+    <entity charOffset="0-26" id="28901390.s1.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="146-152" id="28901390.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28901390.s1.e0" e2="28901390.s1.e1" id="28901390.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="28901390.s2" text="Thus, our data indicate that protein polyubiquitination-132 induces temozolomide resistance and promotes the formation of cancer stem cell phenotypes by targeting magnesium ion transport in glioblastoma">
+    <entity charOffset="29-55" id="28901390.s2.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="122-128" id="28901390.s2.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="163-186" id="28901390.s2.e2" ontology_id="GO_0015693" text="magnesium ion transport" type="GO"/>
+    <pair e1="28901390.s2.e0" e2="28901390.s2.e1" id="28901390.s2.p0" relation="false"/>
+    <pair e1="28901390.s2.e1" e2="28901390.s2.e2" id="28901390.s2.p1" relation="false"/>
+  </sentence>
+</document>

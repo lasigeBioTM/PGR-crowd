@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="28646536">
+  <sentence id="28646536.s0" text="Cystinuria is a heterogeneous, rare but important cause of inherited kidney stone disease due to mutations in 2 genes: SLC3A1 and neutral amino acid transport.">
+    <entity charOffset="16-29" id="28646536.s0.e0" ontology_id="HP_0001425" text="heterogeneous" type="HP"/>
+    <entity charOffset="130-158" id="28646536.s0.e1" ontology_id="GO_0015804" text="neutral amino acid transport" type="GO"/>
+    <pair e1="28646536.s0.e0" e2="28646536.s0.e1" id="28646536.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28646536.s1" text="We report 83 patients affected by cystinuria: 44 presented prenatally with a establishment of mitotic spindle orientation (HEC group) and 39 with a classical postnatal form (CC group).">
+    <entity charOffset="34-44" id="28646536.s1.e0" ontology_id="HP_0003131" text="cystinuria" type="HP"/>
+    <entity charOffset="77-121" id="28646536.s1.e1" ontology_id="GO_0000132" text="establishment of mitotic spindle orientation" type="GO"/>
+    <pair e1="28646536.s1.e0" e2="28646536.s1.e1" id="28646536.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="28646536.s2" text="This study shows a relationship between genotype and the clinical form of cystinuria, suggesting that only the patients with the most severe mutations presented with an establishment of mitotic spindle orientation.">
+    <entity charOffset="74-84" id="28646536.s2.e0" ontology_id="HP_0003131" text="cystinuria" type="HP"/>
+    <entity charOffset="169-213" id="28646536.s2.e1" ontology_id="GO_0000132" text="establishment of mitotic spindle orientation" type="GO"/>
+    <pair e1="28646536.s2.e0" e2="28646536.s2.e1" id="28646536.s2.p0" relation="true"/>
+  </sentence>
+</document>

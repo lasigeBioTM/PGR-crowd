@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<document id="29065434">
+  <sentence id="29065434.s0" text="Is positive regulation of proteolysis due to the bilateral occurrence of APCCs, to germline variants, or perhaps due to unknown serum factors? Lastly, the etiology of unsolved cases of apparently familial hyperaldosteronism remains to be discovered.">
+    <entity charOffset="3-37" id="29065434.s0.e0" ontology_id="GO_0045862" text="positive regulation of proteolysis" type="GO"/>
+    <entity charOffset="49-58" id="29065434.s0.e1" ontology_id="HP_0012832" text="bilateral" type="HP"/>
+    <entity charOffset="205-223" id="29065434.s0.e2" ontology_id="HP_0000859" text="hyperaldosteronism" type="HP"/>
+    <pair e1="29065434.s0.e0" e2="29065434.s0.e2" id="29065434.s0.p0" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="28252641">
+  <sentence id="28252641.s0" text="Mechanical compression induced protein polyubiquitination-9 downregulation by DNA methylation-dependent promoter methylation in the MDA-MB-231 and biological_process-474 breast cancer cell lines and in cancer-associated fibroblasts.">
+    <entity charOffset="31-57" id="28252641.s0.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="78-93" id="28252641.s0.e1" ontology_id="GO_0006306" text="DNA methylation" type="GO"/>
+    <entity charOffset="147-165" id="28252641.s0.e2" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="177-183" id="28252641.s0.e3" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28252641.s0.e0" e2="28252641.s0.e3" id="28252641.s0.p0" relation="false"/>
+    <pair e1="28252641.s0.e1" e2="28252641.s0.e3" id="28252641.s0.p1" relation="true"/>
+    <pair e1="28252641.s0.e2" e2="28252641.s0.e3" id="28252641.s0.p2" relation="false"/>
+  </sentence>
+</document>

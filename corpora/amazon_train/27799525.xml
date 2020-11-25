@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="27799525">
+  <sentence id="27799525.s0" text="The tumor cells resembled pro-B cells, and were CD19&lt;sup&gt;+&lt;/sup&gt;IgM&lt;sup&gt;-&lt;/sup&gt;IgD&lt;sup&gt;-&lt;/sup&gt;CD93&lt;sup&gt;+&lt;/sup&gt;CD43&lt;sup&gt;+&lt;/sup&gt;CD21&lt;sup&gt;-&lt;/sup&gt;CD23&lt;sup&gt;-&lt;/sup&gt;VpreB&lt;sup&gt;+&lt;/sup&gt;CXCR4&lt;sup&gt;+&lt;/sup&gt; Consistent with the pro-B-cell stage of B-cell development, microarray analysis revealed enrichment of transcripts, including V(D)J recombination, pre-B cell allelic exclusion, CD93, leukocyte migration, leukocyte migration, and Igll1 We confirmed RAG1 expression in Tg26 tumors, and hypothesized that HIV-1 matrix protein p17 may directly induce RAG1 in B cells.">
+    <entity charOffset="4-9" id="27799525.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="319-338" id="27799525.s0.e1" ontology_id="GO_0033151" text="V(D)J recombination" type="GO"/>
+    <entity charOffset="340-368" id="27799525.s0.e2" ontology_id="GO_0002331" text="pre-B cell allelic exclusion" type="GO"/>
+    <entity charOffset="376-395" id="27799525.s0.e3" ontology_id="GO_0050900" text="leukocyte migration" type="GO"/>
+    <entity charOffset="397-416" id="27799525.s0.e4" ontology_id="GO_0050900" text="leukocyte migration" type="GO"/>
+    <pair e1="27799525.s0.e0" e2="27799525.s0.e1" id="27799525.s0.p0" relation="true"/>
+    <pair e1="27799525.s0.e0" e2="27799525.s0.e2" id="27799525.s0.p1" relation="true"/>
+    <pair e1="27799525.s0.e0" e2="27799525.s0.e3" id="27799525.s0.p2" relation="true"/>
+    <pair e1="27799525.s0.e0" e2="27799525.s0.e4" id="27799525.s0.p3" relation="true"/>
+  </sentence>
+</document>

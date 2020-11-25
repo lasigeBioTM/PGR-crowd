@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<document id="28346420">
+  <sentence id="28346420.s0" text="Cyclooxygenase (generation of precursor metabolites and energy)-2 is upregulated in hepatocellular carcinoma (phosphatidylinositol phosphorylation).">
+    <entity charOffset="16-62" id="28346420.s0.e0" ontology_id="GO_0006091" text="generation of precursor metabolites and energy" type="GO"/>
+    <entity charOffset="84-108" id="28346420.s0.e1" ontology_id="HP_0001402" text="hepatocellular carcinoma" type="HP"/>
+    <entity charOffset="110-146" id="28346420.s0.e2" ontology_id="GO_0046854" text="phosphatidylinositol phosphorylation" type="GO"/>
+    <pair e1="28346420.s0.e0" e2="28346420.s0.e1" id="28346420.s0.p0" relation="false"/>
+    <pair e1="28346420.s0.e1" e2="28346420.s0.e2" id="28346420.s0.p1" relation="false"/>
+  </sentence>
+  <sentence id="28346420.s1" text="Bio-functional investigation revealed that LTBP1 inhibited cell proliferation in phosphatidylinositol phosphorylation cell lines, suggesting its potential role as a tumor suppressor in HCC.">
+    <entity charOffset="81-117" id="28346420.s1.e0" ontology_id="GO_0046854" text="phosphatidylinositol phosphorylation" type="GO"/>
+    <entity charOffset="165-170" id="28346420.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28346420.s1.e0" e2="28346420.s1.e1" id="28346420.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="28346420.s2" text="In conclusion, this study demonstrated for the first time that enhanced generation of precursor metabolites and energy-2 expression in hepatocytes is sufficient to induce phosphatidylinositol phosphorylation through inducing promoter hypermethylation by reducing TET1, silencing tumor-suppressive genes and activating key oncogenic pathways.">
+    <entity charOffset="72-118" id="28346420.s2.e0" ontology_id="GO_0006091" text="generation of precursor metabolites and energy" type="GO"/>
+    <entity charOffset="171-207" id="28346420.s2.e1" ontology_id="GO_0046854" text="phosphatidylinositol phosphorylation" type="GO"/>
+    <entity charOffset="279-284" id="28346420.s2.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28346420.s2.e0" e2="28346420.s2.e2" id="28346420.s2.p0" relation="false"/>
+    <pair e1="28346420.s2.e1" e2="28346420.s2.e2" id="28346420.s2.p1" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="30592286">
+  <sentence id="30592286.s0" text="miR‑498 overexpression induced cell cycle arrest and apoptosis while it suppressed epithelial‑mesenchymal transition (cytokine production) in liver cancer cells.">
+    <entity charOffset="118-137" id="30592286.s0.e0" ontology_id="GO_0001816" text="cytokine production" type="GO"/>
+    <entity charOffset="148-154" id="30592286.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30592286.s0.e0" e2="30592286.s0.e1" id="30592286.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="30592286.s1" text="Furthermore, negative regulation of transcription by RNA polymerase II knockdown recapitulated the inhibitory effects of miR‑498 overexpression in liver cancer cells.">
+    <entity charOffset="13-70" id="30592286.s1.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="153-159" id="30592286.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30592286.s1.e0" e2="30592286.s1.e1" id="30592286.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="30592286.s2" text="Thus, we demonstrated that miR‑498 suppresses the growth and metastasis of liver cancer cells, partly at least, by directly targeting negative regulation of transcription by RNA polymerase II, suggesting that miR‑498 may serve as a potential biomarker for the diagnosis and therapy of liver cancer">
+    <entity charOffset="81-87" id="30592286.s2.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="134-191" id="30592286.s2.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="30592286.s2.e0" e2="30592286.s2.e1" id="30592286.s2.p0" relation="false"/>
+  </sentence>
+</document>

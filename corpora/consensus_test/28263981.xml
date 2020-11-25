@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28263981">
+  <sentence id="28263981.s0" text="These results demonstrate that Piccolo contributes to tumor aggressiveness in ESCC, likely by stabilizing positive regulation of protein phosphorylation and promoting EGFR-dependent signaling.">
+    <entity charOffset="60-74" id="28263981.s0.e0" ontology_id="HP_0000718" text="aggressiveness" type="HP"/>
+    <entity charOffset="106-152" id="28263981.s0.e1" ontology_id="GO_0001934" text="positive regulation of protein phosphorylation" type="GO"/>
+    <pair e1="28263981.s0.e0" e2="28263981.s0.e1" id="28263981.s0.p0" relation="true"/>
+  </sentence>
+</document>

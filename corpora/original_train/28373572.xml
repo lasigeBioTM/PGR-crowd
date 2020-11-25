@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<document id="28373572">
+  <sentence id="28373572.s0" text="The K&lt;sup&gt;+&lt;/sup&gt; channel cellular response to drug has been proposed as a tumor suppressor in colorectal cancer (CRC).">
+    <entity charOffset="26-51" id="28373572.s0.e0" ontology_id="GO_0035690" text="cellular response to drug" type="GO"/>
+    <entity charOffset="106-112" id="28373572.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28373572.s0.e0" e2="28373572.s0.e1" id="28373572.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28373572.s1" text="Analysis of human primary CRC tumor patient databases showed a positive correlation between cellular response to drug:KCNE3 channel complex expression and disease-free survival.">
+    <entity charOffset="30-35" id="28373572.s1.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="92-117" id="28373572.s1.e1" ontology_id="GO_0035690" text="cellular response to drug" type="GO"/>
+    <pair e1="28373572.s1.e0" e2="28373572.s1.e1" id="28373572.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="28373572.s2" text="We conclude that the cellular response to drug ion channel is a target gene and regulator of the Wnt/β-catenin pathway, and its repression leads to CRC cell proliferation, cytokine production, and tumorigenesis">
+    <entity charOffset="21-46" id="28373572.s2.e0" ontology_id="GO_0035690" text="cellular response to drug" type="GO"/>
+    <entity charOffset="172-191" id="28373572.s2.e1" ontology_id="GO_0001816" text="cytokine production" type="GO"/>
+    <entity charOffset="197-202" id="28373572.s2.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28373572.s2.e0" e2="28373572.s2.e2" id="28373572.s2.p0" relation="true"/>
+    <pair e1="28373572.s2.e1" e2="28373572.s2.e2" id="28373572.s2.p1" relation="true"/>
+  </sentence>
+</document>

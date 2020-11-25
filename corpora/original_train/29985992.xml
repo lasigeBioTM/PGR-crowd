@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29985992">
+  <sentence id="29985992.s0" text="Taken together, we show here that mutations leading either to hematopoietic stem cell migration haploinsufficiency or to a truncated BCL11B protein clinically cause a non-syndromic neurodevelopmental delay.">
+    <entity charOffset="62-95" id="29985992.s0.e0" ontology_id="GO_0035701" text="hematopoietic stem cell migration" type="GO"/>
+    <entity charOffset="186-205" id="29985992.s0.e1" ontology_id="HP_0001263" text="developmental delay" type="HP"/>
+    <pair e1="29985992.s0.e0" e2="29985992.s0.e1" id="29985992.s0.p0" relation="true"/>
+  </sentence>
+</document>

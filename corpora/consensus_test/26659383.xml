@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="26659383">
+  <sentence id="26659383.s0" text="Ectodysplasin-A2 (positive regulation of NF-kappaB transcription factor activity) is a recently isolated member of the tumor necrosis factor superfamily that binds to X-linked ectodermal dysplasia receptor (XEDAR).">
+    <entity charOffset="18-80" id="26659383.s0.e0" ontology_id="GO_0051092" text="positive regulation of NF-kappaB transcription factor activity" type="GO"/>
+    <entity charOffset="176-196" id="26659383.s0.e1" ontology_id="HP_0000968" text="ectodermal dysplasia" type="HP"/>
+    <pair e1="26659383.s0.e0" e2="26659383.s0.e1" id="26659383.s0.p0" relation="false"/>
+  </sentence>
+</document>

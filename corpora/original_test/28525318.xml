@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28525318">
+  <sentence id="28525318.s0" text="The results indicated that compared with the adjacent non-tumor tissues and a normal gastric epithelial cell line, gastric cancer tissues and cell lines exhibited significantly higher expression of proteasomal protein catabolic process.">
+    <entity charOffset="123-129" id="28525318.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="198-235" id="28525318.s0.e1" ontology_id="GO_0010498" text="proteasomal protein catabolic process" type="GO"/>
+    <pair e1="28525318.s0.e0" e2="28525318.s0.e1" id="28525318.s0.p0" relation="true"/>
+  </sentence>
+</document>

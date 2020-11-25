@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="29401583">
+  <sentence id="29401583.s0" text="Depletion of ASS1 led to inhibition of tumor growth and decreased cell invasion via induction of autophagy-lysosome machinery, resulting in degradation of active β-catenin, negative regulation of transcription by RNA polymerase II, and negative regulation of transcription, DNA-templated.">
+    <entity charOffset="39-44" id="29401583.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="173-230" id="29401583.s0.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="236-287" id="29401583.s0.e2" ontology_id="GO_0045892" text="negative regulation of transcription, DNA-templated" type="GO"/>
+    <pair e1="29401583.s0.e0" e2="29401583.s0.e1" id="29401583.s0.p0" relation="false"/>
+    <pair e1="29401583.s0.e0" e2="29401583.s0.e2" id="29401583.s0.p1" relation="false"/>
+  </sentence>
+  <sentence id="29401583.s1" text="We identify differentially expressed proteins in microdissected GC tumor cells relative to adjacent nontumor epithelia by isobaric cell adhesion mediated by integrin tag for relative and absolute quantitation proteomics analysis.">
+    <entity charOffset="67-72" id="29401583.s1.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="131-165" id="29401583.s1.e1" ontology_id="GO_0033627" text="cell adhesion mediated by integrin" type="GO"/>
+  </sentence>
+</document>

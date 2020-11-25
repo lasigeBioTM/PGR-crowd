@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<document id="27220846">
+  <sentence id="27220846.s0" text="Mutation in the hippo signalingVS gene causes nephronophthisis type II (negative regulation of canonical Wnt signaling pathway), an autosomal recessive chronic tubulointerstitial nephropathy.">
+    <entity charOffset="16-31" id="27220846.s0.e0" ontology_id="GO_0035329" text="hippo signaling" type="GO"/>
+    <entity charOffset="72-126" id="27220846.s0.e1" ontology_id="GO_0090090" text="negative regulation of canonical Wnt signaling pathway" type="GO"/>
+    <entity charOffset="132-151" id="27220846.s0.e2" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="179-190" id="27220846.s0.e3" ontology_id="HP_0000112" text="nephropathy" type="HP"/>
+    <pair e1="27220846.s0.e0" e2="27220846.s0.e3" id="27220846.s0.p0" relation="false"/>
+    <pair e1="27220846.s0.e1" e2="27220846.s0.e3" id="27220846.s0.p1" relation="true"/>
+  </sentence>
+</document>

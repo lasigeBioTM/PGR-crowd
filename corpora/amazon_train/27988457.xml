@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<document id="27988457">
+  <sentence id="27988457.s0" text="Lucitanib is a small molecule inhibitor of vascular endothelial growth factor (negative regulation of transcription by RNA polymerase II) receptors 1 to 3 (VEGFR1 to 3), platelet derived growth factor α/β (PDGFRα/β) and FGFR1-3 tyrosine kinases and has demonstrated activity in a phase I/II clinical study, with objective RECIST responses in breast cancer patients with FGFR1 or FGF3/4/19 gene amplification, as well as in patients anticipated to benefit from anti-angiogenic agents.">
+    <entity charOffset="79-136" id="27988457.s0.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="349-355" id="27988457.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27988457.s0.e0" e2="27988457.s0.e1" id="27988457.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="27988457.s1" text="We report here the in vitro and in vivo antitumor activity of lucitanib in experimental models with or without positive regulation of cell proliferation/2 amplification or mutations.">
+    <entity charOffset="44-49" id="27988457.s1.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="111-152" id="27988457.s1.e1" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <pair e1="27988457.s1.e0" e2="27988457.s1.e1" id="27988457.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="27988457.s2" text="In cell assays, lucitanib potently inhibited the growth of tumor cell lines with amplified FGFR1 or mutated/amplified positive regulation of cell proliferation.">
+    <entity charOffset="59-64" id="27988457.s2.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="118-159" id="27988457.s2.e1" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <pair e1="27988457.s2.e0" e2="27988457.s2.e1" id="27988457.s2.p0" relation="true"/>
+  </sentence>
+  <sentence id="27988457.s3" text="Notably, in two lung cancer models with positive regulation of cell proliferation amplification, the antitumor efficacy was higher, suggesting that the simultaneous inhibition of negative regulation of transcription by RNA polymerase II and FGF receptors in FGFR1 dependent tumors can be therapeutically advantageous.">
+    <entity charOffset="21-27" id="27988457.s3.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="40-81" id="27988457.s3.e1" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <entity charOffset="105-110" id="27988457.s3.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="179-236" id="27988457.s3.e3" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="27988457.s3.e0" e2="27988457.s3.e3" id="27988457.s3.p0" relation="true"/>
+    <pair e1="27988457.s3.e0" e2="27988457.s3.e1" id="27988457.s3.p1" relation="true"/>
+    <pair e1="27988457.s3.e2" e2="27988457.s3.e3" id="27988457.s3.p2" relation="true"/>
+  </sentence>
+  <sentence id="27988457.s4" text="Similar antitumor activity was observed in positive regulation of cell proliferation wild-type and amplified or mutated xenograft models.">
+    <entity charOffset="12-17" id="27988457.s4.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="43-84" id="27988457.s4.e1" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <pair e1="27988457.s4.e0" e2="27988457.s4.e1" id="27988457.s4.p0" relation="true"/>
+  </sentence>
+</document>

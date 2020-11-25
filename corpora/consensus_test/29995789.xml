@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<document id="29995789">
+  <sentence id="29995789.s0" text="This case-control study was aimed to evaluate the influence of cytochrome P450 family 17 subfamily A member 1 (CYP17A1) gene rs743572 polymorphism for the susceptibility to endometriosis.Polymerase chain recoenzyme A biosynthetic procession-restriction fragment length polymorphism (PCR-RFLP) was used to genotype rs743572 polymorphism in 143 endometriosis patients and 148 healthy controls.">
+    <entity charOffset="173-186" id="29995789.s0.e0" ontology_id="HP_0030127" text="endometriosis" type="HP"/>
+    <entity charOffset="206-237" id="29995789.s0.e1" ontology_id="GO_0015937" text="coenzyme A biosynthetic process" type="GO"/>
+  </sentence>
+  <sentence id="29995789.s1" text="But we failed to find any obvious association of rs743572 genotypes with endometriosis stages and charcoenzyme A biosynthetic processeristics.T allele of rs743572 polymorphism might act as a risk factor for endometriosis, although it had no effects on the disease stages and basic features">
+    <entity charOffset="73-86" id="29995789.s1.e0" ontology_id="HP_0030127" text="endometriosis" type="HP"/>
+    <entity charOffset="102-133" id="29995789.s1.e1" ontology_id="GO_0015937" text="coenzyme A biosynthetic process" type="GO"/>
+  </sentence>
+</document>

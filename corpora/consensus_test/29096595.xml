@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="29096595">
+  <sentence id="29096595.s0" text="In proximal renal tubules, regulation of phosphate transport suppresses the membrane expression of the sodium-phosphate cotransporters Npt2a and Npt2c which mediate urinary reabsorption of filtered phosphate.">
+    <entity charOffset="3-11" id="29096595.s0.e0" ontology_id="HP_0012840" text="proximal" type="HP"/>
+    <entity charOffset="27-60" id="29096595.s0.e1" ontology_id="GO_0010966" text="regulation of phosphate transport" type="GO"/>
+    <pair e1="29096595.s0.e0" e2="29096595.s0.e1" id="29096595.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="29096595.s1" text="In distal renal tubules, regulation of phosphate transport signaling activates with-no-lysine kinase 4, leading to increased renal tubular reabsorption of calcium and sodium.">
+    <entity charOffset="3-9" id="29096595.s1.e0" ontology_id="HP_0012839" text="distal" type="HP"/>
+    <entity charOffset="25-58" id="29096595.s1.e1" ontology_id="GO_0010966" text="regulation of phosphate transport" type="GO"/>
+    <pair e1="29096595.s1.e0" e2="29096595.s1.e1" id="29096595.s1.p0" relation="false"/>
+  </sentence>
+</document>

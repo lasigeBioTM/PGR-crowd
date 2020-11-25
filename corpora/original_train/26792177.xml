@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="26792177">
+  <sentence id="26792177.s0" text="Overall, this first report of a germline molecular defect in opsonization unveils the key role of SP-A1 in the occurrence of several chronic respiratory diseases, ranging from severe respiratory insufficiency occurring early in life to the association of lung fibrosis and cancer in adult patients.">
+    <entity charOffset="61-73" id="26792177.s0.e0" ontology_id="GO_0008228" text="opsonization" type="GO"/>
+    <entity charOffset="273-279" id="26792177.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="26792177.s0.e0" e2="26792177.s0.e1" id="26792177.s0.p0" relation="false"/>
+  </sentence>
+</document>

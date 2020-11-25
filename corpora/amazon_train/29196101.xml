@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<document id="29196101">
+  <sentence id="29196101.s0" text="This study aimed to elucidate the potential functional mechanism of miR-135b-5p in migration, invasion and epithelial-to-mesenchymal transition (cytokine production) of pancreatic cancer cells.">
+    <entity charOffset="145-164" id="29196101.s0.e0" ontology_id="GO_0001816" text="cytokine production" type="GO"/>
+    <entity charOffset="180-186" id="29196101.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+  </sentence>
+  <sentence id="29196101.s1" text="By real-time PCR and analysis of GEO database, we determined the up-regulated expression of protein polyubiquitination-135b-5p in pancreatic cancer tissues and cell lines.">
+    <entity charOffset="92-118" id="29196101.s1.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="141-147" id="29196101.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29196101.s1.e0" e2="29196101.s1.e1" id="29196101.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="29196101.s2" text="Functionally, Transwell assays indicated that protein polyubiquitination-135b-5p was a promoter for migration and invasion of pancreatic cancer cells.">
+    <entity charOffset="46-72" id="29196101.s2.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="137-143" id="29196101.s2.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29196101.s2.e0" e2="29196101.s2.e1" id="29196101.s2.p0" relation="true"/>
+  </sentence>
+  <sentence id="29196101.s3" text="Additionally, immunohistochemistry staining and Western blot showed that highly expressed protein polyubiquitination-135b-5p accelerated EMT process of pancreatic cancer cells.">
+    <entity charOffset="90-116" id="29196101.s3.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="163-169" id="29196101.s3.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29196101.s3.e0" e2="29196101.s3.e1" id="29196101.s3.p0" relation="true"/>
+  </sentence>
+  <sentence id="29196101.s4" text="Furthermore, a series of experiments and rescue experiments revealed that Nuclear Receptor Subfamily 3 Group C Member 2 (NR3C2) was the target of protein polyubiquitination-135b-5p in pancreatic cancer cells, mediating the promotion effects of miR-135b-5p on the tumor cells migration, invasion and cytokine production.">
+    <entity charOffset="146-172" id="29196101.s4.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="195-201" id="29196101.s4.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="263-268" id="29196101.s4.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="299-318" id="29196101.s4.e3" ontology_id="GO_0001816" text="cytokine production" type="GO"/>
+    <pair e1="29196101.s4.e0" e2="29196101.s4.e1" id="29196101.s4.p0" relation="true"/>
+    <pair e1="29196101.s4.e0" e2="29196101.s4.e2" id="29196101.s4.p1" relation="true"/>
+    <pair e1="29196101.s4.e2" e2="29196101.s4.e3" id="29196101.s4.p2" relation="true"/>
+  </sentence>
+  <sentence id="29196101.s5" text="In conclusion, protein polyubiquitination-135b-5p, maybe a novel therapeutic target for pancreatic cancer, promoted migration, invasion and cytokine production of pancreatic cancer cells by targeting NR3C2">
+    <entity charOffset="15-41" id="29196101.s5.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="99-105" id="29196101.s5.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="140-159" id="29196101.s5.e2" ontology_id="GO_0001816" text="cytokine production" type="GO"/>
+    <pair e1="29196101.s5.e0" e2="29196101.s5.e1" id="29196101.s5.p0" relation="true"/>
+  </sentence>
+</document>

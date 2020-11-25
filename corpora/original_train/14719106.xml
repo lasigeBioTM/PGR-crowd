@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="14719106">
+  <sentence id="14719106.s0" text="Subsequent quantitative PCR experiments confirmed that I-kappaB phosphorylation, CKS2, female pregnancy, and an protein phosphorylation (GenBank accession number BF696304) were expressed at significantly higher levels in tumors with metastasis.">
+    <entity charOffset="55-79" id="14719106.s0.e0" ontology_id="GO_0007252" text="I-kappaB phosphorylation" type="GO"/>
+    <entity charOffset="87-103" id="14719106.s0.e1" ontology_id="GO_0007565" text="female pregnancy" type="GO"/>
+    <entity charOffset="112-135" id="14719106.s0.e2" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <entity charOffset="221-227" id="14719106.s0.e3" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <pair e1="14719106.s0.e0" e2="14719106.s0.e3" id="14719106.s0.p0" relation="false"/>
+    <pair e1="14719106.s0.e1" e2="14719106.s0.e3" id="14719106.s0.p1" relation="false"/>
+    <pair e1="14719106.s0.e2" e2="14719106.s0.e3" id="14719106.s0.p2" relation="true"/>
+  </sentence>
+</document>

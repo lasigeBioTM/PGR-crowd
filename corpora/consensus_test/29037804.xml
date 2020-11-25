@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<document id="29037804">
+  <sentence id="29037804.s0" text="In 44 primary acral melanomas, sensitivity was 70.5% (31/44) using probe negative regulation of transcription, DNA-templated 1 alone, and 59.1% (26/44) using probe set 2 alone.">
+    <entity charOffset="20-29" id="29037804.s0.e0" ontology_id="HP_0002861" text="melanomas" type="HP"/>
+    <entity charOffset="73-124" id="29037804.s0.e1" ontology_id="GO_0045892" text="negative regulation of transcription, DNA-templated" type="GO"/>
+  </sentence>
+  <sentence id="29037804.s1" text="In this study superoxide metabolic process exhibited sensitivity and specificity in diagnosis of acral melanoma which allows its application as an auxiliary diagnostic test in acral melanocytic tumours">
+    <entity charOffset="14-42" id="29037804.s1.e0" ontology_id="GO_0006801" text="superoxide metabolic process" type="GO"/>
+    <entity charOffset="97-102" id="29037804.s1.e1" ontology_id="HP_0025292" text="acral" type="HP"/>
+    <pair e1="29037804.s1.e0" e2="29037804.s1.e1" id="29037804.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="29037804.s2" text="Fluorescence in situ hybridisation (superoxide metabolic process) targeting specific genes has been used as an ancillary method for differential diagnosis of melanocytic tumours, but most previous studies have focused on non-acral lesions which may have genetic alterations different from acral lesions.">
+    <entity charOffset="36-64" id="29037804.s2.e0" ontology_id="GO_0006801" text="superoxide metabolic process" type="GO"/>
+    <entity charOffset="225-230" id="29037804.s2.e1" ontology_id="HP_0025292" text="acral" type="HP"/>
+  </sentence>
+</document>

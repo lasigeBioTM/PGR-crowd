@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<document id="28148925">
+  <sentence id="28148925.s0" text="Cerebral, ocular, dental, auricular, skeletal (CODAS) syndrome is a rare autosomal recessive multisystem disorder caused by mutations in cellular response to oxidative stress.">
+    <entity charOffset="73-92" id="28148925.s0.e0" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="137-174" id="28148925.s0.e1" ontology_id="GO_0034599" text="cellular response to oxidative stress" type="GO"/>
+    <pair e1="28148925.s0.e0" e2="28148925.s0.e1" id="28148925.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28148925.s1" text="We performed whole-exome sequencing on a 12-year-old Japanese male with severe intellectual disability, congenital bilateral cataracts, spasticity, hypotonia with motor regression and progressive cerebellar atrophy with hyperintensity of the cerebellar cortex on positive regulation of cell proliferation-weighted images.">
+    <entity charOffset="79-102" id="28148925.s1.e0" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <entity charOffset="115-124" id="28148925.s1.e1" ontology_id="HP_0012832" text="bilateral" type="HP"/>
+    <entity charOffset="136-146" id="28148925.s1.e2" ontology_id="HP_0001257" text="spasticity" type="HP"/>
+    <entity charOffset="196-214" id="28148925.s1.e3" ontology_id="HP_0001272" text="cerebellar atrophy" type="HP"/>
+    <entity charOffset="263-304" id="28148925.s1.e4" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <pair e1="28148925.s1.e3" e2="28148925.s1.e4" id="28148925.s1.p0" relation="true"/>
+  </sentence>
+</document>

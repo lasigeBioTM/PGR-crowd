@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="22419069">
+  <sentence id="22419069.s0" text="Genes involved in tissue development, differentiation, and oncogenesis such as protein refolding, HES5, negative regulation of transcription by RNA polymerase II, diet induced thermogenesis, positive regulation of transcription, DNA-templated, GATA6, ALX3, and P4HTM were hypermethylated in both RMS cell lines and primary samples, implicating aberrant DNA methylation in the pathogenesis of rhabdomyosarcoma.">
+    <entity charOffset="79-96" id="22419069.s0.e0" ontology_id="GO_0042026" text="protein refolding" type="GO"/>
+    <entity charOffset="104-161" id="22419069.s0.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="163-189" id="22419069.s0.e2" ontology_id="GO_0002024" text="diet induced thermogenesis" type="GO"/>
+    <entity charOffset="191-242" id="22419069.s0.e3" ontology_id="GO_0045893" text="positive regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="392-408" id="22419069.s0.e4" ontology_id="HP_0002859" text="rhabdomyosarcoma" type="HP"/>
+    <pair e1="22419069.s0.e0" e2="22419069.s0.e4" id="22419069.s0.p0" relation="true"/>
+    <pair e1="22419069.s0.e1" e2="22419069.s0.e4" id="22419069.s0.p1" relation="true"/>
+    <pair e1="22419069.s0.e2" e2="22419069.s0.e4" id="22419069.s0.p2" relation="true"/>
+    <pair e1="22419069.s0.e3" e2="22419069.s0.e4" id="22419069.s0.p3" relation="true"/>
+  </sentence>
+</document>

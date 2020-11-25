@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<document id="29901133">
+  <sentence id="29901133.s0" text="No pathogenic mutations were detected in positive regulation of transcription, DNA-templated, eye development or regulation of transcription, DNA-templated in the only patient with a sporadic form of aniridia‑like phenotype, confirming the genetic heterogeneity associated with this disease.">
+    <entity charOffset="41-92" id="29901133.s0.e0" ontology_id="GO_0045893" text="positive regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="94-109" id="29901133.s0.e1" ontology_id="GO_0001654" text="eye development" type="GO"/>
+    <entity charOffset="113-155" id="29901133.s0.e2" ontology_id="GO_0006355" text="regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="183-191" id="29901133.s0.e3" ontology_id="HP_0003745" text="sporadic" type="HP"/>
+    <entity charOffset="248-261" id="29901133.s0.e4" ontology_id="HP_0001425" text="heterogeneity" type="HP"/>
+    <pair e1="29901133.s0.e0" e2="29901133.s0.e4" id="29901133.s0.p0" relation="true"/>
+    <pair e1="29901133.s0.e0" e2="29901133.s0.e3" id="29901133.s0.p1" relation="true"/>
+    <pair e1="29901133.s0.e1" e2="29901133.s0.e3" id="29901133.s0.p2" relation="true"/>
+    <pair e1="29901133.s0.e1" e2="29901133.s0.e4" id="29901133.s0.p3" relation="false"/>
+    <pair e1="29901133.s0.e2" e2="29901133.s0.e3" id="29901133.s0.p4" relation="true"/>
+    <pair e1="29901133.s0.e2" e2="29901133.s0.e4" id="29901133.s0.p5" relation="false"/>
+  </sentence>
+</document>

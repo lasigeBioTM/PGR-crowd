@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="29381923">
+  <sentence id="29381923.s0" text="Specifically, ADHFE1, positive regulation of cardiac muscle hypertrophy, and protein folding were hypermethylated and downregulated in colon cancer, suggesting that the low expression levels of these genes may be regulated by DNA hypermethylation.">
+    <entity charOffset="22-71" id="29381923.s0.e0" ontology_id="GO_0010613" text="positive regulation of cardiac muscle hypertrophy" type="GO"/>
+    <entity charOffset="77-92" id="29381923.s0.e1" ontology_id="GO_0006457" text="protein folding" type="GO"/>
+    <entity charOffset="141-147" id="29381923.s0.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29381923.s0.e0" e2="29381923.s0.e2" id="29381923.s0.p0" relation="true"/>
+    <pair e1="29381923.s0.e1" e2="29381923.s0.e2" id="29381923.s0.p1" relation="true"/>
+  </sentence>
+</document>

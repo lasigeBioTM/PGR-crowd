@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="26392535">
+  <sentence id="26392535.s0" text="Although clustering of missense mutations is often regarded as a hallmark of oncoproteins, we observed that a number of tumor suppressors, including protein ubiquitination, protein ubiquitination, and protein phosphorylation, also showed such clustering.">
+    <entity charOffset="120-125" id="26392535.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="149-171" id="26392535.s0.e1" ontology_id="GO_0016567" text="protein ubiquitination" type="GO"/>
+    <entity charOffset="173-195" id="26392535.s0.e2" ontology_id="GO_0016567" text="protein ubiquitination" type="GO"/>
+    <entity charOffset="201-224" id="26392535.s0.e3" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <pair e1="26392535.s0.e0" e2="26392535.s0.e1" id="26392535.s0.p0" relation="false"/>
+    <pair e1="26392535.s0.e0" e2="26392535.s0.e2" id="26392535.s0.p1" relation="true"/>
+    <pair e1="26392535.s0.e0" e2="26392535.s0.e3" id="26392535.s0.p2" relation="true"/>
+  </sentence>
+</document>

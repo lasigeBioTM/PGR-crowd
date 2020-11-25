@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="29486327">
+  <sentence id="29486327.s0" text="The fat cell adhesion mediated by integrin and obesity-associated (FTO) gene is tightly related to body weight and fat mass, and plays a pivotal role in regulating lipid accumulation in hepatocytes.">
+    <entity charOffset="8-42" id="29486327.s0.e0" ontology_id="GO_0033627" text="cell adhesion mediated by integrin" type="GO"/>
+    <entity charOffset="47-54" id="29486327.s0.e1" ontology_id="HP_0001513" text="obesity" type="HP"/>
+  </sentence>
+</document>

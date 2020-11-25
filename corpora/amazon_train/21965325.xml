@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<document id="21965325">
+  <sentence id="21965325.s0" text="Consistent with our description of this pathway and the phenotype of patients with FGD1 mutations, epidermis development with a targeted deletion of protein phosphorylation displayed multiple skeletal defects, including dental abnormalities, deficient calvarial mineralization, and reduced bone mass.">
+    <entity charOffset="99-120" id="21965325.s0.e0" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="149-172" id="21965325.s0.e1" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <entity charOffset="220-240" id="21965325.s0.e2" ontology_id="HP_0000164" text="dental abnormalities" type="HP"/>
+    <pair e1="21965325.s0.e0" e2="21965325.s0.e2" id="21965325.s0.p0" relation="true"/>
+  </sentence>
+</document>

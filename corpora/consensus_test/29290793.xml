@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29290793">
+  <sentence id="29290793.s0" text="&lt;i&gt;negative regulation of cell proliferation&lt;/i&gt; methylation was frequently detected in ESCC tumors and correlated with lymph node metastasis, tumor recurrence and progression, with &lt;i&gt;DLEC1&lt;/i&gt; as the most frequently methylated among the established 3p22.2 tumor suppressors (&lt;i&gt;RASSF1A, PLCD1&lt;/i&gt; and &lt;i&gt;ZMYND10/BLU&lt;/i&gt;).">
+    <entity charOffset="3-44" id="29290793.s0.e0" ontology_id="GO_0008285" text="negative regulation of cell proliferation" type="GO"/>
+    <entity charOffset="143-148" id="29290793.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29290793.s0.e0" e2="29290793.s0.e1" id="29290793.s0.p0" relation="true"/>
+  </sentence>
+</document>

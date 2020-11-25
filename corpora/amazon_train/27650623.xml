@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="27650623">
+  <sentence id="27650623.s0" text="Craniofrontonasal syndrome (cell adhesion) is a very rare genetic disorder with variable clinical phenotypes, including brachycephaly, hypertelorism, and a bifid nasal tip.">
+    <entity charOffset="28-41" id="27650623.s0.e0" ontology_id="GO_0007155" text="cell adhesion" type="GO"/>
+    <entity charOffset="120-133" id="27650623.s0.e1" ontology_id="HP_0000248" text="brachycephaly" type="HP"/>
+    <entity charOffset="135-148" id="27650623.s0.e2" ontology_id="HP_0000316" text="hypertelorism" type="HP"/>
+    <pair e1="27650623.s0.e0" e2="27650623.s0.e1" id="27650623.s0.p0" relation="true"/>
+    <pair e1="27650623.s0.e0" e2="27650623.s0.e2" id="27650623.s0.p1" relation="true"/>
+  </sentence>
+</document>

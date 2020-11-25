@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="30747231">
+  <sentence id="30747231.s0" text="The results revealed that the dual use of the positive regulation of cell proliferation inhibitor and the HDAC inhibitor effectively synergized to inhibit proliferation, and promote apoptosis in liver cancer cells.">
+    <entity charOffset="46-87" id="30747231.s0.e0" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <entity charOffset="201-207" id="30747231.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30747231.s0.e0" e2="30747231.s0.e1" id="30747231.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="30747231.s1" text="Clinical trials have revealed that inhibition of sonic Hedgehog (positive regulation of cell proliferation) signaling or histone deacetylase (HDAC) holds promise as a treatment for liver cancer.">
+    <entity charOffset="65-106" id="30747231.s1.e0" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <entity charOffset="187-193" id="30747231.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30747231.s1.e0" e2="30747231.s1.e1" id="30747231.s1.p0" relation="true"/>
+  </sentence>
+</document>

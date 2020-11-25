@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="29174093">
+  <sentence id="29174093.s0" text="De novo monoallelic mutations in the adenylate cyclase-activating dopamine receptor signaling pathway gene, encoding a β subunit of heterotrimeric G proteins, cause a newly recognized disorder with the typical clinical picture of severe developmental delay/intellectual disability, hypotonia and extrapyramidal symptoms.">
+    <entity charOffset="37-101" id="29174093.s0.e0" ontology_id="GO_0007191" text="adenylate cyclase-activating dopamine receptor signaling pathway" type="GO"/>
+    <entity charOffset="237-256" id="29174093.s0.e1" ontology_id="HP_0001263" text="developmental delay" type="HP"/>
+    <entity charOffset="257-280" id="29174093.s0.e2" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <pair e1="29174093.s0.e0" e2="29174093.s0.e1" id="29174093.s0.p0" relation="true"/>
+    <pair e1="29174093.s0.e0" e2="29174093.s0.e2" id="29174093.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="29174093.s1" text="We describe another case of the condition with manifestations of cutaneous mastocytosis associated with a novel do novo mutation adenylate cyclase-activating dopamine receptor signaling pathwayNM_001282539.1: c.230G &amp;gt; T; p.(Gly77Val).">
+    <entity charOffset="65-87" id="29174093.s1.e0" ontology_id="HP_0200151" text="cutaneous mastocytosis" type="HP"/>
+    <entity charOffset="129-193" id="29174093.s1.e1" ontology_id="GO_0007191" text="adenylate cyclase-activating dopamine receptor signaling pathway" type="GO"/>
+    <pair e1="29174093.s1.e0" e2="29174093.s1.e1" id="29174093.s1.p0" relation="false"/>
+  </sentence>
+</document>

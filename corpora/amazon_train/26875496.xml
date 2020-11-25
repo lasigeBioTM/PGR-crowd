@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="26875496">
+  <sentence id="26875496.s0" text="positive regulation of cell proliferation signalling from the prechordal plate and ventral midline of the diencephalon is required for appropriate division of the eyefield and forebrain, with mutation in a number of pathway components associated with Holoprosencephaly, a clinically heterogeneous developmental defect characterized by a failure of the early forebrain vesicle to divide into distinct halves.">
+    <entity charOffset="0-41" id="26875496.s0.e0" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <entity charOffset="283-296" id="26875496.s0.e1" ontology_id="HP_0001425" text="heterogeneous" type="HP"/>
+    <pair e1="26875496.s0.e0" e2="26875496.s0.e1" id="26875496.s0.p0" relation="true"/>
+  </sentence>
+</document>

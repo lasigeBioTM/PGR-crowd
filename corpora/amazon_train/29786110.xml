@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<document id="29786110">
+  <sentence id="29786110.s0" text="Gain‑of‑function CTTNB1 mutations are detected in bladder cancer, colorectal cancer, gastric cancer, liver cancer, lung cancer, pancreatic cancer, prostate cancer and uterine cancer, whereas loss‑of‑function protein polyubiquitination mutations are also detected in human cancer.">
+    <entity charOffset="58-64" id="29786110.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="208-234" id="29786110.s0.e1" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <pair e1="29786110.s0.e0" e2="29786110.s0.e1" id="29786110.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29786110.s1" text="Eradicating H. pylori and HCV is the optimal approach for the first‑line prevention of gastric cancer and hepatocellular carcinoma (phosphatidylinositol phosphorylation), respectively.">
+    <entity charOffset="95-101" id="29786110.s1.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="106-130" id="29786110.s1.e1" ontology_id="HP_0001402" text="hepatocellular carcinoma" type="HP"/>
+    <entity charOffset="132-168" id="29786110.s1.e2" ontology_id="GO_0046854" text="phosphatidylinositol phosphorylation" type="GO"/>
+    <pair e1="29786110.s1.e0" e2="29786110.s1.e2" id="29786110.s1.p0" relation="true"/>
+    <pair e1="29786110.s1.e1" e2="29786110.s1.e2" id="29786110.s1.p1" relation="false"/>
+  </sentence>
+  <sentence id="29786110.s2" text="However, β‑catenin inhibitors may be applicable for the prevention of organ fibrosis, second‑line phosphatidylinositol phosphorylation prevention and treating β‑catenin‑driven cancer.">
+    <entity charOffset="98-134" id="29786110.s2.e0" ontology_id="GO_0046854" text="phosphatidylinositol phosphorylation" type="GO"/>
+    <entity charOffset="176-182" id="29786110.s2.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+  </sentence>
+</document>

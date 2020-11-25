@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<document id="29901129">
+  <sentence id="29901129.s0" text="Schwartz-Jampel syndrome type 1 (receptor-mediated endocytosis) is a rare autosomal recessive disease caused by mutations in the gene heparan sulfate proteoglycan 2 (receptor-mediated endocytosis; also known as basement membrane‑specific heparin sulfate).">
+    <entity charOffset="33-62" id="29901129.s0.e0" ontology_id="GO_0006898" text="receptor-mediated endocytosis" type="GO"/>
+    <entity charOffset="74-93" id="29901129.s0.e1" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="166-195" id="29901129.s0.e2" ontology_id="GO_0006898" text="receptor-mediated endocytosis" type="GO"/>
+    <pair e1="29901129.s0.e0" e2="29901129.s0.e1" id="29901129.s0.p0" relation="true"/>
+    <pair e1="29901129.s0.e1" e2="29901129.s0.e2" id="29901129.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="29901129.s1" text="The key clinical features of the patient with receptor-mediated endocytosis included short stature, joint contractures, pigeon breast, and myotonia that led to progressive stiffness of the interstrand cross-link repair and limbs; barely discernible kyphosis was also noted.">
+    <entity charOffset="46-75" id="29901129.s1.e0" ontology_id="GO_0006898" text="receptor-mediated endocytosis" type="GO"/>
+    <entity charOffset="85-98" id="29901129.s1.e1" ontology_id="HP_0004322" text="short stature" type="HP"/>
+    <entity charOffset="106-118" id="29901129.s1.e2" ontology_id="HP_0001371" text="contractures" type="HP"/>
+    <entity charOffset="139-147" id="29901129.s1.e3" ontology_id="HP_0002486" text="myotonia" type="HP"/>
+    <entity charOffset="189-218" id="29901129.s1.e4" ontology_id="GO_0036297" text="interstrand cross-link repair" type="GO"/>
+    <pair e1="29901129.s1.e0" e2="29901129.s1.e1" id="29901129.s1.p0" relation="true"/>
+    <pair e1="29901129.s1.e0" e2="29901129.s1.e2" id="29901129.s1.p1" relation="true"/>
+    <pair e1="29901129.s1.e0" e2="29901129.s1.e3" id="29901129.s1.p2" relation="true"/>
+    <pair e1="29901129.s1.e2" e2="29901129.s1.e4" id="29901129.s1.p3" relation="false"/>
+    <pair e1="29901129.s1.e3" e2="29901129.s1.e4" id="29901129.s1.p4" relation="false"/>
+  </sentence>
+</document>

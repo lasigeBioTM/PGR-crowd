@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="24390428">
+  <sentence id="24390428.s0" text="Treatment of tumor cells with the inhibitor GSK2830371 increases phosphorylation of peptidyl-threonine dephosphorylation substrates and causes growth inhibition in both hematopoietic tumor cell lines and Wip1-amplified breast tumor cells harboring wild-type TP53.">
+    <entity charOffset="13-18" id="24390428.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="84-120" id="24390428.s0.e1" ontology_id="GO_0035970" text="peptidyl-threonine dephosphorylation" type="GO"/>
+    <pair e1="24390428.s0.e0" e2="24390428.s0.e1" id="24390428.s0.p0" relation="true"/>
+  </sentence>
+</document>

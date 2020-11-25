@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27745833">
+  <sentence id="27745833.s0" text="Zebrafish with ryroxD1 knock-down recapitulate features of cellular response to oxidative stress myopathy with sarcomeric disorganization, myofibrillar aggregates, and marked swimming defect.">
+    <entity charOffset="59-96" id="27745833.s0.e0" ontology_id="GO_0034599" text="cellular response to oxidative stress" type="GO"/>
+    <entity charOffset="97-105" id="27745833.s0.e1" ontology_id="HP_0003198" text="myopathy" type="HP"/>
+    <pair e1="27745833.s0.e0" e2="27745833.s0.e1" id="27745833.s0.p0" relation="false"/>
+  </sentence>
+</document>

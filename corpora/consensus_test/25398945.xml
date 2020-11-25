@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="25398945">
+  <sentence id="25398945.s0" text="Leber congenital amaurosis (clathrin coat assembly) and juvenile retinitis pigmentosa (RP) are severe hereditary diseases that causes visual impairment in infants and children.">
+    <entity charOffset="28-50" id="25398945.s0.e0" ontology_id="GO_0048268" text="clathrin coat assembly" type="GO"/>
+    <entity charOffset="134-151" id="25398945.s0.e1" ontology_id="HP_0000505" text="visual impairment" type="HP"/>
+    <pair e1="25398945.s0.e0" e2="25398945.s0.e1" id="25398945.s0.p0" relation="false"/>
+  </sentence>
+</document>

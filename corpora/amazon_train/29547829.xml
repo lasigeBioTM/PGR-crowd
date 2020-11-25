@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="29547829">
+  <sentence id="29547829.s0" text="Pyridoxine dependent epilepsy (cellular aldehyde metabolic process) is a rare autosomal recessive neurometabolic disorder.">
+    <entity charOffset="21-29" id="29547829.s0.e0" ontology_id="HP_0001250" text="epilepsy" type="HP"/>
+    <entity charOffset="31-66" id="29547829.s0.e1" ontology_id="GO_0006081" text="cellular aldehyde metabolic process" type="GO"/>
+  </sentence>
+</document>

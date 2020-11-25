@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="26854714">
+  <sentence id="26854714.s0" text="Further in vitro and in vivo results demonstrated that regulation of cell shape was associated with proliferation and metastasis of pancreatic cancer cells.">
+    <entity charOffset="55-79" id="26854714.s0.e0" ontology_id="GO_0008360" text="regulation of cell shape" type="GO"/>
+    <entity charOffset="143-149" id="26854714.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="26854714.s0.e0" e2="26854714.s0.e1" id="26854714.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="26854714.s1" text="Mechanistically, the role of regulation of cell shape in pancreatic cancer might attribute to its regulation of c-Myc, HIF1α and NRF2 (Nuclear Factor, Erythroid 2-Like 2), which were key regulators of glycolysis and antioxidant response control.">
+    <entity charOffset="29-53" id="26854714.s1.e0" ontology_id="GO_0008360" text="regulation of cell shape" type="GO"/>
+    <entity charOffset="68-74" id="26854714.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="26854714.s1.e0" e2="26854714.s1.e1" id="26854714.s1.p0" relation="false"/>
+  </sentence>
+</document>

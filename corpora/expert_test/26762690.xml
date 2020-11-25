@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="26762690">
+  <sentence id="26762690.s0" text="Extensive glycosaminoglycan catabolic process gene deletions were identified in four patients; using DNA microarray analysis two patients showed the loss of the entire AFF2 gene, and epilepsy developed in only one of them.">
+    <entity charOffset="10-45" id="26762690.s0.e0" ontology_id="GO_0006027" text="glycosaminoglycan catabolic process" type="GO"/>
+    <entity charOffset="183-191" id="26762690.s0.e1" ontology_id="HP_0001250" text="epilepsy" type="HP"/>
+    <pair e1="26762690.s0.e0" e2="26762690.s0.e1" id="26762690.s0.p0" relation="false"/>
+  </sentence>
+</document>

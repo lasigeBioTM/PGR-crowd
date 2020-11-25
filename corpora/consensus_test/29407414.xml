@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="29407414">
+  <sentence id="29407414.s0" text="By negative regulation of fat cell differentiation exome sequencing we now identified a novel, homozygous 2kb deletion, partially affecting exon 12 in an adult female with the typical facial gestalt of 3MC syndrome and hearing loss, but without the main feature cleft lip/palate, and without intellectual disability, or short stature.">
+    <entity charOffset="3-50" id="29407414.s0.e0" ontology_id="GO_0045599" text="negative regulation of fat cell differentiation" type="GO"/>
+    <entity charOffset="292-315" id="29407414.s0.e1" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+  </sentence>
+</document>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="29648643">
+  <sentence id="29648643.s0" text="Human-induced neuronal progenitor cells (iNPCs) carrying dominant and recessive diadenosine tetraphosphate biosynthetic process mutations showed alterations of mitochondrial proteins, which were more prominent in iNPCs with dominant, neuropathy-causing mutations.">
+    <entity charOffset="80-127" id="29648643.s0.e0" ontology_id="GO_0015966" text="diadenosine tetraphosphate biosynthetic process" type="GO"/>
+    <entity charOffset="234-244" id="29648643.s0.e1" ontology_id="HP_0009830" text="neuropathy" type="HP"/>
+    <pair e1="29648643.s0.e0" e2="29648643.s0.e1" id="29648643.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29648643.s1" text="Our data suggest that altered mitochondria-associated endoplasmic reticulum (ER) membranes (muscle organ development) may be important disease mechanisms leading to neuropathy in this condition">
+    <entity charOffset="92-116" id="29648643.s1.e0" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="165-175" id="29648643.s1.e1" ontology_id="HP_0009830" text="neuropathy" type="HP"/>
+    <pair e1="29648643.s1.e0" e2="29648643.s1.e1" id="29648643.s1.p0" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="27529670">
+  <sentence id="27529670.s0" text="The extracellular matrix (platelet degranulation) is a known factor in tumor invasion, and differences in the ECM of nontumor brain and glioblastoma has been proven.">
+    <entity charOffset="26-48" id="27529670.s0.e0" ontology_id="GO_0002576" text="platelet degranulation" type="GO"/>
+    <entity charOffset="71-76" id="27529670.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="136-148" id="27529670.s0.e2" ontology_id="HP_0012174" text="glioblastoma" type="HP"/>
+    <pair e1="27529670.s0.e0" e2="27529670.s0.e1" id="27529670.s0.p0" relation="false"/>
+    <pair e1="27529670.s0.e0" e2="27529670.s0.e2" id="27529670.s0.p1" relation="false"/>
+  </sentence>
+</document>

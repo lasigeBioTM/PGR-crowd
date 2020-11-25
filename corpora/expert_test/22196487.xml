@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="22196487">
+  <sentence id="22196487.s0" text="We summarize recent updates on the genes and related clinical syndromes involved in the pathogenesis of early-onset epileptic encephalopathies: Aristaless-related homeobox (ARX), cyclin-dependent kinase-like 5 (regulation of postsynapse organization), syntaxin-binding protein 1 (STXBP1), solute carrier family 25 member 22 (SLC25A22), nonerythrocytic α-spectrin-1 (SPTAN1), phospholipase Cβ1 (PLCβ1), membrane-associated guanylate kinase inverted-2 (positive regulation of receptor internalization), polynucleotide kinase 3'-phosphatase (PNKP), sodium channel neuronal type 1α subunit (SCN1A), protocadherin 19 (homophilic cell adhesion via plasma membrane adhesion molecules), and pyridoxamine 5-prime-phosphate oxidase (PNPO)">
+    <entity charOffset="116-142" id="22196487.s0.e0" ontology_id="HP_0200134" text="epileptic encephalopathies" type="HP"/>
+    <entity charOffset="211-249" id="22196487.s0.e1" ontology_id="GO_0099175" text="regulation of postsynapse organization" type="GO"/>
+    <entity charOffset="451-498" id="22196487.s0.e2" ontology_id="GO_0002092" text="positive regulation of receptor internalization" type="GO"/>
+    <entity charOffset="613-676" id="22196487.s0.e3" ontology_id="GO_0007156" text="homophilic cell adhesion via plasma membrane adhesion molecules" type="GO"/>
+    <pair e1="22196487.s0.e0" e2="22196487.s0.e3" id="22196487.s0.p0" relation="true"/>
+    <pair e1="22196487.s0.e0" e2="22196487.s0.e1" id="22196487.s0.p1" relation="true"/>
+    <pair e1="22196487.s0.e0" e2="22196487.s0.e2" id="22196487.s0.p2" relation="true"/>
+  </sentence>
+</document>

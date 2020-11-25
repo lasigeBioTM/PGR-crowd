@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<document id="28607447">
+  <sentence id="28607447.s0" text="Recently, the roles of positive regulation of cell migration in tumorigenesis have been interested and increased expression of FAM83H and negative regulation of transcription by RNA polymerase II in hepatocellular carcinoma (phosphatidylinositol phosphorylation) have been reported.">
+    <entity charOffset="23-60" id="28607447.s0.e0" ontology_id="GO_0030335" text="positive regulation of cell migration" type="GO"/>
+    <entity charOffset="64-69" id="28607447.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="138-195" id="28607447.s0.e2" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="199-223" id="28607447.s0.e3" ontology_id="HP_0001402" text="hepatocellular carcinoma" type="HP"/>
+    <entity charOffset="225-261" id="28607447.s0.e4" ontology_id="GO_0046854" text="phosphatidylinositol phosphorylation" type="GO"/>
+    <pair e1="28607447.s0.e0" e2="28607447.s0.e3" id="28607447.s0.p0" relation="false"/>
+    <pair e1="28607447.s0.e0" e2="28607447.s0.e1" id="28607447.s0.p1" relation="false"/>
+    <pair e1="28607447.s0.e1" e2="28607447.s0.e4" id="28607447.s0.p2" relation="false"/>
+    <pair e1="28607447.s0.e2" e2="28607447.s0.e3" id="28607447.s0.p3" relation="false"/>
+    <pair e1="28607447.s0.e3" e2="28607447.s0.e4" id="28607447.s0.p4" relation="false"/>
+  </sentence>
+  <sentence id="28607447.s1" text="The expression of positive regulation of cell migration is elevated in liver cancer cells, and nuclear expression of FAM83H predicted shorter survival of phosphatidylinositol phosphorylation patients.">
+    <entity charOffset="18-55" id="28607447.s1.e0" ontology_id="GO_0030335" text="positive regulation of cell migration" type="GO"/>
+    <entity charOffset="77-83" id="28607447.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="154-190" id="28607447.s1.e2" ontology_id="GO_0046854" text="phosphatidylinositol phosphorylation" type="GO"/>
+    <pair e1="28607447.s1.e0" e2="28607447.s1.e1" id="28607447.s1.p0" relation="false"/>
+    <pair e1="28607447.s1.e1" e2="28607447.s1.e2" id="28607447.s1.p1" relation="false"/>
+  </sentence>
+  <sentence id="28607447.s2" text="In hepatic tumor cells derived from Tet-O-negative regulation of transcription by RNA polymerase II mice, the expression of mRNA and protein of positive regulation of cell migration were dependent on MYC expression.">
+    <entity charOffset="11-16" id="28607447.s2.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="42-99" id="28607447.s2.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="144-181" id="28607447.s2.e2" ontology_id="GO_0030335" text="positive regulation of cell migration" type="GO"/>
+    <pair e1="28607447.s2.e0" e2="28607447.s2.e2" id="28607447.s2.p0" relation="false"/>
+    <pair e1="28607447.s2.e0" e2="28607447.s2.e1" id="28607447.s2.p1" relation="true"/>
+  </sentence>
+  <sentence id="28607447.s3" text="In conclusion, we present an oncogenic role of positive regulation of cell migration in liver cancer, which is closely associated with the oncogene MYC.">
+    <entity charOffset="47-84" id="28607447.s3.e0" ontology_id="GO_0030335" text="positive regulation of cell migration" type="GO"/>
+    <entity charOffset="94-100" id="28607447.s3.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28607447.s3.e0" e2="28607447.s3.e1" id="28607447.s3.p0" relation="false"/>
+  </sentence>
+</document>

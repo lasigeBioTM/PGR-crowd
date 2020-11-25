@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<document id="26212640">
+  <sentence id="26212640.s0" text="The tumor suppressor gene TP53 is mutated exclusively with the epithelial cell development, positive regulation of protein phosphorylation, and negative regulation of protein phosphorylation genes in large intestine, lung, and endometrial cancers respectively, indicating that TP53 takes part in different signaling pathways in different cancers.">
+    <entity charOffset="4-9" id="26212640.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="63-90" id="26212640.s0.e1" ontology_id="GO_0002064" text="epithelial cell development" type="GO"/>
+    <entity charOffset="92-138" id="26212640.s0.e2" ontology_id="GO_0001934" text="positive regulation of protein phosphorylation" type="GO"/>
+    <entity charOffset="144-190" id="26212640.s0.e3" ontology_id="GO_0001933" text="negative regulation of protein phosphorylation" type="GO"/>
+    <entity charOffset="239-245" id="26212640.s0.e4" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="26212640.s0.e0" e2="26212640.s0.e1" id="26212640.s0.p0" relation="true"/>
+    <pair e1="26212640.s0.e0" e2="26212640.s0.e2" id="26212640.s0.p1" relation="true"/>
+    <pair e1="26212640.s0.e0" e2="26212640.s0.e3" id="26212640.s0.p2" relation="true"/>
+    <pair e1="26212640.s0.e1" e2="26212640.s0.e4" id="26212640.s0.p3" relation="true"/>
+    <pair e1="26212640.s0.e2" e2="26212640.s0.e4" id="26212640.s0.p4" relation="true"/>
+    <pair e1="26212640.s0.e3" e2="26212640.s0.e4" id="26212640.s0.p5" relation="true"/>
+  </sentence>
+</document>

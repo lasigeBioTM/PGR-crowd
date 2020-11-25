@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<document id="30250298">
+  <sentence id="30250298.s0" text="Moreover, we demonstrated that pharmacological inhibition of 15-PGDH enhanced xenobiotic metabolic process expression, leading to depletion of all-trans retinoic acid (ATRA) and expansion of the ALDH1-positive subset in both human PDAC cells and tumor cells of Kras&lt;sup&gt;LSL-G12D/+&lt;/sup&gt;; Ptf1a&lt;sup&gt;Cre/+&lt;/sup&gt; (KC) epidermis development.">
+    <entity charOffset="78-106" id="30250298.s0.e0" ontology_id="GO_0006805" text="xenobiotic metabolic process" type="GO"/>
+    <entity charOffset="246-251" id="30250298.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="315-336" id="30250298.s0.e2" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <pair e1="30250298.s0.e0" e2="30250298.s0.e1" id="30250298.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="30250298.s1" text="Finally, ATRA replacement suppressed 15-PGDH inhibition-induced tumor progression in KC epidermis development, and ATRA treatment attenuated Aldh1 activity in tumor cells isolated from the pancreas of 15-Pgdh&lt;sup&gt;-/-&lt;/sup&gt; KC mice.">
+    <entity charOffset="64-69" id="30250298.s1.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="88-109" id="30250298.s1.e1" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+  </sentence>
+  <sentence id="30250298.s2" text="Here, we found that 15-L-serine biosynthetic process expression was inversely correlated with oxidation-reduction process, an important cancer stem cell-associated marker indicative of poor prognosis in humans.">
+    <entity charOffset="23-52" id="30250298.s2.e0" ontology_id="GO_0006564" text="L-serine biosynthetic process" type="GO"/>
+    <entity charOffset="94-121" id="30250298.s2.e1" ontology_id="GO_0055114" text="oxidation-reduction process" type="GO"/>
+    <entity charOffset="136-142" id="30250298.s2.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30250298.s2.e0" e2="30250298.s2.e2" id="30250298.s2.p0" relation="true"/>
+    <pair e1="30250298.s2.e1" e2="30250298.s2.e2" id="30250298.s2.p1" relation="true"/>
+  </sentence>
+</document>

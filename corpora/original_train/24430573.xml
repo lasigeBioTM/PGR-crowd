@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="24430573">
+  <sentence id="24430573.s0" text="Biallelic mutations in the tRNA aminoacylation gene encoding mitochondrial tyrosyl-tRNA synthetase cause myopathy, lactic acidosis, and sideroblastic anemia 2 (MLASA2), a muscle organ development of mitochondrial disease.">
+    <entity charOffset="27-46" id="24430573.s0.e0" ontology_id="GO_0043039" text="tRNA aminoacylation" type="GO"/>
+    <entity charOffset="115-130" id="24430573.s0.e1" ontology_id="HP_0003128" text="lactic acidosis" type="HP"/>
+    <entity charOffset="171-195" id="24430573.s0.e2" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <pair e1="24430573.s0.e0" e2="24430573.s0.e1" id="24430573.s0.p0" relation="true"/>
+    <pair e1="24430573.s0.e1" e2="24430573.s0.e2" id="24430573.s0.p1" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30562637">
+  <sentence id="30562637.s0" text="Colorectal cancer cell lines with protein polyubiquitination methylation demonstrated increased sensitivity to irinotecan.">
+    <entity charOffset="11-17" id="30562637.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="34-60" id="30562637.s0.e1" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <pair e1="30562637.s0.e0" e2="30562637.s0.e1" id="30562637.s0.p0" relation="false"/>
+  </sentence>
+</document>

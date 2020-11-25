@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="23620518">
+  <sentence id="23620518.s0" text="Perturbation of muscle organ development function has previously been suggested in Alzheimer's disease (AD) as shown in fibroblasts from AD patients and a neuroblastoma cell line containing familial presenilin-2 AD mutation.">
+    <entity charOffset="16-40" id="23620518.s0.e0" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="155-168" id="23620518.s0.e1" ontology_id="HP_0003006" text="neuroblastoma" type="HP"/>
+    <pair e1="23620518.s0.e0" e2="23620518.s0.e1" id="23620518.s0.p0" relation="true"/>
+  </sentence>
+</document>

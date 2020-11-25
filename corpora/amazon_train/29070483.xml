@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<document id="29070483">
+  <sentence id="29070483.s0" text="Mutations in depurination2 are associated with skeletal myopathies, characterized by ophthalmoplegia.">
+    <entity charOffset="13-25" id="29070483.s0.e0" ontology_id="GO_0045007" text="depurination" type="GO"/>
+    <entity charOffset="47-66" id="29070483.s0.e1" ontology_id="HP_0003756" text="skeletal myopathies" type="HP"/>
+    <entity charOffset="85-100" id="29070483.s0.e2" ontology_id="HP_0000602" text="ophthalmoplegia" type="HP"/>
+    <pair e1="29070483.s0.e0" e2="29070483.s0.e1" id="29070483.s0.p0" relation="true"/>
+    <pair e1="29070483.s0.e0" e2="29070483.s0.e2" id="29070483.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="29070483.s1" text="Mutations in depurination3 and MYH8 are associated with distal arthrogryposis syndromes.">
+    <entity charOffset="13-25" id="29070483.s1.e0" ontology_id="GO_0045007" text="depurination" type="GO"/>
+    <entity charOffset="56-62" id="29070483.s1.e1" ontology_id="HP_0012839" text="distal" type="HP"/>
+    <entity charOffset="63-77" id="29070483.s1.e2" ontology_id="HP_0002804" text="arthrogryposis" type="HP"/>
+    <pair e1="29070483.s1.e0" e2="29070483.s1.e1" id="29070483.s1.p0" relation="true"/>
+    <pair e1="29070483.s1.e0" e2="29070483.s1.e2" id="29070483.s1.p1" relation="true"/>
+  </sentence>
+  <sentence id="29070483.s2" text="Mutations in depurination7 are associated with not only skeletal muscle diseases, such as Laing distal myopathy and myosin storage myopathy, but also hypertrophic cardiomyopathy.">
+    <entity charOffset="13-25" id="29070483.s2.e0" ontology_id="GO_0045007" text="depurination" type="GO"/>
+    <entity charOffset="96-102" id="29070483.s2.e1" ontology_id="HP_0012839" text="distal" type="HP"/>
+    <entity charOffset="103-111" id="29070483.s2.e2" ontology_id="HP_0003198" text="myopathy" type="HP"/>
+    <pair e1="29070483.s2.e0" e2="29070483.s2.e1" id="29070483.s2.p0" relation="true"/>
+    <pair e1="29070483.s2.e0" e2="29070483.s2.e2" id="29070483.s2.p1" relation="true"/>
+  </sentence>
+</document>

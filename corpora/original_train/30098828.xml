@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="30098828">
+  <sentence id="30098828.s0" text="High negative regulation of epithelial cell migration expression plays an important role in promoting tumor development and aggressiveness, which is correlated with reduced patient survival.">
+    <entity charOffset="5-53" id="30098828.s0.e0" ontology_id="GO_0010633" text="negative regulation of epithelial cell migration" type="GO"/>
+    <entity charOffset="102-107" id="30098828.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="124-138" id="30098828.s0.e2" ontology_id="HP_0000718" text="aggressiveness" type="HP"/>
+    <pair e1="30098828.s0.e0" e2="30098828.s0.e1" id="30098828.s0.p0" relation="false"/>
+    <pair e1="30098828.s0.e0" e2="30098828.s0.e2" id="30098828.s0.p1" relation="false"/>
+  </sentence>
+</document>

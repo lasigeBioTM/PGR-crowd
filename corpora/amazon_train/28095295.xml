@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="28095295">
+  <sentence id="28095295.s0" text="Osteopetrosis (positive regulation of collagen biosynthetic process) is a rare skeletal disorder with phenotypic and genotypic heterogeneity: a variety of clinical features besides the bony defect may be present, and at least ten different genes are known to be involved in the disease pathogenesis.">
+    <entity charOffset="15-67" id="28095295.s0.e0" ontology_id="GO_0032967" text="positive regulation of collagen biosynthetic process" type="GO"/>
+    <entity charOffset="127-140" id="28095295.s0.e1" ontology_id="HP_0001425" text="heterogeneity" type="HP"/>
+  </sentence>
+  <sentence id="28095295.s1" text="In the framework of this heterogeneity, we report the clinical description of a neonate, first child of consanguineous parents, who had osteoclast-rich osteopetrosis and bone marrow failure in early life, but no other usual classical features of infantile malignant positive regulation of collagen biosynthetic process, such as visual or hearing impairments.">
+    <entity charOffset="266-318" id="28095295.s1.e0" ontology_id="GO_0032967" text="positive regulation of collagen biosynthetic process" type="GO"/>
+    <entity charOffset="338-357" id="28095295.s1.e1" ontology_id="HP_0000365" text="hearing impairments" type="HP"/>
+    <pair e1="28095295.s1.e0" e2="28095295.s1.e1" id="28095295.s1.p0" relation="true"/>
+  </sentence>
+</document>

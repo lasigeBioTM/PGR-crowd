@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="30641643">
+  <sentence id="30641643.s0" text="Immunohistochemically, tumor cells of all cases were positive for vimentin (100.0%, 60/60), positive regulation of transcription by RNA polymerase II (98.3%, 59/60), CD34 (61.7%, 37/60), and the tumor cells were typically positive for CD99, protein polyubiquitination, EMA and SSTR2 as well.Negative for S-100 protein, SOX10, E-integrin-mediated signaling pathway, GFAP.">
+    <entity charOffset="23-28" id="30641643.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="92-149" id="30641643.s0.e1" ontology_id="GO_0045944" text="positive regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="241-267" id="30641643.s0.e2" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="328-363" id="30641643.s0.e3" ontology_id="GO_0007229" text="integrin-mediated signaling pathway" type="GO"/>
+    <pair e1="30641643.s0.e0" e2="30641643.s0.e2" id="30641643.s0.p0" relation="true"/>
+    <pair e1="30641643.s0.e0" e2="30641643.s0.e1" id="30641643.s0.p1" relation="true"/>
+    <pair e1="30641643.s0.e0" e2="30641643.s0.e3" id="30641643.s0.p2" relation="false"/>
+  </sentence>
+</document>

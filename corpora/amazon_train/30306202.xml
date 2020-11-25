@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<document id="30306202">
+  <sentence id="30306202.s0" text="Dendritic cell (neuron migration)-based immunotherapies have been created for a broad expanse of cancers, and DC vaccines prepared with Wilms' tumor protein 1 (negative regulation of transcription by RNA polymerase II) peptides have shown G protein-coupled receptor signaling pathway therapeutic efficacy in these diseases.">
+    <entity charOffset="16-32" id="30306202.s0.e0" ontology_id="GO_0001764" text="neuron migration" type="GO"/>
+    <entity charOffset="97-103" id="30306202.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="143-148" id="30306202.s0.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="160-217" id="30306202.s0.e3" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="239-283" id="30306202.s0.e4" ontology_id="GO_0007186" text="G protein-coupled receptor signaling pathway" type="GO"/>
+    <pair e1="30306202.s0.e1" e2="30306202.s0.e3" id="30306202.s0.p0" relation="true"/>
+    <pair e1="30306202.s0.e2" e2="30306202.s0.e3" id="30306202.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="30306202.s1" text="In this paper, we report the results of a phase I/II study of a DC-based vaccination for advanced breast, ovarian, and gastric cancers, and we offer evidence that patients can be effectively vaccinated with autologous DCs pulsed with negative regulation of transcription by RNA polymerase II peptide.">
+    <entity charOffset="119-134" id="30306202.s1.e0" ontology_id="HP_0012126" text="gastric cancers" type="HP"/>
+    <entity charOffset="234-291" id="30306202.s1.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="30306202.s1.e0" e2="30306202.s1.e1" id="30306202.s1.p0" relation="true"/>
+  </sentence>
+</document>

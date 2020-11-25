@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="24827421">
+  <sentence id="24827421.s0" text="Our study reports the first mutations in the tRNA aminoacylation for protein translation and mitochondrial threonyl-tRNA aminoacylation genes, which encode two mitochondrial aminoacyl-tRNA synthetases, as causes of clinically distinct, early-onset mitochondrial encephalopathies.">
+    <entity charOffset="45-88" id="24827421.s0.e0" ontology_id="GO_0006418" text="tRNA aminoacylation for protein translation" type="GO"/>
+    <entity charOffset="93-135" id="24827421.s0.e1" ontology_id="GO_0070159" text="mitochondrial threonyl-tRNA aminoacylation" type="GO"/>
+    <entity charOffset="160-173" id="24827421.s0.e2" ontology_id="HP_0001427" text="mitochondrial" type="HP"/>
+    <pair e1="24827421.s0.e0" e2="24827421.s0.e2" id="24827421.s0.p0" relation="false"/>
+    <pair e1="24827421.s0.e1" e2="24827421.s0.e2" id="24827421.s0.p1" relation="true"/>
+  </sentence>
+</document>

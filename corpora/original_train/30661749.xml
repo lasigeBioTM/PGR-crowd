@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30661749">
+  <sentence id="30661749.s0" text="T cell-related encephalopathy (negative regulation of endopeptidase activity) syndrome may occur concomitantly.">
+    <entity charOffset="15-29" id="30661749.s0.e0" ontology_id="HP_0001298" text="encephalopathy" type="HP"/>
+    <entity charOffset="31-76" id="30661749.s0.e1" ontology_id="GO_0010951" text="negative regulation of endopeptidase activity" type="GO"/>
+    <pair e1="30661749.s0.e0" e2="30661749.s0.e1" id="30661749.s0.p0" relation="false"/>
+  </sentence>
+</document>

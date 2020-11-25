@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="26959537">
+  <sentence id="26959537.s0" text="Previous studies have demonstrated that respiratory chain complex IV assembly mutations are associated with typical LS as well as fatal infantile hypertrophic cardiomyopathy.">
+    <entity charOffset="40-77" id="26959537.s0.e0" ontology_id="GO_0008535" text="respiratory chain complex IV assembly" type="GO"/>
+    <entity charOffset="159-173" id="26959537.s0.e1" ontology_id="HP_0001638" text="cardiomyopathy" type="HP"/>
+    <pair e1="26959537.s0.e0" e2="26959537.s0.e1" id="26959537.s0.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="24670872">
+  <sentence id="24670872.s0" text="In zebrafish, downregulation of negative regulation of phosphatase activity expression leads to an abnormal eye phenotype and defective light-induced locomotor response.">
+    <entity charOffset="32-75" id="24670872.s0.e0" ontology_id="GO_0010923" text="negative regulation of phosphatase activity" type="GO"/>
+    <entity charOffset="99-111" id="24670872.s0.e1" ontology_id="HP_0000478" text="abnormal eye" type="HP"/>
+    <pair e1="24670872.s0.e0" e2="24670872.s0.e1" id="24670872.s0.p0" relation="true"/>
+  </sentence>
+</document>

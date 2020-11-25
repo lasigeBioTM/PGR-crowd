@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<document id="28944914">
+  <sentence id="28944914.s0" text="The present study screened pathogenic genes, ectodysplasin A (positive regulation of NF-kappaB transcription factor activity) and lamin A/C (positive regulation of cell aging), in a patient with suspected syndromic hearing impairment and various other symptoms including tooth and skin abnormalities.">
+    <entity charOffset="62-124" id="28944914.s0.e0" ontology_id="GO_0051092" text="positive regulation of NF-kappaB transcription factor activity" type="GO"/>
+    <entity charOffset="141-174" id="28944914.s0.e1" ontology_id="GO_0090343" text="positive regulation of cell aging" type="GO"/>
+    <entity charOffset="215-233" id="28944914.s0.e2" ontology_id="HP_0000365" text="hearing impairment" type="HP"/>
+    <entity charOffset="281-299" id="28944914.s0.e3" ontology_id="HP_0000951" text="skin abnormalities" type="HP"/>
+    <pair e1="28944914.s0.e0" e2="28944914.s0.e2" id="28944914.s0.p0" relation="false"/>
+    <pair e1="28944914.s0.e1" e2="28944914.s0.e2" id="28944914.s0.p1" relation="true"/>
+    <pair e1="28944914.s0.e1" e2="28944914.s0.e3" id="28944914.s0.p2" relation="true"/>
+  </sentence>
+  <sentence id="28944914.s1" text="The copy number variations and mutations were also used to identify single nucleotide variations (SNVs) in crystallin mu (negative regulation of transcription by RNA polymerase II), RAB3 GTPase activating protein catalytic subunit 1 (regulation of GTPase activity) and Wnt family member 10A (canonical Wnt signaling pathway), implicated in deafness, hypogonadism and tooth/skin abnormalities, respectively.">
+    <entity charOffset="122-179" id="28944914.s1.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="234-263" id="28944914.s1.e1" ontology_id="GO_0043087" text="regulation of GTPase activity" type="GO"/>
+    <entity charOffset="292-323" id="28944914.s1.e2" ontology_id="GO_0060070" text="canonical Wnt signaling pathway" type="GO"/>
+    <entity charOffset="340-348" id="28944914.s1.e3" ontology_id="HP_0000365" text="deafness" type="HP"/>
+    <entity charOffset="350-362" id="28944914.s1.e4" ontology_id="HP_0000135" text="hypogonadism" type="HP"/>
+    <entity charOffset="373-391" id="28944914.s1.e5" ontology_id="HP_0000951" text="skin abnormalities" type="HP"/>
+    <pair e1="28944914.s1.e0" e2="28944914.s1.e5" id="28944914.s1.p0" relation="false"/>
+    <pair e1="28944914.s1.e0" e2="28944914.s1.e3" id="28944914.s1.p1" relation="true"/>
+    <pair e1="28944914.s1.e0" e2="28944914.s1.e4" id="28944914.s1.p2" relation="false"/>
+    <pair e1="28944914.s1.e1" e2="28944914.s1.e5" id="28944914.s1.p3" relation="true"/>
+    <pair e1="28944914.s1.e1" e2="28944914.s1.e3" id="28944914.s1.p4" relation="false"/>
+    <pair e1="28944914.s1.e2" e2="28944914.s1.e5" id="28944914.s1.p5" relation="true"/>
+    <pair e1="28944914.s1.e2" e2="28944914.s1.e3" id="28944914.s1.p6" relation="false"/>
+  </sentence>
+</document>

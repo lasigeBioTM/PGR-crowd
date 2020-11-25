@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29799832">
+  <sentence id="29799832.s0" text="RESULTS There was an increased expression of dolichol-linked oligosaccharide biosynthetic process in breast cancer tissues compared to normal breast tissues (p&amp;lt;0.05).">
+    <entity charOffset="45-97" id="29799832.s0.e0" ontology_id="GO_0006488" text="dolichol-linked oligosaccharide biosynthetic process" type="GO"/>
+    <entity charOffset="108-114" id="29799832.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29799832.s0.e0" e2="29799832.s0.e1" id="29799832.s0.p0" relation="true"/>
+  </sentence>
+</document>

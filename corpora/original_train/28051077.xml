@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<document id="28051077">
+  <sentence id="28051077.s0" text="We aimed to identify the genetic cause of the devastating neurodegenerative disease amyotrophic lateral sclerosis (ALS) in a German family with two affected individuals, and to assess the prevalence of variants in the identified risk gene, phosphatidylinositol biosynthetic process, in a central European ALS cohort.">
+    <entity charOffset="58-83" id="28051077.s0.e0" ontology_id="HP_0002180" text="neurodegenerative disease" type="HP"/>
+    <entity charOffset="240-281" id="28051077.s0.e1" ontology_id="GO_0006661" text="phosphatidylinositol biosynthetic process" type="GO"/>
+    <pair e1="28051077.s0.e0" e2="28051077.s0.e1" id="28051077.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28051077.s1" text="Additionally, novel or rare heterozygous phosphatidylinositol biosynthetic process missense variants predicted to be deleterious were detected in five sporadic signal transduction patients revealing an overall FIG4 variant frequency of 3% in our cohort.">
+    <entity charOffset="41-82" id="28051077.s1.e0" ontology_id="GO_0006661" text="phosphatidylinositol biosynthetic process" type="GO"/>
+    <entity charOffset="151-159" id="28051077.s1.e1" ontology_id="HP_0003745" text="sporadic" type="HP"/>
+    <entity charOffset="160-179" id="28051077.s1.e2" ontology_id="GO_0007165" text="signal transduction" type="GO"/>
+    <pair e1="28051077.s1.e0" e2="28051077.s1.e1" id="28051077.s1.p0" relation="false"/>
+    <pair e1="28051077.s1.e1" e2="28051077.s1.e2" id="28051077.s1.p1" relation="false"/>
+  </sentence>
+  <sentence id="28051077.s2" text="Four of six variants identified were previously associated with signal transduction or the motor and sensory neuropathy Charcot-Marie-Tooth disease muscle organ development 4J (phosphatidylinositol biosynthetic process), whereas two variants were novel.">
+    <entity charOffset="64-83" id="28051077.s2.e0" ontology_id="GO_0007165" text="signal transduction" type="GO"/>
+    <entity charOffset="109-119" id="28051077.s2.e1" ontology_id="HP_0009830" text="neuropathy" type="HP"/>
+    <entity charOffset="148-172" id="28051077.s2.e2" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="177-218" id="28051077.s2.e3" ontology_id="GO_0006661" text="phosphatidylinositol biosynthetic process" type="GO"/>
+    <pair e1="28051077.s2.e0" e2="28051077.s2.e1" id="28051077.s2.p0" relation="false"/>
+    <pair e1="28051077.s2.e1" e2="28051077.s2.e2" id="28051077.s2.p1" relation="false"/>
+    <pair e1="28051077.s2.e1" e2="28051077.s2.e3" id="28051077.s2.p2" relation="true"/>
+  </sentence>
+</document>

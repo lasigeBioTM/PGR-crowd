@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<document id="25899669">
+  <sentence id="25899669.s0" text="We report on an 8-year-old girl born to consanguineous Iraqi parents presenting with slowly progressive encephalomyopathy, severe failure to thrive, significant delays in verbal and communicative skills and bilateral retinal cherry protein phosphorylation spots on fundoscopy.">
+    <entity charOffset="130-147" id="25899669.s0.e0" ontology_id="HP_0001508" text="failure to thrive" type="HP"/>
+    <entity charOffset="207-216" id="25899669.s0.e1" ontology_id="HP_0012832" text="bilateral" type="HP"/>
+    <entity charOffset="232-255" id="25899669.s0.e2" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+  </sentence>
+  <sentence id="25899669.s1" text="The bilateral retinal cherry protein phosphorylation spots and failure to thrive observed in our patient are unique features, which have not been described, in previously reported patients with mitochondrial respiratory chain complex III assembly mutations.">
+    <entity charOffset="4-13" id="25899669.s1.e0" ontology_id="HP_0012832" text="bilateral" type="HP"/>
+    <entity charOffset="29-52" id="25899669.s1.e1" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <entity charOffset="63-80" id="25899669.s1.e2" ontology_id="HP_0001508" text="failure to thrive" type="HP"/>
+    <entity charOffset="194-246" id="25899669.s1.e3" ontology_id="GO_0034551" text="mitochondrial respiratory chain complex III assembly" type="GO"/>
+    <pair e1="25899669.s1.e0" e2="25899669.s1.e3" id="25899669.s1.p0" relation="true"/>
+    <pair e1="25899669.s1.e1" e2="25899669.s1.e2" id="25899669.s1.p1" relation="true"/>
+    <pair e1="25899669.s1.e2" e2="25899669.s1.e3" id="25899669.s1.p2" relation="true"/>
+  </sentence>
+</document>

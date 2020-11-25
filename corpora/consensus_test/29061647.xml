@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="29061647">
+  <sentence id="29061647.s0" text="Over 60 years after the initial description of cellular aldehyde metabolic process, we report the first animal model for this disease: an cellular aldehyde metabolic process-null zebrafish (&lt;i&gt;Danio rerio&lt;/i&gt;) displaying deficient lysine metabolism and spontaneous and recurrent seizures in the larval stage (10 days postfertilization).">
+    <entity charOffset="47-82" id="29061647.s0.e0" ontology_id="GO_0006081" text="cellular aldehyde metabolic process" type="GO"/>
+    <entity charOffset="138-173" id="29061647.s0.e1" ontology_id="GO_0006081" text="cellular aldehyde metabolic process" type="GO"/>
+    <entity charOffset="279-287" id="29061647.s0.e2" ontology_id="HP_0001250" text="seizures" type="HP"/>
+    <pair e1="29061647.s0.e1" e2="29061647.s0.e2" id="29061647.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29061647.s1" text="This novel model provides valuable insights into cellular aldehyde metabolic process pathophysiology; further research may offer new opportunities for drug discovery to control seizure activity and improve neurodevelopmental outcomes for PDE">
+    <entity charOffset="49-84" id="29061647.s1.e0" ontology_id="GO_0006081" text="cellular aldehyde metabolic process" type="GO"/>
+    <entity charOffset="177-184" id="29061647.s1.e1" ontology_id="HP_0001250" text="seizure" type="HP"/>
+    <pair e1="29061647.s1.e0" e2="29061647.s1.e1" id="29061647.s1.p0" relation="false"/>
+  </sentence>
+</document>

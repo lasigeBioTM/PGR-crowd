@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="29341460">
+  <sentence id="29341460.s0" text="In 2009, four families with a distal duplication of Xq28 not including negative regulation of gene expression and mediated by low-copy repeats (LCRs) designated &amp;quot;K&amp;quot; and &amp;quot;L&amp;quot; were reported with intellectual disability and epilepsy.">
+    <entity charOffset="71-109" id="29341460.s0.e0" ontology_id="GO_0010629" text="negative regulation of gene expression" type="GO"/>
+    <entity charOffset="212-235" id="29341460.s0.e1" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <entity charOffset="240-248" id="29341460.s0.e2" ontology_id="HP_0001250" text="epilepsy" type="HP"/>
+    <pair e1="29341460.s0.e0" e2="29341460.s0.e1" id="29341460.s0.p0" relation="true"/>
+    <pair e1="29341460.s0.e0" e2="29341460.s0.e2" id="29341460.s0.p1" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<document id="29046478">
+  <sentence id="29046478.s0" text="Loss-of-function mutations of G protein-coupled acetylcholine receptor signaling pathway, which encodes G-protein subunit α11 (Gα11), a signaling partner for the calcium-sensing receptor (detection of calcium ion), result in familial hypocalciuric hypercalcemia type 2 (G protein-coupled acetylcholine receptor signaling pathway).">
+    <entity charOffset="30-88" id="29046478.s0.e0" ontology_id="GO_0007213" text="G protein-coupled acetylcholine receptor signaling pathway" type="GO"/>
+    <entity charOffset="188-212" id="29046478.s0.e1" ontology_id="GO_0005513" text="detection of calcium ion" type="GO"/>
+    <entity charOffset="248-261" id="29046478.s0.e2" ontology_id="HP_0003072" text="hypercalcemia" type="HP"/>
+    <entity charOffset="270-328" id="29046478.s0.e3" ontology_id="GO_0007213" text="G protein-coupled acetylcholine receptor signaling pathway" type="GO"/>
+    <pair e1="29046478.s0.e0" e2="29046478.s0.e2" id="29046478.s0.p0" relation="true"/>
+    <pair e1="29046478.s0.e1" e2="29046478.s0.e2" id="29046478.s0.p1" relation="true"/>
+    <pair e1="29046478.s0.e2" e2="29046478.s0.e3" id="29046478.s0.p2" relation="true"/>
+  </sentence>
+  <sentence id="29046478.s1" text="G protein-coupled acetylcholine receptor signaling pathway is characterized by hypercalcemia, inappropriately normal or raised parathyroid hormone (negative regulation of transcription by RNA polymerase II) concentrations, and normal or low urinary calcium excretion.">
+    <entity charOffset="0-58" id="29046478.s1.e0" ontology_id="GO_0007213" text="G protein-coupled acetylcholine receptor signaling pathway" type="GO"/>
+    <entity charOffset="79-92" id="29046478.s1.e1" ontology_id="HP_0003072" text="hypercalcemia" type="HP"/>
+    <entity charOffset="148-205" id="29046478.s1.e2" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="29046478.s1.e0" e2="29046478.s1.e1" id="29046478.s1.p0" relation="true"/>
+    <pair e1="29046478.s1.e1" e2="29046478.s1.e2" id="29046478.s1.p1" relation="false"/>
+  </sentence>
+</document>

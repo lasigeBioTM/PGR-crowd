@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="17616665">
+  <sentence id="17616665.s0" text="Here, we show that breast-ovarian cancer susceptibility 1 (double-strand break repair via homologous recombination) interacts directly with actin cytoskeleton reorganization-interacting protein (ATRIP), an obligate partner of ATR.">
+    <entity charOffset="34-40" id="17616665.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="59-114" id="17616665.s0.e1" ontology_id="GO_0000724" text="double-strand break repair via homologous recombination" type="GO"/>
+    <entity charOffset="140-173" id="17616665.s0.e2" ontology_id="GO_0031532" text="actin cytoskeleton reorganization" type="GO"/>
+    <pair e1="17616665.s0.e0" e2="17616665.s0.e1" id="17616665.s0.p0" relation="true"/>
+    <pair e1="17616665.s0.e0" e2="17616665.s0.e2" id="17616665.s0.p1" relation="false"/>
+  </sentence>
+  <sentence id="17616665.s1" text="The signaling of DNA cellular protein catabolic process and replication stress involves a multitude of proteins, including the kinases ataxia-telangiectasia mutated (ATM) and ATM and Rad3-related (ATR), and proteins with BRCA1 COOH-terminal (BRCT) domains.">
+    <entity charOffset="21-55" id="17616665.s1.e0" ontology_id="GO_0044257" text="cellular protein catabolic process" type="GO"/>
+    <entity charOffset="135-141" id="17616665.s1.e1" ontology_id="HP_0001251" text="ataxia" type="HP"/>
+  </sentence>
+</document>

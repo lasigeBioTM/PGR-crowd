@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<document id="19334086">
+  <sentence id="19334086.s0" text="Because of the distinct ear anomalies and the hearing loss a cell fate determination mutation was taken into account.">
+    <entity charOffset="24-37" id="19334086.s0.e0" ontology_id="HP_0000598" text="ear anomalies" type="HP"/>
+    <entity charOffset="61-84" id="19334086.s0.e1" ontology_id="GO_0001709" text="cell fate determination" type="GO"/>
+    <pair e1="19334086.s0.e0" e2="19334086.s0.e1" id="19334086.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="19334086.s1" text="Treacher Collins syndrome (regulation of translation, OMIM 154500) is a well-defined mandibulofacial dysostosis characterized by symmetric facial anomalies consisting of malar hypoplasia, coloboma of the lower eyelid, dysplastic ears, micrognathia, cleft palate and deafness.">
+    <entity charOffset="27-52" id="19334086.s1.e0" ontology_id="GO_0006417" text="regulation of translation" type="GO"/>
+    <entity charOffset="139-155" id="19334086.s1.e1" ontology_id="HP_0000271" text="facial anomalies" type="HP"/>
+    <entity charOffset="235-247" id="19334086.s1.e2" ontology_id="HP_0000347" text="micrognathia" type="HP"/>
+    <entity charOffset="249-261" id="19334086.s1.e3" ontology_id="HP_0000175" text="cleft palate" type="HP"/>
+    <pair e1="19334086.s1.e0" e2="19334086.s1.e1" id="19334086.s1.p0" relation="false"/>
+    <pair e1="19334086.s1.e0" e2="19334086.s1.e2" id="19334086.s1.p1" relation="false"/>
+    <pair e1="19334086.s1.e0" e2="19334086.s1.e3" id="19334086.s1.p2" relation="false"/>
+  </sentence>
+  <sentence id="19334086.s2" text="Here we describe three unrelated patients showing clinical features overlapping with regulation of translation, but who in addition have developmental delay, microcephaly and a distinct facial gestalt.">
+    <entity charOffset="85-110" id="19334086.s2.e0" ontology_id="GO_0006417" text="regulation of translation" type="GO"/>
+    <entity charOffset="137-156" id="19334086.s2.e1" ontology_id="HP_0001263" text="developmental delay" type="HP"/>
+    <pair e1="19334086.s2.e0" e2="19334086.s2.e1" id="19334086.s2.p0" relation="false"/>
+  </sentence>
+</document>

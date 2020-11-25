@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28778788">
+  <sentence id="28778788.s0" text="In this study we present the first two cases from India of a rare inborn error of metabolism manifesting as dystonia and 3-methylglutaconic aciduria and a Leigh like lesions in the brain MRI associated with intracellular cholesterol transport gene mutation, a phenotype characteristic of MEGDEL syndrome.">
+    <entity charOffset="108-116" id="28778788.s0.e0" ontology_id="HP_0001332" text="dystonia" type="HP"/>
+    <entity charOffset="207-242" id="28778788.s0.e1" ontology_id="GO_0032367" text="intracellular cholesterol transport" type="GO"/>
+    <pair e1="28778788.s0.e0" e2="28778788.s0.e1" id="28778788.s0.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27601211">
+  <sentence id="27601211.s0" text="Patients did not present with visual impairment as observed in a previously reported SPG57 family (c.316C&amp;gt;T (p.(Arg106Cys)) in coiled-coil domain), suggesting unique contributions of the PB1 and coiled-coil domains in ER to Golgi vesicle-mediated transport complex formation/function and a possible phenotype correlation to variant location.">
+    <entity charOffset="30-47" id="27601211.s0.e0" ontology_id="HP_0000505" text="visual impairment" type="HP"/>
+    <entity charOffset="221-259" id="27601211.s0.e1" ontology_id="GO_0006888" text="ER to Golgi vesicle-mediated transport" type="GO"/>
+    <pair e1="27601211.s0.e0" e2="27601211.s0.e1" id="27601211.s0.p0" relation="true"/>
+  </sentence>
+</document>

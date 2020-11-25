@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="24705504">
+  <sentence id="24705504.s0" text="Friedreich ataxia (regulation of ferrochelatase activity) is the most frequent progressive autosomal recessive disorder associated with unstable expansion of GAA trinucleotide repeats in the first intron of the FXN gene, which encodes for the mitochondrial frataxin protein.">
+    <entity charOffset="11-17" id="24705504.s0.e0" ontology_id="HP_0001251" text="ataxia" type="HP"/>
+    <entity charOffset="19-56" id="24705504.s0.e1" ontology_id="GO_0010722" text="regulation of ferrochelatase activity" type="GO"/>
+  </sentence>
+</document>

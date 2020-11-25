@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="28810294">
+  <sentence id="28810294.s0" text="&lt;b&gt;Methods:&lt;/b&gt; The fallopian centrosome cycles in 58 cases of pelvic HGSC (54 cases of ovarian primary, 3 cases of tubal primary, 1 case of peritoneum) and 25 cases of pelvic non-HGSC (5 cases of ovarian low-grade serous cancer, 9 cases of endometrioid cancer, and 11 cases of clear cell ovary carcinoma) were collected from June 2015 to December 2016, and serially examined under light microscope (SEE-FIM protocol).">
+    <entity charOffset="30-46" id="28810294.s0.e0" ontology_id="GO_0007098" text="centrosome cycle" type="GO"/>
+    <entity charOffset="222-228" id="28810294.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28810294.s0.e0" e2="28810294.s0.e1" id="28810294.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="28810294.s1" text="The continuum of epithelial changes in the process of serous neoplasia including p53 signature, centrosome duplication, STIC and invasive carcinoma was identified in 8 cases of pelvic HGSC.">
+    <entity charOffset="61-70" id="28810294.s1.e0" ontology_id="HP_0002664" text="neoplasia" type="HP"/>
+    <entity charOffset="96-118" id="28810294.s1.e1" ontology_id="GO_0051298" text="centrosome duplication" type="GO"/>
+    <pair e1="28810294.s1.e0" e2="28810294.s1.e1" id="28810294.s1.p0" relation="false"/>
+  </sentence>
+</document>

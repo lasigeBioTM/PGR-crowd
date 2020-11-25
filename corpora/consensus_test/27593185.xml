@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="27593185">
+  <sentence id="27593185.s0" text="The purpose of this study was to explore the use of iterative decomposition of water and positive regulation of cell-matrix adhesion with echo asymmetry and least-squares estimation Carr-Purcell-Meiboom-Gill (IDEAL-CPMG) to simultaneously measure skeletal muscle apparent fat fraction and water T&lt;sub&gt;2&lt;/sub&gt; (T&lt;sub&gt;2,w&lt;/sub&gt;) in patients with Duchenne muscular dystrophy (DMD).">
+    <entity charOffset="89-132" id="27593185.s0.e0" ontology_id="GO_0001954" text="positive regulation of cell-matrix adhesion" type="GO"/>
+    <entity charOffset="353-371" id="27593185.s0.e1" ontology_id="HP_0003560" text="muscular dystrophy" type="HP"/>
+  </sentence>
+</document>

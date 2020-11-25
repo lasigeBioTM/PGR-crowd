@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<document id="27712600">
+  <sentence id="27712600.s0" text="However, to the chloride transport of our knowledge, the role of regulation of transcription by RNA polymerase II in human colorectal cancer (CRC) is still unclear.">
+    <entity charOffset="16-34" id="27712600.s0.e0" ontology_id="GO_0006821" text="chloride transport" type="GO"/>
+    <entity charOffset="65-113" id="27712600.s0.e1" ontology_id="GO_0006357" text="regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="134-140" id="27712600.s0.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27712600.s0.e0" e2="27712600.s0.e2" id="27712600.s0.p0" relation="false"/>
+    <pair e1="27712600.s0.e1" e2="27712600.s0.e2" id="27712600.s0.p1" relation="false"/>
+  </sentence>
+  <sentence id="27712600.s1" text="Overexpression of regulation of transcription by RNA polymerase II significantly inhibited the proliferation in vitro and CRC tumor growth in nude mice.">
+    <entity charOffset="18-66" id="27712600.s1.e0" ontology_id="GO_0006357" text="regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="126-131" id="27712600.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="27712600.s1.e0" e2="27712600.s1.e1" id="27712600.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="27712600.s2" text="Taken together, our study demonstrates that regulation of transcription by RNA polymerase II inhibits proliferation and tumorigenesis through inactivation of the Wnt/β-catenin pathway in CRC cells.">
+    <entity charOffset="44-92" id="27712600.s2.e0" ontology_id="GO_0006357" text="regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="120-125" id="27712600.s2.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="27712600.s2.e0" e2="27712600.s2.e1" id="27712600.s2.p0" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<document id="28485764">
+  <sentence id="28485764.s0" text="In a few (non-Swedish) melanoma families, mutations in other genes have been found, including protein phosphorylation, transcription, RNA-templated, POT1, ACD and TERF2IP.">
+    <entity charOffset="23-31" id="28485764.s0.e0" ontology_id="HP_0002861" text="melanoma" type="HP"/>
+    <entity charOffset="94-117" id="28485764.s0.e1" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <entity charOffset="119-147" id="28485764.s0.e2" ontology_id="GO_0001172" text="transcription, RNA-templated" type="GO"/>
+    <pair e1="28485764.s0.e0" e2="28485764.s0.e1" id="28485764.s0.p0" relation="true"/>
+    <pair e1="28485764.s0.e0" e2="28485764.s0.e2" id="28485764.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="28485764.s1" text="In genes that regulate cellular pigmentation pathways, including MC1R, ASIP, IRF4, melanin biosynthetic process, TYRP1 and OCA, there are different common variants that determine complexion traits, and those variants are also associated with different risks of melanoma.">
+    <entity charOffset="83-111" id="28485764.s1.e0" ontology_id="GO_0042438" text="melanin biosynthetic process" type="GO"/>
+    <entity charOffset="261-269" id="28485764.s1.e1" ontology_id="HP_0002861" text="melanoma" type="HP"/>
+    <pair e1="28485764.s1.e0" e2="28485764.s1.e1" id="28485764.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="28485764.s2" text="Individuals with known mutations in tumor suppressor genes such as G1/S transition of mitotic cell cycle and BAP1 require, in addition, follow up for other cancers">
+    <entity charOffset="36-41" id="28485764.s2.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="67-104" id="28485764.s2.e1" ontology_id="GO_0000082" text="G1/S transition of mitotic cell cycle" type="GO"/>
+    <pair e1="28485764.s2.e0" e2="28485764.s2.e1" id="28485764.s2.p0" relation="true"/>
+  </sentence>
+  <sentence id="28485764.s3" text="Swedish G1/S transition of mitotic cell cycle mutation carriers have a young median age of onset of melanoma, increased risks of multiple primary melanoma and of tobacco-associated cancers in respiratory and upper digestive tissues, and also worse survival compared to non-carriers.">
+    <entity charOffset="8-45" id="28485764.s3.e0" ontology_id="GO_0000082" text="G1/S transition of mitotic cell cycle" type="GO"/>
+    <entity charOffset="100-108" id="28485764.s3.e1" ontology_id="HP_0002861" text="melanoma" type="HP"/>
+    <pair e1="28485764.s3.e0" e2="28485764.s3.e1" id="28485764.s3.p0" relation="true"/>
+  </sentence>
+</document>

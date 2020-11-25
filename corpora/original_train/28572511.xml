@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28572511">
+  <sentence id="28572511.s0" text="We report a new (fifth) patient with the cblJ disorder who presented at 7 days of age with poor feeding, hypotonia, methylmalonic aciduria, and elevated plasma homocysteine and harbored the mutations c.1667_1668delAG [p.Glu556Glyfs*27] and c.1295G&amp;gt;A [p.Arg432Gln] in the &lt;i&gt;cobalamin metabolic process&lt;/i&gt; gene.">
+    <entity charOffset="116-138" id="28572511.s0.e0" ontology_id="HP_0012120" text="methylmalonic aciduria" type="HP"/>
+    <entity charOffset="277-304" id="28572511.s0.e1" ontology_id="GO_0009235" text="cobalamin metabolic process" type="GO"/>
+    <pair e1="28572511.s0.e0" e2="28572511.s0.e1" id="28572511.s0.p0" relation="true"/>
+  </sentence>
+</document>

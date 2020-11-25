@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27270838">
+  <sentence id="27270838.s0" text="Our study demonstrated that AURKA rs1047972 TT and (CC + CT) genomuscle organ developments were significantly associated with an increased risk of gastric cancer.">
+    <entity charOffset="65-89" id="27270838.s0.e0" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="155-161" id="27270838.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27270838.s0.e0" e2="27270838.s0.e1" id="27270838.s0.p0" relation="false"/>
+  </sentence>
+</document>

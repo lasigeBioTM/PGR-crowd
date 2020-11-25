@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<document id="29325022">
+  <sentence id="29325022.s0" text="This identified 11 individuals to have 9 non-synonymous AP2σ variants (Arg3His, Arg15His (x3), Ala44Thr, Phe52Tyr, Arg61His, Thr112Met, Met117Ile, Glu122Gly and Glu142Lys) with 3 of the 4 individuals who had Arg15His and Met117Ile AP2σ variants having mild hypercalcaemia, thereby indicating a prevalence of FHH3-associated AP2σ mutations of ∼7.8 GPI anchor metabolic process 100 000 individuals.">
+    <entity charOffset="257-271" id="29325022.s0.e0" ontology_id="HP_0003072" text="hypercalcaemia" type="HP"/>
+    <entity charOffset="347-375" id="29325022.s0.e1" ontology_id="GO_0006505" text="GPI anchor metabolic process" type="GO"/>
+  </sentence>
+  <sentence id="29325022.s1" text="Mutations of the sigma subunit of the heterotetrameric adaptor-related protein complex 2 (AP2σ) impair signalling of the calcium-sensing receptor (detection of calcium ion), and cause familial hypocalciuric hypercalcaemia type 3 (FHH3).">
+    <entity charOffset="147-171" id="29325022.s1.e0" ontology_id="GO_0005513" text="detection of calcium ion" type="GO"/>
+    <entity charOffset="207-221" id="29325022.s1.e1" ontology_id="HP_0003072" text="hypercalcaemia" type="HP"/>
+    <pair e1="29325022.s1.e0" e2="29325022.s1.e1" id="29325022.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="29325022.s2" text="We hypothesized that additional rare AP2σ variants may also be associated with altered detection of calcium ion function and hypercalcaemia, and sought for these by analysing &amp;gt;111 995 exomes (&amp;gt;60 706 from ExAc and dbSNP, and 51 289 from the Geisinger Health System-Regeneron DiscovEHR dataset, which also contains clinical data).">
+    <entity charOffset="87-111" id="29325022.s2.e0" ontology_id="GO_0005513" text="detection of calcium ion" type="GO"/>
+    <entity charOffset="125-139" id="29325022.s2.e1" ontology_id="HP_0003072" text="hypercalcaemia" type="HP"/>
+    <pair e1="29325022.s2.e0" e2="29325022.s2.e1" id="29325022.s2.p0" relation="true"/>
+  </sentence>
+</document>

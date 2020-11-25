@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="30136158">
+  <sentence id="30136158.s0" text="Whole exome sequencing in triple negative breast cancer cases (n = 8) and targeted sequencing in healthy controls (n = 48) revealed mitochondrial translational elongation rs552752779 (MAF: 75% vs. 6.25%, OR 45.00, 95% CI 9.43-243.32), ERBB2 rs527779103 (MAF: 62.5% vs. 7.29%, OR 21.19, 95% CI 5.11-94.32), transcription-coupled nucleotide-excision repair rs121913016 (MAF: 56.25% vs. 7.29%, OR 16.34, 95% CI 4.02-70.41), MSH6 rs2020912 (MAF: 56.25% vs. 1.04%, OR 122.13, 95% CI 12.29-2985.48) as risk factors for triple negative breast cancer.">
+    <entity charOffset="49-55" id="30136158.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="132-170" id="30136158.s0.e1" ontology_id="GO_0070125" text="mitochondrial translational elongation" type="GO"/>
+    <entity charOffset="306-354" id="30136158.s0.e2" ontology_id="GO_0006283" text="transcription-coupled nucleotide-excision repair" type="GO"/>
+    <pair e1="30136158.s0.e0" e2="30136158.s0.e1" id="30136158.s0.p0" relation="false"/>
+    <pair e1="30136158.s0.e0" e2="30136158.s0.e2" id="30136158.s0.p1" relation="true"/>
+  </sentence>
+</document>

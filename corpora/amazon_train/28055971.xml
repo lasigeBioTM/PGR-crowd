@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="28055971">
+  <sentence id="28055971.s0" text="Progression of prostate cancer (PC) to castration-recurrent growth (CRPC) remains dependent on sustained expression and transcriptional activity of the androgen receptor (oxidation-reduction process).">
+    <entity charOffset="24-30" id="28055971.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="171-198" id="28055971.s0.e1" ontology_id="GO_0055114" text="oxidation-reduction process" type="GO"/>
+  </sentence>
+  <sentence id="28055971.s1" text="By comparing the peptidyl-tyrosine phosphorylation-induced oxidation-reduction process-cistrome and/or transcriptome in LNCaP to those in CRPC and LuCaP35.1 tumors, we identified an 11-gene Src-regulated CRPC signature consisting of AR-dependent, AR binding site (ARBS)-associated genes whose expression is altered by DHT in LNCaP[Src527F] but not in LNCaP cells.">
+    <entity charOffset="17-50" id="28055971.s1.e0" ontology_id="GO_0018108" text="peptidyl-tyrosine phosphorylation" type="GO"/>
+    <entity charOffset="59-86" id="28055971.s1.e1" ontology_id="GO_0055114" text="oxidation-reduction process" type="GO"/>
+    <entity charOffset="157-163" id="28055971.s1.e2" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <pair e1="28055971.s1.e0" e2="28055971.s1.e2" id="28055971.s1.p0" relation="true"/>
+    <pair e1="28055971.s1.e1" e2="28055971.s1.e2" id="28055971.s1.p1" relation="true"/>
+  </sentence>
+</document>

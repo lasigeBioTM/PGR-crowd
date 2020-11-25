@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<document id="27206021">
+  <sentence id="27206021.s0" text="Congenital dyserythropoietic anemia muscle organ development I (chromatin organization) is a rare autosomal recessive disease characterized by macrocytic anemia, ineffective erythropoiesis, and secondary hemochromatosis.">
+    <entity charOffset="36-60" id="27206021.s0.e0" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="64-86" id="27206021.s0.e1" ontology_id="GO_0006325" text="chromatin organization" type="GO"/>
+    <entity charOffset="98-117" id="27206021.s0.e2" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="162-188" id="27206021.s0.e3" ontology_id="HP_0010972" text="ineffective erythropoiesis" type="HP"/>
+    <pair e1="27206021.s0.e0" e2="27206021.s0.e2" id="27206021.s0.p0" relation="true"/>
+    <pair e1="27206021.s0.e1" e2="27206021.s0.e2" id="27206021.s0.p1" relation="true"/>
+    <pair e1="27206021.s0.e1" e2="27206021.s0.e3" id="27206021.s0.p2" relation="true"/>
+  </sentence>
+  <sentence id="27206021.s1" text="Main complications were due to anemia and ineffective erythropoiesis [osteoporosis (8/9, 89%), cholelithiasis (21/30, 70%), pulmonary arterial hypertension (L-phenylalanine catabolic process) (6/25, 24%)] and iron overload [hypothyroidism (9/24, 38%), and diabetes mellitus (6/32, 19%)].">
+    <entity charOffset="42-68" id="27206021.s1.e0" ontology_id="HP_0010972" text="ineffective erythropoiesis" type="HP"/>
+    <entity charOffset="157-190" id="27206021.s1.e1" ontology_id="GO_0006559" text="L-phenylalanine catabolic process" type="GO"/>
+  </sentence>
+</document>

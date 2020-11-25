@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="27034204">
+  <sentence id="27034204.s0" text="Haplotype GAT for G protein-coupled glutamate receptor signaling pathway markers rs2067011-rs2645339-rs762724 showed significance (P=0.0239), but such association did not remain significant after multiple testing corrections.ConclusionsOur data suggested that genetic variants in GRM6 are associated with high myopia.">
+    <entity charOffset="18-72" id="27034204.s0.e0" ontology_id="GO_0007216" text="G protein-coupled glutamate receptor signaling pathway" type="GO"/>
+    <entity charOffset="310-316" id="27034204.s0.e1" ontology_id="HP_0000545" text="myopia" type="HP"/>
+    <pair e1="27034204.s0.e0" e2="27034204.s0.e1" id="27034204.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="27034204.s1" text="The mechanism of G protein-coupled glutamate receptor signaling pathway in the development of high myopia need to be further investigated.">
+    <entity charOffset="17-71" id="27034204.s1.e0" ontology_id="GO_0007216" text="G protein-coupled glutamate receptor signaling pathway" type="GO"/>
+    <entity charOffset="99-105" id="27034204.s1.e1" ontology_id="HP_0000545" text="myopia" type="HP"/>
+    <pair e1="27034204.s1.e0" e2="27034204.s1.e1" id="27034204.s1.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="26811476">
+  <sentence id="26811476.s0" text="Via its bipartite zona pellucida module (ZP-N/ZP-C), heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules forms extracellular filaments that regulate kidney electrolyte balance and innate immunity, as well as protect against renal stones.">
+    <entity charOffset="53-128" id="26811476.s0.e0" ontology_id="GO_0007157" text="heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules" type="GO"/>
+    <entity charOffset="248-260" id="26811476.s0.e1" ontology_id="HP_0000787" text="renal stones" type="HP"/>
+    <pair e1="26811476.s0.e0" e2="26811476.s0.e1" id="26811476.s0.p0" relation="true"/>
+  </sentence>
+</document>

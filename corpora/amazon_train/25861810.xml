@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="25861810">
+  <sentence id="25861810.s0" text="Pathway analyses demonstrated that methylation levels associated with age and BMI are overrepresented among genes involved in cancer, muscle organ development 2 diabetes and cardiovascular disease.">
+    <entity charOffset="126-132" id="25861810.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="134-158" id="25861810.s0.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="174-196" id="25861810.s0.e2" ontology_id="HP_0001626" text="cardiovascular disease" type="HP"/>
+  </sentence>
+  <sentence id="25861810.s1" text="Our results highlight the negative regulation of transcription by RNA polymerase II of age, BMI and HbA1c on epigenetic variation of candidate genes for obesity, muscle organ development 2 diabetes and cancer in human adipose tissue.">
+    <entity charOffset="26-83" id="25861810.s1.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="153-160" id="25861810.s1.e1" ontology_id="HP_0001513" text="obesity" type="HP"/>
+    <entity charOffset="162-186" id="25861810.s1.e2" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="202-208" id="25861810.s1.e3" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="25861810.s1.e0" e2="25861810.s1.e1" id="25861810.s1.p0" relation="true"/>
+  </sentence>
+</document>

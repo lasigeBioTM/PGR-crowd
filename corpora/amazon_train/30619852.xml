@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30619852">
+  <sentence id="30619852.s0" text="Despite their clinical heterogeneity, which remains an open question, laminopathies are commonly caused by mutations in the positive regulation of cell aging gene, encoding the nuclear proteins Lamin A and C.">
+    <entity charOffset="23-36" id="30619852.s0.e0" ontology_id="HP_0001425" text="heterogeneity" type="HP"/>
+    <entity charOffset="124-157" id="30619852.s0.e1" ontology_id="GO_0090343" text="positive regulation of cell aging" type="GO"/>
+    <pair e1="30619852.s0.e0" e2="30619852.s0.e1" id="30619852.s0.p0" relation="true"/>
+  </sentence>
+</document>

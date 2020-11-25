@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="28328135">
+  <sentence id="28328135.s0" text="Since the original description of the tRNA aminoacylation for protein translation-related cataracts, growth hormone deficiency, sensory neuropathy, sensorineural hearing loss, skeletal dysplasia syndrome (CAGSSS; OMIM 616007) in an extended consanguineous family of French-Canadian descent, no further patients have been reported.">
+    <entity charOffset="38-81" id="28328135.s0.e0" ontology_id="GO_0006418" text="tRNA aminoacylation for protein translation" type="GO"/>
+    <entity charOffset="136-146" id="28328135.s0.e1" ontology_id="HP_0009830" text="neuropathy" type="HP"/>
+    <pair e1="28328135.s0.e0" e2="28328135.s0.e1" id="28328135.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28328135.s1" text="We present her clinical features and particularly highlight her skeletal findings, which confirm the presence of a primary regulation of axon extension involved in axon guidance skeletal dysplasia in a growing list of mitochondrial-related disorders including CAGSSS, CODAS, EVEN-PLUS, and X-linked SEMD-MR syndromes">
+    <entity charOffset="123-177" id="28328135.s1.e0" ontology_id="GO_0048841" text="regulation of axon extension involved in axon guidance" type="GO"/>
+    <entity charOffset="178-196" id="28328135.s1.e1" ontology_id="HP_0002652" text="skeletal dysplasia" type="HP"/>
+    <pair e1="28328135.s1.e0" e2="28328135.s1.e1" id="28328135.s1.p0" relation="true"/>
+  </sentence>
+</document>

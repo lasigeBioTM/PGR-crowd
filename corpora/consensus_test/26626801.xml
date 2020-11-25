@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<document id="26626801">
+  <sentence id="26626801.s0" text="We identified a high frequency of mutations in negative regulation of protein phosphorylation (50%) and genes involved in the endometrial cancer-related molecular pathway, which involves the IL-7 signaling pathway (phosphatidylinositol 3-kinase signaling, n=1; positive regulation of cell migration, n=1; cellular response to starvation, n=1).">
+    <entity charOffset="47-93" id="26626801.s0.e0" ontology_id="GO_0001933" text="negative regulation of protein phosphorylation" type="GO"/>
+    <entity charOffset="138-144" id="26626801.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="215-254" id="26626801.s0.e2" ontology_id="GO_0014065" text="phosphatidylinositol 3-kinase signaling" type="GO"/>
+    <entity charOffset="261-298" id="26626801.s0.e3" ontology_id="GO_0030335" text="positive regulation of cell migration" type="GO"/>
+    <entity charOffset="305-336" id="26626801.s0.e4" ontology_id="GO_0009267" text="cellular response to starvation" type="GO"/>
+    <pair e1="26626801.s0.e0" e2="26626801.s0.e1" id="26626801.s0.p0" relation="true"/>
+    <pair e1="26626801.s0.e1" e2="26626801.s0.e4" id="26626801.s0.p1" relation="true"/>
+    <pair e1="26626801.s0.e1" e2="26626801.s0.e2" id="26626801.s0.p2" relation="true"/>
+    <pair e1="26626801.s0.e1" e2="26626801.s0.e3" id="26626801.s0.p3" relation="false"/>
+  </sentence>
+  <sentence id="26626801.s1" text="The 21 genes comprised 8 tumor suppressor candidates (ATM, DNA repair, PIK3R1, PTCH1, PTEN, TET2, TP53, and regulation of translation) and 13 oncogene candidates (phosphorylation, regulation of transforming growth factor beta receptor signaling pathway, CTNNB1, ERBB2, positive regulation of cell proliferation, hemopoiesis, natural killer cell differentiation, activation of MAPK activity, MTOR, PDGFRA, chromosome segregation, PTPN11, and SF3B1).">
+    <entity charOffset="25-30" id="26626801.s1.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="59-69" id="26626801.s1.e1" ontology_id="GO_0006281" text="DNA repair" type="GO"/>
+    <entity charOffset="108-133" id="26626801.s1.e2" ontology_id="GO_0006417" text="regulation of translation" type="GO"/>
+    <entity charOffset="163-178" id="26626801.s1.e3" ontology_id="GO_0016310" text="phosphorylation" type="GO"/>
+    <entity charOffset="180-252" id="26626801.s1.e4" ontology_id="GO_0017015" text="regulation of transforming growth factor beta receptor signaling pathway" type="GO"/>
+    <entity charOffset="269-310" id="26626801.s1.e5" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <entity charOffset="312-323" id="26626801.s1.e6" ontology_id="GO_0030097" text="hemopoiesis" type="GO"/>
+    <entity charOffset="325-360" id="26626801.s1.e7" ontology_id="GO_0001779" text="natural killer cell differentiation" type="GO"/>
+    <entity charOffset="362-389" id="26626801.s1.e8" ontology_id="GO_0000187" text="activation of MAPK activity" type="GO"/>
+    <entity charOffset="405-427" id="26626801.s1.e9" ontology_id="GO_0007059" text="chromosome segregation" type="GO"/>
+    <pair e1="26626801.s1.e0" e2="26626801.s1.e6" id="26626801.s1.p0" relation="false"/>
+    <pair e1="26626801.s1.e0" e2="26626801.s1.e9" id="26626801.s1.p1" relation="false"/>
+    <pair e1="26626801.s1.e0" e2="26626801.s1.e2" id="26626801.s1.p2" relation="true"/>
+    <pair e1="26626801.s1.e0" e2="26626801.s1.e4" id="26626801.s1.p3" relation="false"/>
+    <pair e1="26626801.s1.e0" e2="26626801.s1.e1" id="26626801.s1.p4" relation="true"/>
+    <pair e1="26626801.s1.e0" e2="26626801.s1.e5" id="26626801.s1.p5" relation="true"/>
+    <pair e1="26626801.s1.e0" e2="26626801.s1.e7" id="26626801.s1.p6" relation="false"/>
+    <pair e1="26626801.s1.e0" e2="26626801.s1.e3" id="26626801.s1.p7" relation="true"/>
+    <pair e1="26626801.s1.e0" e2="26626801.s1.e8" id="26626801.s1.p8" relation="false"/>
+  </sentence>
+  <sentence id="26626801.s2" text="We believe that this study will shed new light on fundamental aspects for understanding the molecular pathogenesis of endometrial cancer and may somatic diversification of immunoglobulins in the development of new targeted therapies.">
+    <entity charOffset="130-136" id="26626801.s2.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="145-187" id="26626801.s2.e1" ontology_id="GO_0016445" text="somatic diversification of immunoglobulins" type="GO"/>
+  </sentence>
+</document>

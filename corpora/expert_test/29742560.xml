@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="29742560">
+  <sentence id="29742560.s0" text="Keratitis-ichthyosis-deafness (KID) syndrome is a rare genodermatosis that typically results from mutations of the gap junction-mediated intercellular transport gene or, less commonly, the apoptotic process gene.">
+    <entity charOffset="21-29" id="29742560.s0.e0" ontology_id="HP_0000365" text="deafness" type="HP"/>
+    <entity charOffset="115-160" id="29742560.s0.e1" ontology_id="GO_1990349" text="gap junction-mediated intercellular transport" type="GO"/>
+    <entity charOffset="189-206" id="29742560.s0.e2" ontology_id="GO_0006915" text="apoptotic process" type="GO"/>
+    <pair e1="29742560.s0.e0" e2="29742560.s0.e2" id="29742560.s0.p0" relation="true"/>
+    <pair e1="29742560.s0.e0" e2="29742560.s0.e1" id="29742560.s0.p1" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28703219">
+  <sentence id="28703219.s0" text="Furthermore, we identified specific variants of DTC that have different effects according to cancer muscle organ development or ethnicity.">
+    <entity charOffset="93-99" id="28703219.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="100-124" id="28703219.s0.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <pair e1="28703219.s0.e0" e2="28703219.s0.e1" id="28703219.s0.p0" relation="false"/>
+  </sentence>
+</document>

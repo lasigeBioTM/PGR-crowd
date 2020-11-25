@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<document id="25590583">
+  <sentence id="25590583.s0" text="In this work, we functionally characterize two breast cancer associated genes, the proteasome 26S subunit ATPase 3 interacting protein (reciprocal meiotic recombination) and the epithelial-stromal interaction 1 (biological_process), to explore their potential apoptotic role in breast cancer.">
+    <entity charOffset="54-60" id="25590583.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="136-168" id="25590583.s0.e1" ontology_id="GO_0007131" text="reciprocal meiotic recombination" type="GO"/>
+    <entity charOffset="212-230" id="25590583.s0.e2" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <pair e1="25590583.s0.e0" e2="25590583.s0.e1" id="25590583.s0.p0" relation="true"/>
+    <pair e1="25590583.s0.e0" e2="25590583.s0.e2" id="25590583.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="25590583.s1" text="Based on the generated interaction network, we examine several apoptotic markers to determine the effect of reciprocal meiotic recombination and EPSTI1 gene expression modulation in two different human breast cancer cell lines to suggest potential molecular mechanisms to unveil their role in the disease.">
+    <entity charOffset="108-140" id="25590583.s1.e0" ontology_id="GO_0007131" text="reciprocal meiotic recombination" type="GO"/>
+    <entity charOffset="209-215" id="25590583.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="25590583.s1.e0" e2="25590583.s1.e1" id="25590583.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="25590583.s2" text="Our results show that reciprocal meiotic recombination and biological_process are able to modulate the extrinsic apoptotic pathway in estrogen receptor positive and triple negative breast cancer cell lines, highlighting them as potential therapeutic targets.">
+    <entity charOffset="22-54" id="25590583.s2.e0" ontology_id="GO_0007131" text="reciprocal meiotic recombination" type="GO"/>
+    <entity charOffset="59-77" id="25590583.s2.e1" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="188-194" id="25590583.s2.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="25590583.s2.e0" e2="25590583.s2.e2" id="25590583.s2.p0" relation="true"/>
+    <pair e1="25590583.s2.e1" e2="25590583.s2.e2" id="25590583.s2.p1" relation="true"/>
+  </sentence>
+</document>

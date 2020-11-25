@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<document id="28737756">
+  <sentence id="28737756.s0" text="Zinc finger protein 687 (regulation of transcription by RNA polymerase II), identified as a C2H2 zinc finger protein, has been found to be mutated and upregulated in giant cell tumor of bone and acute myeloid leukemia, suggesting an oncogenic role for ZNF687 in cancer.">
+    <entity charOffset="25-73" id="28737756.s0.e0" ontology_id="GO_0006357" text="regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="177-182" id="28737756.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28737756.s0.e0" e2="28737756.s0.e1" id="28737756.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28737756.s1" text="Herein, we report that regulation of transcription by RNA polymerase II was markedly upregulated in hepatocellular carcinoma (HCC) cell lines and HCC tissues, and was significantly correlated with relapse-free survival in HCC.">
+    <entity charOffset="23-71" id="28737756.s1.e0" ontology_id="GO_0006357" text="regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="100-124" id="28737756.s1.e1" ontology_id="HP_0001402" text="hepatocellular carcinoma" type="HP"/>
+    <pair e1="28737756.s1.e0" e2="28737756.s1.e1" id="28737756.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="28737756.s2" text="regulation of transcription by RNA polymerase II overexpression greatly enhanced phosphatidylinositol phosphorylation cell capability for tumorsphere formation, invasion and chemoresistance in vitro, whereas inhibiting ZNF687 reduced these capabilities and inhibited HCC cell tumorigenic capability in vivo.">
+    <entity charOffset="0-48" id="28737756.s2.e0" ontology_id="GO_0006357" text="regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="81-117" id="28737756.s2.e1" ontology_id="GO_0046854" text="phosphatidylinositol phosphorylation" type="GO"/>
+    <entity charOffset="138-143" id="28737756.s2.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28737756.s2.e0" e2="28737756.s2.e2" id="28737756.s2.p0" relation="true"/>
+    <pair e1="28737756.s2.e1" e2="28737756.s2.e2" id="28737756.s2.p1" relation="true"/>
+  </sentence>
+  <sentence id="28737756.s3" text="Importantly, extreme limiting dilution analysis revealed that even 1 × 10&lt;sup&gt;2&lt;/sup&gt; regulation of transcription by RNA polymerase II-transduced cells could form tumors in vivo, indicating that ZNF687 contributes to phosphatidylinositol phosphorylation recurrence.">
+    <entity charOffset="86-134" id="28737756.s3.e0" ontology_id="GO_0006357" text="regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="163-168" id="28737756.s3.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="217-253" id="28737756.s3.e2" ontology_id="GO_0046854" text="phosphatidylinositol phosphorylation" type="GO"/>
+    <pair e1="28737756.s3.e0" e2="28737756.s3.e1" id="28737756.s3.p0" relation="true"/>
+    <pair e1="28737756.s3.e1" e2="28737756.s3.e2" id="28737756.s3.p1" relation="true"/>
+  </sentence>
+</document>

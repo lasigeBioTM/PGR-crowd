@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="25204426">
+  <sentence id="25204426.s0" text="Planar cell polarity (biological_process) signaling has been shown in different studies to either promote or inhibit the malignancy of breast cancer.">
+    <entity charOffset="22-40" id="25204426.s0.e0" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="142-148" id="25204426.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+  </sentence>
+  <sentence id="25204426.s1" text="We thus provide evidence that biological_process signaling can coenzyme A biosynthetic process in a context dependent manner to promote breast cancer progression.">
+    <entity charOffset="30-48" id="25204426.s1.e0" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="63-94" id="25204426.s1.e1" ontology_id="GO_0015937" text="coenzyme A biosynthetic process" type="GO"/>
+    <entity charOffset="143-149" id="25204426.s1.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="25204426.s1.e0" e2="25204426.s1.e2" id="25204426.s1.p0" relation="true"/>
+    <pair e1="25204426.s1.e1" e2="25204426.s1.e2" id="25204426.s1.p1" relation="true"/>
+  </sentence>
+</document>

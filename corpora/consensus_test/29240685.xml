@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="29240685">
+  <sentence id="29240685.s0" text="Instead, biallelic mutations have been associated with afibrinogenemia/severe hypofibrinogenemia, i.e., the severest forms of fibrinogen deficiency, affecting approximately 1-2 cases GPI anchor metabolic process million people.">
+    <entity charOffset="78-96" id="29240685.s0.e0" ontology_id="HP_0011900" text="hypofibrinogenemia" type="HP"/>
+    <entity charOffset="183-211" id="29240685.s0.e1" ontology_id="GO_0006505" text="GPI anchor metabolic process" type="GO"/>
+  </sentence>
+</document>

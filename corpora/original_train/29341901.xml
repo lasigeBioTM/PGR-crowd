@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<document id="29341901">
+  <sentence id="29341901.s0" text="However, branching involved in blood vessel morphogenesis is a big protein expensive to produce that can hardly access the central nervous system.">
+    <entity charOffset="9-57" id="29341901.s0.e0" ontology_id="GO_0001569" text="branching involved in blood vessel morphogenesis" type="GO"/>
+    <entity charOffset="123-130" id="29341901.s0.e1" ontology_id="HP_0030645" text="central" type="HP"/>
+    <pair e1="29341901.s0.e0" e2="29341901.s0.e1" id="29341901.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="29341901.s1" text="Since it is known that the native protein, branching involved in blood vessel morphogenesis, can coenzyme A biosynthetic process in synergy with other growth factors in the context of AD, here we study the potential synergistic effect of various combinations of SpBMP-9 with bFGF, angiogenesis, IGF-2 or extrinsic apoptotic signaling pathway via death domain receptors on the cholinergic differentiation of human neuroblastoma cells SH-SY5Y.">
+    <entity charOffset="43-91" id="29341901.s1.e0" ontology_id="GO_0001569" text="branching involved in blood vessel morphogenesis" type="GO"/>
+    <entity charOffset="97-128" id="29341901.s1.e1" ontology_id="GO_0015937" text="coenzyme A biosynthetic process" type="GO"/>
+    <entity charOffset="281-293" id="29341901.s1.e2" ontology_id="GO_0001525" text="angiogenesis" type="GO"/>
+    <entity charOffset="304-368" id="29341901.s1.e3" ontology_id="GO_0008625" text="extrinsic apoptotic signaling pathway via death domain receptors" type="GO"/>
+    <entity charOffset="413-426" id="29341901.s1.e4" ontology_id="HP_0003006" text="neuroblastoma" type="HP"/>
+    <pair e1="29341901.s1.e0" e2="29341901.s1.e4" id="29341901.s1.p0" relation="false"/>
+    <pair e1="29341901.s1.e1" e2="29341901.s1.e4" id="29341901.s1.p1" relation="false"/>
+    <pair e1="29341901.s1.e2" e2="29341901.s1.e4" id="29341901.s1.p2" relation="false"/>
+    <pair e1="29341901.s1.e3" e2="29341901.s1.e4" id="29341901.s1.p3" relation="false"/>
+  </sentence>
+</document>

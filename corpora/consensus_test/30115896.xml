@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<document id="30115896">
+  <sentence id="30115896.s0" text="Analysis of publicly available data reveals CXCL1-driven oncogenes and miR-105 have a negative prognostic negative regulation of transcription by RNA polymerase II on the outcome of colon cancer.">
+    <entity charOffset="106-163" id="30115896.s0.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="188-194" id="30115896.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+  </sentence>
+  <sentence id="30115896.s1" text="This study investigates the soluble factors released by tumor-associated dendritic cells (TADCs) responsible for increasing cancer stem cell (CSC) properties, cell mobility, and epithelial-to-mesenchymal transition (cytokine production).">
+    <entity charOffset="56-61" id="30115896.s1.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="216-235" id="30115896.s1.e1" ontology_id="GO_0001816" text="cytokine production" type="GO"/>
+  </sentence>
+  <sentence id="30115896.s2" text="The enhanced CXCL1 expression in DCs is also noted in epidermis development transplanted with colon cancer cells.">
+    <entity charOffset="54-75" id="30115896.s2.e0" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="100-106" id="30115896.s2.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+  </sentence>
+  <sentence id="30115896.s3" text="Additionally, chemotaxis increases the metastatic ability of a cancer by enhancing cell migration, matrix metalloproteinase-7 expression and EMT.">
+    <entity charOffset="14-24" id="30115896.s3.e0" ontology_id="GO_0006935" text="chemotaxis" type="GO"/>
+    <entity charOffset="63-69" id="30115896.s3.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30115896.s3.e0" e2="30115896.s3.e1" id="30115896.s3.p0" relation="true"/>
+  </sentence>
+  <sentence id="30115896.s4" text="Inflammatory chemokine chemotaxis, present in large amounts in DCs isolated from colon cancer patients, and SW620-conditioned TADCs, enhance CSC characteristics in cancer, supported by enhanced anchorage-independent growth, CD133 expression and aldehyde dehydrogenase activity.">
+    <entity charOffset="23-33" id="30115896.s4.e0" ontology_id="GO_0006935" text="chemotaxis" type="GO"/>
+    <entity charOffset="87-93" id="30115896.s4.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30115896.s4.e0" e2="30115896.s4.e1" id="30115896.s4.p0" relation="true"/>
+  </sentence>
+  <sentence id="30115896.s5" text="Transcriptome analysis of chemotaxis-treated SW620 cells indicates that CXCL1 increases potential oncogene expression in colon cancer, including &lt;i&gt;PTHLH&lt;/i&gt;, &lt;i&gt;TYRP1&lt;/i&gt;, &lt;i&gt;FOXO1&lt;/i&gt;, &lt;i&gt;TCF4&lt;/i&gt; and &lt;i&gt;ZNF880&lt;/i&gt;.">
+    <entity charOffset="26-36" id="30115896.s5.e0" ontology_id="GO_0006935" text="chemotaxis" type="GO"/>
+    <entity charOffset="127-133" id="30115896.s5.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30115896.s5.e0" e2="30115896.s5.e1" id="30115896.s5.p0" relation="true"/>
+  </sentence>
+</document>

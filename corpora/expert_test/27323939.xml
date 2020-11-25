@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27323939">
+  <sentence id="27323939.s0" text="Brain somatic mutations in the gene encoding mTOR (regulation of cell growth) have recently been linked to focal cortical dysplasia and other associated brain pathologies including hemimegalencephaly.">
+    <entity charOffset="51-76" id="27323939.s0.e0" ontology_id="GO_0001558" text="regulation of cell growth" type="GO"/>
+    <entity charOffset="181-199" id="27323939.s0.e1" ontology_id="HP_0007206" text="hemimegalencephaly" type="HP"/>
+    <pair e1="27323939.s0.e0" e2="27323939.s0.e1" id="27323939.s0.p0" relation="true"/>
+  </sentence>
+</document>

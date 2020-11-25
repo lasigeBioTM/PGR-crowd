@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="30006060">
+  <sentence id="30006060.s0" text="Alazami syndrome (AS) (MIM# 615071) is an autosomal recessive microcephalic primordial dwarfism (PD) with recognizable facial features and severe intellectual disability due to depletion or loss of function variants in RNA processing.">
+    <entity charOffset="42-61" id="30006060.s0.e0" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="219-233" id="30006060.s0.e1" ontology_id="GO_0006396" text="RNA processing" type="GO"/>
+    <pair e1="30006060.s0.e0" e2="30006060.s0.e1" id="30006060.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="30006060.s1" text="By comparing these two additional cases with those previously reported, we strengthen the key features of AS: severe growth restriction, severe intellectual disability and some distinguishing facial features such as broad nose, malar hypoplasia, wide mouth, full lips and abnormally negative regulation of transcription, DNA-templated teeth.">
+    <entity charOffset="228-244" id="30006060.s1.e0" ontology_id="HP_0000272" text="malar hypoplasia" type="HP"/>
+    <entity charOffset="246-256" id="30006060.s1.e1" ontology_id="HP_0000154" text="wide mouth" type="HP"/>
+    <entity charOffset="283-334" id="30006060.s1.e2" ontology_id="GO_0045892" text="negative regulation of transcription, DNA-templated" type="GO"/>
+  </sentence>
+</document>

@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="28357685">
+  <sentence id="28357685.s0" text="This is supported by the nucleosome disassembly that the myeloid neoplasms with genetic predisposition represent a new category in the revised 2016 World Health Organization classification.">
+    <entity charOffset="25-47" id="28357685.s0.e0" ontology_id="GO_0006337" text="nucleosome disassembly" type="GO"/>
+    <entity charOffset="65-74" id="28357685.s0.e1" ontology_id="HP_0002664" text="neoplasms" type="HP"/>
+  </sentence>
+</document>

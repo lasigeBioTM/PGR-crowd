@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="27288692">
+  <sentence id="27288692.s0" text="As a result, 14 SNPs had a significant odds ratio (OR) for lung cancer risk with P FDR &amp;lt; 0.05, of which rs3115672 in biological_process (OR = 1.20, 95% CI = 1.14-1.27) and rs114596632 in transcription by RNA polymerase II (OR = 1.19, 95% CI = 1.12-1.25) at 6q21.33 were the most statistically significant (P combined = 3.99×10(-11) and P combined = 5.40×10(-10), respectively).">
+    <entity charOffset="64-70" id="27288692.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="120-138" id="27288692.s0.e1" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="190-224" id="27288692.s0.e2" ontology_id="GO_0006366" text="transcription by RNA polymerase II" type="GO"/>
+    <pair e1="27288692.s0.e0" e2="27288692.s0.e1" id="27288692.s0.p0" relation="false"/>
+    <pair e1="27288692.s0.e0" e2="27288692.s0.e2" id="27288692.s0.p1" relation="false"/>
+  </sentence>
+</document>

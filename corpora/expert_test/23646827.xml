@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="23646827">
+  <sentence id="23646827.s0" text="Subsequently, we identified another homozygous variant in 2 of the 10 probands with microphthalmia we specifically screened for mutations in retinoic acid biosynthetic process.">
+    <entity charOffset="84-98" id="23646827.s0.e0" ontology_id="HP_0000568" text="microphthalmia" type="HP"/>
+    <entity charOffset="141-175" id="23646827.s0.e1" ontology_id="GO_0002138" text="retinoic acid biosynthetic process" type="GO"/>
+    <pair e1="23646827.s0.e0" e2="23646827.s0.e1" id="23646827.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="23646827.s1" text="Our data support the very recent and independent identification of retinoic acid biosynthetic process as a disease gene in microphthalmia.">
+    <entity charOffset="67-101" id="23646827.s1.e0" ontology_id="GO_0002138" text="retinoic acid biosynthetic process" type="GO"/>
+    <entity charOffset="123-137" id="23646827.s1.e1" ontology_id="HP_0000568" text="microphthalmia" type="HP"/>
+    <pair e1="23646827.s1.e0" e2="23646827.s1.e1" id="23646827.s1.p0" relation="true"/>
+  </sentence>
+</document>

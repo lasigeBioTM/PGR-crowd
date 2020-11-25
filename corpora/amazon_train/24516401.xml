@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="24516401">
+  <sentence id="24516401.s0" text="E168d2 epidermis development carry a frameshift mutation in the positive regulation of transcription by RNA polymerase II activation domain, Glu168del2, which is associated with severe dominant CoRD or clathrin coat assembly in humans.">
+    <entity charOffset="7-28" id="24516401.s0.e0" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="64-121" id="24516401.s0.e1" ontology_id="GO_0045944" text="positive regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="178-184" id="24516401.s0.e2" ontology_id="HP_0012828" text="severe" type="HP"/>
+    <entity charOffset="202-224" id="24516401.s0.e3" ontology_id="GO_0048268" text="clathrin coat assembly" type="GO"/>
+    <pair e1="24516401.s0.e0" e2="24516401.s0.e2" id="24516401.s0.p0" relation="true"/>
+    <pair e1="24516401.s0.e1" e2="24516401.s0.e2" id="24516401.s0.p1" relation="true"/>
+    <pair e1="24516401.s0.e2" e2="24516401.s0.e3" id="24516401.s0.p2" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27143436">
+  <sentence id="27143436.s0" text="Despite significant progress in our understanding of hereditary neurodegenerative diseases, the list of genes associated with early-onnegative regulation of transcription, DNA-templated dementia is not yet complete.">
+    <entity charOffset="64-90" id="27143436.s0.e0" ontology_id="HP_0002180" text="neurodegenerative diseases" type="HP"/>
+    <entity charOffset="134-185" id="27143436.s0.e1" ontology_id="GO_0045892" text="negative regulation of transcription, DNA-templated" type="GO"/>
+    <pair e1="27143436.s0.e0" e2="27143436.s0.e1" id="27143436.s0.p0" relation="false"/>
+  </sentence>
+</document>

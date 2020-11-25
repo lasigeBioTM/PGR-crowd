@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="28737756">
+  <sentence id="28737756.s0" text="However, the clinical significance and precise role of regulation of transcription by RNA polymerase II in cancer progression are largely unknown.">
+    <entity charOffset="55-103" id="28737756.s0.e0" ontology_id="GO_0006357" text="regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="107-113" id="28737756.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28737756.s0.e0" e2="28737756.s0.e1" id="28737756.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28737756.s1" text="Zinc finger protein 687 (regulation of transcription by RNA polymerase II), identified as a C2H2 zinc finger protein, has been found to be mutated and upregulated in giant cell tumor of bone and acute myeloid leukemia, suggesting an oncogenic role for ZNF687 in cancer.">
+    <entity charOffset="25-73" id="28737756.s1.e0" ontology_id="GO_0006357" text="regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="262-268" id="28737756.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28737756.s1.e0" e2="28737756.s1.e1" id="28737756.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="28737756.s2" text="Herein, we report that ZNF687 was markedly upregulated in hepatocellular carcinoma (phosphatidylinositol phosphorylation) cell lines and HCC tissues, and was significantly correlated with relapse-free survival in HCC.">
+    <entity charOffset="58-82" id="28737756.s2.e0" ontology_id="HP_0001402" text="hepatocellular carcinoma" type="HP"/>
+    <entity charOffset="84-120" id="28737756.s2.e1" ontology_id="GO_0046854" text="phosphatidylinositol phosphorylation" type="GO"/>
+    <pair e1="28737756.s2.e0" e2="28737756.s2.e1" id="28737756.s2.p0" relation="false"/>
+  </sentence>
+</document>

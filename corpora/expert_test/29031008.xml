@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29031008">
+  <sentence id="29031008.s0" text="TRAPPC9 gene mutations have been linked recently to autosomal recessive mental retardation 13 (cerebral cortex development; MIM#613192) with only eight families reported world-wide.">
+    <entity charOffset="52-71" id="29031008.s0.e0" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="95-122" id="29031008.s0.e1" ontology_id="GO_0021987" text="cerebral cortex development" type="GO"/>
+    <pair e1="29031008.s0.e0" e2="29031008.s0.e1" id="29031008.s0.p0" relation="true"/>
+  </sentence>
+</document>

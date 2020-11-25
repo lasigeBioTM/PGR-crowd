@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="28920921">
+  <sentence id="28920921.s0" text="In MCDS mice expressing the Col10a1.pN617K mutation, CBZ reduced the MCDS-associated expansion of the growth plate hypertrophic zone, attenuated enhanced expression of ER stress markers such as cellular response to glucose starvation and response to endoplasmic reticulum stress, increased bone growth, and reduced skeletal dysplasia.">
+    <entity charOffset="194-233" id="28920921.s0.e0" ontology_id="GO_0042149" text="cellular response to glucose starvation" type="GO"/>
+    <entity charOffset="238-278" id="28920921.s0.e1" ontology_id="GO_0034976" text="response to endoplasmic reticulum stress" type="GO"/>
+    <entity charOffset="315-333" id="28920921.s0.e2" ontology_id="HP_0002652" text="skeletal dysplasia" type="HP"/>
+    <pair e1="28920921.s0.e0" e2="28920921.s0.e2" id="28920921.s0.p0" relation="false"/>
+    <pair e1="28920921.s0.e1" e2="28920921.s0.e2" id="28920921.s0.p1" relation="false"/>
+  </sentence>
+</document>

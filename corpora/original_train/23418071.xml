@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="23418071">
+  <sentence id="23418071.s0" text="The cause was identified in only 7 patients and included methylmalonic aciduria, meningoencephalitis, perinatal hypoxic-ischemic injury, large genomic deletion on chromosome 7q21, translocase of inner mitochondrial membrane 8 homolog A (nervous system development) mutation (Mohr-Tranebjaerg syndrome), and chromosome 2 open reading frame 37 (post-translational protein modification) mutation (Woodhouse-Sakati syndrome).">
+    <entity charOffset="57-79" id="23418071.s0.e0" ontology_id="HP_0012120" text="methylmalonic aciduria" type="HP"/>
+    <entity charOffset="237-263" id="23418071.s0.e1" ontology_id="GO_0007399" text="nervous system development" type="GO"/>
+    <entity charOffset="343-382" id="23418071.s0.e2" ontology_id="GO_0043687" text="post-translational protein modification" type="GO"/>
+    <pair e1="23418071.s0.e0" e2="23418071.s0.e1" id="23418071.s0.p0" relation="false"/>
+    <pair e1="23418071.s0.e0" e2="23418071.s0.e2" id="23418071.s0.p1" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="27129268">
+  <sentence id="27129268.s0" text="Recent studies have linked mutations in the sensory perception of smell (sensory perception of smell) and SLC24A5 (ion transport5) genes to amylogenesis imperfecta (AI) and non-syndromic oculocutaneous albinism (OCA6), respectively.">
+    <entity charOffset="44-71" id="27129268.s0.e0" ontology_id="GO_0007608" text="sensory perception of smell" type="GO"/>
+    <entity charOffset="73-100" id="27129268.s0.e1" ontology_id="GO_0007608" text="sensory perception of smell" type="GO"/>
+    <entity charOffset="115-128" id="27129268.s0.e2" ontology_id="GO_0006811" text="ion transport" type="GO"/>
+    <entity charOffset="202-210" id="27129268.s0.e3" ontology_id="HP_0001022" text="albinism" type="HP"/>
+    <pair e1="27129268.s0.e0" e2="27129268.s0.e3" id="27129268.s0.p0" relation="false"/>
+    <pair e1="27129268.s0.e1" e2="27129268.s0.e3" id="27129268.s0.p1" relation="false"/>
+    <pair e1="27129268.s0.e2" e2="27129268.s0.e3" id="27129268.s0.p2" relation="true"/>
+  </sentence>
+</document>

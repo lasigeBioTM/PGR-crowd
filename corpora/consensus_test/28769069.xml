@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="28769069">
+  <sentence id="28769069.s0" text="The remaining cases, clinically similar to XLA, are autosomal recessive agammaglobulinemia (response to drug).">
+    <entity charOffset="52-71" id="28769069.s0.e0" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="92-108" id="28769069.s0.e1" ontology_id="GO_0042493" text="response to drug" type="GO"/>
+  </sentence>
+</document>

@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="26376857">
+  <sentence id="26376857.s0" text="A heterozygous mutation (c.643C&amp;gt;A; p.Q215X) in the monocarboxylate transporter 12-encoding gene creatine transmembrane transport (also known as creatine transmembrane transport) that mediates creatine transport was recently identified as the cause of a syndrome with juvenile cataracts, microcornea, and glucosuria in a single family.">
+    <entity charOffset="99-131" id="26376857.s0.e0" ontology_id="GO_0015881" text="creatine transmembrane transport" type="GO"/>
+    <entity charOffset="147-179" id="26376857.s0.e1" ontology_id="GO_0015881" text="creatine transmembrane transport" type="GO"/>
+    <entity charOffset="279-288" id="26376857.s0.e2" ontology_id="HP_0000518" text="cataracts" type="HP"/>
+    <entity charOffset="290-301" id="26376857.s0.e3" ontology_id="HP_0000482" text="microcornea" type="HP"/>
+    <pair e1="26376857.s0.e0" e2="26376857.s0.e3" id="26376857.s0.p0" relation="true"/>
+    <pair e1="26376857.s0.e1" e2="26376857.s0.e2" id="26376857.s0.p1" relation="true"/>
+    <pair e1="26376857.s0.e1" e2="26376857.s0.e3" id="26376857.s0.p2" relation="true"/>
+  </sentence>
+</document>

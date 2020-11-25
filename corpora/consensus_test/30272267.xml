@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30272267">
+  <sentence id="30272267.s0" text="Familial adenomatous polyposis (proteolysis) is an autosomal dominant‑inherited colorectal cancer.">
+    <entity charOffset="32-43" id="30272267.s0.e0" ontology_id="GO_0006508" text="proteolysis" type="GO"/>
+    <entity charOffset="91-97" id="30272267.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30272267.s0.e0" e2="30272267.s0.e1" id="30272267.s0.p0" relation="false"/>
+  </sentence>
+</document>

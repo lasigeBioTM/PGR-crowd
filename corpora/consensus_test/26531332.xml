@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="26531332">
+  <sentence id="26531332.s0" text="In the case-control analysis, the rs9607195 A&amp;gt;G on intergenic area 250 kb away from the regulation of transcription by RNA polymerase II gene and the rs12738007 A&amp;gt;G on the intron of the MECR gene were the most strongly associated SNPs with the risk of schizophrenia (P = 6.2 × 10(-8) , OR = 0.50 and P = 3.7 × 10(-7) , OR = 2.39, respectively).">
+    <entity charOffset="91-139" id="26531332.s0.e0" ontology_id="GO_0006357" text="regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="258-271" id="26531332.s0.e1" ontology_id="HP_0100753" text="schizophrenia" type="HP"/>
+    <pair e1="26531332.s0.e0" e2="26531332.s0.e1" id="26531332.s0.p0" relation="true"/>
+  </sentence>
+</document>

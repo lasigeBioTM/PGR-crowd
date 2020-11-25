@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29074724">
+  <sentence id="29074724.s0" text="Our findings highlight the significance of recalibrating tumor cell metabolism by fine-tuning nucleotide and NAD synthesis in tumor growth.&lt;b&gt;Significance:&lt;/b&gt; Our findings elucidate an instrumental function of lipid biosynthetic process in direct regulation of nucleic acid and NAD synthesis in tumor cells in response to energy stress.">
+    <entity charOffset="57-62" id="29074724.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="211-237" id="29074724.s0.e1" ontology_id="GO_0008610" text="lipid biosynthetic process" type="GO"/>
+    <pair e1="29074724.s0.e0" e2="29074724.s0.e1" id="29074724.s0.p0" relation="false"/>
+  </sentence>
+</document>

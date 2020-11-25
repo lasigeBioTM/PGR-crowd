@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27329052">
+  <sentence id="27329052.s0" text="The downstream pathways of positive regulation of cysteine-type endopeptidase activity involved in apoptotic process-Foxh1 play a critical role not only in L-R determination in the lateral plate mesoderm but also in myocardial specification and differentiation in the AHF, suggesting that TGA is a phenotype in heterotaxia as well as the primary developmental defect of the AHF.">
+    <entity charOffset="27-116" id="27329052.s0.e0" ontology_id="GO_0043280" text="positive regulation of cysteine-type endopeptidase activity involved in apoptotic process" type="GO"/>
+    <entity charOffset="311-322" id="27329052.s0.e1" ontology_id="HP_0030853" text="heterotaxia" type="HP"/>
+    <pair e1="27329052.s0.e0" e2="27329052.s0.e1" id="27329052.s0.p0" relation="true"/>
+  </sentence>
+</document>

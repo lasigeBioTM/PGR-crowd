@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<document id="27618312">
+  <sentence id="27618312.s0" text="Further, mice heterozygous for either nuclear-transcribed mRNA catabolic process, nonsense-mediated decay or mRNA splicing, via spliceosome exhibit aberrant neurogenesis and microcephaly.">
+    <entity charOffset="38-105" id="27618312.s0.e0" ontology_id="GO_0000184" text="nuclear-transcribed mRNA catabolic process, nonsense-mediated decay" type="GO"/>
+    <entity charOffset="109-139" id="27618312.s0.e1" ontology_id="GO_0000398" text="mRNA splicing, via spliceosome" type="GO"/>
+    <entity charOffset="174-186" id="27618312.s0.e2" ontology_id="HP_0000252" text="microcephaly" type="HP"/>
+    <pair e1="27618312.s0.e0" e2="27618312.s0.e2" id="27618312.s0.p0" relation="false"/>
+    <pair e1="27618312.s0.e1" e2="27618312.s0.e2" id="27618312.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="27618312.s1" text="Using a new conditional allele, we first show that Eif4a3 haploinsufficiency phenocopies aberrant neurogenesis and microcephaly of Magoh and mRNA splicing, via spliceosome mutant epidermis development.">
+    <entity charOffset="115-127" id="27618312.s1.e0" ontology_id="HP_0000252" text="microcephaly" type="HP"/>
+    <entity charOffset="141-171" id="27618312.s1.e1" ontology_id="GO_0000398" text="mRNA splicing, via spliceosome" type="GO"/>
+    <entity charOffset="179-200" id="27618312.s1.e2" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <pair e1="27618312.s1.e0" e2="27618312.s1.e1" id="27618312.s1.p0" relation="true"/>
+  </sentence>
+</document>

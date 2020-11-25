@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29861105">
+  <sentence id="29861105.s0" text="Here, we report bi-allelic pathogenic regulation of sodium ion transport variants (three homozygous and two compound heterozygous) that cause a severe neurological syndrome that includes congenital hypotonia, intellectual disability, and motor axonal and auditory neuropathy.">
+    <entity charOffset="38-72" id="29861105.s0.e0" ontology_id="GO_0002028" text="regulation of sodium ion transport" type="GO"/>
+    <entity charOffset="209-232" id="29861105.s0.e1" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <pair e1="29861105.s0.e0" e2="29861105.s0.e1" id="29861105.s0.p0" relation="true"/>
+  </sentence>
+</document>

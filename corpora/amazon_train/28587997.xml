@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<document id="28587997">
+  <sentence id="28587997.s0" text="Patients with adult-onset angiogenesis may present with slowly progressive ataxia, persistent photosensitivity, and seizures without dementia or extrapyramidal findings.">
+    <entity charOffset="26-38" id="28587997.s0.e0" ontology_id="GO_0001525" text="angiogenesis" type="GO"/>
+    <entity charOffset="75-81" id="28587997.s0.e1" ontology_id="HP_0001251" text="ataxia" type="HP"/>
+    <entity charOffset="116-124" id="28587997.s0.e2" ontology_id="HP_0001250" text="seizures" type="HP"/>
+    <pair e1="28587997.s0.e0" e2="28587997.s0.e1" id="28587997.s0.p0" relation="true"/>
+  </sentence>
+</document>

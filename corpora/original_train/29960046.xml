@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<document id="29960046">
+  <sentence id="29960046.s0" text="We present a 22-year old male with hypotonia, developmental delay, seizure disorder, and dysmorphic facial features who enrolled in our rare disease research center at 18 years of age, where exome sequencing revealed a novel, likely pathogenic variant in the regulation of postsynaptic neurotransmitter receptor internalization gene.">
+    <entity charOffset="46-65" id="29960046.s0.e0" ontology_id="HP_0001263" text="developmental delay" type="HP"/>
+    <entity charOffset="67-74" id="29960046.s0.e1" ontology_id="HP_0001250" text="seizure" type="HP"/>
+    <entity charOffset="259-327" id="29960046.s0.e2" ontology_id="GO_0099149" text="regulation of postsynaptic neurotransmitter receptor internalization" type="GO"/>
+    <pair e1="29960046.s0.e0" e2="29960046.s0.e2" id="29960046.s0.p0" relation="true"/>
+    <pair e1="29960046.s0.e1" e2="29960046.s0.e2" id="29960046.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="29960046.s1" text="These comparisons found previously unreported commonalities between the newly identified patients, such as the presence of otitis media and the lack of genitourinary abnormalities (i.e. hypoplastic scrotum, microphallus, cryptorchidism), which had been noted to be classic features of patients with regulation of postsynaptic neurotransmitter receptor internalization variants.">
+    <entity charOffset="152-179" id="29960046.s1.e0" ontology_id="HP_0000119" text="genitourinary abnormalities" type="HP"/>
+    <entity charOffset="186-205" id="29960046.s1.e1" ontology_id="HP_0000046" text="hypoplastic scrotum" type="HP"/>
+    <entity charOffset="207-219" id="29960046.s1.e2" ontology_id="HP_0030260" text="microphallus" type="HP"/>
+    <entity charOffset="299-367" id="29960046.s1.e3" ontology_id="GO_0099149" text="regulation of postsynaptic neurotransmitter receptor internalization" type="GO"/>
+    <pair e1="29960046.s1.e0" e2="29960046.s1.e3" id="29960046.s1.p0" relation="true"/>
+    <pair e1="29960046.s1.e1" e2="29960046.s1.e3" id="29960046.s1.p1" relation="true"/>
+    <pair e1="29960046.s1.e2" e2="29960046.s1.e3" id="29960046.s1.p2" relation="true"/>
+  </sentence>
+</document>

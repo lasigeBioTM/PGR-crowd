@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="29336840">
+  <sentence id="29336840.s0" text="Biallelic loss-of-function mutations in TYROBP and positive regulation of antigen processing and presentation of peptide antigen via MHC class II cause a rare disease that resembles early-onset frontotemporal dementia with bone lesions called polycystic lipomembranous osteodysplasia with sclerosing leukoencephalopathy (PLOSL).">
+    <entity charOffset="51-145" id="29336840.s0.e0" ontology_id="GO_0002588" text="positive regulation of antigen processing and presentation of peptide antigen via MHC class II" type="GO"/>
+    <entity charOffset="194-217" id="29336840.s0.e1" ontology_id="HP_0002145" text="frontotemporal dementia" type="HP"/>
+    <entity charOffset="300-319" id="29336840.s0.e2" ontology_id="HP_0002352" text="leukoencephalopathy" type="HP"/>
+    <pair e1="29336840.s0.e0" e2="29336840.s0.e1" id="29336840.s0.p0" relation="true"/>
+    <pair e1="29336840.s0.e0" e2="29336840.s0.e2" id="29336840.s0.p1" relation="true"/>
+  </sentence>
+</document>

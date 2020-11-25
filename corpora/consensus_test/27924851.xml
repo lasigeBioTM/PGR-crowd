@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<document id="27924851">
+  <sentence id="27924851.s0" text="DLX3 mutations have been found to be responsible for Tricho-Dento-Osseous (tryptophan catabolic process to kynurenine) syndrome, charcoenzyme A biosynthetic processerized by kinky hair, thin-pitted enamel and increased bone density.">
+    <entity charOffset="75-117" id="27924851.s0.e0" ontology_id="GO_0019441" text="tryptophan catabolic process to kynurenine" type="GO"/>
+    <entity charOffset="133-164" id="27924851.s0.e1" ontology_id="GO_0015937" text="coenzyme A biosynthetic process" type="GO"/>
+    <entity charOffset="209-231" id="27924851.s0.e2" ontology_id="HP_0011001" text="increased bone density" type="HP"/>
+    <pair e1="27924851.s0.e0" e2="27924851.s0.e2" id="27924851.s0.p0" relation="false"/>
+  </sentence>
+</document>

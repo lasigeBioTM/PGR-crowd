@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27305985">
+  <sentence id="27305985.s0" text="Reported susceptibility SNPs for narcolepsy in the Japanese population, carnitine shuttle (carnitine palmitoyltransferase 1B), TRA@ (T-cell receptor alpha) and P2RY11 (purinergic receptor P2Y, G-protein coupled, 11), were found to explain 0.8% of narcolepsy onset (P&lt;sub&gt;whole genome without HLA-DQB1*06:02&lt;/sub&gt;=9.74 × 10&lt;sup&gt;-2&lt;/sup&gt;).">
+    <entity charOffset="33-43" id="27305985.s0.e0" ontology_id="HP_0030050" text="narcolepsy" type="HP"/>
+    <entity charOffset="72-89" id="27305985.s0.e1" ontology_id="GO_0006853" text="carnitine shuttle" type="GO"/>
+    <pair e1="27305985.s0.e0" e2="27305985.s0.e1" id="27305985.s0.p0" relation="true"/>
+  </sentence>
+</document>

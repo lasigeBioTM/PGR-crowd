@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="22561202">
+  <sentence id="22561202.s0" text="Possible candidate genes in 6q14 for intellectual disability might be FILIP1, DNA damage response, signal transduction by p53 class mediator, HTR1B, and SNX14">
+    <entity charOffset="37-60" id="22561202.s0.e0" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <entity charOffset="78-140" id="22561202.s0.e1" ontology_id="GO_0030330" text="DNA damage response, signal transduction by p53 class mediator" type="GO"/>
+    <pair e1="22561202.s0.e0" e2="22561202.s0.e1" id="22561202.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="22561202.s1" text="6q14 deletions have been associated with intellectual disability and a distinct pattern of minor anomalies, including upslanted palpebral fissures with epicanthal folds, a short nose with broad nasal biological_process, anteverted nares, long philtrum, and thin upper lip.">
+    <entity charOffset="118-146" id="22561202.s1.e0" ontology_id="HP_0000582" text="upslanted palpebral fissures" type="HP"/>
+    <entity charOffset="172-182" id="22561202.s1.e1" ontology_id="HP_0003196" text="short nose" type="HP"/>
+    <entity charOffset="200-218" id="22561202.s1.e2" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+  </sentence>
+</document>

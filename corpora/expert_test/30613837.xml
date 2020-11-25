@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30613837">
+  <sentence id="30613837.s0" text="The 2016 revised World Health Organization (WHO) classification of lymphoid neoplasms included the category of high-grade B cell lymphomas (HGBLs) with combined MYC and BCL2 and/or negative regulation of transcription by RNA polymerase II rearrangements (double-hit, DH).">
+    <entity charOffset="76-85" id="30613837.s0.e0" ontology_id="HP_0002664" text="neoplasms" type="HP"/>
+    <entity charOffset="181-238" id="30613837.s0.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="30613837.s0.e0" e2="30613837.s0.e1" id="30613837.s0.p0" relation="false"/>
+  </sentence>
+</document>

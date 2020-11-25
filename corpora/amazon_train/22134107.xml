@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="22134107">
+  <sentence id="22134107.s0" text="As a result, patients with histone succinylation suffer from severe bacterial infections and impaired wound healing, accompanied by neutrophilia.">
+    <entity charOffset="27-48" id="22134107.s0.e0" ontology_id="GO_0106077" text="histone succinylation" type="GO"/>
+    <entity charOffset="132-144" id="22134107.s0.e1" ontology_id="HP_0011897" text="neutrophilia" type="HP"/>
+    <pair e1="22134107.s0.e0" e2="22134107.s0.e1" id="22134107.s0.p0" relation="true"/>
+  </sentence>
+</document>

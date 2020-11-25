@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="26872363">
+  <sentence id="26872363.s0" text="The significance of the ubiquitin-proteasome system (heme biosynthetic process) for protein degradation has been highlighted in the context of neurodegenerative diseases, including retinal dystrophies.">
+    <entity charOffset="53-78" id="26872363.s0.e0" ontology_id="GO_0006783" text="heme biosynthetic process" type="GO"/>
+    <entity charOffset="143-169" id="26872363.s0.e1" ontology_id="HP_0002180" text="neurodegenerative diseases" type="HP"/>
+    <entity charOffset="181-200" id="26872363.s0.e2" ontology_id="HP_0000556" text="retinal dystrophies" type="HP"/>
+    <pair e1="26872363.s0.e0" e2="26872363.s0.e1" id="26872363.s0.p0" relation="false"/>
+    <pair e1="26872363.s0.e0" e2="26872363.s0.e2" id="26872363.s0.p1" relation="false"/>
+  </sentence>
+</document>

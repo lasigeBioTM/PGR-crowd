@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29319775">
+  <sentence id="29319775.s0" text="Primary hyperoxaluria (PH) is a very rare genetic disorder; it is characterized by total or partial deficiency of the enzymes related to the metabolism of glyoxylate, with an overproduction of calcium oxalate that is deposited in different organs, mainly the kidney, leading to recurrent lithiasis, nephrocalcinosis and positive regulation of protein phosphorylation stage renal disease (ESRD).">
+    <entity charOffset="8-21" id="29319775.s0.e0" ontology_id="HP_0003159" text="hyperoxaluria" type="HP"/>
+    <entity charOffset="299-315" id="29319775.s0.e1" ontology_id="HP_0000121" text="nephrocalcinosis" type="HP"/>
+    <entity charOffset="320-366" id="29319775.s0.e2" ontology_id="GO_0001934" text="positive regulation of protein phosphorylation" type="GO"/>
+  </sentence>
+</document>

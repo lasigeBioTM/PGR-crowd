@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="30220141">
+  <sentence id="30220141.s0" text="&lt;b&gt;Objective:&lt;/b&gt; To study the association between Thymidine Phosphorylase (pyrimidine nucleoside metabolic process) genetic variation and clinical outcomes and safety of postoperative colorectal cancer (CRC) patients.">
+    <entity charOffset="76-115" id="30220141.s0.e0" ontology_id="GO_0006213" text="pyrimidine nucleoside metabolic process" type="GO"/>
+    <entity charOffset="196-202" id="30220141.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30220141.s0.e0" e2="30220141.s0.e1" id="30220141.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="30220141.s1" text="Additionally, of the 87 postoperative tissue specimens, the results showed that the expression of pyrimidine nucleoside metabolic process in cancer tissues of the patients with CT or TT genomuscle organ developments were significantly higher than those of the wild type CC genotype patients (&lt;i&gt;P&lt;/i&gt;=0.019).">
+    <entity charOffset="98-137" id="30220141.s1.e0" ontology_id="GO_0006213" text="pyrimidine nucleoside metabolic process" type="GO"/>
+    <entity charOffset="141-147" id="30220141.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="190-214" id="30220141.s1.e2" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <pair e1="30220141.s1.e0" e2="30220141.s1.e1" id="30220141.s1.p0" relation="false"/>
+    <pair e1="30220141.s1.e1" e2="30220141.s1.e2" id="30220141.s1.p1" relation="false"/>
+  </sentence>
+</document>

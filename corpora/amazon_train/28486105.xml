@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<document id="28486105">
+  <sentence id="28486105.s0" text="An oncogenic role for ATP-dependent chromatin remodeling, a NuRD component, is defined for initiating and supporting tumor suppressor gene (negative regulation of cytokine production) silencing in human colorectal cancer.">
+    <entity charOffset="22-56" id="28486105.s0.e0" ontology_id="GO_0043044" text="ATP-dependent chromatin remodeling" type="GO"/>
+    <entity charOffset="117-122" id="28486105.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="140-182" id="28486105.s0.e2" ontology_id="GO_0001818" text="negative regulation of cytokine production" type="GO"/>
+    <entity charOffset="214-220" id="28486105.s0.e3" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28486105.s0.e0" e2="28486105.s0.e1" id="28486105.s0.p0" relation="true"/>
+    <pair e1="28486105.s0.e0" e2="28486105.s0.e3" id="28486105.s0.p1" relation="true"/>
+    <pair e1="28486105.s0.e1" e2="28486105.s0.e2" id="28486105.s0.p2" relation="true"/>
+  </sentence>
+  <sentence id="28486105.s1" text="ATP-dependent chromatin remodeling knockdown activates silenced TSGs, revealing their role for blunting colorectal cancer cell proliferation, invasion, and metastases.">
+    <entity charOffset="0-34" id="28486105.s1.e0" ontology_id="GO_0043044" text="ATP-dependent chromatin remodeling" type="GO"/>
+    <entity charOffset="115-121" id="28486105.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28486105.s1.e0" e2="28486105.s1.e1" id="28486105.s1.p0" relation="true"/>
+  </sentence>
+</document>

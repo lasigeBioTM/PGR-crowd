@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="27458054">
+  <sentence id="27458054.s0" text="With particular relevance for muscle physiology, mutations in protein polyubiquitination are associated with autosomal recessive Limb-Girdle Muscular Dystrophy 2H, a muscle-wasting disease with variable clinical spectrum ranging from almost asymptomatic to wheelchair-bound patients.">
+    <entity charOffset="62-88" id="27458054.s0.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="109-128" id="27458054.s0.e1" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <pair e1="27458054.s0.e0" e2="27458054.s0.e1" id="27458054.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="27458054.s1" text="In this review, we will focus on the ability of TRIM32 to protein phosphorylation specific substrates for proteasomal degradation discussing how the TRIM32-proteasome axis may (i) be important for muscle homeostasis and for the pathogenesis of muscular dystrophy; and (ii) define either an oncogenic or tumour suppressive role for TRIM32 in the context of different types of cancer">
+    <entity charOffset="58-81" id="27458054.s1.e0" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <entity charOffset="303-309" id="27458054.s1.e1" ontology_id="HP_0002664" text="tumour" type="HP"/>
+  </sentence>
+</document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="24898506">
+  <sentence id="24898506.s0" text="These include other keratin genes for monilethrix, the HR gene for atrichia congenita, the genes CDSN, negative regulation of Wnt signaling pathway and SNRPE for the autosomal dominant form of hypotrichosis simplex, and the genes DSG4, LIPH and G protein-coupled receptor signaling pathway for the autosomal recessive forms of hypotrichosis as well as U2HR for hypotrichosis type Marie Unna.">
+    <entity charOffset="103-147" id="24898506.s0.e0" ontology_id="GO_0030178" text="negative regulation of Wnt signaling pathway" type="GO"/>
+    <entity charOffset="245-289" id="24898506.s0.e1" ontology_id="GO_0007186" text="G protein-coupled receptor signaling pathway" type="GO"/>
+    <entity charOffset="298-317" id="24898506.s0.e2" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <pair e1="24898506.s0.e0" e2="24898506.s0.e2" id="24898506.s0.p0" relation="false"/>
+    <pair e1="24898506.s0.e1" e2="24898506.s0.e2" id="24898506.s0.p1" relation="true"/>
+  </sentence>
+</document>

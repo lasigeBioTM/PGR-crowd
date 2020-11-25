@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30013442">
+  <sentence id="30013442.s0" text="Cervical cancer patients with genotypes GA/AA in negative regulation of Wnt signaling pathway SNP rs12918952 were associated with parametrium invasion and pelvic lymph node metastasis.">
+    <entity charOffset="9-15" id="30013442.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="49-93" id="30013442.s0.e1" ontology_id="GO_0030178" text="negative regulation of Wnt signaling pathway" type="GO"/>
+    <pair e1="30013442.s0.e0" e2="30013442.s0.e1" id="30013442.s0.p0" relation="true"/>
+  </sentence>
+</document>

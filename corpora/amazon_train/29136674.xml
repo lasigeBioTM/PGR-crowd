@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<document id="29136674">
+  <sentence id="29136674.s0" text="Six syndromes of familial hyperparathyroidism are compared: 1) Familial hypocalciuric hypercalcemia (detection of calcium ion) expresses primary hyperparathyroidism (PHPT) beginning at birth with lifelong hypercalcemia.">
+    <entity charOffset="26-45" id="29136674.s0.e0" ontology_id="HP_0000843" text="hyperparathyroidism" type="HP"/>
+    <entity charOffset="86-99" id="29136674.s0.e1" ontology_id="HP_0003072" text="hypercalcemia" type="HP"/>
+    <entity charOffset="101-125" id="29136674.s0.e2" ontology_id="GO_0005513" text="detection of calcium ion" type="GO"/>
+    <pair e1="29136674.s0.e0" e2="29136674.s0.e2" id="29136674.s0.p0" relation="true"/>
+    <pair e1="29136674.s0.e1" e2="29136674.s0.e2" id="29136674.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="29136674.s1" text="It usually reflects biallelic inactivation of the &lt;i&gt;CASR.&lt;/i&gt; 3) Multiple endocrine neoplasia type 1 (negative regulation of transcription by RNA polymerase II) is most frequently expressed as PHPT with asymmetric enlargement of 3-4 parathyroids.">
+    <entity charOffset="85-94" id="29136674.s1.e0" ontology_id="HP_0002664" text="neoplasia" type="HP"/>
+    <entity charOffset="103-160" id="29136674.s1.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="29136674.s1.e0" e2="29136674.s1.e1" id="29136674.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="29136674.s2" text="4) Multiple endocrine neoplasia muscle organ development 2A from &lt;i&gt;RET&lt;/i&gt; activating mutation rarely presents as familial hyperparathyroidism, because medullary thyroid cancer and pheochromocytoma are more prominent.">
+    <entity charOffset="22-31" id="29136674.s2.e0" ontology_id="HP_0002664" text="neoplasia" type="HP"/>
+    <entity charOffset="32-56" id="29136674.s2.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="124-143" id="29136674.s2.e2" ontology_id="HP_0000843" text="hyperparathyroidism" type="HP"/>
+    <entity charOffset="171-177" id="29136674.s2.e3" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="182-198" id="29136674.s2.e4" ontology_id="HP_0002666" text="pheochromocytoma" type="HP"/>
+    <pair e1="29136674.s2.e1" e2="29136674.s2.e2" id="29136674.s2.p0" relation="true"/>
+  </sentence>
+  <sentence id="29136674.s3" text="Five of the PHPT syndromes reflect overgrowth of parathyroid tissue; in contrast, familial hypocalciuric hypercalcemia reflects dysregulation of negative regulation of transcription by RNA polymerase II secretion with little or no parathyroid overgrowth.">
+    <entity charOffset="105-118" id="29136674.s3.e0" ontology_id="HP_0003072" text="hypercalcemia" type="HP"/>
+    <entity charOffset="145-202" id="29136674.s3.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+  </sentence>
+</document>

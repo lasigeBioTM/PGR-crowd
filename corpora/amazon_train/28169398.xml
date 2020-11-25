@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<document id="28169398">
+  <sentence id="28169398.s0" text="The gonadoblastoma gene, testis-specific protein Y-encoded (sex differentiation), on the Y chromosome and its X-homologue, negative regulation of DNA replication, are cell cycle regulators and function as a proto-oncogene and a tumor suppressor respectively in human oncogenesis.">
+    <entity charOffset="4-18" id="28169398.s0.e0" ontology_id="HP_0000150" text="gonadoblastoma" type="HP"/>
+    <entity charOffset="60-79" id="28169398.s0.e1" ontology_id="GO_0007548" text="sex differentiation" type="GO"/>
+    <entity charOffset="123-161" id="28169398.s0.e2" ontology_id="GO_0008156" text="negative regulation of DNA replication" type="GO"/>
+    <entity charOffset="228-233" id="28169398.s0.e3" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28169398.s0.e0" e2="28169398.s0.e2" id="28169398.s0.p0" relation="true"/>
+    <pair e1="28169398.s0.e1" e2="28169398.s0.e3" id="28169398.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="28169398.s1" text="sex differentiation and negative regulation of DNA replication co-localize with the endogenous oxidation-reduction process, in the presence of ligand, on the promoters and differentially regulate the expression of the endogenous AR target genes in the androgen-responsive LNCaP prostate cancer cells.">
+    <entity charOffset="0-19" id="28169398.s1.e0" ontology_id="GO_0007548" text="sex differentiation" type="GO"/>
+    <entity charOffset="24-62" id="28169398.s1.e1" ontology_id="GO_0008156" text="negative regulation of DNA replication" type="GO"/>
+    <entity charOffset="95-122" id="28169398.s1.e2" ontology_id="GO_0055114" text="oxidation-reduction process" type="GO"/>
+    <entity charOffset="287-293" id="28169398.s1.e3" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28169398.s1.e0" e2="28169398.s1.e3" id="28169398.s1.p0" relation="true"/>
+    <pair e1="28169398.s1.e1" e2="28169398.s1.e3" id="28169398.s1.p1" relation="true"/>
+  </sentence>
+  <sentence id="28169398.s2" text="Hence, TSPY and TSPX exert opposing effects on the transactivation functions of oxidation-reduction process and AR-Vs important for various physiological and disease processes sensitive to male multicellular organism development hormone actions, thereby not only affecting the pathogenesis of male-specific prostate cancer but also likely contributing to sex differences in the health and diseases of man">
+    <entity charOffset="80-107" id="28169398.s2.e0" ontology_id="GO_0055114" text="oxidation-reduction process" type="GO"/>
+    <entity charOffset="194-228" id="28169398.s2.e1" ontology_id="GO_0007275" text="multicellular organism development" type="GO"/>
+    <entity charOffset="316-322" id="28169398.s2.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28169398.s2.e0" e2="28169398.s2.e2" id="28169398.s2.p0" relation="true"/>
+  </sentence>
+</document>

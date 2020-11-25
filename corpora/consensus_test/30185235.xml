@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30185235">
+  <sentence id="30185235.s0" text="Other novel mutations detected in unclassified epilepsy patients involve the SCN8A, CACNA1A, GABRB3, GABRA1, IQSEC2, regulation of translation, VRK2, ATP1A2, PCDH19, SLC9A6 and CHD2 genes.">
+    <entity charOffset="47-55" id="30185235.s0.e0" ontology_id="HP_0001250" text="epilepsy" type="HP"/>
+    <entity charOffset="117-142" id="30185235.s0.e1" ontology_id="GO_0006417" text="regulation of translation" type="GO"/>
+    <pair e1="30185235.s0.e0" e2="30185235.s0.e1" id="30185235.s0.p0" relation="true"/>
+  </sentence>
+</document>

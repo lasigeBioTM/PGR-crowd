@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28553959">
+  <sentence id="28553959.s0" text="MVA due to biallelic fibroblast growth factor receptor signaling pathway mutations, or of unknown cause, is not associated with embryonal tumors and cells from these individuals show minimal SAC deficiency.">
+    <entity charOffset="21-72" id="28553959.s0.e0" ontology_id="GO_0008543" text="fibroblast growth factor receptor signaling pathway" type="GO"/>
+    <entity charOffset="138-143" id="28553959.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28553959.s0.e0" e2="28553959.s0.e1" id="28553959.s0.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<document id="29309627">
+  <sentence id="29309627.s0" text="The insulin-secreting pancreatic neuroendocrine tumors, insulinomas, characterized by increased pancreatic islet β-cell proliferation, express the phosphorylated isoform of the β-cell differentiation factor regulation of transcription by RNA polymerase II that interacts with activation of innate immune response/p54NRB, a survival factor.">
+    <entity charOffset="48-54" id="29309627.s0.e0" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <entity charOffset="56-67" id="29309627.s0.e1" ontology_id="HP_0012197" text="insulinomas" type="HP"/>
+    <entity charOffset="207-255" id="29309627.s0.e2" ontology_id="GO_0006357" text="regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="276-312" id="29309627.s0.e3" ontology_id="GO_0002218" text="activation of innate immune response" type="GO"/>
+    <pair e1="29309627.s0.e0" e2="29309627.s0.e3" id="29309627.s0.p0" relation="false"/>
+    <pair e1="29309627.s0.e1" e2="29309627.s0.e3" id="29309627.s0.p1" relation="false"/>
+    <pair e1="29309627.s0.e1" e2="29309627.s0.e2" id="29309627.s0.p2" relation="true"/>
+  </sentence>
+  <sentence id="29309627.s1" text="Also, two somatic heterozygous activation of innate immune response mutations were found in endocrine-related tumors, p.H146R (parathyroid) and p.R293H (small intestine neuroendocrine tumor).">
+    <entity charOffset="31-67" id="29309627.s1.e0" ontology_id="GO_0002218" text="activation of innate immune response" type="GO"/>
+    <entity charOffset="184-189" id="29309627.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29309627.s1.e0" e2="29309627.s1.e1" id="29309627.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="29309627.s2" text="Overall, our results highlight the importance of regulation of transcription by RNA polymerase II in conditions of β-cell excess (insulinomas) and in conditions of β-cell loss or dysfunction (diabetes).">
+    <entity charOffset="49-97" id="29309627.s2.e0" ontology_id="GO_0006357" text="regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="130-141" id="29309627.s2.e1" ontology_id="HP_0012197" text="insulinomas" type="HP"/>
+    <pair e1="29309627.s2.e0" e2="29309627.s2.e1" id="29309627.s2.p0" relation="true"/>
+  </sentence>
+</document>

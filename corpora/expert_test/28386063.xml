@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28386063">
+  <sentence id="28386063.s0" text="In conclusion, truncating variants in TEX15 and response to gamma radiation are potential breast cancer risk factors, warranting further investigations in other populations.">
+    <entity charOffset="48-75" id="28386063.s0.e0" ontology_id="GO_0010332" text="response to gamma radiation" type="GO"/>
+    <entity charOffset="97-103" id="28386063.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28386063.s0.e0" e2="28386063.s0.e1" id="28386063.s0.p0" relation="true"/>
+  </sentence>
+</document>

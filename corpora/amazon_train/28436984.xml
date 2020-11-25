@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28436984">
+  <sentence id="28436984.s0" text="Mendelian randomization analyses suggest causal inverse associations, independent of body cell adhesion mediated by integrin index (BMI), between puberty timing and risks for breast and endometrial cancers in women and prostate cancer in men.">
+    <entity charOffset="90-124" id="28436984.s0.e0" ontology_id="GO_0033627" text="cell adhesion mediated by integrin" type="GO"/>
+    <entity charOffset="198-204" id="28436984.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28436984.s0.e0" e2="28436984.s0.e1" id="28436984.s0.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="29109381">
+  <sentence id="29109381.s0" text="This manuscript describes the case of a nine-year-old girl with microcephaly, mild facial dysmorphisms, epileptic seizures, and severe developmental delay, with a de novo heterozygous c.320A&amp;gt;G [p.(His 107 peptidyl-tyrosine phosphorylation)] mutation in &lt;i&gt;TUBA1A&lt;/i&gt; gene, and the clinical aspects and neuroimaging features of &amp;quot;lissencephaly syndrome&amp;quot; are summarized.">
+    <entity charOffset="64-76" id="29109381.s0.e0" ontology_id="HP_0000252" text="microcephaly" type="HP"/>
+    <entity charOffset="83-102" id="29109381.s0.e1" ontology_id="HP_0001999" text="facial dysmorphisms" type="HP"/>
+    <entity charOffset="114-122" id="29109381.s0.e2" ontology_id="HP_0001250" text="seizures" type="HP"/>
+    <entity charOffset="135-154" id="29109381.s0.e3" ontology_id="HP_0001263" text="developmental delay" type="HP"/>
+    <entity charOffset="208-241" id="29109381.s0.e4" ontology_id="GO_0018108" text="peptidyl-tyrosine phosphorylation" type="GO"/>
+    <pair e1="29109381.s0.e0" e2="29109381.s0.e4" id="29109381.s0.p0" relation="false"/>
+    <pair e1="29109381.s0.e1" e2="29109381.s0.e4" id="29109381.s0.p1" relation="false"/>
+    <pair e1="29109381.s0.e2" e2="29109381.s0.e4" id="29109381.s0.p2" relation="false"/>
+    <pair e1="29109381.s0.e3" e2="29109381.s0.e4" id="29109381.s0.p3" relation="false"/>
+  </sentence>
+</document>

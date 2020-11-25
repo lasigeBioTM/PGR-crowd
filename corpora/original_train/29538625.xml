@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<document id="29538625">
+  <sentence id="29538625.s0" text="De novo heterozygous mutations in protein localization to plasma membrane/Munc18-1 cause early infantile epileptic encephalopathies (EIEE4, OMIM #612164) characterized by infantile epilepsy, developmental delay, intellectual disability, and can include autistic features.">
+    <entity charOffset="34-73" id="29538625.s0.e0" ontology_id="GO_0072659" text="protein localization to plasma membrane" type="GO"/>
+    <entity charOffset="105-131" id="29538625.s0.e1" ontology_id="HP_0200134" text="epileptic encephalopathies" type="HP"/>
+    <entity charOffset="212-235" id="29538625.s0.e2" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <pair e1="29538625.s0.e0" e2="29538625.s0.e1" id="29538625.s0.p0" relation="true"/>
+    <pair e1="29538625.s0.e0" e2="29538625.s0.e2" id="29538625.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="29538625.s1" text="We characterized the cellular deficits for an allelic series of seven protein localization to plasma membrane mutations and developed four mouse models that recapitulate the abnormal EEG activity and cognitive aspects of human STXBP1-encephalopathy.">
+    <entity charOffset="70-109" id="29538625.s1.e0" ontology_id="GO_0072659" text="protein localization to plasma membrane" type="GO"/>
+    <entity charOffset="234-248" id="29538625.s1.e1" ontology_id="HP_0001298" text="encephalopathy" type="HP"/>
+    <pair e1="29538625.s1.e0" e2="29538625.s1.e1" id="29538625.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="29538625.s2" text="Together, these cellular studies suggest that impaired protein stability and protein localization to plasma membrane haploinsufficiency explain STXBP1-encephalopathy and that, therefore, protein localization to plasma membrane+/- epidermis development provide a valid mouse model.">
+    <entity charOffset="77-116" id="29538625.s2.e0" ontology_id="GO_0072659" text="protein localization to plasma membrane" type="GO"/>
+    <entity charOffset="151-165" id="29538625.s2.e1" ontology_id="HP_0001298" text="encephalopathy" type="HP"/>
+    <entity charOffset="187-226" id="29538625.s2.e2" ontology_id="GO_0072659" text="protein localization to plasma membrane" type="GO"/>
+    <entity charOffset="230-251" id="29538625.s2.e3" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <pair e1="29538625.s2.e0" e2="29538625.s2.e1" id="29538625.s2.p0" relation="true"/>
+    <pair e1="29538625.s2.e1" e2="29538625.s2.e2" id="29538625.s2.p1" relation="true"/>
+    <pair e1="29538625.s2.e1" e2="29538625.s2.e3" id="29538625.s2.p2" relation="false"/>
+  </sentence>
+  <sentence id="29538625.s3" text="Simultaneous video and EEG recordings revealed that protein localization to plasma membrane+/- epidermis development with different genomic backgrounds recapitulate the seizure/spasm phenotype observed in humans, characterized by myoclonic jerks and spike-wave discharges that were suppressed by the antiepileptic drug levetiracetam.">
+    <entity charOffset="52-91" id="29538625.s3.e0" ontology_id="GO_0072659" text="protein localization to plasma membrane" type="GO"/>
+    <entity charOffset="95-116" id="29538625.s3.e1" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="169-176" id="29538625.s3.e2" ontology_id="HP_0001250" text="seizure" type="HP"/>
+    <pair e1="29538625.s3.e0" e2="29538625.s3.e2" id="29538625.s3.p0" relation="true"/>
+    <pair e1="29538625.s3.e1" e2="29538625.s3.e2" id="29538625.s3.p1" relation="false"/>
+  </sentence>
+  <sentence id="29538625.s4" text="protein localization to plasma membrane+/- epidermis development showed impaired cognitive performance, hyperactivity and anxiety-like behaviour, without altered social behaviour.">
+    <entity charOffset="0-39" id="29538625.s4.e0" ontology_id="GO_0072659" text="protein localization to plasma membrane" type="GO"/>
+    <entity charOffset="43-64" id="29538625.s4.e1" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="104-117" id="29538625.s4.e2" ontology_id="HP_0000752" text="hyperactivity" type="HP"/>
+    <pair e1="29538625.s4.e0" e2="29538625.s4.e2" id="29538625.s4.p0" relation="true"/>
+    <pair e1="29538625.s4.e1" e2="29538625.s4.e2" id="29538625.s4.p1" relation="false"/>
+  </sentence>
+  <sentence id="29538625.s5" text="Taken together, these data demonstrate the construct, interstrand cross-link repair and predictive validity of protein localization to plasma membrane+/- epidermis development and point to protein instability, haploinsufficiency and imbalanced excitation in neocortex, as the underlying mechanism of protein localization to plasma membrane-encephalopathy.">
+    <entity charOffset="54-83" id="29538625.s5.e0" ontology_id="GO_0036297" text="interstrand cross-link repair" type="GO"/>
+    <entity charOffset="111-150" id="29538625.s5.e1" ontology_id="GO_0072659" text="protein localization to plasma membrane" type="GO"/>
+    <entity charOffset="154-175" id="29538625.s5.e2" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="300-339" id="29538625.s5.e3" ontology_id="GO_0072659" text="protein localization to plasma membrane" type="GO"/>
+    <entity charOffset="340-354" id="29538625.s5.e4" ontology_id="HP_0001298" text="encephalopathy" type="HP"/>
+    <pair e1="29538625.s5.e0" e2="29538625.s5.e4" id="29538625.s5.p0" relation="false"/>
+    <pair e1="29538625.s5.e1" e2="29538625.s5.e4" id="29538625.s5.p1" relation="true"/>
+    <pair e1="29538625.s5.e2" e2="29538625.s5.e4" id="29538625.s5.p2" relation="false"/>
+    <pair e1="29538625.s5.e3" e2="29538625.s5.e4" id="29538625.s5.p3" relation="true"/>
+  </sentence>
+</document>

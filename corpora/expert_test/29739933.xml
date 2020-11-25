@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29739933">
+  <sentence id="29739933.s0" text="Our results demonstrate that adenomyoepitheliomas are genetically heterogeneous, and qualify mutations in regulation of neurotransmitter receptor localization to postsynaptic specialization membrane, a gene whose mutations are vanishingly rare in common-type breast cancers, as likely drivers of ER-negative adenomyoepitheliomas">
+    <entity charOffset="66-79" id="29739933.s0.e0" ontology_id="HP_0001425" text="heterogeneous" type="HP"/>
+    <entity charOffset="106-198" id="29739933.s0.e1" ontology_id="GO_0098696" text="regulation of neurotransmitter receptor localization to postsynaptic specialization membrane" type="GO"/>
+    <pair e1="29739933.s0.e0" e2="29739933.s0.e1" id="29739933.s0.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29073155">
+  <sentence id="29073155.s0" text="Moreover, regulation of cysteine-type endopeptidase activity R/C+C/C genotype was associated with increased tumor invasion depth (p = 0.041).">
+    <entity charOffset="10-60" id="29073155.s0.e0" ontology_id="GO_2000116" text="regulation of cysteine-type endopeptidase activity" type="GO"/>
+    <entity charOffset="108-113" id="29073155.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29073155.s0.e0" e2="29073155.s0.e1" id="29073155.s0.p0" relation="false"/>
+  </sentence>
+</document>

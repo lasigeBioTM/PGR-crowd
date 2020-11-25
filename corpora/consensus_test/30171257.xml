@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="30171257">
+  <sentence id="30171257.s0" text="The abnormal regulation of protein polyubiquitination-483 may play an important role in tumorigenesis, and G protein-coupled receptor signaling pathway is known to regulate cell polarity, cell migration, and cell division.">
+    <entity charOffset="27-53" id="30171257.s0.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="88-93" id="30171257.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="107-151" id="30171257.s0.e2" ontology_id="GO_0007186" text="G protein-coupled receptor signaling pathway" type="GO"/>
+    <pair e1="30171257.s0.e0" e2="30171257.s0.e1" id="30171257.s0.p0" relation="false"/>
+    <pair e1="30171257.s0.e1" e2="30171257.s0.e2" id="30171257.s0.p1" relation="true"/>
+  </sentence>
+</document>

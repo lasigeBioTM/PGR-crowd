@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="29437892">
+  <sentence id="29437892.s0" text="Growth abnormalities, motor dysfunction, hindlimb paralysis, muscle wasting, neurogenic atrophy, motor neuron degeneration, and loss of large-caliber axons in peripheral nerves occurred at an earlier age in &lt;i&gt;Scyl1&lt;/i&gt;/S&lt;i&gt;cyl3&lt;/i&gt; double-deficient epidermis development than in &lt;i&gt;Scyl1&lt;/i&gt;-deficient mice.">
+    <entity charOffset="97-122" id="29437892.s0.e0" ontology_id="HP_0007373" text="motor neuron degeneration" type="HP"/>
+    <entity charOffset="250-271" id="29437892.s0.e1" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+  </sentence>
+</document>

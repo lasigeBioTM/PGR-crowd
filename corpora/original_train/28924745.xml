@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="28924745">
+  <sentence id="28924745.s0" text="Genetic studies have identified a homozygous truncation mutation in endosome to lysosome transport that causes hypertonia in mice.">
+    <entity charOffset="68-98" id="28924745.s0.e0" ontology_id="GO_0008333" text="endosome to lysosome transport" type="GO"/>
+    <entity charOffset="111-121" id="28924745.s0.e1" ontology_id="HP_0001276" text="hypertonia" type="HP"/>
+    <pair e1="28924745.s0.e0" e2="28924745.s0.e1" id="28924745.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28924745.s1" text="Moreover, elevated endosome to lysosome transport protein expression is associated with several types of cancers and variants in Trak1 are linked to childhood absence epilepsy in humans.">
+    <entity charOffset="19-49" id="28924745.s1.e0" ontology_id="GO_0008333" text="endosome to lysosome transport" type="GO"/>
+    <entity charOffset="167-175" id="28924745.s1.e1" ontology_id="HP_0001250" text="epilepsy" type="HP"/>
+    <pair e1="28924745.s1.e0" e2="28924745.s1.e1" id="28924745.s1.p0" relation="true"/>
+  </sentence>
+</document>

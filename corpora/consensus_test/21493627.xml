@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="21493627">
+  <sentence id="21493627.s0" text="Meckel syndrome (cilium assembly) is an embryonic lethal, autosomal recessive disorder characterized by polycystic kidney disease, central nervous system defects, polydactyly and liver fibrosis.">
+    <entity charOffset="17-32" id="21493627.s0.e0" ontology_id="GO_0060271" text="cilium assembly" type="GO"/>
+    <entity charOffset="163-174" id="21493627.s0.e1" ontology_id="HP_0010442" text="polydactyly" type="HP"/>
+  </sentence>
+  <sentence id="21493627.s1" text="The fetus inherited an additional likely pathogenic novel missense change to a second MKS gene, positive regulation of transcription, DNA-templated; p.R2210C, suggesting oligogenic inheritance in this disorder">
+    <entity charOffset="96-147" id="21493627.s1.e0" ontology_id="GO_0045893" text="positive regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="170-192" id="21493627.s1.e1" ontology_id="HP_0010983" text="oligogenic inheritance" type="HP"/>
+    <pair e1="21493627.s1.e0" e2="21493627.s1.e1" id="21493627.s1.p0" relation="true"/>
+  </sentence>
+</document>

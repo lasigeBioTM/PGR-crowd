@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<document id="27392078">
+  <sentence id="27392078.s0" text="Crisponi syndrome (CS)/cold-induced sweating syndrome muscle organ development 1 (positive regulation of cell proliferation) is a very rare autosomal-recessive disorder characterized by a complex phenotype with high neonatal lethality, associated with the following main clinical features: hyperthermia and feeding difficulties in the neonatal period, scoliosis, and paradoxical sweating induced by cold since early childhood.">
+    <entity charOffset="54-78" id="27392078.s0.e0" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="82-123" id="27392078.s0.e1" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <entity charOffset="290-302" id="27392078.s0.e2" ontology_id="HP_0001945" text="hyperthermia" type="HP"/>
+    <entity charOffset="307-327" id="27392078.s0.e3" ontology_id="HP_0011968" text="feeding difficulties" type="HP"/>
+    <entity charOffset="352-361" id="27392078.s0.e4" ontology_id="HP_0002650" text="scoliosis" type="HP"/>
+    <pair e1="27392078.s0.e0" e2="27392078.s0.e3" id="27392078.s0.p0" relation="false"/>
+    <pair e1="27392078.s0.e1" e2="27392078.s0.e2" id="27392078.s0.p1" relation="true"/>
+    <pair e1="27392078.s0.e1" e2="27392078.s0.e4" id="27392078.s0.p2" relation="true"/>
+  </sentence>
+  <sentence id="27392078.s1" text="Although these data further support the pathogenic role of protein ubiquitination mutations in a CS/CISS1-like phenomuscle organ development, they do not explain all their clinical manifestations and highlight the high phenotypic heterogeneity associated with mutations in KLHL7.">
+    <entity charOffset="59-81" id="27392078.s1.e0" ontology_id="GO_0016567" text="protein ubiquitination" type="GO"/>
+    <entity charOffset="116-140" id="27392078.s1.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="230-243" id="27392078.s1.e2" ontology_id="HP_0001425" text="heterogeneity" type="HP"/>
+    <pair e1="27392078.s1.e0" e2="27392078.s1.e2" id="27392078.s1.p0" relation="false"/>
+    <pair e1="27392078.s1.e1" e2="27392078.s1.e2" id="27392078.s1.p1" relation="false"/>
+  </sentence>
+</document>

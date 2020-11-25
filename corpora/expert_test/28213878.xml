@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28213878">
+  <sentence id="28213878.s0" text="In vivo experiments were performed in nude mice bearing transfected tumors; results revealed that NET-chemical synaptic transmission-coexpressing tumors had longer &lt;sup&gt;131&lt;/sup&gt;I-MIBG retention time than NET-expressing tumors.">
+    <entity charOffset="68-74" id="28213878.s0.e0" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <entity charOffset="102-132" id="28213878.s0.e1" ontology_id="GO_0007268" text="chemical synaptic transmission" type="GO"/>
+    <pair e1="28213878.s0.e0" e2="28213878.s0.e1" id="28213878.s0.p0" relation="false"/>
+  </sentence>
+</document>

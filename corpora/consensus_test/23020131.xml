@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<document id="23020131">
+  <sentence id="23020131.s0" text="Based on screening results, five unique genes (GNPAT, SUMO1, SPINT2, positive regulation of transcription, DNA-templated, and regulation of transcription, DNA-templated) significantly potentiated the growth inhibitory effects of CDDO-Me and induced apoptosis in A375, a BRAF mutated melanoma line (P &amp;lt; 0.001).">
+    <entity charOffset="69-120" id="23020131.s0.e0" ontology_id="GO_0045893" text="positive regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="126-168" id="23020131.s0.e1" ontology_id="GO_0006355" text="regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="283-291" id="23020131.s0.e2" ontology_id="HP_0002861" text="melanoma" type="HP"/>
+    <pair e1="23020131.s0.e0" e2="23020131.s0.e2" id="23020131.s0.p0" relation="false"/>
+    <pair e1="23020131.s0.e1" e2="23020131.s0.e2" id="23020131.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="23020131.s1" text="Our findings indicate that ether lipid biosynthetic process, SUMO1, SPINT2, positive regulation of transcription, DNA-templated, and SSX1 play critical roles in synergy with inflammation pathways in modulating melanoma cell survival and could serve as sensitizing targets to enhance CDDO-Me efficacy in melanoma growth control">
+    <entity charOffset="27-59" id="23020131.s1.e0" ontology_id="GO_0008611" text="ether lipid biosynthetic process" type="GO"/>
+    <entity charOffset="76-127" id="23020131.s1.e1" ontology_id="GO_0045893" text="positive regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="210-218" id="23020131.s1.e2" ontology_id="HP_0002861" text="melanoma" type="HP"/>
+    <pair e1="23020131.s1.e0" e2="23020131.s1.e2" id="23020131.s1.p0" relation="true"/>
+    <pair e1="23020131.s1.e1" e2="23020131.s1.e2" id="23020131.s1.p1" relation="true"/>
+  </sentence>
+</document>

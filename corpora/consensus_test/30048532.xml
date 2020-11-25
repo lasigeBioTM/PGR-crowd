@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="30048532">
+  <sentence id="30048532.s0" text="The main objective of this study is to provide a brief version of the Spanish translation of the PIP, across a sample consisting of 465 main familial caregivers (85.2% female, n = 396) between 27 and 67 years old ([Formula: see text] = 44.13; SD = 5.35) of paediatric patients between 9 and 18 years old ([Formula: see text] = 12.10, SD = 2.20; 56.8% negative regulation of phosphatase activity, n = 264) diagnosed with diabetes mellitus type I (20.9% of the sample; n = 97), short stature (32.5% of the sample; n = 151), or a chronic respiratory disease (asthma, cystic fibrosis, bronchiolitis obliterans and bronchiectasis) (46.6% of the sample; n = 217).">
+    <entity charOffset="351-394" id="30048532.s0.e0" ontology_id="GO_0010923" text="negative regulation of phosphatase activity" type="GO"/>
+    <entity charOffset="476-489" id="30048532.s0.e1" ontology_id="HP_0004322" text="short stature" type="HP"/>
+  </sentence>
+</document>

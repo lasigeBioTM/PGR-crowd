@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28661420">
+  <sentence id="28661420.s0" text="Moreover, Adenomatous polyposis coli 2 (APC2), a tumor suppressor and a negative regulator of Wnt signaling, was found to be the direct target of protein polyubiquitination-3648.">
+    <entity charOffset="49-54" id="28661420.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="146-172" id="28661420.s0.e1" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <pair e1="28661420.s0.e0" e2="28661420.s0.e1" id="28661420.s0.p0" relation="false"/>
+  </sentence>
+</document>

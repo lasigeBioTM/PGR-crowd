@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="27893709">
+  <sentence id="27893709.s0" text="Here, integrative genomic analysis identified protein acetylation as a potential oncogene target that is frequently amplified in breast cancer.">
+    <entity charOffset="46-65" id="27893709.s0.e0" ontology_id="GO_0006473" text="protein acetylation" type="GO"/>
+    <entity charOffset="136-142" id="27893709.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27893709.s0.e0" e2="27893709.s0.e1" id="27893709.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="27893709.s1" text="We found that protein acetylation was amplified in 11% and/or overexpressed in 15% of breast tumors, and overexpression of MYST3 correlated with worse clinical outcome in estrogen receptor+ (ER+) breast cancers.">
+    <entity charOffset="14-33" id="27893709.s1.e0" ontology_id="GO_0006473" text="protein acetylation" type="GO"/>
+    <entity charOffset="93-99" id="27893709.s1.e1" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <pair e1="27893709.s1.e0" e2="27893709.s1.e1" id="27893709.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="27893709.s2" text="Interestingly, protein acetylation depletion drastically inhibited proliferation in MYST3-high, ER+ breast cancer cells, but not in benign breast epithelial cells or in MYST3-low breast cancer cells.">
+    <entity charOffset="15-34" id="27893709.s2.e0" ontology_id="GO_0006473" text="protein acetylation" type="GO"/>
+    <entity charOffset="107-113" id="27893709.s2.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27893709.s2.e0" e2="27893709.s2.e1" id="27893709.s2.p0" relation="true"/>
+  </sentence>
+</document>

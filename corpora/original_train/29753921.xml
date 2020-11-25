@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<document id="29753921">
+  <sentence id="29753921.s0" text="De novo variants of histone H3-K36 dimethylation, which encodes a histone methyltransferase, have been reported in a few patients with intellectual disability and autistic features.">
+    <entity charOffset="20-48" id="29753921.s0.e0" ontology_id="GO_0097676" text="histone H3-K36 dimethylation" type="GO"/>
+    <entity charOffset="135-158" id="29753921.s0.e1" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <pair e1="29753921.s0.e0" e2="29753921.s0.e1" id="29753921.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29753921.s1" text="Here, we identified a novel de novo frame-shift variant, c.2422_2423delAAinsT which predicts p.(Lys808TyrfsTer40), in histone H3-K36 dimethylation in a patient with multiple congenital anomalies (MCA), fine motor developmental delay, learning difficulties, attention deficit hyperactivity disorder, sleep apnea, and scoliosis.">
+    <entity charOffset="118-146" id="29753921.s1.e0" ontology_id="GO_0097676" text="histone H3-K36 dimethylation" type="GO"/>
+    <entity charOffset="213-232" id="29753921.s1.e1" ontology_id="HP_0001263" text="developmental delay" type="HP"/>
+    <entity charOffset="299-310" id="29753921.s1.e2" ontology_id="HP_0010535" text="sleep apnea" type="HP"/>
+    <entity charOffset="316-325" id="29753921.s1.e3" ontology_id="HP_0002650" text="scoliosis" type="HP"/>
+    <pair e1="29753921.s1.e0" e2="29753921.s1.e1" id="29753921.s1.p0" relation="true"/>
+    <pair e1="29753921.s1.e0" e2="29753921.s1.e2" id="29753921.s1.p1" relation="false"/>
+    <pair e1="29753921.s1.e0" e2="29753921.s1.e3" id="29753921.s1.p2" relation="false"/>
+  </sentence>
+  <sentence id="29753921.s2" text="Our report provides further evidence to support loss-of-function alterations of histone H3-K36 dimethylation as causative for an emergent neurodevelopmental syndrome characterized by MCA, intellectual disability, and behavioral problems, and further delineates this genetic disorder">
+    <entity charOffset="80-108" id="29753921.s2.e0" ontology_id="GO_0097676" text="histone H3-K36 dimethylation" type="GO"/>
+    <entity charOffset="188-211" id="29753921.s2.e1" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <entity charOffset="217-236" id="29753921.s2.e2" ontology_id="HP_0000708" text="behavioral problems" type="HP"/>
+    <pair e1="29753921.s2.e0" e2="29753921.s2.e1" id="29753921.s2.p0" relation="true"/>
+    <pair e1="29753921.s2.e0" e2="29753921.s2.e2" id="29753921.s2.p1" relation="true"/>
+  </sentence>
+</document>

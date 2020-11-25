@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="25192513">
+  <sentence id="25192513.s0" text="Cerebellar involvement is an important feature of protein glycosylation-CDG, the congenital muscular dystrophies due to dystroglycanopathy, and polyprenol catabolic process-CDG.">
+    <entity charOffset="50-71" id="25192513.s0.e0" ontology_id="GO_0006486" text="protein glycosylation" type="GO"/>
+    <entity charOffset="92-112" id="25192513.s0.e1" ontology_id="HP_0003560" text="muscular dystrophies" type="HP"/>
+    <entity charOffset="144-172" id="25192513.s0.e2" ontology_id="GO_0016095" text="polyprenol catabolic process" type="GO"/>
+    <pair e1="25192513.s0.e0" e2="25192513.s0.e1" id="25192513.s0.p0" relation="true"/>
+    <pair e1="25192513.s0.e1" e2="25192513.s0.e2" id="25192513.s0.p1" relation="true"/>
+  </sentence>
+</document>

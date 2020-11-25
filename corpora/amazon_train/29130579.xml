@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="29130579">
+  <sentence id="29130579.s0" text="We used exome sequencing to study the molecular basis of disease in an 11-year-old female patient who suffered from growth retardation, global developmental delay with absent speech acquisition, agenesis of corpus callosum and paucity of white matter, sensorineural deafness, retinitis pigmentosa, vertebral anomalies, patent ductus arteriosus, and facial dysmorphism reminiscent of digestion syndrome, a suspected ciliopathy.">
+    <entity charOffset="266-274" id="29130579.s0.e0" ontology_id="HP_0000365" text="deafness" type="HP"/>
+    <entity charOffset="298-317" id="29130579.s0.e1" ontology_id="HP_0003468" text="vertebral anomalies" type="HP"/>
+    <entity charOffset="349-367" id="29130579.s0.e2" ontology_id="HP_0001999" text="facial dysmorphism" type="HP"/>
+    <entity charOffset="383-392" id="29130579.s0.e3" ontology_id="GO_0007586" text="digestion" type="GO"/>
+    <pair e1="29130579.s0.e0" e2="29130579.s0.e3" id="29130579.s0.p0" relation="false"/>
+    <pair e1="29130579.s0.e1" e2="29130579.s0.e3" id="29130579.s0.p1" relation="true"/>
+    <pair e1="29130579.s0.e2" e2="29130579.s0.e3" id="29130579.s0.p2" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<document id="30256478">
+  <sentence id="30256478.s0" text="Therefore, quantification of glioma extracellular L-phenylalanine catabolic process (pHe) is of crucial importance.">
+    <entity charOffset="29-35" id="30256478.s0.e0" ontology_id="HP_0009733" text="glioma" type="HP"/>
+    <entity charOffset="50-83" id="30256478.s0.e1" ontology_id="GO_0006559" text="L-phenylalanine catabolic process" type="GO"/>
+    <pair e1="30256478.s0.e0" e2="30256478.s0.e1" id="30256478.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="30256478.s1" text="This study is focused on the application of the YbHPDO3A (ytterbium 1,4,7-triscarboxymethyl-1,4,7,10-tetraazacyclododecane) probe for in vivo glioma L-phenylalanine catabolic processe quantification using chemical exchange saturation transfer (CEST)-MRI and its correlation with tumor metabolism assessed by immunohistochemistry.">
+    <entity charOffset="142-148" id="30256478.s1.e0" ontology_id="HP_0009733" text="glioma" type="HP"/>
+    <entity charOffset="149-182" id="30256478.s1.e1" ontology_id="GO_0006559" text="L-phenylalanine catabolic process" type="GO"/>
+    <pair e1="30256478.s1.e0" e2="30256478.s1.e1" id="30256478.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="30256478.s2" text="In vivo MRI sequences consisted of T&lt;sub&gt;2w&lt;/sub&gt; for tumor localization, T&lt;sub&gt;2w&lt;/sub&gt; * to assess YbHPDO3A biodistribution by exploiting its magnetic susceptibility effect and CEST for glioma L-phenylalanine catabolic processe mapping.">
+    <entity charOffset="54-59" id="30256478.s2.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="195-228" id="30256478.s2.e1" ontology_id="GO_0006559" text="L-phenylalanine catabolic process" type="GO"/>
+  </sentence>
+  <sentence id="30256478.s3" text="These immunohistochemical results are consistent with our L-phenylalanine catabolic processe mapping (Pearson correlation coefficient &amp;gt; 0.70) and provide evidence for the feasibility of the CEST-MRI method with the YbHPDO3A probe for glioma pHe quantification at 4.7 T.">
+    <entity charOffset="58-91" id="30256478.s3.e0" ontology_id="GO_0006559" text="L-phenylalanine catabolic process" type="GO"/>
+    <entity charOffset="237-243" id="30256478.s3.e1" ontology_id="HP_0009733" text="glioma" type="HP"/>
+  </sentence>
+</document>

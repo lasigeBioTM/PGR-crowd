@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="29725255">
+  <sentence id="29725255.s0" text="&lt;b&gt;Methods&lt;/b&gt;: Analysis of publicly available microarray data of oral negative regulation of peptidase activity revealed that bile acid metabolic process was significantly upregulated in tumor tissue compared with normal mucosa.">
+    <entity charOffset="71-112" id="29725255.s0.e0" ontology_id="GO_0010466" text="negative regulation of peptidase activity" type="GO"/>
+    <entity charOffset="127-154" id="29725255.s0.e1" ontology_id="GO_0008206" text="bile acid metabolic process" type="GO"/>
+    <entity charOffset="188-193" id="29725255.s0.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29725255.s0.e0" e2="29725255.s0.e2" id="29725255.s0.p0" relation="false"/>
+    <pair e1="29725255.s0.e1" e2="29725255.s0.e2" id="29725255.s0.p1" relation="false"/>
+  </sentence>
+</document>

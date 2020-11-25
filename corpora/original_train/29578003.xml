@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="29578003">
+  <sentence id="29578003.s0" text="In our study, the protein expression of Na&lt;sub&gt;V&lt;/sub&gt;1.3, Na&lt;sub&gt;V&lt;/sub&gt;1.6 and negative regulation of endothelial cell proliferation was significantly increased in the tumor compared to control tissue, while the level of p-CaMKII/CaMKII was significantly decreased in the tumor group as determined by Western Blotting and immunohistochemistry.">
+    <entity charOffset="81-134" id="29578003.s0.e0" ontology_id="GO_0001937" text="negative regulation of endothelial cell proliferation" type="GO"/>
+    <entity charOffset="170-175" id="29578003.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29578003.s0.e0" e2="29578003.s0.e1" id="29578003.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29578003.s1" text="Furthermore, double-labeling immunofluorescence results showed that Na&lt;sub&gt;V&lt;/sub&gt;1.3/Na&lt;sub&gt;V&lt;/sub&gt;1.6 and negative regulation of endothelial cell proliferation co-localization was significantly increased in the tumor group compared to control tissue.">
+    <entity charOffset="108-161" id="29578003.s1.e0" ontology_id="GO_0001937" text="negative regulation of endothelial cell proliferation" type="GO"/>
+    <entity charOffset="213-218" id="29578003.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29578003.s1.e0" e2="29578003.s1.e1" id="29578003.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="29578003.s2" text="This study represents the first evidence of the abnormal changes in VGSCs subtypes and negative regulation of endothelial cell proliferation/CaMKII pathway in human brain low-grade astrocytoma, providing new potential targets for molecular therapies of this disease">
+    <entity charOffset="87-140" id="29578003.s2.e0" ontology_id="GO_0001937" text="negative regulation of endothelial cell proliferation" type="GO"/>
+    <entity charOffset="181-192" id="29578003.s2.e1" ontology_id="HP_0009592" text="astrocytoma" type="HP"/>
+    <pair e1="29578003.s2.e0" e2="29578003.s2.e1" id="29578003.s2.p0" relation="false"/>
+  </sentence>
+</document>

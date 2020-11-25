@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29222009">
+  <sentence id="29222009.s0" text="Herein, we report 3 patients with heterozygous constitutional CDK13 mutations, who were ascertained through exome analysis of children with intellectual disability and positive regulation of glucose transmembrane transport anomalies, who lacked cardiac anomalies.">
+    <entity charOffset="140-163" id="29222009.s0.e0" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <entity charOffset="168-222" id="29222009.s0.e1" ontology_id="GO_0010828" text="positive regulation of glucose transmembrane transport" type="GO"/>
+    <entity charOffset="245-262" id="29222009.s0.e2" ontology_id="HP_0001627" text="cardiac anomalies" type="HP"/>
+  </sentence>
+</document>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="28132977">
+  <sentence id="28132977.s0" text="This case of adult-diagnosed phospholipid transport deficiency was characterized by slowly progressive peripheral neuropathy masquerading CMT in addition to muscular symptoms.">
+    <entity charOffset="29-51" id="28132977.s0.e0" ontology_id="GO_0015914" text="phospholipid transport" type="GO"/>
+    <entity charOffset="103-113" id="28132977.s0.e1" ontology_id="HP_0030646" text="peripheral" type="HP"/>
+    <pair e1="28132977.s0.e0" e2="28132977.s0.e1" id="28132977.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28132977.s1" text="phospholipid transport deficiency should be considered in patients with the combination of peripheral neuropathy and recurrent rhabdomyolysis">
+    <entity charOffset="0-22" id="28132977.s1.e0" ontology_id="GO_0015914" text="phospholipid transport" type="GO"/>
+    <entity charOffset="91-101" id="28132977.s1.e1" ontology_id="HP_0030646" text="peripheral" type="HP"/>
+    <pair e1="28132977.s1.e0" e2="28132977.s1.e1" id="28132977.s1.p0" relation="true"/>
+  </sentence>
+</document>

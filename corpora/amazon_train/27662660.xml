@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<document id="27662660">
+  <sentence id="27662660.s0" text="We evaluated the molecular heterogeneity of sCRC tumors based on simultaneous assessment of the overall regulation of TOR signaling of both coding mRNA and non-coding RNA genes in primary sCRC tumor samples from 23 consecutive patients and their paired liver metastases.">
+    <entity charOffset="27-40" id="27662660.s0.e0" ontology_id="HP_0001425" text="heterogeneity" type="HP"/>
+    <entity charOffset="49-55" id="27662660.s0.e1" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <entity charOffset="104-131" id="27662660.s0.e2" ontology_id="GO_0032006" text="regulation of TOR signaling" type="GO"/>
+    <entity charOffset="193-198" id="27662660.s0.e3" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="27662660.s0.e0" e2="27662660.s0.e2" id="27662660.s0.p0" relation="true"/>
+    <pair e1="27662660.s0.e2" e2="27662660.s0.e3" id="27662660.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="27662660.s1" text="RHOA, SMAD2, SMAD4, embryonic pattern specification, SMAD6, protein phosphorylation, negative regulation of transcription by RNA polymerase II and MYC-, which thereby emerge as candidate genes to play an important role in CRC tumor metastasis">
+    <entity charOffset="20-51" id="27662660.s1.e0" ontology_id="GO_0009880" text="embryonic pattern specification" type="GO"/>
+    <entity charOffset="60-83" id="27662660.s1.e1" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <entity charOffset="85-142" id="27662660.s1.e2" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="226-231" id="27662660.s1.e3" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="27662660.s1.e0" e2="27662660.s1.e3" id="27662660.s1.p0" relation="true"/>
+    <pair e1="27662660.s1.e1" e2="27662660.s1.e3" id="27662660.s1.p1" relation="false"/>
+    <pair e1="27662660.s1.e2" e2="27662660.s1.e3" id="27662660.s1.p2" relation="true"/>
+  </sentence>
+</document>

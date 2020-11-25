@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28687524">
+  <sentence id="28687524.s0" text="De novo missense and frameshift mutations and deletions involving negative regulation of transcription by RNA polymerase II have been described in patients with intellectual disability and autism, but without any of the dysmorphic findings or malformations associated with Pierpont syndrome, implying a mutation-specific mechanism for the pathogenicity of p.Tyr446Cys.">
+    <entity charOffset="66-123" id="28687524.s0.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="189-195" id="28687524.s0.e1" ontology_id="HP_0000717" text="autism" type="HP"/>
+    <pair e1="28687524.s0.e0" e2="28687524.s0.e1" id="28687524.s0.p0" relation="true"/>
+  </sentence>
+</document>

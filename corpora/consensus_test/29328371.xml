@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="29328371">
+  <sentence id="29328371.s0" text="Despite extensive research on cancer stem cells in colorectal cancer, the negative regulation of transcription by RNA polymerase II of stem cell markers on patient survival remains unclear, particularly in those with distant metastasis.">
+    <entity charOffset="30-36" id="29328371.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="74-131" id="29328371.s0.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+  </sentence>
+  <sentence id="29328371.s1" text="In this study, we focused on colon cancer with peritoneal metastasis and investigated the association between the expression of CD133, aldehyde dehydrogenase-1 (oxidation-reduction process) and leucine-rich repeating G-protein coupled receptor-5 (positive regulation of canonical Wnt signaling pathway), and disease prognosis.">
+    <entity charOffset="35-41" id="29328371.s1.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="161-188" id="29328371.s1.e1" ontology_id="GO_0055114" text="oxidation-reduction process" type="GO"/>
+    <entity charOffset="247-301" id="29328371.s1.e2" ontology_id="GO_0090263" text="positive regulation of canonical Wnt signaling pathway" type="GO"/>
+    <pair e1="29328371.s1.e0" e2="29328371.s1.e2" id="29328371.s1.p0" relation="true"/>
+    <pair e1="29328371.s1.e0" e2="29328371.s1.e1" id="29328371.s1.p1" relation="true"/>
+  </sentence>
+</document>

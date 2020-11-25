@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="27736906">
+  <sentence id="27736906.s0" text="A major susceptibility locus, HIVAN1, was previously mapped to chromosome 3A1-A3 in a cross between TgFVB and transcription initiation from RNA polymerase I promoter/EiJ (CAST) strains, and introgression of a 51.9 Mb segment encompassing HIVAN1 from CAST into TgFVB resulted in accelerated development of nephropathy.">
+    <entity charOffset="110-165" id="27736906.s0.e0" ontology_id="GO_0006361" text="transcription initiation from RNA polymerase I promoter" type="GO"/>
+    <entity charOffset="305-316" id="27736906.s0.e1" ontology_id="HP_0000112" text="nephropathy" type="HP"/>
+    <pair e1="27736906.s0.e0" e2="27736906.s0.e1" id="27736906.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="27736906.s1" text="Of these, craniofacial suture morphogenesis, cellular response to starvation, and Setd7 have been implicated in the pathogenesis of nephropathy.">
+    <entity charOffset="10-43" id="27736906.s1.e0" ontology_id="GO_0097094" text="craniofacial suture morphogenesis" type="GO"/>
+    <entity charOffset="45-76" id="27736906.s1.e1" ontology_id="GO_0009267" text="cellular response to starvation" type="GO"/>
+    <entity charOffset="132-143" id="27736906.s1.e2" ontology_id="HP_0000112" text="nephropathy" type="HP"/>
+    <pair e1="27736906.s1.e1" e2="27736906.s1.e2" id="27736906.s1.p0" relation="true"/>
+  </sentence>
+</document>

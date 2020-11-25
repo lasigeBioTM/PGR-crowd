@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="30226971">
+  <sentence id="30226971.s0" text="GRACILE Syndrome, is an autosomal recessive disease presenting with growth retardation, severe lactic acidosis, Fanconi muscle organ development tubulopathy, cholestasis, iron overload and early death without any dysmorphological or neurological features.">
+    <entity charOffset="24-43" id="30226971.s0.e0" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="120-144" id="30226971.s0.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+  </sentence>
+</document>

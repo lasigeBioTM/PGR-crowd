@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<document id="28430874">
+  <sentence id="28430874.s0" text="Consistently, eye development deficiency associates with neural tube defects and coloboma, a congenital eye disease.">
+    <entity charOffset="14-29" id="28430874.s0.e0" ontology_id="GO_0001654" text="eye development" type="GO"/>
+    <entity charOffset="57-76" id="28430874.s0.e1" ontology_id="HP_0045005" text="neural tube defects" type="HP"/>
+    <entity charOffset="81-89" id="28430874.s0.e2" ontology_id="HP_0000589" text="coloboma" type="HP"/>
+    <pair e1="28430874.s0.e0" e2="28430874.s0.e1" id="28430874.s0.p0" relation="false"/>
+    <pair e1="28430874.s0.e0" e2="28430874.s0.e2" id="28430874.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="28430874.s1" text="Relevant to cancer, clinical studies indicate that eye development is deregulated in various cancers and is a specific biomarker for Synovial Sarcoma.">
+    <entity charOffset="12-18" id="28430874.s1.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="51-66" id="28430874.s1.e1" ontology_id="GO_0001654" text="eye development" type="GO"/>
+    <pair e1="28430874.s1.e0" e2="28430874.s1.e1" id="28430874.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="28430874.s2" text="We specifically discuss the role of SALL2 in the regulation of cell proliferation and survival within the context of the identified target genes, its interaction with viral oncogenes, and its association with the TP53 tumor suppressor and negative regulation of transcription by RNA polymerase II oncogene.">
+    <entity charOffset="218-223" id="28430874.s2.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="239-296" id="28430874.s2.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="28430874.s2.e0" e2="28430874.s2.e1" id="28430874.s2.p0" relation="true"/>
+  </sentence>
+  <sentence id="28430874.s3" text="Special attention is given to p53-independent eye development regulation of pro-apoptotic genes BAX and proteasomal protein catabolic process, and the implication of these findings on the apoptotic response of cancer cells to therapy.">
+    <entity charOffset="46-61" id="28430874.s3.e0" ontology_id="GO_0001654" text="eye development" type="GO"/>
+    <entity charOffset="104-141" id="28430874.s3.e1" ontology_id="GO_0010498" text="proteasomal protein catabolic process" type="GO"/>
+    <entity charOffset="210-216" id="28430874.s3.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28430874.s3.e0" e2="28430874.s3.e2" id="28430874.s3.p0" relation="false"/>
+    <pair e1="28430874.s3.e1" e2="28430874.s3.e2" id="28430874.s3.p1" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29046478">
+  <sentence id="29046478.s0" text="Loss-of-function mutations of GNA11, which encodes G-protein subunit α11 (Gα11), a signaling partner for the calcium-sensing receptor (CaSR), result in familial hypocalciuric hypercalcemia muscle organ development 2 (FHH2).">
+    <entity charOffset="175-188" id="29046478.s0.e0" ontology_id="HP_0003072" text="hypercalcemia" type="HP"/>
+    <entity charOffset="189-213" id="29046478.s0.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <pair e1="29046478.s0.e0" e2="29046478.s0.e1" id="29046478.s0.p0" relation="false"/>
+  </sentence>
+</document>

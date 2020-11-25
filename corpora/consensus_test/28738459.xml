@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="28738459">
+  <sentence id="28738459.s0" text="&lt;b&gt;Methods:&lt;/b&gt; A total of 3 502 school-aged children who were included in Beijing Child and Adolescent Metabolic Syndrome (BCAMS) Study were selected, and based on the age and multicellular organism development specific waist circumference (WC) standards in the BCAMS study, 1 196 central obese cases and 2 306 controls were identified.">
+    <entity charOffset="177-211" id="28738459.s0.e0" ontology_id="GO_0007275" text="multicellular organism development" type="GO"/>
+    <entity charOffset="282-289" id="28738459.s0.e1" ontology_id="HP_0030645" text="central" type="HP"/>
+  </sentence>
+</document>

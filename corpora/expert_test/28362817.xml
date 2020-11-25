@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28362817">
+  <sentence id="28362817.s0" text="In trans-ethnic meta-analyses of U4C and UK Biobank data, we found significant associations between breast cancer risk and the expression of RCCD1 (joint p-value: 3.6x10-06) and DHODH (p-value: 7.1x10-06) in breast tissue, as well as a suggestive association for protein export from nucleus (p-value: 9.3x10-05).">
+    <entity charOffset="107-113" id="28362817.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="263-290" id="28362817.s0.e1" ontology_id="GO_0006611" text="protein export from nucleus" type="GO"/>
+    <pair e1="28362817.s0.e0" e2="28362817.s0.e1" id="28362817.s0.p0" relation="true"/>
+  </sentence>
+</document>

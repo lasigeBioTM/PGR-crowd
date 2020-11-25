@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28663096">
+  <sentence id="28663096.s0" text="Eight different androgen metabolic process mutations were detected in 15 patients with posterior hypospadias (60%, 15/25), including six previously described mutations (p.Q6X, Q71X, p.L20P, p.G203S, p.R227Q, and p.R246Q) and two novel mutations (p.G196R and p.L73Pfs&lt;sup&gt;∗&lt;/sup&gt;17).">
+    <entity charOffset="16-42" id="28663096.s0.e0" ontology_id="GO_0008209" text="androgen metabolic process" type="GO"/>
+    <entity charOffset="97-108" id="28663096.s0.e1" ontology_id="HP_0000047" text="hypospadias" type="HP"/>
+    <pair e1="28663096.s0.e0" e2="28663096.s0.e1" id="28663096.s0.p0" relation="true"/>
+  </sentence>
+</document>

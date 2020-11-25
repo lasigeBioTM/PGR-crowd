@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="29974186">
+  <sentence id="29974186.s0" text="Some RA patients are likely to increase visceral fat without obesity [Body cell adhesion mediated by integrin Index (BMI) ≥ 25].">
+    <entity charOffset="61-68" id="29974186.s0.e0" ontology_id="HP_0001513" text="obesity" type="HP"/>
+    <entity charOffset="75-109" id="29974186.s0.e1" ontology_id="GO_0033627" text="cell adhesion mediated by integrin" type="GO"/>
+  </sentence>
+</document>

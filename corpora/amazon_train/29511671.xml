@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29511671">
+  <sentence id="29511671.s0" text="Moreover, we found positive regulation of protein localization to plasma membrane expression correlated with several clinicopathological features, including tumor size, lymph node metastasis, and the TNM stage.">
+    <entity charOffset="19-81" id="29511671.s0.e0" ontology_id="GO_1903078" text="positive regulation of protein localization to plasma membrane" type="GO"/>
+    <entity charOffset="157-162" id="29511671.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29511671.s0.e0" e2="29511671.s0.e1" id="29511671.s0.p0" relation="true"/>
+  </sentence>
+</document>

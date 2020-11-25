@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="27449533">
+  <sentence id="27449533.s0" text="We report a girl with consanguineous parents presenting as collodion baby with contractures of the G protein-coupled receptor signaling pathway joints and palmoplantar hyperlinearity.">
+    <entity charOffset="79-91" id="27449533.s0.e0" ontology_id="HP_0001371" text="contractures" type="HP"/>
+    <entity charOffset="99-143" id="27449533.s0.e1" ontology_id="GO_0007186" text="G protein-coupled receptor signaling pathway" type="GO"/>
+  </sentence>
+</document>

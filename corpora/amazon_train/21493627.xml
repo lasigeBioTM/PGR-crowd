@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="21493627">
+  <sentence id="21493627.s0" text="However, mutation screening of these genes revealed two mutated alleles in only just over half of our cilium assembly cohort (46 families), suggesting an even greater level of genetic heterogeneity.">
+    <entity charOffset="102-117" id="21493627.s0.e0" ontology_id="GO_0060271" text="cilium assembly" type="GO"/>
+    <entity charOffset="184-197" id="21493627.s0.e1" ontology_id="HP_0001425" text="heterogeneity" type="HP"/>
+    <pair e1="21493627.s0.e0" e2="21493627.s0.e1" id="21493627.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="21493627.s1" text="The fetus inherited an additional likely pathogenic novel missense change to a second cilium assembly gene, CEP290; p.R2210C, suggesting oligogenic inheritance in this disorder">
+    <entity charOffset="86-101" id="21493627.s1.e0" ontology_id="GO_0060271" text="cilium assembly" type="GO"/>
+    <entity charOffset="137-159" id="21493627.s1.e1" ontology_id="HP_0010983" text="oligogenic inheritance" type="HP"/>
+    <pair e1="21493627.s1.e0" e2="21493627.s1.e1" id="21493627.s1.p0" relation="true"/>
+  </sentence>
+</document>

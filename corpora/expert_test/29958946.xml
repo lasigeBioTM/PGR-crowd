@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29958946">
+  <sentence id="29958946.s0" text="The schizophrenia-associated gene response to ethanol (glutamate ionotropic receptor NMDA type subunit 2a) codes for a protein subunit of the NMDA (N-methyl-D-aspartate) receptor that underlies central aspects of human cognition.">
+    <entity charOffset="4-17" id="29958946.s0.e0" ontology_id="HP_0100753" text="schizophrenia" type="HP"/>
+    <entity charOffset="34-53" id="29958946.s0.e1" ontology_id="GO_0045471" text="response to ethanol" type="GO"/>
+    <pair e1="29958946.s0.e0" e2="29958946.s0.e1" id="29958946.s0.p0" relation="true"/>
+  </sentence>
+</document>

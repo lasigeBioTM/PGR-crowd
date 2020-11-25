@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29864623">
+  <sentence id="29864623.s0" text="In addition, the expression of protein polyubiquitination-214 inhibited proliferation of ESCC cells in vitro and inhibit the growth of xenograft tumor in vivo.">
+    <entity charOffset="31-57" id="29864623.s0.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="145-150" id="29864623.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29864623.s0.e0" e2="29864623.s0.e1" id="29864623.s0.p0" relation="true"/>
+  </sentence>
+</document>

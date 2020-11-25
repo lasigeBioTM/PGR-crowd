@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29531337">
+  <sentence id="29531337.s0" text="Biallelic mutations in mitochondrial respiratory chain complex I assembly have been identified as responsible for cases of autosomal recessive Leigh syndrome associated with mitochondrial complex I deficiency.">
+    <entity charOffset="23-73" id="29531337.s0.e0" ontology_id="GO_0032981" text="mitochondrial respiratory chain complex I assembly" type="GO"/>
+    <entity charOffset="123-142" id="29531337.s0.e1" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <pair e1="29531337.s0.e0" e2="29531337.s0.e1" id="29531337.s0.p0" relation="true"/>
+  </sentence>
+</document>

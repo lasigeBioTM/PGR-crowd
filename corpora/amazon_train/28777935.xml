@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="28777935">
+  <sentence id="28777935.s0" text="We identified a highly significant enrichment of de novo variants in YWHAG, establishing their role in early-onnegative regulation of transcription, DNA-templated epilepsy, and we provide additional support for the prior assignment of SLC1A2.">
+    <entity charOffset="111-162" id="28777935.s0.e0" ontology_id="GO_0045892" text="negative regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="163-171" id="28777935.s0.e1" ontology_id="HP_0001250" text="epilepsy" type="HP"/>
+  </sentence>
+</document>

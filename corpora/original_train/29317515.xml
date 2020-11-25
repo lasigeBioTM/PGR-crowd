@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<document id="29317515">
+  <sentence id="29317515.s0" text="Clear cell renal cell carcinoma (ccresponse to hydroperoxide) is an heterogeneous tumour at architectural, cellular and molecular level, a reason why the 2014 International Society of Urological Pathology consensus recommended wide sampling of RCC masses to include at least 1 block/cm of tumour together with perpendicular sections of the tumour/perinephric positive regulation of cell-matrix adhesion interface and the tumour/renal sinus interface.">
+    <entity charOffset="35-60" id="29317515.s0.e0" ontology_id="GO_0033194" text="response to hydroperoxide" type="GO"/>
+    <entity charOffset="68-81" id="29317515.s0.e1" ontology_id="HP_0001425" text="heterogeneous" type="HP"/>
+    <entity charOffset="82-88" id="29317515.s0.e2" ontology_id="HP_0002664" text="tumour" type="HP"/>
+    <entity charOffset="359-402" id="29317515.s0.e3" ontology_id="GO_0001954" text="positive regulation of cell-matrix adhesion" type="GO"/>
+    <pair e1="29317515.s0.e0" e2="29317515.s0.e1" id="29317515.s0.p0" relation="false"/>
+    <pair e1="29317515.s0.e0" e2="29317515.s0.e2" id="29317515.s0.p1" relation="false"/>
+    <pair e1="29317515.s0.e1" e2="29317515.s0.e3" id="29317515.s0.p2" relation="false"/>
+  </sentence>
+  <sentence id="29317515.s1" text="We observed the presence of the mutation at pH1047R of &lt;i&gt;phosphorylation&lt;/i&gt; gene in five samples of the tumour, while the remaining 15 samples did not show any mutation at &lt;i&gt;PIK3CA&lt;/i&gt; or any other investigated gene.">
+    <entity charOffset="58-73" id="29317515.s1.e0" ontology_id="GO_0016310" text="phosphorylation" type="GO"/>
+    <entity charOffset="106-112" id="29317515.s1.e1" ontology_id="HP_0002664" text="tumour" type="HP"/>
+    <pair e1="29317515.s1.e0" e2="29317515.s1.e1" id="29317515.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="29317515.s2" text="There is a G protein-coupled receptor signaling pathway need to develop novel response to hydroperoxide sampling strategies to overcome tumour heterogeneity prior to define precision oncology strategies">
+    <entity charOffset="11-55" id="29317515.s2.e0" ontology_id="GO_0007186" text="G protein-coupled receptor signaling pathway" type="GO"/>
+    <entity charOffset="78-103" id="29317515.s2.e1" ontology_id="GO_0033194" text="response to hydroperoxide" type="GO"/>
+    <entity charOffset="136-142" id="29317515.s2.e2" ontology_id="HP_0002664" text="tumour" type="HP"/>
+    <entity charOffset="143-156" id="29317515.s2.e3" ontology_id="HP_0001425" text="heterogeneity" type="HP"/>
+    <pair e1="29317515.s2.e0" e2="29317515.s2.e3" id="29317515.s2.p0" relation="false"/>
+    <pair e1="29317515.s2.e1" e2="29317515.s2.e2" id="29317515.s2.p1" relation="false"/>
+    <pair e1="29317515.s2.e1" e2="29317515.s2.e3" id="29317515.s2.p2" relation="false"/>
+  </sentence>
+</document>

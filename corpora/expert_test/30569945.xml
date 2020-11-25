@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="30569945">
+  <sentence id="30569945.s0" text="OBJECTIVES We hypothesised that p16 G1/S transition of mitotic cell cycle methylation might have a role in cancer development driven by HPV16, mainly in the presence of intact E1/E2 genes.">
+    <entity charOffset="36-73" id="30569945.s0.e0" ontology_id="GO_0000082" text="G1/S transition of mitotic cell cycle" type="GO"/>
+    <entity charOffset="107-113" id="30569945.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30569945.s0.e0" e2="30569945.s0.e1" id="30569945.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="30569945.s1" text="BACKGROUND Epigenetic modifications in host cells, like p16 G1/S transition of mitotic cell cycle methylation, have been considered as putative complementary mechanisms for cancer development.">
+    <entity charOffset="60-97" id="30569945.s1.e0" ontology_id="GO_0000082" text="G1/S transition of mitotic cell cycle" type="GO"/>
+    <entity charOffset="173-179" id="30569945.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30569945.s1.e0" e2="30569945.s1.e1" id="30569945.s1.p0" relation="true"/>
+  </sentence>
+</document>

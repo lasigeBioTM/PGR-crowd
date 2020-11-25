@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28576939">
+  <sentence id="28576939.s0" text="Mutations and deletions of the interleukin-1 receptor accessory protein like 1 (regulation of postsynapse organization) gene, located on the X chromosome, are associated with intellectual disability (ID) and autism spectrum disorder (ASD).">
+    <entity charOffset="80-118" id="28576939.s0.e0" ontology_id="GO_0099175" text="regulation of postsynapse organization" type="GO"/>
+    <entity charOffset="208-214" id="28576939.s0.e1" ontology_id="HP_0000717" text="autism" type="HP"/>
+    <pair e1="28576939.s0.e0" e2="28576939.s0.e1" id="28576939.s0.p0" relation="true"/>
+  </sentence>
+</document>

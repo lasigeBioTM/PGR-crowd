@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="29043394">
+  <sentence id="29043394.s0" text="Through biological and in silico analyses, our study suggests an association between protein localization to nucleus/response to ionizing radiation mutations and cardiovascular malformations, SIX1/EYA1 mutations might be partially responsible for CTDs">
+    <entity charOffset="85-116" id="29043394.s0.e0" ontology_id="GO_0034504" text="protein localization to nucleus" type="GO"/>
+    <entity charOffset="117-147" id="29043394.s0.e1" ontology_id="GO_0010212" text="response to ionizing radiation" type="GO"/>
+    <entity charOffset="162-190" id="29043394.s0.e2" ontology_id="HP_0030680" text="cardiovascular malformations" type="HP"/>
+    <pair e1="29043394.s0.e0" e2="29043394.s0.e2" id="29043394.s0.p0" relation="false"/>
+    <pair e1="29043394.s0.e1" e2="29043394.s0.e2" id="29043394.s0.p1" relation="false"/>
+  </sentence>
+</document>

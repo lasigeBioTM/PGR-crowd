@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="30166519">
+  <sentence id="30166519.s0" text="Encapsulation of mirin in nanoparticles allowed its use on MYCN-amplified neuroblastoma xenografts in vivo, which resulted in a sharp impairment of tumor growth, associated with DDR activation, DNA strand renaturation accumulation, and cell death.">
+    <entity charOffset="74-87" id="30166519.s0.e0" ontology_id="HP_0003006" text="neuroblastoma" type="HP"/>
+    <entity charOffset="148-153" id="30166519.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="194-217" id="30166519.s0.e2" ontology_id="GO_0000733" text="DNA strand renaturation" type="GO"/>
+    <pair e1="30166519.s0.e0" e2="30166519.s0.e2" id="30166519.s0.p0" relation="false"/>
+    <pair e1="30166519.s0.e1" e2="30166519.s0.e2" id="30166519.s0.p1" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<document id="30641218">
+  <sentence id="30641218.s0" text="The present study aimed to explore regulation of small GTPase mediated signal transduction expression in cervical cancer and the possible function in tumor progression.">
+    <entity charOffset="35-90" id="30641218.s0.e0" ontology_id="GO_0051056" text="regulation of small GTPase mediated signal transduction" type="GO"/>
+    <entity charOffset="114-120" id="30641218.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30641218.s0.e0" e2="30641218.s0.e1" id="30641218.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="30641218.s1" text="regulation of small GTPase mediated signal transduction expression in cervical cancer cell lines was assessed by RT-PCR and Western blotting.">
+    <entity charOffset="0-55" id="30641218.s1.e0" ontology_id="GO_0051056" text="regulation of small GTPase mediated signal transduction" type="GO"/>
+    <entity charOffset="79-85" id="30641218.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30641218.s1.e0" e2="30641218.s1.e1" id="30641218.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="30641218.s2" text="regulation of small GTPase mediated signal transduction expression in cervical cancer tissues and normal tissues was assessed by immunohistochemistry.">
+    <entity charOffset="0-55" id="30641218.s2.e0" ontology_id="GO_0051056" text="regulation of small GTPase mediated signal transduction" type="GO"/>
+    <entity charOffset="79-85" id="30641218.s2.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30641218.s2.e0" e2="30641218.s2.e1" id="30641218.s2.p0" relation="false"/>
+  </sentence>
+  <sentence id="30641218.s3" text="Here, we showed lower expression of regulation of small GTPase mediated signal transduction in cell lines and human cervical cancer samples.">
+    <entity charOffset="36-91" id="30641218.s3.e0" ontology_id="GO_0051056" text="regulation of small GTPase mediated signal transduction" type="GO"/>
+    <entity charOffset="125-131" id="30641218.s3.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30641218.s3.e0" e2="30641218.s3.e1" id="30641218.s3.p0" relation="false"/>
+  </sentence>
+  <sentence id="30641218.s4" text="Furthermore, the phosphorylation of positive regulation of protein phosphorylation was enhanced in regulation of small GTPase mediated signal transduction silencing cervical cancer cells.">
+    <entity charOffset="36-82" id="30641218.s4.e0" ontology_id="GO_0001934" text="positive regulation of protein phosphorylation" type="GO"/>
+    <entity charOffset="99-154" id="30641218.s4.e1" ontology_id="GO_0051056" text="regulation of small GTPase mediated signal transduction" type="GO"/>
+    <entity charOffset="174-180" id="30641218.s4.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30641218.s4.e0" e2="30641218.s4.e2" id="30641218.s4.p0" relation="true"/>
+    <pair e1="30641218.s4.e1" e2="30641218.s4.e2" id="30641218.s4.p1" relation="false"/>
+  </sentence>
+  <sentence id="30641218.s5" text="These results reveal that regulation of small GTPase mediated signal transduction functions as a tumor suppressor in cervical cancer that suppresses tumor growth, at least partly, through inhibition of PI3K/positive regulation of protein phosphorylation signaling and up-regulation of P21 and P27 expression">
+    <entity charOffset="26-81" id="30641218.s5.e0" ontology_id="GO_0051056" text="regulation of small GTPase mediated signal transduction" type="GO"/>
+    <entity charOffset="97-102" id="30641218.s5.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="126-132" id="30641218.s5.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="207-253" id="30641218.s5.e3" ontology_id="GO_0001934" text="positive regulation of protein phosphorylation" type="GO"/>
+    <pair e1="30641218.s5.e0" e2="30641218.s5.e1" id="30641218.s5.p0" relation="false"/>
+    <pair e1="30641218.s5.e0" e2="30641218.s5.e2" id="30641218.s5.p1" relation="false"/>
+    <pair e1="30641218.s5.e1" e2="30641218.s5.e3" id="30641218.s5.p2" relation="true"/>
+  </sentence>
+</document>

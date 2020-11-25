@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27763569">
+  <sentence id="27763569.s0" text="The purpose of this study was to evaluate the association of the hepatic lipase (fatty acid biosynthetic process) rs493258 polymorphism and susceptibility to age-related macular degeneration (AMD).">
+    <entity charOffset="81-112" id="27763569.s0.e0" ontology_id="GO_0006633" text="fatty acid biosynthetic process" type="GO"/>
+    <entity charOffset="170-190" id="27763569.s0.e1" ontology_id="HP_0000608" text="macular degeneration" type="HP"/>
+    <pair e1="27763569.s0.e0" e2="27763569.s0.e1" id="27763569.s0.p0" relation="false"/>
+  </sentence>
+</document>

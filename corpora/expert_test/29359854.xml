@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29359854">
+  <sentence id="29359854.s0" text="Biotinidase (biotin metabolic process) deficiency is a rare autosomal recessive metabolic disease, which develops neurological and cutaneous symptoms because of the impaired biotin recycling.">
+    <entity charOffset="13-37" id="29359854.s0.e0" ontology_id="GO_0006768" text="biotin metabolic process" type="GO"/>
+    <entity charOffset="60-79" id="29359854.s0.e1" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <pair e1="29359854.s0.e0" e2="29359854.s0.e1" id="29359854.s0.p0" relation="true"/>
+  </sentence>
+</document>

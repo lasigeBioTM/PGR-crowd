@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<document id="28444220">
+  <sentence id="28444220.s0" text="While polyglutamine ataxias, linked to CAG repeat expansions in genes such as negative regulation of transcription, DNA-templated, ATXN2, ATXN3, ATXN7, CACNA1A and transcription by RNA polymerase II, have been extensively characterized in large cohorts, there is a need for comprehensive assessment of frequency and phenotype of more 'conventional' ataxias.">
+    <entity charOffset="20-27" id="28444220.s0.e0" ontology_id="HP_0001251" text="ataxias" type="HP"/>
+    <entity charOffset="78-129" id="28444220.s0.e1" ontology_id="GO_0045892" text="negative regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="164-198" id="28444220.s0.e2" ontology_id="GO_0006366" text="transcription by RNA polymerase II" type="GO"/>
+    <pair e1="28444220.s0.e0" e2="28444220.s0.e1" id="28444220.s0.p0" relation="true"/>
+    <pair e1="28444220.s0.e0" e2="28444220.s0.e2" id="28444220.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="28444220.s1" text="Clinical comparisons showed that ataxias due to channelopathies had a significantly earlier age at onset with an average of 24.6 years, versus 40.9 years for polyglutamine expansion spinocerebellar ataxias and 37.8 years for regulation of mitochondrial membrane permeability-related forms (P = 0.001).">
+    <entity charOffset="33-40" id="28444220.s1.e0" ontology_id="HP_0001251" text="ataxias" type="HP"/>
+    <entity charOffset="225-274" id="28444220.s1.e1" ontology_id="GO_0046902" text="regulation of mitochondrial membrane permeability" type="GO"/>
+    <pair e1="28444220.s1.e0" e2="28444220.s1.e1" id="28444220.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="28444220.s2" text="Similar differences were found among a single gene group, comparing 23 patients with positive regulation of cytosolic calcium ion concentration expansions (spinocerebellar ataxia 6) to 22 patients with CACNA1A point mutations, which had lower average age at onset (25.2 versus 47.3 years) with longer disease duration (18.7 versus 10.9), but lower severity indexes (0.39 versus 0.44), indicating slower progression of the disease.">
+    <entity charOffset="85-143" id="28444220.s2.e0" ontology_id="GO_0007204" text="positive regulation of cytosolic calcium ion concentration" type="GO"/>
+    <entity charOffset="172-178" id="28444220.s2.e1" ontology_id="HP_0001251" text="ataxia" type="HP"/>
+    <pair e1="28444220.s2.e0" e2="28444220.s2.e1" id="28444220.s2.p0" relation="true"/>
+  </sentence>
+  <sentence id="28444220.s3" text="In conclusion, we identified relevant genetic variations in up to 15% of cases after exclusion of polyglutamine expansion spinocerebellar ataxias, and confirmed positive regulation of cytosolic calcium ion concentration and regulation of mitochondrial membrane permeability as major ataxia genes.">
+    <entity charOffset="138-145" id="28444220.s3.e0" ontology_id="HP_0001251" text="ataxias" type="HP"/>
+    <entity charOffset="161-219" id="28444220.s3.e1" ontology_id="GO_0007204" text="positive regulation of cytosolic calcium ion concentration" type="GO"/>
+    <entity charOffset="224-273" id="28444220.s3.e2" ontology_id="GO_0046902" text="regulation of mitochondrial membrane permeability" type="GO"/>
+    <entity charOffset="283-289" id="28444220.s3.e3" ontology_id="HP_0001251" text="ataxia" type="HP"/>
+    <pair e1="28444220.s3.e0" e2="28444220.s3.e1" id="28444220.s3.p0" relation="true"/>
+    <pair e1="28444220.s3.e0" e2="28444220.s3.e2" id="28444220.s3.p1" relation="true"/>
+    <pair e1="28444220.s3.e1" e2="28444220.s3.e3" id="28444220.s3.p2" relation="true"/>
+  </sentence>
+</document>

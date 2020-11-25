@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="26099505">
+  <sentence id="26099505.s0" text="Also as pro-angiogenic inducer, the role of activation of innate immune response in different redox states has never been defined in tumour angiogenesis.">
+    <entity charOffset="44-80" id="26099505.s0.e0" ontology_id="GO_0002218" text="activation of innate immune response" type="GO"/>
+    <entity charOffset="133-139" id="26099505.s0.e1" ontology_id="HP_0002664" text="tumour" type="HP"/>
+    <pair e1="26099505.s0.e0" e2="26099505.s0.e1" id="26099505.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="26099505.s1" text="activation of innate immune response orchestrates the key events of tumour angiogenesis, migration of ECs and their induction to secrete negative regulation of transcription by RNA polymerase II, by adopting distinct redox states.">
+    <entity charOffset="0-36" id="26099505.s1.e0" ontology_id="GO_0002218" text="activation of innate immune response" type="GO"/>
+    <entity charOffset="68-74" id="26099505.s1.e1" ontology_id="HP_0002664" text="tumour" type="HP"/>
+    <entity charOffset="137-194" id="26099505.s1.e2" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="26099505.s1.e0" e2="26099505.s1.e1" id="26099505.s1.p0" relation="true"/>
+    <pair e1="26099505.s1.e1" e2="26099505.s1.e2" id="26099505.s1.p1" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28033303">
+  <sentence id="28033303.s0" text="One presently identified eQTL for the protein targeting to peroxisome gene was rs10948059, which had been associated with prostate cancer from previous association studies.">
+    <entity charOffset="38-69" id="28033303.s0.e0" ontology_id="GO_0006625" text="protein targeting to peroxisome" type="GO"/>
+    <entity charOffset="131-137" id="28033303.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28033303.s0.e0" e2="28033303.s0.e1" id="28033303.s0.p0" relation="false"/>
+  </sentence>
+</document>

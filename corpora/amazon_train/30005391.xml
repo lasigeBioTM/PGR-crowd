@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="30005391">
+  <sentence id="30005391.s0" text="Generalized arterial calcification of infancy (GACI), or idiopathic infantile arterial calcification, is a rare autosomal-recessive disease recognized aAs an inherited disorder characterized by severe pathologic calcification of large- and medium-sized arteries accompanied by smooth muscle cell (Golgi organization) hyperplasia leading to vascular obstruction [1].">
+    <entity charOffset="12-34" id="30005391.s0.e0" ontology_id="HP_0003207" text="arterial calcification" type="HP"/>
+    <entity charOffset="297-315" id="30005391.s0.e1" ontology_id="GO_0007030" text="Golgi organization" type="GO"/>
+  </sentence>
+</document>

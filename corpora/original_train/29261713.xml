@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29261713">
+  <sentence id="29261713.s0" text="Although the pathophysiological mechanisms that underlie this entity remain unknown, the nucleosome disassembly that epilepsy can affect cardiac function is not surprising.">
+    <entity charOffset="89-111" id="29261713.s0.e0" ontology_id="GO_0006337" text="nucleosome disassembly" type="GO"/>
+    <entity charOffset="117-125" id="29261713.s0.e1" ontology_id="HP_0001250" text="epilepsy" type="HP"/>
+    <pair e1="29261713.s0.e0" e2="29261713.s0.e1" id="29261713.s0.p0" relation="false"/>
+  </sentence>
+</document>

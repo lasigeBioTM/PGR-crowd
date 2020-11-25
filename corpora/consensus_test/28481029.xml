@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="28481029">
+  <sentence id="28481029.s0" text="Concurrently, global transcriptional profiling analysis reveals that multiple tumor-associated genes such as CCND3, E2F1/2, sensory perception of sound, Bcl2 modifying factor (BMF), endothelial cell morphogenesis, and Myc; and signaling pathways of cellular dedifferentiation, proliferation, adhesion, survival including p53, cadherin, Myc, and anti-apoptotic pathways are differentially expressed or significantly altered in these lung epithelial cells upon downregulation of H2Bub1.">
+    <entity charOffset="78-83" id="28481029.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="124-151" id="28481029.s0.e1" ontology_id="GO_0007605" text="sensory perception of sound" type="GO"/>
+    <entity charOffset="182-212" id="28481029.s0.e2" ontology_id="GO_0001886" text="endothelial cell morphogenesis" type="GO"/>
+    <pair e1="28481029.s0.e0" e2="28481029.s0.e1" id="28481029.s0.p0" relation="true"/>
+    <pair e1="28481029.s0.e0" e2="28481029.s0.e2" id="28481029.s0.p1" relation="false"/>
+  </sentence>
+</document>

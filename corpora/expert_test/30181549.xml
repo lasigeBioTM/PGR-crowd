@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30181549">
+  <sentence id="30181549.s0" text="Further experiments demonstrated that the MYEOV ceRNA sequestered protein polyubiquitination-30c-2-3p from binding its targets TGFBR2 and USP15 mRNAs, which in turn leading to constitutive activation of TGF-β signaling and tumor progression in NSCLC.">
+    <entity charOffset="66-92" id="30181549.s0.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="223-228" id="30181549.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="30181549.s0.e0" e2="30181549.s0.e1" id="30181549.s0.p0" relation="true"/>
+  </sentence>
+</document>

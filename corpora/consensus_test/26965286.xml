@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="26965286">
+  <sentence id="26965286.s0" text="In the independent datanegative regulation of transcription, DNA-templated, 81.2 % of the positive tested tumours had known metastatic disease to the bone (p 4.28e-10).">
+    <entity charOffset="23-74" id="26965286.s0.e0" ontology_id="GO_0045892" text="negative regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="106-113" id="26965286.s0.e1" ontology_id="HP_0002664" text="tumours" type="HP"/>
+  </sentence>
+</document>

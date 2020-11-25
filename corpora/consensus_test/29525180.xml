@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29525180">
+  <sentence id="29525180.s0" text="In this study, we conducted targeted sequencing in 246 clinically heterogeneous patients, mainly with early-onset and/or familial neurodegenerative dementia, using a custom-designed next-generation sequencing panel covering 27 genes known to harbor mutations that can cause different types of dementia, in addition to the detection of negative regulation of protein phosphorylation repeat expansions.">
+    <entity charOffset="66-79" id="29525180.s0.e0" ontology_id="HP_0001425" text="heterogeneous" type="HP"/>
+    <entity charOffset="335-381" id="29525180.s0.e1" ontology_id="GO_0001933" text="negative regulation of protein phosphorylation" type="GO"/>
+    <pair e1="29525180.s0.e0" e2="29525180.s0.e1" id="29525180.s0.p0" relation="true"/>
+  </sentence>
+</document>

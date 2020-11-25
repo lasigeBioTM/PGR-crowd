@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="30365130">
+  <sentence id="30365130.s0" text="Following examination of the association of the identified SNPs to serum concentrations of triglycerides, HDL‑cholesterol, or LDL‑cholesterol, linkage disequilibrium of the SNPs, and results of previous genome‑wide association studies, we newly identified chromosomal region 19p12 as a susceptibility locus for hypertriglyceridemia, eight loci (MOB3C‑TMOD4, LPGAT1, endocytic recycling, muscle organ development, ZNF860‑CACNA1D, cell adhesion, double-strand break repair via nonhomologous end joining, biological_process) for hypo‑HDL‑cholesterolemia, and three loci (KIAA0319‑FAM65B, ubiquitin-dependent protein catabolic process, LOC105375015) for hyper‑LDL‑cholesterolemia.">
+    <entity charOffset="311-331" id="30365130.s0.e0" ontology_id="HP_0002155" text="hypertriglyceridemia" type="HP"/>
+    <entity charOffset="366-385" id="30365130.s0.e1" ontology_id="GO_0032456" text="endocytic recycling" type="GO"/>
+    <entity charOffset="387-411" id="30365130.s0.e2" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="429-442" id="30365130.s0.e3" ontology_id="GO_0007155" text="cell adhesion" type="GO"/>
+    <entity charOffset="444-500" id="30365130.s0.e4" ontology_id="GO_0006303" text="double-strand break repair via nonhomologous end joining" type="GO"/>
+    <entity charOffset="502-520" id="30365130.s0.e5" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="585-630" id="30365130.s0.e6" ontology_id="GO_0006511" text="ubiquitin-dependent protein catabolic process" type="GO"/>
+    <pair e1="30365130.s0.e0" e2="30365130.s0.e1" id="30365130.s0.p0" relation="false"/>
+    <pair e1="30365130.s0.e0" e2="30365130.s0.e2" id="30365130.s0.p1" relation="false"/>
+    <pair e1="30365130.s0.e0" e2="30365130.s0.e3" id="30365130.s0.p2" relation="false"/>
+    <pair e1="30365130.s0.e0" e2="30365130.s0.e4" id="30365130.s0.p3" relation="false"/>
+    <pair e1="30365130.s0.e0" e2="30365130.s0.e5" id="30365130.s0.p4" relation="false"/>
+    <pair e1="30365130.s0.e0" e2="30365130.s0.e6" id="30365130.s0.p5" relation="false"/>
+  </sentence>
+</document>

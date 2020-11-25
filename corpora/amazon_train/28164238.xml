@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="28164238">
+  <sentence id="28164238.s0" text="Whereas transcription by RNA polymerase II heterozygote epidermis development have no detectable cardiac defects, loss of a Klf13 allele in cell-cell signaling heterozygote mice significantly increases the penetrance of cell-cell signaling-dependent cardiac abnormalities including atrial, atrial-ventricular and ventricular septal defects.">
+    <entity charOffset="8-42" id="28164238.s0.e0" ontology_id="GO_0006366" text="transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="56-77" id="28164238.s0.e1" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="140-159" id="28164238.s0.e2" ontology_id="GO_0007267" text="cell-cell signaling" type="GO"/>
+    <entity charOffset="220-239" id="28164238.s0.e3" ontology_id="GO_0007267" text="cell-cell signaling" type="GO"/>
+    <entity charOffset="250-271" id="28164238.s0.e4" ontology_id="HP_0001627" text="cardiac abnormalities" type="HP"/>
+    <pair e1="28164238.s0.e0" e2="28164238.s0.e4" id="28164238.s0.p0" relation="true"/>
+    <pair e1="28164238.s0.e2" e2="28164238.s0.e4" id="28164238.s0.p1" relation="true"/>
+    <pair e1="28164238.s0.e3" e2="28164238.s0.e4" id="28164238.s0.p2" relation="true"/>
+  </sentence>
+</document>

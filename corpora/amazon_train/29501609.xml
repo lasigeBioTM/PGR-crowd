@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29501609">
+  <sentence id="29501609.s0" text="Mutations and post-translational modifications of negative regulation of ATPase activity may lead to dilated cardiomyopathy (DCM) and heart failure.">
+    <entity charOffset="50-88" id="29501609.s0.e0" ontology_id="GO_0032780" text="negative regulation of ATPase activity" type="GO"/>
+    <entity charOffset="134-147" id="29501609.s0.e1" ontology_id="HP_0001635" text="heart failure" type="HP"/>
+    <pair e1="29501609.s0.e0" e2="29501609.s0.e1" id="29501609.s0.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="30469315">
+  <sentence id="30469315.s0" text="However, there is limited knowledge on the selenoprotein expression in colorectal adenoma (RNA splicing) and colorectal cancer (CRC) patients, or the interaction with Se status levels.">
+    <entity charOffset="91-103" id="30469315.s0.e0" ontology_id="GO_0008380" text="RNA splicing" type="GO"/>
+    <entity charOffset="120-126" id="30469315.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+  </sentence>
+  <sentence id="30469315.s1" text="While there were no significant correlations with both Se status markers, &lt;i&gt;SELENOF&lt;/i&gt;, &lt;i&gt;SELENOK&lt;/i&gt;, and &lt;i&gt;TXNRD1&lt;/i&gt; tumor tissue expression positively correlated with Se, while &lt;i&gt;TXNRD2&lt;/i&gt; and &lt;i&gt;TXNRD3&lt;/i&gt; negatively correlated with &lt;i&gt;platelet degranulation&lt;/i&gt;.">
+    <entity charOffset="124-129" id="30469315.s1.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="247-269" id="30469315.s1.e1" ontology_id="GO_0002576" text="platelet degranulation" type="GO"/>
+    <pair e1="30469315.s1.e0" e2="30469315.s1.e1" id="30469315.s1.p0" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="28179442">
+  <sentence id="28179442.s0" text="Our objective was to determine molecular phenotypes of asthma by analysing sputum cell transcriptomics from 104 moderate-to-severe asthmatic subjects and 16 nonasthmatic subjects.After filtering on the differentially expressed genes between eosinophil- and noneosinophil-associated sputum inflammation, we used unbiased hierarchical clustering on 508 differentially expressed genes and gene negative regulation of transcription, DNA-templated variation analysis of specific gene sets.We defined three transcriptome-associated clusters (TACs): TAC1 (characterised by immune receptors &lt;i&gt;IL33R&lt;/i&gt;, &lt;i&gt;CCR3&lt;/i&gt; and &lt;i&gt;TSLPR&lt;/i&gt;), TAC2 (characterised by interferon-, tumour necrosis factor-α- and inflammasome-associated genes) and TAC3 (characterised by genes of metabolic pathways, ubiquitination and mitochondrial function).">
+    <entity charOffset="391-442" id="28179442.s0.e0" ontology_id="GO_0045892" text="negative regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="664-670" id="28179442.s0.e1" ontology_id="HP_0002664" text="tumour" type="HP"/>
+  </sentence>
+  <sentence id="28179442.s1" text="positive regulation of cytosolic calcium ion concentration showed the highest enrichment of gene signatures for interleukin-13/T-helper cell type 2 (Th2) and innate lymphoid cell type 2. TAC1 had the highest sputum eosinophilia and exhaled nitric oxide fraction, and was restricted to severe asthma with oral corticosteroid dependency, frequent exacerbations and severe airflow obstruction.">
+    <entity charOffset="0-58" id="28179442.s1.e0" ontology_id="GO_0007204" text="positive regulation of cytosolic calcium ion concentration" type="GO"/>
+    <entity charOffset="215-227" id="28179442.s1.e1" ontology_id="HP_0001880" text="eosinophilia" type="HP"/>
+    <pair e1="28179442.s1.e0" e2="28179442.s1.e1" id="28179442.s1.p0" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="26811476">
+  <sentence id="26811476.s0" text="This arrangement is required for filament formation and is directed by an ordered ZP-N/ZP-C linker that is not observed in ZP2 but is conserved in the sequence of deafness/Crohn's disease-associated homopolymeric glycoproteins α-tectorin (cell-matrix adhesion) and glycoprotein 2 (GP2).">
+    <entity charOffset="163-171" id="26811476.s0.e0" ontology_id="HP_0000365" text="deafness" type="HP"/>
+    <entity charOffset="239-259" id="26811476.s0.e1" ontology_id="GO_0007160" text="cell-matrix adhesion" type="GO"/>
+    <pair e1="26811476.s0.e0" e2="26811476.s0.e1" id="26811476.s0.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="29361540">
+  <sentence id="29361540.s0" text="Mutations of &lt;i&gt;lysosome organization&lt;/i&gt;/&lt;i&gt;lysosome organization&lt;/i&gt; have been implicated in inherited deafness in both humans and mice.">
+    <entity charOffset="16-37" id="29361540.s0.e0" ontology_id="GO_0007040" text="lysosome organization" type="GO"/>
+    <entity charOffset="45-66" id="29361540.s0.e1" ontology_id="GO_0007040" text="lysosome organization" type="GO"/>
+    <entity charOffset="105-113" id="29361540.s0.e2" ontology_id="HP_0000365" text="deafness" type="HP"/>
+    <pair e1="29361540.s0.e0" e2="29361540.s0.e2" id="29361540.s0.p0" relation="true"/>
+    <pair e1="29361540.s0.e1" e2="29361540.s0.e2" id="29361540.s0.p1" relation="true"/>
+  </sentence>
+</document>

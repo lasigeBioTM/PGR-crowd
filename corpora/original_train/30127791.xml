@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="30127791">
+  <sentence id="30127791.s0" text="Studies in humans with autosomal recessive positive regulation of stress-activated MAPK cascade deficiency have indicated a highly specific role for this molecule in the activation of antifungal immune responses in the central nervous system, the oral mucosa, and the skin.">
+    <entity charOffset="23-42" id="30127791.s0.e0" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="43-95" id="30127791.s0.e1" ontology_id="GO_0032874" text="positive regulation of stress-activated MAPK cascade" type="GO"/>
+    <entity charOffset="219-226" id="30127791.s0.e2" ontology_id="HP_0030645" text="central" type="HP"/>
+    <pair e1="30127791.s0.e0" e2="30127791.s0.e1" id="30127791.s0.p0" relation="true"/>
+    <pair e1="30127791.s0.e1" e2="30127791.s0.e2" id="30127791.s0.p1" relation="false"/>
+  </sentence>
+  <sentence id="30127791.s1" text="Moreover, positive regulation of stress-activated MAPK cascade-dependent functions have recently been indicated to modulate the development of autoimmunity, inflammatory bowel diseases, and cancer.">
+    <entity charOffset="10-62" id="30127791.s1.e0" ontology_id="GO_0032874" text="positive regulation of stress-activated MAPK cascade" type="GO"/>
+    <entity charOffset="190-196" id="30127791.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30127791.s1.e0" e2="30127791.s1.e1" id="30127791.s1.p0" relation="false"/>
+  </sentence>
+</document>

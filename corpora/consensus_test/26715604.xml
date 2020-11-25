@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<document id="26715604">
+  <sentence id="26715604.s0" text="Here we discuss 'congenital disorders of autophagy' as an emerging subclass of inborn errors of metabolism by using the examples of six recently identified monogenic diseases: nucleotide transport-related Vici syndrome, beta-propeller protein-associated neurodegeneration due to mutations in WDR45, autophagosome maturation-associated autosomal-recessive cerebellar ataxia and intellectual disability syndrome, and three forms of hereditary spastic paraplegia, SPG11, SPG15 and omega-hydroxylase P450 pathway caused by SPG11, ZFYVE26 and autophagy mutations, respectively.">
+    <entity charOffset="176-196" id="26715604.s0.e0" ontology_id="GO_0006862" text="nucleotide transport" type="GO"/>
+    <entity charOffset="299-323" id="26715604.s0.e1" ontology_id="GO_0097352" text="autophagosome maturation" type="GO"/>
+    <entity charOffset="355-372" id="26715604.s0.e2" ontology_id="HP_0001251" text="cerebellar ataxia" type="HP"/>
+    <entity charOffset="377-400" id="26715604.s0.e3" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <entity charOffset="441-459" id="26715604.s0.e4" ontology_id="HP_0001258" text="spastic paraplegia" type="HP"/>
+    <entity charOffset="478-508" id="26715604.s0.e5" ontology_id="GO_0097267" text="omega-hydroxylase P450 pathway" type="GO"/>
+    <entity charOffset="538-547" id="26715604.s0.e6" ontology_id="GO_0006914" text="autophagy" type="GO"/>
+    <pair e1="26715604.s0.e0" e2="26715604.s0.e2" id="26715604.s0.p0" relation="false"/>
+    <pair e1="26715604.s0.e1" e2="26715604.s0.e3" id="26715604.s0.p1" relation="true"/>
+    <pair e1="26715604.s0.e2" e2="26715604.s0.e6" id="26715604.s0.p2" relation="false"/>
+    <pair e1="26715604.s0.e4" e2="26715604.s0.e5" id="26715604.s0.p3" relation="false"/>
+  </sentence>
+</document>

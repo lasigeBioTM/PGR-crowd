@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="29054762">
+  <sentence id="29054762.s0" text="Retrospectively study revealed that protein polyubiquitination-34a expression was downregulated in human primary GC tissues compared with non-tumor tissues and low miR-34a expression was associated with a significantly shorter overall survival and disease-free survival.">
+    <entity charOffset="36-62" id="29054762.s0.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="142-147" id="29054762.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29054762.s0.e0" e2="29054762.s0.e1" id="29054762.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29054762.s1" text="However, the relationship between protein polyubiquitination-34a and luteolin's susceptibility to cancer cells still remains unclear.">
+    <entity charOffset="34-60" id="29054762.s1.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="98-104" id="29054762.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29054762.s1.e0" e2="29054762.s1.e1" id="29054762.s1.p0" relation="true"/>
+  </sentence>
+</document>

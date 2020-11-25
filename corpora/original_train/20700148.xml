@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="20700148">
+  <sentence id="20700148.s0" text="Independently, another group has recently observed polyprenol catabolic process mutations in several families with a type 1 congenital disorder of glycosylation (CDG type Ix, OMIM 212067), mental retardation, cerebellar ataxia and eye disorders.">
+    <entity charOffset="51-79" id="20700148.s0.e0" ontology_id="GO_0016095" text="polyprenol catabolic process" type="GO"/>
+    <entity charOffset="209-226" id="20700148.s0.e1" ontology_id="HP_0001251" text="cerebellar ataxia" type="HP"/>
+    <pair e1="20700148.s0.e0" e2="20700148.s0.e1" id="20700148.s0.p0" relation="false"/>
+  </sentence>
+</document>

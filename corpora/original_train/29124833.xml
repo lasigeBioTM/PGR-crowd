@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29124833">
+  <sentence id="29124833.s0" text="Our findings support the recently proposed concept of 3'UTR-encoded &amp;quot;cryptic amyloidogenic elements.&amp;quot; Together with a previous report on an aggregation-prone protein insertion into membrane deletion variant in distal hereditary motor neuropathy, they also suggest that toxic gain of REEP1 function, rather than loss-of-function as relevant for HSP, specifically affects lower motor neurons.">
+    <entity charOffset="168-199" id="29124833.s0.e0" ontology_id="GO_0051205" text="protein insertion into membrane" type="GO"/>
+    <entity charOffset="244-254" id="29124833.s0.e1" ontology_id="HP_0009830" text="neuropathy" type="HP"/>
+    <pair e1="29124833.s0.e0" e2="29124833.s0.e1" id="29124833.s0.p0" relation="true"/>
+  </sentence>
+</document>

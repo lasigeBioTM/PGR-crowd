@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="27872092">
+  <sentence id="27872092.s0" text="The polo family serine threonine kinase protein phosphorylation has been proposed as a therapeutic target in advanced cancers based on increased expression in primary human cancers, facilitation of tumor growth in murine xenograft models, and centrosomal amplification induced by its overexpression.">
+    <entity charOffset="40-63" id="27872092.s0.e0" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <entity charOffset="118-124" id="27872092.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="198-203" id="27872092.s0.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="27872092.s0.e0" e2="27872092.s0.e1" id="27872092.s0.p0" relation="true"/>
+    <pair e1="27872092.s0.e0" e2="27872092.s0.e2" id="27872092.s0.p1" relation="false"/>
+  </sentence>
+  <sentence id="27872092.s1" text="Our results validate Plk4 as a therapeutic target in cancer patients and reveal a new role for Plk4 in regulating Arp2/3 complex-mediated actin nucleation/3-mediated actin cytoskeletal rearrangement.">
+    <entity charOffset="53-59" id="27872092.s1.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="114-154" id="27872092.s1.e1" ontology_id="GO_0034314" text="Arp2/3 complex-mediated actin nucleation" type="GO"/>
+    <pair e1="27872092.s1.e0" e2="27872092.s1.e1" id="27872092.s1.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="22561202">
+  <sentence id="22561202.s0" text="6q14 deletions have been associated with intellectual disability and a distinct pattern of positive regulation of glucose transmembrane transport anomalies, including upslanted palpebral fissures with epicanthal folds, a short nose with broad nasal biological_process, anteverted nares, long philtrum, and thin upper lip.">
+    <entity charOffset="41-64" id="22561202.s0.e0" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <entity charOffset="91-145" id="22561202.s0.e1" ontology_id="GO_0010828" text="positive regulation of glucose transmembrane transport" type="GO"/>
+    <entity charOffset="167-195" id="22561202.s0.e2" ontology_id="HP_0000582" text="upslanted palpebral fissures" type="HP"/>
+    <entity charOffset="201-217" id="22561202.s0.e3" ontology_id="HP_0000286" text="epicanthal folds" type="HP"/>
+    <entity charOffset="221-231" id="22561202.s0.e4" ontology_id="HP_0003196" text="short nose" type="HP"/>
+    <entity charOffset="249-267" id="22561202.s0.e5" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+  </sentence>
+  <sentence id="22561202.s1" text="Possible candidate genes in 6q14 for intellectual disability might be biological_process, MYO6, adenylate cyclase-inhibiting G protein-coupled receptor signaling pathway, and SNX14">
+    <entity charOffset="37-60" id="22561202.s1.e0" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <entity charOffset="70-88" id="22561202.s1.e1" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="96-169" id="22561202.s1.e2" ontology_id="GO_0007193" text="adenylate cyclase-inhibiting G protein-coupled receptor signaling pathway" type="GO"/>
+    <pair e1="22561202.s1.e0" e2="22561202.s1.e1" id="22561202.s1.p0" relation="true"/>
+    <pair e1="22561202.s1.e0" e2="22561202.s1.e2" id="22561202.s1.p1" relation="true"/>
+  </sentence>
+</document>

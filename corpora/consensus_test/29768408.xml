@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="29768408">
+  <sentence id="29768408.s0" text="Here, we identified three families with mutations in transmembrane transport, encoding for adducin-γ, with intellectual disability, microcephaly, cataracts and skeletal defects.">
+    <entity charOffset="53-76" id="29768408.s0.e0" ontology_id="GO_0055085" text="transmembrane transport" type="GO"/>
+    <entity charOffset="107-130" id="29768408.s0.e1" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <entity charOffset="132-144" id="29768408.s0.e2" ontology_id="HP_0000252" text="microcephaly" type="HP"/>
+    <pair e1="29768408.s0.e0" e2="29768408.s0.e1" id="29768408.s0.p0" relation="false"/>
+    <pair e1="29768408.s0.e0" e2="29768408.s0.e2" id="29768408.s0.p1" relation="true"/>
+  </sentence>
+</document>

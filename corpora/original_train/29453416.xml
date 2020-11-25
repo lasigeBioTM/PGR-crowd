@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<document id="29453416">
+  <sentence id="29453416.s0" text="The molecular basis of this condition started to be defined recently, and the genes related to the syndrome (ACTG2-heterozygous variant in sporadic cases; and elastic fiber assembly (myosin heavy chain 11), positive regulation of actin filament polymerization (leiomodin 1) and positive regulation of cell migration (myosin T cell costimulation chain (positive regulation of intracellular transport) kinase)-autosomal recessive inheritance), encode proteins involved in the smooth muscle contraction, supporting a myopathic basis for the disease.">
+    <entity charOffset="139-147" id="29453416.s0.e0" ontology_id="HP_0003745" text="sporadic" type="HP"/>
+    <entity charOffset="159-181" id="29453416.s0.e1" ontology_id="GO_0048251" text="elastic fiber assembly" type="GO"/>
+    <entity charOffset="207-259" id="29453416.s0.e2" ontology_id="GO_0030838" text="positive regulation of actin filament polymerization" type="GO"/>
+    <entity charOffset="278-315" id="29453416.s0.e3" ontology_id="GO_0030335" text="positive regulation of cell migration" type="GO"/>
+    <entity charOffset="324-344" id="29453416.s0.e4" ontology_id="GO_0031295" text="T cell costimulation" type="GO"/>
+    <entity charOffset="352-398" id="29453416.s0.e5" ontology_id="GO_0032388" text="positive regulation of intracellular transport" type="GO"/>
+    <entity charOffset="408-427" id="29453416.s0.e6" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="428-439" id="29453416.s0.e7" ontology_id="HP_0000005" text="inheritance" type="HP"/>
+    <pair e1="29453416.s0.e0" e2="29453416.s0.e1" id="29453416.s0.p0" relation="false"/>
+    <pair e1="29453416.s0.e0" e2="29453416.s0.e3" id="29453416.s0.p1" relation="false"/>
+    <pair e1="29453416.s0.e0" e2="29453416.s0.e4" id="29453416.s0.p2" relation="false"/>
+    <pair e1="29453416.s0.e0" e2="29453416.s0.e5" id="29453416.s0.p3" relation="false"/>
+    <pair e1="29453416.s0.e1" e2="29453416.s0.e6" id="29453416.s0.p4" relation="false"/>
+    <pair e1="29453416.s0.e1" e2="29453416.s0.e7" id="29453416.s0.p5" relation="false"/>
+    <pair e1="29453416.s0.e2" e2="29453416.s0.e6" id="29453416.s0.p6" relation="false"/>
+    <pair e1="29453416.s0.e2" e2="29453416.s0.e7" id="29453416.s0.p7" relation="false"/>
+    <pair e1="29453416.s0.e3" e2="29453416.s0.e6" id="29453416.s0.p8" relation="false"/>
+    <pair e1="29453416.s0.e3" e2="29453416.s0.e7" id="29453416.s0.p9" relation="false"/>
+    <pair e1="29453416.s0.e4" e2="29453416.s0.e6" id="29453416.s0.p10" relation="false"/>
+    <pair e1="29453416.s0.e5" e2="29453416.s0.e6" id="29453416.s0.p11" relation="true"/>
+  </sentence>
+</document>

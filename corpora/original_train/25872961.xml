@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="25872961">
+  <sentence id="25872961.s0" text="Mitochondrial 3-hydroxy-3-methylglutaryl-CoA lyase (lipid metabolic process) deficiency is an autosomal recessive disorder affecting the leucine catabolic pathway and ketone body synthesis, and is clinically characterized by metabolic crises with hypoketotic hypoglycemia, metabolic acidosis and hyperammonemia.">
+    <entity charOffset="52-75" id="25872961.s0.e0" ontology_id="GO_0006629" text="lipid metabolic process" type="GO"/>
+    <entity charOffset="259-271" id="25872961.s0.e1" ontology_id="HP_0001943" text="hypoglycemia" type="HP"/>
+    <entity charOffset="296-310" id="25872961.s0.e2" ontology_id="HP_0001987" text="hyperammonemia" type="HP"/>
+    <pair e1="25872961.s0.e0" e2="25872961.s0.e1" id="25872961.s0.p0" relation="true"/>
+    <pair e1="25872961.s0.e0" e2="25872961.s0.e2" id="25872961.s0.p1" relation="true"/>
+  </sentence>
+</document>

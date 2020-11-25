@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="28459858">
+  <sentence id="28459858.s0" text="The cleavage of positive regulation of cell-matrix adhesionty acids from acylglycerols (lipolysis) has been implicated in cancer.">
+    <entity charOffset="16-59" id="28459858.s0.e0" ontology_id="GO_0001954" text="positive regulation of cell-matrix adhesion" type="GO"/>
+    <entity charOffset="122-128" id="28459858.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+  </sentence>
+  <sentence id="28459858.s1" text="These results show that a previously-unknown, fully penetrant epistatic interaction between Pnpla2 and Lipe can cause liposarcoma in epidermis development.">
+    <entity charOffset="118-129" id="28459858.s1.e0" ontology_id="HP_0012034" text="liposarcoma" type="HP"/>
+    <entity charOffset="133-154" id="28459858.s1.e1" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+  </sentence>
+  <sentence id="28459858.s2" text="No tumors occurred in single knockout or control epidermis development.">
+    <entity charOffset="3-9" id="28459858.s2.e0" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <entity charOffset="49-70" id="28459858.s2.e1" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+  </sentence>
+</document>

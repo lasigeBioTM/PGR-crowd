@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="30548441">
+  <sentence id="30548441.s0" text="Xenograft pancreatic tumors derived from high biological_process-positive regulation of cell proliferation expression PC cells exhibited attenuated growth compared to tumors from low B7-H5 expression cells after transfusion with T lymphocytes in immune-deficient mice.">
+    <entity charOffset="21-26" id="30548441.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="46-64" id="30548441.s0.e1" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="65-106" id="30548441.s0.e2" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <pair e1="30548441.s0.e0" e2="30548441.s0.e2" id="30548441.s0.p0" relation="true"/>
+    <pair e1="30548441.s0.e0" e2="30548441.s0.e1" id="30548441.s0.p1" relation="true"/>
+  </sentence>
+</document>

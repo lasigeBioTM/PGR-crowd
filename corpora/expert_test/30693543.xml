@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="30693543">
+  <sentence id="30693543.s0" text="Liver-specific knockout of murine regulation of cytokinesis impaired ATR activation and exacerbated inflammation, fibrosis and hepatocellular carcinoma, which exhibited a trabecular architecture, closely resembling human HCC.">
+    <entity charOffset="34-59" id="30693543.s0.e0" ontology_id="GO_0032465" text="regulation of cytokinesis" type="GO"/>
+    <entity charOffset="127-151" id="30693543.s0.e1" ontology_id="HP_0001402" text="hepatocellular carcinoma" type="HP"/>
+    <pair e1="30693543.s0.e0" e2="30693543.s0.e1" id="30693543.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="30693543.s1" text="The in vivo impact of regulation of cytokinesis loss on liver tumorigenesis was determined using the hepatocellular carcinoma model induced by genotoxin Diethylnitrosamine.">
+    <entity charOffset="22-47" id="30693543.s1.e0" ontology_id="GO_0032465" text="regulation of cytokinesis" type="GO"/>
+    <entity charOffset="62-67" id="30693543.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="30693543.s1.e0" e2="30693543.s1.e1" id="30693543.s1.p0" relation="true"/>
+  </sentence>
+</document>

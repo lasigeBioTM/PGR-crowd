@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="29432535">
+  <sentence id="29432535.s0" text="phosphorylation has also been identified as an important node in ataxia gene networks more broadly, but the functional role of PKC in other forms of ataxia remains unexplored, and the mechanisms by which PKC isozymes regulate Purkinje neuron health are not well understood.">
+    <entity charOffset="0-15" id="29432535.s0.e0" ontology_id="GO_0016310" text="phosphorylation" type="GO"/>
+    <entity charOffset="65-71" id="29432535.s0.e1" ontology_id="HP_0001251" text="ataxia" type="HP"/>
+    <pair e1="29432535.s0.e0" e2="29432535.s0.e1" id="29432535.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29432535.s1" text="Using mouse models of spinocerebellar ataxia muscle organ development 1 (SCA1) and 2 (negative regulation of receptor internalization) we identify an increase in PKC-mediated substrate phosphorylation in two different forms of inherited cerebellar ataxia.">
+    <entity charOffset="27-44" id="29432535.s1.e0" ontology_id="HP_0001251" text="cerebellar ataxia" type="HP"/>
+    <entity charOffset="45-69" id="29432535.s1.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="86-133" id="29432535.s1.e2" ontology_id="GO_0002091" text="negative regulation of receptor internalization" type="GO"/>
+  </sentence>
+</document>

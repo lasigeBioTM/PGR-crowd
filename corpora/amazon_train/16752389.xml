@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<document id="16752389">
+  <sentence id="16752389.s0" text="In two large Turkish consanguineous families, a locus for autosomal recessive nonsyndromic hearing loss (ARNSHL) was mapped to chromosome 6p21.3 by genome-wide linkage analysis in an interval overlapping with the loci DFNB53 (collagen fibril organization), DFNB66, and ion transport.">
+    <entity charOffset="58-77" id="16752389.s0.e0" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="91-103" id="16752389.s0.e1" ontology_id="HP_0000365" text="hearing loss" type="HP"/>
+    <entity charOffset="226-254" id="16752389.s0.e2" ontology_id="GO_0030199" text="collagen fibril organization" type="GO"/>
+    <entity charOffset="269-282" id="16752389.s0.e3" ontology_id="GO_0006811" text="ion transport" type="GO"/>
+    <pair e1="16752389.s0.e0" e2="16752389.s0.e2" id="16752389.s0.p0" relation="true"/>
+    <pair e1="16752389.s0.e0" e2="16752389.s0.e3" id="16752389.s0.p1" relation="true"/>
+    <pair e1="16752389.s0.e1" e2="16752389.s0.e2" id="16752389.s0.p2" relation="true"/>
+    <pair e1="16752389.s0.e1" e2="16752389.s0.e3" id="16752389.s0.p3" relation="true"/>
+  </sentence>
+  <sentence id="16752389.s1" text="Fine mapping excluded collagen fibril organization and subsequently homozygous mutations were identified in the lipoma negative regulation of transcription by RNA polymerase II fusion partner-like 5 (LHFPL5) gene, also named protein-containing complex assembly membrane protein of hair cell stereocilia (ion transport) gene, which was recently shown to be mutated in the &amp;quot;hurry scurry&amp;quot; mouse and in two ion transport-linked families from Pakistan.">
+    <entity charOffset="22-50" id="16752389.s1.e0" ontology_id="GO_0030199" text="collagen fibril organization" type="GO"/>
+    <entity charOffset="112-118" id="16752389.s1.e1" ontology_id="HP_0012032" text="lipoma" type="HP"/>
+    <entity charOffset="119-176" id="16752389.s1.e2" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="225-260" id="16752389.s1.e3" ontology_id="GO_0065003" text="protein-containing complex assembly" type="GO"/>
+    <entity charOffset="304-317" id="16752389.s1.e4" ontology_id="GO_0006811" text="ion transport" type="GO"/>
+    <entity charOffset="413-426" id="16752389.s1.e5" ontology_id="GO_0006811" text="ion transport" type="GO"/>
+    <pair e1="16752389.s1.e0" e2="16752389.s1.e1" id="16752389.s1.p0" relation="true"/>
+    <pair e1="16752389.s1.e1" e2="16752389.s1.e2" id="16752389.s1.p1" relation="true"/>
+    <pair e1="16752389.s1.e1" e2="16752389.s1.e3" id="16752389.s1.p2" relation="true"/>
+    <pair e1="16752389.s1.e1" e2="16752389.s1.e4" id="16752389.s1.p3" relation="true"/>
+    <pair e1="16752389.s1.e1" e2="16752389.s1.e5" id="16752389.s1.p4" relation="true"/>
+  </sentence>
+</document>

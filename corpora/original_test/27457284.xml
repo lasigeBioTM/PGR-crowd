@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27457284">
+  <sentence id="27457284.s0" text="To gain insight into the molecular basis of the heterogeneous phenotype observed in men with the deletion we defined the type of DAZ and spermatogenesis genes deleted.">
+    <entity charOffset="48-61" id="27457284.s0.e0" ontology_id="HP_0001425" text="heterogeneous" type="HP"/>
+    <entity charOffset="137-152" id="27457284.s0.e1" ontology_id="GO_0007283" text="spermatogenesis" type="GO"/>
+    <pair e1="27457284.s0.e0" e2="27457284.s0.e1" id="27457284.s0.p0" relation="false"/>
+  </sentence>
+</document>

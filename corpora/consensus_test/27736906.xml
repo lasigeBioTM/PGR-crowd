@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="27736906">
+  <sentence id="27736906.s0" text="HIV-1 transgenic epidermis development on the FVB/NJ background (TgFVB) represent a validated model of HIV-associated nephropathy (HIVAN).">
+    <entity charOffset="17-38" id="27736906.s0.e0" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="118-129" id="27736906.s0.e1" ontology_id="HP_0000112" text="nephropathy" type="HP"/>
+  </sentence>
+  <sentence id="27736906.s1" text="Of these, Frem1, Foxo1, and cellular response to DNA damage stimulus have been implicated in the pathogenesis of nephropathy.">
+    <entity charOffset="28-68" id="27736906.s1.e0" ontology_id="GO_0006974" text="cellular response to DNA damage stimulus" type="GO"/>
+    <entity charOffset="113-124" id="27736906.s1.e1" ontology_id="HP_0000112" text="nephropathy" type="HP"/>
+    <pair e1="27736906.s1.e0" e2="27736906.s1.e1" id="27736906.s1.p0" relation="true"/>
+  </sentence>
+</document>

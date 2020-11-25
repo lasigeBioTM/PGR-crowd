@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="29108898">
+  <sentence id="29108898.s0" text="Since platelet-mediated clot formation is a key event in several fatal diseases, such as myocardial infarction, stroke and pulmonary embolism, understanding pyrimidine nucleoside metabolic process in depth may lead to uncovering novel mechanisms in the development of cardiovascular diseases.">
+    <entity charOffset="123-141" id="29108898.s0.e0" ontology_id="HP_0002204" text="pulmonary embolism" type="HP"/>
+    <entity charOffset="157-196" id="29108898.s0.e1" ontology_id="GO_0006213" text="pyrimidine nucleoside metabolic process" type="GO"/>
+    <entity charOffset="268-291" id="29108898.s0.e2" ontology_id="HP_0001626" text="cardiovascular diseases" type="HP"/>
+    <pair e1="29108898.s0.e0" e2="29108898.s0.e1" id="29108898.s0.p0" relation="true"/>
+    <pair e1="29108898.s0.e1" e2="29108898.s0.e2" id="29108898.s0.p1" relation="true"/>
+  </sentence>
+</document>

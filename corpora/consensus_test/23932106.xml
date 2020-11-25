@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="23932106">
+  <sentence id="23932106.s0" text="We conclude that mutations in SZT2 cause a severe muscle organ development of autosomal-recessive infantile encephalopathy with intractable seizures and distinct neuroradiological anomalies.">
+    <entity charOffset="50-74" id="23932106.s0.e0" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="108-122" id="23932106.s0.e1" ontology_id="HP_0001298" text="encephalopathy" type="HP"/>
+  </sentence>
+</document>

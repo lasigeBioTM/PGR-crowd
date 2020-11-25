@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<document id="30247156">
+  <sentence id="30247156.s0" text="TOR signaling-cKO mice developed hearing loss considerably more slowly than WT littermates.">
+    <entity charOffset="0-13" id="30247156.s0.e0" ontology_id="GO_0031929" text="TOR signaling" type="GO"/>
+    <entity charOffset="33-45" id="30247156.s0.e1" ontology_id="HP_0000365" text="hearing loss" type="HP"/>
+  </sentence>
+  <sentence id="30247156.s1" text="The underlying molecular mechanisms of age-related hearing loss (ARHL) in humans and many strains of epidermis development have not been fully characterized.">
+    <entity charOffset="51-63" id="30247156.s1.e0" ontology_id="HP_0000365" text="hearing loss" type="HP"/>
+    <entity charOffset="101-122" id="30247156.s1.e1" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+  </sentence>
+</document>

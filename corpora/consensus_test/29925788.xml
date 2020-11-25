@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<document id="29925788">
+  <sentence id="29925788.s0" text="We then constructed predictive gentranscription by RNA polymerase IIlized regression (GR) modeling with a supervised machine learning validation procedure with the target variable (cancer status) being specified to validate the results to allow enhanced prediction and reproducibility.">
+    <entity charOffset="34-68" id="29925788.s0.e0" ontology_id="GO_0006366" text="transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="181-187" id="29925788.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+  </sentence>
+  <sentence id="29925788.s1" text="Additional predictors included age, as well as gender and the inttranscription by RNA polymerase IIction of &lt;i&gt;MTHFR&lt;/i&gt; 677 with overweight status (measured by body mass index) in predicting CRC, with the cancer group having more men and overweight cases.">
+    <entity charOffset="65-99" id="29925788.s1.e0" ontology_id="GO_0006366" text="transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="206-212" id="29925788.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29636449">
+  <sentence id="29636449.s0" text="Feingold syndrome is a skeletal dysplasia caused by loss-of-function mutations of either positive regulation of gene expression (type 1) or MIR17HG that encodes miR-17-92 microRNAs (type 2).">
+    <entity charOffset="23-41" id="29636449.s0.e0" ontology_id="HP_0002652" text="skeletal dysplasia" type="HP"/>
+    <entity charOffset="89-127" id="29636449.s0.e1" ontology_id="GO_0010628" text="positive regulation of gene expression" type="GO"/>
+    <pair e1="29636449.s0.e0" e2="29636449.s0.e1" id="29636449.s0.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29381923">
+  <sentence id="29381923.s0" text="Specifically, glutamate catabolic process via 2-oxoglutarate, HAND2, and GNAO1 were hypermethylated and downregulated in colon cancer, suggesting that the low expression levels of these genes may be regulated by DNA hypermethylation.">
+    <entity charOffset="14-60" id="29381923.s0.e0" ontology_id="GO_0006539" text="glutamate catabolic process via 2-oxoglutarate" type="GO"/>
+    <entity charOffset="127-133" id="29381923.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29381923.s0.e0" e2="29381923.s0.e1" id="29381923.s0.p0" relation="true"/>
+  </sentence>
+</document>

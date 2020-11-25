@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<document id="26762690">
+  <sentence id="26762690.s0" text="Extensive IDS gene deletions were identified in four patients; using DNA microarray analysis two patients showed the loss of the entire regulation of gene expression gene, and epilepsy developed in only one of them.">
+    <entity charOffset="136-165" id="26762690.s0.e0" ontology_id="GO_0010468" text="regulation of gene expression" type="GO"/>
+    <entity charOffset="176-184" id="26762690.s0.e1" ontology_id="HP_0001250" text="epilepsy" type="HP"/>
+    <pair e1="26762690.s0.e0" e2="26762690.s0.e1" id="26762690.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="26762690.s1" text="Wide allelic heterogeneity was noted, with large gene alterations (e.g. glycosaminoglycan catabolic process/IDSP1 gene inversions, partial to extensive IDS deletions, and one chimeric IDS-IDSP1 allele) that occurred at higher frequencies than previously reported (36% vs 18.9-29%).">
+    <entity charOffset="13-26" id="26762690.s1.e0" ontology_id="HP_0001425" text="heterogeneity" type="HP"/>
+    <entity charOffset="72-107" id="26762690.s1.e1" ontology_id="GO_0006027" text="glycosaminoglycan catabolic process" type="GO"/>
+    <pair e1="26762690.s1.e0" e2="26762690.s1.e1" id="26762690.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="26762690.s2" text="Our findings suggest a wide allelic heterogeneity in Mexican MPSII patients; DNA microarray analysis contributes to further delineation of the resulting phenomuscle organ development for glycosaminoglycan catabolic process and neighboring loci deletions">
+    <entity charOffset="36-49" id="26762690.s2.e0" ontology_id="HP_0001425" text="heterogeneity" type="HP"/>
+    <entity charOffset="158-182" id="26762690.s2.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="187-222" id="26762690.s2.e2" ontology_id="GO_0006027" text="glycosaminoglycan catabolic process" type="GO"/>
+    <pair e1="26762690.s2.e0" e2="26762690.s2.e2" id="26762690.s2.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<document id="28005197">
+  <sentence id="28005197.s0" text="Biallelic mutations in the protein dephosphorylation gene have been identified in one family with demyelinating Charcot-Marie-Tooth disease (CMT4B3) and two families with axonal neuropathy and additional neurological and skeletal features.">
+    <entity charOffset="27-52" id="28005197.s0.e0" ontology_id="GO_0006470" text="protein dephosphorylation" type="GO"/>
+    <entity charOffset="178-188" id="28005197.s0.e1" ontology_id="HP_0009830" text="neuropathy" type="HP"/>
+    <pair e1="28005197.s0.e0" e2="28005197.s0.e1" id="28005197.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28005197.s1" text="Here we describe novel sequence variants in protein dephosphorylation (c.1168C&amp;gt;G and c.2209_2210del) as the potential causative mutations in two siblings with severe axonal neuropathy, hearing loss, facial weakness and bulbar features.">
+    <entity charOffset="44-69" id="28005197.s1.e0" ontology_id="GO_0006470" text="protein dephosphorylation" type="GO"/>
+    <entity charOffset="176-186" id="28005197.s1.e1" ontology_id="HP_0009830" text="neuropathy" type="HP"/>
+    <entity charOffset="188-200" id="28005197.s1.e2" ontology_id="HP_0000365" text="hearing loss" type="HP"/>
+    <pair e1="28005197.s1.e0" e2="28005197.s1.e1" id="28005197.s1.p0" relation="true"/>
+    <pair e1="28005197.s1.e0" e2="28005197.s1.e2" id="28005197.s1.p1" relation="true"/>
+  </sentence>
+  <sentence id="28005197.s2" text="Our findings suggest that protein dephosphorylation mutations may cause a syndromic form of autosomal recessive axonal neuropathy (AR-CMT2) in addition to CMT4B3">
+    <entity charOffset="26-51" id="28005197.s2.e0" ontology_id="GO_0006470" text="protein dephosphorylation" type="GO"/>
+    <entity charOffset="92-111" id="28005197.s2.e1" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="119-129" id="28005197.s2.e2" ontology_id="HP_0009830" text="neuropathy" type="HP"/>
+    <pair e1="28005197.s2.e0" e2="28005197.s2.e2" id="28005197.s2.p0" relation="false"/>
+    <pair e1="28005197.s2.e0" e2="28005197.s2.e1" id="28005197.s2.p1" relation="true"/>
+  </sentence>
+</document>

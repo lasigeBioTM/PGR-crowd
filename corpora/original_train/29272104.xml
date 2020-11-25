@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="29272104">
+  <sentence id="29272104.s0" text="Friedreich's ataxia (FA) is an autosomal recessive disease caused by an intronic glycogen catabolic process triplet expansion in the regulation of ferrochelatase activity gene, leading to reduced expression of the mitochondrial protein frataxin.">
+    <entity charOffset="13-19" id="29272104.s0.e0" ontology_id="HP_0001251" text="ataxia" type="HP"/>
+    <entity charOffset="31-50" id="29272104.s0.e1" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="81-107" id="29272104.s0.e2" ontology_id="GO_0005980" text="glycogen catabolic process" type="GO"/>
+    <entity charOffset="133-170" id="29272104.s0.e3" ontology_id="GO_0010722" text="regulation of ferrochelatase activity" type="GO"/>
+    <pair e1="29272104.s0.e0" e2="29272104.s0.e2" id="29272104.s0.p0" relation="false"/>
+    <pair e1="29272104.s0.e0" e2="29272104.s0.e3" id="29272104.s0.p1" relation="true"/>
+    <pair e1="29272104.s0.e1" e2="29272104.s0.e2" id="29272104.s0.p2" relation="true"/>
+    <pair e1="29272104.s0.e1" e2="29272104.s0.e3" id="29272104.s0.p3" relation="true"/>
+  </sentence>
+</document>

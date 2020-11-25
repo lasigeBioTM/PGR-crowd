@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<document id="27659325">
+  <sentence id="27659325.s0" text="The aim of the study was to understand the role of axon guidance-homophilic cell adhesion via plasma membrane adhesion molecules/2-CDC42 signalling pathways in development of breast cancer (BC).">
+    <entity charOffset="51-64" id="27659325.s0.e0" ontology_id="GO_0007411" text="axon guidance" type="GO"/>
+    <entity charOffset="65-128" id="27659325.s0.e1" ontology_id="GO_0007156" text="homophilic cell adhesion via plasma membrane adhesion molecules" type="GO"/>
+    <entity charOffset="182-188" id="27659325.s0.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27659325.s0.e0" e2="27659325.s0.e2" id="27659325.s0.p0" relation="true"/>
+    <pair e1="27659325.s0.e1" e2="27659325.s0.e2" id="27659325.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="27659325.s1" text="Significantly, higher alteration of axon guidance locus was observed in triple negative breast cancer (TNBC) over signal transduction subtype (P = 0.0014).">
+    <entity charOffset="36-49" id="27659325.s1.e0" ontology_id="GO_0007411" text="axon guidance" type="GO"/>
+    <entity charOffset="95-101" id="27659325.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="114-133" id="27659325.s1.e2" ontology_id="GO_0007165" text="signal transduction" type="GO"/>
+    <pair e1="27659325.s1.e0" e2="27659325.s1.e1" id="27659325.s1.p0" relation="true"/>
+    <pair e1="27659325.s1.e1" e2="27659325.s1.e2" id="27659325.s1.p1" relation="true"/>
+  </sentence>
+  <sentence id="27659325.s2" text="Results indicate the importance of axon guidance-homophilic cell adhesion via plasma membrane adhesion molecules-actin cytoskeleton organization signalling pathway in predicting tumour progression.">
+    <entity charOffset="35-48" id="27659325.s2.e0" ontology_id="GO_0007411" text="axon guidance" type="GO"/>
+    <entity charOffset="49-112" id="27659325.s2.e1" ontology_id="GO_0007156" text="homophilic cell adhesion via plasma membrane adhesion molecules" type="GO"/>
+    <entity charOffset="113-144" id="27659325.s2.e2" ontology_id="GO_0030036" text="actin cytoskeleton organization" type="GO"/>
+    <entity charOffset="178-184" id="27659325.s2.e3" ontology_id="HP_0002664" text="tumour" type="HP"/>
+    <pair e1="27659325.s2.e0" e2="27659325.s2.e3" id="27659325.s2.p0" relation="true"/>
+    <pair e1="27659325.s2.e1" e2="27659325.s2.e3" id="27659325.s2.p1" relation="true"/>
+    <pair e1="27659325.s2.e2" e2="27659325.s2.e3" id="27659325.s2.p2" relation="true"/>
+  </sentence>
+</document>

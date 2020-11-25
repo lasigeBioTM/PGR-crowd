@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<document id="28650469">
+  <sentence id="28650469.s0" text="Therefore our study identifies a compartmentalized PtdIns(3,4,5)P&lt;sub&gt;3&lt;/sub&gt;/AKT/GSK3β signaling axis at cilia in positive regulation of cell proliferation-dependent medulloblastoma that is regulated by protein processing involved in protein targeting to mitochondrion to maintain tumor cell cilia, promote SHH signaling and thereby medulloblastoma progression">
+    <entity charOffset="115-156" id="28650469.s0.e0" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <entity charOffset="167-182" id="28650469.s0.e1" ontology_id="HP_0002885" text="medulloblastoma" type="HP"/>
+    <entity charOffset="204-269" id="28650469.s0.e2" ontology_id="GO_0006627" text="protein processing involved in protein targeting to mitochondrion" type="GO"/>
+    <entity charOffset="282-287" id="28650469.s0.e3" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28650469.s0.e0" e2="28650469.s0.e1" id="28650469.s0.p0" relation="true"/>
+    <pair e1="28650469.s0.e2" e2="28650469.s0.e3" id="28650469.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="28650469.s1" text="PI3-kinase inhibition or expression of wild-type, but not catalytically inactive HA-protein processing involved in protein targeting to mitochondrion partially rescued cilia loss in Inpp5e-null tumor cells in vitro.">
+    <entity charOffset="84-149" id="28650469.s1.e0" ontology_id="GO_0006627" text="protein processing involved in protein targeting to mitochondrion" type="GO"/>
+    <entity charOffset="194-199" id="28650469.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28650469.s1.e0" e2="28650469.s1.e1" id="28650469.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="28650469.s2" text="Conditional deletion of protein processing involved in protein targeting to mitochondrion in a murine model of constitutively active Smoothened-driven medulloblastoma slowed tumor progression, suppressed cell proliferation, reduced SHH signaling and promoted tumor cell cilia loss.">
+    <entity charOffset="24-89" id="28650469.s2.e0" ontology_id="GO_0006627" text="protein processing involved in protein targeting to mitochondrion" type="GO"/>
+    <entity charOffset="151-166" id="28650469.s2.e1" ontology_id="HP_0002885" text="medulloblastoma" type="HP"/>
+    <pair e1="28650469.s2.e0" e2="28650469.s2.e1" id="28650469.s2.p0" relation="true"/>
+  </sentence>
+  <sentence id="28650469.s3" text="Sonic Hedgehog (positive regulation of cell proliferation) signaling at primary cilia drives the proliferation and progression of a subset of medulloblastomas, the most common malignant paediatric brain tumor.">
+    <entity charOffset="16-57" id="28650469.s3.e0" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <entity charOffset="203-208" id="28650469.s3.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28650469.s3.e0" e2="28650469.s3.e1" id="28650469.s3.p0" relation="true"/>
+  </sentence>
+  <sentence id="28650469.s4" text="Here, we reveal INPP5E promotes positive regulation of cell proliferation signaling in SHH medulloblastoma by negatively regulating a cilia-compartmentalized PI3-kinase signaling axis that maintains primary cilia on tumor cells.">
+    <entity charOffset="32-73" id="28650469.s4.e0" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <entity charOffset="216-221" id="28650469.s4.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28650469.s4.e0" e2="28650469.s4.e1" id="28650469.s4.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="28895923">
+  <sentence id="28895923.s0" text="Beyond secretion, digestion is a tumor suppressor universally silenced by loss of expression of its paracrine hormone during carcinogenesis.">
+    <entity charOffset="18-27" id="28895923.s0.e0" ontology_id="GO_0007586" text="digestion" type="GO"/>
+    <entity charOffset="33-38" id="28895923.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28895923.s0.e0" e2="28895923.s0.e1" id="28895923.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28895923.s1" text="Thus, chronic colonization with &lt;i&gt;ETEC&lt;/i&gt; producing ST could contribute to endemic cancer resistance in developing countries, reinforcing a novel paradigm of colorectal cancer chemoprevention with oral digestion-targeted agents">
+    <entity charOffset="85-91" id="28895923.s1.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="204-213" id="28895923.s1.e1" ontology_id="GO_0007586" text="digestion" type="GO"/>
+    <pair e1="28895923.s1.e0" e2="28895923.s1.e1" id="28895923.s1.p0" relation="false"/>
+  </sentence>
+</document>

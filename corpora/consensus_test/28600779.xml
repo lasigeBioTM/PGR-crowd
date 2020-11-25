@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28600779">
+  <sentence id="28600779.s0" text="Two of these genes were independently mutated in more than one family with similar phenotypes, which substantiates their link to human disease (regulation of membrane repolarization in intellectual disability and UBR4 in early dementia).">
+    <entity charOffset="144-181" id="28600779.s0.e0" ontology_id="GO_0060306" text="regulation of membrane repolarization" type="GO"/>
+    <entity charOffset="185-208" id="28600779.s0.e1" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <pair e1="28600779.s0.e0" e2="28600779.s0.e1" id="28600779.s0.p0" relation="true"/>
+  </sentence>
+</document>

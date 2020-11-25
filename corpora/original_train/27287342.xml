@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<document id="27287342">
+  <sentence id="27287342.s0" text="We tried to elucidate the role of three 3p21.3 TSGs: negative regulation of cell proliferation, cell adhesion and mismatch repair, in non-small cell lung cancer (NSCLC).">
+    <entity charOffset="53-94" id="27287342.s0.e0" ontology_id="GO_0008285" text="negative regulation of cell proliferation" type="GO"/>
+    <entity charOffset="96-109" id="27287342.s0.e1" ontology_id="GO_0007155" text="cell adhesion" type="GO"/>
+    <entity charOffset="114-129" id="27287342.s0.e2" ontology_id="GO_0006298" text="mismatch repair" type="GO"/>
+    <entity charOffset="154-160" id="27287342.s0.e3" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27287342.s0.e0" e2="27287342.s0.e3" id="27287342.s0.p0" relation="true"/>
+    <pair e1="27287342.s0.e1" e2="27287342.s0.e3" id="27287342.s0.p1" relation="false"/>
+    <pair e1="27287342.s0.e2" e2="27287342.s0.e3" id="27287342.s0.p2" relation="true"/>
+  </sentence>
+  <sentence id="27287342.s1" text="In case of negative regulation of cell proliferation and ITGA9, expression levels were decreased in 71-78 % of tumor samples and significantly different between tumor and normal tissues (P = 0.0001).">
+    <entity charOffset="11-52" id="27287342.s1.e0" ontology_id="GO_0008285" text="negative regulation of cell proliferation" type="GO"/>
+    <entity charOffset="111-116" id="27287342.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="27287342.s1.e0" e2="27287342.s1.e1" id="27287342.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="27287342.s2" text="cell adhesion could also be regarded as a diagnostic marker differentiating NSCLC subtypes, as its expression level was significantly lower in squamous cell carcinoma (P = 0.001).">
+    <entity charOffset="0-13" id="27287342.s2.e0" ontology_id="GO_0007155" text="cell adhesion" type="GO"/>
+    <entity charOffset="143-166" id="27287342.s2.e1" ontology_id="HP_0002860" text="squamous cell carcinoma" type="HP"/>
+    <pair e1="27287342.s2.e0" e2="27287342.s2.e1" id="27287342.s2.p0" relation="false"/>
+  </sentence>
+</document>

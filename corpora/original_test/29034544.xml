@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29034544">
+  <sentence id="29034544.s0" text="SPG56 is a rare autosomal recessive early onset complicated form of HSP caused by mutations in omega-hydroxylase P450 pathway.">
+    <entity charOffset="16-35" id="29034544.s0.e0" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="95-125" id="29034544.s0.e1" ontology_id="GO_0097267" text="omega-hydroxylase P450 pathway" type="GO"/>
+    <pair e1="29034544.s0.e0" e2="29034544.s0.e1" id="29034544.s0.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="27260292">
+  <sentence id="27260292.s0" text="Our data confirm the genetic heterogeneity of childhood-onset pure HSP, with SPG4/microtubule bundle formation and SPG3A/endoplasmic reticulum organization being the most frequent forms.">
+    <entity charOffset="29-42" id="27260292.s0.e0" ontology_id="HP_0001425" text="heterogeneity" type="HP"/>
+    <entity charOffset="82-110" id="27260292.s0.e1" ontology_id="GO_0001578" text="microtubule bundle formation" type="GO"/>
+    <entity charOffset="121-155" id="27260292.s0.e2" ontology_id="GO_0007029" text="endoplasmic reticulum organization" type="GO"/>
+    <pair e1="27260292.s0.e0" e2="27260292.s0.e2" id="27260292.s0.p0" relation="true"/>
+    <pair e1="27260292.s0.e0" e2="27260292.s0.e1" id="27260292.s0.p1" relation="false"/>
+  </sentence>
+</document>

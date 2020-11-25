@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="29099273">
+  <sentence id="29099273.s0" text="Of the 465,447 CpG sites analyzed, 12 showed differential methylation (false discovery rate &amp;lt;0.15), including markers within genes associated with monogenic diabetes (regulation of transcription by RNA polymerase II) or obesity (positive regulation of transcription by RNA polymerase II).">
+    <entity charOffset="170-218" id="29099273.s0.e0" ontology_id="GO_0006357" text="regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="223-230" id="29099273.s0.e1" ontology_id="HP_0001513" text="obesity" type="HP"/>
+    <entity charOffset="232-289" id="29099273.s0.e2" ontology_id="GO_0045944" text="positive regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="29099273.s0.e0" e2="29099273.s0.e1" id="29099273.s0.p0" relation="false"/>
+    <pair e1="29099273.s0.e1" e2="29099273.s0.e2" id="29099273.s0.p1" relation="false"/>
+  </sentence>
+</document>

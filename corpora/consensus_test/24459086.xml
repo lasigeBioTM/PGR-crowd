@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="24459086">
+  <sentence id="24459086.s0" text="positive regulation of protein ubiquitination is also known as a tumor suppressor gene, and somatic mutations in that gene have been identified in Wilms tumors.">
+    <entity charOffset="0-45" id="24459086.s0.e0" ontology_id="GO_0031398" text="positive regulation of protein ubiquitination" type="GO"/>
+    <entity charOffset="65-70" id="24459086.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="24459086.s0.e0" e2="24459086.s0.e1" id="24459086.s0.p0" relation="true"/>
+  </sentence>
+</document>

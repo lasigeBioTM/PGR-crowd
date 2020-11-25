@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30253652">
+  <sentence id="30253652.s0" text="Methods We identified all materials published mentioning both protein neddylation and allergic rhinitis (AR), chronic sinusitis, asthma, and atopic dermatitis (AD) that are indexed on PubMed, Google, or the ProQuest Central databases.">
+    <entity charOffset="62-81" id="30253652.s0.e0" ontology_id="GO_0045116" text="protein neddylation" type="GO"/>
+    <entity charOffset="141-158" id="30253652.s0.e1" ontology_id="HP_0001047" text="atopic dermatitis" type="HP"/>
+    <pair e1="30253652.s0.e0" e2="30253652.s0.e1" id="30253652.s0.p0" relation="false"/>
+  </sentence>
+</document>

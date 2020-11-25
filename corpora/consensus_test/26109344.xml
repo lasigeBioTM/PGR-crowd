@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<document id="26109344">
+  <sentence id="26109344.s0" text="Six genes (ACOX2, DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest, visual perception, PSPH, sterol biosynthetic process, TYMS) were differentially expressed by bile acid metabolic process among Luminal A breast cancers and were associated with survival (HR &amp;lt;0.8, HR &amp;gt;1.25).">
+    <entity charOffset="18-111" id="26109344.s0.e0" ontology_id="GO_0006977" text="DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest" type="GO"/>
+    <entity charOffset="113-130" id="26109344.s0.e1" ontology_id="GO_0007601" text="visual perception" type="GO"/>
+    <entity charOffset="138-165" id="26109344.s0.e2" ontology_id="GO_0016126" text="sterol biosynthetic process" type="GO"/>
+    <entity charOffset="206-233" id="26109344.s0.e3" ontology_id="GO_0008206" text="bile acid metabolic process" type="GO"/>
+    <entity charOffset="257-263" id="26109344.s0.e4" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="26109344.s0.e0" e2="26109344.s0.e4" id="26109344.s0.p0" relation="true"/>
+    <pair e1="26109344.s0.e1" e2="26109344.s0.e4" id="26109344.s0.p1" relation="true"/>
+    <pair e1="26109344.s0.e2" e2="26109344.s0.e4" id="26109344.s0.p2" relation="false"/>
+  </sentence>
+  <sentence id="26109344.s1" text="To identify potential biological differences by bile acid metabolic process among Luminal A breast cancers, gene expression data from 108 CAU and 57 AA breast tumors were analyzed.">
+    <entity charOffset="48-75" id="26109344.s1.e0" ontology_id="GO_0008206" text="bile acid metabolic process" type="GO"/>
+    <entity charOffset="99-105" id="26109344.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+  </sentence>
+</document>

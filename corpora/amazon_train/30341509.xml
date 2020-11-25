@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="30341509">
+  <sentence id="30341509.s0" text="Primary hyperoxaluria muscle organ development 1 (PH1) is a rare but devastating autosomal recessive inherited disease caused by mutations in gene AGXT.">
+    <entity charOffset="8-21" id="30341509.s0.e0" ontology_id="HP_0003159" text="hyperoxaluria" type="HP"/>
+    <entity charOffset="22-46" id="30341509.s0.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+  </sentence>
+</document>

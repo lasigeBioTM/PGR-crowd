@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="24463884">
+  <sentence id="24463884.s0" text="Fundus imaging demonstrated that R172W mice developed severe clinical signs of disease nearly identical to those seen in human MD patients, including retinal degeneration, retinal pigment epithlium (carbohydrate metabolic process) defects and loss of the choriocapillaris.">
+    <entity charOffset="150-170" id="24463884.s0.e0" ontology_id="HP_0000546" text="retinal degeneration" type="HP"/>
+    <entity charOffset="199-229" id="24463884.s0.e1" ontology_id="GO_0005975" text="carbohydrate metabolic process" type="GO"/>
+    <pair e1="24463884.s0.e0" e2="24463884.s0.e1" id="24463884.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="24463884.s1" text="Mutations in the photoreceptor tetraspanin gene peripherin-2/retinal degeneration slow (PRPH2/RDS) cause both mitotic cell cycle checkpoint- and cone-dominant diseases.">
+    <entity charOffset="61-81" id="24463884.s1.e0" ontology_id="HP_0000546" text="retinal degeneration" type="HP"/>
+    <entity charOffset="110-139" id="24463884.s1.e1" ontology_id="GO_0007093" text="mitotic cell cycle checkpoint" type="GO"/>
+  </sentence>
+</document>

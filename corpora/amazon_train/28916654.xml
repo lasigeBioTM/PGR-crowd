@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<document id="28916654">
+  <sentence id="28916654.s0" text="production of siRNA involved in RNA interference is an RNase III endoribonuclease central to miRNA biogenesis, and germline &lt;i&gt;DICER1&lt;/i&gt; mutations result in a cancer predisposition syndrome, associated with an increased risk of many tumor types.">
+    <entity charOffset="0-48" id="28916654.s0.e0" ontology_id="GO_0030422" text="production of siRNA involved in RNA interference" type="GO"/>
+    <entity charOffset="160-166" id="28916654.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="234-239" id="28916654.s0.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28916654.s0.e0" e2="28916654.s0.e1" id="28916654.s0.p0" relation="true"/>
+    <pair e1="28916654.s0.e0" e2="28916654.s0.e2" id="28916654.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="28916654.s1" text="Angiosarcomas in &lt;i&gt;aP2-Cre;production of siRNA involved in RNA interference&lt;sup&gt;Flox/-&lt;/sup&gt;&lt;/i&gt; epidermis development histologically and genetically resemble human angiosarcoma.">
+    <entity charOffset="5-12" id="28916654.s1.e0" ontology_id="HP_0100242" text="sarcoma" type="HP"/>
+    <entity charOffset="28-76" id="28916654.s1.e1" ontology_id="GO_0030422" text="production of siRNA involved in RNA interference" type="GO"/>
+    <entity charOffset="98-119" id="28916654.s1.e2" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="166-178" id="28916654.s1.e3" ontology_id="HP_0200058" text="angiosarcoma" type="HP"/>
+    <pair e1="28916654.s1.e0" e2="28916654.s1.e1" id="28916654.s1.p0" relation="true"/>
+    <pair e1="28916654.s1.e1" e2="28916654.s1.e3" id="28916654.s1.p1" relation="true"/>
+  </sentence>
+  <sentence id="28916654.s2" text="These studies illustrate that production of siRNA involved in RNA interference can function as a traditional loss-of-function tumor suppressor gene, and they provide a fully penetrant animal model for the study of angiosarcoma development and metastasis.">
+    <entity charOffset="30-78" id="28916654.s2.e0" ontology_id="GO_0030422" text="production of siRNA involved in RNA interference" type="GO"/>
+    <entity charOffset="214-226" id="28916654.s2.e1" ontology_id="HP_0200058" text="angiosarcoma" type="HP"/>
+    <pair e1="28916654.s2.e0" e2="28916654.s2.e1" id="28916654.s2.p0" relation="true"/>
+  </sentence>
+</document>

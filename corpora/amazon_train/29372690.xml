@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<document id="29372690">
+  <sentence id="29372690.s0" text="This study aims to determine the association between activation of MAPK activity (rs4415084 C&amp;gt;T), positive regulation of cell proliferation (rs2981582 C&amp;gt;T) and cellular response to mechanical stimulus (rs889312 A&amp;gt;C) gene polymorphisms and breast cancer, to analyse the discriminative ability of each SNP and to test the accuracy of the predictive breast cancer risk model which includes all SNPs.">
+    <entity charOffset="53-80" id="29372690.s0.e0" ontology_id="GO_0000187" text="activation of MAPK activity" type="GO"/>
+    <entity charOffset="101-142" id="29372690.s0.e1" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <entity charOffset="166-206" id="29372690.s0.e2" ontology_id="GO_0071260" text="cellular response to mechanical stimulus" type="GO"/>
+    <entity charOffset="255-261" id="29372690.s0.e3" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29372690.s0.e0" e2="29372690.s0.e3" id="29372690.s0.p0" relation="true"/>
+    <pair e1="29372690.s0.e1" e2="29372690.s0.e3" id="29372690.s0.p1" relation="true"/>
+    <pair e1="29372690.s0.e2" e2="29372690.s0.e3" id="29372690.s0.p2" relation="true"/>
+  </sentence>
+  <sentence id="29372690.s1" text="The Random Forest algorithm selected positive regulation of cell proliferation, MAP3K1 and age as important breast cancer predictors.">
+    <entity charOffset="37-78" id="29372690.s1.e0" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <entity charOffset="115-121" id="29372690.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29372690.s1.e0" e2="29372690.s1.e1" id="29372690.s1.p0" relation="true"/>
+  </sentence>
+</document>

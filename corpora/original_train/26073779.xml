@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="26073779">
+  <sentence id="26073779.s0" text="Primary ciliary dyskinesia (motile cilium assembly) is a rare autosomal-recessive condition resulting from structural and/or functional defects of the axoneme in motile cilia and sperm flagella.">
+    <entity charOffset="8-26" id="26073779.s0.e0" ontology_id="HP_0012265" text="ciliary dyskinesia" type="HP"/>
+    <entity charOffset="28-50" id="26073779.s0.e1" ontology_id="GO_0044458" text="motile cilium assembly" type="GO"/>
+    <pair e1="26073779.s0.e0" e2="26073779.s0.e1" id="26073779.s0.p0" relation="true"/>
+  </sentence>
+</document>

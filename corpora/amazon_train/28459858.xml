@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<document id="28459858">
+  <sentence id="28459858.s0" text="Liposarcoma is an often positive regulation of cell-matrix adhesional cancer of fat cells.">
+    <entity charOffset="24-67" id="28459858.s0.e0" ontology_id="GO_0001954" text="positive regulation of cell-matrix adhesion" type="GO"/>
+    <entity charOffset="70-76" id="28459858.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+  </sentence>
+  <sentence id="28459858.s1" text="All DAKO epidermis development developed liposarcoma between 11 and 14 months of age.">
+    <entity charOffset="9-30" id="28459858.s1.e0" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="41-52" id="28459858.s1.e1" ontology_id="HP_0012034" text="liposarcoma" type="HP"/>
+  </sentence>
+  <sentence id="28459858.s2" text="Similar changes of negative regulation of cytokine production and G0S2 expression were present in a human liposarcoma database.">
+    <entity charOffset="19-61" id="28459858.s2.e0" ontology_id="GO_0001818" text="negative regulation of cytokine production" type="GO"/>
+    <entity charOffset="106-117" id="28459858.s2.e1" ontology_id="HP_0012034" text="liposarcoma" type="HP"/>
+    <pair e1="28459858.s2.e0" e2="28459858.s2.e1" id="28459858.s2.p0" relation="true"/>
+  </sentence>
+  <sentence id="28459858.s3" text="These results show that a previously-unknown, fully penetrant epistatic interaction between negative regulation of sequestering of triglyceride and lipid catabolic process can cause liposarcoma in mice.">
+    <entity charOffset="92-143" id="28459858.s3.e0" ontology_id="GO_0010891" text="negative regulation of sequestering of triglyceride" type="GO"/>
+    <entity charOffset="148-171" id="28459858.s3.e1" ontology_id="GO_0016042" text="lipid catabolic process" type="GO"/>
+    <entity charOffset="182-193" id="28459858.s3.e2" ontology_id="HP_0012034" text="liposarcoma" type="HP"/>
+    <pair e1="28459858.s3.e0" e2="28459858.s3.e2" id="28459858.s3.p0" relation="true"/>
+    <pair e1="28459858.s3.e1" e2="28459858.s3.e2" id="28459858.s3.p1" relation="true"/>
+  </sentence>
+</document>

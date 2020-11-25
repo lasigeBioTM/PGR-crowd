@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29618761">
+  <sentence id="29618761.s0" text="A novel mutation of an essential splice site in the C19orf70 gene encoding cristae formation induces severe mitochondrial encephalopathy, hepatopathy and lactate acidosis consistent with psychomotor retardation.">
+    <entity charOffset="75-92" id="29618761.s0.e0" ontology_id="GO_0042407" text="cristae formation" type="GO"/>
+    <entity charOffset="122-136" id="29618761.s0.e1" ontology_id="HP_0001298" text="encephalopathy" type="HP"/>
+    <pair e1="29618761.s0.e0" e2="29618761.s0.e1" id="29618761.s0.p0" relation="true"/>
+  </sentence>
+</document>

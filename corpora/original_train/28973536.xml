@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<document id="28973536">
+  <sentence id="28973536.s0" text="However, the inherent susceptibility of these tissues to mitochondrial respiratory chain complex IV assembly mutations and the clinical heterogeneity observed across SCO1 pedigrees remain poorly understood phenomena.">
+    <entity charOffset="57-108" id="28973536.s0.e0" ontology_id="GO_0033617" text="mitochondrial respiratory chain complex IV assembly" type="GO"/>
+    <entity charOffset="136-149" id="28973536.s0.e1" ontology_id="HP_0001425" text="heterogeneity" type="HP"/>
+    <pair e1="28973536.s0.e0" e2="28973536.s0.e1" id="28973536.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28973536.s1" text="Lethality was observed in both models due to a combined generation of precursor metabolites and energy and copper deficiency that resulted in a dilated cardiomyopathy.">
+    <entity charOffset="56-102" id="28973536.s1.e0" ontology_id="GO_0006091" text="generation of precursor metabolites and energy" type="GO"/>
+    <entity charOffset="152-166" id="28973536.s1.e1" ontology_id="HP_0001638" text="cardiomyopathy" type="HP"/>
+    <pair e1="28973536.s1.e0" e2="28973536.s1.e1" id="28973536.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="28973536.s2" text="copper ion transport was similarly mislocalized to the cytosol in the heart of knockin epidermis development carrying a homozygous G115S substitution in mitochondrial respiratory chain complex IV assembly, which in humans causes a hypertrophic cardiomyopathy.">
+    <entity charOffset="0-20" id="28973536.s2.e0" ontology_id="GO_0006825" text="copper ion transport" type="GO"/>
+    <entity charOffset="87-108" id="28973536.s2.e1" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="153-204" id="28973536.s2.e2" ontology_id="GO_0033617" text="mitochondrial respiratory chain complex IV assembly" type="GO"/>
+    <entity charOffset="244-258" id="28973536.s2.e3" ontology_id="HP_0001638" text="cardiomyopathy" type="HP"/>
+    <pair e1="28973536.s2.e0" e2="28973536.s2.e3" id="28973536.s2.p0" relation="false"/>
+    <pair e1="28973536.s2.e1" e2="28973536.s2.e3" id="28973536.s2.p1" relation="false"/>
+    <pair e1="28973536.s2.e2" e2="28973536.s2.e3" id="28973536.s2.p2" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="29518248">
+  <sentence id="29518248.s0" text="Recessively inherited, pathogenic defects in cellular response to oxidative stress have been previously reported to underlie cerebral, ocular, dental, auricular and skeletal anomalies (CODAS) syndrome, a complex multisystemic and developmental disorder.">
+    <entity charOffset="45-82" id="29518248.s0.e0" ontology_id="GO_0034599" text="cellular response to oxidative stress" type="GO"/>
+    <entity charOffset="165-183" id="29518248.s0.e1" ontology_id="HP_0000924" text="skeletal anomalies" type="HP"/>
+    <pair e1="29518248.s0.e0" e2="29518248.s0.e1" id="29518248.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29518248.s1" text="We have applied whole exome sequencing to a patient with congenital lactic acidosis, muscle weakness, profound deficiencies in mitochondrial oxidative phosphorylation associated with loss of mtDNA copy number and MRI abnormalities consistent with Leigh syndrome, identifying biallelic variants in the cellular response to oxidative stress (NM_004793.3) gene; c.1693T &amp;gt; C predicting p.(Tyr565His) and c.2197G &amp;gt; A predicting p.(Glu733Lys); no evidence of the classical skeletal or dental defects observed in CODAS syndrome patients were noted in our patient.">
+    <entity charOffset="75-83" id="29518248.s1.e0" ontology_id="HP_0001941" text="acidosis" type="HP"/>
+    <entity charOffset="301-338" id="29518248.s1.e1" ontology_id="GO_0034599" text="cellular response to oxidative stress" type="GO"/>
+    <pair e1="29518248.s1.e0" e2="29518248.s1.e1" id="29518248.s1.p0" relation="true"/>
+  </sentence>
+</document>

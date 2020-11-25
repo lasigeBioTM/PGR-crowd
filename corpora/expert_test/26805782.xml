@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="26805782">
+  <sentence id="26805782.s0" text="By exome sequencing, we identified three different bi-allelic truncating mutations in biological_process in three unrelated individuals with infancy-onset episodic metabolic crises characterized by encephalopathy, hypoglycemia, rhabdomyolysis, arrhythmias, and laboratory findings suggestive of a defect in mitochondrial fatty acid oxidation.">
+    <entity charOffset="86-104" id="26805782.s0.e0" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="198-212" id="26805782.s0.e1" ontology_id="HP_0001298" text="encephalopathy" type="HP"/>
+    <pair e1="26805782.s0.e0" e2="26805782.s0.e1" id="26805782.s0.p0" relation="true"/>
+  </sentence>
+</document>

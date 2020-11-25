@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<document id="29179176">
+  <sentence id="29179176.s0" text="Affected patients suffer from a progressive movement disorder including chorea, parkinsonism, dystonia, tongue protrusion, dysarthria, dysphagia, tongue and nuclear-transcribed mRNA catabolic process, nonsense-mediated decay biting, gait impairment, progressive distal muscle wasting, weakness, epileptic seizures, cognitive impairment, and behavioral changes.">
+    <entity charOffset="44-61" id="29179176.s0.e0" ontology_id="HP_0100022" text="movement disorder" type="HP"/>
+    <entity charOffset="94-102" id="29179176.s0.e1" ontology_id="HP_0001332" text="dystonia" type="HP"/>
+    <entity charOffset="104-121" id="29179176.s0.e2" ontology_id="HP_0010808" text="tongue protrusion" type="HP"/>
+    <entity charOffset="135-144" id="29179176.s0.e3" ontology_id="HP_0002015" text="dysphagia" type="HP"/>
+    <entity charOffset="157-224" id="29179176.s0.e4" ontology_id="GO_0000184" text="nuclear-transcribed mRNA catabolic process, nonsense-mediated decay" type="GO"/>
+    <pair e1="29179176.s0.e1" e2="29179176.s0.e4" id="29179176.s0.p0" relation="false"/>
+  </sentence>
+</document>

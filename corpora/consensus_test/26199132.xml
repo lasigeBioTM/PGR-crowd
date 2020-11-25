@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="26199132">
+  <sentence id="26199132.s0" text="Our study shows that in neuroblastomas, negative regulation of transcription by RNA polymerase II- or negative regulation of DNA replication-based PI provides valuable prognostic information and high PI indicates aggressive disease">
+    <entity charOffset="24-38" id="26199132.s0.e0" ontology_id="HP_0003006" text="neuroblastomas" type="HP"/>
+    <entity charOffset="40-97" id="26199132.s0.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="102-140" id="26199132.s0.e2" ontology_id="GO_0008156" text="negative regulation of DNA replication" type="GO"/>
+    <pair e1="26199132.s0.e0" e2="26199132.s0.e2" id="26199132.s0.p0" relation="false"/>
+    <pair e1="26199132.s0.e0" e2="26199132.s0.e1" id="26199132.s0.p1" relation="false"/>
+  </sentence>
+</document>

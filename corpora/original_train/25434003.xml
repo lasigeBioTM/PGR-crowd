@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="25434003">
+  <sentence id="25434003.s0" text="This rare condition is characterized by bilateral choanal atresia, hearing loss, cleft nuclear-transcribed mRNA catabolic process, nonsense-mediated decay and/or palate, and other craniofacial dysmorphisms.">
+    <entity charOffset="40-49" id="25434003.s0.e0" ontology_id="HP_0012832" text="bilateral" type="HP"/>
+    <entity charOffset="50-65" id="25434003.s0.e1" ontology_id="HP_0000453" text="choanal atresia" type="HP"/>
+    <entity charOffset="67-79" id="25434003.s0.e2" ontology_id="HP_0000365" text="hearing loss" type="HP"/>
+    <entity charOffset="87-154" id="25434003.s0.e3" ontology_id="GO_0000184" text="nuclear-transcribed mRNA catabolic process, nonsense-mediated decay" type="GO"/>
+    <pair e1="25434003.s0.e0" e2="25434003.s0.e3" id="25434003.s0.p0" relation="false"/>
+    <pair e1="25434003.s0.e1" e2="25434003.s0.e3" id="25434003.s0.p1" relation="false"/>
+    <pair e1="25434003.s0.e2" e2="25434003.s0.e3" id="25434003.s0.p2" relation="false"/>
+  </sentence>
+</document>

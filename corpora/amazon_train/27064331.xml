@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="27064331">
+  <sentence id="27064331.s0" text="Chudley-McCullough syndrome (actin filament organization) is a rare autosomal recessive disorder characterized by sensorineural deafness, agenesis of the corpus callosum, frontal polymicrogyria, interhemispheric cyst, and ventricular enlargement.">
+    <entity charOffset="29-56" id="27064331.s0.e0" ontology_id="GO_0007015" text="actin filament organization" type="GO"/>
+    <entity charOffset="128-136" id="27064331.s0.e1" ontology_id="HP_0000365" text="deafness" type="HP"/>
+    <entity charOffset="138-169" id="27064331.s0.e2" ontology_id="HP_0001274" text="agenesis of the corpus callosum" type="HP"/>
+  </sentence>
+  <sentence id="27064331.s1" text="The combination of sensorineural hearing loss and partial agenesis of the corpus callosum is a highly recognizable clinico-radiological entity that should prompt mutational analysis of the establishment of mitotic spindle orientation gene.">
+    <entity charOffset="33-45" id="27064331.s1.e0" ontology_id="HP_0000365" text="hearing loss" type="HP"/>
+    <entity charOffset="189-233" id="27064331.s1.e1" ontology_id="GO_0000132" text="establishment of mitotic spindle orientation" type="GO"/>
+    <pair e1="27064331.s1.e0" e2="27064331.s1.e1" id="27064331.s1.p0" relation="true"/>
+  </sentence>
+</document>

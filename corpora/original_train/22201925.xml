@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<document id="22201925">
+  <sentence id="22201925.s0" text="Until recently, four loci (purine nucleobase metabolic process, DFN3, DFN4, and striated muscle contraction) had been implicated in nonsyndromic X-linked hearing loss; however, a new classification (DFNX1-5) has been proposed to reduce confusion in the terminology.">
+    <entity charOffset="27-62" id="22201925.s0.e0" ontology_id="GO_0006144" text="purine nucleobase metabolic process" type="GO"/>
+    <entity charOffset="80-107" id="22201925.s0.e1" ontology_id="GO_0006941" text="striated muscle contraction" type="GO"/>
+    <entity charOffset="154-166" id="22201925.s0.e2" ontology_id="HP_0000365" text="hearing loss" type="HP"/>
+    <pair e1="22201925.s0.e0" e2="22201925.s0.e2" id="22201925.s0.p0" relation="true"/>
+    <pair e1="22201925.s0.e1" e2="22201925.s0.e2" id="22201925.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="22201925.s1" text="In addition to the cochlea morphogenesis gene, which was the first gene identified as causing nonsyndromic X-linked hearing loss, a second gene, purine nucleobase metabolic process, has recently been identified to be the causative gene of purine nucleobase metabolic process (purine nucleobase metabolic process).">
+    <entity charOffset="19-40" id="22201925.s1.e0" ontology_id="GO_0090103" text="cochlea morphogenesis" type="GO"/>
+    <entity charOffset="116-128" id="22201925.s1.e1" ontology_id="HP_0000365" text="hearing loss" type="HP"/>
+    <entity charOffset="145-180" id="22201925.s1.e2" ontology_id="GO_0006144" text="purine nucleobase metabolic process" type="GO"/>
+    <entity charOffset="239-274" id="22201925.s1.e3" ontology_id="GO_0006144" text="purine nucleobase metabolic process" type="GO"/>
+    <entity charOffset="276-311" id="22201925.s1.e4" ontology_id="GO_0006144" text="purine nucleobase metabolic process" type="GO"/>
+    <pair e1="22201925.s1.e0" e2="22201925.s1.e1" id="22201925.s1.p0" relation="true"/>
+    <pair e1="22201925.s1.e1" e2="22201925.s1.e4" id="22201925.s1.p1" relation="true"/>
+    <pair e1="22201925.s1.e1" e2="22201925.s1.e2" id="22201925.s1.p2" relation="true"/>
+    <pair e1="22201925.s1.e1" e2="22201925.s1.e3" id="22201925.s1.p3" relation="true"/>
+  </sentence>
+</document>

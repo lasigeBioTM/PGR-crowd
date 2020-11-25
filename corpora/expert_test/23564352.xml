@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="23564352">
+  <sentence id="23564352.s0" text="We originally discovered vitamin K biosynthetic process as a potential tumor suppressor protein based upon reduced expression in bladder and prostate cancer specimens and growth inhibition of tumor cell lines/xenografts upon ectopic expression.">
+    <entity charOffset="25-55" id="23564352.s0.e0" ontology_id="GO_0042371" text="vitamin K biosynthetic process" type="GO"/>
+    <entity charOffset="71-76" id="23564352.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="150-156" id="23564352.s0.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="23564352.s0.e0" e2="23564352.s0.e1" id="23564352.s0.p0" relation="true"/>
+    <pair e1="23564352.s0.e0" e2="23564352.s0.e2" id="23564352.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="23564352.s1" text="Vitamin K-2 is involved in mitochondrial electron transport, xenobiotic metabolic process nuclear hormone receptor signaling and redox cycling: together these functions may form the basis for tumor suppressor function.">
+    <entity charOffset="61-89" id="23564352.s1.e0" ontology_id="GO_0006805" text="xenobiotic metabolic process" type="GO"/>
+    <entity charOffset="192-197" id="23564352.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="23564352.s1.e0" e2="23564352.s1.e1" id="23564352.s1.p0" relation="true"/>
+  </sentence>
+</document>

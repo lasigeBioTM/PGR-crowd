@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29559246">
+  <sentence id="29559246.s0" text="The tumor cells with immunoreactivity to CK7, CK19, Cam5.2, COX2, EMA, protein polyubiquitination, MOC-31 and AE1/AE3, supported a diagnosis of intrahepatic cholangiocarcinoma.">
+    <entity charOffset="4-9" id="29559246.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="71-97" id="29559246.s0.e1" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <pair e1="29559246.s0.e0" e2="29559246.s0.e1" id="29559246.s0.p0" relation="true"/>
+  </sentence>
+</document>

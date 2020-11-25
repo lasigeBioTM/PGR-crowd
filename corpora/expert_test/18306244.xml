@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="18306244">
+  <sentence id="18306244.s0" text="Mutation analysis of the mitochondrial respiratory chain complex I assembly is warranted in isolated complex I deficiency presenting with infantile lactic acidemia or encephalocardiomyopathy">
+    <entity charOffset="25-75" id="18306244.s0.e0" ontology_id="GO_0032981" text="mitochondrial respiratory chain complex I assembly" type="GO"/>
+    <entity charOffset="148-163" id="18306244.s0.e1" ontology_id="HP_0003128" text="lactic acidemia" type="HP"/>
+    <pair e1="18306244.s0.e0" e2="18306244.s0.e1" id="18306244.s0.p0" relation="true"/>
+  </sentence>
+</document>

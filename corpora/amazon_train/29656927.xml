@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<document id="29656927">
+  <sentence id="29656927.s0" text="The PCH1sub-muscle organ developments with early death (between ages 1 day and 17 months), seen in patients with p.G31A/rRNA processing or mitochondrial membrane fission mutations have a spliceosomal snRNP assembly type 1-like clinical presentation but with global developmental delay, visual and hearing impairment, with or without microcephaly, nystagmus and optic atrophy.">
+    <entity charOffset="12-36" id="29656927.s0.e0" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="120-135" id="29656927.s0.e1" ontology_id="GO_0006364" text="rRNA processing" type="GO"/>
+    <entity charOffset="139-169" id="29656927.s0.e2" ontology_id="GO_0090149" text="mitochondrial membrane fission" type="GO"/>
+    <entity charOffset="187-214" id="29656927.s0.e3" ontology_id="GO_0000387" text="spliceosomal snRNP assembly" type="GO"/>
+    <entity charOffset="265-284" id="29656927.s0.e4" ontology_id="HP_0001263" text="developmental delay" type="HP"/>
+    <entity charOffset="297-315" id="29656927.s0.e5" ontology_id="HP_0000365" text="hearing impairment" type="HP"/>
+    <entity charOffset="333-345" id="29656927.s0.e6" ontology_id="HP_0000252" text="microcephaly" type="HP"/>
+    <entity charOffset="361-374" id="29656927.s0.e7" ontology_id="HP_0000648" text="optic atrophy" type="HP"/>
+    <pair e1="29656927.s0.e0" e2="29656927.s0.e4" id="29656927.s0.p0" relation="false"/>
+    <pair e1="29656927.s0.e1" e2="29656927.s0.e4" id="29656927.s0.p1" relation="true"/>
+    <pair e1="29656927.s0.e1" e2="29656927.s0.e5" id="29656927.s0.p2" relation="true"/>
+    <pair e1="29656927.s0.e2" e2="29656927.s0.e4" id="29656927.s0.p3" relation="true"/>
+    <pair e1="29656927.s0.e2" e2="29656927.s0.e5" id="29656927.s0.p4" relation="true"/>
+    <pair e1="29656927.s0.e2" e2="29656927.s0.e7" id="29656927.s0.p5" relation="true"/>
+    <pair e1="29656927.s0.e3" e2="29656927.s0.e6" id="29656927.s0.p6" relation="true"/>
+    <pair e1="29656927.s0.e3" e2="29656927.s0.e7" id="29656927.s0.p7" relation="true"/>
+  </sentence>
+  <sentence id="29656927.s1" text="Mutations with milder presentation (homozygous p.D132A/rRNA processing or VRK1) may display additionally signs of upper motor neuron impairment, dystonia or ataxia and die at age between 5 and 18 years.">
+    <entity charOffset="55-70" id="29656927.s1.e0" ontology_id="GO_0006364" text="rRNA processing" type="GO"/>
+    <entity charOffset="157-163" id="29656927.s1.e1" ontology_id="HP_0001251" text="ataxia" type="HP"/>
+    <pair e1="29656927.s1.e0" e2="29656927.s1.e1" id="29656927.s1.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="25398945">
+  <sentence id="25398945.s0" text="Leber congenital amaurosis (LCA) and juvenile retinitis pigmentosa (biological_process) are severe hereditary diseases that causes visual impairment in infants and children.">
+    <entity charOffset="68-86" id="25398945.s0.e0" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="131-148" id="25398945.s0.e1" ontology_id="HP_0000505" text="visual impairment" type="HP"/>
+    <pair e1="25398945.s0.e0" e2="25398945.s0.e1" id="25398945.s0.p0" relation="false"/>
+  </sentence>
+</document>

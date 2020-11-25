@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="20507343">
+  <sentence id="20507343.s0" text="This study doubles the number of known mutations for this disorder, confirms that truncating mutations in post-translational protein modification are the only known cause of WSS, and suggests that mutations in this gene do not contribute significantly to cases presenting with isolated elements of WSS such as deafness and dystonia.">
+    <entity charOffset="106-145" id="20507343.s0.e0" ontology_id="GO_0043687" text="post-translational protein modification" type="GO"/>
+    <entity charOffset="310-318" id="20507343.s0.e1" ontology_id="HP_0000365" text="deafness" type="HP"/>
+    <entity charOffset="323-331" id="20507343.s0.e2" ontology_id="HP_0001332" text="dystonia" type="HP"/>
+    <pair e1="20507343.s0.e0" e2="20507343.s0.e1" id="20507343.s0.p0" relation="false"/>
+    <pair e1="20507343.s0.e0" e2="20507343.s0.e2" id="20507343.s0.p1" relation="true"/>
+  </sentence>
+</document>

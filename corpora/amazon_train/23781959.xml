@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<document id="23781959">
+  <sentence id="23781959.s0" text="Autosomal recessive CMT cases are generally characterized by earlier onset, usually before the age of 2 or 3 years, and rapid clinical progression that results in severe polyneuropathy and more marked distal limb deformities such as maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA) equino-varus, claw-like hands, and often major spinal deformities.">
+    <entity charOffset="174-184" id="23781959.s0.e0" ontology_id="HP_0009830" text="neuropathy" type="HP"/>
+    <entity charOffset="233-321" id="23781959.s0.e1" ontology_id="GO_0000463" text="maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)" type="GO"/>
+  </sentence>
+  <sentence id="23781959.s1" text="Recent clinical, morphological and molecular investigations of CMT families with autosomal recessive inheritance allowed the identification of many genes such as mitochondrial fission, phosphatidylinositol dephosphorylation, myelination, DNA damage response, signal transduction by p53 class mediator, EGR2, SH3TC2, response to oxidative stress, cytoskeleton organization, and phosphatidylinositol biosynthetic process, implicated in demyelinating forms (ARCMT1 or mitochondrial fission), and positive regulation of cell aging, regulation of transcription by RNA polymerase II, purine ribonucleotide catabolic process, GDAP1, protein polyubiquitination, neurofilament bundle assembly, regulation of protein phosphorylation and protein targeting to mitochondrion in axonal forms (ARCMT2).">
+    <entity charOffset="81-100" id="23781959.s1.e0" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="101-112" id="23781959.s1.e1" ontology_id="HP_0000005" text="inheritance" type="HP"/>
+    <entity charOffset="162-183" id="23781959.s1.e2" ontology_id="GO_0000266" text="mitochondrial fission" type="GO"/>
+    <entity charOffset="185-223" id="23781959.s1.e3" ontology_id="GO_0046856" text="phosphatidylinositol dephosphorylation" type="GO"/>
+    <entity charOffset="225-236" id="23781959.s1.e4" ontology_id="GO_0042552" text="myelination" type="GO"/>
+    <entity charOffset="238-300" id="23781959.s1.e5" ontology_id="GO_0030330" text="DNA damage response, signal transduction by p53 class mediator" type="GO"/>
+    <entity charOffset="316-344" id="23781959.s1.e6" ontology_id="GO_0006979" text="response to oxidative stress" type="GO"/>
+    <entity charOffset="346-371" id="23781959.s1.e7" ontology_id="GO_0007010" text="cytoskeleton organization" type="GO"/>
+    <entity charOffset="377-418" id="23781959.s1.e8" ontology_id="GO_0006661" text="phosphatidylinositol biosynthetic process" type="GO"/>
+    <entity charOffset="465-486" id="23781959.s1.e9" ontology_id="GO_0000266" text="mitochondrial fission" type="GO"/>
+    <entity charOffset="493-526" id="23781959.s1.e10" ontology_id="GO_0090343" text="positive regulation of cell aging" type="GO"/>
+    <entity charOffset="528-576" id="23781959.s1.e11" ontology_id="GO_0006357" text="regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="578-617" id="23781959.s1.e12" ontology_id="GO_0009154" text="purine ribonucleotide catabolic process" type="GO"/>
+    <entity charOffset="626-652" id="23781959.s1.e13" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="654-683" id="23781959.s1.e14" ontology_id="GO_0033693" text="neurofilament bundle assembly" type="GO"/>
+    <entity charOffset="685-722" id="23781959.s1.e15" ontology_id="GO_0001932" text="regulation of protein phosphorylation" type="GO"/>
+    <entity charOffset="727-761" id="23781959.s1.e16" ontology_id="GO_0006626" text="protein targeting to mitochondrion" type="GO"/>
+    <pair e1="23781959.s1.e0" e2="23781959.s1.e2" id="23781959.s1.p0" relation="true"/>
+    <pair e1="23781959.s1.e0" e2="23781959.s1.e3" id="23781959.s1.p1" relation="true"/>
+    <pair e1="23781959.s1.e0" e2="23781959.s1.e4" id="23781959.s1.p2" relation="true"/>
+    <pair e1="23781959.s1.e0" e2="23781959.s1.e5" id="23781959.s1.p3" relation="true"/>
+    <pair e1="23781959.s1.e0" e2="23781959.s1.e6" id="23781959.s1.p4" relation="false"/>
+    <pair e1="23781959.s1.e0" e2="23781959.s1.e7" id="23781959.s1.p5" relation="true"/>
+    <pair e1="23781959.s1.e0" e2="23781959.s1.e8" id="23781959.s1.p6" relation="true"/>
+    <pair e1="23781959.s1.e0" e2="23781959.s1.e10" id="23781959.s1.p7" relation="false"/>
+    <pair e1="23781959.s1.e0" e2="23781959.s1.e12" id="23781959.s1.p8" relation="true"/>
+    <pair e1="23781959.s1.e0" e2="23781959.s1.e13" id="23781959.s1.p9" relation="true"/>
+    <pair e1="23781959.s1.e0" e2="23781959.s1.e15" id="23781959.s1.p10" relation="true"/>
+    <pair e1="23781959.s1.e0" e2="23781959.s1.e16" id="23781959.s1.p11" relation="false"/>
+    <pair e1="23781959.s1.e1" e2="23781959.s1.e2" id="23781959.s1.p12" relation="true"/>
+    <pair e1="23781959.s1.e1" e2="23781959.s1.e3" id="23781959.s1.p13" relation="false"/>
+    <pair e1="23781959.s1.e1" e2="23781959.s1.e5" id="23781959.s1.p14" relation="true"/>
+    <pair e1="23781959.s1.e1" e2="23781959.s1.e6" id="23781959.s1.p15" relation="true"/>
+    <pair e1="23781959.s1.e1" e2="23781959.s1.e9" id="23781959.s1.p16" relation="false"/>
+    <pair e1="23781959.s1.e1" e2="23781959.s1.e11" id="23781959.s1.p17" relation="true"/>
+    <pair e1="23781959.s1.e1" e2="23781959.s1.e12" id="23781959.s1.p18" relation="true"/>
+    <pair e1="23781959.s1.e1" e2="23781959.s1.e13" id="23781959.s1.p19" relation="true"/>
+    <pair e1="23781959.s1.e1" e2="23781959.s1.e16" id="23781959.s1.p20" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="27000805">
+  <sentence id="27000805.s0" text="We presented the significant clinical heterogeneity among three Chinese late-onset fatty acid beta-oxidation using acyl-CoA dehydrogenase patients with similar ETFDH genotype by collecting clinical information, muscle histology, and genetic analysis.">
+    <entity charOffset="38-51" id="27000805.s0.e0" ontology_id="HP_0001425" text="heterogeneity" type="HP"/>
+    <entity charOffset="83-137" id="27000805.s0.e1" ontology_id="GO_0033539" text="fatty acid beta-oxidation using acyl-CoA dehydrogenase" type="GO"/>
+  </sentence>
+</document>

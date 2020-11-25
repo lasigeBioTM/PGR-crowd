@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<document id="27819674">
+  <sentence id="27819674.s0" text="Metaplastic breast carcinoma is an aggressive form of invasive breast cancer with histological evidence of epithelial to mesenchymal transition (cytokine production).">
+    <entity charOffset="12-28" id="27819674.s0.e0" ontology_id="HP_0003002" text="breast carcinoma" type="HP"/>
+    <entity charOffset="145-164" id="27819674.s0.e1" ontology_id="GO_0001816" text="cytokine production" type="GO"/>
+    <pair e1="27819674.s0.e0" e2="27819674.s0.e1" id="27819674.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="27819674.s1" text="Here we show that regulation of mitochondrial membrane potential (regulation of mitochondrial membrane potential), a secreted matricellular protein of the CCN (CYR61/CTGF/NOV) family, is significantly downregulated in clinical samples of human spindle cell metaplastic breast carcinoma.">
+    <entity charOffset="18-64" id="27819674.s1.e0" ontology_id="GO_0051881" text="regulation of mitochondrial membrane potential" type="GO"/>
+    <entity charOffset="66-112" id="27819674.s1.e1" ontology_id="GO_0051881" text="regulation of mitochondrial membrane potential" type="GO"/>
+    <entity charOffset="269-285" id="27819674.s1.e2" ontology_id="HP_0003002" text="breast carcinoma" type="HP"/>
+    <pair e1="27819674.s1.e0" e2="27819674.s1.e2" id="27819674.s1.p0" relation="true"/>
+    <pair e1="27819674.s1.e1" e2="27819674.s1.e2" id="27819674.s1.p1" relation="true"/>
+  </sentence>
+  <sentence id="27819674.s2" text="regulation of mitochondrial membrane potential&lt;sup&gt;fl/fl&lt;/sup&gt;;MMTV-Cre mice developed invasive high grade mammary carcinomas with bona fide cytokine production, histologically similar to human metaplastic breast carcinomas.">
+    <entity charOffset="0-46" id="27819674.s2.e0" ontology_id="GO_0051881" text="regulation of mitochondrial membrane potential" type="GO"/>
+    <entity charOffset="141-160" id="27819674.s2.e1" ontology_id="GO_0001816" text="cytokine production" type="GO"/>
+    <entity charOffset="206-222" id="27819674.s2.e2" ontology_id="HP_0003002" text="breast carcinoma" type="HP"/>
+    <pair e1="27819674.s2.e0" e2="27819674.s2.e2" id="27819674.s2.p0" relation="true"/>
+  </sentence>
+</document>

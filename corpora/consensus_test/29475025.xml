@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="29475025">
+  <sentence id="29475025.s0" text="In the second example, Mdx epidermis development, a model for Duchenne muscular dystrophy, were intravenously injected with AAV8-BGN.">
+    <entity charOffset="27-48" id="29475025.s0.e0" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="71-89" id="29475025.s0.e1" ontology_id="HP_0003560" text="muscular dystrophy" type="HP"/>
+  </sentence>
+</document>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="25807530">
+  <sentence id="25807530.s0" text="Here we demonstrate association of variants in the mitochondrial asparaginyl-tRNA synthetase asparaginyl-tRNA aminoacylation with human hearing loss and Leigh syndrome.">
+    <entity charOffset="93-124" id="25807530.s0.e0" ontology_id="GO_0006421" text="asparaginyl-tRNA aminoacylation" type="GO"/>
+    <entity charOffset="136-148" id="25807530.s0.e1" ontology_id="HP_0000365" text="hearing loss" type="HP"/>
+    <pair e1="25807530.s0.e0" e2="25807530.s0.e1" id="25807530.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="25807530.s1" text="p.Asn381Ser also disrupts dimerization of asparaginyl-tRNA aminoacylation, while the hearing loss p.Val213Phe variant has no effect on NARS2 oligomerization.">
+    <entity charOffset="42-73" id="25807530.s1.e0" ontology_id="GO_0006421" text="asparaginyl-tRNA aminoacylation" type="GO"/>
+    <entity charOffset="85-97" id="25807530.s1.e1" ontology_id="HP_0000365" text="hearing loss" type="HP"/>
+    <pair e1="25807530.s1.e0" e2="25807530.s1.e1" id="25807530.s1.p0" relation="true"/>
+  </sentence>
+</document>

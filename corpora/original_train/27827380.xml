@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27827380">
+  <sentence id="27827380.s0" text="The reported enamel abnormality in negative regulation of cold-induced thermogenesis mutation carriers could be attributed to a half dose effect of the laminin α3 chain (haploinsufficiency)">
+    <entity charOffset="13-31" id="27827380.s0.e0" ontology_id="HP_0000682" text="enamel abnormality" type="HP"/>
+    <entity charOffset="35-84" id="27827380.s0.e1" ontology_id="GO_0120163" text="negative regulation of cold-induced thermogenesis" type="GO"/>
+    <pair e1="27827380.s0.e0" e2="27827380.s0.e1" id="27827380.s0.p0" relation="false"/>
+  </sentence>
+</document>

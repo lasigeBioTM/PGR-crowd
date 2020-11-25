@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29914902">
+  <sentence id="29914902.s0" text="After 1 year, because of worsening in multicellular organism development orientation and the onset of dressing apraxia, he was referred to our memory clinic.">
+    <entity charOffset="38-72" id="29914902.s0.e0" ontology_id="GO_0007275" text="multicellular organism development" type="GO"/>
+    <entity charOffset="111-118" id="29914902.s0.e1" ontology_id="HP_0002186" text="apraxia" type="HP"/>
+    <pair e1="29914902.s0.e0" e2="29914902.s0.e1" id="29914902.s0.p0" relation="true"/>
+  </sentence>
+</document>

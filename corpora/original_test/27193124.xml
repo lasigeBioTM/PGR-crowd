@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27193124">
+  <sentence id="27193124.s0" text="Here, we have performed a prospective nationwide genetic association study using the Human Exome BeadChip and identified gene variants in encoding dynactin 4 (DCTN4), retinoic acid early transcript 1E (RAET1E), and V-akt murine thymoma viral oncogene homolog 3 (positive regulation of blood vessel endothelial cell migration) to be associated with unfavourable outcome in patients with pneumococcal meningitis.">
+    <entity charOffset="262-324" id="27193124.s0.e0" ontology_id="GO_0043536" text="positive regulation of blood vessel endothelial cell migration" type="GO"/>
+    <entity charOffset="399-409" id="27193124.s0.e1" ontology_id="HP_0001287" text="meningitis" type="HP"/>
+    <pair e1="27193124.s0.e0" e2="27193124.s0.e1" id="27193124.s0.p0" relation="true"/>
+  </sentence>
+</document>

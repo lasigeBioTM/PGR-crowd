@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="29302025">
+  <sentence id="29302025.s0" text="Here, we identify a cause of the autosomal recessive ubiquitin-dependent protein catabolic process class of inborn errors of vitamin B&lt;sub&gt;12&lt;/sub&gt; metabolism that we name &amp;quot;epi-cblC&amp;quot;.">
+    <entity charOffset="33-52" id="29302025.s0.e0" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="53-98" id="29302025.s0.e1" ontology_id="GO_0006511" text="ubiquitin-dependent protein catabolic process" type="GO"/>
+  </sentence>
+</document>

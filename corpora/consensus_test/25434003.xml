@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="25434003">
+  <sentence id="25434003.s0" text="Mutations in components of the major spliceosome have been described in disorders with craniofacial anomalies, e.g., Nager syndrome and mandibulofacial dysostosis muscle organ development Guion-Almeida.">
+    <entity charOffset="136-162" id="25434003.s0.e0" ontology_id="HP_0005321" text="mandibulofacial dysostosis" type="HP"/>
+    <entity charOffset="163-187" id="25434003.s0.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+  </sentence>
+</document>

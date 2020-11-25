@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29207117">
+  <sentence id="29207117.s0" text="positive regulation of vascular endothelial growth factor production expression appeared to be decreased in lung tumor tissue and further downregulated in samples from patients with LNM, and was revealed to be correlated with poor clinical outcome.">
+    <entity charOffset="0-68" id="29207117.s0.e0" ontology_id="GO_0010575" text="positive regulation of vascular endothelial growth factor production" type="GO"/>
+    <entity charOffset="113-118" id="29207117.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29207117.s0.e0" e2="29207117.s0.e1" id="29207117.s0.p0" relation="true"/>
+  </sentence>
+</document>

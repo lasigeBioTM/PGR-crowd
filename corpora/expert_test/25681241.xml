@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="25681241">
+  <sentence id="25681241.s0" text="mitochondrial respiratory chain complex I assembly encodes a complex I-specific assembly factor and mutations in this gene result in complex I deficiency, infantile onset encephalomyopathy and Leigh syndrome.">
+    <entity charOffset="0-50" id="25681241.s0.e0" ontology_id="GO_0032981" text="mitochondrial respiratory chain complex I assembly" type="GO"/>
+    <entity charOffset="155-170" id="25681241.s0.e1" ontology_id="HP_0003593" text="infantile onset" type="HP"/>
+    <pair e1="25681241.s0.e0" e2="25681241.s0.e1" id="25681241.s0.p0" relation="true"/>
+  </sentence>
+</document>

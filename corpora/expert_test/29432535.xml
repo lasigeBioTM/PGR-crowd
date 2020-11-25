@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="29432535">
+  <sentence id="29432535.s0" text="The importance of PKC enzymes in Purkinje neuron health is apparent as mutations in phosphorylation (encoding PKCγ) cause cerebellar ataxia.">
+    <entity charOffset="84-99" id="29432535.s0.e0" ontology_id="GO_0016310" text="phosphorylation" type="GO"/>
+    <entity charOffset="122-139" id="29432535.s0.e1" ontology_id="HP_0001251" text="cerebellar ataxia" type="HP"/>
+    <pair e1="29432535.s0.e0" e2="29432535.s0.e1" id="29432535.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29432535.s1" text="Using mouse models of spinocerebellar ataxia type 1 (negative regulation of transcription, DNA-templated) and 2 (SCA2) we identify an increase in PKC-mediated substrate phosphorylation in two different forms of inherited cerebellar ataxia.">
+    <entity charOffset="27-44" id="29432535.s1.e0" ontology_id="HP_0001251" text="cerebellar ataxia" type="HP"/>
+    <entity charOffset="53-104" id="29432535.s1.e1" ontology_id="GO_0045892" text="negative regulation of transcription, DNA-templated" type="GO"/>
+    <pair e1="29432535.s1.e0" e2="29432535.s1.e1" id="29432535.s1.p0" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="30100722">
+  <sentence id="30100722.s0" text="Some genes, such as GSTM1, negative regulation of transcription, DNA-templated, and CYP1A1, have been shown to be potentially associated with oligospermia; some, such as CATSPER1, CRISP2, positive regulation of protein ubiquitination, biological_process, TEKT4, and DNAH1, with asthenospermia; and still others, such as DPY19L2 and AURKC, with teratospermia.">
+    <entity charOffset="27-78" id="30100722.s0.e0" ontology_id="GO_0045892" text="negative regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="142-154" id="30100722.s0.e1" ontology_id="HP_0000798" text="oligospermia" type="HP"/>
+    <entity charOffset="188-233" id="30100722.s0.e2" ontology_id="GO_0031398" text="positive regulation of protein ubiquitination" type="GO"/>
+    <entity charOffset="235-253" id="30100722.s0.e3" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="344-357" id="30100722.s0.e4" ontology_id="HP_0012864" text="teratospermia" type="HP"/>
+    <pair e1="30100722.s0.e0" e2="30100722.s0.e1" id="30100722.s0.p0" relation="true"/>
+    <pair e1="30100722.s0.e1" e2="30100722.s0.e2" id="30100722.s0.p1" relation="false"/>
+    <pair e1="30100722.s0.e3" e2="30100722.s0.e4" id="30100722.s0.p2" relation="false"/>
+  </sentence>
+</document>

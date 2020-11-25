@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="26777436">
+  <sentence id="26777436.s0" text="To dissect the genetic architecture of sporadic ALS, we undertook a large sequencing study in 755 apparently sporadic ALS cases and 959 controls, analyzing 10 ALS genes: SOD1, negative regulation of protein phosphorylation, TARDBP, FUS, angiogenesis, CHMP2B, ATXN2, NIPA1, SMN1, and UNC13A.">
+    <entity charOffset="39-47" id="26777436.s0.e0" ontology_id="HP_0003745" text="sporadic" type="HP"/>
+    <entity charOffset="176-222" id="26777436.s0.e1" ontology_id="GO_0001933" text="negative regulation of protein phosphorylation" type="GO"/>
+    <entity charOffset="237-249" id="26777436.s0.e2" ontology_id="GO_0001525" text="angiogenesis" type="GO"/>
+    <pair e1="26777436.s0.e0" e2="26777436.s0.e2" id="26777436.s0.p0" relation="true"/>
+    <pair e1="26777436.s0.e0" e2="26777436.s0.e1" id="26777436.s0.p1" relation="true"/>
+  </sentence>
+</document>

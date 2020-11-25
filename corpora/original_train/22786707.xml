@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="22786707">
+  <sentence id="22786707.s0" text="These clinical and imaging findings are unlike that of any recognized severe forms of microcephaly which is believed to be a new microcephalic primordial dwarfism (isoprenoid biosynthetic process) with developmental brain malformations with most probably autosomal recessive inheritance based on consanguinity and similarly affected male and female sibs">
+    <entity charOffset="86-98" id="22786707.s0.e0" ontology_id="HP_0000252" text="microcephaly" type="HP"/>
+    <entity charOffset="164-195" id="22786707.s0.e1" ontology_id="GO_0008299" text="isoprenoid biosynthetic process" type="GO"/>
+    <entity charOffset="255-274" id="22786707.s0.e2" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="275-286" id="22786707.s0.e3" ontology_id="HP_0000005" text="inheritance" type="HP"/>
+    <pair e1="22786707.s0.e0" e2="22786707.s0.e1" id="22786707.s0.p0" relation="false"/>
+    <pair e1="22786707.s0.e1" e2="22786707.s0.e2" id="22786707.s0.p1" relation="false"/>
+    <pair e1="22786707.s0.e1" e2="22786707.s0.e3" id="22786707.s0.p2" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="30150420">
+  <sentence id="30150420.s0" text="There are several genetic mutations that lead to ALS development, such as chromosome 9 hexanucleotide repeat 72 (negative regulation of protein phosphorylation), transactive response DNA-binding protein (RNA splicing), superoxide dismutase 1 (SOD1) and fused in sarcoma (regulation of transcription, DNA-templated).">
+    <entity charOffset="113-159" id="30150420.s0.e0" ontology_id="GO_0001933" text="negative regulation of protein phosphorylation" type="GO"/>
+    <entity charOffset="204-216" id="30150420.s0.e1" ontology_id="GO_0008380" text="RNA splicing" type="GO"/>
+    <entity charOffset="262-269" id="30150420.s0.e2" ontology_id="HP_0100242" text="sarcoma" type="HP"/>
+    <entity charOffset="271-313" id="30150420.s0.e3" ontology_id="GO_0006355" text="regulation of transcription, DNA-templated" type="GO"/>
+    <pair e1="30150420.s0.e0" e2="30150420.s0.e2" id="30150420.s0.p0" relation="false"/>
+    <pair e1="30150420.s0.e1" e2="30150420.s0.e2" id="30150420.s0.p1" relation="true"/>
+    <pair e1="30150420.s0.e2" e2="30150420.s0.e3" id="30150420.s0.p2" relation="true"/>
+  </sentence>
+</document>

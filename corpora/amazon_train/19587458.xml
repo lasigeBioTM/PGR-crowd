@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="19587458">
+  <sentence id="19587458.s0" text="For instance, mutations in both biological_process and visual perception cause cataract in humans.">
+    <entity charOffset="32-50" id="19587458.s0.e0" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="55-72" id="19587458.s0.e1" ontology_id="GO_0007601" text="visual perception" type="GO"/>
+    <entity charOffset="79-87" id="19587458.s0.e2" ontology_id="HP_0000518" text="cataract" type="HP"/>
+    <pair e1="19587458.s0.e0" e2="19587458.s0.e2" id="19587458.s0.p0" relation="true"/>
+    <pair e1="19587458.s0.e1" e2="19587458.s0.e2" id="19587458.s0.p1" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28746897">
+  <sentence id="28746897.s0" text="Here, we show that selective overexpression of the stress protein, heme oxygenase-1 (HO-1) in astrocytes of GFAP.HMOX1 transgenic mice between 8.5 and 19 months of age results in nigrostriatal hypodopaminergia associated with locomotor incoordination and stereotypy; downregulation of tyrosine hydroxylase, DAT, LMX1B, transcription, DNA-templated, Pitx3 and DJ-1 mRNA and/or protein; overproduction of α-synuclein and ubiquitin; oxidative stress; basal ganglia siderosis; mitochondrial damage/mitophagy; and augmented GABAergic systems (increased GABA, GAD67 and reelin).">
+    <entity charOffset="236-250" id="28746897.s0.e0" ontology_id="HP_0002311" text="incoordination" type="HP"/>
+    <entity charOffset="319-347" id="28746897.s0.e1" ontology_id="GO_0006351" text="transcription, DNA-templated" type="GO"/>
+    <pair e1="28746897.s0.e0" e2="28746897.s0.e1" id="28746897.s0.p0" relation="false"/>
+  </sentence>
+</document>

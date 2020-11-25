@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<document id="30275562">
+  <sentence id="30275562.s0" text="In cancer, elevated positive regulation of protein ubiquitination expression has been associated with malignancy, poor prognosis, and treatment resistance.">
+    <entity charOffset="3-9" id="30275562.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="20-65" id="30275562.s0.e1" ontology_id="GO_0031398" text="positive regulation of protein ubiquitination" type="GO"/>
+    <pair e1="30275562.s0.e0" e2="30275562.s0.e1" id="30275562.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="30275562.s1" text="positive regulation of protein ubiquitination has previously been proposed to promote tumor growth through suppression of autophagy.">
+    <entity charOffset="0-45" id="30275562.s1.e0" ontology_id="GO_0031398" text="positive regulation of protein ubiquitination" type="GO"/>
+    <entity charOffset="86-91" id="30275562.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="30275562.s1.e0" e2="30275562.s1.e1" id="30275562.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="30275562.s2" text="In this study, we examined the expression of positive regulation of protein ubiquitination and p62, two critical mediators of autophagy, in breast and colon cancer.">
+    <entity charOffset="45-90" id="30275562.s2.e0" ontology_id="GO_0031398" text="positive regulation of protein ubiquitination" type="GO"/>
+    <entity charOffset="157-163" id="30275562.s2.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30275562.s2.e0" e2="30275562.s2.e1" id="30275562.s2.p0" relation="true"/>
+  </sentence>
+  <sentence id="30275562.s3" text="We observed a negative correlation between positive regulation of protein ubiquitination and p62 expression in normal and cancer tissues of breast and colon, and that the ratio of XIAP and p62 expression determines the cancer phenotype.">
+    <entity charOffset="43-88" id="30275562.s3.e0" ontology_id="GO_0031398" text="positive regulation of protein ubiquitination" type="GO"/>
+    <entity charOffset="122-128" id="30275562.s3.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30275562.s3.e0" e2="30275562.s3.e1" id="30275562.s3.p0" relation="true"/>
+  </sentence>
+</document>

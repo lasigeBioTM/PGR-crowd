@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<document id="29339836">
+  <sentence id="29339836.s0" text="The discovery of mutations in genes encoding the metabolic enzymes isocitrate dehydrogenase (IDH), succinate dehydrogenase (choline catabolic process), and fumarate hydratase (FH) has expanded our understanding not only of altered metabolic pathways but also epigenetic dysregulation in cancer.">
+    <entity charOffset="124-149" id="29339836.s0.e0" ontology_id="GO_0042426" text="choline catabolic process" type="GO"/>
+    <entity charOffset="287-293" id="29339836.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29339836.s0.e0" e2="29339836.s0.e1" id="29339836.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="29339836.s1" text="In contrast, choline catabolic process and FH act as tumor suppressors and genomic inactivation results in succinate and fumarate accumulation, respectively.">
+    <entity charOffset="13-38" id="29339836.s1.e0" ontology_id="GO_0042426" text="choline catabolic process" type="GO"/>
+    <entity charOffset="53-58" id="29339836.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29339836.s1.e0" e2="29339836.s1.e1" id="29339836.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="29339836.s2" text="choline catabolic process deficiency may result from germline SDHA, SDHB, SDHC, or SDHD mutations and is found in autosomal-dominant familial paraganglioma/pheochromocytoma and Carney-Stratakis syndrome, describing the combination of paraganglioma and gastrointestinal stromal tumor (GIST).">
+    <entity charOffset="0-25" id="29339836.s2.e0" ontology_id="GO_0042426" text="choline catabolic process" type="GO"/>
+    <entity charOffset="142-155" id="29339836.s2.e1" ontology_id="HP_0002668" text="paraganglioma" type="HP"/>
+    <entity charOffset="156-172" id="29339836.s2.e2" ontology_id="HP_0002666" text="pheochromocytoma" type="HP"/>
+    <entity charOffset="277-282" id="29339836.s2.e3" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29339836.s2.e0" e2="29339836.s2.e3" id="29339836.s2.p0" relation="false"/>
+    <pair e1="29339836.s2.e0" e2="29339836.s2.e2" id="29339836.s2.p1" relation="false"/>
+    <pair e1="29339836.s2.e0" e2="29339836.s2.e1" id="29339836.s2.p2" relation="false"/>
+  </sentence>
+  <sentence id="29339836.s3" text="In contrast, patients with the non-hereditary Carney triad, including paraganglioma, GIST, and pulmonary chondroma, usually lack germline choline catabolic process mutations and instead show epigenetic SDH complex inactivation through SDHC promoter methylation.">
+    <entity charOffset="70-83" id="29339836.s3.e0" ontology_id="HP_0002668" text="paraganglioma" type="HP"/>
+    <entity charOffset="138-163" id="29339836.s3.e1" ontology_id="GO_0042426" text="choline catabolic process" type="GO"/>
+    <pair e1="29339836.s3.e0" e2="29339836.s3.e1" id="29339836.s3.p0" relation="false"/>
+  </sentence>
+</document>

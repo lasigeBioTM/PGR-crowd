@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28425625">
+  <sentence id="28425625.s0" text="Furthermore, in humans xeroderma pigmentosum complementation group E, a disease characterized by sun sensitivity and increased risk of cutaneous SCC and melanomas, is explained by mutations in protein polyubiquitination.">
+    <entity charOffset="153-162" id="28425625.s0.e0" ontology_id="HP_0002861" text="melanomas" type="HP"/>
+    <entity charOffset="193-219" id="28425625.s0.e1" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <pair e1="28425625.s0.e0" e2="28425625.s0.e1" id="28425625.s0.p0" relation="true"/>
+  </sentence>
+</document>

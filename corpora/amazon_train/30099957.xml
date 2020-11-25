@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="30099957">
+  <sentence id="30099957.s0" text="The mean pulmonary arterial pressure (mPAP), right ventricular hypertrophy index (RVHI), pulmonary vascular remodeling, serum tumor necrosis factor α (TNFα), and interleukin-6 (IL-6) were higher either in SI or in TI 28 and 35 days after the first fatty acid biosynthetic process injection.">
+    <entity charOffset="51-74" id="30099957.s0.e0" ontology_id="HP_0001714" text="ventricular hypertrophy" type="HP"/>
+    <entity charOffset="126-131" id="30099957.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="248-279" id="30099957.s0.e2" ontology_id="GO_0006633" text="fatty acid biosynthetic process" type="GO"/>
+    <pair e1="30099957.s0.e0" e2="30099957.s0.e2" id="30099957.s0.p0" relation="false"/>
+    <pair e1="30099957.s0.e1" e2="30099957.s0.e2" id="30099957.s0.p1" relation="true"/>
+  </sentence>
+</document>

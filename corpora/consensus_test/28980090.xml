@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<document id="28980090">
+  <sentence id="28980090.s0" text="Cases were reviewed for consanguinity, multicellular organism development, age at onset, death, clinical findings (including spasticity, seizures, psychomotor retardation, feeding difficulties, ectopia lentis, microcephaly), laboratory findings [urinary sulfite, S-sulfocysteine (in plasma and urine), plasma cystine, total homocysteine, uric acid, and oxypurines in urine] and radiological findings (including cerebral/cerebellar atrophy, cystic white matter changes, ventriculomegaly).">
+    <entity charOffset="39-73" id="28980090.s0.e0" ontology_id="GO_0007275" text="multicellular organism development" type="GO"/>
+    <entity charOffset="125-135" id="28980090.s0.e1" ontology_id="HP_0001257" text="spasticity" type="HP"/>
+    <entity charOffset="137-145" id="28980090.s0.e2" ontology_id="HP_0001250" text="seizures" type="HP"/>
+    <entity charOffset="194-208" id="28980090.s0.e3" ontology_id="HP_0001083" text="ectopia lentis" type="HP"/>
+  </sentence>
+</document>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<document id="30429449">
+  <sentence id="30429449.s0" text="In these tumors, regulation of cell adhesion gene fusion product provides a constitutively active tyrosine kinase (glucose catabolic process), leading to uncontrolled cellular proliferation, differentiation, and migration.">
+    <entity charOffset="9-15" id="30429449.s0.e0" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <entity charOffset="17-44" id="30429449.s0.e1" ontology_id="GO_0030155" text="regulation of cell adhesion" type="GO"/>
+    <entity charOffset="115-140" id="30429449.s0.e2" ontology_id="GO_0006007" text="glucose catabolic process" type="GO"/>
+    <pair e1="30429449.s0.e0" e2="30429449.s0.e2" id="30429449.s0.p0" relation="true"/>
+    <pair e1="30429449.s0.e0" e2="30429449.s0.e1" id="30429449.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="30429449.s1" text="RESULTS For those 384 cases, 7 (1.82%) cases had tumors with identified regulation of cell adhesion rearrangement.">
+    <entity charOffset="49-55" id="30429449.s1.e0" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <entity charOffset="72-99" id="30429449.s1.e1" ontology_id="GO_0030155" text="regulation of cell adhesion" type="GO"/>
+    <pair e1="30429449.s1.e0" e2="30429449.s1.e1" id="30429449.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="30429449.s2" text="BACKGROUND regulation of cell adhesion rearrangements have been reported in 30% of papillary thyroid carcinomas and 1-2% of non-small cell lung cancer (NSCLC).">
+    <entity charOffset="11-38" id="30429449.s2.e0" ontology_id="GO_0030155" text="regulation of cell adhesion" type="GO"/>
+    <entity charOffset="144-150" id="30429449.s2.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30429449.s2.e0" e2="30429449.s2.e1" id="30429449.s2.p0" relation="false"/>
+  </sentence>
+</document>

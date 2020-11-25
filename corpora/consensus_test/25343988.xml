@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="25343988">
+  <sentence id="25343988.s0" text="In humans, mutations in several genes involved in the Notch pathway are associated with SDV, with both autosomal recessive (regulation of transcription by RNA polymerase II, skeletal system development, LFNG, HES7) and autosomal dominant (negative regulation of transcription by RNA polymerase II) inheritance.">
+    <entity charOffset="103-122" id="25343988.s0.e0" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="124-172" id="25343988.s0.e1" ontology_id="GO_0006357" text="regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="174-201" id="25343988.s0.e2" ontology_id="GO_0001501" text="skeletal system development" type="GO"/>
+    <entity charOffset="239-296" id="25343988.s0.e3" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="25343988.s0.e0" e2="25343988.s0.e1" id="25343988.s0.p0" relation="true"/>
+    <pair e1="25343988.s0.e0" e2="25343988.s0.e3" id="25343988.s0.p1" relation="false"/>
+    <pair e1="25343988.s0.e0" e2="25343988.s0.e2" id="25343988.s0.p2" relation="true"/>
+  </sentence>
+</document>

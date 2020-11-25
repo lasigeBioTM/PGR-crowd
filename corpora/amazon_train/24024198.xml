@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="24024198">
+  <sentence id="24024198.s0" text="Here, we report two novel positive regulation of guanylate cyclase activity (the gene for guanylate cyclase activating protein 1) mutations identified in unrelated Spanish families affected by autosomal dominant retinal degeneration (adRD) with cone and rod involvement.">
+    <entity charOffset="26-75" id="24024198.s0.e0" ontology_id="GO_0031284" text="positive regulation of guanylate cyclase activity" type="GO"/>
+    <entity charOffset="212-232" id="24024198.s0.e1" ontology_id="HP_0000546" text="retinal degeneration" type="HP"/>
+    <pair e1="24024198.s0.e0" e2="24024198.s0.e1" id="24024198.s0.p0" relation="true"/>
+  </sentence>
+</document>

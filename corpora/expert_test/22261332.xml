@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="22261332">
+  <sentence id="22261332.s0" text="We found that the expression level of Chmp1A is significantly lower in response to hydroperoxide tissues and renal tumor cells compared with adjacent non-tumorous tissues and normal renal cells.">
+    <entity charOffset="71-96" id="22261332.s0.e0" ontology_id="GO_0033194" text="response to hydroperoxide" type="GO"/>
+    <entity charOffset="115-120" id="22261332.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="22261332.s0.e0" e2="22261332.s0.e1" id="22261332.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="22261332.s1" text="Additionally, inhibition of mitotic chromosome condensation expression by shRNA induced tumor formation in normal renal cells.">
+    <entity charOffset="28-59" id="22261332.s1.e0" ontology_id="GO_0007076" text="mitotic chromosome condensation" type="GO"/>
+    <entity charOffset="88-93" id="22261332.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="22261332.s1.e0" e2="22261332.s1.e1" id="22261332.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="22261332.s2" text="However, inhibition of mitotic chromosome condensation did not significantly affect tumor cell proliferation in vitro and tumor progression in vivo.">
+    <entity charOffset="23-54" id="22261332.s2.e0" ontology_id="GO_0007076" text="mitotic chromosome condensation" type="GO"/>
+    <entity charOffset="84-89" id="22261332.s2.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="22261332.s2.e0" e2="22261332.s2.e1" id="22261332.s2.p0" relation="true"/>
+  </sentence>
+</document>

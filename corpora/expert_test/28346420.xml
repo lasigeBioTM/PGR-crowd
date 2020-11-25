@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="28346420">
+  <sentence id="28346420.s0" text="Bio-functional investigation revealed that sequestering of TGFbeta in extracellular matrix inhibited cell proliferation in HCC cell lines, suggesting its potential role as a tumor suppressor in HCC.">
+    <entity charOffset="43-90" id="28346420.s0.e0" ontology_id="GO_0035583" text="sequestering of TGFbeta in extracellular matrix" type="GO"/>
+    <entity charOffset="174-179" id="28346420.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28346420.s0.e0" e2="28346420.s0.e1" id="28346420.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28346420.s1" text="Reduced representation bisulfite sequencing (RRBS) and gene expression microarrays were performed in the HCC tumor and non-HCC liver tissues to investigate the molecular mechanisms of generation of precursor metabolites and energy-2-driven HCC.">
+    <entity charOffset="109-114" id="28346420.s1.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="184-230" id="28346420.s1.e1" ontology_id="GO_0006091" text="generation of precursor metabolites and energy" type="GO"/>
+    <pair e1="28346420.s1.e0" e2="28346420.s1.e1" id="28346420.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="28346420.s2" text="In conclusion, this study demonstrated for the first time that enhanced COX-2 expression in hepatocytes is sufficient to induce HCC through inducing promoter hypermethylation by reducing positive regulation of cell proliferation, silencing tumor-suppressive genes and activating key oncogenic pathways.">
+    <entity charOffset="187-228" id="28346420.s2.e0" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <entity charOffset="240-245" id="28346420.s2.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28346420.s2.e0" e2="28346420.s2.e1" id="28346420.s2.p0" relation="true"/>
+  </sentence>
+</document>

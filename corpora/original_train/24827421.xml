@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<document id="24827421">
+  <sentence id="24827421.s0" text="By way of whole-exome sequencing, we identified a homozygous missense mutation in tRNA aminoacylation for protein translation in one subject with microcephaly and epilepsy associated with isolated deficiency of the mitochondrial respiratory chain (negative regulation of NF-kappaB transcription factor activity) complex I and compound heterozygous mutations in mitochondrial threonyl-tRNA aminoacylation in two siblings presenting with axial hypotonia and severe psychomotor delay associated with multiple MRC defects.">
+    <entity charOffset="82-125" id="24827421.s0.e0" ontology_id="GO_0006418" text="tRNA aminoacylation for protein translation" type="GO"/>
+    <entity charOffset="146-158" id="24827421.s0.e1" ontology_id="HP_0000252" text="microcephaly" type="HP"/>
+    <entity charOffset="163-171" id="24827421.s0.e2" ontology_id="HP_0001250" text="epilepsy" type="HP"/>
+    <entity charOffset="215-228" id="24827421.s0.e3" ontology_id="HP_0001427" text="mitochondrial" type="HP"/>
+    <entity charOffset="248-310" id="24827421.s0.e4" ontology_id="GO_0032088" text="negative regulation of NF-kappaB transcription factor activity" type="GO"/>
+    <entity charOffset="361-403" id="24827421.s0.e5" ontology_id="GO_0070159" text="mitochondrial threonyl-tRNA aminoacylation" type="GO"/>
+    <entity charOffset="436-441" id="24827421.s0.e6" ontology_id="HP_0025287" text="axial" type="HP"/>
+    <pair e1="24827421.s0.e0" e2="24827421.s0.e1" id="24827421.s0.p0" relation="false"/>
+    <pair e1="24827421.s0.e0" e2="24827421.s0.e2" id="24827421.s0.p1" relation="true"/>
+    <pair e1="24827421.s0.e0" e2="24827421.s0.e6" id="24827421.s0.p2" relation="false"/>
+    <pair e1="24827421.s0.e0" e2="24827421.s0.e3" id="24827421.s0.p3" relation="false"/>
+    <pair e1="24827421.s0.e1" e2="24827421.s0.e4" id="24827421.s0.p4" relation="false"/>
+    <pair e1="24827421.s0.e1" e2="24827421.s0.e5" id="24827421.s0.p5" relation="false"/>
+    <pair e1="24827421.s0.e2" e2="24827421.s0.e4" id="24827421.s0.p6" relation="false"/>
+    <pair e1="24827421.s0.e2" e2="24827421.s0.e5" id="24827421.s0.p7" relation="false"/>
+    <pair e1="24827421.s0.e3" e2="24827421.s0.e4" id="24827421.s0.p8" relation="false"/>
+    <pair e1="24827421.s0.e3" e2="24827421.s0.e5" id="24827421.s0.p9" relation="false"/>
+    <pair e1="24827421.s0.e4" e2="24827421.s0.e6" id="24827421.s0.p10" relation="false"/>
+    <pair e1="24827421.s0.e5" e2="24827421.s0.e6" id="24827421.s0.p11" relation="false"/>
+  </sentence>
+  <sentence id="24827421.s1" text="Expression of the corresponding wild-type transcripts in immortalized mutant fibroblasts rescued the biochemical impairment of mitochondrial respiration and yeast modeling of the tRNA aminoacylation for protein translation mutation confirmed its pathogenic role.">
+    <entity charOffset="127-140" id="24827421.s1.e0" ontology_id="HP_0001427" text="mitochondrial" type="HP"/>
+    <entity charOffset="179-222" id="24827421.s1.e1" ontology_id="GO_0006418" text="tRNA aminoacylation for protein translation" type="GO"/>
+    <pair e1="24827421.s1.e0" e2="24827421.s1.e1" id="24827421.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="24827421.s2" text="Our study reports the first mutations in the tRNA aminoacylation for protein translation and mitochondrial threonyl-tRNA aminoacylation genes, which encode two mitochondrial aminoacyl-tRNA synthetases, as causes of clinically distinct, early-onset mitochondrial encephalopathies.">
+    <entity charOffset="45-88" id="24827421.s2.e0" ontology_id="GO_0006418" text="tRNA aminoacylation for protein translation" type="GO"/>
+    <entity charOffset="93-135" id="24827421.s2.e1" ontology_id="GO_0070159" text="mitochondrial threonyl-tRNA aminoacylation" type="GO"/>
+    <entity charOffset="262-278" id="24827421.s2.e2" ontology_id="HP_0001298" text="encephalopathies" type="HP"/>
+    <pair e1="24827421.s2.e0" e2="24827421.s2.e2" id="24827421.s2.p0" relation="false"/>
+    <pair e1="24827421.s2.e1" e2="24827421.s2.e2" id="24827421.s2.p1" relation="false"/>
+  </sentence>
+</document>

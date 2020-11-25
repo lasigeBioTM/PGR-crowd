@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="30342424">
+  <sentence id="30342424.s0" text="Their phosphorylation activity has also linked them to the development of neurodegenerative diseases like Alzheimer's disease, amyotrophic lateral sclerosis or spinocerebellar ataxia muscle organ development 11.">
+    <entity charOffset="74-100" id="30342424.s0.e0" ontology_id="HP_0002180" text="neurodegenerative diseases" type="HP"/>
+    <entity charOffset="176-182" id="30342424.s0.e1" ontology_id="HP_0001251" text="ataxia" type="HP"/>
+    <entity charOffset="183-207" id="30342424.s0.e2" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <pair e1="30342424.s0.e1" e2="30342424.s0.e2" id="30342424.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="30342424.s1" text="The final analysis of all this information led us to propose peptidyl-serine phosphorylation as a new target for the treatment of neurodegenerative diseases and its selective inhibitors as potential effective drugs for the treatment of these severe unmet disorders">
+    <entity charOffset="61-92" id="30342424.s1.e0" ontology_id="GO_0018105" text="peptidyl-serine phosphorylation" type="GO"/>
+    <entity charOffset="130-156" id="30342424.s1.e1" ontology_id="HP_0002180" text="neurodegenerative diseases" type="HP"/>
+    <pair e1="30342424.s1.e0" e2="30342424.s1.e1" id="30342424.s1.p0" relation="true"/>
+  </sentence>
+</document>

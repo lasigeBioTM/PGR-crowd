@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="29801756">
+  <sentence id="29801756.s0" text="Recently, mutations of biological_process gene were reported to be associated with early-onset parkinsonism, progressive neurodevelopmental delay, and dystonia in several unrelated pedigrees.">
+    <entity charOffset="23-41" id="29801756.s0.e0" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="95-107" id="29801756.s0.e1" ontology_id="HP_0001300" text="parkinsonism" type="HP"/>
+    <entity charOffset="121-145" id="29801756.s0.e2" ontology_id="HP_0012758" text="neurodevelopmental delay" type="HP"/>
+    <pair e1="29801756.s0.e0" e2="29801756.s0.e1" id="29801756.s0.p0" relation="true"/>
+    <pair e1="29801756.s0.e0" e2="29801756.s0.e2" id="29801756.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="29801756.s1" text="This study aimed to evaluate biological_process coding mutations in sporadic Chinese Han patients with Parkinson's disease (PD) and test whether an age-of-onset effect exists.">
+    <entity charOffset="29-47" id="29801756.s1.e0" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="68-76" id="29801756.s1.e1" ontology_id="HP_0003745" text="sporadic" type="HP"/>
+    <pair e1="29801756.s1.e0" e2="29801756.s1.e1" id="29801756.s1.p0" relation="true"/>
+  </sentence>
+</document>

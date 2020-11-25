@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="25645914">
+  <sentence id="25645914.s0" text="In this study, differences in prolyl 3-hydroxylation were screened in eye tissues from P3h2-null (P3h2(n/n)) and wild-muscle organ development mice to seek tissue-specific effects due the lack of P3H2 activity on post-translational collagen chemistry that could explain myopia.">
+    <entity charOffset="118-142" id="25645914.s0.e0" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="270-276" id="25645914.s0.e1" ontology_id="HP_0000545" text="myopia" type="HP"/>
+  </sentence>
+</document>

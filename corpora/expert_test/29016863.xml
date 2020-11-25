@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29016863">
+  <sentence id="29016863.s0" text="Our findings enlarge the spectrum of tubulinopathies and emphasize that mutations of biological_process should be considered in patients with congenital non-progressive facial palsy.">
+    <entity charOffset="85-103" id="29016863.s0.e0" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="169-181" id="29016863.s0.e1" ontology_id="HP_0010628" text="facial palsy" type="HP"/>
+    <pair e1="29016863.s0.e0" e2="29016863.s0.e1" id="29016863.s0.p0" relation="true"/>
+  </sentence>
+</document>

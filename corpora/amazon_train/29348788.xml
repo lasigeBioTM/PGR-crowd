@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<document id="29348788">
+  <sentence id="29348788.s0" text="We investigated the possible association between chemoresistance and cellular redox state regulation in patients undergoing neoadjuvant chemotherapy (citrate transport) for breast cancer.">
+    <entity charOffset="150-167" id="29348788.s0.e0" ontology_id="GO_0015746" text="citrate transport" type="GO"/>
+    <entity charOffset="180-186" id="29348788.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+  </sentence>
+  <sentence id="29348788.s1" text="In total, 53 women with primarily inoperable or inflammatory breast cancer who were treated with citrate transport were included in the study.">
+    <entity charOffset="68-74" id="29348788.s1.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="97-114" id="29348788.s1.e1" ontology_id="GO_0015746" text="citrate transport" type="GO"/>
+    <pair e1="29348788.s1.e0" e2="29348788.s1.e1" id="29348788.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="29348788.s2" text="Pre-NACT core needle biopsies and postoperative tumor samples were immunohistochemically stained for nuclear factor erythroid 2-related factor 2 (Nrf2), Kelch-like ECH-associated protein 1 (Keap1), thioredoxin (response to radiation), and peroxiredoxin I (response to oxidative stress I).">
+    <entity charOffset="48-53" id="29348788.s2.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="211-232" id="29348788.s2.e1" ontology_id="GO_0009314" text="response to radiation" type="GO"/>
+    <entity charOffset="256-284" id="29348788.s2.e2" ontology_id="GO_0006979" text="response to oxidative stress" type="GO"/>
+    <pair e1="29348788.s2.e0" e2="29348788.s2.e1" id="29348788.s2.p0" relation="true"/>
+    <pair e1="29348788.s2.e0" e2="29348788.s2.e2" id="29348788.s2.p1" relation="true"/>
+  </sentence>
+  <sentence id="29348788.s3" text="Higher pre-NACT nuclear response to oxidative stress I expression predicted smaller size of a resected tumor (&lt;i&gt;p&lt;/i&gt; = 0.00052; &lt;i&gt;r&lt;/i&gt; = -0.550), and higher pre-NACT cytoplasmic Prx I expression predicted a lower amount of evacuated positive regulation of cysteine-type endopeptidase activity involved in apoptotic process metastasis (&lt;i&gt;p&lt;/i&gt; = 0.0024; &lt;i&gt;r&lt;/i&gt; = -0.472).">
+    <entity charOffset="24-52" id="29348788.s3.e0" ontology_id="GO_0006979" text="response to oxidative stress" type="GO"/>
+    <entity charOffset="103-108" id="29348788.s3.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="237-326" id="29348788.s3.e2" ontology_id="GO_0043280" text="positive regulation of cysteine-type endopeptidase activity involved in apoptotic process" type="GO"/>
+    <pair e1="29348788.s3.e0" e2="29348788.s3.e1" id="29348788.s3.p0" relation="true"/>
+  </sentence>
+</document>

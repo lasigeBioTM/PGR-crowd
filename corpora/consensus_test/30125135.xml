@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<document id="30125135">
+  <sentence id="30125135.s0" text="In addition, reduced hair follicles (HFs) while the enlarged and increased number of sebaceous glands (cell adhesion mediated by integrin) were also found in the anatomical structure morphogenesis&lt;sup&gt;-/-&lt;/sup&gt; rabbits, showing that the disrupted balance between HFs and SGs may respond to hypotrichosis of ECTD-9 in an animal model and clinically.">
+    <entity charOffset="103-137" id="30125135.s0.e0" ontology_id="GO_0033627" text="cell adhesion mediated by integrin" type="GO"/>
+    <entity charOffset="162-196" id="30125135.s0.e1" ontology_id="GO_0009653" text="anatomical structure morphogenesis" type="GO"/>
+    <entity charOffset="290-303" id="30125135.s0.e2" ontology_id="HP_0001006" text="hypotrichosis" type="HP"/>
+    <pair e1="30125135.s0.e0" e2="30125135.s0.e2" id="30125135.s0.p0" relation="false"/>
+    <pair e1="30125135.s0.e1" e2="30125135.s0.e2" id="30125135.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="30125135.s1" text="Pure hair and natural killer cell activation involved in immune response ectodermal dysplasia 9 (ECTD-9) is an autosomal recessive genetic disease caused by mutation of HOXC13 and is characterized by hypotrichosis and nail dystrophy in humans.">
+    <entity charOffset="14-72" id="30125135.s1.e0" ontology_id="GO_0002323" text="natural killer cell activation involved in immune response" type="GO"/>
+    <entity charOffset="200-213" id="30125135.s1.e1" ontology_id="HP_0001006" text="hypotrichosis" type="HP"/>
+  </sentence>
+  <sentence id="30125135.s2" text="Unlike patients with ECTD-9, Hoxc13-mutated epidermis development and pigs do not faithfully recapitulate the phenotype of hypotrichosis, so there is a limited understanding of the molecular mechanism of Hoxc13-mediated hypotrichosis in animal models and clinically.">
+    <entity charOffset="44-65" id="30125135.s2.e0" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="123-136" id="30125135.s2.e1" ontology_id="HP_0001006" text="hypotrichosis" type="HP"/>
+  </sentence>
+  <sentence id="30125135.s3" text="Here, the homozygous anatomical structure morphogenesis&lt;sup&gt;-/-&lt;/sup&gt; rabbits showed complete loss of hair on the head and dorsum, whereas hypotrichosis in the limbs and tail were determined in the Hoxc13&lt;sup&gt;-/-&lt;/sup&gt; rabbits.">
+    <entity charOffset="21-55" id="30125135.s3.e0" ontology_id="GO_0009653" text="anatomical structure morphogenesis" type="GO"/>
+    <entity charOffset="139-152" id="30125135.s3.e1" ontology_id="HP_0001006" text="hypotrichosis" type="HP"/>
+    <pair e1="30125135.s3.e0" e2="30125135.s3.e1" id="30125135.s3.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30386297">
+  <sentence id="30386297.s0" text="Since wonegative regulation of phosphatase activity with breast cancer and men and women with other disorders are often treated with androgen catabolic process inhibitors (AI), these populations might be especially vulnerable to cognitive deficits due to low neuroE2 synthesis, i.e., synthesis of E2 directly within the brain.">
+    <entity charOffset="8-51" id="30386297.s0.e0" ontology_id="GO_0010923" text="negative regulation of phosphatase activity" type="GO"/>
+    <entity charOffset="64-70" id="30386297.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="133-159" id="30386297.s0.e2" ontology_id="GO_0006710" text="androgen catabolic process" type="GO"/>
+  </sentence>
+</document>

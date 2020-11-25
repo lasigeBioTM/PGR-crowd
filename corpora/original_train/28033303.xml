@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28033303">
+  <sentence id="28033303.s0" text="The results imply that variants associated with prostate cancer can be identified through expressional change in the protein targeting to peroxisome gene, but not in the overlapped glycine N-methyltransferase gene which had been considered as a candidate gene.Further studies are required to understand their underlying mechanisms for the strong eQTLs for the SNHG5 and PEX6 genes">
+    <entity charOffset="57-63" id="28033303.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="117-148" id="28033303.s0.e1" ontology_id="GO_0006625" text="protein targeting to peroxisome" type="GO"/>
+    <pair e1="28033303.s0.e0" e2="28033303.s0.e1" id="28033303.s0.p0" relation="false"/>
+  </sentence>
+</document>

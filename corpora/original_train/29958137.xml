@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<document id="29958137">
+  <sentence id="29958137.s0" text="Salivary gland tumor (ubiquitin-dependent ERAD pathway) is a rare tumor muscle organ development, which exhibits broad-spectrum phenotypic, biological, and clinical heterogeneity.">
+    <entity charOffset="15-20" id="29958137.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="22-54" id="29958137.s0.e1" ontology_id="GO_0030433" text="ubiquitin-dependent ERAD pathway" type="GO"/>
+    <entity charOffset="72-96" id="29958137.s0.e2" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="165-178" id="29958137.s0.e3" ontology_id="HP_0001425" text="heterogeneity" type="HP"/>
+    <pair e1="29958137.s0.e0" e2="29958137.s0.e1" id="29958137.s0.p0" relation="false"/>
+    <pair e1="29958137.s0.e1" e2="29958137.s0.e3" id="29958137.s0.p1" relation="false"/>
+    <pair e1="29958137.s0.e2" e2="29958137.s0.e3" id="29958137.s0.p2" relation="false"/>
+  </sentence>
+  <sentence id="29958137.s1" text="We have deleted two major tumor suppressors, negative regulation of protein phosphorylation, a negative regulator of the PI3K pathway, and transforming growth factor beta receptor signaling pathway, the central signaling mediator of TGFβ pathway, in the murine salivary gland.">
+    <entity charOffset="26-31" id="29958137.s1.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="45-91" id="29958137.s1.e1" ontology_id="GO_0001933" text="negative regulation of protein phosphorylation" type="GO"/>
+    <entity charOffset="139-197" id="29958137.s1.e2" ontology_id="GO_0007179" text="transforming growth factor beta receptor signaling pathway" type="GO"/>
+    <pair e1="29958137.s1.e0" e2="29958137.s1.e1" id="29958137.s1.p0" relation="true"/>
+    <pair e1="29958137.s1.e0" e2="29958137.s1.e2" id="29958137.s1.p1" relation="true"/>
+  </sentence>
+  <sentence id="29958137.s2" text="Our results have shown that deletion of either negative regulation of protein phosphorylation or transforming growth factor beta receptor signaling pathway in murine salivary gland resulted in pleomorphic adenomas, the most common tumor in human SGT patients.">
+    <entity charOffset="47-93" id="29958137.s2.e0" ontology_id="GO_0001933" text="negative regulation of protein phosphorylation" type="GO"/>
+    <entity charOffset="97-155" id="29958137.s2.e1" ontology_id="GO_0007179" text="transforming growth factor beta receptor signaling pathway" type="GO"/>
+    <entity charOffset="231-236" id="29958137.s2.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29958137.s2.e0" e2="29958137.s2.e2" id="29958137.s2.p0" relation="true"/>
+    <pair e1="29958137.s2.e1" e2="29958137.s2.e2" id="29958137.s2.p1" relation="true"/>
+  </sentence>
+</document>

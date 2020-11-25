@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29142187">
+  <sentence id="29142187.s0" text="In Japan, 26 mutations in the endoplasmic reticulum calcium ion homeostasis gene in 7 pedigrees and 19 sporadic cases with DD have been reported, among which one pedigree and one sporadic case were accompanied by neuropsychiatric symptoms.">
+    <entity charOffset="30-75" id="29142187.s0.e0" ontology_id="GO_0032469" text="endoplasmic reticulum calcium ion homeostasis" type="GO"/>
+    <entity charOffset="103-111" id="29142187.s0.e1" ontology_id="HP_0003745" text="sporadic" type="HP"/>
+    <pair e1="29142187.s0.e0" e2="29142187.s0.e1" id="29142187.s0.p0" relation="true"/>
+  </sentence>
+</document>

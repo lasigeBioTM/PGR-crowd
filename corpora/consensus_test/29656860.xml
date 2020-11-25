@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29656860">
+  <sentence id="29656860.s0" text="Clinical features of affected individuals with LGD variants in N-terminal protein amino acid acetylation include variable levels of intellectual disability, delayed speech and motor milestones, and autism spectrum disorder.">
+    <entity charOffset="63-104" id="29656860.s0.e0" ontology_id="GO_0006474" text="N-terminal protein amino acid acetylation" type="GO"/>
+    <entity charOffset="132-155" id="29656860.s0.e1" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <pair e1="29656860.s0.e0" e2="29656860.s0.e1" id="29656860.s0.p0" relation="true"/>
+  </sentence>
+</document>

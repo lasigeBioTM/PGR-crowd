@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28294290">
+  <sentence id="28294290.s0" text="ME attenuated the influence of APOB rs512535 and negative regulation of transcription by RNA polymerase II rs361525 on obesity risk in FMP.">
+    <entity charOffset="49-106" id="28294290.s0.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="119-126" id="28294290.s0.e1" ontology_id="HP_0001513" text="obesity" type="HP"/>
+    <pair e1="28294290.s0.e0" e2="28294290.s0.e1" id="28294290.s0.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="28690391">
+  <sentence id="28690391.s0" text="ADP transport is one of the nuclear genes responsible of autosomal dominant progressive external ophthalmoplegia (adPEO) with mitochondrial DNA multiple deletions.">
+    <entity charOffset="0-13" id="28690391.s0.e0" ontology_id="GO_0015866" text="ADP transport" type="GO"/>
+    <entity charOffset="76-87" id="28690391.s0.e1" ontology_id="HP_0003676" text="progressive" type="HP"/>
+    <entity charOffset="97-112" id="28690391.s0.e2" ontology_id="HP_0000602" text="ophthalmoplegia" type="HP"/>
+    <pair e1="28690391.s0.e0" e2="28690391.s0.e1" id="28690391.s0.p0" relation="true"/>
+    <pair e1="28690391.s0.e0" e2="28690391.s0.e2" id="28690391.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="28690391.s1" text="Further studies are needed to assess the prevalence of central neurological manifestations in ADP transport mitochondrial disease">
+    <entity charOffset="55-62" id="28690391.s1.e0" ontology_id="HP_0030645" text="central" type="HP"/>
+    <entity charOffset="94-107" id="28690391.s1.e1" ontology_id="GO_0015866" text="ADP transport" type="GO"/>
+    <pair e1="28690391.s1.e0" e2="28690391.s1.e1" id="28690391.s1.p0" relation="false"/>
+  </sentence>
+</document>

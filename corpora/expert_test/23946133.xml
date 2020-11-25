@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="23946133">
+  <sentence id="23946133.s0" text="Mutations in photoreceptor cell maintenance are a rare cause of childhood retinal dystrophy accounting for ∼2% of disease in this cohort, and the majority of LCA5 mutations are likely null.">
+    <entity charOffset="13-43" id="23946133.s0.e0" ontology_id="GO_0045494" text="photoreceptor cell maintenance" type="GO"/>
+    <entity charOffset="74-91" id="23946133.s0.e1" ontology_id="HP_0000556" text="retinal dystrophy" type="HP"/>
+    <pair e1="23946133.s0.e0" e2="23946133.s0.e1" id="23946133.s0.p0" relation="true"/>
+  </sentence>
+</document>

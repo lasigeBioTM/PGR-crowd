@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29096595">
+  <sentence id="29096595.s0" text="In addition, regulation of phosphate transport suppresses proximal tubular expression of 1α-hydroxylase, the key enzyme responsible for vitamin D hormone production.">
+    <entity charOffset="13-46" id="29096595.s0.e0" ontology_id="GO_0010966" text="regulation of phosphate transport" type="GO"/>
+    <entity charOffset="58-66" id="29096595.s0.e1" ontology_id="HP_0012840" text="proximal" type="HP"/>
+    <pair e1="29096595.s0.e0" e2="29096595.s0.e1" id="29096595.s0.p0" relation="true"/>
+  </sentence>
+</document>

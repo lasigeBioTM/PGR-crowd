@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30531685">
+  <sentence id="30531685.s0" text="MATERIAL AND METHODS The proliferation of prostate cancer cells was determined by neuron migration-8 assay.">
+    <entity charOffset="51-57" id="30531685.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="82-98" id="30531685.s0.e1" ontology_id="GO_0001764" text="neuron migration" type="GO"/>
+    <pair e1="30531685.s0.e0" e2="30531685.s0.e1" id="30531685.s0.p0" relation="true"/>
+  </sentence>
+</document>

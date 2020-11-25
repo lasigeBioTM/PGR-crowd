@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<document id="30065108">
+  <sentence id="30065108.s0" text="positive regulation of lamellipodium assembly, one of the chloride transport characterized G protein-coupled receptor signaling pathway GTPases, is an established effector of receptors and an important node in signaling networks crucial for tumorigenesis and metastasis.">
+    <entity charOffset="0-45" id="30065108.s0.e0" ontology_id="GO_0010592" text="positive regulation of lamellipodium assembly" type="GO"/>
+    <entity charOffset="58-76" id="30065108.s0.e1" ontology_id="GO_0006821" text="chloride transport" type="GO"/>
+    <entity charOffset="91-135" id="30065108.s0.e2" ontology_id="GO_0007186" text="G protein-coupled receptor signaling pathway" type="GO"/>
+    <entity charOffset="241-246" id="30065108.s0.e3" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="30065108.s0.e0" e2="30065108.s0.e3" id="30065108.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="30065108.s1" text="positive regulation of lamellipodium assembly hyperactivation is common in human cancer and could be the consequence of overexpression, abnormal upstream inputs, deregulated degradation, and/or anomalous intracellular localization.">
+    <entity charOffset="0-45" id="30065108.s1.e0" ontology_id="GO_0010592" text="positive regulation of lamellipodium assembly" type="GO"/>
+    <entity charOffset="81-87" id="30065108.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30065108.s1.e0" e2="30065108.s1.e1" id="30065108.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="30065108.s2" text="More recently, cancer-associated gain-of-function mutations in positive regulation of lamellipodium assembly have been identified which contribute to tumor phenotypes and confer resistance to targeted therapies.">
+    <entity charOffset="15-21" id="30065108.s2.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="63-108" id="30065108.s2.e1" ontology_id="GO_0010592" text="positive regulation of lamellipodium assembly" type="GO"/>
+    <entity charOffset="150-155" id="30065108.s2.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="30065108.s2.e0" e2="30065108.s2.e1" id="30065108.s2.p0" relation="true"/>
+    <pair e1="30065108.s2.e1" e2="30065108.s2.e2" id="30065108.s2.p1" relation="true"/>
+  </sentence>
+  <sentence id="30065108.s3" text="Translating our extensive knowledge in positive regulation of protein phosphorylation pathway biochemistry into a clinical setting still remains a major challenge; nonetheless, remarkable opportunities for cancer therapeutics arise from promising lead compounds targeting Rac and its effectors">
+    <entity charOffset="39-85" id="30065108.s3.e0" ontology_id="GO_0001934" text="positive regulation of protein phosphorylation" type="GO"/>
+    <entity charOffset="206-212" id="30065108.s3.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30065108.s3.e0" e2="30065108.s3.e1" id="30065108.s3.p0" relation="true"/>
+  </sentence>
+</document>

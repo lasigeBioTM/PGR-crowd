@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="28470677">
+  <sentence id="28470677.s0" text="Additional validation efforts and functional studies are warranted to demonstrate whether negative regulation of translational initiation is a novel tumor suppressor gene and a potential therapeutic target for pancreatic cancer">
+    <entity charOffset="90-137" id="28470677.s0.e0" ontology_id="GO_0045947" text="negative regulation of translational initiation" type="GO"/>
+    <entity charOffset="149-154" id="28470677.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28470677.s0.e0" e2="28470677.s0.e1" id="28470677.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="28470677.s1" text="In a two-stage study, we analyzed the existing genome-wide association study dataset of 868 pancreatic cancer patients from MD Anderson Cancer Center in relation to overall survival using generation of precursor metabolites and energy regression.">
+    <entity charOffset="103-109" id="28470677.s1.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="188-234" id="28470677.s1.e1" ontology_id="GO_0006091" text="generation of precursor metabolites and energy" type="GO"/>
+  </sentence>
+</document>

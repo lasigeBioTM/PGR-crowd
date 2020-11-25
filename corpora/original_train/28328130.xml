@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<document id="28328130">
+  <sentence id="28328130.s0" text="Auriculocondylar syndrome, mainly characterized by micrognathia, small mandibular condyle, and question protein phosphorylation prolyl-tRNA aminoacylation, is a rare disease segregating in an autosomal dominant pattern in the majority of the families reported in the literature.">
+    <entity charOffset="51-63" id="28328130.s0.e0" ontology_id="HP_0000347" text="micrognathia" type="HP"/>
+    <entity charOffset="65-89" id="28328130.s0.e1" ontology_id="HP_0007628" text="small mandibular condyle" type="HP"/>
+    <entity charOffset="104-127" id="28328130.s0.e2" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <entity charOffset="128-154" id="28328130.s0.e3" ontology_id="GO_0006433" text="prolyl-tRNA aminoacylation" type="GO"/>
+    <pair e1="28328130.s0.e0" e2="28328130.s0.e2" id="28328130.s0.p0" relation="false"/>
+    <pair e1="28328130.s0.e1" e2="28328130.s0.e2" id="28328130.s0.p1" relation="false"/>
+    <pair e1="28328130.s0.e1" e2="28328130.s0.e3" id="28328130.s0.p2" relation="false"/>
+  </sentence>
+  <sentence id="28328130.s1" text="In order to address these questions, we searched for alterations in PLCB4, GNAI3, and negative regulation of transcription by RNA polymerase II in patients with typical Auriculocondylar syndrome (n = 3), Pierre Robin sequence-plus (n = 3), micrognathia with additional craniofacial malformations (n = 4), or non-specific auricular dysplasia (n = 1), which could represent subtypes of Auriculocondylar syndrome.">
+    <entity charOffset="86-143" id="28328130.s1.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="240-252" id="28328130.s1.e1" ontology_id="HP_0000347" text="micrognathia" type="HP"/>
+    <pair e1="28328130.s1.e0" e2="28328130.s1.e1" id="28328130.s1.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="29775614">
+  <sentence id="29775614.s0" text="Herein, we newly identified that truncated form of sister chromatid cohesion is produced and released from lung tumor tissue in a mouse model expressing human EML4-ALK fusion gene.">
+    <entity charOffset="51-76" id="29775614.s0.e0" ontology_id="GO_0007062" text="sister chromatid cohesion" type="GO"/>
+    <entity charOffset="112-117" id="29775614.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29775614.s0.e0" e2="29775614.s0.e1" id="29775614.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="29775614.s1" text="Considering these results, the measurement of circulating sister chromatid cohesion level may contribute to assess a tumor progression in human lung tumor patients">
+    <entity charOffset="58-83" id="29775614.s1.e0" ontology_id="GO_0007062" text="sister chromatid cohesion" type="GO"/>
+    <entity charOffset="117-122" id="29775614.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29775614.s1.e0" e2="29775614.s1.e1" id="29775614.s1.p0" relation="false"/>
+  </sentence>
+</document>

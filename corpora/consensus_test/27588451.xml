@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="27588451">
+  <sentence id="27588451.s0" text="Altogether, our data strongly suggest that mutations in cilium organization cause a previously undescribed clinical entity of a ciliary nature characterized by blindness and deafness but clearly distinct from Usher syndrome, a condition for which visual impairment is due to retinitis pigmentosa.">
+    <entity charOffset="56-75" id="27588451.s0.e0" ontology_id="GO_0044782" text="cilium organization" type="GO"/>
+    <entity charOffset="160-169" id="27588451.s0.e1" ontology_id="HP_0000618" text="blindness" type="HP"/>
+    <entity charOffset="174-182" id="27588451.s0.e2" ontology_id="HP_0000365" text="deafness" type="HP"/>
+    <pair e1="27588451.s0.e0" e2="27588451.s0.e1" id="27588451.s0.p0" relation="true"/>
+    <pair e1="27588451.s0.e0" e2="27588451.s0.e2" id="27588451.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="27588451.s1" text="Cone-mitotic cell cycle checkpoint degeneration (positive regulation of transcription by RNA polymerase II) belongs to the disease spectrum of retinal degenerations, a group of hereditary disorders characterized by an extreme clinical and genetic heterogeneity.">
+    <entity charOffset="5-34" id="27588451.s1.e0" ontology_id="GO_0007093" text="mitotic cell cycle checkpoint" type="GO"/>
+    <entity charOffset="49-106" id="27588451.s1.e1" ontology_id="GO_0045944" text="positive regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="247-260" id="27588451.s1.e2" ontology_id="HP_0001425" text="heterogeneity" type="HP"/>
+  </sentence>
+</document>

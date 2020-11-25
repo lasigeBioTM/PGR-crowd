@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<document id="27666370">
+  <sentence id="27666370.s0" text="Our findings establish that defective protein folding function underlies a recognizable encephalopathy and drives accelerated microtubule polymerization and enhanced microtubule stability, underscoring an additional cause of altered microtubule dynamics with negative regulation of transcription by RNA polymerase II on neuronal function and survival in the developing brain">
+    <entity charOffset="38-53" id="27666370.s0.e0" ontology_id="GO_0006457" text="protein folding" type="GO"/>
+    <entity charOffset="88-102" id="27666370.s0.e1" ontology_id="HP_0001298" text="encephalopathy" type="HP"/>
+    <entity charOffset="259-316" id="27666370.s0.e2" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="27666370.s0.e0" e2="27666370.s0.e1" id="27666370.s0.p0" relation="true"/>
+  </sentence>
+</document>

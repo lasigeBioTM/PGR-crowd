@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<document id="15073121">
+  <sentence id="15073121.s0" text="The expression profile of positive regulation of G1/S transition of mitotic cell cycle-20 in human breast carcinoma was undertaken by real-time PCR using RNA isolated from malignant tumors, nonneoplastic mammary tissue, and breast cancer cell lines to identify altered regulation that may have potential pathogenetic and prognostic significance.">
+    <entity charOffset="26-86" id="15073121.s0.e0" ontology_id="GO_1900087" text="positive regulation of G1/S transition of mitotic cell cycle" type="GO"/>
+    <entity charOffset="99-115" id="15073121.s0.e1" ontology_id="HP_0003002" text="breast carcinoma" type="HP"/>
+    <entity charOffset="182-188" id="15073121.s0.e2" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <entity charOffset="231-237" id="15073121.s0.e3" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="15073121.s0.e0" e2="15073121.s0.e1" id="15073121.s0.p0" relation="true"/>
+    <pair e1="15073121.s0.e0" e2="15073121.s0.e2" id="15073121.s0.p1" relation="true"/>
+    <pair e1="15073121.s0.e0" e2="15073121.s0.e3" id="15073121.s0.p2" relation="true"/>
+  </sentence>
+  <sentence id="15073121.s1" text="Our studies show that seven of the ADAMTS genes (positive regulation of G1/S transition of mitotic cell cycle, 3, 5, 8, 9, 10, and 18) are consistently down-regulated in breast carcinomas with respect to nonneoplastic mammary tissue, irrespective of the heterogeneity of the samples and the tumor muscle organ development or grade (Mann-Whitney U test, P &amp;lt; 0.0001 for each gene).">
+    <entity charOffset="49-109" id="15073121.s1.e0" ontology_id="GO_1900087" text="positive regulation of G1/S transition of mitotic cell cycle" type="GO"/>
+    <entity charOffset="170-186" id="15073121.s1.e1" ontology_id="HP_0003002" text="breast carcinoma" type="HP"/>
+    <entity charOffset="254-267" id="15073121.s1.e2" ontology_id="HP_0001425" text="heterogeneity" type="HP"/>
+    <entity charOffset="291-296" id="15073121.s1.e3" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="297-321" id="15073121.s1.e4" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <pair e1="15073121.s1.e0" e2="15073121.s1.e1" id="15073121.s1.p0" relation="true"/>
+    <pair e1="15073121.s1.e0" e2="15073121.s1.e2" id="15073121.s1.p1" relation="true"/>
+    <pair e1="15073121.s1.e0" e2="15073121.s1.e3" id="15073121.s1.p2" relation="true"/>
+  </sentence>
+  <sentence id="15073121.s2" text="positive regulation of G1/S transition of mitotic cell cycle5 has emerged as being an independent predictor of survival, with RNA expression levels significantly lower (P = 0.007) in grade 3 breast carcinoma compared with grade 1 and 2 breast carcinoma">
+    <entity charOffset="0-60" id="15073121.s2.e0" ontology_id="GO_1900087" text="positive regulation of G1/S transition of mitotic cell cycle" type="GO"/>
+    <entity charOffset="191-207" id="15073121.s2.e1" ontology_id="HP_0003002" text="breast carcinoma" type="HP"/>
+    <pair e1="15073121.s2.e0" e2="15073121.s2.e1" id="15073121.s2.p0" relation="true"/>
+  </sentence>
+</document>

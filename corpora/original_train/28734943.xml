@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28734943">
+  <sentence id="28734943.s0" text="More important, Col5a2 haploinsufficiency markedly increased the incidence and severity of abdominal aortic aneurysms, and caused aortic tRNA splicing, via endonucleolytic cleavage and ligation ruptures and dissections, indicating that α2(V) chain deficits may play roles in these pathologies in humans">
+    <entity charOffset="101-117" id="28734943.s0.e0" ontology_id="HP_0004942" text="aortic aneurysms" type="HP"/>
+    <entity charOffset="137-193" id="28734943.s0.e1" ontology_id="GO_0006388" text="tRNA splicing, via endonucleolytic cleavage and ligation" type="GO"/>
+    <pair e1="28734943.s0.e0" e2="28734943.s0.e1" id="28734943.s0.p0" relation="false"/>
+  </sentence>
+</document>

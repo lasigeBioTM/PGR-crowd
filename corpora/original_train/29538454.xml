@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="29538454">
+  <sentence id="29538454.s0" text="Likewise, HCV replication is severely impaired within hepatocellular carcinoma (phosphatidylinositol phosphorylation) tissue in vivo, but the mechanisms responsible for this restriction are presently unknown.">
+    <entity charOffset="54-78" id="29538454.s0.e0" ontology_id="HP_0001402" text="hepatocellular carcinoma" type="HP"/>
+    <entity charOffset="80-116" id="29538454.s0.e1" ontology_id="GO_0046854" text="phosphatidylinositol phosphorylation" type="GO"/>
+    <pair e1="29538454.s0.e0" e2="29538454.s0.e1" id="29538454.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="29538454.s1" text="Here, we identify tumor-associated calcium signal transducer 2 (TACSTD2), one of the most downregulated genes in primary phosphatidylinositol phosphorylation tissue, as a host factor that interacts with CLDN1 and cell-cell junction organization and regulates their cellular localization.">
+    <entity charOffset="18-23" id="29538454.s1.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="121-157" id="29538454.s1.e1" ontology_id="GO_0046854" text="phosphatidylinositol phosphorylation" type="GO"/>
+    <entity charOffset="213-244" id="29538454.s1.e2" ontology_id="GO_0045216" text="cell-cell junction organization" type="GO"/>
+    <pair e1="29538454.s1.e0" e2="29538454.s1.e2" id="29538454.s1.p0" relation="false"/>
+    <pair e1="29538454.s1.e0" e2="29538454.s1.e1" id="29538454.s1.p1" relation="false"/>
+  </sentence>
+</document>

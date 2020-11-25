@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="28663568">
+  <sentence id="28663568.s0" text="We identified 52 variants contributing to obesity in 2% of cases including multiple novel variants in adenylate cyclase-activating G protein-coupled receptor signaling pathway, which were sometimes found with accelerated growth rather than short stature as described previously.">
+    <entity charOffset="102-175" id="28663568.s0.e0" ontology_id="GO_0007189" text="adenylate cyclase-activating G protein-coupled receptor signaling pathway" type="GO"/>
+    <entity charOffset="240-253" id="28663568.s0.e1" ontology_id="HP_0004322" text="short stature" type="HP"/>
+    <pair e1="28663568.s0.e0" e2="28663568.s0.e1" id="28663568.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28663568.s1" text="Further validation in cohorts with severe obesity and engineering the variants in model organisms will be needed to explore whether human variants in angiogenesis and other genes that lead to obesity when deleted in epidermis development, do contribute to obesity.">
+    <entity charOffset="42-49" id="28663568.s1.e0" ontology_id="HP_0001513" text="obesity" type="HP"/>
+    <entity charOffset="150-162" id="28663568.s1.e1" ontology_id="GO_0001525" text="angiogenesis" type="GO"/>
+    <entity charOffset="216-237" id="28663568.s1.e2" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <pair e1="28663568.s1.e0" e2="28663568.s1.e1" id="28663568.s1.p0" relation="false"/>
+    <pair e1="28663568.s1.e0" e2="28663568.s1.e2" id="28663568.s1.p1" relation="false"/>
+  </sentence>
+</document>

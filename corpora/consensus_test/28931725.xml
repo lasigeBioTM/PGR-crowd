@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28931725">
+  <sentence id="28931725.s0" text="Hence, we focus on the relationship between YAP/TAZ and serine metabolism to control methylation of DNA or histone in breast cancer with protein phosphorylation deficiency.">
+    <entity charOffset="125-131" id="28931725.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="137-160" id="28931725.s0.e1" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <pair e1="28931725.s0.e0" e2="28931725.s0.e1" id="28931725.s0.p0" relation="true"/>
+  </sentence>
+</document>

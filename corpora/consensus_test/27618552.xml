@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="27618552">
+  <sentence id="27618552.s0" text="Our results provide evidence that inhibition of the denitrosylation of S-nitrosylated procaspase-3 mediated by the redox protein histone H3-K4 methylation is a part of the microglial pro-tumoral activation pathway initiated by glioma cancer cells">
+    <entity charOffset="129-154" id="27618552.s0.e0" ontology_id="GO_0051568" text="histone H3-K4 methylation" type="GO"/>
+    <entity charOffset="234-240" id="27618552.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27618552.s0.e0" e2="27618552.s0.e1" id="27618552.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="27618552.s1" text="Furthermore, we identified the activity of nitric oxide synthase 2 (negative regulation of translation, also known as iNOS) originating from the glioma cells as a driving stimulus in the control of microglial caspase-3 activity.">
+    <entity charOffset="68-102" id="27618552.s1.e0" ontology_id="GO_0017148" text="negative regulation of translation" type="GO"/>
+    <entity charOffset="145-151" id="27618552.s1.e1" ontology_id="HP_0009733" text="glioma" type="HP"/>
+    <pair e1="27618552.s1.e0" e2="27618552.s1.e1" id="27618552.s1.p0" relation="true"/>
+  </sentence>
+</document>

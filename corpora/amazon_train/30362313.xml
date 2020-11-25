@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30362313">
+  <sentence id="30362313.s0" text="positive regulation of transcription, DNA-templated expression and molecular mechanisms by which PAX6 modifies the migration capacity of breast cancer cells">
+    <entity charOffset="0-51" id="30362313.s0.e0" ontology_id="GO_0045893" text="positive regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="144-150" id="30362313.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30362313.s0.e0" e2="30362313.s0.e1" id="30362313.s0.p0" relation="true"/>
+  </sentence>
+</document>

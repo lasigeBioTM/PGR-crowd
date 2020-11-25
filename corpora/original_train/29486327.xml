@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="29486327">
+  <sentence id="29486327.s0" text="The positive regulation of cell-matrix adhesion mass and obesity-associated (DNA dealkylation involved in DNA repair) gene is tightly related to body weight and fat mass, and plays a pivotal role in regulating lipid accumulation in hepatocytes.">
+    <entity charOffset="4-47" id="29486327.s0.e0" ontology_id="GO_0001954" text="positive regulation of cell-matrix adhesion" type="GO"/>
+    <entity charOffset="57-64" id="29486327.s0.e1" ontology_id="HP_0001513" text="obesity" type="HP"/>
+    <entity charOffset="77-116" id="29486327.s0.e2" ontology_id="GO_0006307" text="DNA dealkylation involved in DNA repair" type="GO"/>
+    <pair e1="29486327.s0.e0" e2="29486327.s0.e1" id="29486327.s0.p0" relation="false"/>
+    <pair e1="29486327.s0.e1" e2="29486327.s0.e2" id="29486327.s0.p1" relation="true"/>
+  </sentence>
+</document>

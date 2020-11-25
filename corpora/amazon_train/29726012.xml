@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<document id="29726012">
+  <sentence id="29726012.s0" text="However, the associations between regulation of mitotic recombination germline mutations and the survival and risk of breast cancer have not been fully elucidated.">
+    <entity charOffset="34-69" id="29726012.s0.e0" ontology_id="GO_0000019" text="regulation of mitotic recombination" type="GO"/>
+    <entity charOffset="125-131" id="29726012.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29726012.s0.e0" e2="29726012.s0.e1" id="29726012.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29726012.s1" text="Here, we aimed to investigate the clinical impact of regulation of mitotic recombination germline mutations in a large cohort of unselected breast cancer patients.">
+    <entity charOffset="53-88" id="29726012.s1.e0" ontology_id="GO_0000019" text="regulation of mitotic recombination" type="GO"/>
+    <entity charOffset="147-153" id="29726012.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29726012.s1.e0" e2="29726012.s1.e1" id="29726012.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="29726012.s2" text="In our study, regulation of mitotic recombination germline mutations were determined using next-generation sequencing in 7657 consecutive unselected breast cancer patients without BRCA1/2 mutations.">
+    <entity charOffset="14-49" id="29726012.s2.e0" ontology_id="GO_0000019" text="regulation of mitotic recombination" type="GO"/>
+    <entity charOffset="156-162" id="29726012.s2.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29726012.s2.e0" e2="29726012.s2.e1" id="29726012.s2.p0" relation="true"/>
+  </sentence>
+  <sentence id="29726012.s3" text="Our study suggested that regulation of mitotic recombination germline mutations are not associated with an increased risk of breast cancer, but patients with RAD50 germline mutations have unfavourable survival compared to patients without these mutations">
+    <entity charOffset="25-60" id="29726012.s3.e0" ontology_id="GO_0000019" text="regulation of mitotic recombination" type="GO"/>
+    <entity charOffset="132-138" id="29726012.s3.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29726012.s3.e0" e2="29726012.s3.e1" id="29726012.s3.p0" relation="true"/>
+  </sentence>
+</document>

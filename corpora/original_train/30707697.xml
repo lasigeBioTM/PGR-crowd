@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="30707697">
+  <sentence id="30707697.s0" text="We recently reported a novel human phenotype resulting from a mutation in the critical coding region of the signal transduction gene characterized by facial dysmorphism, severe growth restriction, axial hypotonia, global developmental delay and retinal pigmentary deposits.">
+    <entity charOffset="108-127" id="30707697.s0.e0" ontology_id="GO_0007165" text="signal transduction" type="GO"/>
+    <entity charOffset="150-168" id="30707697.s0.e1" ontology_id="HP_0001999" text="facial dysmorphism" type="HP"/>
+    <pair e1="30707697.s0.e0" e2="30707697.s0.e1" id="30707697.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="30707697.s1" text="We also describe a mouse model harboring a knockdown mutation in the murine signal transduction gene that shared several of the phenotypic elements observed in the signal transduction-deficient human including facial dysmorphism, growth restriction and retinal deposits.">
+    <entity charOffset="76-95" id="30707697.s1.e0" ontology_id="GO_0007165" text="signal transduction" type="GO"/>
+    <entity charOffset="164-183" id="30707697.s1.e1" ontology_id="GO_0007165" text="signal transduction" type="GO"/>
+    <entity charOffset="210-228" id="30707697.s1.e2" ontology_id="HP_0001999" text="facial dysmorphism" type="HP"/>
+    <pair e1="30707697.s1.e0" e2="30707697.s1.e2" id="30707697.s1.p0" relation="false"/>
+    <pair e1="30707697.s1.e1" e2="30707697.s1.e2" id="30707697.s1.p1" relation="false"/>
+  </sentence>
+</document>

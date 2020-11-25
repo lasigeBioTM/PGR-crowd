@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="26340902">
+  <sentence id="26340902.s0" text="We use the BMI- and obesity-associated DNA dealkylation involved in DNA repair locus as a subject as it poses an illustrative example on the value of these resources.">
+    <entity charOffset="20-27" id="26340902.s0.e0" ontology_id="HP_0001513" text="obesity" type="HP"/>
+    <entity charOffset="39-78" id="26340902.s0.e1" ontology_id="GO_0006307" text="DNA dealkylation involved in DNA repair" type="GO"/>
+    <pair e1="26340902.s0.e0" e2="26340902.s0.e1" id="26340902.s0.p0" relation="true"/>
+  </sentence>
+</document>

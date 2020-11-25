@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="29538625">
+  <sentence id="29538625.s0" text="De novo heterozygous mutations in protein localization to plasma membrane/Munc18-1 cause early infantile epileptic encephalopathies (EIEE4, OMIM #612164) characterized by infantile epilepsy, developmental delay, intellectual disability, and can include autistic features.">
+    <entity charOffset="34-73" id="29538625.s0.e0" ontology_id="GO_0072659" text="protein localization to plasma membrane" type="GO"/>
+    <entity charOffset="181-189" id="29538625.s0.e1" ontology_id="HP_0001250" text="epilepsy" type="HP"/>
+    <entity charOffset="191-210" id="29538625.s0.e2" ontology_id="HP_0001263" text="developmental delay" type="HP"/>
+    <pair e1="29538625.s0.e0" e2="29538625.s0.e1" id="29538625.s0.p0" relation="true"/>
+    <pair e1="29538625.s0.e0" e2="29538625.s0.e2" id="29538625.s0.p1" relation="true"/>
+  </sentence>
+</document>

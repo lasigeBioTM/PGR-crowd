@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="30213139">
+  <sentence id="30213139.s0" text="The formation of neurofibrillary tangles (NFT) and its precursor microtubule cytoskeleton organization oligomers have been suggested as main cause of neuronal degeneration because of a direct correlation of their density to the degree of dementia.">
+    <entity charOffset="17-40" id="30213139.s0.e0" ontology_id="HP_0002185" text="neurofibrillary tangles" type="HP"/>
+    <entity charOffset="65-102" id="30213139.s0.e1" ontology_id="GO_0000226" text="microtubule cytoskeleton organization" type="GO"/>
+  </sentence>
+</document>

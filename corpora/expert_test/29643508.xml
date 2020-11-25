@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29643508">
+  <sentence id="29643508.s0" text="spindle organization knockout ferrets exhibit severe microcephaly (25-40% decreases in brain weight), reflecting reduced cortical surface area without significant change in cortical thickness, as has been found in human patients&lt;sup&gt;3,4&lt;/sup&gt;, suggesting that loss of 'cortical units' has occurred.">
+    <entity charOffset="0-20" id="29643508.s0.e0" ontology_id="GO_0007051" text="spindle organization" type="GO"/>
+    <entity charOffset="53-65" id="29643508.s0.e1" ontology_id="HP_0000252" text="microcephaly" type="HP"/>
+    <pair e1="29643508.s0.e0" e2="29643508.s0.e1" id="29643508.s0.p0" relation="true"/>
+  </sentence>
+</document>

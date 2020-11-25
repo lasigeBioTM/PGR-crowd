@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="29295731">
+  <sentence id="29295731.s0" text="negative regulation of transcription by RNA polymerase II, a member of the T-box family of transcription factors, contributes directly to tumor formation, migration, and invasion.">
+    <entity charOffset="0-57" id="29295731.s0.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="138-143" id="29295731.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29295731.s0.e0" e2="29295731.s0.e1" id="29295731.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="29295731.s1" text="negative regulation of transcription by RNA polymerase II expression was positively associated with multiple tumor nodes, venous infiltration, and advanced regulation of transcription by RNA polymerase III tumor stage.">
+    <entity charOffset="0-57" id="29295731.s1.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="109-114" id="29295731.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="156-205" id="29295731.s1.e2" ontology_id="GO_0006359" text="regulation of transcription by RNA polymerase III" type="GO"/>
+    <pair e1="29295731.s1.e0" e2="29295731.s1.e1" id="29295731.s1.p0" relation="false"/>
+    <pair e1="29295731.s1.e1" e2="29295731.s1.e2" id="29295731.s1.p1" relation="false"/>
+  </sentence>
+</document>

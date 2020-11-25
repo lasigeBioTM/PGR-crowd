@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="25865492">
+  <sentence id="25865492.s0" text="Here, we report mutations in proline biosynthetic process, which encodes an enzyme in the proline biosynthesis pathway, as the cause of a unique syndrome characterized by postnatal microcephaly, hypomyelination, and reduced cerebral white-matter volume.">
+    <entity charOffset="29-57" id="25865492.s0.e0" ontology_id="GO_0006561" text="proline biosynthetic process" type="GO"/>
+    <entity charOffset="195-210" id="25865492.s0.e1" ontology_id="HP_0003429" text="hypomyelination" type="HP"/>
+    <pair e1="25865492.s0.e0" e2="25865492.s0.e1" id="25865492.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="25865492.s1" text="Morpholino-based knockdown of a zebrafish proline biosynthetic process ortholog, pycr1b, recapitulated the human microcephaly phenotype, which was rescued by wild-type human PYCR2 mRNA, but not by mutant mRNAs, further supporting the pathogenicity of the identified variants.">
+    <entity charOffset="42-70" id="25865492.s1.e0" ontology_id="GO_0006561" text="proline biosynthetic process" type="GO"/>
+    <entity charOffset="113-125" id="25865492.s1.e1" ontology_id="HP_0000252" text="microcephaly" type="HP"/>
+    <pair e1="25865492.s1.e0" e2="25865492.s1.e1" id="25865492.s1.p0" relation="false"/>
+  </sentence>
+</document>

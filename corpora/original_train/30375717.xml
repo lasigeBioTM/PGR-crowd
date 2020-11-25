@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30375717">
+  <sentence id="30375717.s0" text="Functional assays revealed that ectopic expression of protein polyubiquitination-144-5p and miR-144-3p significantly blocked the malignant abilities of LUSQ cells, eg, cancer cell proliferation, migration, and invasion.">
+    <entity charOffset="54-80" id="30375717.s0.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="168-174" id="30375717.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30375717.s0.e0" e2="30375717.s0.e1" id="30375717.s0.p0" relation="false"/>
+  </sentence>
+</document>

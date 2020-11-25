@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<document id="27807832">
+  <sentence id="27807832.s0" text="Here we have investigated the effects of depletion of positive regulation of apoptotic process on the mRNA, microRNA and protein expression profiles in prostate and breast cancers and melanoma.">
+    <entity charOffset="54-94" id="27807832.s0.e0" ontology_id="GO_0043065" text="positive regulation of apoptotic process" type="GO"/>
+    <entity charOffset="184-192" id="27807832.s0.e1" ontology_id="HP_0002861" text="melanoma" type="HP"/>
+    <pair e1="27807832.s0.e0" e2="27807832.s0.e1" id="27807832.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="27807832.s1" text="Depending on the tumor cell muscle organ development, knockdown of TNFAIP8 was found to be associated with increased mRNA expression of several antiproliferative and apoptotic genes (e.g., IL-24, FAT3, LPHN2, peptidyl-tyrosine phosphorylation) and fatty acid oxidation gene temperature homeostasis, and decreased mRNA levels of oncogenes (e.g., peripheral nervous system developmentAT5, MALAT1, endothelial cell morphogenesis, FOXA1, positive regulation of protein phosphorylation, S100P, ossification) and glutamate transporter gene SLC1A1.">
+    <entity charOffset="17-22" id="27807832.s1.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="28-52" id="27807832.s1.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="209-242" id="27807832.s1.e2" ontology_id="GO_0018108" text="peptidyl-tyrosine phosphorylation" type="GO"/>
+    <entity charOffset="274-297" id="27807832.s1.e3" ontology_id="GO_0001659" text="temperature homeostasis" type="GO"/>
+    <entity charOffset="345-382" id="27807832.s1.e4" ontology_id="GO_0007422" text="peripheral nervous system development" type="GO"/>
+    <entity charOffset="395-425" id="27807832.s1.e5" ontology_id="GO_0001886" text="endothelial cell morphogenesis" type="GO"/>
+    <entity charOffset="434-480" id="27807832.s1.e6" ontology_id="GO_0001934" text="positive regulation of protein phosphorylation" type="GO"/>
+    <entity charOffset="489-501" id="27807832.s1.e7" ontology_id="GO_0001503" text="ossification" type="GO"/>
+    <pair e1="27807832.s1.e0" e2="27807832.s1.e2" id="27807832.s1.p0" relation="true"/>
+    <pair e1="27807832.s1.e0" e2="27807832.s1.e3" id="27807832.s1.p1" relation="true"/>
+    <pair e1="27807832.s1.e0" e2="27807832.s1.e5" id="27807832.s1.p2" relation="true"/>
+    <pair e1="27807832.s1.e0" e2="27807832.s1.e6" id="27807832.s1.p3" relation="true"/>
+    <pair e1="27807832.s1.e0" e2="27807832.s1.e7" id="27807832.s1.p4" relation="true"/>
+  </sentence>
+  <sentence id="27807832.s2" text="positive regulation of apoptotic process-centric molecules were found to be predominately implicated in the hypoxia-inducible factor-1α (HIF-1α) signaling pathway, and cancer and development signaling networks.">
+    <entity charOffset="0-40" id="27807832.s2.e0" ontology_id="GO_0043065" text="positive regulation of apoptotic process" type="GO"/>
+    <entity charOffset="168-174" id="27807832.s2.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27807832.s2.e0" e2="27807832.s2.e1" id="27807832.s2.p0" relation="true"/>
+  </sentence>
+  <sentence id="27807832.s3" text="Thus positive regulation of apoptotic process seems to regulate the cell survival and cancer progression processes in a multifaceted manner.">
+    <entity charOffset="5-45" id="27807832.s3.e0" ontology_id="GO_0043065" text="positive regulation of apoptotic process" type="GO"/>
+    <entity charOffset="86-92" id="27807832.s3.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27807832.s3.e0" e2="27807832.s3.e1" id="27807832.s3.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="28496128">
+  <sentence id="28496128.s0" text="To explore novel molecular mechanisms underlying obesity, we applied a systems genetics framework to integrate risk genetic loci from the largest body cell adhesion mediated by integrin index (BMI) genome-wide association studies (GWAS) meta-analysis with mRNA and microRNA profiling in adipose tissue from 200 subjects.">
+    <entity charOffset="49-56" id="28496128.s0.e0" ontology_id="HP_0001513" text="obesity" type="HP"/>
+    <entity charOffset="151-185" id="28496128.s0.e1" ontology_id="GO_0033627" text="cell adhesion mediated by integrin" type="GO"/>
+  </sentence>
+</document>

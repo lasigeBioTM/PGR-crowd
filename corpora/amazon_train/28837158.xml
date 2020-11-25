@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<document id="28837158">
+  <sentence id="28837158.s0" text="The purpose of this study was to evaluate the frequency of mosaicism detected by next-generation sequencing in genes associated with epilepsy-related neurodevelopmental disorders.MethodsWe conducted a retrospective analysis of 893 probands with epilepsy who had a multigene epilepsy panel or whole-exome sequencing performed in a clinical diagnostic laboratory and were positive for a pathogenic or likely pathogenic variant in one of nine genes (CDKL5, GABRA1, inhibitory synapse assembly, response to ethanol, potassium ion transmembrane transport, negative regulation of gene expression, homophilic cell adhesion via plasma membrane adhesion molecules, SCN1A, or SCN2A).">
+    <entity charOffset="133-141" id="28837158.s0.e0" ontology_id="HP_0001250" text="epilepsy" type="HP"/>
+    <entity charOffset="462-489" id="28837158.s0.e1" ontology_id="GO_1904862" text="inhibitory synapse assembly" type="GO"/>
+    <entity charOffset="491-510" id="28837158.s0.e2" ontology_id="GO_0045471" text="response to ethanol" type="GO"/>
+    <entity charOffset="512-549" id="28837158.s0.e3" ontology_id="GO_0071805" text="potassium ion transmembrane transport" type="GO"/>
+    <entity charOffset="551-589" id="28837158.s0.e4" ontology_id="GO_0010629" text="negative regulation of gene expression" type="GO"/>
+    <entity charOffset="591-654" id="28837158.s0.e5" ontology_id="GO_0007156" text="homophilic cell adhesion via plasma membrane adhesion molecules" type="GO"/>
+    <pair e1="28837158.s0.e0" e2="28837158.s0.e1" id="28837158.s0.p0" relation="true"/>
+    <pair e1="28837158.s0.e0" e2="28837158.s0.e2" id="28837158.s0.p1" relation="true"/>
+    <pair e1="28837158.s0.e0" e2="28837158.s0.e3" id="28837158.s0.p2" relation="true"/>
+    <pair e1="28837158.s0.e0" e2="28837158.s0.e4" id="28837158.s0.p3" relation="true"/>
+    <pair e1="28837158.s0.e0" e2="28837158.s0.e5" id="28837158.s0.p4" relation="true"/>
+  </sentence>
+</document>

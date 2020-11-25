@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="29958946">
+  <sentence id="29958946.s0" text="The schizophrenia-associated gene GRIN2A (glutamate ionotropic receptor NMDA muscle organ development subunit 2a) codes for a protein subunit of the NMDA (N-methyl-D-aspartate) receptor that underlies central aspects of human cognition.">
+    <entity charOffset="4-17" id="29958946.s0.e0" ontology_id="HP_0100753" text="schizophrenia" type="HP"/>
+    <entity charOffset="77-101" id="29958946.s0.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <pair e1="29958946.s0.e0" e2="29958946.s0.e1" id="29958946.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="29958946.s1" text="The results also suggest that some schizophrenia-related alleles may be subject to cognitive tradeoffs involving both positive and negative effects on psychological phenomuscle organ developments, which may help to explain the maintenance of psychiatric-disorder risk alleles in human populations">
+    <entity charOffset="35-48" id="29958946.s1.e0" ontology_id="HP_0100753" text="schizophrenia" type="HP"/>
+    <entity charOffset="170-194" id="29958946.s1.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <pair e1="29958946.s1.e0" e2="29958946.s1.e1" id="29958946.s1.p0" relation="false"/>
+  </sentence>
+</document>

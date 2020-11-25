@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<document id="28053981">
+  <sentence id="28053981.s0" text="Muscarinic acetylcholine receptor M3 (G protein-coupled acetylcholine receptor signaling pathway) was reported as a key receptor in different cancer types.">
+    <entity charOffset="38-96" id="28053981.s0.e0" ontology_id="GO_0007213" text="G protein-coupled acetylcholine receptor signaling pathway" type="GO"/>
+    <entity charOffset="142-148" id="28053981.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28053981.s0.e0" e2="28053981.s0.e1" id="28053981.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28053981.s1" text="&lt;i&gt;G protein-coupled acetylcholine receptor signaling pathway&lt;/i&gt; is located at 1q42-43 which was reported to associate with bladder cancer.">
+    <entity charOffset="3-61" id="28053981.s1.e0" ontology_id="GO_0007213" text="G protein-coupled acetylcholine receptor signaling pathway" type="GO"/>
+    <entity charOffset="133-139" id="28053981.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28053981.s1.e0" e2="28053981.s1.e1" id="28053981.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="28053981.s2" text="Our study attempted to delineate whether genetic variants of &lt;i&gt;G protein-coupled acetylcholine receptor signaling pathway&lt;/i&gt; contribute to bladder cancer in Chinese Han population in south Taiwan.">
+    <entity charOffset="64-122" id="28053981.s2.e0" ontology_id="GO_0007213" text="G protein-coupled acetylcholine receptor signaling pathway" type="GO"/>
+    <entity charOffset="149-155" id="28053981.s2.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28053981.s2.e0" e2="28053981.s2.e1" id="28053981.s2.p0" relation="true"/>
+  </sentence>
+  <sentence id="28053981.s3" text="To our knowledge, this is the first genetic association study that reveals the genetic contribution of &lt;i&gt;G protein-coupled acetylcholine receptor signaling pathway&lt;/i&gt; gene in bladder cancer etiology">
+    <entity charOffset="106-164" id="28053981.s3.e0" ontology_id="GO_0007213" text="G protein-coupled acetylcholine receptor signaling pathway" type="GO"/>
+    <entity charOffset="185-191" id="28053981.s3.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28053981.s3.e0" e2="28053981.s3.e1" id="28053981.s3.p0" relation="true"/>
+  </sentence>
+</document>

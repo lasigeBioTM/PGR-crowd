@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="25703721">
+  <sentence id="25703721.s0" text="Recessive variants located in the ligand-binding domain (LBD) of NR2E3 cause enhanced short wavelength sensitive- (S-) cone syndrome (ESCS), a retinal degeneration characterized by an excess of S-cones and non-functional mitotic cell cycle checkpoints.">
+    <entity charOffset="143-163" id="25703721.s0.e0" ontology_id="HP_0000546" text="retinal degeneration" type="HP"/>
+    <entity charOffset="221-250" id="25703721.s0.e1" ontology_id="GO_0007093" text="mitotic cell cycle checkpoint" type="GO"/>
+  </sentence>
+</document>

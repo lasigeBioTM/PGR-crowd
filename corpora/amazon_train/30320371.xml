@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="30320371">
+  <sentence id="30320371.s0" text="Helicase‑like transcription factor (regulation of transcription, DNA-templated) has been identified as a tumor suppressor gene.">
+    <entity charOffset="36-78" id="30320371.s0.e0" ontology_id="GO_0006355" text="regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="105-110" id="30320371.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="30320371.s0.e0" e2="30320371.s0.e1" id="30320371.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="30320371.s1" text="The hypermethylation of regulation of transcription by RNA polymerase II is frequently observed in various types of cancer, including colorectal cancer (CRC).">
+    <entity charOffset="24-72" id="30320371.s1.e0" ontology_id="GO_0006357" text="regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="116-122" id="30320371.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30320371.s1.e0" e2="30320371.s1.e1" id="30320371.s1.p0" relation="true"/>
+  </sentence>
+</document>

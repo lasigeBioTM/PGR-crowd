@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<document id="30694044">
+  <sentence id="30694044.s0" text="To investigate the direct effects of this SNP in the heterogeneous cellular context of the brain, we generated humanized transgenic epidermis development using a design that maximized the local transcriptional landscape of the human adenylate cyclase-inhibiting serotonin receptor signaling pathway gene while also controlling for effects of genomic insertion location.">
+    <entity charOffset="53-66" id="30694044.s0.e0" ontology_id="HP_0001425" text="heterogeneous" type="HP"/>
+    <entity charOffset="132-153" id="30694044.s0.e1" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="233-298" id="30694044.s0.e2" ontology_id="GO_0007198" text="adenylate cyclase-inhibiting serotonin receptor signaling pathway" type="GO"/>
+    <pair e1="30694044.s0.e0" e2="30694044.s0.e2" id="30694044.s0.p0" relation="true"/>
+  </sentence>
+</document>

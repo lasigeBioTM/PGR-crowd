@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27507850">
+  <sentence id="27507850.s0" text="In addition, inactivation of the tumor suppressor retinoblastoma 1 (RB1), reflected by CCND1/CDK6-inactivating phosphorylation of RB1 at T356, inversely correlated with expression of positive regulation of protein phosphorylation in patient HNSCC samples.">
+    <entity charOffset="50-64" id="27507850.s0.e0" ontology_id="HP_0009919" text="retinoblastoma" type="HP"/>
+    <entity charOffset="183-229" id="27507850.s0.e1" ontology_id="GO_0001934" text="positive regulation of protein phosphorylation" type="GO"/>
+    <pair e1="27507850.s0.e0" e2="27507850.s0.e1" id="27507850.s0.p0" relation="true"/>
+  </sentence>
+</document>

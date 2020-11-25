@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="27557495">
+  <sentence id="27557495.s0" text="Polo-Like Kinase 1 (G2/M transition of mitotic cell cycle), a serine-threonine kinase that is often overexpressed across multiple tumor types, is one of the key regulators of CIN and is considered as a potential therapeutic target.">
+    <entity charOffset="20-57" id="27557495.s0.e0" ontology_id="GO_0000086" text="G2/M transition of mitotic cell cycle" type="GO"/>
+    <entity charOffset="130-135" id="27557495.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="27557495.s0.e0" e2="27557495.s0.e1" id="27557495.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="27557495.s1" text="Rather than directly inhibiting G2/M transition of mitotic cell cycle, we found that inhibition of PP2A causes selective lethality to PLK1-overexpressing breast, pancreatic, ovarian, glioblastoma, and prostate cancer cells.">
+    <entity charOffset="32-69" id="27557495.s1.e0" ontology_id="GO_0000086" text="G2/M transition of mitotic cell cycle" type="GO"/>
+    <entity charOffset="183-195" id="27557495.s1.e1" ontology_id="HP_0012174" text="glioblastoma" type="HP"/>
+    <entity charOffset="210-216" id="27557495.s1.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27557495.s1.e0" e2="27557495.s1.e1" id="27557495.s1.p0" relation="false"/>
+    <pair e1="27557495.s1.e0" e2="27557495.s1.e2" id="27557495.s1.p1" relation="false"/>
+  </sentence>
+</document>

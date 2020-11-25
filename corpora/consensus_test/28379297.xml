@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="28379297">
+  <sentence id="28379297.s0" text="Independent and pooled analyses verified that higher proline biosynthetic process mRNA levels were significantly associated with poor survival of breast cancer patients, regardless of estrogen receptor (ER) status.">
+    <entity charOffset="53-81" id="28379297.s0.e0" ontology_id="GO_0006561" text="proline biosynthetic process" type="GO"/>
+    <entity charOffset="153-159" id="28379297.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28379297.s0.e0" e2="28379297.s0.e1" id="28379297.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28379297.s1" text="For in vitro studies, inhibition of proline biosynthetic process by small-hairpin RNA significantly reduced the growth and invasion capabilities of the cells, while enhancing the cytotoxicity of doxorubicin in breast cancer cell lines MCF-7 (ER positive) and MDA-MB-231 (ER negative).">
+    <entity charOffset="36-64" id="28379297.s1.e0" ontology_id="GO_0006561" text="proline biosynthetic process" type="GO"/>
+    <entity charOffset="217-223" id="28379297.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28379297.s1.e0" e2="28379297.s1.e1" id="28379297.s1.p0" relation="true"/>
+  </sentence>
+</document>

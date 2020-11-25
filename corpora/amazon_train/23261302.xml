@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="23261302">
+  <sentence id="23261302.s0" text="Primary ciliary dyskinesia (motile cilium assembly) is a genetically heterogeneous, autosomal-recessive disorder, characterized by oto-sino-pulmonary disease and situs abnormalities.">
+    <entity charOffset="8-26" id="23261302.s0.e0" ontology_id="HP_0012265" text="ciliary dyskinesia" type="HP"/>
+    <entity charOffset="28-50" id="23261302.s0.e1" ontology_id="GO_0044458" text="motile cilium assembly" type="GO"/>
+  </sentence>
+  <sentence id="23261302.s1" text="These results revealed that mutations in cilium movement are a cause of ciliary dysmotility and motile cilium assembly and further demonstrate the utility of exome sequencing to identify genetic causes in heterogeneous recessive disorders">
+    <entity charOffset="41-56" id="23261302.s1.e0" ontology_id="GO_0003341" text="cilium movement" type="GO"/>
+    <entity charOffset="96-118" id="23261302.s1.e1" ontology_id="GO_0044458" text="motile cilium assembly" type="GO"/>
+    <entity charOffset="205-218" id="23261302.s1.e2" ontology_id="HP_0001425" text="heterogeneous" type="HP"/>
+    <pair e1="23261302.s1.e0" e2="23261302.s1.e2" id="23261302.s1.p0" relation="true"/>
+    <pair e1="23261302.s1.e1" e2="23261302.s1.e2" id="23261302.s1.p1" relation="true"/>
+  </sentence>
+</document>

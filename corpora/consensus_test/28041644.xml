@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="28041644">
+  <sentence id="28041644.s0" text="This result has clinical and genetic counseling implications for genetically unsolved male case subjects with a classic motile cilium assembly phenotype that lack additional phenotypes such as intellectual disability or retinitis pignegative regulation of phosphatase activitytosa">
+    <entity charOffset="120-142" id="28041644.s0.e0" ontology_id="GO_0044458" text="motile cilium assembly" type="GO"/>
+    <entity charOffset="193-216" id="28041644.s0.e1" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <entity charOffset="233-276" id="28041644.s0.e2" ontology_id="GO_0010923" text="negative regulation of phosphatase activity" type="GO"/>
+    <pair e1="28041644.s0.e0" e2="28041644.s0.e1" id="28041644.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="28041644.s1" text="Defects in motile cilia and sperm flagella cause primary ciliary dyskinesia (motile cilium assembly), characterized by chronic airway disease, infertility, and left-right body axis disturbance.">
+    <entity charOffset="57-75" id="28041644.s1.e0" ontology_id="HP_0012265" text="ciliary dyskinesia" type="HP"/>
+    <entity charOffset="77-99" id="28041644.s1.e1" ontology_id="GO_0044458" text="motile cilium assembly" type="GO"/>
+  </sentence>
+</document>

@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<document id="24895405">
+  <sentence id="24895405.s0" text="mitochondrion organization is an autosomal recessive generalized connective tissue disorder associated with extreme corneal thinning and a high risk of corneal rupture.">
+    <entity charOffset="0-26" id="24895405.s0.e0" ontology_id="GO_0007005" text="mitochondrion organization" type="GO"/>
+    <entity charOffset="33-52" id="24895405.s0.e1" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+  </sentence>
+  <sentence id="24895405.s1" text="We hypothesized that heterozygous variants in negative regulation of transcription by RNA polymerase II and regulation of transcription by RNA polymerase II predispose to the development of isolated keratoconus.">
+    <entity charOffset="46-103" id="24895405.s1.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="108-156" id="24895405.s1.e1" ontology_id="GO_0006357" text="regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="199-210" id="24895405.s1.e2" ontology_id="HP_0000563" text="keratoconus" type="HP"/>
+    <pair e1="24895405.s1.e0" e2="24895405.s1.e2" id="24895405.s1.p0" relation="true"/>
+    <pair e1="24895405.s1.e1" e2="24895405.s1.e2" id="24895405.s1.p1" relation="true"/>
+  </sentence>
+  <sentence id="24895405.s2" text="We found a significant enrichment of potentially pathologic heterozygous alleles in regulation of transcription by RNA polymerase II associated with the development of keratoconus (P = 0.00102) resulting in a relative risk of 12.0.">
+    <entity charOffset="84-132" id="24895405.s2.e0" ontology_id="GO_0006357" text="regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="168-179" id="24895405.s2.e1" ontology_id="HP_0000563" text="keratoconus" type="HP"/>
+    <pair e1="24895405.s2.e0" e2="24895405.s2.e1" id="24895405.s2.p0" relation="true"/>
+  </sentence>
+  <sentence id="24895405.s3" text="This enrichment of rare potentially pathogenic alleles in regulation of transcription by RNA polymerase II in 12.5% of keratoconus patients represents a significant mutational load and highlights ZNF469 as the most significant genetic factor responsible for keratoconus identified to date.">
+    <entity charOffset="58-106" id="24895405.s3.e0" ontology_id="GO_0006357" text="regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="119-130" id="24895405.s3.e1" ontology_id="HP_0000563" text="keratoconus" type="HP"/>
+    <pair e1="24895405.s3.e0" e2="24895405.s3.e1" id="24895405.s3.p0" relation="true"/>
+  </sentence>
+</document>

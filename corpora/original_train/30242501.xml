@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30242501">
+  <sentence id="30242501.s0" text="In summary, for the first time, we generated a sensory perception of sound knockout zebrafish line with auditory disorder and retinal degeneration which mimicked the symptoms of patients, and revealed that disruption of fibronectin assembly may be one of the factors underlying RP.">
+    <entity charOffset="47-74" id="30242501.s0.e0" ontology_id="GO_0007605" text="sensory perception of sound" type="GO"/>
+    <entity charOffset="126-146" id="30242501.s0.e1" ontology_id="HP_0000546" text="retinal degeneration" type="HP"/>
+    <pair e1="30242501.s0.e0" e2="30242501.s0.e1" id="30242501.s0.p0" relation="false"/>
+  </sentence>
+</document>

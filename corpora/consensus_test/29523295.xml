@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<document id="29523295">
+  <sentence id="29523295.s0" text="SNORD115-TAF1 and SNORD-DPM2 dysfunction introduce possible clues to the parkinsonism and increased creatinine phosphokinase in G protein-coupled receptor signaling pathway, while abnormalities of SNORD115-regulation of Ral protein signal transduction suggest links to both anti-NMDAR encephalitis and the proven predisposing catatonic SHANK3 gene.">
+    <entity charOffset="128-172" id="29523295.s0.e0" ontology_id="GO_0007186" text="G protein-coupled receptor signaling pathway" type="GO"/>
+    <entity charOffset="206-251" id="29523295.s0.e1" ontology_id="GO_0032485" text="regulation of Ral protein signal transduction" type="GO"/>
+    <entity charOffset="285-297" id="29523295.s0.e2" ontology_id="HP_0002383" text="encephalitis" type="HP"/>
+    <pair e1="29523295.s0.e0" e2="29523295.s0.e2" id="29523295.s0.p0" relation="false"/>
+    <pair e1="29523295.s0.e1" e2="29523295.s0.e2" id="29523295.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="29523295.s1" text="SNORD115 abnormalities with varying downstream multigene involvement would account for catatonia across the life span within some subtypes of autism spectrum disorders, schizophrenia, bipolar and major depressive disorder, psychosis, genetic disorders, and in immune disorders such as anti-N-methyl-d-aspartate receptor (NMDAR) antibody encephalitis as well as the susceptibility to the neuroleptic malignant syndrome (G protein-coupled receptor signaling pathway) if environmentally triggered.">
+    <entity charOffset="169-182" id="29523295.s1.e0" ontology_id="HP_0100753" text="schizophrenia" type="HP"/>
+    <entity charOffset="337-349" id="29523295.s1.e1" ontology_id="HP_0002383" text="encephalitis" type="HP"/>
+    <entity charOffset="419-463" id="29523295.s1.e2" ontology_id="GO_0007186" text="G protein-coupled receptor signaling pathway" type="GO"/>
+    <pair e1="29523295.s1.e1" e2="29523295.s1.e2" id="29523295.s1.p0" relation="false"/>
+  </sentence>
+</document>

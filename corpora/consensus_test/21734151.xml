@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="21734151">
+  <sentence id="21734151.s0" text="We identify ZC3H14 mRNA transcripts in the human central nervous system, and we cellular response to interleukin-4 that rodent ZC3H14 protein is expressed in hippocampal neurons and colocalizes with poly(A) RNA in neuronal cell bodies.">
+    <entity charOffset="49-56" id="21734151.s0.e0" ontology_id="HP_0030645" text="central" type="HP"/>
+    <entity charOffset="80-114" id="21734151.s0.e1" ontology_id="GO_0071353" text="cellular response to interleukin-4" type="GO"/>
+  </sentence>
+</document>

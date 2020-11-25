@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="28328130">
+  <sentence id="28328130.s0" text="In order to address these questions, we searched for alterations in G protein-coupled receptor signaling pathway, adenylate cyclase-inhibiting G protein-coupled receptor signaling pathway, and EDN1 in patients with typical Auriculocondylar syndrome (n = 3), Pierre Robin sequence-plus (n = 3), micrognathia with additional craniofacial malformations (n = 4), or non-specific auricular dysplasia (n = 1), which could represent subtypes of Auriculocondylar syndrome.">
+    <entity charOffset="68-112" id="28328130.s0.e0" ontology_id="GO_0007186" text="G protein-coupled receptor signaling pathway" type="GO"/>
+    <entity charOffset="114-187" id="28328130.s0.e1" ontology_id="GO_0007193" text="adenylate cyclase-inhibiting G protein-coupled receptor signaling pathway" type="GO"/>
+    <entity charOffset="294-306" id="28328130.s0.e2" ontology_id="HP_0000347" text="micrognathia" type="HP"/>
+    <pair e1="28328130.s0.e0" e2="28328130.s0.e2" id="28328130.s0.p0" relation="true"/>
+    <pair e1="28328130.s0.e1" e2="28328130.s0.e2" id="28328130.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="28328130.s1" text="Auriculocondylar syndrome, mainly characterized by micrognathia, small mandibular condyle, and question mark prolyl-tRNA aminoacylation, is a rare disease segregating in an autosomal dominant pattern in the majority of the families reported in the literature.">
+    <entity charOffset="51-63" id="28328130.s1.e0" ontology_id="HP_0000347" text="micrognathia" type="HP"/>
+    <entity charOffset="109-135" id="28328130.s1.e1" ontology_id="GO_0006433" text="prolyl-tRNA aminoacylation" type="GO"/>
+  </sentence>
+</document>

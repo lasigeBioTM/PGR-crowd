@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<document id="29401312">
+  <sentence id="29401312.s0" text="These protein polyubiquitinationNAs may play a role in pathways previously implicated in glaucoma and coenzyme A biosynthetic process as biomarkers for disease pathogenesis">
+    <entity charOffset="6-32" id="29401312.s0.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="89-97" id="29401312.s0.e1" ontology_id="HP_0000501" text="glaucoma" type="HP"/>
+    <entity charOffset="102-133" id="29401312.s0.e2" ontology_id="GO_0015937" text="coenzyme A biosynthetic process" type="GO"/>
+    <pair e1="29401312.s0.e0" e2="29401312.s0.e1" id="29401312.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="29401312.s1" text="While none of these miRNAs have been previously linked to glaucoma, miR-122-5p may target three glaucoma-associated genes: positive regulation of autophagy, ER overload response and TGF-ß1.">
+    <entity charOffset="58-66" id="29401312.s1.e0" ontology_id="HP_0000501" text="glaucoma" type="HP"/>
+    <entity charOffset="123-155" id="29401312.s1.e1" ontology_id="GO_0010508" text="positive regulation of autophagy" type="GO"/>
+    <entity charOffset="157-177" id="29401312.s1.e2" ontology_id="GO_0006983" text="ER overload response" type="GO"/>
+    <pair e1="29401312.s1.e0" e2="29401312.s1.e2" id="29401312.s1.p0" relation="false"/>
+    <pair e1="29401312.s1.e0" e2="29401312.s1.e1" id="29401312.s1.p1" relation="true"/>
+  </sentence>
+</document>

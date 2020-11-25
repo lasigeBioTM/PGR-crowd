@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29881486">
+  <sentence id="29881486.s0" text="However autosomal recessive inheritance with mutation in the phosphate ion transport gene is suspected">
+    <entity charOffset="8-39" id="29881486.s0.e0" ontology_id="HP_0000007" text="autosomal recessive inheritance" type="HP"/>
+    <entity charOffset="61-84" id="29881486.s0.e1" ontology_id="GO_0006817" text="phosphate ion transport" type="GO"/>
+    <pair e1="29881486.s0.e0" e2="29881486.s0.e1" id="29881486.s0.p0" relation="true"/>
+  </sentence>
+</document>

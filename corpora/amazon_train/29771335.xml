@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<document id="29771335">
+  <sentence id="29771335.s0" text="Here, we showed that the homeostatic synaptic downscaling is absent in the hippocampal neurons of regulation of alternative mRNA splicing, via spliceosome KO epidermis development, the mouse model of the most common inherited autism, fragile X syndrome (FXS).">
+    <entity charOffset="98-154" id="29771335.s0.e0" ontology_id="GO_0000381" text="regulation of alternative mRNA splicing, via spliceosome" type="GO"/>
+    <entity charOffset="158-179" id="29771335.s0.e1" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="226-232" id="29771335.s0.e2" ontology_id="HP_0000717" text="autism" type="HP"/>
+    <pair e1="29771335.s0.e0" e2="29771335.s0.e2" id="29771335.s0.p0" relation="true"/>
+    <pair e1="29771335.s0.e1" e2="29771335.s0.e2" id="29771335.s0.p1" relation="false"/>
+  </sentence>
+  <sentence id="29771335.s1" text="We found that the impaired homeostatic synaptic downscaling in regulation of alternative mRNA splicing, via spliceosome KO neurons is caused by loss-of-function dephosphorylation of an epilepsy-associated ubiquitin E3 ligase, neural precursor cell expressed developmentally down-regulated gene 4-2, Nedd4-2.">
+    <entity charOffset="63-119" id="29771335.s1.e0" ontology_id="GO_0000381" text="regulation of alternative mRNA splicing, via spliceosome" type="GO"/>
+    <entity charOffset="185-193" id="29771335.s1.e1" ontology_id="HP_0001250" text="epilepsy" type="HP"/>
+    <pair e1="29771335.s1.e0" e2="29771335.s1.e1" id="29771335.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="29771335.s2" text="Such dephosphorylation of regulation of membrane depolarization is surprisingly caused by abnormally stable tumor suppressor p53 and subsequently destabilized kinase Akt.">
+    <entity charOffset="26-63" id="29771335.s2.e0" ontology_id="GO_0003254" text="regulation of membrane depolarization" type="GO"/>
+    <entity charOffset="108-113" id="29771335.s2.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29771335.s2.e0" e2="29771335.s2.e1" id="29771335.s2.p0" relation="true"/>
+  </sentence>
+</document>

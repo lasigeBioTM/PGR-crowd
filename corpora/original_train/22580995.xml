@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<document id="22580995">
+  <sentence id="22580995.s0" text="cell cycle arrest is a p53 target gene with DNA binding function and represents a highly plausible candidate breast cancer predisposition gene.">
+    <entity charOffset="0-17" id="22580995.s0.e0" ontology_id="GO_0007050" text="cell cycle arrest" type="GO"/>
+    <entity charOffset="116-122" id="22580995.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="22580995.s0.e0" e2="22580995.s0.e1" id="22580995.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="22580995.s1" text="A germline c.339_340delAG variant predicted to cause premature termination of the protein after 57 alternative amino acid residues was identified in 3/860 families who tested negative for double-strand break repair via homologous recombination and mitotic cytokinesis mutations and in 1/84 sporadic breast cancer cases.">
+    <entity charOffset="188-243" id="22580995.s1.e0" ontology_id="GO_0000724" text="double-strand break repair via homologous recombination" type="GO"/>
+    <entity charOffset="248-267" id="22580995.s1.e1" ontology_id="GO_0000281" text="mitotic cytokinesis" type="GO"/>
+    <entity charOffset="290-298" id="22580995.s1.e2" ontology_id="HP_0003745" text="sporadic" type="HP"/>
+    <entity charOffset="306-312" id="22580995.s1.e3" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="22580995.s1.e0" e2="22580995.s1.e3" id="22580995.s1.p0" relation="true"/>
+    <pair e1="22580995.s1.e0" e2="22580995.s1.e2" id="22580995.s1.p1" relation="false"/>
+    <pair e1="22580995.s1.e1" e2="22580995.s1.e3" id="22580995.s1.p2" relation="true"/>
+    <pair e1="22580995.s1.e1" e2="22580995.s1.e2" id="22580995.s1.p3" relation="false"/>
+  </sentence>
+  <sentence id="22580995.s2" text="However, the variant was also detected in 2/182 families with known double-strand break repair via homologous recombination or mitotic cytokinesis mutations and in 2/464 non-cancer controls.">
+    <entity charOffset="68-123" id="22580995.s2.e0" ontology_id="GO_0000724" text="double-strand break repair via homologous recombination" type="GO"/>
+    <entity charOffset="127-146" id="22580995.s2.e1" ontology_id="GO_0000281" text="mitotic cytokinesis" type="GO"/>
+    <entity charOffset="174-180" id="22580995.s2.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="22580995.s2.e0" e2="22580995.s2.e2" id="22580995.s2.p0" relation="true"/>
+    <pair e1="22580995.s2.e1" e2="22580995.s2.e2" id="22580995.s2.p1" relation="true"/>
+  </sentence>
+  <sentence id="22580995.s3" text="Our data suggest that pathogenic mutations in cell cycle arrest are rare in breast cancer families and the c.339_340delAG variant does not represent a high-penetrance breast cancer risk allele">
+    <entity charOffset="46-63" id="22580995.s3.e0" ontology_id="GO_0007050" text="cell cycle arrest" type="GO"/>
+    <entity charOffset="83-89" id="22580995.s3.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="22580995.s3.e0" e2="22580995.s3.e1" id="22580995.s3.p0" relation="true"/>
+  </sentence>
+</document>

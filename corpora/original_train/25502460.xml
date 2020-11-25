@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="25502460">
+  <sentence id="25502460.s0" text="This in silico study suggests that in glioblastoma multiforme, karyotypic changes have the potential to cause multiple abnormalities in negative regulation of transcription, DNA-templateds of genes involved in phosphoinositide metabolism and this may be important for understanding drug resistance and phosphoinositide pathway redundancy in the advanced disease state.">
+    <entity charOffset="38-50" id="25502460.s0.e0" ontology_id="HP_0012174" text="glioblastoma" type="HP"/>
+    <entity charOffset="136-187" id="25502460.s0.e1" ontology_id="GO_0045892" text="negative regulation of transcription, DNA-templated" type="GO"/>
+    <pair e1="25502460.s0.e0" e2="25502460.s0.e1" id="25502460.s0.p0" relation="false"/>
+  </sentence>
+</document>

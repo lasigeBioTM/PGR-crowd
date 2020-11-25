@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<document id="28069802">
+  <sentence id="28069802.s0" text="We identified novel phosphorylation fusions in a neuroblastoma (BEND5-ALK) and an astrocytoma (PPP1CB-ALK), novel protein phosphorylation fusions in an astrocytoma (BCAS1-BRAF) and a ganglioglioma (TMEM106B-BRAF), and a novel positive regulation of transcription, DNA-templated-smoothened signaling pathway fusion in a rhabdomyosarcoma.">
+    <entity charOffset="20-35" id="28069802.s0.e0" ontology_id="GO_0016310" text="phosphorylation" type="GO"/>
+    <entity charOffset="49-62" id="28069802.s0.e1" ontology_id="HP_0003006" text="neuroblastoma" type="HP"/>
+    <entity charOffset="82-93" id="28069802.s0.e2" ontology_id="HP_0009592" text="astrocytoma" type="HP"/>
+    <entity charOffset="114-137" id="28069802.s0.e3" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <entity charOffset="226-277" id="28069802.s0.e4" ontology_id="GO_0045893" text="positive regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="278-306" id="28069802.s0.e5" ontology_id="GO_0007224" text="smoothened signaling pathway" type="GO"/>
+    <entity charOffset="319-335" id="28069802.s0.e6" ontology_id="HP_0002859" text="rhabdomyosarcoma" type="HP"/>
+    <pair e1="28069802.s0.e0" e2="28069802.s0.e1" id="28069802.s0.p0" relation="false"/>
+    <pair e1="28069802.s0.e0" e2="28069802.s0.e2" id="28069802.s0.p1" relation="false"/>
+    <pair e1="28069802.s0.e0" e2="28069802.s0.e6" id="28069802.s0.p2" relation="false"/>
+    <pair e1="28069802.s0.e1" e2="28069802.s0.e4" id="28069802.s0.p3" relation="false"/>
+    <pair e1="28069802.s0.e2" e2="28069802.s0.e4" id="28069802.s0.p4" relation="false"/>
+    <pair e1="28069802.s0.e3" e2="28069802.s0.e6" id="28069802.s0.p5" relation="false"/>
+    <pair e1="28069802.s0.e4" e2="28069802.s0.e6" id="28069802.s0.p6" relation="true"/>
+    <pair e1="28069802.s0.e5" e2="28069802.s0.e6" id="28069802.s0.p7" relation="false"/>
+  </sentence>
+</document>

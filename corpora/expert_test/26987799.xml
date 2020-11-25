@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="26987799">
+  <sentence id="26987799.s0" text="TMPRSS2-ERG rearrangement and PTEN loss, events sensitizing to PARPi, occurred frequently along with heterogeneous loss of DNA repair factors 53BP1, regulation of transcription, DNA-templated and Rev7 (all studied here for the first time in CaP) whose defects may cause resistance to PARPi.">
+    <entity charOffset="101-114" id="26987799.s0.e0" ontology_id="HP_0001425" text="heterogeneous" type="HP"/>
+    <entity charOffset="149-191" id="26987799.s0.e1" ontology_id="GO_0006355" text="regulation of transcription, DNA-templated" type="GO"/>
+    <pair e1="26987799.s0.e0" e2="26987799.s0.e1" id="26987799.s0.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="21224892">
+  <sentence id="21224892.s0" text="Myotonic dystrophy muscle organ development 2 (DM2) is a progressive multisystem disease with muscle weakness and myotonia as main characteristics.">
+    <entity charOffset="19-43" id="21224892.s0.e0" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="114-122" id="21224892.s0.e1" ontology_id="HP_0002486" text="myotonia" type="HP"/>
+  </sentence>
+</document>

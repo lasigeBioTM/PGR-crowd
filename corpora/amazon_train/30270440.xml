@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<document id="30270440">
+  <sentence id="30270440.s0" text="The negative regulation of transcription by RNA polymerase II of NOX2 and ROS on cancer development is only partly explored.">
+    <entity charOffset="4-61" id="30270440.s0.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="81-87" id="30270440.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+  </sentence>
+  <sentence id="30270440.s1" text="Recent research published in the Journal of Pathology showed that genetic depletion of any of the superoxide metabolic process subunits cytochrome complex assembly, Cybb, protein targeting to membrane, antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent and antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent reduced the formation of lung metastases following intravenous injection of murine tumor cells.">
+    <entity charOffset="98-126" id="30270440.s1.e0" ontology_id="GO_0006801" text="superoxide metabolic process" type="GO"/>
+    <entity charOffset="136-163" id="30270440.s1.e1" ontology_id="GO_0017004" text="cytochrome complex assembly" type="GO"/>
+    <entity charOffset="171-200" id="30270440.s1.e2" ontology_id="GO_0006612" text="protein targeting to membrane" type="GO"/>
+    <entity charOffset="202-297" id="30270440.s1.e3" ontology_id="GO_0002479" text="antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent" type="GO"/>
+    <entity charOffset="302-397" id="30270440.s1.e4" ontology_id="GO_0002479" text="antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent" type="GO"/>
+    <entity charOffset="481-486" id="30270440.s1.e5" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="30270440.s1.e0" e2="30270440.s1.e5" id="30270440.s1.p0" relation="true"/>
+    <pair e1="30270440.s1.e1" e2="30270440.s1.e5" id="30270440.s1.p1" relation="true"/>
+    <pair e1="30270440.s1.e2" e2="30270440.s1.e5" id="30270440.s1.p2" relation="true"/>
+    <pair e1="30270440.s1.e3" e2="30270440.s1.e5" id="30270440.s1.p3" relation="true"/>
+    <pair e1="30270440.s1.e4" e2="30270440.s1.e5" id="30270440.s1.p4" relation="true"/>
+  </sentence>
+</document>

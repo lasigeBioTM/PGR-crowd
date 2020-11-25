@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<document id="28229505">
+  <sentence id="28229505.s0" text="We hypothesized therefore that some children with hypercalciuria and kidney stones harbor a calcium-independent cell-cell adhesion via plasma membrane cell-adhesion molecules variant that inappropriately increases gene expression.">
+    <entity charOffset="50-64" id="28229505.s0.e0" ontology_id="HP_0002150" text="hypercalciuria" type="HP"/>
+    <entity charOffset="92-174" id="28229505.s0.e1" ontology_id="GO_0016338" text="calcium-independent cell-cell adhesion via plasma membrane cell-adhesion molecules" type="GO"/>
+    <pair e1="28229505.s0.e0" e2="28229505.s0.e1" id="28229505.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28229505.s1" text="Our data suggest that children with the negative regulation of transcription by RNA polymerase II binding site within the calcium-independent cell-cell adhesion via plasma membrane cell-adhesion molecules risk haplotype have a higher likelihood of hypercalciuria and kidney stones.">
+    <entity charOffset="40-97" id="28229505.s1.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="122-204" id="28229505.s1.e1" ontology_id="GO_0016338" text="calcium-independent cell-cell adhesion via plasma membrane cell-adhesion molecules" type="GO"/>
+    <entity charOffset="248-262" id="28229505.s1.e2" ontology_id="HP_0002150" text="hypercalciuria" type="HP"/>
+    <pair e1="28229505.s1.e0" e2="28229505.s1.e2" id="28229505.s1.p0" relation="false"/>
+    <pair e1="28229505.s1.e1" e2="28229505.s1.e2" id="28229505.s1.p1" relation="true"/>
+  </sentence>
+  <sentence id="28229505.s2" text="To test this hypothesis, we sequenced the calcium-independent cell-cell adhesion via plasma membrane cell-adhesion molecules risk haplotype in a cohort of children with idiopathic hypercalciuria and kidney stones.">
+    <entity charOffset="42-124" id="28229505.s2.e0" ontology_id="GO_0016338" text="calcium-independent cell-cell adhesion via plasma membrane cell-adhesion molecules" type="GO"/>
+    <entity charOffset="180-194" id="28229505.s2.e1" ontology_id="HP_0002150" text="hypercalciuria" type="HP"/>
+    <pair e1="28229505.s2.e0" e2="28229505.s2.e1" id="28229505.s2.p0" relation="true"/>
+  </sentence>
+</document>

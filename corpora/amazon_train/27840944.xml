@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<document id="27840944">
+  <sentence id="27840944.s0" text="Differentiated embryo chondrocyte expressed gene 1 (negative regulation of transcription by RNA polymerase II), a crucial cell differentiation mediator and apoptosis inhibitor, is abundantly expressed in various types of human cancer and is associated with malignant tumor progression.">
+    <entity charOffset="52-109" id="27840944.s0.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="227-233" id="27840944.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="267-272" id="27840944.s0.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="27840944.s0.e0" e2="27840944.s0.e1" id="27840944.s0.p0" relation="true"/>
+    <pair e1="27840944.s0.e0" e2="27840944.s0.e2" id="27840944.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="27840944.s1" text="As poor differentiation and low apoptosis are closely associated with poor survival rates and a poor response to radio/chemotherapy in patients with cancer, the prognostic value of negative regulation of transcription by RNA polymerase II expression was examined in the present study and its correlation with response to temozolomide (TMZ) chemotherapy was analyzed in patients with glioma.">
+    <entity charOffset="181-238" id="27840944.s1.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="383-389" id="27840944.s1.e1" ontology_id="HP_0009733" text="glioma" type="HP"/>
+    <pair e1="27840944.s1.e0" e2="27840944.s1.e1" id="27840944.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="27840944.s2" text="negative regulation of transcription by RNA polymerase II expression was analyzed by immunohistochemistry in 157 samples of newly diagnosed glioma and 63 recurrent glioblastoma cases that relapsed during TMZ chemotherapy.">
+    <entity charOffset="0-57" id="27840944.s2.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="140-146" id="27840944.s2.e1" ontology_id="HP_0009733" text="glioma" type="HP"/>
+    <pair e1="27840944.s2.e0" e2="27840944.s2.e1" id="27840944.s2.p0" relation="true"/>
+  </sentence>
+  <sentence id="27840944.s3" text="negative regulation of transcription by RNA polymerase II expression was also compared with the apoptosis index determined by TdT‑mediated dUTP nick ending‑labeling assay in recurrent glioblastomas.">
+    <entity charOffset="0-57" id="27840944.s3.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="184-196" id="27840944.s3.e1" ontology_id="HP_0012174" text="glioblastoma" type="HP"/>
+    <pair e1="27840944.s3.e0" e2="27840944.s3.e1" id="27840944.s3.p0" relation="true"/>
+  </sentence>
+  <sentence id="27840944.s4" text="The antiglioma effect of TMZ in establishment of mitotic spindle orientation epidermis development xenografts with negative regulation of transcription by RNA polymerase II expression was examined in vivo.">
+    <entity charOffset="8-14" id="27840944.s4.e0" ontology_id="HP_0009733" text="glioma" type="HP"/>
+    <entity charOffset="32-76" id="27840944.s4.e1" ontology_id="GO_0000132" text="establishment of mitotic spindle orientation" type="GO"/>
+    <entity charOffset="77-98" id="27840944.s4.e2" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="115-172" id="27840944.s4.e3" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="27840944.s4.e0" e2="27840944.s4.e3" id="27840944.s4.p0" relation="true"/>
+  </sentence>
+  <sentence id="27840944.s5" text="High expression of negative regulation of transcription by RNA polymerase II, which was significantly associated with high pathological tumor grade and poor response to TMZ chemotherapy, was demonstrated to be an unfavorable independent prognostic factor and predicted poor survival in patients with newly diagnosed glioma.">
+    <entity charOffset="19-76" id="27840944.s5.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="136-141" id="27840944.s5.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="27840944.s5.e0" e2="27840944.s5.e1" id="27840944.s5.p0" relation="true"/>
+  </sentence>
+  <sentence id="27840944.s6" text="In patients with recurrent glioblastoma, there was a negative correlation between negative regulation of transcription by RNA polymerase II expression and the apoptotic index.">
+    <entity charOffset="27-39" id="27840944.s6.e0" ontology_id="HP_0012174" text="glioblastoma" type="HP"/>
+    <entity charOffset="82-139" id="27840944.s6.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="27840944.s6.e0" e2="27840944.s6.e1" id="27840944.s6.p0" relation="true"/>
+  </sentence>
+</document>

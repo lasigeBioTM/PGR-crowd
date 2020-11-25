@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="25645620">
+  <sentence id="25645620.s0" text="AL epidermis development showed a diabetes prevalence of 43%, whereas mice under CR and IF were completely protected against hyperglycemia.">
+    <entity charOffset="3-24" id="25645620.s0.e0" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="125-138" id="25645620.s0.e1" ontology_id="HP_0003074" text="hyperglycemia" type="HP"/>
+  </sentence>
+</document>

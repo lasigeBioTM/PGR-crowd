@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<document id="25807461">
+  <sentence id="25807461.s0" text="Down-regulation of negative regulation of transcription by RNA polymerase II has been found in various tumor cell lines.">
+    <entity charOffset="19-76" id="25807461.s0.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="103-108" id="25807461.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="25807461.s0.e0" e2="25807461.s0.e1" id="25807461.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="25807461.s1" text="There has been virtually no tissue study on the expression of PLZF in prostate cancer (mitochondrial transport).">
+    <entity charOffset="79-85" id="25807461.s1.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="87-110" id="25807461.s1.e1" ontology_id="GO_0006839" text="mitochondrial transport" type="GO"/>
+    <pair e1="25807461.s1.e0" e2="25807461.s1.e1" id="25807461.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="25807461.s2" text="mitochondrial transport is a heterogeneous disease, most of which are indolent and non-lethal.">
+    <entity charOffset="0-23" id="25807461.s2.e0" ontology_id="GO_0006839" text="mitochondrial transport" type="GO"/>
+    <entity charOffset="29-42" id="25807461.s2.e1" ontology_id="HP_0001425" text="heterogeneous" type="HP"/>
+  </sentence>
+  <sentence id="25807461.s3" text="This study aimed to investigate the expression of negative regulation of transcription by RNA polymerase II by immunohistochemistry in different grade as well as metastatic PCa and to correlate the alteration of PLZF expression with PCa aggressiveness.">
+    <entity charOffset="50-107" id="25807461.s3.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="237-251" id="25807461.s3.e1" ontology_id="HP_0000718" text="aggressiveness" type="HP"/>
+    <pair e1="25807461.s3.e0" e2="25807461.s3.e1" id="25807461.s3.p0" relation="true"/>
+  </sentence>
+  <sentence id="25807461.s4" text="These data demonstrated that down-regulation of negative regulation of transcription by RNA polymerase II is an important molecular process for tumor progression and loss of PLZF expression detected by routine immunohistochemistry is a promising and valuable biomarker for mitochondrial transport aggressiveness and metastasis in the personalized care of PCa.">
+    <entity charOffset="48-105" id="25807461.s4.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="144-149" id="25807461.s4.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="273-296" id="25807461.s4.e2" ontology_id="GO_0006839" text="mitochondrial transport" type="GO"/>
+    <entity charOffset="297-311" id="25807461.s4.e3" ontology_id="HP_0000718" text="aggressiveness" type="HP"/>
+    <pair e1="25807461.s4.e0" e2="25807461.s4.e1" id="25807461.s4.p0" relation="false"/>
+    <pair e1="25807461.s4.e0" e2="25807461.s4.e3" id="25807461.s4.p1" relation="true"/>
+    <pair e1="25807461.s4.e1" e2="25807461.s4.e2" id="25807461.s4.p2" relation="true"/>
+    <pair e1="25807461.s4.e2" e2="25807461.s4.e3" id="25807461.s4.p3" relation="true"/>
+  </sentence>
+</document>

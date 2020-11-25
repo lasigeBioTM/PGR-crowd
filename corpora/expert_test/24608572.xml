@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="24608572">
+  <sentence id="24608572.s0" text="The mechanism of TMEM98 in conferring chemoresistance of hepatocellular carcinoma might be possibly through activation of the positive regulation of protein phosphorylation pathway and deactivation of p53.">
+    <entity charOffset="57-81" id="24608572.s0.e0" ontology_id="HP_0001402" text="hepatocellular carcinoma" type="HP"/>
+    <entity charOffset="126-172" id="24608572.s0.e1" ontology_id="GO_0001934" text="positive regulation of protein phosphorylation" type="GO"/>
+    <pair e1="24608572.s0.e0" e2="24608572.s0.e1" id="24608572.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="24608572.s1" text="negative regulation of myelination mRNA in tumor tissues was significantly higher than nontumor tissues of patients with hepatocellular carcinoma (P &amp;lt; 0.0001).">
+    <entity charOffset="0-34" id="24608572.s1.e0" ontology_id="GO_0031642" text="negative regulation of myelination" type="GO"/>
+    <entity charOffset="43-48" id="24608572.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="24608572.s1.e0" e2="24608572.s1.e1" id="24608572.s1.p0" relation="true"/>
+  </sentence>
+</document>

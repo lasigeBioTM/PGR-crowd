@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29262419">
+  <sentence id="29262419.s0" text="Homozygous positive regulation of protein phosphorylation mutations cause a syndrome of 46,XX disorder of sexual development (DSD), palmoplantar keratoderma (PPK), and predisposition to squamous cell carcinoma.">
+    <entity charOffset="11-57" id="29262419.s0.e0" ontology_id="GO_0001934" text="positive regulation of protein phosphorylation" type="GO"/>
+    <entity charOffset="186-209" id="29262419.s0.e1" ontology_id="HP_0002860" text="squamous cell carcinoma" type="HP"/>
+    <pair e1="29262419.s0.e0" e2="29262419.s0.e1" id="29262419.s0.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="26073781">
+  <sentence id="26073781.s0" text="Genome-wide association studies have identified SNPs near negative regulation of neuron projection development at 10q21.2 that are associated with both breast cancer risk and mammographic density.">
+    <entity charOffset="58-110" id="26073781.s0.e0" ontology_id="GO_0010977" text="negative regulation of neuron projection development" type="GO"/>
+    <entity charOffset="159-165" id="26073781.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="26073781.s0.e0" e2="26073781.s0.e1" id="26073781.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="26073781.s1" text="Luciferase assays did not identify SNPs that affect transactivation of negative regulation of neuron projection development, but identified a protective haplotype in iCHAV2, associated with silencing of the NRBF2 promoter, implicating this gene in the etiology of breast cancer.">
+    <entity charOffset="71-123" id="26073781.s1.e0" ontology_id="GO_0010977" text="negative regulation of neuron projection development" type="GO"/>
+    <entity charOffset="271-277" id="26073781.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="26073781.s1.e0" e2="26073781.s1.e1" id="26073781.s1.p0" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<document id="28444220">
+  <sentence id="28444220.s0" text="While polyglutamine ataxias, linked to CAG repeat expansions in genes such as ATXN1, negative regulation of receptor internalization, protein K63-linked deubiquitination, histone deubiquitination, positive regulation of cytosolic calcium ion concentration and TBP, have been extensively characterized in large cohorts, there is a need for comprehensive assessment of frequency and phenotype of more 'conventional' ataxias.">
+    <entity charOffset="20-27" id="28444220.s0.e0" ontology_id="HP_0001251" text="ataxias" type="HP"/>
+    <entity charOffset="85-132" id="28444220.s0.e1" ontology_id="GO_0002091" text="negative regulation of receptor internalization" type="GO"/>
+    <entity charOffset="134-169" id="28444220.s0.e2" ontology_id="GO_0070536" text="protein K63-linked deubiquitination" type="GO"/>
+    <entity charOffset="171-195" id="28444220.s0.e3" ontology_id="GO_0016578" text="histone deubiquitination" type="GO"/>
+    <entity charOffset="197-255" id="28444220.s0.e4" ontology_id="GO_0007204" text="positive regulation of cytosolic calcium ion concentration" type="GO"/>
+    <pair e1="28444220.s0.e0" e2="28444220.s0.e4" id="28444220.s0.p0" relation="true"/>
+    <pair e1="28444220.s0.e0" e2="28444220.s0.e3" id="28444220.s0.p1" relation="true"/>
+    <pair e1="28444220.s0.e0" e2="28444220.s0.e1" id="28444220.s0.p2" relation="true"/>
+    <pair e1="28444220.s0.e0" e2="28444220.s0.e2" id="28444220.s0.p3" relation="true"/>
+  </sentence>
+  <sentence id="28444220.s1" text="In conclusion, we identified relevant genetic variations in up to 15% of cases after exclusion of polyglutamine expansion spinocerebellar ataxias, and confirmed CACNA1A and regulation of mitochondrial membrane permeability as major ataxia genes.">
+    <entity charOffset="173-222" id="28444220.s1.e0" ontology_id="GO_0046902" text="regulation of mitochondrial membrane permeability" type="GO"/>
+    <entity charOffset="232-238" id="28444220.s1.e1" ontology_id="HP_0001251" text="ataxia" type="HP"/>
+    <pair e1="28444220.s1.e0" e2="28444220.s1.e1" id="28444220.s1.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,878 @@
+<?xml version="1.0" ?>
+<document id="original_test">
+  <sentence id="s0" text="Interventions on cytoskeletal anchoring at plasma membrane-related diseases require prenatal surveillance by sonography, gene testing in high-risk carriers, and proper orthosis or orthopedic surgeries to correct malformations including scoliosis, cervical spine instability, large joint dislocation, and clubfoot.">
+    <entity charOffset="17-58" id="s0.e0" ontology_id="GO_0007016" text="cytoskeletal anchoring at plasma membrane" type="GO"/>
+    <entity charOffset="236-245" id="s0.e1" ontology_id="HP_0002650" text="scoliosis" type="HP"/>
+    <pair e1="s0.e0" e2="s0.e1" id="s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="s1" text="Genes with DMRs were involved in inflammatory response (IRAK4 and ESM1), cancer (BRCA1 and LASP1), endocrine function (CNPY1), and male fertility (skeletal system morphogenesis, positive regulation of granulocyte differentiation, and PRDM8).">
+    <entity charOffset="73-79" id="s1.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="178-228" id="s1.e1" ontology_id="GO_0030854" text="positive regulation of granulocyte differentiation" type="GO"/>
+    <pair e1="s1.e0" e2="s1.e1" id="s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="s2" text="Genes with DMRs were involved in inflammatory response (IRAK4 and ESM1), cancer (BRCA1 and LASP1), endocrine function (CNPY1), and male fertility (skeletal system morphogenesis, positive regulation of granulocyte differentiation, and PRDM8).">
+    <entity charOffset="73-79" id="s2.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="147-176" id="s2.e1" ontology_id="GO_0048705" text="skeletal system morphogenesis" type="GO"/>
+    <pair e1="s2.e0" e2="s2.e1" id="s2.p0" relation="false"/>
+  </sentence>
+  <sentence id="s3" text="This similarity was revealed by the same number of passages, the same germ cell clusters formation and similar level of genes expression of spermatogonial markers including ubiquitin carboxyl-terminal esterase L1 (UCHL1), zinc finger and BTB domain containing 16 (ZBTB16) and glial cell line-derived neurotrophic factor family receptor alpha 1 (GFRA1), as well as germ cell differentiation markers including signal transducer and activator of transcription 3 (STAT3), spermatogenesis and oogenesis specific basic helix-loophelix 2 (SOHLH2), v-activation of MAPK activity Hardy-Zuckerman 4 feline sarcoma viral oncogene homolog (KIT) and synaptonemal complex protein 3 (SYCP3).">
+    <entity charOffset="543-570" id="s3.e0" ontology_id="GO_0000187" text="activation of MAPK activity" type="GO"/>
+    <entity charOffset="596-603" id="s3.e1" ontology_id="HP_0100242" text="sarcoma" type="HP"/>
+    <pair e1="s3.e0" e2="s3.e1" id="s3.p0" relation="true"/>
+  </sentence>
+  <sentence id="s4" text="Altogether, these data point to a pathophysiological mechanism responsible for RGC early degeneration and optic neuropathy and linking regulation of dendrite development functions to mitochondrial physiology, response to UV light, and dendrite growth during eye maturation">
+    <entity charOffset="112-122" id="s4.e0" ontology_id="HP_0009830" text="neuropathy" type="HP"/>
+    <entity charOffset="135-169" id="s4.e1" ontology_id="GO_0050773" text="regulation of dendrite development" type="GO"/>
+    <pair e1="s4.e0" e2="s4.e1" id="s4.p0" relation="false"/>
+  </sentence>
+  <sentence id="s5" text="We expand the knowledge about protein localization to plasma membrane deficiency, describing a patient with the mild phenotype of TTC7A deficiency but presenting overlapping features of SD/THE and regulation of signaling receptor activity-CID: intestinal atresia and inflammatory bowel disease evocative of MIA-CID, but also dental abnormalities, huge forehead, liver abnormalities, autoimmune thyroiditis and hypogammaglobulinemia, evocative of SD/THE">
+    <entity charOffset="30-69" id="s5.e0" ontology_id="GO_0072659" text="protein localization to plasma membrane" type="GO"/>
+    <entity charOffset="325-345" id="s5.e1" ontology_id="HP_0000164" text="dental abnormalities" type="HP"/>
+    <pair e1="s5.e0" e2="s5.e1" id="s5.p0" relation="true"/>
+  </sentence>
+  <sentence id="s6" text="We expand the knowledge about protein localization to plasma membrane deficiency, describing a patient with the mild phenotype of TTC7A deficiency but presenting overlapping features of SD/THE and regulation of signaling receptor activity-CID: intestinal atresia and inflammatory bowel disease evocative of MIA-CID, but also dental abnormalities, huge forehead, liver abnormalities, autoimmune thyroiditis and hypogammaglobulinemia, evocative of SD/THE">
+    <entity charOffset="197-238" id="s6.e0" ontology_id="GO_0010469" text="regulation of signaling receptor activity" type="GO"/>
+    <entity charOffset="325-345" id="s6.e1" ontology_id="HP_0000164" text="dental abnormalities" type="HP"/>
+    <pair e1="s6.e0" e2="s6.e1" id="s6.p0" relation="false"/>
+  </sentence>
+  <sentence id="s7" text="Tricho-hepato-enteric syndrome (negative regulation of protein export from nucleus/THE) and Multiple intestinal atresia with combined immune deficiency (MIA-CID) are autosomal recessive disorders that present immunological and gastrointestinal features.">
+    <entity charOffset="32-82" id="s7.e0" ontology_id="GO_0046826" text="negative regulation of protein export from nucleus" type="GO"/>
+    <entity charOffset="101-119" id="s7.e1" ontology_id="HP_0011100" text="intestinal atresia" type="HP"/>
+    <pair e1="s7.e0" e2="s7.e1" id="s7.p0" relation="false"/>
+  </sentence>
+  <sentence id="s8" text="ETV1/4/5 factors are often overexpressed in prostate cancer and genome-wide studies in a prostate cancer cell line indicate that positive regulation of transcription by RNA polymerase II and MED25 occupy enhancers that are enriched for ETS-binding sequences and are both functionally important for the transcription of genes regulated by these enhancers.">
+    <entity charOffset="53-59" id="s8.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="129-186" id="s8.e1" ontology_id="GO_0045944" text="positive regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="s8.e0" e2="s8.e1" id="s8.p0" relation="true"/>
+  </sentence>
+  <sentence id="s9" text="In recent years, high-throughput sequencing has been used to analyze exomes of virtually all human tumors, which allowed to construct phylogenetic trees of clonal cancer evolution with special emphasis on driver mutations in positive regulation of cell proliferation-4 genes.">
+    <entity charOffset="163-169" id="s9.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="225-266" id="s9.e1" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <pair e1="s9.e0" e2="s9.e1" id="s9.p0" relation="true"/>
+  </sentence>
+  <sentence id="s10" text="Previous studies have identified a critical role for the tumor suppressors double-strand break repair via homologous recombination and BRCA2 in preventing the degradation of nascent DNA by the MRE11 nuclease after replication stress.">
+    <entity charOffset="57-62" id="s10.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="75-130" id="s10.e1" ontology_id="GO_0000724" text="double-strand break repair via homologous recombination" type="GO"/>
+    <pair e1="s10.e0" e2="s10.e1" id="s10.p0" relation="true"/>
+  </sentence>
+  <sentence id="s11" text="In families severely affected with breast cancer, we identified inherited negative regulation of protein export from nucleus missense mutations Cys53Trp, Cys71Tyr, and Cys83Arg that alter three zinc-binding residues of the BARD1 RING domain.">
+    <entity charOffset="42-48" id="s11.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="74-124" id="s11.e1" ontology_id="GO_0046826" text="negative regulation of protein export from nucleus" type="GO"/>
+    <pair e1="s11.e0" e2="s11.e1" id="s11.p0" relation="true"/>
+  </sentence>
+  <sentence id="s12" text="Missense mutations that disrupt the RING domain of the tumor suppressor gene double-strand break repair via homologous recombination lead to increased risk of breast and ovarian cancer.">
+    <entity charOffset="55-60" id="s12.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="77-132" id="s12.e1" ontology_id="GO_0000724" text="double-strand break repair via homologous recombination" type="GO"/>
+    <pair e1="s12.e0" e2="s12.e1" id="s12.p0" relation="true"/>
+  </sentence>
+  <sentence id="s13" text="Consistent with this result, mutations in the learning gene coding for CASPR2 in human have been identified in neurodevelopmental disorders such as autism, intellectual disability, and epilepsy.">
+    <entity charOffset="46-54" id="s13.e0" ontology_id="GO_0007612" text="learning" type="GO"/>
+    <entity charOffset="156-179" id="s13.e1" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <pair e1="s13.e0" e2="s13.e1" id="s13.p0" relation="true"/>
+  </sentence>
+  <sentence id="s14" text="Some genes, such as GSTM1, negative regulation of transcription, DNA-templated, and CYP1A1, have been shown to be potentially associated with oligospermia; some, such as CATSPER1, CRISP2, positive regulation of protein ubiquitination, biological_process, TEKT4, and DNAH1, with asthenospermia; and still others, such as DPY19L2 and AURKC, with teratospermia.">
+    <entity charOffset="27-78" id="s14.e0" ontology_id="GO_0045892" text="negative regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="142-154" id="s14.e1" ontology_id="HP_0000798" text="oligospermia" type="HP"/>
+    <pair e1="s14.e0" e2="s14.e1" id="s14.p0" relation="true"/>
+  </sentence>
+  <sentence id="s15" text="Some genes, such as GSTM1, negative regulation of transcription, DNA-templated, and CYP1A1, have been shown to be potentially associated with oligospermia; some, such as CATSPER1, CRISP2, positive regulation of protein ubiquitination, biological_process, TEKT4, and DNAH1, with asthenospermia; and still others, such as DPY19L2 and AURKC, with teratospermia.">
+    <entity charOffset="142-154" id="s15.e0" ontology_id="HP_0000798" text="oligospermia" type="HP"/>
+    <entity charOffset="188-233" id="s15.e1" ontology_id="GO_0031398" text="positive regulation of protein ubiquitination" type="GO"/>
+    <pair e1="s15.e0" e2="s15.e1" id="s15.p0" relation="false"/>
+  </sentence>
+  <sentence id="s16" text="Some genes, such as GSTM1, negative regulation of transcription, DNA-templated, and CYP1A1, have been shown to be potentially associated with oligospermia; some, such as CATSPER1, CRISP2, positive regulation of protein ubiquitination, biological_process, TEKT4, and DNAH1, with asthenospermia; and still others, such as DPY19L2 and AURKC, with teratospermia.">
+    <entity charOffset="235-253" id="s16.e0" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="344-357" id="s16.e1" ontology_id="HP_0012864" text="teratospermia" type="HP"/>
+    <pair e1="s16.e0" e2="s16.e1" id="s16.p0" relation="false"/>
+  </sentence>
+  <sentence id="s17" text="Some genes, such as GSTM1, negative regulation of transcription, DNA-templated, and CYP1A1, have been shown to be potentially associated with oligospermia; some, such as CATSPER1, CRISP2, positive regulation of protein ubiquitination, biological_process, TEKT4, and DNAH1, with asthenospermia; and still others, such as DPY19L2 and AURKC, with teratospermia.">
+    <entity charOffset="27-78" id="s17.e0" ontology_id="GO_0045892" text="negative regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="142-154" id="s17.e1" ontology_id="HP_0000798" text="oligospermia" type="HP"/>
+    <pair e1="s17.e0" e2="s17.e1" id="s17.p0" relation="true"/>
+  </sentence>
+  <sentence id="s18" text="Some genes, such as GSTM1, negative regulation of transcription, DNA-templated, and CYP1A1, have been shown to be potentially associated with oligospermia; some, such as CATSPER1, CRISP2, positive regulation of protein ubiquitination, biological_process, TEKT4, and DNAH1, with asthenospermia; and still others, such as DPY19L2 and AURKC, with teratospermia.">
+    <entity charOffset="142-154" id="s18.e0" ontology_id="HP_0000798" text="oligospermia" type="HP"/>
+    <entity charOffset="188-233" id="s18.e1" ontology_id="GO_0031398" text="positive regulation of protein ubiquitination" type="GO"/>
+    <pair e1="s18.e0" e2="s18.e1" id="s18.p0" relation="false"/>
+  </sentence>
+  <sentence id="s19" text="Some genes, such as GSTM1, negative regulation of transcription, DNA-templated, and CYP1A1, have been shown to be potentially associated with oligospermia; some, such as CATSPER1, CRISP2, positive regulation of protein ubiquitination, biological_process, TEKT4, and DNAH1, with asthenospermia; and still others, such as DPY19L2 and AURKC, with teratospermia.">
+    <entity charOffset="235-253" id="s19.e0" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="344-357" id="s19.e1" ontology_id="HP_0012864" text="teratospermia" type="HP"/>
+    <pair e1="s19.e0" e2="s19.e1" id="s19.p0" relation="false"/>
+  </sentence>
+  <sentence id="s20" text="However, the mechanism for photoreceptor cell maintenance-mediated glioma progression has yet to be fully elucidated.">
+    <entity charOffset="27-57" id="s20.e0" ontology_id="GO_0045494" text="photoreceptor cell maintenance" type="GO"/>
+    <entity charOffset="67-73" id="s20.e1" ontology_id="HP_0009733" text="glioma" type="HP"/>
+    <pair e1="s20.e0" e2="s20.e1" id="s20.p0" relation="true"/>
+  </sentence>
+  <sentence id="s21" text="Ectopic expression of protein polyubiquitination-451a significantly inhibited cancer cell migration and invasion by RCC cell lines, suggesting that miR-451a had antitumor roles.">
+    <entity charOffset="22-48" id="s21.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="78-84" id="s21.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="s21.e0" e2="s21.e1" id="s21.p0" relation="true"/>
+  </sentence>
+  <sentence id="s22" text="Similar findings were observed in a patient with chronic hypophosphatemia as a result of a mutation in sodium ion transport who had a 50% reduction in both serum Pi content and muscle VATP After oral Pi repletion and normalization of serum Pi levels, muscle VATP completely normalized in the patient.">
+    <entity charOffset="57-73" id="s22.e0" ontology_id="HP_0002148" text="hypophosphatemia" type="HP"/>
+    <entity charOffset="103-123" id="s22.e1" ontology_id="GO_0006814" text="sodium ion transport" type="GO"/>
+    <pair e1="s22.e0" e2="s22.e1" id="s22.p0" relation="true"/>
+  </sentence>
+  <sentence id="s23" text="In humans, mutations in regulation of autophagy result in Wolfram syndrome 2, a disease in which the patients display juvenile diabetes, neuropsychiatric disorders and defective platelet aggregation.">
+    <entity charOffset="24-47" id="s23.e0" ontology_id="GO_0010506" text="regulation of autophagy" type="GO"/>
+    <entity charOffset="168-198" id="s23.e1" ontology_id="HP_0003540" text="defective platelet aggregation" type="HP"/>
+    <pair e1="s23.e0" e2="s23.e1" id="s23.p0" relation="true"/>
+  </sentence>
+  <sentence id="s24" text="Overall, GPT2 promotes tumorigenesis and stemness of breast cancer cells by activating the positive regulation of cell proliferation signaling, suggesting that GTP2 is a potential target for breast cancer therapy">
+    <entity charOffset="60-66" id="s24.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="91-132" id="s24.e1" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <pair e1="s24.e0" e2="s24.e1" id="s24.p0" relation="true"/>
+  </sentence>
+  <sentence id="s25" text="However, certain chromatin remodeling genes (MLL1, MLL2, MLL3, BAP1, PBRM1, EED, and ATRX) were found to be mutated in 7/22 (32%) of intraductal tubulopapillary neoplasms and 27% harbored phosphatidylinositol 3-kinase (PI3K) pathway (phosphorylation, PIK3CB, INPP4A, and PTEN) mutations.">
+    <entity charOffset="161-169" id="s25.e0" ontology_id="HP_0002664" text="neoplasm" type="HP"/>
+    <entity charOffset="234-249" id="s25.e1" ontology_id="GO_0016310" text="phosphorylation" type="GO"/>
+    <pair e1="s25.e0" e2="s25.e1" id="s25.p0" relation="false"/>
+  </sentence>
+  <sentence id="s26" text="This validation revealed that the expression of eye development&amp;amp;mdash;but not SPRY1&amp;amp;mdash;is higher in glioblastoma cell lines when compared to non-malignant astrocytes.">
+    <entity charOffset="48-63" id="s26.e0" ontology_id="GO_0001654" text="eye development" type="GO"/>
+    <entity charOffset="111-123" id="s26.e1" ontology_id="HP_0012174" text="glioblastoma" type="HP"/>
+    <pair e1="s26.e0" e2="s26.e1" id="s26.p0" relation="true"/>
+  </sentence>
+  <sentence id="s27" text="In the present study, the results obtained from our previously published methylation array were analyzed and 10 candidate genes involved in DNA repair [protein phosphatase 4 catalytic subunit (PPP4C)], apoptosis [runt related transcription factor 3 (protein phosphorylation), interferon regulatory factor 4 (IRF4), ubiquitin C-terminal hydrolase L1 (UCHL1) and tumor protein p53 inducible protein 3 (TP53I3)], cell proliferation [cyclin D2 (CCND2) and Ras association domain family member 1 (RASSF1)], drug metabolism [aldehyde dehydrogenase 1 family member A3 (ALDH1A3) and solute carrier family 29 member 1 (neurotransmitter reuptake)] and angiogenesis [human immunodeficiency virus-1 tat interactive protein 2 (HTATIP2)] were selected for quantification of their methylation levels in 54 CCA and 19 adjacent normal tissues using methylation-sensitive high-resolution melting.">
+    <entity charOffset="250-273" id="s27.e0" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <entity charOffset="361-366" id="s27.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="s27.e0" e2="s27.e1" id="s27.p0" relation="false"/>
+  </sentence>
+  <sentence id="s28" text="In the present study, the results obtained from our previously published methylation array were analyzed and 10 candidate genes involved in DNA repair [protein phosphatase 4 catalytic subunit (PPP4C)], apoptosis [runt related transcription factor 3 (protein phosphorylation), interferon regulatory factor 4 (IRF4), ubiquitin C-terminal hydrolase L1 (UCHL1) and tumor protein p53 inducible protein 3 (TP53I3)], cell proliferation [cyclin D2 (CCND2) and Ras association domain family member 1 (RASSF1)], drug metabolism [aldehyde dehydrogenase 1 family member A3 (ALDH1A3) and solute carrier family 29 member 1 (neurotransmitter reuptake)] and angiogenesis [human immunodeficiency virus-1 tat interactive protein 2 (HTATIP2)] were selected for quantification of their methylation levels in 54 CCA and 19 adjacent normal tissues using methylation-sensitive high-resolution melting.">
+    <entity charOffset="361-366" id="s28.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="610-635" id="s28.e1" ontology_id="GO_0098810" text="neurotransmitter reuptake" type="GO"/>
+    <pair e1="s28.e0" e2="s28.e1" id="s28.p0" relation="false"/>
+  </sentence>
+  <sentence id="s29" text="DHEA prevents mitochondrial dysfunction by decreasing the activation of DNM1L and MFF, and increasing mitochondrial fusion expression.">
+    <entity charOffset="14-39" id="s29.e0" ontology_id="HP_0003287" text="mitochondrial dysfunction" type="HP"/>
+    <entity charOffset="102-122" id="s29.e1" ontology_id="GO_0008053" text="mitochondrial fusion" type="GO"/>
+    <pair e1="s29.e0" e2="s29.e1" id="s29.p0" relation="true"/>
+  </sentence>
+  <sentence id="s30" text="Smith-Magenis syndrome (SMS), a neurodevelopmental disorder characterized by dysmorphic features, intellectual disability (ID), and sleep disturbances, results from a 17p11.2 microdeletion or a mutation in the positive regulation of transcription, DNA-templated gene.">
+    <entity charOffset="98-121" id="s30.e0" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <entity charOffset="210-261" id="s30.e1" ontology_id="GO_0045893" text="positive regulation of transcription, DNA-templated" type="GO"/>
+    <pair e1="s30.e0" e2="s30.e1" id="s30.p0" relation="true"/>
+  </sentence>
+  <sentence id="s31" text="Our analyses revealed that the primary tumor and NCC-SS1-C1 cell line harbored the positive regulation of transcription by RNA polymerase II-SSX1 fusion gene typical of synovial sarcoma and similar proteomics profiles.">
+    <entity charOffset="39-44" id="s31.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="83-140" id="s31.e1" ontology_id="GO_0045944" text="positive regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="s31.e0" e2="s31.e1" id="s31.p0" relation="true"/>
+  </sentence>
+  <sentence id="s32" text="Complex recessive spastic paraplegias have in the past been frequently associated with mutations in SPG11 (spatacsin), double-strand break repair via homologous recombination/SPG15, SPG7 (paraplegin) and a handful of other rare genes, but many cases remain genetically undefined.">
+    <entity charOffset="18-36" id="s32.e0" ontology_id="HP_0001258" text="spastic paraplegia" type="HP"/>
+    <entity charOffset="119-174" id="s32.e1" ontology_id="GO_0000724" text="double-strand break repair via homologous recombination" type="GO"/>
+    <pair e1="s32.e0" e2="s32.e1" id="s32.p0" relation="true"/>
+  </sentence>
+  <sentence id="s33" text="In the remaining cases, next generation sequencing was carried out revealing variants in a number of other known complex spastic paraplegia genes, including five in SPG7 (5/97), four in FA2H (also known as SPG35) (4/97) and two in ZFYVE26/double-strand break repair via homologous recombination Variants were identified in genes usually associated with pure spastic paraplegia and also in the Parkinson*s disease-associated gene ATP13A2, neuronal ceroid lipofuscinosis gene TPP1 and the hereditary motor and sensory neuropathy DNMT1 gene, highlighting the genetic heterogeneity of spastic paraplegia.">
+    <entity charOffset="121-139" id="s33.e0" ontology_id="HP_0001258" text="spastic paraplegia" type="HP"/>
+    <entity charOffset="239-294" id="s33.e1" ontology_id="GO_0000724" text="double-strand break repair via homologous recombination" type="GO"/>
+    <pair e1="s33.e0" e2="s33.e1" id="s33.p0" relation="false"/>
+  </sentence>
+  <sentence id="s34" text="The negative regulation of transcription by RNA polymerase II is a tumor suppressor gene and found to interact with p53, the trigger for apoptosis through BCl2 family genes and a regulator of Notch signaling pathway for the self-renewal of stem cells.">
+    <entity charOffset="4-61" id="s34.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="67-72" id="s34.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="s34.e0" e2="s34.e1" id="s34.p0" relation="true"/>
+  </sentence>
+  <sentence id="s35" text="This was accompanied by neuronal loss and neuro-axonal dysfunction in adult OL-potassium ion transport cKO mice as shown by delayed visual evoked potentials, inner retinal thinning and progressive motor deficits.">
+    <entity charOffset="24-37" id="s35.e0" ontology_id="HP_0002529" text="neuronal loss" type="HP"/>
+    <entity charOffset="79-102" id="s35.e1" ontology_id="GO_0006813" text="potassium ion transport" type="GO"/>
+    <pair e1="s35.e0" e2="s35.e1" id="s35.p0" relation="true"/>
+  </sentence>
+  <sentence id="s36" text="negative regulation of epithelial cell migration, a transmembrane glycoprotein, has emerged as a biomarker for targeted cancer therapy since it is overexpressed in 80% of triple negative breast cancer (TNBC) patients.">
+    <entity charOffset="0-48" id="s36.e0" ontology_id="GO_0010633" text="negative regulation of epithelial cell migration" type="GO"/>
+    <entity charOffset="120-126" id="s36.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="s36.e0" e2="s36.e1" id="s36.p0" relation="true"/>
+  </sentence>
+  <sentence id="s37" text="After HDM challenge, these mice also had fewer airway inflammatory cells, reduced interleukin (IL)-5, IL-13, IL-33, tumour necrosis factor (TNF) and chemotaxis levels in the lungs, and reduced IL-5, IL-33 and TNF levels in lung-draining lymph nodes.">
+    <entity charOffset="116-122" id="s37.e0" ontology_id="HP_0002664" text="tumour" type="HP"/>
+    <entity charOffset="149-159" id="s37.e1" ontology_id="GO_0006935" text="chemotaxis" type="GO"/>
+    <pair e1="s37.e0" e2="s37.e1" id="s37.p0" relation="false"/>
+  </sentence>
+  <sentence id="s38" text="From a GeneMatcher-enabled international collaboration, we identified ten individuals affected by intellectual disability, speech delay, ataxia, and facial dysmorphism and carrying a deleterious positive regulation of transcription, DNA-templated variant detected by whole-exome sequencing.">
+    <entity charOffset="137-143" id="s38.e0" ontology_id="HP_0001251" text="ataxia" type="HP"/>
+    <entity charOffset="195-246" id="s38.e1" ontology_id="GO_0045893" text="positive regulation of transcription, DNA-templated" type="GO"/>
+    <pair e1="s38.e0" e2="s38.e1" id="s38.p0" relation="true"/>
+  </sentence>
+  <sentence id="s39" text="Mutations in antibacterial humoral response (PARK14) cause neurodegenerative disorders in humans, including autosomal recessive neuroaxonal dystrophy and early-onset parkinsonism.">
+    <entity charOffset="13-43" id="s39.e0" ontology_id="GO_0019731" text="antibacterial humoral response" type="GO"/>
+    <entity charOffset="108-127" id="s39.e1" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <pair e1="s39.e0" e2="s39.e1" id="s39.p0" relation="true"/>
+  </sentence>
+  <sentence id="s40" text="Mutations and deletions of the interleukin-1 receptor accessory protein like 1 (regulation of postsynapse organization) gene, located on the X chromosome, are associated with intellectual disability (ID) and autism spectrum disorder (ASD).">
+    <entity charOffset="80-118" id="s40.e0" ontology_id="GO_0099175" text="regulation of postsynapse organization" type="GO"/>
+    <entity charOffset="208-214" id="s40.e1" ontology_id="HP_0000717" text="autism" type="HP"/>
+    <pair e1="s40.e0" e2="s40.e1" id="s40.p0" relation="true"/>
+  </sentence>
+  <sentence id="s41" text="The immunohistochemical expression of cell-matrix adhesion in corresponding tissue was significantly higher in metastases than in glioblastomas.The present study demonstrates high levels of L1CAM in cyst fluid of glioblastoma and metastatic brain tumors.">
+    <entity charOffset="38-58" id="s41.e0" ontology_id="GO_0007160" text="cell-matrix adhesion" type="GO"/>
+    <entity charOffset="130-142" id="s41.e1" ontology_id="HP_0012174" text="glioblastoma" type="HP"/>
+    <pair e1="s41.e0" e2="s41.e1" id="s41.p0" relation="true"/>
+  </sentence>
+  <sentence id="s42" text="Four of the five genes, including AKAP12, SOPB, negative regulation of transcription by RNA polymerase II, COL12A1 and TXNIP were downregulated, and were associated with the OS of patients with breast carcinoma.">
+    <entity charOffset="48-105" id="s42.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="201-210" id="s42.e1" ontology_id="HP_0030731" text="carcinoma" type="HP"/>
+    <pair e1="s42.e0" e2="s42.e1" id="s42.p0" relation="true"/>
+  </sentence>
+  <sentence id="s43" text="miR-142-3p overexpression resulted in a strong decline in breast cancer stem cell characteristics with a decrease in CD44, CD133, ALDH1, Bod1, mitotic cytokinesis, and mammosphere formation as well as reduced survival after irradiation.">
+    <entity charOffset="65-71" id="s43.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="143-162" id="s43.e1" ontology_id="GO_0000281" text="mitotic cytokinesis" type="GO"/>
+    <pair e1="s43.e0" e2="s43.e1" id="s43.p0" relation="true"/>
+  </sentence>
+  <sentence id="s44" text="Here we established a mutation detection system based on multiple fluorescent probe technique, which can detect and genotype nine hotspot mutations of four prominent hearing loss-related genes in two reactions on a four-channel real-time PCR instrument, including GJB2 (rs750188782, rs80338943, rs1110333204, and rs80338939), GJB3 (rs74315319), regulation of pH (rs111033313 and rs121908362), and mtDNA 12S rRNA (rs267606617 and rs267606619).">
+    <entity charOffset="166-178" id="s44.e0" ontology_id="HP_0000365" text="hearing loss" type="HP"/>
+    <entity charOffset="345-361" id="s44.e1" ontology_id="GO_0006885" text="regulation of pH" type="GO"/>
+    <pair e1="s44.e0" e2="s44.e1" id="s44.p0" relation="true"/>
+  </sentence>
+  <sentence id="s45" text="Altogether, our data indicate that the levels of these protein polyubiquitinationNAs may be used as biological markers for evaluating hepatocellular carcinoma progression.">
+    <entity charOffset="55-81" id="s45.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="134-158" id="s45.e1" ontology_id="HP_0001402" text="hepatocellular carcinoma" type="HP"/>
+    <pair e1="s45.e0" e2="s45.e1" id="s45.p0" relation="false"/>
+  </sentence>
+  <sentence id="s46" text="3) Multiple endocrine neoplasia type 1 (negative regulation of transcription by RNA polymerase II) is most frequently expressed as PHPT with asymmetric enlargement of 3-4 parathyroids.">
+    <entity charOffset="22-31" id="s46.e0" ontology_id="HP_0002664" text="neoplasia" type="HP"/>
+    <entity charOffset="40-97" id="s46.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="s46.e0" e2="s46.e1" id="s46.p0" relation="true"/>
+  </sentence>
+  <sentence id="s47" text="proteolysis is an intracellular protease that mediates the activation of several innate and adaptive immune cells in response to multiple receptors, and therapeutic MALT1 targeting is believed to be a valid approach for autoimmunity and MALT1-addicted cancers.">
+    <entity charOffset="0-11" id="s47.e0" ontology_id="GO_0006508" text="proteolysis" type="GO"/>
+    <entity charOffset="252-258" id="s47.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="s47.e0" e2="s47.e1" id="s47.p0" relation="true"/>
+  </sentence>
+  <sentence id="s48" text="Bardet Biedl syndrome (visual perception) is a multisystem genetically heterogeneous ciliopathy that most commonly leads to obesity, photoreceptor degeneration, digit anomalies, genito-urinary abnormalities, as well as cognitive impairment with autism, among other features.">
+    <entity charOffset="23-40" id="s48.e0" ontology_id="GO_0007601" text="visual perception" type="GO"/>
+    <entity charOffset="245-251" id="s48.e1" ontology_id="HP_0000717" text="autism" type="HP"/>
+    <pair e1="s48.e0" e2="s48.e1" id="s48.p0" relation="true"/>
+  </sentence>
+  <sentence id="s49" text="The gene expression levels of Ki-67, BCL11A, FOXC1, positive regulation of transcription by RNA polymerase II, PCDHGB7 and her-2 were used as an auxiliary diagnostic index for patients with breast cancer in the early stage.">
+    <entity charOffset="52-109" id="s49.e0" ontology_id="GO_0045944" text="positive regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="197-203" id="s49.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="s49.e0" e2="s49.e1" id="s49.p0" relation="true"/>
+  </sentence>
+  <sentence id="s50" text="Loss-of-function mutations in protein dephosphorylation cause the severe congenital myopathy called myotubular myopathy (or X-linked centronuclear myopathy) while mutations in the MTM1-related protein MTMR2 cause a recessive Charcot-Marie-Tooth peripheral neuropathy.">
+    <entity charOffset="30-55" id="s50.e0" ontology_id="GO_0006470" text="protein dephosphorylation" type="GO"/>
+    <entity charOffset="245-255" id="s50.e1" ontology_id="HP_0030646" text="peripheral" type="HP"/>
+    <pair e1="s50.e0" e2="s50.e1" id="s50.p0" relation="false"/>
+  </sentence>
+  <sentence id="s51" text="p16 is an important tumor suppressor gene encoded by the G1/S transition of mitotic cell cycle/ARF/INK4B gene locus that is conserved in humans, rodents, and canids.">
+    <entity charOffset="20-25" id="s51.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="57-94" id="s51.e1" ontology_id="GO_0000082" text="G1/S transition of mitotic cell cycle" type="GO"/>
+    <pair e1="s51.e0" e2="s51.e1" id="s51.p0" relation="true"/>
+  </sentence>
+  <sentence id="s52" text="Highlights include the discoveries of (i) a new genetic etiology, autosomal recessive SPPL2a deficiency, (ii) TYK2-deficient patients with a clinical phenotype of MSMD, (iii) an allelic form of partial recessive blood coagulation-yR2 deficiency, and (iv) two forms of syndromic MSMD: RORy/RORyT and JAK1 deficiencies.">
+    <entity charOffset="66-85" id="s52.e0" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="212-229" id="s52.e1" ontology_id="GO_0007596" text="blood coagulation" type="GO"/>
+    <pair e1="s52.e0" e2="s52.e1" id="s52.p0" relation="false"/>
+  </sentence>
+  <sentence id="s53" text="Several tumor suppressor genes and proto-oncogenes have been implicated in BCC pathogenesis, including the key components of the Hedgehog pathway, positive regulation of cholesterol efflux and SMO, the TP53 tumor suppressor, and members of the RAS proto-oncogene family.">
+    <entity charOffset="8-13" id="s53.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="147-188" id="s53.e1" ontology_id="GO_0010875" text="positive regulation of cholesterol efflux" type="GO"/>
+    <pair e1="s53.e0" e2="s53.e1" id="s53.p0" relation="true"/>
+  </sentence>
+  <sentence id="s54" text="In this report we describe a female child with global developmental delay, microcephaly and myoclonic seizures harbouring a 5 Mb deletion in 14q12 locus resulting in deletion of single copy of brain specific genes negative regulation of transcription, DNA-templated, PRKD1 and NOVA1.">
+    <entity charOffset="102-110" id="s54.e0" ontology_id="HP_0001250" text="seizures" type="HP"/>
+    <entity charOffset="214-265" id="s54.e1" ontology_id="GO_0045892" text="negative regulation of transcription, DNA-templated" type="GO"/>
+    <pair e1="s54.e0" e2="s54.e1" id="s54.p0" relation="true"/>
+  </sentence>
+  <sentence id="s55" text="Our study identified a novel protein downstream of Ras and positive regulation of protein phosphorylation, which may serve as a potential therapeutic drug target for lung cancer patients">
+    <entity charOffset="59-105" id="s55.e0" ontology_id="GO_0001934" text="positive regulation of protein phosphorylation" type="GO"/>
+    <entity charOffset="171-177" id="s55.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="s55.e0" e2="s55.e1" id="s55.p0" relation="true"/>
+  </sentence>
+  <sentence id="s56" text="Mutations in genes involved in the biosynthesis of the glycosylphosphatidylinositol (glucosamine catabolic process) anchor cause autosomal recessive glycosylation defects, with a wide phenotypic spectrum of intellectual disability, seizures, minor facial dysmorphism, hypotonia, and elevated serum alkaline phosphatase.">
+    <entity charOffset="85-114" id="s56.e0" ontology_id="GO_0006043" text="glucosamine catabolic process" type="GO"/>
+    <entity charOffset="207-230" id="s56.e1" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <pair e1="s56.e0" e2="s56.e1" id="s56.p0" relation="false"/>
+  </sentence>
+  <sentence id="s57" text="Taken together, our study provides the first functional link between cell volume homeostasis and obesity, and presents insight into novel pathways that could be applied to combat obesity and type 2 diabetes">
+    <entity charOffset="69-92" id="s57.e0" ontology_id="GO_0006884" text="cell volume homeostasis" type="GO"/>
+    <entity charOffset="97-104" id="s57.e1" ontology_id="HP_0001513" text="obesity" type="HP"/>
+    <pair e1="s57.e0" e2="s57.e1" id="s57.p0" relation="true"/>
+  </sentence>
+  <sentence id="s58" text="Methods We identified all materials published mentioning both protein neddylation and allergic rhinitis (AR), chronic sinusitis, asthma, and atopic dermatitis (AD) that are indexed on PubMed, Google, or the ProQuest Central databases.">
+    <entity charOffset="62-81" id="s58.e0" ontology_id="GO_0045116" text="protein neddylation" type="GO"/>
+    <entity charOffset="141-158" id="s58.e1" ontology_id="HP_0001047" text="atopic dermatitis" type="HP"/>
+    <pair e1="s58.e0" e2="s58.e1" id="s58.p0" relation="false"/>
+  </sentence>
+  <sentence id="s59" text="In T2D patients, animal organ morphogenesis Arg192His was associated with earlier age at diagnosis, and GLP1R Arg131Gln was associated with decreased risk of cardiovascular disease.">
+    <entity charOffset="17-43" id="s59.e0" ontology_id="GO_0009887" text="animal organ morphogenesis" type="GO"/>
+    <entity charOffset="158-180" id="s59.e1" ontology_id="HP_0001626" text="cardiovascular disease" type="HP"/>
+    <pair e1="s59.e0" e2="s59.e1" id="s59.p0" relation="false"/>
+  </sentence>
+  <sentence id="s60" text="Here we report three families with homozygous truncating mutations in vesicle tethering to Golgi who display moderate to severe intellectual disability and microcephaly.">
+    <entity charOffset="70-96" id="s60.e0" ontology_id="GO_0099041" text="vesicle tethering to Golgi" type="GO"/>
+    <entity charOffset="156-168" id="s60.e1" ontology_id="HP_0000252" text="microcephaly" type="HP"/>
+    <pair e1="s60.e0" e2="s60.e1" id="s60.p0" relation="true"/>
+  </sentence>
+  <sentence id="s61" text="Here we report three families with homozygous truncating mutations in vesicle tethering to Golgi who display moderate to severe intellectual disability and microcephaly.">
+    <entity charOffset="70-96" id="s61.e0" ontology_id="GO_0099041" text="vesicle tethering to Golgi" type="GO"/>
+    <entity charOffset="156-168" id="s61.e1" ontology_id="HP_0000252" text="microcephaly" type="HP"/>
+    <pair e1="s61.e0" e2="s61.e1" id="s61.p0" relation="true"/>
+  </sentence>
+  <sentence id="s62" text="We also emphasized that the angiogenesis and AKT signaling pathways were the mechanisms underlying the inhibitory effect of HCRP1 on glioma cells.">
+    <entity charOffset="28-40" id="s62.e0" ontology_id="GO_0001525" text="angiogenesis" type="GO"/>
+    <entity charOffset="133-139" id="s62.e1" ontology_id="HP_0009733" text="glioma" type="HP"/>
+    <pair e1="s62.e0" e2="s62.e1" id="s62.p0" relation="true"/>
+  </sentence>
+  <sentence id="s63" text="We report here two new nonsense mutations (pGln12* and pTyr110*) in positive regulation of cytosolic calcium ion concentration patients displaying nonsyndromic profound hearing loss, with no evidence of vestibular or retinal dysfunction.">
+    <entity charOffset="68-126" id="s63.e0" ontology_id="GO_0007204" text="positive regulation of cytosolic calcium ion concentration" type="GO"/>
+    <entity charOffset="169-181" id="s63.e1" ontology_id="HP_0000365" text="hearing loss" type="HP"/>
+    <pair e1="s63.e0" e2="s63.e1" id="s63.p0" relation="true"/>
+  </sentence>
+  <sentence id="s64" text="Idiopathic pulmonary fibrosis (IPF) is a complex, heterogeneous genetic disorder that is associated with rare and common sequence variants in many genes (MUC5B, SFTPC, toll-like receptor signaling pathway, RTEL1, TERT, and hTR), 11 novel loci, and multiple emerging epigenetic and transcriptional profiles.">
+    <entity charOffset="50-63" id="s64.e0" ontology_id="HP_0001425" text="heterogeneous" type="HP"/>
+    <entity charOffset="168-204" id="s64.e1" ontology_id="GO_0002224" text="toll-like receptor signaling pathway" type="GO"/>
+    <pair e1="s64.e0" e2="s64.e1" id="s64.p0" relation="true"/>
+  </sentence>
+  <sentence id="s65" text="We also found that Lin28b is able to bind a conserved GGAG motif of pre-protein polyubiquitination-125a and to inhibit its maturation in hepatocellular carcinoma cells.">
+    <entity charOffset="72-98" id="s65.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="137-161" id="s65.e1" ontology_id="HP_0001402" text="hepatocellular carcinoma" type="HP"/>
+    <pair e1="s65.e0" e2="s65.e1" id="s65.p0" relation="false"/>
+  </sentence>
+  <sentence id="s66" text="In addition, the coexistence of high MACC1 and low positive regulation of DNA binding-H1 expression and tumor budding was associated with short OS (p &amp;lt; 0.001).">
+    <entity charOffset="51-85" id="s66.e0" ontology_id="GO_0043388" text="positive regulation of DNA binding" type="GO"/>
+    <entity charOffset="104-109" id="s66.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="s66.e0" e2="s66.e1" id="s66.p0" relation="true"/>
+  </sentence>
+  <sentence id="s67" text="Furthermore, we investigated whether there is an association between the mRNA and protein expression levels of RBCK1, protein polyubiquitination and SHARPIN and clinicopathological parameters including estrogen receptor (ER), progesterone receptor (PR) and human epidermal growth factor receptor (HER2) status and found that RNF31 protein is significantly higher in ERalpha-negative tumors than ERalpha-positive tumors (p = 0.034).">
+    <entity charOffset="118-144" id="s67.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="383-388" id="s67.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="s67.e0" e2="s67.e1" id="s67.p0" relation="true"/>
+  </sentence>
+  <sentence id="s68" text="PurposeMonoallelic germ-line mutations in the BRCA1/FANCS, mitotic cytokinesis/FANCD1 and PALB2/FANCN genes confer high risk of breast cancer.">
+    <entity charOffset="59-78" id="s68.e0" ontology_id="GO_0000281" text="mitotic cytokinesis" type="GO"/>
+    <entity charOffset="135-141" id="s68.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="s68.e0" e2="s68.e1" id="s68.p0" relation="true"/>
+  </sentence>
+  <sentence id="s69" text="A novel mutation of an essential splice site in the C19orf70 gene encoding cristae formation induces severe mitochondrial encephalopathy, hepatopathy and lactate acidosis consistent with psychomotor retardation.">
+    <entity charOffset="75-92" id="s69.e0" ontology_id="GO_0042407" text="cristae formation" type="GO"/>
+    <entity charOffset="122-136" id="s69.e1" ontology_id="HP_0001298" text="encephalopathy" type="HP"/>
+    <pair e1="s69.e0" e2="s69.e1" id="s69.p0" relation="true"/>
+  </sentence>
+  <sentence id="s70" text="The FGF9 subfamily, including FGF9, regulation of endothelial cell proliferation, and FGF20, in addition to rhFGF16, rhFGF9, and rhFGF20, were shown to stimulate the proliferation and migration of HuH7 human hepatocellular carcinoma (HCC) cells.">
+    <entity charOffset="36-80" id="s70.e0" ontology_id="GO_0001936" text="regulation of endothelial cell proliferation" type="GO"/>
+    <entity charOffset="208-232" id="s70.e1" ontology_id="HP_0001402" text="hepatocellular carcinoma" type="HP"/>
+    <pair e1="s70.e0" e2="s70.e1" id="s70.p0" relation="true"/>
+  </sentence>
+  <sentence id="s71" text="The linear ubiquitination-specific deubiquitinase ovarian tumor domain deubiquitinase with linear linkage specificity (regulation of tumor necrosis factor-mediated signaling pathway) can control the immune signaling transduction pathway by restricting the Met1-linked ubiquitination process.">
+    <entity charOffset="58-63" id="s71.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="119-181" id="s71.e1" ontology_id="GO_0010803" text="regulation of tumor necrosis factor-mediated signaling pathway" type="GO"/>
+    <pair e1="s71.e0" e2="s71.e1" id="s71.p0" relation="false"/>
+  </sentence>
+  <sentence id="s72" text="We summarize the phenotypic extent of smoothened signaling pathway/3 syndromes in the literature and determine that these 2 syndromes manifest opposite features to a certain extent, such as midface hypoplasia or macrocephaly, and anterior or posterior side of polydactyly.">
+    <entity charOffset="38-66" id="s72.e0" ontology_id="GO_0007224" text="smoothened signaling pathway" type="GO"/>
+    <entity charOffset="190-208" id="s72.e1" ontology_id="HP_0011800" text="midface hypoplasia" type="HP"/>
+    <pair e1="s72.e0" e2="s72.e1" id="s72.p0" relation="true"/>
+  </sentence>
+  <sentence id="s73" text="By targeting peptidyl-tyrosine phosphorylation, WRG-28 inhibits tumor invasion and migration, as well as tumor-supporting roles of the stroma, and inhibits metastatic breast tumor cell colonization in the lungs.">
+    <entity charOffset="13-46" id="s73.e0" ontology_id="GO_0018108" text="peptidyl-tyrosine phosphorylation" type="GO"/>
+    <entity charOffset="64-69" id="s73.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="s73.e0" e2="s73.e1" id="s73.p0" relation="true"/>
+  </sentence>
+  <sentence id="s74" text="These findings establish these mutant mice as a suitable model system to elucidate how negative regulation of endopeptidase activity deficiency causes deafness in humans">
+    <entity charOffset="87-132" id="s74.e0" ontology_id="GO_0010951" text="negative regulation of endopeptidase activity" type="GO"/>
+    <entity charOffset="151-159" id="s74.e1" ontology_id="HP_0000365" text="deafness" type="HP"/>
+    <pair e1="s74.e0" e2="s74.e1" id="s74.p0" relation="true"/>
+  </sentence>
+  <sentence id="s75" text="Taken together, these data open venues for exploring the possibility that sporadic breast cancer patients with DNA repair amplification might benefit from epigenetic combination therapy targeting both the KDM5A demethylase and histone deacetylases.">
+    <entity charOffset="90-96" id="s75.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="111-121" id="s75.e1" ontology_id="GO_0006281" text="DNA repair" type="GO"/>
+    <pair e1="s75.e0" e2="s75.e1" id="s75.p0" relation="true"/>
+  </sentence>
+  <sentence id="s76" text="We hope that our study will stimulate further studies and a new targeted therapy and early medical intervention for YAP/positive regulation of cell proliferation could be a useful option for breast cancer cases complicated with LKB1 deficiency">
+    <entity charOffset="120-161" id="s76.e0" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <entity charOffset="198-204" id="s76.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="s76.e0" e2="s76.e1" id="s76.p0" relation="false"/>
+  </sentence>
+  <sentence id="s77" text="gluconeogenesis-M (PCK2), the mitochondrial isoform of phosphoenolpyruvate carboxykinase (PEPCK), has been shown by us and others to be functionally expressed and to mediate gluconeogenesis, the reverse pathway of glycolysis, in different cancer cells.">
+    <entity charOffset="0-15" id="s77.e0" ontology_id="GO_0006094" text="gluconeogenesis" type="GO"/>
+    <entity charOffset="239-245" id="s77.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="s77.e0" e2="s77.e1" id="s77.p0" relation="true"/>
+  </sentence>
+  <sentence id="s78" text="Additionally, the previously reported LMO1 neuroblastoma risk locus was statistically significant only in patients with positive regulation of gene expression-nonamplified high-risk tumors (OR = 0.63, 95% CI = 0.53 to 0.75, Pmeta = 1.51 x 10-8; Pmeta = .95).">
+    <entity charOffset="43-56" id="s78.e0" ontology_id="HP_0003006" text="neuroblastoma" type="HP"/>
+    <entity charOffset="120-158" id="s78.e1" ontology_id="GO_0010628" text="positive regulation of gene expression" type="GO"/>
+    <pair e1="s78.e0" e2="s78.e1" id="s78.p0" relation="true"/>
+  </sentence>
+  <sentence id="s79" text="Further in silico functional analyses revealed that rs2394882 affects negative regulation of transcription by RNA polymerase II expression, which in turn is significantly correlated with prostate cancer aggressiveness and patient prognosis.">
+    <entity charOffset="70-127" id="s79.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="203-217" id="s79.e1" ontology_id="HP_0000718" text="aggressiveness" type="HP"/>
+    <pair e1="s79.e0" e2="s79.e1" id="s79.p0" relation="false"/>
+  </sentence>
+  <sentence id="s80" text="In humans, sensory perception of sound mutations cause autosomal recessive nonsyndromic deafness (DFNB79) by an unknown mechanism.">
+    <entity charOffset="11-38" id="s80.e0" ontology_id="GO_0007605" text="sensory perception of sound" type="GO"/>
+    <entity charOffset="55-74" id="s80.e1" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <pair e1="s80.e0" e2="s80.e1" id="s80.p0" relation="true"/>
+  </sentence>
+  <sentence id="s81" text="Importantly, bone cell activity was inversely correlated to tumor cell AR activity (measured as AR, FOXA1, HOXB13, KLK2, plasminogen activation, NKX3-1, STEAP2, and TMPRSS2 expression) and to patient serum prostate-specific antigen (PSA) levels.">
+    <entity charOffset="60-65" id="s81.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="121-143" id="s81.e1" ontology_id="GO_0031639" text="plasminogen activation" type="GO"/>
+    <pair e1="s81.e0" e2="s81.e1" id="s81.p0" relation="false"/>
+  </sentence>
+  <sentence id="s82" text="These findings support that UNC119 is a regulator of the apoptotic process-MDM2-p53 axis and functions as a tumor suppressor">
+    <entity charOffset="57-74" id="s82.e0" ontology_id="GO_0006915" text="apoptotic process" type="GO"/>
+    <entity charOffset="108-113" id="s82.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="s82.e0" e2="s82.e1" id="s82.p0" relation="false"/>
+  </sentence>
+  <sentence id="s83" text="Importantly, loss of Arl13b in a positive regulation of cholesterol efflux-deleted mouse model of MB inhibited tumor formation.">
+    <entity charOffset="33-74" id="s83.e0" ontology_id="GO_0010875" text="positive regulation of cholesterol efflux" type="GO"/>
+    <entity charOffset="111-116" id="s83.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="s83.e0" e2="s83.e1" id="s83.p0" relation="true"/>
+  </sentence>
+  <sentence id="s84" text="Kluver-Bucy syndrome (KBS) comprises a negative regulation of transcription, DNA-templated of neurobehavioral symptoms with psychic blindness, hypersexuality, disinhibition, hyperorality, and hypermetamorphosis that were originally observed after bilateral lobectomy in Rhesus monkeys.">
+    <entity charOffset="39-90" id="s84.e0" ontology_id="GO_0045892" text="negative regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="174-186" id="s84.e1" ontology_id="HP_0000710" text="hyperorality" type="HP"/>
+    <pair e1="s84.e0" e2="s84.e1" id="s84.p0" relation="false"/>
+  </sentence>
+  <sentence id="s85" text="Kluver-Bucy syndrome (KBS) comprises a negative regulation of transcription, DNA-templated of neurobehavioral symptoms with psychic blindness, hypersexuality, disinhibition, hyperorality, and hypermetamorphosis that were originally observed after bilateral lobectomy in Rhesus monkeys.">
+    <entity charOffset="39-90" id="s85.e0" ontology_id="GO_0045892" text="negative regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="132-141" id="s85.e1" ontology_id="HP_0000618" text="blindness" type="HP"/>
+    <pair e1="s85.e0" e2="s85.e1" id="s85.p0" relation="false"/>
+  </sentence>
+  <sentence id="s86" text="Recent research published in the Journal of Pathology showed that genetic depletion of any of the NOX2 subunits Cyba, Cybb, protein targeting to membrane, Ncf2 and Ncf4 reduced the formation of lung metastases following intravenous injection of murine tumor cells.">
+    <entity charOffset="124-153" id="s86.e0" ontology_id="GO_0006612" text="protein targeting to membrane" type="GO"/>
+    <entity charOffset="252-257" id="s86.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="s86.e0" e2="s86.e1" id="s86.p0" relation="true"/>
+  </sentence>
+  <sentence id="s87" text="positive regulation of antigen processing and presentation of peptide antigen via MHC class II protein levels were also negatively correlated with the severity of symptoms in humans affected by autism.">
+    <entity charOffset="0-94" id="s87.e0" ontology_id="GO_0002588" text="positive regulation of antigen processing and presentation of peptide antigen via MHC class II" type="GO"/>
+    <entity charOffset="194-200" id="s87.e1" ontology_id="HP_0000717" text="autism" type="HP"/>
+    <pair e1="s87.e0" e2="s87.e1" id="s87.p0" relation="true"/>
+  </sentence>
+  <sentence id="s88" text="In Mfrprd6 eyes, a significant 1.5- to 2.0-fold decrease was observed among transcripts of genes linked to retinal degeneration, including those involved in visual cycle (Rpe65, Lrat, Rgr), phototransduction (G protein-coupled receptor signaling pathway, Guca1b, Rgs9), and photoreceptor disc morphogenesis (Rpgrip1 and Fscn2).">
+    <entity charOffset="107-127" id="s88.e0" ontology_id="HP_0000546" text="retinal degeneration" type="HP"/>
+    <entity charOffset="209-253" id="s88.e1" ontology_id="GO_0007186" text="G protein-coupled receptor signaling pathway" type="GO"/>
+    <pair e1="s88.e0" e2="s88.e1" id="s88.p0" relation="true"/>
+  </sentence>
+  <sentence id="s89" text="Encapsulation of mirin in nanoparticles allowed its use on MYCN-amplified neuroblastoma xenografts in vivo, which resulted in a sharp impairment of tumor growth, associated with DDR activation, DNA strand renaturation accumulation, and cell death.">
+    <entity charOffset="74-87" id="s89.e0" ontology_id="HP_0003006" text="neuroblastoma" type="HP"/>
+    <entity charOffset="194-217" id="s89.e1" ontology_id="GO_0000733" text="DNA strand renaturation" type="GO"/>
+    <pair e1="s89.e0" e2="s89.e1" id="s89.p0" relation="false"/>
+  </sentence>
+  <sentence id="s90" text="Encapsulation of mirin in nanoparticles allowed its use on MYCN-amplified neuroblastoma xenografts in vivo, which resulted in a sharp impairment of tumor growth, associated with DDR activation, DNA strand renaturation accumulation, and cell death.">
+    <entity charOffset="148-153" id="s90.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="194-217" id="s90.e1" ontology_id="GO_0000733" text="DNA strand renaturation" type="GO"/>
+    <pair e1="s90.e0" e2="s90.e1" id="s90.p0" relation="true"/>
+  </sentence>
+  <sentence id="s91" text="Meanwhile, the expression of PTPN3 was found to be regulated by protein polyubiquitination-199 in resistant ovarian cancer cells.">
+    <entity charOffset="64-90" id="s91.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="116-122" id="s91.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="s91.e0" e2="s91.e1" id="s91.p0" relation="false"/>
+  </sentence>
+  <sentence id="s92" text="Here, we found that protein tyrosine phosphatase protein dephosphorylation gene expression was substantially increased in both cisplatin and doxorubicin-resistant ovarian cancer cells.">
+    <entity charOffset="49-74" id="s92.e0" ontology_id="GO_0006470" text="protein dephosphorylation" type="GO"/>
+    <entity charOffset="171-177" id="s92.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="s92.e0" e2="s92.e1" id="s92.p0" relation="true"/>
+  </sentence>
+  <sentence id="s93" text="This work associates missense mutations in positive regulation of protein ubiquitination with an autosomal recessive chromosome breakage syndrome that leads to defective T and B cell function and acute respiratory distress syndrome in early childhood">
+    <entity charOffset="43-88" id="s93.e0" ontology_id="GO_0031398" text="positive regulation of protein ubiquitination" type="GO"/>
+    <entity charOffset="97-116" id="s93.e1" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <pair e1="s93.e0" e2="s93.e1" id="s93.p0" relation="true"/>
+  </sentence>
+  <sentence id="s94" text="Immunohistochemistry demonstrated that the loss of peptidyl-threonine phosphorylation expression, which was observed in 50.8% of primary gastric cancer tissues (n=128), significantly correlated with advanced tumor stage (P&amp;lt;0.001), frequent lymph node metastasis (P&amp;lt;0.001), distant metastasis (P=0.013), tumor differentiation (P=0.004) and unfavorable overall survival (P&amp;lt;0.001).">
+    <entity charOffset="51-85" id="s94.e0" ontology_id="GO_0018107" text="peptidyl-threonine phosphorylation" type="GO"/>
+    <entity charOffset="145-151" id="s94.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="s94.e0" e2="s94.e1" id="s94.p0" relation="true"/>
+  </sentence>
+  <sentence id="s95" text="The expression of the ID2, PRELP and positive regulation of endothelial cell migration genes was compared between the endometrium of women without endometriosis in the proliferative phase of their menstrual cycle and the eutopic and ectopic endometrium of women with endometriosis in the proliferative phase.">
+    <entity charOffset="37-86" id="s95.e0" ontology_id="GO_0010595" text="positive regulation of endothelial cell migration" type="GO"/>
+    <entity charOffset="147-160" id="s95.e1" ontology_id="HP_0030127" text="endometriosis" type="HP"/>
+    <pair e1="s95.e0" e2="s95.e1" id="s95.p0" relation="false"/>
+  </sentence>
+  <sentence id="s96" text="RT-PCR analysis showed that the overall transcriptional activity of the main HS biosynthesis-involved genes (EXT1, EXT2, NDST1, NDST2, GLCE, HS2ST1, HS3ST1, HS3ST2, HS6ST1, HS6ST2, SULF1, positive regulation of Wnt signaling pathway, HPSE) was decreased by 1.5-2-fold in Grade II-III glioma (p &amp;lt; 0.01) and by 3-fold in Grade IV glioma (glioblastoma multiforme, GBM) (p &amp;lt; 0.05), as compared with the para-tumourous tissue.">
+    <entity charOffset="188-232" id="s96.e0" ontology_id="GO_0030177" text="positive regulation of Wnt signaling pathway" type="GO"/>
+    <entity charOffset="410-416" id="s96.e1" ontology_id="HP_0002664" text="tumour" type="HP"/>
+    <pair e1="s96.e0" e2="s96.e1" id="s96.p0" relation="true"/>
+  </sentence>
+  <sentence id="s97" text="Growth abnormalities, motor dysfunction, hindlimb paralysis, muscle wasting, neurogenic atrophy, motor neuron degeneration, and loss of large-caliber axons in peripheral nerves occurred at an earlier age in cytoskeleton organization/Scyl3 double-deficient mice than in Scyl1-deficient mice.">
+    <entity charOffset="61-75" id="s97.e0" ontology_id="HP_0003202" text="muscle wasting" type="HP"/>
+    <entity charOffset="207-232" id="s97.e1" ontology_id="GO_0007010" text="cytoskeleton organization" type="GO"/>
+    <pair e1="s97.e0" e2="s97.e1" id="s97.p0" relation="true"/>
+  </sentence>
+  <sentence id="s98" text="Lymphatic metastasis is facilitated by lymphangiogenic growth factor vascular endothelial growth factor-C (vascular endothelial growth factor receptor signaling pathway) that is secreted by some primary tumors.">
+    <entity charOffset="107-168" id="s98.e0" ontology_id="GO_0048010" text="vascular endothelial growth factor receptor signaling pathway" type="GO"/>
+    <entity charOffset="203-208" id="s98.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="s98.e0" e2="s98.e1" id="s98.p0" relation="false"/>
+  </sentence>
+  <sentence id="s99" text="Primary renal tricarboxylic acid cycle and neoplasia was associated with about 2% of 710 cases of PC/PGL.">
+    <entity charOffset="14-38" id="s99.e0" ontology_id="GO_0006099" text="tricarboxylic acid cycle" type="GO"/>
+    <entity charOffset="43-52" id="s99.e1" ontology_id="HP_0002664" text="neoplasia" type="HP"/>
+    <pair e1="s99.e0" e2="s99.e1" id="s99.p0" relation="true"/>
+  </sentence>
+  <sentence id="s100" text="We found that multiple oncogenic tyrosine kinases directly phosphorylated peptidyl-threonine dephosphorylation at Tyr-94, and Tyr-94 phosphorylation of PDP1 was common in diverse human cancer cells and primary leukemia cells from patients.">
+    <entity charOffset="74-110" id="s100.e0" ontology_id="GO_0035970" text="peptidyl-threonine dephosphorylation" type="GO"/>
+    <entity charOffset="185-191" id="s100.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="s100.e0" e2="s100.e1" id="s100.p0" relation="true"/>
+  </sentence>
+  <sentence id="s101" text="Furthermore, the xenograft study confirmed the tumor proliferation-promoting role of SPRY4-centrosome cycle in PANC1 cells.">
+    <entity charOffset="47-52" id="s101.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="91-107" id="s101.e1" ontology_id="GO_0007098" text="centrosome cycle" type="GO"/>
+    <pair e1="s101.e0" e2="s101.e1" id="s101.p0" relation="true"/>
+  </sentence>
+  <sentence id="s102" text="MED1 mediates induction of cell proliferation and migration and the genes associated with it (JUN, FOS, EGFR, VEGF, proteolysis, and ERBB4) in breast cancer, which is abrogated when used together with miR-191-inhibition.">
+    <entity charOffset="116-127" id="s102.e0" ontology_id="GO_0006508" text="proteolysis" type="GO"/>
+    <entity charOffset="150-156" id="s102.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="s102.e0" e2="s102.e1" id="s102.p0" relation="true"/>
+  </sentence>
+  <sentence id="s103" text="The results indicated that compared with the adjacent non-tumor tissues and a normal gastric epithelial cell line, gastric cancer tissues and cell lines exhibited significantly higher expression of proteasomal protein catabolic process.">
+    <entity charOffset="123-129" id="s103.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="198-235" id="s103.e1" ontology_id="GO_0010498" text="proteasomal protein catabolic process" type="GO"/>
+    <pair e1="s103.e0" e2="s103.e1" id="s103.p0" relation="true"/>
+  </sentence>
+  <sentence id="s104" text="Notably, negative regulation of Wnt signaling pathway with Ser14 phosphorylation is upregulated in the lesions of cancer, as well as in the brain hippocampus and cortex with Alzheimer*s disease.">
+    <entity charOffset="9-53" id="s104.e0" ontology_id="GO_0030178" text="negative regulation of Wnt signaling pathway" type="GO"/>
+    <entity charOffset="114-120" id="s104.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="s104.e0" e2="s104.e1" id="s104.p0" relation="true"/>
+  </sentence>
+  <sentence id="s105" text="MDR rectal colonization occurs in 6.5% of haematological inpatients and predicts a 16% probability of MDRrel BSI, particularly during neutropenia, as well as a higher probability of unfavourable outcomes in positive regulation of cytosolic calcium ion concentration-rel BSIs.">
+    <entity charOffset="134-145" id="s105.e0" ontology_id="HP_0001875" text="neutropenia" type="HP"/>
+    <entity charOffset="207-265" id="s105.e1" ontology_id="GO_0007204" text="positive regulation of cytosolic calcium ion concentration" type="GO"/>
+    <pair e1="s105.e0" e2="s105.e1" id="s105.p0" relation="false"/>
+  </sentence>
+  <sentence id="s106" text="Altogether these data demonstrate that mutations in negative regulation of protein kinase activity cause a congenital muscular dystrophy syndrome with short stature, cataracts, and intellectual disability">
+    <entity charOffset="52-98" id="s106.e0" ontology_id="GO_0006469" text="negative regulation of protein kinase activity" type="GO"/>
+    <entity charOffset="118-136" id="s106.e1" ontology_id="HP_0003560" text="muscular dystrophy" type="HP"/>
+    <pair e1="s106.e0" e2="s106.e1" id="s106.p0" relation="true"/>
+  </sentence>
+  <sentence id="s107" text="Here, we applied domain-focused CRISPR screening to human cancer cell lines to identify the transcription factor (TF) POU2F3 (POU class 2 homeobox 3; also known as negative regulation by host of viral transcription/OCT-11) as a powerful dependency in a subset of SCLC lines.">
+    <entity charOffset="58-64" id="s107.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="164-214" id="s107.e1" ontology_id="GO_0043922" text="negative regulation by host of viral transcription" type="GO"/>
+    <pair e1="s107.e0" e2="s107.e1" id="s107.p0" relation="true"/>
+  </sentence>
+  <sentence id="s108" text="We present two families with stress-activated protein kinase signaling cascade-related recessive congenital hydrocephalus with children who had severe hydrocephalus.">
+    <entity charOffset="29-78" id="s108.e0" ontology_id="GO_0031098" text="stress-activated protein kinase signaling cascade" type="GO"/>
+    <entity charOffset="108-121" id="s108.e1" ontology_id="HP_0000238" text="hydrocephalus" type="HP"/>
+    <pair e1="s108.e0" e2="s108.e1" id="s108.p0" relation="true"/>
+  </sentence>
+  <sentence id="s109" text="In this study, we investigated the presence and functionality of neutrophil degranulationR, as well as the implications of Epo upon the proliferation and survival of lung cancer cells.">
+    <entity charOffset="65-89" id="s109.e0" ontology_id="GO_0043312" text="neutrophil degranulation" type="GO"/>
+    <entity charOffset="171-177" id="s109.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="s109.e0" e2="s109.e1" id="s109.p0" relation="false"/>
+  </sentence>
+  <sentence id="s110" text="mRNA splicing, via spliceosome regulates various muscle-related functions, but studies have proposed its role in development and angiogenesis also, where it is involved with tumor-associated molecules.">
+    <entity charOffset="0-30" id="s110.e0" ontology_id="GO_0000398" text="mRNA splicing, via spliceosome" type="GO"/>
+    <entity charOffset="174-179" id="s110.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="s110.e0" e2="s110.e1" id="s110.p0" relation="true"/>
+  </sentence>
+  <sentence id="s111" text="SPG56 is a rare autosomal recessive early onset complicated form of HSP caused by mutations in omega-hydroxylase P450 pathway.">
+    <entity charOffset="16-35" id="s111.e0" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="95-125" id="s111.e1" ontology_id="GO_0097267" text="omega-hydroxylase P450 pathway" type="GO"/>
+    <pair e1="s111.e0" e2="s111.e1" id="s111.p0" relation="true"/>
+  </sentence>
+  <sentence id="s112" text="In this study, we employed a siRNA knockdown approach for heparan sulphate (EXT1) and heparan/chondroitin/dermatan sulphate-biosynthetic enzymes (glycosaminoglycan biosynthetic process) in the aggressive human breast cancer cell line MDA-MB-231 to study the impact on cell behaviour and hyaluronan biosynthesis.">
+    <entity charOffset="146-184" id="s112.e0" ontology_id="GO_0006024" text="glycosaminoglycan biosynthetic process" type="GO"/>
+    <entity charOffset="217-223" id="s112.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="s112.e0" e2="s112.e1" id="s112.p0" relation="false"/>
+  </sentence>
+  <sentence id="s113" text="Loss of negative regulation of transcription by RNA polymerase II function in humans and mice leads to the development of several pathologies, including neonatal diabetes and congenital hypothyroidism, polycystic kidney disease, and infertility.">
+    <entity charOffset="8-65" id="s113.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="186-200" id="s113.e1" ontology_id="HP_0000821" text="hypothyroidism" type="HP"/>
+    <pair e1="s113.e0" e2="s113.e1" id="s113.p0" relation="true"/>
+  </sentence>
+  <sentence id="s114" text="A plethora of human diseases are associated with mutations in the genes encoding human SLC26 transporters, including chondrodysplasias with varying severity in SLC26A2 (~50 mutations, 27 point mutations), congenital chloride-losing diarrhea in sperm capacitation (~70 mutations, 31 point mutations) and Pendred Syndrome or deafness autosomal recessive type 4 in SLC26A4 (~500 mutations, 203 point mutations).">
+    <entity charOffset="244-262" id="s114.e0" ontology_id="GO_0048240" text="sperm capacitation" type="GO"/>
+    <entity charOffset="323-331" id="s114.e1" ontology_id="HP_0000365" text="deafness" type="HP"/>
+    <pair e1="s114.e0" e2="s114.e1" id="s114.p0" relation="false"/>
+  </sentence>
+  <sentence id="s115" text="positive regulation of vascular endothelial growth factor production expression appeared to be decreased in lung tumor tissue and further downregulated in samples from patients with LNM, and was revealed to be correlated with poor clinical outcome.">
+    <entity charOffset="0-68" id="s115.e0" ontology_id="GO_0010575" text="positive regulation of vascular endothelial growth factor production" type="GO"/>
+    <entity charOffset="113-118" id="s115.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="s115.e0" e2="s115.e1" id="s115.p0" relation="true"/>
+  </sentence>
+  <sentence id="s116" text="From the integrative analysis of the transcriptome and clinicopathologic data of human multi-stage HCC tissues, we were able to identify barrier-to-autointegration factor 1 (BANF1), procollagen-lysine, 2-oxoglutarate 5-dioxygenase 3 (peptidyl-lysine hydroxylation) and splicing factor 3b subunit 4 (SF3B4) as early HCC biomarkers which could be detected in precancerous lesions of HCC, with superior capabilities to diagnose eHCC compared to the currently popular HCC diagnostic biomarkers: GPC3, GS, and HSP70.">
+    <entity charOffset="234-263" id="s116.e0" ontology_id="GO_0017185" text="peptidyl-lysine hydroxylation" type="GO"/>
+    <entity charOffset="360-366" id="s116.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="s116.e0" e2="s116.e1" id="s116.p0" relation="false"/>
+  </sentence>
+  <sentence id="s117" text="In tumors with high PIK3R2 expression, and independently of PIK3CA, KRAS, or negative regulation of protein phosphorylation mutations, PIK3R2 depletion induced lung SQCC xenograft regression without triggering PI3K/AKT pathway rebound.">
+    <entity charOffset="3-8" id="s117.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="77-123" id="s117.e1" ontology_id="GO_0001933" text="negative regulation of protein phosphorylation" type="GO"/>
+    <pair e1="s117.e0" e2="s117.e1" id="s117.p0" relation="false"/>
+  </sentence>
+  <sentence id="s118" text="In conclusion, overexpression of the striated muscle contraction-p.N49S mutation in a mouse heart can be responsible for the phenotype of deep trabeculation, dilated cardiomyopathy, and cardiac dysfunction, which resembles the phenotype of LVNC">
+    <entity charOffset="37-64" id="s118.e0" ontology_id="GO_0006941" text="striated muscle contraction" type="GO"/>
+    <entity charOffset="166-180" id="s118.e1" ontology_id="HP_0001638" text="cardiomyopathy" type="HP"/>
+    <pair e1="s118.e0" e2="s118.e1" id="s118.p0" relation="true"/>
+  </sentence>
+  <sentence id="s119" text="Recent studies have suggested possible therapeutic targets for some patients with early-onset glaucoma based on the molecular and cellular events caused by MYOC, OPTN and protein phosphorylation mutations.">
+    <entity charOffset="94-102" id="s119.e0" ontology_id="HP_0000501" text="glaucoma" type="HP"/>
+    <entity charOffset="171-194" id="s119.e1" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <pair e1="s119.e0" e2="s119.e1" id="s119.p0" relation="true"/>
+  </sentence>
+  <sentence id="s120" text="Some of them were cancer-related according to COSMIC and HGMD databases (no founder mutations in double-strand break repair via homologous recombination and BRCA2 have been found).">
+    <entity charOffset="18-24" id="s120.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="97-152" id="s120.e1" ontology_id="GO_0000724" text="double-strand break repair via homologous recombination" type="GO"/>
+    <pair e1="s120.e0" e2="s120.e1" id="s120.p0" relation="false"/>
+  </sentence>
+  <sentence id="s121" text="In an effort to circumvent resistance to rapamycin--an regulation of cell growth inhibitor--we searched for novel rapamycin-downstream-targets that may be key players in the response of cancer cells to therapy.">
+    <entity charOffset="55-80" id="s121.e0" ontology_id="GO_0001558" text="regulation of cell growth" type="GO"/>
+    <entity charOffset="186-192" id="s121.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="s121.e0" e2="s121.e1" id="s121.p0" relation="false"/>
+  </sentence>
+  <sentence id="s122" text="These experiments suggest that excessive phosphorylation of response to endoplasmic reticulum stress decreases survival of cancer cells; making eIF2a a worthy target for drug development, with the potential to enhance the cytotoxic effects of established anti-neoplastic therapies and circumvent resistance to rapalogues and possibly to other drugs that inhibit upstream components of the mTOR pathway">
+    <entity charOffset="60-100" id="s122.e0" ontology_id="GO_0034976" text="response to endoplasmic reticulum stress" type="GO"/>
+    <entity charOffset="123-129" id="s122.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="s122.e0" e2="s122.e1" id="s122.p0" relation="false"/>
+  </sentence>
+  <sentence id="s123" text="Taken together, we firstly revealed that quercetin suppressed the progression of breast cancer by inhibiting cell mobility and glycolysis through Akt-regulation of cell growth pathway mediated autophagy induction and may provide a potential therapeutic target for breast cancer treatment">
+    <entity charOffset="88-94" id="s123.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="150-175" id="s123.e1" ontology_id="GO_0001558" text="regulation of cell growth" type="GO"/>
+    <pair e1="s123.e0" e2="s123.e1" id="s123.p0" relation="false"/>
+  </sentence>
+  <sentence id="s124" text="Leptin (LEP) and fat mass and obesity-associated (DNA dealkylation involved in DNA repair) alleles are known to influence body fat mass in humans, potentially via effects on appetite.">
+    <entity charOffset="30-37" id="s124.e0" ontology_id="HP_0001513" text="obesity" type="HP"/>
+    <entity charOffset="50-89" id="s124.e1" ontology_id="GO_0006307" text="DNA dealkylation involved in DNA repair" type="GO"/>
+    <pair e1="s124.e0" e2="s124.e1" id="s124.p0" relation="true"/>
+  </sentence>
+  <sentence id="s125" text="Moreover, comparison of the porcine results to those reported by human melanoma GWAS indicated shared association signals notably at CDKAL1 and transcription, RNA-templated loci but also nearby CCND1, FTO, PLA2G6 and TMEM38B-RAD23B loci.">
+    <entity charOffset="71-79" id="s125.e0" ontology_id="HP_0002861" text="melanoma" type="HP"/>
+    <entity charOffset="144-172" id="s125.e1" ontology_id="GO_0001172" text="transcription, RNA-templated" type="GO"/>
+    <pair e1="s125.e0" e2="s125.e1" id="s125.p0" relation="true"/>
+  </sentence>
+  <sentence id="s126" text="We surveyed positive regulation of transcription, DNA-templated expression in 24 hepatoblastomas using RNA in situ hybridization and immunohistochemistry.">
+    <entity charOffset="12-63" id="s126.e0" ontology_id="GO_0045893" text="positive regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="81-95" id="s126.e1" ontology_id="HP_0002884" text="hepatoblastoma" type="HP"/>
+    <pair e1="s126.e0" e2="s126.e1" id="s126.p0" relation="false"/>
+  </sentence>
+  <sentence id="s127" text="Collectively, our study uncovers a protein complex, which consists of FIGNL1 and KIAA0146/cellular response to DNA damage stimulus, in DNA repair and provides potential directions for cancer diagnosis and therapy.">
+    <entity charOffset="90-130" id="s127.e0" ontology_id="GO_0006974" text="cellular response to DNA damage stimulus" type="GO"/>
+    <entity charOffset="184-190" id="s127.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="s127.e0" e2="s127.e1" id="s127.p0" relation="false"/>
+  </sentence>
+  <sentence id="s128" text="Addition of exogenous negative regulation of cell proliferation (6XHis-tagged, E. coli expressed and partially purified using Ni-ion columns) significantly suppressed the tumor necrosis factor-a (TNF-a)-stimulated human umbilical cord vascular endothelial cell (HUVEC) tube formation.">
+    <entity charOffset="22-63" id="s128.e0" ontology_id="GO_0008285" text="negative regulation of cell proliferation" type="GO"/>
+    <entity charOffset="171-176" id="s128.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="s128.e0" e2="s128.e1" id="s128.p0" relation="true"/>
+  </sentence>
+  <sentence id="s129" text="Bardet-Biedl syndrome (visual perception) is a genetically heterogeneous disorder characterized by retinal dystrophy, polydactyly, obesity, developmental delay, and renal defects.">
+    <entity charOffset="23-40" id="s129.e0" ontology_id="GO_0007601" text="visual perception" type="GO"/>
+    <entity charOffset="59-72" id="s129.e1" ontology_id="HP_0001425" text="heterogeneous" type="HP"/>
+    <pair e1="s129.e0" e2="s129.e1" id="s129.p0" relation="false"/>
+  </sentence>
+  <sentence id="s130" text="Constitutive activation of interferon signaling pathways has been reported in colorectal cancer (CRC), leading to a strong CD8+ T cell response through stimulation of negative regulation of NF-kappaB transcription factor activity expression.">
+    <entity charOffset="89-95" id="s130.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="167-229" id="s130.e1" ontology_id="GO_0032088" text="negative regulation of NF-kappaB transcription factor activity" type="GO"/>
+    <pair e1="s130.e0" e2="s130.e1" id="s130.p0" relation="true"/>
+  </sentence>
+  <sentence id="s131" text="In the present study, pyridoxal phosphate biosynthetic process expression in human ovarian tumour tissue and its association with the clinicopathological features of patients with EOC were examined.">
+    <entity charOffset="22-62" id="s131.e0" ontology_id="GO_0042823" text="pyridoxal phosphate biosynthetic process" type="GO"/>
+    <entity charOffset="91-97" id="s131.e1" ontology_id="HP_0002664" text="tumour" type="HP"/>
+    <pair e1="s131.e0" e2="s131.e1" id="s131.p0" relation="false"/>
+  </sentence>
+  <sentence id="s132" text="Six novel visual perception mutations (p.Asp65ThrfsX38, p.Arg142GlyfsX5, p.Arg142AlafsX22, p.Tyr144X, p.Arg169X, and p.Tyr46Asp) were identified in other six families with congenital nuclear cataracts, respectively.">
+    <entity charOffset="10-27" id="s132.e0" ontology_id="GO_0007601" text="visual perception" type="GO"/>
+    <entity charOffset="191-199" id="s132.e1" ontology_id="HP_0000518" text="cataract" type="HP"/>
+    <pair e1="s132.e0" e2="s132.e1" id="s132.p0" relation="true"/>
+  </sentence>
+  <sentence id="s133" text="The tumor was diagnosed ACC with immunohistochemistry; positive to ACC phenotype(DNA clamp unloading-antitrypsin, a1-antichymotrypsin, BCL10).">
+    <entity charOffset="4-9" id="s133.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="81-100" id="s133.e1" ontology_id="GO_0090618" text="DNA clamp unloading" type="GO"/>
+    <pair e1="s133.e0" e2="s133.e1" id="s133.p0" relation="true"/>
+  </sentence>
+  <sentence id="s134" text="Pain scores correlated with total body tumor volume (rho = 0.32471, P = .0499), but not with number of tumors (rho = 0.23065, P = .1696).We found no significant difference in quantitative tumor burden between mutational groups, but spinal schwannomas were more common in protein ubiquitination-mutant patients.">
+    <entity charOffset="39-44" id="s134.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="271-293" id="s134.e1" ontology_id="GO_0016567" text="protein ubiquitination" type="GO"/>
+    <pair e1="s134.e0" e2="s134.e1" id="s134.p0" relation="false"/>
+  </sentence>
+  <sentence id="s135" text="Pain was significantly higher in protein ubiquitination-mutant than in SMARCB1-mutant patients, though spinal tumor location did not significantly correlate with pain.">
+    <entity charOffset="33-55" id="s135.e0" ontology_id="GO_0016567" text="protein ubiquitination" type="GO"/>
+    <entity charOffset="110-115" id="s135.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="s135.e0" e2="s135.e1" id="s135.p0" relation="false"/>
+  </sentence>
+  <sentence id="s136" text="Our findings indicate that mutations in positive regulation of transcription, DNA-templated cause a genetic neurodevelopmental syndrome and suggest that loss of EBF3 function might mediate a subset of neurologic phenotypes shared by ARX-related disorders, including intellectual disability, abnormal genitalia, and structural CNS malformations">
+    <entity charOffset="40-91" id="s136.e0" ontology_id="GO_0045893" text="positive regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="266-289" id="s136.e1" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <pair e1="s136.e0" e2="s136.e1" id="s136.p0" relation="true"/>
+  </sentence>
+  <sentence id="s137" text="Here we report three families with homozygous truncating mutations in vesicle tethering to Golgi who display moderate to severe intellectual disability and microcephaly.">
+    <entity charOffset="70-96" id="s137.e0" ontology_id="GO_0099041" text="vesicle tethering to Golgi" type="GO"/>
+    <entity charOffset="156-168" id="s137.e1" ontology_id="HP_0000252" text="microcephaly" type="HP"/>
+    <pair e1="s137.e0" e2="s137.e1" id="s137.p0" relation="true"/>
+  </sentence>
+  <sentence id="s138" text="Here we report three families with homozygous truncating mutations in vesicle tethering to Golgi who display moderate to severe intellectual disability and microcephaly.">
+    <entity charOffset="70-96" id="s138.e0" ontology_id="GO_0099041" text="vesicle tethering to Golgi" type="GO"/>
+    <entity charOffset="156-168" id="s138.e1" ontology_id="HP_0000252" text="microcephaly" type="HP"/>
+    <pair e1="s138.e0" e2="s138.e1" id="s138.p0" relation="true"/>
+  </sentence>
+  <sentence id="s139" text="Overexpression of many factors predicted poor prognosis in breast (cellular response to ionizing radiation, EEF1E1, EEF2) and lung cancer (EEF1A2, EEF1B2, EEF1G, EEF1E1).">
+    <entity charOffset="67-106" id="s139.e0" ontology_id="GO_0071479" text="cellular response to ionizing radiation" type="GO"/>
+    <entity charOffset="131-137" id="s139.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="s139.e0" e2="s139.e1" id="s139.p0" relation="false"/>
+  </sentence>
+  <sentence id="s140" text="Single nucleotide polymorphism in infant genes in the folate (tetrahydrofolate metabolic process rs12438477), homocysteine (TRDMT1 rs6602178 and GNMT rs11752813) and transsulfuration (GSTP1 rs7941395 and MGST1 rs7294985) pathways were also associated with an increased risk of congenital heart defects.Conclusions Common maternal or infant genetic variants in folate, homocysteine, or transsulfuration pathways are associated with an increased risk of certain congenital heart defects among children of women taking SSRIs during cardiogenesis">
+    <entity charOffset="62-96" id="s140.e0" ontology_id="GO_0046653" text="tetrahydrofolate metabolic process" type="GO"/>
+    <entity charOffset="277-301" id="s140.e1" ontology_id="HP_0001627" text="congenital heart defects" type="HP"/>
+    <pair e1="s140.e0" e2="s140.e1" id="s140.p0" relation="true"/>
+  </sentence>
+  <sentence id="s141" text="Here, we have performed a prospective nationwide genetic association study using the Human Exome BeadChip and identified gene variants in encoding dynactin 4 (DCTN4), retinoic acid early transcript 1E (RAET1E), and V-akt murine thymoma viral oncogene homolog 3 (positive regulation of blood vessel endothelial cell migration) to be associated with unfavourable outcome in patients with pneumococcal meningitis.">
+    <entity charOffset="262-324" id="s141.e0" ontology_id="GO_0043536" text="positive regulation of blood vessel endothelial cell migration" type="GO"/>
+    <entity charOffset="399-409" id="s141.e1" ontology_id="HP_0001287" text="meningitis" type="HP"/>
+    <pair e1="s141.e0" e2="s141.e1" id="s141.p0" relation="true"/>
+  </sentence>
+  <sentence id="s142" text="In neonatal seizures, defects in ALDH7A1 and pyridoxal phosphate biosynthetic process explain a major fraction of cases.">
+    <entity charOffset="12-20" id="s142.e0" ontology_id="HP_0001250" text="seizures" type="HP"/>
+    <entity charOffset="45-85" id="s142.e1" ontology_id="GO_0042823" text="pyridoxal phosphate biosynthetic process" type="GO"/>
+    <pair e1="s142.e0" e2="s142.e1" id="s142.p0" relation="true"/>
+  </sentence>
+  <sentence id="s143" text="Mutations affecting human COG1, COG2 and COG4-ER to Golgi vesicle-mediated transport cause monogenic forms of inherited, autosomal recessive CDGs.">
+    <entity charOffset="46-84" id="s143.e0" ontology_id="GO_0006888" text="ER to Golgi vesicle-mediated transport" type="GO"/>
+    <entity charOffset="121-140" id="s143.e1" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <pair e1="s143.e0" e2="s143.e1" id="s143.p0" relation="true"/>
+  </sentence>
+  <sentence id="s144" text="Meanwhile, mismatch repair rs175057 C&amp;gt;T locus was also associated with longer overall survival time in locally advanced rectal cancer (HR=0.44, 95% CI: 0.20-0.96, P=0.038), whereas MSH2 rs3771273 T&amp;gt;A, rs10188090 A&amp;gt;G and rs10191478 T&amp;gt;G loci were associated with shorter overall survival time (HR=1.74, 95% CI: 1.06-2.84, P=0.028; HR=1.64, 95% CI: 1.01-2.66, P=0.046; HR=1.71, 95% CI: 1.01-2.91, P=0.047, respectively).">
+    <entity charOffset="11-26" id="s144.e0" ontology_id="GO_0006298" text="mismatch repair" type="GO"/>
+    <entity charOffset="130-136" id="s144.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="s144.e0" e2="s144.e1" id="s144.p0" relation="true"/>
+  </sentence>
+  <sentence id="s145" text="We analyzed the expression of positive regulation of cell proliferation in 148 patients with breast cancer.">
+    <entity charOffset="30-71" id="s145.e0" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <entity charOffset="100-106" id="s145.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="s145.e0" e2="s145.e1" id="s145.p0" relation="true"/>
+  </sentence>
+  <sentence id="s146" text="Variants of WNK1 (lysine deficient protein kinase 1), ADRB2 (b2 adrenergic receptor), NEDD4L (ubiquitin-protein ligase ubiquitin-dependent protein catabolic process-like), KLK1 (kallikrein 1) contribute to hypertension, and AKR1C3 (aldo-keto reductase family1 member C3), is associated with preeclampsia.">
+    <entity charOffset="119-164" id="s146.e0" ontology_id="GO_0006511" text="ubiquitin-dependent protein catabolic process" type="GO"/>
+    <entity charOffset="206-218" id="s146.e1" ontology_id="HP_0000822" text="hypertension" type="HP"/>
+    <pair e1="s146.e0" e2="s146.e1" id="s146.p0" relation="true"/>
+  </sentence>
+  <sentence id="s147" text="Metabolic cutis laxa results from Menkes syndrome, caused by a defect in the ATPase copper transporting alpha (ATP7A) gene; congenital disorders of glycosylation due to mutations in subunit 7 of the component of oligomeric Golgi (COG7)-congenital disorders of glycosylation (CDG) complex; combined disorder of N- and O-linked glycosylation, due to mutations in ATPase H+ transporting V0 subunit a2 (ATP6VOA2) gene; pyrroline-5-carboxylate reductase 1 deficiency; pyrroline-5-carboxylate synthase deficiency; macrocephaly, alopecia, cutis laxa, and scoliosis (MACS) syndrome, due to Ras and Rab interactor 2 (RIN2) mutations; transaldolase deficiency caused by mutations in the transaldolase 1 (TALDO1) gene; Gerodermia osteodysplastica due to mutations in the golgin, peptidyl-cysteine methylation-interacting (GORAB or SCYL1BP1) gene; and mitogen-activated pathway (MAP) kinase defects, caused by mutations in several genes [protein tyrosine phosphatase, non-receptor-type 11 (PTPN11), RAF, NF, HRas proto-oncogene, GTPase (HRAS), B-Raf proto-oncogene, serine/threonine kinase (BRAF), MEK1/2, KRAS proto-oncogene, GTPase (KRAS), SOS Ras/Rho guanine nucleotide exchange factor 2 (SOS2), leucine rich repeat scaffold protein (SHOC2), NRAS proto-oncogene, GTPase (NRAS), and Raf-1 proto-oncogene, serine/threonine kinase (RAF1)], which regulate the Ras-MAPK cascade.">
+    <entity charOffset="508-520" id="s147.e0" ontology_id="HP_0000256" text="macrocephaly" type="HP"/>
+    <entity charOffset="768-797" id="s147.e1" ontology_id="GO_0018125" text="peptidyl-cysteine methylation" type="GO"/>
+    <pair e1="s147.e0" e2="s147.e1" id="s147.p0" relation="false"/>
+  </sentence>
+  <sentence id="s148" text="A heterozygous mutation in the Wolfram syndrome type 1 gene (negative regulation of transcription by RNA polymerase II) causes autosomal dominant nonsyndromic hereditary hearing loss, DFNA6/14/38, or Wolfram-like syndrome.">
+    <entity charOffset="61-118" id="s148.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="170-182" id="s148.e1" ontology_id="HP_0000365" text="hearing loss" type="HP"/>
+    <pair e1="s148.e0" e2="s148.e1" id="s148.p0" relation="true"/>
+  </sentence>
+  <sentence id="s149" text="positive regulation of protein secretion antibodies were used to probe 78 paraffin-embedded specimens of tongue squamous cell carcinoma and 15 normal tongue tissues, which served as controls.">
+    <entity charOffset="0-40" id="s149.e0" ontology_id="GO_0050714" text="positive regulation of protein secretion" type="GO"/>
+    <entity charOffset="112-135" id="s149.e1" ontology_id="HP_0002860" text="squamous cell carcinoma" type="HP"/>
+    <pair e1="s149.e0" e2="s149.e1" id="s149.p0" relation="false"/>
+  </sentence>
+  <sentence id="s150" text="In particular, angiogenesis mutations result in congenital macrothrombocytopenia and predispose to kidney failure, hearing loss, and cataracts, MPL and MECOM mutations cause congenital thrombocytopenia evolving into bone marrow failure, whereas thrombocytopenias caused by RUNX1, negative regulation of fat cell differentiation, and negative regulation of transcription by RNA polymerase II mutations are characterized by predisposition to hematological malignancies.">
+    <entity charOffset="15-27" id="s150.e0" ontology_id="GO_0001525" text="angiogenesis" type="GO"/>
+    <entity charOffset="115-127" id="s150.e1" ontology_id="HP_0000365" text="hearing loss" type="HP"/>
+    <pair e1="s150.e0" e2="s150.e1" id="s150.p0" relation="true"/>
+  </sentence>
+  <sentence id="s151" text="In particular, angiogenesis mutations result in congenital macrothrombocytopenia and predispose to kidney failure, hearing loss, and cataracts, MPL and MECOM mutations cause congenital thrombocytopenia evolving into bone marrow failure, whereas thrombocytopenias caused by RUNX1, negative regulation of fat cell differentiation, and negative regulation of transcription by RNA polymerase II mutations are characterized by predisposition to hematological malignancies.">
+    <entity charOffset="59-80" id="s151.e0" ontology_id="HP_0040185" text="macrothrombocytopenia" type="HP"/>
+    <entity charOffset="333-390" id="s151.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="s151.e0" e2="s151.e1" id="s151.p0" relation="false"/>
+  </sentence>
+  <sentence id="s152" text="In particular, angiogenesis mutations result in congenital macrothrombocytopenia and predispose to kidney failure, hearing loss, and cataracts, MPL and MECOM mutations cause congenital thrombocytopenia evolving into bone marrow failure, whereas thrombocytopenias caused by RUNX1, negative regulation of fat cell differentiation, and negative regulation of transcription by RNA polymerase II mutations are characterized by predisposition to hematological malignancies.">
+    <entity charOffset="115-127" id="s152.e0" ontology_id="HP_0000365" text="hearing loss" type="HP"/>
+    <entity charOffset="280-327" id="s152.e1" ontology_id="GO_0045599" text="negative regulation of fat cell differentiation" type="GO"/>
+    <pair e1="s152.e0" e2="s152.e1" id="s152.p0" relation="false"/>
+  </sentence>
+  <sentence id="s153" text="Genomics of tumors identified several new genes - including ZNRF3 in adrenocortical carcinomas, PRKACA in cortisol-producing adrenal adenomas, biological_process in primary macronodular adrenal hyperplasia and USP8 in pituitary corticotroph adenomas.">
+    <entity charOffset="143-161" id="s153.e0" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="186-205" id="s153.e1" ontology_id="HP_0008221" text="adrenal hyperplasia" type="HP"/>
+    <pair e1="s153.e0" e2="s153.e1" id="s153.p0" relation="true"/>
+  </sentence>
+  <sentence id="s154" text="Mutations in isocitrate metabolic process and IDH2 have recently been observed in multiple tumors, including gliomas, acute myeloid leukemia, myelodysplastic syndromes, and chondrosarcoma.">
+    <entity charOffset="13-41" id="s154.e0" ontology_id="GO_0006102" text="isocitrate metabolic process" type="GO"/>
+    <entity charOffset="173-187" id="s154.e1" ontology_id="HP_0006765" text="chondrosarcoma" type="HP"/>
+    <pair e1="s154.e0" e2="s154.e1" id="s154.p0" relation="true"/>
+  </sentence>
+  <sentence id="s155" text="Mutations in isocitrate metabolic process and IDH2 have recently been observed in multiple tumors, including gliomas, acute myeloid leukemia, myelodysplastic syndromes, and chondrosarcoma.">
+    <entity charOffset="13-41" id="s155.e0" ontology_id="GO_0006102" text="isocitrate metabolic process" type="GO"/>
+    <entity charOffset="173-187" id="s155.e1" ontology_id="HP_0006765" text="chondrosarcoma" type="HP"/>
+    <pair e1="s155.e0" e2="s155.e1" id="s155.p0" relation="true"/>
+  </sentence>
+  <sentence id="s156" text="Our findings show that GPI anchor biosynthetic process mutations may lead to an isolated and mild limb girdle muscular dystrophy phenotype without cardiomyopathy">
+    <entity charOffset="23-54" id="s156.e0" ontology_id="GO_0006506" text="GPI anchor biosynthetic process" type="GO"/>
+    <entity charOffset="110-128" id="s156.e1" ontology_id="HP_0003560" text="muscular dystrophy" type="HP"/>
+    <pair e1="s156.e0" e2="s156.e1" id="s156.p0" relation="true"/>
+  </sentence>
+  <sentence id="s157" text="Additionally, protein polyubiquitination-577 may act as a valuable tumor marker to predict the prognosis of HCC patients.">
+    <entity charOffset="14-40" id="s157.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="67-72" id="s157.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="s157.e0" e2="s157.e1" id="s157.p0" relation="false"/>
+  </sentence>
+  <sentence id="s158" text="Collagen type 4 alpha 1 (COL4A1) and collagen type 13 alpha 1 (cell-matrix adhesion) produced by urothelial cancer cells support the vital oncogenic property of tumor invasion.">
+    <entity charOffset="63-83" id="s158.e0" ontology_id="GO_0007160" text="cell-matrix adhesion" type="GO"/>
+    <entity charOffset="108-114" id="s158.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="s158.e0" e2="s158.e1" id="s158.p0" relation="true"/>
+  </sentence>
+  <sentence id="s159" text="To gain insight into the molecular basis of the heterogeneous phenotype observed in men with the deletion we defined the type of DAZ and spermatogenesis genes deleted.">
+    <entity charOffset="48-61" id="s159.e0" ontology_id="HP_0001425" text="heterogeneous" type="HP"/>
+    <entity charOffset="137-152" id="s159.e1" ontology_id="GO_0007283" text="spermatogenesis" type="GO"/>
+    <pair e1="s159.e0" e2="s159.e1" id="s159.p0" relation="false"/>
+  </sentence>
+  <sentence id="s160" text="This case suggested a broad phenotypic spectrum arises from corpus callosum morphogenesis mutations, forming a continuum from epileptic encephalopathy and severe developmental delay to mild intellectual disability without epilepsy.">
+    <entity charOffset="60-89" id="s160.e0" ontology_id="GO_0021540" text="corpus callosum morphogenesis" type="GO"/>
+    <entity charOffset="136-150" id="s160.e1" ontology_id="HP_0001298" text="encephalopathy" type="HP"/>
+    <pair e1="s160.e0" e2="s160.e1" id="s160.p0" relation="true"/>
+  </sentence>
+  <sentence id="s161" text="Schnyder corneal dystrophy (quaternary ammonium group transport) is a rare autosomal dominant disease in humans, characterized by abnormal deposition of cholesterol and phospholipids in cornea caused by mutations in the UbiA prenyltransferase domain containing 1 (vitamin K biosynthetic process) gene.">
+    <entity charOffset="9-26" id="s161.e0" ontology_id="HP_0001131" text="corneal dystrophy" type="HP"/>
+    <entity charOffset="28-63" id="s161.e1" ontology_id="GO_0015697" text="quaternary ammonium group transport" type="GO"/>
+    <pair e1="s161.e0" e2="s161.e1" id="s161.p0" relation="false"/>
+  </sentence>
+  <sentence id="s162" text="Schnyder corneal dystrophy (quaternary ammonium group transport) is a rare autosomal dominant disease in humans, characterized by abnormal deposition of cholesterol and phospholipids in cornea caused by mutations in the UbiA prenyltransferase domain containing 1 (vitamin K biosynthetic process) gene.">
+    <entity charOffset="9-26" id="s162.e0" ontology_id="HP_0001131" text="corneal dystrophy" type="HP"/>
+    <entity charOffset="264-294" id="s162.e1" ontology_id="GO_0042371" text="vitamin K biosynthetic process" type="GO"/>
+    <pair e1="s162.e0" e2="s162.e1" id="s162.p0" relation="true"/>
+  </sentence>
+  <sentence id="s163" text="Furthermore, in utero CRISPR-Cas9-mediated genome editing of Tsc1 or positive regulation of macroautophagy induced the development of spontaneous behavioral seizures, as well as cytomegalic neurons and cortical dyslamination.">
+    <entity charOffset="69-106" id="s163.e0" ontology_id="GO_0016239" text="positive regulation of macroautophagy" type="GO"/>
+    <entity charOffset="157-165" id="s163.e1" ontology_id="HP_0001250" text="seizures" type="HP"/>
+    <pair e1="s163.e0" e2="s163.e1" id="s163.p0" relation="true"/>
+  </sentence>
+  <sentence id="s164" text="Moreover, the novel mutation, p.R414C, adds up to the literature for the infantile-onset form of autosomal recessive ataxia associated with vesicle-mediated transport.">
+    <entity charOffset="97-116" id="s164.e0" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="140-166" id="s164.e1" ontology_id="GO_0016192" text="vesicle-mediated transport" type="GO"/>
+    <pair e1="s164.e0" e2="s164.e1" id="s164.p0" relation="true"/>
+  </sentence>
+  <sentence id="s165" text="We investigated plasma microRNA (protein polyubiquitinationNA) profiles associated with variation of hyperglycemia, measured as hemoglobin A1c (HbA1c), in two panels of patients with type 1 diabetes (T1D).">
+    <entity charOffset="33-59" id="s165.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="101-114" id="s165.e1" ontology_id="HP_0003074" text="hyperglycemia" type="HP"/>
+    <pair e1="s165.e0" e2="s165.e1" id="s165.p0" relation="true"/>
+  </sentence>
+  <sentence id="s166" text="In summary, our results reveal that rare loss-of-function variants in biological_process increase the risk for a varying combination of epilepsy, intellectual disability/developmental delay and dysmorphic features, presenting in some pedigrees with an X-linked inheritance pattern">
+    <entity charOffset="70-88" id="s166.e0" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="136-144" id="s166.e1" ontology_id="HP_0001250" text="epilepsy" type="HP"/>
+    <pair e1="s166.e0" e2="s166.e1" id="s166.p0" relation="true"/>
+  </sentence>
+  <sentence id="s167" text="Taken together, we show that common DNA variants within proteolysis at 4p16 and upstream of MLF1 at 3q25 influence neuroblastoma susceptibility and MLF1 likely plays an important role in neuroblastoma tumorigenesis">
+    <entity charOffset="56-67" id="s167.e0" ontology_id="GO_0006508" text="proteolysis" type="GO"/>
+    <entity charOffset="115-128" id="s167.e1" ontology_id="HP_0003006" text="neuroblastoma" type="HP"/>
+    <pair e1="s167.e0" e2="s167.e1" id="s167.p0" relation="true"/>
+  </sentence>
+  <sentence id="s168" text="Based upon the development-dependent onsets of these psychotomimetic effects, by using a DNA microarray technique, we identified the WD repeat domain 3 (WDR3) and chitobiosyldiphosphodolichol beta-mannosyltransferase (protein glycosylation) genes as novel candidates for schizophrenia-related molecules, whose mRNAs were up-regulated in the adult (postnatal week seven), but not in the infant (postnatal week one) rats by an indirect dopamine agonist, and phencyclidine, an antagonist of the NMDA receptor.">
+    <entity charOffset="218-239" id="s168.e0" ontology_id="GO_0006486" text="protein glycosylation" type="GO"/>
+    <entity charOffset="271-284" id="s168.e1" ontology_id="HP_0100753" text="schizophrenia" type="HP"/>
+    <pair e1="s168.e0" e2="s168.e1" id="s168.p0" relation="true"/>
+  </sentence>
+  <sentence id="s169" text="We report brothers with optic neuropathy who had novel mutations in the regulation of dendrite development gene.">
+    <entity charOffset="30-40" id="s169.e0" ontology_id="HP_0009830" text="neuropathy" type="HP"/>
+    <entity charOffset="72-106" id="s169.e1" ontology_id="GO_0050773" text="regulation of dendrite development" type="GO"/>
+    <pair e1="s169.e0" e2="s169.e1" id="s169.p0" relation="true"/>
+  </sentence>
+  <sentence id="s170" text="One of the mechanisms of the growth inhibitory effect is probably that sphingosine-1-phosphate receptor signaling pathway inhibition lower the phosphorylation level of extracellular regulated protein kinase 1/2 (ERK1/2) pathway, which prevent the transformation of ovarian cancer cells from phase G(1) to S">
+    <entity charOffset="71-121" id="s170.e0" ontology_id="GO_0003376" text="sphingosine-1-phosphate receptor signaling pathway" type="GO"/>
+    <entity charOffset="273-279" id="s170.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="s170.e0" e2="s170.e1" id="s170.p0" relation="true"/>
+  </sentence>
+  <sentence id="s171" text="Conclusions: The growth of ovarian cancer cells could be decreased by sphingosine-1-phosphate receptor signaling pathway inhibition in vitro and in vivo.">
+    <entity charOffset="35-41" id="s171.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="70-120" id="s171.e1" ontology_id="GO_0003376" text="sphingosine-1-phosphate receptor signaling pathway" type="GO"/>
+    <pair e1="s171.e0" e2="s171.e1" id="s171.p0" relation="true"/>
+  </sentence>
+  <sentence id="s172" text="Cystinuria is a heterogeneous, rare but important cause of inherited kidney stone disease due to mutations in 2 genes: SLC3A1 and neutral amino acid transport.">
+    <entity charOffset="16-29" id="s172.e0" ontology_id="HP_0001425" text="heterogeneous" type="HP"/>
+    <entity charOffset="130-158" id="s172.e1" ontology_id="GO_0015804" text="neutral amino acid transport" type="GO"/>
+    <pair e1="s172.e0" e2="s172.e1" id="s172.p0" relation="true"/>
+  </sentence>
+  <sentence id="s173" text="Moreover, inhibition of negative regulation of transcription by RNA polymerase II target pyrimidine synthesis genes such as CAD, UMPS, and CTPS blocked cell growth, and thus are potential targets for colorectal cancer therapy">
+    <entity charOffset="24-81" id="s173.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="211-217" id="s173.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="s173.e0" e2="s173.e1" id="s173.p0" relation="true"/>
+  </sentence>
+  <sentence id="s174" text="The transcription factor positive regulation of transcription by RNA polymerase II is a master regulator of the cellular antioxidant response, and it is often genetically activated in non-small-cell lung cancers (NSCLCs) by, for instance, mutations in the negative regulator KEAP1.">
+    <entity charOffset="25-82" id="s174.e0" ontology_id="GO_0045944" text="positive regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="204-210" id="s174.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="s174.e0" e2="s174.e1" id="s174.p0" relation="true"/>
+  </sentence>
+</document>

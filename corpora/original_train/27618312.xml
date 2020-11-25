@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="27618312">
+  <sentence id="27618312.s0" text="Further, epidermis development heterozygous for either Magoh or Rbm8a exhibit aberrant neurogenesis and microcephaly.">
+    <entity charOffset="9-30" id="27618312.s0.e0" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="104-116" id="27618312.s0.e1" ontology_id="HP_0000252" text="microcephaly" type="HP"/>
+    <pair e1="27618312.s0.e0" e2="27618312.s0.e1" id="27618312.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="27618312.s1" text="Using a new conditional allele, we first show that mRNA splicing, via spliceosome haploinsufficiency phenocopies aberrant neurogenesis and microcephaly of nuclear-transcribed mRNA catabolic process, nonsense-mediated decay and Rbm8a mutant mice.">
+    <entity charOffset="51-81" id="27618312.s1.e0" ontology_id="GO_0000398" text="mRNA splicing, via spliceosome" type="GO"/>
+    <entity charOffset="139-151" id="27618312.s1.e1" ontology_id="HP_0000252" text="microcephaly" type="HP"/>
+    <entity charOffset="155-222" id="27618312.s1.e2" ontology_id="GO_0000184" text="nuclear-transcribed mRNA catabolic process, nonsense-mediated decay" type="GO"/>
+    <pair e1="27618312.s1.e0" e2="27618312.s1.e1" id="27618312.s1.p0" relation="false"/>
+    <pair e1="27618312.s1.e1" e2="27618312.s1.e2" id="27618312.s1.p1" relation="false"/>
+  </sentence>
+</document>

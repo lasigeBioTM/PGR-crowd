@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="29950560">
+  <sentence id="29950560.s0" text="Here we show, using whole-exome and cancer gene panel sequencing of 79 aGCTs from two independent cohorts, that truncating mutation of the histone lysine methyltransferase gene response to estrogen (also known as MLL2) is a recurrent somatic event in aGCT.">
+    <entity charOffset="36-42" id="29950560.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="177-197" id="29950560.s0.e1" ontology_id="GO_0043627" text="response to estrogen" type="GO"/>
+    <pair e1="29950560.s0.e0" e2="29950560.s0.e1" id="29950560.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="29950560.s1" text="IHC detects additional non-response to estrogen-mutated aGCTs with loss of nuclear KMT2D expression, suggesting that non-genetic KMT2D inactivation may occur in this tumor type.">
+    <entity charOffset="27-47" id="29950560.s1.e0" ontology_id="GO_0043627" text="response to estrogen" type="GO"/>
+    <entity charOffset="166-171" id="29950560.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29950560.s1.e0" e2="29950560.s1.e1" id="29950560.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="29950560.s2" text="Adult-type granulosa cell tumors of the ovary (aGCTs) are rare gynecologic malignancies that exhibit a high frequency of somatic negative regulation of transcription, DNA-templated c.C402G (p.Cys134Trp) mutation.">
+    <entity charOffset="26-32" id="29950560.s2.e0" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <entity charOffset="129-180" id="29950560.s2.e1" ontology_id="GO_0045892" text="negative regulation of transcription, DNA-templated" type="GO"/>
+    <pair e1="29950560.s2.e0" e2="29950560.s2.e1" id="29950560.s2.p0" relation="true"/>
+  </sentence>
+</document>

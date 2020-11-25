@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<document id="26199132">
+  <sentence id="26199132.s0" text="We investigated the negative regulation of transcription by RNA polymerase II of the biomarkers of S-G2-M phases of cell cycle, Aurora kinase B (negative regulation of transcription by RNA polymerase II) and geminin (negative regulation of DNA replication), on disease progression in neuroblastomas.">
+    <entity charOffset="20-77" id="26199132.s0.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="145-202" id="26199132.s0.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="217-255" id="26199132.s0.e2" ontology_id="GO_0008156" text="negative regulation of DNA replication" type="GO"/>
+    <entity charOffset="284-298" id="26199132.s0.e3" ontology_id="HP_0003006" text="neuroblastomas" type="HP"/>
+    <pair e1="26199132.s0.e0" e2="26199132.s0.e3" id="26199132.s0.p0" relation="false"/>
+    <pair e1="26199132.s0.e1" e2="26199132.s0.e3" id="26199132.s0.p1" relation="false"/>
+    <pair e1="26199132.s0.e2" e2="26199132.s0.e3" id="26199132.s0.p2" relation="false"/>
+  </sentence>
+  <sentence id="26199132.s1" text="The expression of negative regulation of transcription by RNA polymerase II and negative regulation of DNA replication was studied by immunostaining 84 neuroblastomas.">
+    <entity charOffset="18-75" id="26199132.s1.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="80-118" id="26199132.s1.e1" ontology_id="GO_0008156" text="negative regulation of DNA replication" type="GO"/>
+    <entity charOffset="152-166" id="26199132.s1.e2" ontology_id="HP_0003006" text="neuroblastomas" type="HP"/>
+    <pair e1="26199132.s1.e0" e2="26199132.s1.e2" id="26199132.s1.p0" relation="false"/>
+    <pair e1="26199132.s1.e1" e2="26199132.s1.e2" id="26199132.s1.p1" relation="false"/>
+  </sentence>
+  <sentence id="26199132.s2" text="The PI for both markers was significantly higher in neuroblastomas from patients with unfavorable clinical (high-risk group, advanced stage, age ≥18 months at presentation, primary abdominal compared to extra-abdominal sites), biological (positive regulation of gene expression amplification, 1p deletion, 17q gain), and pathological (undifferentiated or poorly differentiated status, high mitosis-karyorrhexis index, [MKI], unfavorable histology) factors.">
+    <entity charOffset="52-66" id="26199132.s2.e0" ontology_id="HP_0003006" text="neuroblastomas" type="HP"/>
+    <entity charOffset="239-277" id="26199132.s2.e1" ontology_id="GO_0010628" text="positive regulation of gene expression" type="GO"/>
+    <pair e1="26199132.s2.e0" e2="26199132.s2.e1" id="26199132.s2.p0" relation="false"/>
+  </sentence>
+</document>

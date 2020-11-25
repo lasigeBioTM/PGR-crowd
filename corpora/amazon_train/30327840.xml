@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30327840">
+  <sentence id="30327840.s0" text="Low-density lipoprotein receptor-related protein 4 (kidney development) is a multi-functional protein implicated in bone, kidney and neurological diseases including Cenani-Lenz syndactyly (CLS), sclerosteosis, osteoporosis, congenital myasthenic syndrome and myasthenia gravis.">
+    <entity charOffset="52-70" id="30327840.s0.e0" ontology_id="GO_0001822" text="kidney development" type="GO"/>
+    <entity charOffset="177-187" id="30327840.s0.e1" ontology_id="HP_0001159" text="syndactyly" type="HP"/>
+    <pair e1="30327840.s0.e0" e2="30327840.s0.e1" id="30327840.s0.p0" relation="true"/>
+  </sentence>
+</document>

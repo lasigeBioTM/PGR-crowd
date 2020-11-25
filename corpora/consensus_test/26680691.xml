@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="26680691">
+  <sentence id="26680691.s0" text="CGD is a genetically heterogeneous disease with an X-linked recessive (XR-CGD) form caused by mutations in the CYBB gene encoding the gp91(phox) protein, and an autosomal recessive (AR-CGD) form caused by mutations in the cytochrome complex assembly, protein targeting to membrane, NCF2, or antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent genes encoding p22(phox) , p47(phox) , p67(phox) , and p40(phox) , respectively.">
+    <entity charOffset="21-34" id="26680691.s0.e0" ontology_id="HP_0001425" text="heterogeneous" type="HP"/>
+    <entity charOffset="161-180" id="26680691.s0.e1" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="222-249" id="26680691.s0.e2" ontology_id="GO_0017004" text="cytochrome complex assembly" type="GO"/>
+    <entity charOffset="251-280" id="26680691.s0.e3" ontology_id="GO_0006612" text="protein targeting to membrane" type="GO"/>
+    <entity charOffset="291-386" id="26680691.s0.e4" ontology_id="GO_0002479" text="antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent" type="GO"/>
+    <pair e1="26680691.s0.e0" e2="26680691.s0.e2" id="26680691.s0.p0" relation="false"/>
+    <pair e1="26680691.s0.e0" e2="26680691.s0.e4" id="26680691.s0.p1" relation="true"/>
+    <pair e1="26680691.s0.e1" e2="26680691.s0.e3" id="26680691.s0.p2" relation="true"/>
+    <pair e1="26680691.s0.e1" e2="26680691.s0.e4" id="26680691.s0.p3" relation="true"/>
+    <pair e1="26680691.s0.e1" e2="26680691.s0.e2" id="26680691.s0.p4" relation="true"/>
+  </sentence>
+</document>

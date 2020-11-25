@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30465166">
+  <sentence id="30465166.s0" text="steroid biosynthetic process defects result in congenital adrenal hyperplasia (CAH), an autosomal recessive disorder characterized by impaired adrenal steroidogenesis.">
+    <entity charOffset="0-28" id="30465166.s0.e0" ontology_id="GO_0006694" text="steroid biosynthetic process" type="GO"/>
+    <entity charOffset="58-77" id="30465166.s0.e1" ontology_id="HP_0008221" text="adrenal hyperplasia" type="HP"/>
+    <pair e1="30465166.s0.e0" e2="30465166.s0.e1" id="30465166.s0.p0" relation="true"/>
+  </sentence>
+</document>

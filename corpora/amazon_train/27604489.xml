@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27604489">
+  <sentence id="27604489.s0" text="We demonstrate the presence of either biallelic loss of Hippo pathway tumor suppressor genes (negative regulation of cytokine production) and/or evidence of alteration of Hippo pathway genes in 85% of samples.">
+    <entity charOffset="70-75" id="27604489.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="94-136" id="27604489.s0.e1" ontology_id="GO_0001818" text="negative regulation of cytokine production" type="GO"/>
+    <pair e1="27604489.s0.e0" e2="27604489.s0.e1" id="27604489.s0.p0" relation="true"/>
+  </sentence>
+</document>

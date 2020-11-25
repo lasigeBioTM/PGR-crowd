@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<document id="30693543">
+  <sentence id="30693543.s0" text="While many downstream effectors of actin cytoskeleton reorganization have been established, the upstream regulators of ATR and the impact of such regulation on liver cancer remain unclear.">
+    <entity charOffset="35-68" id="30693543.s0.e0" ontology_id="GO_0031532" text="actin cytoskeleton reorganization" type="GO"/>
+    <entity charOffset="166-172" id="30693543.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30693543.s0.e0" e2="30693543.s0.e1" id="30693543.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="30693543.s1" text="Here we demonstrate new functions for regulation of cytokinesis in actin cytoskeleton reorganization activation in vitro and liver tumor suppression in vivo.">
+    <entity charOffset="38-63" id="30693543.s1.e0" ontology_id="GO_0032465" text="regulation of cytokinesis" type="GO"/>
+    <entity charOffset="67-100" id="30693543.s1.e1" ontology_id="GO_0031532" text="actin cytoskeleton reorganization" type="GO"/>
+    <entity charOffset="131-136" id="30693543.s1.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="30693543.s1.e0" e2="30693543.s1.e2" id="30693543.s1.p0" relation="false"/>
+    <pair e1="30693543.s1.e1" e2="30693543.s1.e2" id="30693543.s1.p1" relation="true"/>
+  </sentence>
+  <sentence id="30693543.s2" text="The in vivo negative regulation of transcription by RNA polymerase II of regulation of cytokinesis loss on liver tumorigenesis was determined using the hepatocellular carcinoma model induced by genotoxin Diethylnitrosamine.">
+    <entity charOffset="12-69" id="30693543.s2.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="73-98" id="30693543.s2.e1" ontology_id="GO_0032465" text="regulation of cytokinesis" type="GO"/>
+    <entity charOffset="113-118" id="30693543.s2.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="152-176" id="30693543.s2.e3" ontology_id="HP_0001402" text="hepatocellular carcinoma" type="HP"/>
+    <pair e1="30693543.s2.e0" e2="30693543.s2.e2" id="30693543.s2.p0" relation="false"/>
+    <pair e1="30693543.s2.e0" e2="30693543.s2.e3" id="30693543.s2.p1" relation="false"/>
+    <pair e1="30693543.s2.e1" e2="30693543.s2.e3" id="30693543.s2.p2" relation="false"/>
+  </sentence>
+  <sentence id="30693543.s3" text="Liver-specific knockout of murine Bruce impaired actin cytoskeleton reorganization activation and exacerbated inflammation, fibrosis and hepatocellular carcinoma, which exhibited a trabecular architecture, closely resembling human phosphatidylinositol phosphorylation.">
+    <entity charOffset="49-82" id="30693543.s3.e0" ontology_id="GO_0031532" text="actin cytoskeleton reorganization" type="GO"/>
+    <entity charOffset="137-161" id="30693543.s3.e1" ontology_id="HP_0001402" text="hepatocellular carcinoma" type="HP"/>
+    <entity charOffset="231-267" id="30693543.s3.e2" ontology_id="GO_0046854" text="phosphatidylinositol phosphorylation" type="GO"/>
+    <pair e1="30693543.s3.e0" e2="30693543.s3.e1" id="30693543.s3.p0" relation="false"/>
+    <pair e1="30693543.s3.e1" e2="30693543.s3.e2" id="30693543.s3.p1" relation="false"/>
+  </sentence>
+  <sentence id="30693543.s4" text="In humans, the clinical relevance of regulation of cytokinesis downregulation in liver disease was found in hepatitis, cirrhosis and hepatocellular carcinoma specimens and deleterious somatic mutations of the regulation of cytokinesis gene was found in human hepatocellular carcinoma in TCGA database.">
+    <entity charOffset="37-62" id="30693543.s4.e0" ontology_id="GO_0032465" text="regulation of cytokinesis" type="GO"/>
+    <entity charOffset="133-157" id="30693543.s4.e1" ontology_id="HP_0001402" text="hepatocellular carcinoma" type="HP"/>
+    <entity charOffset="209-234" id="30693543.s4.e2" ontology_id="GO_0032465" text="regulation of cytokinesis" type="GO"/>
+    <pair e1="30693543.s4.e0" e2="30693543.s4.e1" id="30693543.s4.p0" relation="false"/>
+    <pair e1="30693543.s4.e1" e2="30693543.s4.e2" id="30693543.s4.p1" relation="false"/>
+  </sentence>
+  <sentence id="30693543.s5" text="Conclusion: These findings establish a new regulation of cytokinesis-actin cytoskeleton reorganization signaling axis in accurate DNA replication and suppression of liver cancer in mice and humans and provides a clinically relevant phosphatidylinositol phosphorylation mouse model.">
+    <entity charOffset="43-68" id="30693543.s5.e0" ontology_id="GO_0032465" text="regulation of cytokinesis" type="GO"/>
+    <entity charOffset="69-102" id="30693543.s5.e1" ontology_id="GO_0031532" text="actin cytoskeleton reorganization" type="GO"/>
+    <entity charOffset="171-177" id="30693543.s5.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="232-268" id="30693543.s5.e3" ontology_id="GO_0046854" text="phosphatidylinositol phosphorylation" type="GO"/>
+    <pair e1="30693543.s5.e0" e2="30693543.s5.e2" id="30693543.s5.p0" relation="false"/>
+    <pair e1="30693543.s5.e1" e2="30693543.s5.e2" id="30693543.s5.p1" relation="true"/>
+    <pair e1="30693543.s5.e2" e2="30693543.s5.e3" id="30693543.s5.p2" relation="false"/>
+  </sentence>
+</document>

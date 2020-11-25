@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<document id="30429449">
+  <sentence id="30429449.s0" text="BACKGROUND regulation of cell adhesion rearrangements have been reported in 30% of papillary thyroid carcinomas and 1-2% of non-small cell lung cancer (NSCLC).">
+    <entity charOffset="11-38" id="30429449.s0.e0" ontology_id="GO_0030155" text="regulation of cell adhesion" type="GO"/>
+    <entity charOffset="83-111" id="30429449.s0.e1" ontology_id="HP_0002895" text="papillary thyroid carcinomas" type="HP"/>
+    <pair e1="30429449.s0.e0" e2="30429449.s0.e1" id="30429449.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="30429449.s1" text="In this investigation we assessed the positivity rate of regulation of cell adhesion gene rearrangement in primary and metastatic non-small cell lung cancer and explored their relationships.">
+    <entity charOffset="57-84" id="30429449.s1.e0" ontology_id="GO_0030155" text="regulation of cell adhesion" type="GO"/>
+    <entity charOffset="150-156" id="30429449.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30429449.s1.e0" e2="30429449.s1.e1" id="30429449.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="30429449.s2" text="The regulation of cell adhesion rearrangement uniformity in metastatic lymph nodes and tumor specimens were contrasted and the relationships between RET rearrangement and patients' clinical features were investigated.">
+    <entity charOffset="4-31" id="30429449.s2.e0" ontology_id="GO_0030155" text="regulation of cell adhesion" type="GO"/>
+    <entity charOffset="87-92" id="30429449.s2.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="30429449.s2.e0" e2="30429449.s2.e1" id="30429449.s2.p0" relation="true"/>
+  </sentence>
+  <sentence id="30429449.s3" text="Among the 246 paired cases, 3 (1.22%) cases of primary tumor had identified regulation of cell adhesion rearrangement and 2 (0.81%) cases of metastases had identified RET rearrangement.">
+    <entity charOffset="55-60" id="30429449.s3.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="76-103" id="30429449.s3.e1" ontology_id="GO_0030155" text="regulation of cell adhesion" type="GO"/>
+    <pair e1="30429449.s3.e0" e2="30429449.s3.e1" id="30429449.s3.p0" relation="true"/>
+  </sentence>
+  <sentence id="30429449.s4" text="CONCLUSIONS The results of this research indicate that the metastases of non-small cell lung cancer can predict regulation of cell adhesion rearrangement of the primary tumor tissue in the majority of cases.">
+    <entity charOffset="93-99" id="30429449.s4.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="112-139" id="30429449.s4.e1" ontology_id="GO_0030155" text="regulation of cell adhesion" type="GO"/>
+    <entity charOffset="169-174" id="30429449.s4.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="30429449.s4.e0" e2="30429449.s4.e1" id="30429449.s4.p0" relation="true"/>
+    <pair e1="30429449.s4.e1" e2="30429449.s4.e2" id="30429449.s4.p1" relation="true"/>
+  </sentence>
+  <sentence id="30429449.s5" text="Testing for regulation of cell adhesion rearrangement in metastases can be used as an alternative to testing of primary tumor tissue if it is inaccessible">
+    <entity charOffset="12-39" id="30429449.s5.e0" ontology_id="GO_0030155" text="regulation of cell adhesion" type="GO"/>
+    <entity charOffset="120-125" id="30429449.s5.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="30429449.s5.e0" e2="30429449.s5.e1" id="30429449.s5.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="27406698">
+  <sentence id="27406698.s0" text="The autophagy gene has been reported as a positive regulator of autophagy which is an essential mechanism for maintaining neuron homeostasis and survival and plays a key role in major adult and pediatric neurodegenerative diseases.">
+    <entity charOffset="4-13" id="27406698.s0.e0" ontology_id="GO_0006914" text="autophagy" type="GO"/>
+    <entity charOffset="204-230" id="27406698.s0.e1" ontology_id="HP_0002180" text="neurodegenerative diseases" type="HP"/>
+    <pair e1="27406698.s0.e0" e2="27406698.s0.e1" id="27406698.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="27406698.s1" text="Our exome analysis indicated the proband as a compound heterozygote for two missense variants in the autophagy gene according to a recessive mode of inheritance.">
+    <entity charOffset="101-110" id="27406698.s1.e0" ontology_id="GO_0006914" text="autophagy" type="GO"/>
+    <entity charOffset="141-160" id="27406698.s1.e1" ontology_id="HP_0000005" text="mode of inheritance" type="HP"/>
+    <pair e1="27406698.s1.e0" e2="27406698.s1.e1" id="27406698.s1.p0" relation="true"/>
+  </sentence>
+</document>

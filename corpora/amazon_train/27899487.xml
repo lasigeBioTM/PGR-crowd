@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="27899487">
+  <sentence id="27899487.s0" text="We compared the early transcriptome profile between DKD-resistant C57BL/6J and DKD-susceptible DBA/2J (D2) glomeruli and demonstrated a significant downregulation of essential mitochondrial genes in glomeruli from diabetic D2 epidermis development, but not in C57BL/6J, with comparable hyperglycemia.">
+    <entity charOffset="226-247" id="27899487.s0.e0" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="286-299" id="27899487.s0.e1" ontology_id="HP_0003074" text="hyperglycemia" type="HP"/>
+  </sentence>
+  <sentence id="27899487.s1" text="Our studies show that DKD susceptibility was linked to mitochondrial dysfunction, mediated largely by negative regulation of transcription by RNA polymerase II-Ednra in glomerular endothelial cells representing an early event in DKD progression, and suggest that cross talk between glomerular endothelial injury and podocytes leads to defects and depletion, albuminuria, and glomerulosclerosis">
+    <entity charOffset="102-159" id="27899487.s1.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="358-369" id="27899487.s1.e1" ontology_id="HP_0012592" text="albuminuria" type="HP"/>
+    <pair e1="27899487.s1.e0" e2="27899487.s1.e1" id="27899487.s1.p0" relation="true"/>
+  </sentence>
+</document>

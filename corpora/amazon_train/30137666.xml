@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30137666">
+  <sentence id="30137666.s0" text="Wnt transgenic epidermis development provide convincing evidence that Wnt signaling is involved in breast cancer initiation and progression, which is further strengthened by observations on human clinical breast cancer patients and studies on in vitro cultured human breast cancer cells.">
+    <entity charOffset="15-36" id="30137666.s0.e0" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="106-112" id="30137666.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30137666.s0.e0" e2="30137666.s0.e1" id="30137666.s0.p0" relation="true"/>
+  </sentence>
+</document>

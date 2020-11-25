@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="26091610">
+  <sentence id="26091610.s0" text="We generated a transgenic rat strain with a missense mutation in V286L (V286L-TG), in the gene encoding the neuronal nicotinic acetylcholine receptor β2 subunit (CHRNB2) found in patients with autosomal dominant nocturnal frontal negative regulation of protein kinase activity epilepsy (ADNFLE).">
+    <entity charOffset="212-221" id="26091610.s0.e0" ontology_id="HP_0025301" text="nocturnal" type="HP"/>
+    <entity charOffset="230-276" id="26091610.s0.e1" ontology_id="GO_0006469" text="negative regulation of protein kinase activity" type="GO"/>
+    <entity charOffset="277-285" id="26091610.s0.e2" ontology_id="HP_0001250" text="epilepsy" type="HP"/>
+    <pair e1="26091610.s0.e0" e2="26091610.s0.e1" id="26091610.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="26091610.s1" text="To confirm that V286L-TG rats exhibit seizures similar to those observed in humans, gene expression patterns and behavioral phenomuscle organ developments were analyzed.">
+    <entity charOffset="38-46" id="26091610.s1.e0" ontology_id="HP_0001250" text="seizures" type="HP"/>
+    <entity charOffset="129-153" id="26091610.s1.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+  </sentence>
+</document>

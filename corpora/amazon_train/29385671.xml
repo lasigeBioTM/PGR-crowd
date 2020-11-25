@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="29385671">
+  <sentence id="29385671.s0" text="&lt;i&gt;In vivo&lt;/i&gt; tumorigenic studies confirmed that protein polyubiquitination-612 overexpression retarded the growth of A375 xenograft tumors, which was coupled with a decline in the percentage of regulation of proteasomal protein catabolic process-67-positive proliferating cells.">
+    <entity charOffset="50-76" id="29385671.s0.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="134-140" id="29385671.s0.e1" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <entity charOffset="196-247" id="29385671.s0.e2" ontology_id="GO_0061136" text="regulation of proteasomal protein catabolic process" type="GO"/>
+    <pair e1="29385671.s0.e0" e2="29385671.s0.e1" id="29385671.s0.p0" relation="true"/>
+    <pair e1="29385671.s0.e1" e2="29385671.s0.e2" id="29385671.s0.p1" relation="true"/>
+  </sentence>
+</document>

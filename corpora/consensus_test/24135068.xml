@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="24135068">
+  <sentence id="24135068.s0" text="In a patient with clinical features of mitotic metaphase plate congression syndrome, such as hearing loss, preauricular fistulas and facial dysmorphisms, but no renal anomalies, neither sequencing of the 3 genes linked to BOR syndrome nor array comparative genomic hybridization and MLPA were able to uncover a causative mutation.">
+    <entity charOffset="39-74" id="24135068.s0.e0" ontology_id="GO_0007080" text="mitotic metaphase plate congression" type="GO"/>
+    <entity charOffset="107-128" id="24135068.s0.e1" ontology_id="HP_0004467" text="preauricular fistulas" type="HP"/>
+    <pair e1="24135068.s0.e0" e2="24135068.s0.e1" id="24135068.s0.p0" relation="false"/>
+  </sentence>
+</document>

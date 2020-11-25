@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="28687971">
+  <sentence id="28687971.s0" text="We identified 16 of 53 participants (30%) with a pathogenic (P) or likely pathogenic (LP) variant that may be related to their hereditary pancreatic cancer predisposition; seven had mutations in genes associated with well-known cancer syndromes (13%) [ATM (2), mitotic cytokinesis (3), DNA repair (1), DNA repair (1)].">
+    <entity charOffset="149-155" id="28687971.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="261-280" id="28687971.s0.e1" ontology_id="GO_0000281" text="mitotic cytokinesis" type="GO"/>
+    <entity charOffset="286-296" id="28687971.s0.e2" ontology_id="GO_0006281" text="DNA repair" type="GO"/>
+    <entity charOffset="302-312" id="28687971.s0.e3" ontology_id="GO_0006281" text="DNA repair" type="GO"/>
+    <pair e1="28687971.s0.e0" e2="28687971.s0.e1" id="28687971.s0.p0" relation="true"/>
+    <pair e1="28687971.s0.e0" e2="28687971.s0.e2" id="28687971.s0.p1" relation="true"/>
+    <pair e1="28687971.s0.e0" e2="28687971.s0.e3" id="28687971.s0.p2" relation="true"/>
+  </sentence>
+</document>

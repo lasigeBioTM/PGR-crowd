@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<document id="25778620">
+  <sentence id="25778620.s0" text="Human genetic and pharmacological animal studies support this hypothesis, but no studies have explored G protein-coupled glutamate receptor signaling pathway dysfunction at the molecular level in the postmortem schizophrenia brain.">
+    <entity charOffset="103-157" id="25778620.s0.e0" ontology_id="GO_0007216" text="G protein-coupled glutamate receptor signaling pathway" type="GO"/>
+    <entity charOffset="211-224" id="25778620.s0.e1" ontology_id="HP_0100753" text="schizophrenia" type="HP"/>
+    <pair e1="25778620.s0.e0" e2="25778620.s0.e1" id="25778620.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="25778620.s1" text="Conversely, G protein-coupled glutamate receptor signaling pathway regulatory proteins were expressed at lower levels in schizophrenia subjects compared to controls (Norbin -37%, p &amp;lt; 0.001; Tamalin -30%, p = 0.084; Preso1 -29%, p = 0.001).">
+    <entity charOffset="12-66" id="25778620.s1.e0" ontology_id="GO_0007216" text="G protein-coupled glutamate receptor signaling pathway" type="GO"/>
+    <entity charOffset="121-134" id="25778620.s1.e1" ontology_id="HP_0100753" text="schizophrenia" type="HP"/>
+    <pair e1="25778620.s1.e0" e2="25778620.s1.e1" id="25778620.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="25778620.s2" text="We assessed G protein-coupled glutamate receptor signaling pathway mRNA and protein levels in the dorsolateral prefrontal cortex (DLPFC) using a large cohort of schizophrenia and control subjects (n = 37/group), and additionally measured protein levels of recently discovered mGluR5 endogenous regulators, Norbin (neurochondrin), Tamalin (GRASP-1), and Preso1 (FRMPD4), which regulate mGluR5 localization, internalization and signaling.">
+    <entity charOffset="12-66" id="25778620.s2.e0" ontology_id="GO_0007216" text="G protein-coupled glutamate receptor signaling pathway" type="GO"/>
+    <entity charOffset="161-174" id="25778620.s2.e1" ontology_id="HP_0100753" text="schizophrenia" type="HP"/>
+    <pair e1="25778620.s2.e0" e2="25778620.s2.e1" id="25778620.s2.p0" relation="false"/>
+  </sentence>
+  <sentence id="25778620.s3" text="While G protein-coupled glutamate receptor signaling pathway mRNA expression was unchanged, mGluR5 protein levels were significantly higher in schizophrenia subjects compared to controls (total: +22%; dimer: +54%; p &amp;lt; 0.001).">
+    <entity charOffset="6-60" id="25778620.s3.e0" ontology_id="GO_0007216" text="G protein-coupled glutamate receptor signaling pathway" type="GO"/>
+    <entity charOffset="143-156" id="25778620.s3.e1" ontology_id="HP_0100753" text="schizophrenia" type="HP"/>
+    <pair e1="25778620.s3.e0" e2="25778620.s3.e1" id="25778620.s3.p0" relation="true"/>
+  </sentence>
+</document>

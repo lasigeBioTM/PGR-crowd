@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29293510">
+  <sentence id="29293510.s0" text="We successfully showed that the combination of immune cell therapy and CPA was safe, might induce tumor-specific immune responses and clinical efficacy, and was accompanied by a decreased ratio of Tregs in patients with ubiquitin-dependent protein catabolic process-positive advanced solid tumors">
+    <entity charOffset="98-103" id="29293510.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="220-265" id="29293510.s0.e1" ontology_id="GO_0006511" text="ubiquitin-dependent protein catabolic process" type="GO"/>
+    <pair e1="29293510.s0.e0" e2="29293510.s0.e1" id="29293510.s0.p0" relation="true"/>
+  </sentence>
+</document>

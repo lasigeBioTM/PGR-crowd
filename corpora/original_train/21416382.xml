@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="21416382">
+  <sentence id="21416382.s0" text="Posterior microphthalmos (PM) is a relatively infrequent muscle organ development of microphthalmos where posterior segment is predominantly affected with normal anterior segment measurements.">
+    <entity charOffset="10-24" id="21416382.s0.e0" ontology_id="HP_0000568" text="microphthalmos" type="HP"/>
+    <entity charOffset="57-81" id="21416382.s0.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <pair e1="21416382.s0.e0" e2="21416382.s0.e1" id="21416382.s0.p0" relation="false"/>
+  </sentence>
+</document>

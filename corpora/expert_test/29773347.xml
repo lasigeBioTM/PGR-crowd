@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29773347">
+  <sentence id="29773347.s0" text="Friedreich's ataxia (FRDA) is an autosomal recessive neurodegenerative disorder resulting from reduced expression of the protein frataxin (regulation of ferrochelatase activity).">
+    <entity charOffset="13-19" id="29773347.s0.e0" ontology_id="HP_0001251" text="ataxia" type="HP"/>
+    <entity charOffset="139-176" id="29773347.s0.e1" ontology_id="GO_0010722" text="regulation of ferrochelatase activity" type="GO"/>
+    <pair e1="29773347.s0.e0" e2="29773347.s0.e1" id="29773347.s0.p0" relation="true"/>
+  </sentence>
+</document>

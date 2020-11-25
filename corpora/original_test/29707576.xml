@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29707576">
+  <sentence id="29707576.s0" text="Here we established a mutation detection system based on multiple fluorescent probe technique, which can detect and genotype nine hotspot mutations of four prominent hearing loss-related genes in two reactions on a four-channel real-time PCR instrument, including GJB2 (rs750188782, rs80338943, rs1110333204, and rs80338939), GJB3 (rs74315319), regulation of pH (rs111033313 and rs121908362), and mtDNA 12S rRNA (rs267606617 and rs267606619).">
+    <entity charOffset="166-178" id="29707576.s0.e0" ontology_id="HP_0000365" text="hearing loss" type="HP"/>
+    <entity charOffset="345-361" id="29707576.s0.e1" ontology_id="GO_0006885" text="regulation of pH" type="GO"/>
+    <pair e1="29707576.s0.e0" e2="29707576.s0.e1" id="29707576.s0.p0" relation="true"/>
+  </sentence>
+</document>

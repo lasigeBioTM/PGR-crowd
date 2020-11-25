@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29593177">
+  <sentence id="29593177.s0" text="This review focuses on the molecular basis of the pathogenesis of cardiac abnormality due to negative regulation of protein kinase activity mutation and will provide current overviews of the mechanism of glycogen regulation by AMPK.">
+    <entity charOffset="66-85" id="29593177.s0.e0" ontology_id="HP_0001627" text="cardiac abnormality" type="HP"/>
+    <entity charOffset="93-139" id="29593177.s0.e1" ontology_id="GO_0006469" text="negative regulation of protein kinase activity" type="GO"/>
+    <pair e1="29593177.s0.e0" e2="29593177.s0.e1" id="29593177.s0.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<document id="28698647">
+  <sentence id="28698647.s0" text="Prostate cancer is the most common cancer among western negative regulation of phosphatase activity, with a significant mortality and morbidity reported for advanced metastatic disease.">
+    <entity charOffset="9-15" id="28698647.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="56-99" id="28698647.s0.e1" ontology_id="GO_0010923" text="negative regulation of phosphatase activity" type="GO"/>
+    <pair e1="28698647.s0.e0" e2="28698647.s0.e1" id="28698647.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="28698647.s1" text="By analysing prostate cancer bone metastases using high density microarrays, we found a common genomic copy number loss at 6q16.1-16.2, containing the protein polyubiquitination gene, which was confirmed in larger series of bone metastases by fluorescence in situ hybridisation (superoxide metabolic process).">
+    <entity charOffset="22-28" id="28698647.s1.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="151-177" id="28698647.s1.e1" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="279-307" id="28698647.s1.e2" ontology_id="GO_0006801" text="superoxide metabolic process" type="GO"/>
+    <pair e1="28698647.s1.e0" e2="28698647.s1.e1" id="28698647.s1.p0" relation="false"/>
+    <pair e1="28698647.s1.e0" e2="28698647.s1.e2" id="28698647.s1.p1" relation="false"/>
+  </sentence>
+  <sentence id="28698647.s2" text="Loss of protein polyubiquitination was also detected in primary tumours and it was highly associated with prognostic factors including high Gleason score, clinical stage, prostate-specific antigen (plasminogen activation) and extent of disease, as well as poor patient survival, suggesting that FBXL4 loss contributes to prostate cancer progression.">
+    <entity charOffset="8-34" id="28698647.s2.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="64-71" id="28698647.s2.e1" ontology_id="HP_0002664" text="tumours" type="HP"/>
+    <entity charOffset="198-220" id="28698647.s2.e2" ontology_id="GO_0031639" text="plasminogen activation" type="GO"/>
+    <pair e1="28698647.s2.e0" e2="28698647.s2.e1" id="28698647.s2.p0" relation="false"/>
+    <pair e1="28698647.s2.e1" e2="28698647.s2.e2" id="28698647.s2.p1" relation="false"/>
+  </sentence>
+  <sentence id="28698647.s3" text="We also demonstrated that protein polyubiquitination deletion is detectable in circulating tumour cells (CTCs), making it a potential prognostic biomarker by 'liquid biopsy'.">
+    <entity charOffset="26-52" id="28698647.s3.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="91-97" id="28698647.s3.e1" ontology_id="HP_0002664" text="tumour" type="HP"/>
+    <pair e1="28698647.s3.e0" e2="28698647.s3.e1" id="28698647.s3.p0" relation="false"/>
+  </sentence>
+  <sentence id="28698647.s4" text="In vitro analysis showed that protein polyubiquitination plays a role in regulating the migration and invasion of prostate cancer cells.">
+    <entity charOffset="30-56" id="28698647.s4.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="123-129" id="28698647.s4.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28698647.s4.e0" e2="28698647.s4.e1" id="28698647.s4.p0" relation="false"/>
+  </sentence>
+  <sentence id="28698647.s5" text="Therefore, protein polyubiquitination could be a potential novel prostate cancer suppressor gene, which may prevent cancer progression and metastasis through controlling cell invasion">
+    <entity charOffset="11-37" id="28698647.s5.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="74-80" id="28698647.s5.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28698647.s5.e0" e2="28698647.s5.e1" id="28698647.s5.p0" relation="false"/>
+  </sentence>
+</document>

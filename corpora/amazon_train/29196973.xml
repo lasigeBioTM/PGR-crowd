@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="29196973">
+  <sentence id="29196973.s0" text="Moreover, the novel mutation, p.R414C, adds up to the literature for the infantile-onset form of autosomal recessive ataxia associated with vesicle-mediated transport.">
+    <entity charOffset="97-116" id="29196973.s0.e0" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="117-123" id="29196973.s0.e1" ontology_id="HP_0001251" text="ataxia" type="HP"/>
+    <entity charOffset="140-166" id="29196973.s0.e2" ontology_id="GO_0016192" text="vesicle-mediated transport" type="GO"/>
+    <pair e1="29196973.s0.e0" e2="29196973.s0.e2" id="29196973.s0.p0" relation="true"/>
+    <pair e1="29196973.s0.e1" e2="29196973.s0.e2" id="29196973.s0.p1" relation="true"/>
+  </sentence>
+</document>

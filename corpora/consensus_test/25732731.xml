@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="25732731">
+  <sentence id="25732731.s0" text="To avoid this artifactual early priming of the host precluding the study of the interactions between the immune system and tumors at the steady state, we generated a cell line expressing the biological_process Ag in an inducible manner.">
+    <entity charOffset="123-128" id="25732731.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="191-209" id="25732731.s0.e1" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <pair e1="25732731.s0.e0" e2="25732731.s0.e1" id="25732731.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="25732731.s1" text="In this study, we show that the presentation of a MHC class II-restricted model Ag (male, biological_process) released by dying tumor cells may last more than 4 wk.">
+    <entity charOffset="90-108" id="25732731.s1.e0" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="128-133" id="25732731.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="25732731.s1.e0" e2="25732731.s1.e1" id="25732731.s1.p0" relation="false"/>
+  </sentence>
+</document>

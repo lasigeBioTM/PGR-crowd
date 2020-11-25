@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28600480">
+  <sentence id="28600480.s0" text="IL17RD expression was increased in ulcerative colitis cancers, and miR-193a-3p treatment decreased growth and positive regulation of protein phosphorylation signaling of HCT116 cells in xenografts expressing both IL17RD with WT 3'UTR compared with cells expressing IL17RD with mutant 3'UTR.&lt;b&gt;Conclusions:&lt;/b&gt; miR-193a-3p is downregulated in ulcerative colitis neoplasia, and its loss promotes carcinogenesis through upregulation of IL17RD.">
+    <entity charOffset="54-60" id="28600480.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="110-156" id="28600480.s0.e1" ontology_id="GO_0001934" text="positive regulation of protein phosphorylation" type="GO"/>
+    <pair e1="28600480.s0.e0" e2="28600480.s0.e1" id="28600480.s0.p0" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="28474749">
+  <sentence id="28474749.s0" text="Germline nucleosome disassembly mutations have been described in hereditary forms of this disease and more recently in small syndromic and sporadic CCM series.">
+    <entity charOffset="9-31" id="28474749.s0.e0" ontology_id="GO_0006337" text="nucleosome disassembly" type="GO"/>
+    <entity charOffset="139-147" id="28474749.s0.e1" ontology_id="HP_0003745" text="sporadic" type="HP"/>
+    <pair e1="28474749.s0.e0" e2="28474749.s0.e1" id="28474749.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="28474749.s1" text="The diagnostic value of nucleosome disassembly in distinguishing between CCM and other meningioma variants has not been yet established.">
+    <entity charOffset="24-46" id="28474749.s1.e0" ontology_id="GO_0006337" text="nucleosome disassembly" type="GO"/>
+    <entity charOffset="87-97" id="28474749.s1.e1" ontology_id="HP_0002858" text="meningioma" type="HP"/>
+    <pair e1="28474749.s1.e0" e2="28474749.s1.e1" id="28474749.s1.p0" relation="false"/>
+  </sentence>
+</document>

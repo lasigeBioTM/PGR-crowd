@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<document id="29293510">
+  <sentence id="29293510.s0" text="The objective of this study was to investigate the safety and the tolerability of combined cellular immunotherapy with low-dose cyclophosphamide (biological_process) in patients with advanced solid tumors.">
+    <entity charOffset="146-164" id="29293510.s0.e0" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="198-204" id="29293510.s0.e1" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <pair e1="29293510.s0.e0" e2="29293510.s0.e1" id="29293510.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="29293510.s1" text="This study targeted a novel tumor-associated antigen, ring finger protein 43 (ubiquitin-dependent protein catabolic process).">
+    <entity charOffset="28-33" id="29293510.s1.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="78-123" id="29293510.s1.e1" ontology_id="GO_0006511" text="ubiquitin-dependent protein catabolic process" type="GO"/>
+    <pair e1="29293510.s1.e0" e2="29293510.s1.e1" id="29293510.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="29293510.s2" text="Eligible patients were resistant to standard therapy, HLA-A*24:02- or A*02:01-positive and exhibiting high ubiquitin-dependent protein catabolic process expression in their tumor cells.">
+    <entity charOffset="107-152" id="29293510.s2.e0" ontology_id="GO_0006511" text="ubiquitin-dependent protein catabolic process" type="GO"/>
+    <entity charOffset="173-178" id="29293510.s2.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29293510.s2.e0" e2="29293510.s2.e1" id="29293510.s2.p0" relation="true"/>
+  </sentence>
+  <sentence id="29293510.s3" text="We successfully showed that the combination of immune cell therapy and biological_process was safe, might induce tumor-specific immune responses and clinical efficacy, and was accompanied by a decreased ratio of Tregs in patients with RNF43-positive advanced solid tumors">
+    <entity charOffset="71-89" id="29293510.s3.e0" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="113-118" id="29293510.s3.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29293510.s3.e0" e2="29293510.s3.e1" id="29293510.s3.p0" relation="false"/>
+  </sentence>
+</document>

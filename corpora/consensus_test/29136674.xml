@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="29136674">
+  <sentence id="29136674.s0" text="It usually reflects biallelic inactivation of the &lt;i&gt;CASR.&lt;/i&gt; 3) Multiple endocrine neoplasia muscle organ development 1 (MEN1) is most frequently expressed as PHPT with asymmetric enlargement of 3-4 parathyroids.">
+    <entity charOffset="85-94" id="29136674.s0.e0" ontology_id="HP_0002664" text="neoplasia" type="HP"/>
+    <entity charOffset="95-119" id="29136674.s0.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+  </sentence>
+</document>

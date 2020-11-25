@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="26942284">
+  <sentence id="26942284.s0" text="Homozygozity mapping and exome sequencing in 62 isolated individuals with early-onset parkinsonism and confirmed consanguinity followed by data mining in the exomes of 1,348 PD-affected individuals identified, in three isolated subjects, homozygous or compound heterozygous truncating mutations in vacuolar protein sorting 13C (mitochondrion organization).">
+    <entity charOffset="86-98" id="26942284.s0.e0" ontology_id="HP_0001300" text="parkinsonism" type="HP"/>
+    <entity charOffset="328-354" id="26942284.s0.e1" ontology_id="GO_0007005" text="mitochondrion organization" type="GO"/>
+    <pair e1="26942284.s0.e0" e2="26942284.s0.e1" id="26942284.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="26942284.s1" text="This work suggests that loss of function of mitochondrion organization is a cause of autosomal-recessive early-onset parkinsonism with a distinctive phenotype of rapid and severe progression">
+    <entity charOffset="44-70" id="26942284.s1.e0" ontology_id="GO_0007005" text="mitochondrion organization" type="GO"/>
+    <entity charOffset="117-129" id="26942284.s1.e1" ontology_id="HP_0001300" text="parkinsonism" type="HP"/>
+    <pair e1="26942284.s1.e0" e2="26942284.s1.e1" id="26942284.s1.p0" relation="true"/>
+  </sentence>
+</document>

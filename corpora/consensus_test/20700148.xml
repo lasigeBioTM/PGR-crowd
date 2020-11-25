@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="20700148">
+  <sentence id="20700148.s0" text="Independently, another group has recently observed SRD5A3 mutations in several families with a muscle organ development 1 congenital disorder of glycosylation (CDG type Ix, OMIM 212067), mental retardation, cerebellar ataxia and eye disorders.">
+    <entity charOffset="95-119" id="20700148.s0.e0" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="207-224" id="20700148.s0.e1" ontology_id="HP_0001251" text="cerebellar ataxia" type="HP"/>
+  </sentence>
+</document>

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="29712898">
+  <sentence id="29712898.s0" text="Here we show that a series of transcription factors, including C/EBPβ, regulation of transcription, DNA-templated, and negative regulation of transcription by RNA polymerase II, could act as potential modulators of histone methylation in tumor cells.">
+    <entity charOffset="71-113" id="29712898.s0.e0" ontology_id="GO_0006355" text="regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="119-176" id="29712898.s0.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="238-243" id="29712898.s0.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29712898.s0.e0" e2="29712898.s0.e2" id="29712898.s0.p0" relation="false"/>
+    <pair e1="29712898.s0.e1" e2="29712898.s0.e2" id="29712898.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="29712898.s1" text="Of note, C/EBPβ, an independent prognostic fcoenzyme A biosynthetic processor for patients with ovarian cancer, mediates an important mechanism through which epigenetic enzyme modifies groups of functionally related genes in a context-dependent manner.">
+    <entity charOffset="44-75" id="29712898.s1.e0" ontology_id="GO_0015937" text="coenzyme A biosynthetic process" type="GO"/>
+    <entity charOffset="104-110" id="29712898.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29712898.s1.e0" e2="29712898.s1.e1" id="29712898.s1.p0" relation="false"/>
+  </sentence>
+</document>

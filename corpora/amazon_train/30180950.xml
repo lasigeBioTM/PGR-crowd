@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="30180950">
+  <sentence id="30180950.s0" text="Upregulated LINC00963 led to elevated expression of protein homooligomerization through inhibiting protein polyubiquitination-608, which consequently promoted melanoma malignant progression.">
+    <entity charOffset="52-79" id="30180950.s0.e0" ontology_id="GO_0051260" text="protein homooligomerization" type="GO"/>
+    <entity charOffset="99-125" id="30180950.s0.e1" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="159-167" id="30180950.s0.e2" ontology_id="HP_0002861" text="melanoma" type="HP"/>
+    <pair e1="30180950.s0.e0" e2="30180950.s0.e2" id="30180950.s0.p0" relation="true"/>
+    <pair e1="30180950.s0.e1" e2="30180950.s0.e2" id="30180950.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="30180950.s1" text="Taken together, our results illustrated that LINC00963-protein polyubiquitination-608-NACC1 pathway might be a potential target for melanoma therapy">
+    <entity charOffset="55-81" id="30180950.s1.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="132-140" id="30180950.s1.e1" ontology_id="HP_0002861" text="melanoma" type="HP"/>
+  </sentence>
+</document>

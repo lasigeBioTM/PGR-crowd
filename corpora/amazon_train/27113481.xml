@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="27113481">
+  <sentence id="27113481.s0" text="A total of nine non-coding variants on 11q13.5 predispose negative regulation of phosphatase activity to prostate cancer (PrCa). rs200331695 within the EMSY intron is associated with aggressive PrCa and two high linkage disequilibrium (LD) groups of single-nucleotide polymorphisms (SNPs) in the intergenic region are associated with PrCa death.">
+    <entity charOffset="58-101" id="27113481.s0.e0" ontology_id="GO_0010923" text="negative regulation of phosphatase activity" type="GO"/>
+    <entity charOffset="114-120" id="27113481.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27113481.s0.e0" e2="27113481.s0.e1" id="27113481.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="27113481.s1" text="The results were validated in a second tumor negative regulation of transcription, DNA-templated (n = 41), in lymphoblastoid cell lines (LCLs) (n = 38), and using the GTEx Portal.">
+    <entity charOffset="39-44" id="27113481.s1.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="45-96" id="27113481.s1.e1" ontology_id="GO_0045892" text="negative regulation of transcription, DNA-templated" type="GO"/>
+    <pair e1="27113481.s1.e0" e2="27113481.s1.e1" id="27113481.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="27113481.s2" text="The findings indicate the functionality of the PrCa death-predisposing SNPs rs143975731, rs12277366, rs2155225, and rs2155222 as triglyceride biosynthetic process regulators in prostate tumors.">
+    <entity charOffset="129-162" id="27113481.s2.e0" ontology_id="GO_0019432" text="triglyceride biosynthetic process" type="GO"/>
+    <entity charOffset="186-192" id="27113481.s2.e1" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <pair e1="27113481.s2.e0" e2="27113481.s2.e1" id="27113481.s2.p0" relation="true"/>
+  </sentence>
+</document>

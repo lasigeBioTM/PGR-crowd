@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="30249491">
+  <sentence id="30249491.s0" text="Some aspects of the disease are now well known, such as nephrocalcinosis and craniosynostosis, related to the natural course of the disease, which persisted despite the negative regulation of transcription, DNA-templated.">
+    <entity charOffset="56-72" id="30249491.s0.e0" ontology_id="HP_0000121" text="nephrocalcinosis" type="HP"/>
+    <entity charOffset="77-93" id="30249491.s0.e1" ontology_id="HP_0001363" text="craniosynostosis" type="HP"/>
+    <entity charOffset="169-220" id="30249491.s0.e2" ontology_id="GO_0045892" text="negative regulation of transcription, DNA-templated" type="GO"/>
+    <pair e1="30249491.s0.e0" e2="30249491.s0.e2" id="30249491.s0.p0" relation="false"/>
+    <pair e1="30249491.s0.e1" e2="30249491.s0.e2" id="30249491.s0.p1" relation="false"/>
+  </sentence>
+</document>

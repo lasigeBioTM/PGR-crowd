@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<document id="30185235">
+  <sentence id="30185235.s0" text="Pediatric refractory epilepsy is a broad phenotypic spectrum with G protein-coupled receptor signaling pathway genetic heterogeneity.">
+    <entity charOffset="21-29" id="30185235.s0.e0" ontology_id="HP_0001250" text="epilepsy" type="HP"/>
+    <entity charOffset="66-110" id="30185235.s0.e1" ontology_id="GO_0007186" text="G protein-coupled receptor signaling pathway" type="GO"/>
+    <entity charOffset="119-132" id="30185235.s0.e2" ontology_id="HP_0001425" text="heterogeneity" type="HP"/>
+    <pair e1="30185235.s0.e0" e2="30185235.s0.e1" id="30185235.s0.p0" relation="false"/>
+    <pair e1="30185235.s0.e1" e2="30185235.s0.e2" id="30185235.s0.p1" relation="false"/>
+  </sentence>
+  <sentence id="30185235.s1" text="Other novel mutations detected in unclassified epilepsy patients involve the peripheral nervous system development, positive regulation of cytosolic calcium ion concentration, cellular response to histamine, chloride transmembrane transport, modulation of chemical synaptic transmission, TSC1, protein autophosphorylation, cellular sodium ion homeostasis, homophilic cell adhesion via plasma membrane adhesion molecules, axon extension and muscle organ development genes.">
+    <entity charOffset="47-55" id="30185235.s1.e0" ontology_id="HP_0001250" text="epilepsy" type="HP"/>
+    <entity charOffset="77-114" id="30185235.s1.e1" ontology_id="GO_0007422" text="peripheral nervous system development" type="GO"/>
+    <entity charOffset="116-174" id="30185235.s1.e2" ontology_id="GO_0007204" text="positive regulation of cytosolic calcium ion concentration" type="GO"/>
+    <entity charOffset="176-206" id="30185235.s1.e3" ontology_id="GO_0071420" text="cellular response to histamine" type="GO"/>
+    <entity charOffset="208-240" id="30185235.s1.e4" ontology_id="GO_1902476" text="chloride transmembrane transport" type="GO"/>
+    <entity charOffset="242-286" id="30185235.s1.e5" ontology_id="GO_0050804" text="modulation of chemical synaptic transmission" type="GO"/>
+    <entity charOffset="294-321" id="30185235.s1.e6" ontology_id="GO_0046777" text="protein autophosphorylation" type="GO"/>
+    <entity charOffset="323-354" id="30185235.s1.e7" ontology_id="GO_0006883" text="cellular sodium ion homeostasis" type="GO"/>
+    <entity charOffset="356-419" id="30185235.s1.e8" ontology_id="GO_0007156" text="homophilic cell adhesion via plasma membrane adhesion molecules" type="GO"/>
+    <entity charOffset="421-435" id="30185235.s1.e9" ontology_id="GO_0048675" text="axon extension" type="GO"/>
+    <entity charOffset="440-464" id="30185235.s1.e10" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <pair e1="30185235.s1.e0" e2="30185235.s1.e1" id="30185235.s1.p0" relation="true"/>
+    <pair e1="30185235.s1.e0" e2="30185235.s1.e2" id="30185235.s1.p1" relation="true"/>
+    <pair e1="30185235.s1.e0" e2="30185235.s1.e3" id="30185235.s1.p2" relation="true"/>
+    <pair e1="30185235.s1.e0" e2="30185235.s1.e4" id="30185235.s1.p3" relation="true"/>
+    <pair e1="30185235.s1.e0" e2="30185235.s1.e5" id="30185235.s1.p4" relation="true"/>
+    <pair e1="30185235.s1.e0" e2="30185235.s1.e6" id="30185235.s1.p5" relation="false"/>
+    <pair e1="30185235.s1.e0" e2="30185235.s1.e7" id="30185235.s1.p6" relation="true"/>
+    <pair e1="30185235.s1.e0" e2="30185235.s1.e8" id="30185235.s1.p7" relation="true"/>
+    <pair e1="30185235.s1.e0" e2="30185235.s1.e9" id="30185235.s1.p8" relation="true"/>
+    <pair e1="30185235.s1.e0" e2="30185235.s1.e10" id="30185235.s1.p9" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<document id="26640080">
+  <sentence id="26640080.s0" text="Using whole-exome sequencing, we identified a homozygous acceptor splice-site mutation in intron 6 of the negative regulation of microtubule depolymerization gene in a patient from a consanguineous Turkish family who presented with congenital microcephaly, lissencephaly, short stature, polysyndactyly, and dental abnormalities.">
+    <entity charOffset="106-157" id="26640080.s0.e0" ontology_id="GO_0007026" text="negative regulation of microtubule depolymerization" type="GO"/>
+    <entity charOffset="243-255" id="26640080.s0.e1" ontology_id="HP_0000252" text="microcephaly" type="HP"/>
+    <entity charOffset="257-270" id="26640080.s0.e2" ontology_id="HP_0001339" text="lissencephaly" type="HP"/>
+    <entity charOffset="272-285" id="26640080.s0.e3" ontology_id="HP_0004322" text="short stature" type="HP"/>
+    <entity charOffset="307-327" id="26640080.s0.e4" ontology_id="HP_0000164" text="dental abnormalities" type="HP"/>
+    <pair e1="26640080.s0.e0" e2="26640080.s0.e1" id="26640080.s0.p0" relation="true"/>
+    <pair e1="26640080.s0.e0" e2="26640080.s0.e2" id="26640080.s0.p1" relation="true"/>
+    <pair e1="26640080.s0.e0" e2="26640080.s0.e3" id="26640080.s0.p2" relation="false"/>
+    <pair e1="26640080.s0.e0" e2="26640080.s0.e4" id="26640080.s0.p3" relation="false"/>
+  </sentence>
+  <sentence id="26640080.s1" text="Homozygous and compound heterozygous mutations in negative regulation of microtubule depolymerization have very recently been described as a cause of microcephaly with brain malformations and seizures.">
+    <entity charOffset="50-101" id="26640080.s1.e0" ontology_id="GO_0007026" text="negative regulation of microtubule depolymerization" type="GO"/>
+    <entity charOffset="150-162" id="26640080.s1.e1" ontology_id="HP_0000252" text="microcephaly" type="HP"/>
+    <entity charOffset="192-200" id="26640080.s1.e2" ontology_id="HP_0001250" text="seizures" type="HP"/>
+    <pair e1="26640080.s1.e0" e2="26640080.s1.e1" id="26640080.s1.p0" relation="true"/>
+    <pair e1="26640080.s1.e0" e2="26640080.s1.e2" id="26640080.s1.p1" relation="true"/>
+  </sentence>
+</document>

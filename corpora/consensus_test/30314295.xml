@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<document id="30314295">
+  <sentence id="30314295.s0" text="While the &lt;i&gt;SCN2A&lt;/i&gt; variant is likely to be causal for episodic ataxia, each variant may potentially contribute to the phenomuscle organ developments observed in this family.">
+    <entity charOffset="58-66" id="30314295.s0.e0" ontology_id="HP_0025303" text="episodic" type="HP"/>
+    <entity charOffset="67-73" id="30314295.s0.e1" ontology_id="HP_0001251" text="ataxia" type="HP"/>
+    <entity charOffset="127-151" id="30314295.s0.e2" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+  </sentence>
+  <sentence id="30314295.s1" text="The trio was studied by whole-exome sequencing to identify candidate genes responsible for causing the complex EA/seizure phenomuscle organ development.">
+    <entity charOffset="114-121" id="30314295.s1.e0" ontology_id="HP_0001250" text="seizure" type="HP"/>
+    <entity charOffset="127-151" id="30314295.s1.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+  </sentence>
+  <sentence id="30314295.s2" text="Here we present a case of a proband with a complex episodic ataxias (EA)/seizure phenomuscle organ development with an EA-affected father; and an unaffected mother, all negative for &lt;i&gt;CACNA1A&lt;/i&gt; gene mutations.">
+    <entity charOffset="51-59" id="30314295.s2.e0" ontology_id="HP_0025303" text="episodic" type="HP"/>
+    <entity charOffset="86-110" id="30314295.s2.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+  </sentence>
+</document>

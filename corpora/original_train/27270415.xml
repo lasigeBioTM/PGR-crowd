@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="27270415">
+  <sentence id="27270415.s0" text="Mice with a neuronal deletion of Arv1 recapitulated the human phenomuscle organ development, exhibiting seizures and a severe survival defect in adulthood.">
+    <entity charOffset="67-91" id="27270415.s0.e0" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="104-111" id="27270415.s0.e1" ontology_id="HP_0001250" text="seizure" type="HP"/>
+    <pair e1="27270415.s0.e0" e2="27270415.s0.e1" id="27270415.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="27270415.s1" text="Our data support regulation of intracellular cholesterol transport deficiency as a cause of autosomal recessive epileptic encephalopathy">
+    <entity charOffset="17-66" id="27270415.s1.e0" ontology_id="GO_0032383" text="regulation of intracellular cholesterol transport" type="GO"/>
+    <entity charOffset="92-111" id="27270415.s1.e1" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <pair e1="27270415.s1.e0" e2="27270415.s1.e1" id="27270415.s1.p0" relation="true"/>
+  </sentence>
+</document>

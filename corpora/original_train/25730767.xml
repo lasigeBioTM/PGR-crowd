@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="25730767">
+  <sentence id="25730767.s0" text="Using exome sequencing, we discovered missense mutations in transcription by RNA polymerase II, a core component of the SEC, in three unrelated probands with a new syndrome that phenotypically overlaps Cornelia de Lange syndrome (CdLS) that we have named CHOPS syndrome (C for cognitive impairment and coarse facies, H for heart defects, O for obesity, P for pulmonary involvement and S for short stature and skeletal dysplasia).">
+    <entity charOffset="60-94" id="25730767.s0.e0" ontology_id="GO_0006366" text="transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="302-315" id="25730767.s0.e1" ontology_id="HP_0000280" text="coarse facies" type="HP"/>
+    <entity charOffset="344-351" id="25730767.s0.e2" ontology_id="HP_0001513" text="obesity" type="HP"/>
+    <entity charOffset="391-404" id="25730767.s0.e3" ontology_id="HP_0004322" text="short stature" type="HP"/>
+    <pair e1="25730767.s0.e0" e2="25730767.s0.e1" id="25730767.s0.p0" relation="true"/>
+    <pair e1="25730767.s0.e0" e2="25730767.s0.e2" id="25730767.s0.p1" relation="true"/>
+    <pair e1="25730767.s0.e0" e2="25730767.s0.e3" id="25730767.s0.p2" relation="true"/>
+  </sentence>
+</document>

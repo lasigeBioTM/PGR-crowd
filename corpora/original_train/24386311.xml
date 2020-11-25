@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="24386311">
+  <sentence id="24386311.s0" text="We found previously that the candidate tumor suppressor ion transmembrane transport is expressed in differentiated, growth-arrested mammary epithelial cells but is downregulated during tumor progression and cytokine production.">
+    <entity charOffset="39-44" id="24386311.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="56-83" id="24386311.s0.e1" ontology_id="GO_0034220" text="ion transmembrane transport" type="GO"/>
+    <entity charOffset="207-226" id="24386311.s0.e2" ontology_id="GO_0001816" text="cytokine production" type="GO"/>
+    <pair e1="24386311.s0.e0" e2="24386311.s0.e2" id="24386311.s0.p0" relation="true"/>
+    <pair e1="24386311.s0.e0" e2="24386311.s0.e1" id="24386311.s0.p1" relation="false"/>
+  </sentence>
+  <sentence id="24386311.s1" text="We show here that another member of the CLCA gene family, ion transmembrane transport, is expressed in mammary epithelial cells and is similarly downregulated in breast tumors and in breast cancer cell lines.">
+    <entity charOffset="58-85" id="24386311.s1.e0" ontology_id="GO_0034220" text="ion transmembrane transport" type="GO"/>
+    <entity charOffset="169-174" id="24386311.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="24386311.s1.e0" e2="24386311.s1.e1" id="24386311.s1.p0" relation="false"/>
+  </sentence>
+</document>

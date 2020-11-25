@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="29462293">
+  <sentence id="29462293.s0" text="Gap junction beta-1 (GJB1) gene mutations affecting the negative regulation of cell-matrix adhesion junction protein connexin32 (Cx32) cause the X-linked Charcot-Marie-Tooth disease (CMT1X), a common inherited neuropathy.">
+    <entity charOffset="56-99" id="29462293.s0.e0" ontology_id="GO_0001953" text="negative regulation of cell-matrix adhesion" type="GO"/>
+    <entity charOffset="210-220" id="29462293.s0.e1" ontology_id="HP_0009830" text="neuropathy" type="HP"/>
+  </sentence>
+</document>

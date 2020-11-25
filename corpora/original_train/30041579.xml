@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="30041579">
+  <sentence id="30041579.s0" text="In patients compared to controls, there was an increase of IgG reactivity against zinc finger protein 688 (ZNF688), early B cell factor 2 (EBF2), crystallin, alpha B (negative regulation of intracellular transport) and tumor necrosis factor receptor superfamily member 13C (tumor necrosis factor-mediated signaling pathway).">
+    <entity charOffset="167-213" id="30041579.s0.e0" ontology_id="GO_0032387" text="negative regulation of intracellular transport" type="GO"/>
+    <entity charOffset="219-224" id="30041579.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="274-322" id="30041579.s0.e2" ontology_id="GO_0033209" text="tumor necrosis factor-mediated signaling pathway" type="GO"/>
+    <pair e1="30041579.s0.e0" e2="30041579.s0.e1" id="30041579.s0.p0" relation="false"/>
+    <pair e1="30041579.s0.e1" e2="30041579.s0.e2" id="30041579.s0.p1" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="23646827">
+  <sentence id="23646827.s0" text="Interestingly, the other branch of the original family was found to segregate anophthalmia/syndactyly with a novel homozygous eye development variant.">
+    <entity charOffset="78-90" id="23646827.s0.e0" ontology_id="HP_0000528" text="anophthalmia" type="HP"/>
+    <entity charOffset="91-101" id="23646827.s0.e1" ontology_id="HP_0001159" text="syndactyly" type="HP"/>
+    <entity charOffset="126-141" id="23646827.s0.e2" ontology_id="GO_0001654" text="eye development" type="GO"/>
+    <pair e1="23646827.s0.e0" e2="23646827.s0.e2" id="23646827.s0.p0" relation="true"/>
+    <pair e1="23646827.s0.e1" e2="23646827.s0.e2" id="23646827.s0.p1" relation="true"/>
+  </sentence>
+</document>

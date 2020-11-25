@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<document id="30232607">
+  <sentence id="30232607.s0" text="All tumors were positive for anion transport-bicarbonate transport, CK18, PAX 8, antimitochondrial antigen, and SDHB.">
+    <entity charOffset="4-10" id="30232607.s0.e0" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <entity charOffset="29-44" id="30232607.s0.e1" ontology_id="GO_0006820" text="anion transport" type="GO"/>
+    <entity charOffset="45-66" id="30232607.s0.e2" ontology_id="GO_0015701" text="bicarbonate transport" type="GO"/>
+    <pair e1="30232607.s0.e0" e2="30232607.s0.e1" id="30232607.s0.p0" relation="true"/>
+    <pair e1="30232607.s0.e0" e2="30232607.s0.e2" id="30232607.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="30232607.s1" text="HOT should be considered as an emerging renal entity because it does not meet the diagnostic criteria for other recognized eosinophilic renal tumors, such as oncocytoma, chromophobe renal cell carcinoma (RCC), positive regulation of cell adhesion and positive regulation of transcription by RNA polymerase II RCC, choline catabolic process-deficient RCC, and eosinophilic solid and cystic RCC">
+    <entity charOffset="142-148" id="30232607.s1.e0" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <entity charOffset="182-202" id="30232607.s1.e1" ontology_id="HP_0005584" text="renal cell carcinoma" type="HP"/>
+    <entity charOffset="210-246" id="30232607.s1.e2" ontology_id="GO_0045785" text="positive regulation of cell adhesion" type="GO"/>
+    <entity charOffset="251-308" id="30232607.s1.e3" ontology_id="GO_0045944" text="positive regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="314-339" id="30232607.s1.e4" ontology_id="GO_0042426" text="choline catabolic process" type="GO"/>
+    <pair e1="30232607.s1.e0" e2="30232607.s1.e3" id="30232607.s1.p0" relation="true"/>
+    <pair e1="30232607.s1.e1" e2="30232607.s1.e4" id="30232607.s1.p1" relation="false"/>
+    <pair e1="30232607.s1.e1" e2="30232607.s1.e2" id="30232607.s1.p2" relation="false"/>
+    <pair e1="30232607.s1.e1" e2="30232607.s1.e3" id="30232607.s1.p3" relation="false"/>
+  </sentence>
+</document>

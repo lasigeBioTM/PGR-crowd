@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<document id="27765924">
+  <sentence id="27765924.s0" text="However, analogous advanced treatments are not available for patients with lung squamous cell carcinoma (lung negative regulation of peptidase activity).">
+    <entity charOffset="80-103" id="27765924.s0.e0" ontology_id="HP_0002860" text="squamous cell carcinoma" type="HP"/>
+    <entity charOffset="110-151" id="27765924.s0.e1" ontology_id="GO_0010466" text="negative regulation of peptidase activity" type="GO"/>
+  </sentence>
+  <sentence id="27765924.s1" text="However, the negative regulation of transcription by RNA polymerase II of protein polyubiquitination-145-3p (the passenger strand) on cancer cells is still ambiguous.">
+    <entity charOffset="13-70" id="27765924.s1.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="74-100" id="27765924.s1.e1" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="134-140" id="27765924.s1.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27765924.s1.e0" e2="27765924.s1.e2" id="27765924.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="27765924.s2" text="Expression levels of protein polyubiquitination-145-5p and miR-145-3p were markedly reduced in cancer tissues, and ectopic expression of these miRNAs inhibited cancer cell aggressiveness, suggesting that both miR-145-3p as well as miR-145-5p acted as antitumor miRNAs.">
+    <entity charOffset="21-47" id="27765924.s2.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="95-101" id="27765924.s2.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="255-260" id="27765924.s2.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="27765924.s2.e0" e2="27765924.s2.e1" id="27765924.s2.p0" relation="true"/>
+  </sentence>
+  <sentence id="27765924.s3" text="Taken together, both strands of protein polyubiquitination-145, miR-145-5p and miR-145-3p are functional and play pivotal roles as antitumor miRNAs in lung SCC">
+    <entity charOffset="32-58" id="27765924.s3.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="135-140" id="27765924.s3.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="27765924.s3.e0" e2="27765924.s3.e1" id="27765924.s3.p0" relation="false"/>
+  </sentence>
+</document>

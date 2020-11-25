@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="29659014">
+  <sentence id="29659014.s0" text="To evaluate the role of constitutive epigenetic changes in normal body cells of double-strand break repair via homologous recombination/mitotic cytokinesis-mutation negative patients, we have developed a deep bisulfite sequencing assay targeting the promoter regions of 8 tumor suppressor (TS) genes (BRCA1, BRCA2, DNA repair, protein phosphorylation, PTEN, TP53, mismatch repair, RB1) and the estrogene receptor gene (transcription by RNA polymerase II), which plays a role in tumor progression.">
+    <entity charOffset="80-135" id="29659014.s0.e0" ontology_id="GO_0000724" text="double-strand break repair via homologous recombination" type="GO"/>
+    <entity charOffset="136-155" id="29659014.s0.e1" ontology_id="GO_0000281" text="mitotic cytokinesis" type="GO"/>
+    <entity charOffset="272-277" id="29659014.s0.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="315-325" id="29659014.s0.e3" ontology_id="GO_0006281" text="DNA repair" type="GO"/>
+    <entity charOffset="327-350" id="29659014.s0.e4" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <entity charOffset="364-379" id="29659014.s0.e5" ontology_id="GO_0006298" text="mismatch repair" type="GO"/>
+    <entity charOffset="419-453" id="29659014.s0.e6" ontology_id="GO_0006366" text="transcription by RNA polymerase II" type="GO"/>
+    <pair e1="29659014.s0.e0" e2="29659014.s0.e2" id="29659014.s0.p0" relation="true"/>
+    <pair e1="29659014.s0.e1" e2="29659014.s0.e2" id="29659014.s0.p1" relation="true"/>
+    <pair e1="29659014.s0.e2" e2="29659014.s0.e3" id="29659014.s0.p2" relation="true"/>
+    <pair e1="29659014.s0.e2" e2="29659014.s0.e4" id="29659014.s0.p3" relation="true"/>
+    <pair e1="29659014.s0.e2" e2="29659014.s0.e5" id="29659014.s0.p4" relation="true"/>
+    <pair e1="29659014.s0.e2" e2="29659014.s0.e6" id="29659014.s0.p5" relation="true"/>
+  </sentence>
+</document>

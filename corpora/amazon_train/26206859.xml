@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="26206859">
+  <sentence id="26206859.s0" text="The pH-sensing receptor ovarian cancer G protein-coupled receptor 1 (inflammatory response; inflammatory response) is expressed in the gut.">
+    <entity charOffset="32-38" id="26206859.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="69-90" id="26206859.s0.e1" ontology_id="GO_0006954" text="inflammatory response" type="GO"/>
+    <entity charOffset="92-113" id="26206859.s0.e2" ontology_id="GO_0006954" text="inflammatory response" type="GO"/>
+    <pair e1="26206859.s0.e0" e2="26206859.s0.e1" id="26206859.s0.p0" relation="true"/>
+    <pair e1="26206859.s0.e0" e2="26206859.s0.e2" id="26206859.s0.p1" relation="true"/>
+  </sentence>
+</document>

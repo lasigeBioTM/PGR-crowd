@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<document id="28739378">
+  <sentence id="28739378.s0" text="Carney triad (CT) is a very rare disease with synchronous or metachronous occurrence of at least three different tumor entities; gastric gastrointestinal stromal tumor (GIST), paraganglioma (tricarboxylic acid cycle), and pulmonary chondroma.">
+    <entity charOffset="113-118" id="28739378.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="176-189" id="28739378.s0.e1" ontology_id="HP_0002668" text="paraganglioma" type="HP"/>
+    <entity charOffset="191-215" id="28739378.s0.e2" ontology_id="GO_0006099" text="tricarboxylic acid cycle" type="GO"/>
+    <entity charOffset="222-241" id="28739378.s0.e3" ontology_id="HP_0031474" text="pulmonary chondroma" type="HP"/>
+    <pair e1="28739378.s0.e0" e2="28739378.s0.e2" id="28739378.s0.p0" relation="true"/>
+    <pair e1="28739378.s0.e1" e2="28739378.s0.e2" id="28739378.s0.p1" relation="true"/>
+    <pair e1="28739378.s0.e2" e2="28739378.s0.e3" id="28739378.s0.p2" relation="false"/>
+  </sentence>
+  <sentence id="28739378.s1" text="Another disease that shares two of the tumor components of CT, namely GIST and tricarboxylic acid cycle is the Carney-Stratakis syndrome (CSS) or dyad.">
+    <entity charOffset="39-44" id="28739378.s1.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="79-103" id="28739378.s1.e1" ontology_id="GO_0006099" text="tricarboxylic acid cycle" type="GO"/>
+    <pair e1="28739378.s1.e0" e2="28739378.s1.e1" id="28739378.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="28739378.s2" text="There is only partial overlap between the two conditions (there are a few patients with CT that have choline catabolic process subunit mutations) but both lead to increased methylation of the entire genome in the tumors associated with them.">
+    <entity charOffset="101-126" id="28739378.s2.e0" ontology_id="GO_0042426" text="choline catabolic process" type="GO"/>
+    <entity charOffset="213-218" id="28739378.s2.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28739378.s2.e0" e2="28739378.s2.e1" id="28739378.s2.p0" relation="false"/>
+  </sentence>
+  <sentence id="28739378.s3" text="Other tumors (outside CT and CSS) that have choline catabolic process deficiency are associated with increased methylation of the entire genome, but only in CT there is site-specific methylation of the SDHC gene.">
+    <entity charOffset="6-11" id="28739378.s3.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="44-69" id="28739378.s3.e1" ontology_id="GO_0042426" text="choline catabolic process" type="GO"/>
+    <pair e1="28739378.s3.e0" e2="28739378.s3.e1" id="28739378.s3.p0" relation="false"/>
+  </sentence>
+</document>

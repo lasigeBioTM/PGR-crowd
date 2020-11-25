@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="25091424">
+  <sentence id="25091424.s0" text="Mutations in eight of them (ubiquinone biosynthetic process, PDSS2, ubiquinone biosynthetic process, ubiquinone biosynthetic process, ubiquinone biosynthetic process, ADCK3, ADCK4, and COQ9) cause primary CoQ(10) deficiency, a heterogeneous group of disorders with variable age of onset (from birth to the seventh decade) and associated clinical phenotypes, ranging from a fatal multisystem disease to isolated steroid resistant nephrotic syndrome (SRNS) or isolated central nervous system disease.">
+    <entity charOffset="28-59" id="25091424.s0.e0" ontology_id="GO_0006744" text="ubiquinone biosynthetic process" type="GO"/>
+    <entity charOffset="68-99" id="25091424.s0.e1" ontology_id="GO_0006744" text="ubiquinone biosynthetic process" type="GO"/>
+    <entity charOffset="101-132" id="25091424.s0.e2" ontology_id="GO_0006744" text="ubiquinone biosynthetic process" type="GO"/>
+    <entity charOffset="134-165" id="25091424.s0.e3" ontology_id="GO_0006744" text="ubiquinone biosynthetic process" type="GO"/>
+    <entity charOffset="227-240" id="25091424.s0.e4" ontology_id="HP_0001425" text="heterogeneous" type="HP"/>
+    <pair e1="25091424.s0.e0" e2="25091424.s0.e4" id="25091424.s0.p0" relation="false"/>
+    <pair e1="25091424.s0.e1" e2="25091424.s0.e4" id="25091424.s0.p1" relation="false"/>
+    <pair e1="25091424.s0.e2" e2="25091424.s0.e4" id="25091424.s0.p2" relation="false"/>
+    <pair e1="25091424.s0.e3" e2="25091424.s0.e4" id="25091424.s0.p3" relation="false"/>
+  </sentence>
+</document>

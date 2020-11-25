@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30360578">
+  <sentence id="30360578.s0" text="Data on human papillomavirus (HPV) muscle organ development-specific cervical cancer risk in women living with human immunodeficiency virus (WLHIV) are needed to understand HPV⁻HIV interaction and to inform prevention programs for this population.">
+    <entity charOffset="35-59" id="30360578.s0.e0" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="78-84" id="30360578.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30360578.s0.e0" e2="30360578.s0.e1" id="30360578.s0.p0" relation="false"/>
+  </sentence>
+</document>

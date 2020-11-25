@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="27996048">
+  <sentence id="27996048.s0" text="High expression of circadian regulation of gene expression was positively associated with lymph node metastasis, pTNM stage and shorter overall survival (OS) in pancreatic cancer patients.">
+    <entity charOffset="19-58" id="27996048.s0.e0" ontology_id="GO_0032922" text="circadian regulation of gene expression" type="GO"/>
+    <entity charOffset="172-178" id="27996048.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27996048.s0.e0" e2="27996048.s0.e1" id="27996048.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="27996048.s1" text="In this study, we found that the expression of circadian regulation of gene expression was increased in pancreatic cancer samples compared to peri-tumor tissues.">
+    <entity charOffset="47-86" id="27996048.s1.e0" ontology_id="GO_0032922" text="circadian regulation of gene expression" type="GO"/>
+    <entity charOffset="115-121" id="27996048.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27996048.s1.e0" e2="27996048.s1.e1" id="27996048.s1.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<document id="30542730">
+  <sentence id="30542730.s0" text="On the whole, our findings indicated that cellular response to cortisol stimulus exhibited low expression in pancreatic cancer, and upregulation of KLF9 may inhibit the progression of pancreatic cancer.">
+    <entity charOffset="42-80" id="30542730.s0.e0" ontology_id="GO_0071387" text="cellular response to cortisol stimulus" type="GO"/>
+    <entity charOffset="120-126" id="30542730.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30542730.s0.e0" e2="30542730.s0.e1" id="30542730.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="30542730.s1" text="The purpose of the present study was to investigate the expression and functional significance of cellular response to cortisol stimulus in vitro, by assessing the expression of KLF9 in pancreatic cancer tissue samples and its association with the total survival of patients and clinicopathological data.">
+    <entity charOffset="98-136" id="30542730.s1.e0" ontology_id="GO_0071387" text="cellular response to cortisol stimulus" type="GO"/>
+    <entity charOffset="197-203" id="30542730.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30542730.s1.e0" e2="30542730.s1.e1" id="30542730.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="30542730.s2" text="Using western blot analyses, we assessed cellular response to cortisol stimulus expression in human pancreatic cancer cell lines.">
+    <entity charOffset="41-79" id="30542730.s2.e0" ontology_id="GO_0071387" text="cellular response to cortisol stimulus" type="GO"/>
+    <entity charOffset="111-117" id="30542730.s2.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30542730.s2.e0" e2="30542730.s2.e1" id="30542730.s2.p0" relation="true"/>
+  </sentence>
+  <sentence id="30542730.s3" text="In PANC-1 and BxPC-3 cells, cellular response to cortisol stimulus overexpression decreased the proliferation of pancreatic cancer cells, induced apoptosis, blocked the cell cycle at the S phase, and inhibited the migration and invasion of tumor cells.">
+    <entity charOffset="28-66" id="30542730.s3.e0" ontology_id="GO_0071387" text="cellular response to cortisol stimulus" type="GO"/>
+    <entity charOffset="124-130" id="30542730.s3.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30542730.s3.e0" e2="30542730.s3.e1" id="30542730.s3.p0" relation="true"/>
+  </sentence>
+</document>

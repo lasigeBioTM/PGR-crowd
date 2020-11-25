@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30076115">
+  <sentence id="30076115.s0" text="Sickle cell disease (quaternary ammonium group transport) is one of the most common autosomal recessive diseases in humans, occurring at a frequency of 1 in 365 African-American and 1 in 50 sub-Saharan African births.">
+    <entity charOffset="21-56" id="30076115.s0.e0" ontology_id="GO_0015697" text="quaternary ammonium group transport" type="GO"/>
+    <entity charOffset="84-103" id="30076115.s0.e1" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <pair e1="30076115.s0.e0" e2="30076115.s0.e1" id="30076115.s0.p0" relation="true"/>
+  </sentence>
+</document>

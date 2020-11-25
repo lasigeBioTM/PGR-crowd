@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="30075571">
+  <sentence id="30075571.s0" text="Multivariate analysis data revealed that nucleotide-excision repair and protein phosphorylation protein expression were independent predictors of overall survival of ESCC patients after chemotherapy and/or radiotherapy (P &amp;lt; .05).ERCC1 overexpression is an important phenotype that is associated with ESCC lymph node metastasis and advanced tumor clinical stages.">
+    <entity charOffset="41-67" id="30075571.s0.e0" ontology_id="GO_0006289" text="nucleotide-excision repair" type="GO"/>
+    <entity charOffset="72-95" id="30075571.s0.e1" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <entity charOffset="343-348" id="30075571.s0.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="30075571.s0.e0" e2="30075571.s0.e2" id="30075571.s0.p0" relation="false"/>
+    <pair e1="30075571.s0.e1" e2="30075571.s0.e2" id="30075571.s0.p1" relation="false"/>
+  </sentence>
+  <sentence id="30075571.s1" text="nucleotide-excision repair overexpression associated with advanced tumor clinical stage and lymph node metastasis (P &amp;lt; .05), but not with tumor size, depth of invasion, or differentiation (P &amp;gt; .05).">
+    <entity charOffset="0-26" id="30075571.s1.e0" ontology_id="GO_0006289" text="nucleotide-excision repair" type="GO"/>
+    <entity charOffset="67-72" id="30075571.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="30075571.s1.e0" e2="30075571.s1.e1" id="30075571.s1.p0" relation="true"/>
+  </sentence>
+</document>

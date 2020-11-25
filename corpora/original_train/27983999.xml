@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="27983999">
+  <sentence id="27983999.s0" text="Our findings imply that microcephaly is a variable phenomuscle organ development in nucleus organization-related disease, suggest WDR73 to be a candidate gene of severe intellectual disability and cerebellar hypoplasia, and expand the molecular spectrum of WDR73-related disease">
+    <entity charOffset="56-80" id="27983999.s0.e0" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="84-104" id="27983999.s0.e1" ontology_id="GO_0006997" text="nucleus organization" type="GO"/>
+    <entity charOffset="169-192" id="27983999.s0.e2" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <entity charOffset="197-218" id="27983999.s0.e3" ontology_id="HP_0001321" text="cerebellar hypoplasia" type="HP"/>
+    <pair e1="27983999.s0.e0" e2="27983999.s0.e2" id="27983999.s0.p0" relation="false"/>
+    <pair e1="27983999.s0.e0" e2="27983999.s0.e3" id="27983999.s0.p1" relation="false"/>
+    <pair e1="27983999.s0.e1" e2="27983999.s0.e2" id="27983999.s0.p2" relation="true"/>
+    <pair e1="27983999.s0.e1" e2="27983999.s0.e3" id="27983999.s0.p3" relation="false"/>
+  </sentence>
+</document>

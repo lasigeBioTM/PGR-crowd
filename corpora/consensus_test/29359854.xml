@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<document id="29359854">
+  <sentence id="29359854.s0" text="Fatigue, hypotonia, proximal muscular weakness, hearing deficits, rash and respiratory problems are common clinical phenomuscle organ development of our patients.">
+    <entity charOffset="20-28" id="29359854.s0.e0" ontology_id="HP_0012840" text="proximal" type="HP"/>
+    <entity charOffset="121-145" id="29359854.s0.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+  </sentence>
+  <sentence id="29359854.s1" text="Biotinidase (biotin metabolic process) deficiency is a rare autosomal recessive metabolic disease, which develops neurological and cutaneous symptoms because of the impaired biotin recycling.">
+    <entity charOffset="13-37" id="29359854.s1.e0" ontology_id="GO_0006768" text="biotin metabolic process" type="GO"/>
+    <entity charOffset="60-79" id="29359854.s1.e1" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+  </sentence>
+</document>

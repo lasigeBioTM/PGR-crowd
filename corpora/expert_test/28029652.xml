@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28029652">
+  <sentence id="28029652.s0" text="To explore the underlying mechanism of tumor suppression by outer dynein arm assembly, its potential to promote apoptosis induced by TRAIL, an effector molecule elaborated by natural killer-T (NKT) cells was investigated.">
+    <entity charOffset="39-44" id="28029652.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="60-85" id="28029652.s0.e1" ontology_id="GO_0036158" text="outer dynein arm assembly" type="GO"/>
+    <pair e1="28029652.s0.e0" e2="28029652.s0.e1" id="28029652.s0.p0" relation="true"/>
+  </sentence>
+</document>

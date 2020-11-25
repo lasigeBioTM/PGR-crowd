@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<document id="27094817">
+  <sentence id="27094817.s0" text="Inherited mutations in protein acetylation, encoding the catalytic subunit of the major N-terminal acetylation complex NatA have been associated with diverse, syndromic X-linked recessive disorders, whereas de novo missense mutations have been reported in one male and one female individual with severe intellectual disability but otherwise unspecific phenotypes.">
+    <entity charOffset="23-42" id="27094817.s0.e0" ontology_id="GO_0006473" text="protein acetylation" type="GO"/>
+    <entity charOffset="303-326" id="27094817.s0.e1" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <pair e1="27094817.s0.e0" e2="27094817.s0.e1" id="27094817.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="27094817.s1" text="The core phenotype of X-linked protein acetylation-related N-terminal-acetyltransferase deficiency in both males and females includes developmental delay, severe intellectual disability, postnatal growth failure with severe microcephaly, and skeletal or cardiac anomalies.">
+    <entity charOffset="31-50" id="27094817.s1.e0" ontology_id="GO_0006473" text="protein acetylation" type="GO"/>
+    <entity charOffset="162-185" id="27094817.s1.e1" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <entity charOffset="187-211" id="27094817.s1.e2" ontology_id="HP_0008897" text="postnatal growth failure" type="HP"/>
+    <entity charOffset="224-236" id="27094817.s1.e3" ontology_id="HP_0000252" text="microcephaly" type="HP"/>
+    <pair e1="27094817.s1.e0" e2="27094817.s1.e1" id="27094817.s1.p0" relation="true"/>
+    <pair e1="27094817.s1.e0" e2="27094817.s1.e2" id="27094817.s1.p1" relation="true"/>
+    <pair e1="27094817.s1.e0" e2="27094817.s1.e3" id="27094817.s1.p2" relation="true"/>
+  </sentence>
+</document>

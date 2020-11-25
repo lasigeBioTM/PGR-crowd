@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="30396386">
+  <sentence id="30396386.s0" text="&lt;i&gt;Results:&lt;/i&gt; The number of positive cells of positive regulation of cell proliferation and regulation of cell cycle in malignant melanoma tumor tissues was significantly higher than that in melanocytic nevi tissues, and the expression of both proteins was positively correlated with malignant melanoma (r = 0.687, P &amp;lt;0.01); TAZ and YAP protein expression in malignant melanoma tissue was significantly correlated with tumor thickness, invasive depth grade, lymph node metastasis and TNM stages (P &amp;lt;0.05), and increased with TNM staging.">
+    <entity charOffset="48-89" id="30396386.s0.e0" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <entity charOffset="94-118" id="30396386.s0.e1" ontology_id="GO_0051726" text="regulation of cell cycle" type="GO"/>
+    <entity charOffset="141-146" id="30396386.s0.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="30396386.s0.e0" e2="30396386.s0.e2" id="30396386.s0.p0" relation="true"/>
+    <pair e1="30396386.s0.e1" e2="30396386.s0.e2" id="30396386.s0.p1" relation="true"/>
+  </sentence>
+</document>

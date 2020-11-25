@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="27966543">
+  <sentence id="27966543.s0" text="Since synaptic transmission, cholinergic-associated limb-girdle muscle organ development actin filament organization was only manifested in dADP phosphorylation homozygous variant carriers, the disease phenotype was of digenic inheritance, and was determined by the novel disease modifier AK9 which provides NTPs for N-glycosylation.">
+    <entity charOffset="6-40" id="27966543.s0.e0" ontology_id="GO_0007271" text="synaptic transmission, cholinergic" type="GO"/>
+    <entity charOffset="64-88" id="27966543.s0.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="89-116" id="27966543.s0.e2" ontology_id="GO_0007015" text="actin filament organization" type="GO"/>
+    <entity charOffset="140-160" id="27966543.s0.e3" ontology_id="GO_0006174" text="dADP phosphorylation" type="GO"/>
+    <entity charOffset="219-238" id="27966543.s0.e4" ontology_id="HP_0010984" text="digenic inheritance" type="HP"/>
+    <pair e1="27966543.s0.e0" e2="27966543.s0.e4" id="27966543.s0.p0" relation="false"/>
+    <pair e1="27966543.s0.e1" e2="27966543.s0.e4" id="27966543.s0.p1" relation="false"/>
+    <pair e1="27966543.s0.e2" e2="27966543.s0.e4" id="27966543.s0.p2" relation="false"/>
+    <pair e1="27966543.s0.e3" e2="27966543.s0.e4" id="27966543.s0.p3" relation="false"/>
+  </sentence>
+</document>

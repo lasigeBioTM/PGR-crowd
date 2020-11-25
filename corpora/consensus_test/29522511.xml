@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="29522511">
+  <sentence id="29522511.s0" text="Together, our cellular response to interleukin-4ings explain the existence of superior coloboma, a congenital ocular anomaly resulting from aberrant morphogenesis of a developmental structure">
+    <entity charOffset="14-48" id="29522511.s0.e0" ontology_id="GO_0071353" text="cellular response to interleukin-4" type="GO"/>
+    <entity charOffset="87-95" id="29522511.s0.e1" ontology_id="HP_0000589" text="coloboma" type="HP"/>
+  </sentence>
+</document>

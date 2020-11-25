@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="20005768">
+  <sentence id="20005768.s0" text="The aim of this study was to examine the mitotic spindle organization expression and its role in tumor progression, invasion and metastasis in squamous cell carcinoma of the oral tongue (SCCOT).">
+    <entity charOffset="41-69" id="20005768.s0.e0" ontology_id="GO_0007052" text="mitotic spindle organization" type="GO"/>
+    <entity charOffset="97-102" id="20005768.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="20005768.s0.e0" e2="20005768.s0.e1" id="20005768.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="20005768.s1" text="The immunohistochemistry showed that mitotic spindle organization expression was stronger in oral tongue cancer tissues than in paired adjacent tissues (P&amp;lt;0.01), and the higher expression of Kif2a was also significantly associated with lymph node metastasis (P&amp;lt;0.01), tumor clinical stage (P&amp;lt;0.01).">
+    <entity charOffset="37-65" id="20005768.s1.e0" ontology_id="GO_0007052" text="mitotic spindle organization" type="GO"/>
+    <entity charOffset="105-111" id="20005768.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="274-279" id="20005768.s1.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="20005768.s1.e0" e2="20005768.s1.e2" id="20005768.s1.p0" relation="false"/>
+    <pair e1="20005768.s1.e0" e2="20005768.s1.e1" id="20005768.s1.p1" relation="false"/>
+  </sentence>
+</document>

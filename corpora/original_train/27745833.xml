@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="27745833">
+  <sentence id="27745833.s0" text="This study establishes cellular response to oxidative stress variants as a cause of early-onset myopathy and uses biospecimens and cell lines, yeast, and zebrafish models to elucidate the fundamental role of PYROXD1 in skeletal muscle.">
+    <entity charOffset="23-60" id="27745833.s0.e0" ontology_id="GO_0034599" text="cellular response to oxidative stress" type="GO"/>
+    <entity charOffset="96-104" id="27745833.s0.e1" ontology_id="HP_0003198" text="myopathy" type="HP"/>
+    <pair e1="27745833.s0.e0" e2="27745833.s0.e1" id="27745833.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="27745833.s1" text="We characterize variants in the oxidoreductase cellular response to oxidative stress as a cause of early-onset myopathy with distinctive histopathology and introduce altered redox regulation as a primary cause of congenital muscle disease">
+    <entity charOffset="47-84" id="27745833.s1.e0" ontology_id="GO_0034599" text="cellular response to oxidative stress" type="GO"/>
+    <entity charOffset="111-119" id="27745833.s1.e1" ontology_id="HP_0003198" text="myopathy" type="HP"/>
+    <pair e1="27745833.s1.e0" e2="27745833.s1.e1" id="27745833.s1.p0" relation="false"/>
+  </sentence>
+</document>

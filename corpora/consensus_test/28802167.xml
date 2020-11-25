@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<document id="28802167">
+  <sentence id="28802167.s0" text="Induction of DNA strand renaturation by 5-Aza-dC was tested in vitro using cancer cells.">
+    <entity charOffset="13-36" id="28802167.s0.e0" ontology_id="GO_0000733" text="DNA strand renaturation" type="GO"/>
+    <entity charOffset="75-81" id="28802167.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28802167.s0.e0" e2="28802167.s0.e1" id="28802167.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="28802167.s1" text="5'-Aza-2'-deoxycytidine (5-Aza-neuron migration) is a demethylating drug that causes genome-wide hypomethylation resulting in the expression of several tumor suppressor genes causing growth arrest of cancer cells.">
+    <entity charOffset="31-47" id="28802167.s1.e0" ontology_id="GO_0001764" text="neuron migration" type="GO"/>
+    <entity charOffset="200-206" id="28802167.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28802167.s1.e0" e2="28802167.s1.e1" id="28802167.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="28802167.s2" text="Further studies are warranted to dissect these mechanisms and establish 5-Aza-neuron migration as an effective multi-module anticancer reagent">
+    <entity charOffset="78-94" id="28802167.s2.e0" ontology_id="GO_0001764" text="neuron migration" type="GO"/>
+    <entity charOffset="128-134" id="28802167.s2.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+  </sentence>
+</document>

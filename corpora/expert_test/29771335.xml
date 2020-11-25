@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29771335">
+  <sentence id="29771335.s0" text="We found that the impaired homeostatic synaptic downscaling in Fmr1 KO neurons is caused by loss-of-function dephosphorylation of an epilepsy-associated ubiquitin E3 ligase, neural precursor cell expressed developmentally down-regulated gene 4-2, regulation of membrane depolarization.">
+    <entity charOffset="133-141" id="29771335.s0.e0" ontology_id="HP_0001250" text="epilepsy" type="HP"/>
+    <entity charOffset="247-284" id="29771335.s0.e1" ontology_id="GO_0003254" text="regulation of membrane depolarization" type="GO"/>
+    <pair e1="29771335.s0.e0" e2="29771335.s0.e1" id="29771335.s0.p0" relation="true"/>
+  </sentence>
+</document>

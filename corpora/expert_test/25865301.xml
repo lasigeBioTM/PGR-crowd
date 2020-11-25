@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="25865301">
+  <sentence id="25865301.s0" text="The autosomal recessive disease propionic acidemia (PA) is an inborn error of metabolism with highly variable clinical manifestations, caused by a deficiency of propionyl-CoA carboxylase (PCC) enzyme, due to mutations in either PCCA or biotin metabolic process genes, which encode the alpha and beta subunits of the PCC enzyme, respectively.">
+    <entity charOffset="4-23" id="25865301.s0.e0" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="236-260" id="25865301.s0.e1" ontology_id="GO_0006768" text="biotin metabolic process" type="GO"/>
+    <pair e1="25865301.s0.e0" e2="25865301.s0.e1" id="25865301.s0.p0" relation="true"/>
+  </sentence>
+</document>

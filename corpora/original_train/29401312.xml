@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="29401312">
+  <sentence id="29401312.s0" text="To better understand the molecular changes in the AH content under such conditions, we analyzed the protein polyubiquitinationNA profiles of AH samples from patients with POAG and XFG compared to non-glaucoma controls.">
+    <entity charOffset="100-126" id="29401312.s0.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="200-208" id="29401312.s0.e1" ontology_id="HP_0000501" text="glaucoma" type="HP"/>
+    <pair e1="29401312.s0.e0" e2="29401312.s0.e1" id="29401312.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="29401312.s1" text="While none of these protein polyubiquitinationNAs have been previously linked to glaucoma, miR-122-5p may target three glaucoma-associated genes: OPTN, TMCO1 and TGF-ß1.">
+    <entity charOffset="20-46" id="29401312.s1.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="81-89" id="29401312.s1.e1" ontology_id="HP_0000501" text="glaucoma" type="HP"/>
+    <pair e1="29401312.s1.e0" e2="29401312.s1.e1" id="29401312.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="29401312.s2" text="Pathway analysis revealed that these protein polyubiquitinationNAs are involved in potential glaucoma pathways, including focal adhesion, tight junctions, and TGF-ß signaling.">
+    <entity charOffset="37-63" id="29401312.s2.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="93-101" id="29401312.s2.e1" ontology_id="HP_0000501" text="glaucoma" type="HP"/>
+    <pair e1="29401312.s2.e0" e2="29401312.s2.e1" id="29401312.s2.p0" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="25964267">
+  <sentence id="25964267.s0" text="These results expand the genetic heterogeneity of EKVP and the human disease phenotypes associated with signal transduction mutations.">
+    <entity charOffset="33-46" id="25964267.s0.e0" ontology_id="HP_0001425" text="heterogeneity" type="HP"/>
+    <entity charOffset="104-123" id="25964267.s0.e1" ontology_id="GO_0007165" text="signal transduction" type="GO"/>
+    <pair e1="25964267.s0.e0" e2="25964267.s0.e1" id="25964267.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="25964267.s1" text="Erythrokeratodermia variabilis et progressiva (EKVP) is a genodermatosis with clinical and genetic heterogeneity, most often transmitted in an autosomal dominant manner, caused by mutations in GJB3 and cell-cell signaling genes encoding connexins (Cx)31 and 30.3, respectively.">
+    <entity charOffset="99-112" id="25964267.s1.e0" ontology_id="HP_0001425" text="heterogeneity" type="HP"/>
+    <entity charOffset="202-221" id="25964267.s1.e1" ontology_id="GO_0007267" text="cell-cell signaling" type="GO"/>
+    <pair e1="25964267.s1.e0" e2="25964267.s1.e1" id="25964267.s1.p0" relation="true"/>
+  </sentence>
+</document>

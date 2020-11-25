@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="22561202">
+  <sentence id="22561202.s0" text="Possible candidate genes in 6q14 for intellectual disability might be FILIP1, DNA damage response, signal transduction by p53 class mediator, HTR1B, and SNX14">
+    <entity charOffset="37-60" id="22561202.s0.e0" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <entity charOffset="78-140" id="22561202.s0.e1" ontology_id="GO_0030330" text="DNA damage response, signal transduction by p53 class mediator" type="GO"/>
+    <pair e1="22561202.s0.e0" e2="22561202.s0.e1" id="22561202.s0.p0" relation="true"/>
+  </sentence>
+</document>

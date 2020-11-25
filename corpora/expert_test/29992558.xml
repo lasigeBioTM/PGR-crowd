@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="29992558">
+  <sentence id="29992558.s0" text="Only a few genes, including SMARCA4, polyamine catabolic process, ZNF44 and muscle organ development, were recurrently and specifically mutated in the SS group, confirming the low recurrence of common mutations in this tumor.">
+    <entity charOffset="37-64" id="29992558.s0.e0" ontology_id="GO_0006598" text="polyamine catabolic process" type="GO"/>
+    <entity charOffset="76-100" id="29992558.s0.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="219-224" id="29992558.s0.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29992558.s0.e0" e2="29992558.s0.e2" id="29992558.s0.p0" relation="false"/>
+    <pair e1="29992558.s0.e1" e2="29992558.s0.e2" id="29992558.s0.p1" relation="false"/>
+  </sentence>
+</document>

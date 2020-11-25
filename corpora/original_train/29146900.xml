@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="29146900">
+  <sentence id="29146900.s0" text="Surprisingly, germline variants in endosomal vesicle fusion or SAMD9L were present in 17% of primary microtubule-based process patients, and these variants were routinely lost in the tumor cells by chromosomal deletions (e.g., monosomy 7) or copy number neutral loss of heterozygosity (CN-LOH).">
+    <entity charOffset="35-59" id="29146900.s0.e0" ontology_id="GO_0034058" text="endosomal vesicle fusion" type="GO"/>
+    <entity charOffset="101-126" id="29146900.s0.e1" ontology_id="GO_0007017" text="microtubule-based process" type="GO"/>
+    <entity charOffset="183-188" id="29146900.s0.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29146900.s0.e0" e2="29146900.s0.e2" id="29146900.s0.p0" relation="true"/>
+    <pair e1="29146900.s0.e1" e2="29146900.s0.e2" id="29146900.s0.p1" relation="false"/>
+  </sentence>
+</document>

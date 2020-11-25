@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="29742505">
+  <sentence id="29742505.s0" text="This result suggests that activation of cysteine-type endopeptidase activity involved in apoptotic process and glomerular basement membrane development digenic mutations in cis mimicking an autosomal dominant inheritance should be considered as a novel inheritance pattern of benign familial hematuria, although the disease-causing mechanism remains unknown">
+    <entity charOffset="26-106" id="29742505.s0.e0" ontology_id="GO_0006919" text="activation of cysteine-type endopeptidase activity involved in apoptotic process" type="GO"/>
+    <entity charOffset="111-151" id="29742505.s0.e1" ontology_id="GO_0032836" text="glomerular basement membrane development" type="GO"/>
+    <entity charOffset="209-220" id="29742505.s0.e2" ontology_id="HP_0000005" text="inheritance" type="HP"/>
+    <pair e1="29742505.s0.e0" e2="29742505.s0.e2" id="29742505.s0.p0" relation="true"/>
+    <pair e1="29742505.s0.e1" e2="29742505.s0.e2" id="29742505.s0.p1" relation="false"/>
+  </sentence>
+  <sentence id="29742505.s1" text="Mutations in the COL4A5 gene result in X-linked Alport syndrome, homozygous or compound heterozygous mutations in activation of cysteine-type endopeptidase activity involved in apoptotic process or COL4A4 are responsible for autosomal recessive Alport syndrome, and heterozygous mutations in COL4A3 or COL4A4 cause autosomal dominant Alport syndrome or benign familial hematuria.">
+    <entity charOffset="114-194" id="29742505.s1.e0" ontology_id="GO_0006919" text="activation of cysteine-type endopeptidase activity involved in apoptotic process" type="GO"/>
+    <entity charOffset="225-244" id="29742505.s1.e1" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <pair e1="29742505.s1.e0" e2="29742505.s1.e1" id="29742505.s1.p0" relation="true"/>
+  </sentence>
+</document>

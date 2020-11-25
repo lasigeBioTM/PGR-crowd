@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="25666713">
+  <sentence id="25666713.s0" text="Here, we utilized the CRISPR-Cas9 system to generate Kcnj13 mutant epidermis development by zygote injection to verify the pathogenic role of human KCNJ13, mutations of which are thought to cause Leber congenital amaurosis (LCA), an early-onset form of blindness.">
+    <entity charOffset="67-88" id="25666713.s0.e0" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="253-262" id="25666713.s0.e1" ontology_id="HP_0000618" text="blindness" type="HP"/>
+  </sentence>
+</document>

@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="28623007">
+  <sentence id="28623007.s0" text="We will systematically examine seven genes (CHN1, MDH1, PCP4, biological_process, SLC14A1, SNAP25 and VSNL1) that are altered in the three neurodegenerative diseases.">
+    <entity charOffset="62-80" id="28623007.s0.e0" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="139-165" id="28623007.s0.e1" ontology_id="HP_0002180" text="neurodegenerative diseases" type="HP"/>
+    <pair e1="28623007.s0.e0" e2="28623007.s0.e1" id="28623007.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28623007.s1" text="Three neurodegenerative diseases [Amyotrophic Lateral Sclerosis (signal transduction), Parkinson's disease (PD) and Alzheimer's disease (AD)] have many characteristics like pathological mechanisms and genes.">
+    <entity charOffset="6-32" id="28623007.s1.e0" ontology_id="HP_0002180" text="neurodegenerative diseases" type="HP"/>
+    <entity charOffset="65-84" id="28623007.s1.e1" ontology_id="GO_0007165" text="signal transduction" type="GO"/>
+  </sentence>
+</document>

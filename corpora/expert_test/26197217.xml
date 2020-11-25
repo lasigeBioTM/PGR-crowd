@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="26197217">
+  <sentence id="26197217.s0" text="This study allowed the identification of the genetic cause of the retinal dystrophy and the establishment of a correct diagnosis in four families, including a large heterozygous deletion in spliceosomal tri-snRNP complex assembly, typically considered one of the pitfalls of this method.">
+    <entity charOffset="66-83" id="26197217.s0.e0" ontology_id="HP_0000556" text="retinal dystrophy" type="HP"/>
+    <entity charOffset="190-229" id="26197217.s0.e1" ontology_id="GO_0000244" text="spliceosomal tri-snRNP complex assembly" type="GO"/>
+    <pair e1="26197217.s0.e0" e2="26197217.s0.e1" id="26197217.s0.p0" relation="true"/>
+  </sentence>
+</document>

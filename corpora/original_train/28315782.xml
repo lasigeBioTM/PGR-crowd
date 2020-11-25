@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="28315782">
+  <sentence id="28315782.s0" text="We investigated the effects of heightened levels of catecholamine catabolic process on dopamine-regulated motor behaviors and molecular alterations in a mouse model of dyskinesia.">
+    <entity charOffset="52-83" id="28315782.s0.e0" ontology_id="GO_0042424" text="catecholamine catabolic process" type="GO"/>
+    <entity charOffset="168-178" id="28315782.s0.e1" ontology_id="HP_0100660" text="dyskinesia" type="HP"/>
+    <pair e1="28315782.s0.e0" e2="28315782.s0.e1" id="28315782.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="28315782.s1" text="l-DOPA-induced dyskinesia was exacerbated in TG epidermis development without altering l-DOPA motor efficacy as determined by contralateral rotations or motor coordination.">
+    <entity charOffset="15-25" id="28315782.s1.e0" ontology_id="HP_0100660" text="dyskinesia" type="HP"/>
+    <entity charOffset="48-69" id="28315782.s1.e1" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <pair e1="28315782.s1.e0" e2="28315782.s1.e1" id="28315782.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="28315782.s2" text="Our results demonstrate that human catecholamine catabolic process overexpression confers a heightened susceptibility to l-DOPA-induced dyskinesia and alters molecular and neurochemical responses in the lesioned striatum of mice">
+    <entity charOffset="35-66" id="28315782.s2.e0" ontology_id="GO_0042424" text="catecholamine catabolic process" type="GO"/>
+    <entity charOffset="136-146" id="28315782.s2.e1" ontology_id="HP_0100660" text="dyskinesia" type="HP"/>
+    <pair e1="28315782.s2.e0" e2="28315782.s2.e1" id="28315782.s2.p0" relation="false"/>
+  </sentence>
+</document>

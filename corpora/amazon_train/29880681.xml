@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<document id="29880681">
+  <sentence id="29880681.s0" text="Similar to the human phenotype, &lt;i&gt;negative regulation of actin filament depolymerization&lt;/i&gt;-deficient epidermis development displayed reduced cholesterol absorption and were resistant to diet-induced hypercholesterolemia.">
+    <entity charOffset="35-89" id="29880681.s0.e0" ontology_id="GO_0030835" text="negative regulation of actin filament depolymerization" type="GO"/>
+    <entity charOffset="104-125" id="29880681.s0.e1" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="202-222" id="29880681.s0.e2" ontology_id="HP_0003124" text="hypercholesterolemia" type="HP"/>
+    <pair e1="29880681.s0.e0" e2="29880681.s0.e2" id="29880681.s0.p0" relation="true"/>
+  </sentence>
+</document>

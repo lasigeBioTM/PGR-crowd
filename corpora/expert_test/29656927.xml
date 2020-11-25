@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<document id="29656927">
+  <sentence id="29656927.s0" text="The PCH1sub-types with early death (between ages 1 day and 17 months), seen in patients with p.G31A/rRNA processing or mitochondrial membrane fission mutations have a SMA type 1-like clinical presentation but with global developmental delay, visual and hearing impairment, with or without microcephaly, nystagmus and optic atrophy.">
+    <entity charOffset="100-115" id="29656927.s0.e0" ontology_id="GO_0006364" text="rRNA processing" type="GO"/>
+    <entity charOffset="119-149" id="29656927.s0.e1" ontology_id="GO_0090149" text="mitochondrial membrane fission" type="GO"/>
+    <entity charOffset="289-301" id="29656927.s0.e2" ontology_id="HP_0000252" text="microcephaly" type="HP"/>
+    <entity charOffset="317-330" id="29656927.s0.e3" ontology_id="HP_0000648" text="optic atrophy" type="HP"/>
+    <pair e1="29656927.s0.e0" e2="29656927.s0.e2" id="29656927.s0.p0" relation="true"/>
+    <pair e1="29656927.s0.e0" e2="29656927.s0.e3" id="29656927.s0.p1" relation="true"/>
+    <pair e1="29656927.s0.e1" e2="29656927.s0.e2" id="29656927.s0.p2" relation="true"/>
+  </sentence>
+  <sentence id="29656927.s1" text="Other rRNA processing mutations and rRNA processing cases are intermediate - SMA type 1-like presentation, spasticity (mostly in EXOSC8) and death between 3 months and 5 years.">
+    <entity charOffset="6-21" id="29656927.s1.e0" ontology_id="GO_0006364" text="rRNA processing" type="GO"/>
+    <entity charOffset="36-51" id="29656927.s1.e1" ontology_id="GO_0006364" text="rRNA processing" type="GO"/>
+    <entity charOffset="107-117" id="29656927.s1.e2" ontology_id="HP_0001257" text="spasticity" type="HP"/>
+    <pair e1="29656927.s1.e0" e2="29656927.s1.e2" id="29656927.s1.p0" relation="true"/>
+    <pair e1="29656927.s1.e1" e2="29656927.s1.e2" id="29656927.s1.p1" relation="true"/>
+  </sentence>
+  <sentence id="29656927.s2" text="Mutations with milder presentation (homozygous p.D132A/EXOSC3 or protein phosphorylation) may display additionally signs of upper motor neuron impairment, dystonia or ataxia and die at age between 5 and 18 years.">
+    <entity charOffset="65-88" id="29656927.s2.e0" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <entity charOffset="167-173" id="29656927.s2.e1" ontology_id="HP_0001251" text="ataxia" type="HP"/>
+    <pair e1="29656927.s2.e0" e2="29656927.s2.e1" id="29656927.s2.p0" relation="true"/>
+  </sentence>
+</document>

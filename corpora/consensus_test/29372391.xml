@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="29372391">
+  <sentence id="29372391.s0" text="Mutations in ganglioside-induced differentiation-associated-protein 1 (mitochondrial fission) have been associated with both subtypes of Charcot-Marie-Tooth (CMT) disease, autosomal recessive (CMT4A and AR-CMT2K) and autosomal dominant (AD-CMT2K).">
+    <entity charOffset="71-92" id="29372391.s0.e0" ontology_id="GO_0000266" text="mitochondrial fission" type="GO"/>
+    <entity charOffset="172-191" id="29372391.s0.e1" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <pair e1="29372391.s0.e0" e2="29372391.s0.e1" id="29372391.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29372391.s1" text="Our study expands the mutational spectrum of mitochondrial fission-related CMT disease with the identification of new and unreported GDAP1 variants and demonstrates the predominance of the axonal form of neuropathy in CMT disease associated with GDAP1.">
+    <entity charOffset="45-66" id="29372391.s1.e0" ontology_id="GO_0000266" text="mitochondrial fission" type="GO"/>
+    <entity charOffset="204-214" id="29372391.s1.e1" ontology_id="HP_0009830" text="neuropathy" type="HP"/>
+    <pair e1="29372391.s1.e0" e2="29372391.s1.e1" id="29372391.s1.p0" relation="true"/>
+  </sentence>
+</document>

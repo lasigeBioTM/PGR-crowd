@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30055288">
+  <sentence id="30055288.s0" text="This review reflects the existing positive regulation of cell-matrix adhesion/ephrin literature while focusing on breast cancer heterogeneity.">
+    <entity charOffset="34-77" id="30055288.s0.e0" ontology_id="GO_0001954" text="positive regulation of cell-matrix adhesion" type="GO"/>
+    <entity charOffset="121-127" id="30055288.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30055288.s0.e0" e2="30055288.s0.e1" id="30055288.s0.p0" relation="true"/>
+  </sentence>
+</document>

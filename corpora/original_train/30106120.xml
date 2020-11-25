@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30106120">
+  <sentence id="30106120.s0" text="Finally, it was observed that 4 hub genes were highly expressed in gastric cancer tissue compared with para‑carcinoma tissue in the 12 patients; the increased protein-containing complex assembly was significant (&amp;gt;5‑fold).">
+    <entity charOffset="75-81" id="30106120.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="159-194" id="30106120.s0.e1" ontology_id="GO_0065003" text="protein-containing complex assembly" type="GO"/>
+    <pair e1="30106120.s0.e0" e2="30106120.s0.e1" id="30106120.s0.p0" relation="false"/>
+  </sentence>
+</document>

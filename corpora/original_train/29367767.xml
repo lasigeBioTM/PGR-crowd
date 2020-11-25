@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="29367767">
+  <sentence id="29367767.s0" text="BBN tumors showed overexpression of markers of basal cancer subtype, and had a high mutation burden with frequent Trp53 (80%), response to estrogen (70%), and regulation of megakaryocyte differentiation (90%) mutations by exome sequencing, similar to human MIBC.">
+    <entity charOffset="4-10" id="29367767.s0.e0" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <entity charOffset="53-59" id="29367767.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="127-147" id="29367767.s0.e2" ontology_id="GO_0043627" text="response to estrogen" type="GO"/>
+    <entity charOffset="159-202" id="29367767.s0.e3" ontology_id="GO_0045652" text="regulation of megakaryocyte differentiation" type="GO"/>
+    <pair e1="29367767.s0.e0" e2="29367767.s0.e2" id="29367767.s0.p0" relation="false"/>
+    <pair e1="29367767.s0.e1" e2="29367767.s0.e2" id="29367767.s0.p1" relation="false"/>
+    <pair e1="29367767.s0.e1" e2="29367767.s0.e3" id="29367767.s0.p2" relation="false"/>
+  </sentence>
+</document>

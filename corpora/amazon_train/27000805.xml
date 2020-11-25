@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27000805">
+  <sentence id="27000805.s0" text="We presented the significant clinical heterogeneity among three Chinese late-onset MADD patients with similar electron transport chain genotype by collecting clinical information, muscle histology, and genetic analysis.">
+    <entity charOffset="38-51" id="27000805.s0.e0" ontology_id="HP_0001425" text="heterogeneity" type="HP"/>
+    <entity charOffset="110-134" id="27000805.s0.e1" ontology_id="GO_0022900" text="electron transport chain" type="GO"/>
+    <pair e1="27000805.s0.e0" e2="27000805.s0.e1" id="27000805.s0.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28229505">
+  <sentence id="28229505.s0" text="A recent genome-wide association study (GWAS) linked hypercalciuria and kidney stones to a claudin-14 (calcium-independent cell-cell adhesion via plasma membrane cell-adhesion molecules) risk haplotype.">
+    <entity charOffset="53-67" id="28229505.s0.e0" ontology_id="HP_0002150" text="hypercalciuria" type="HP"/>
+    <entity charOffset="103-185" id="28229505.s0.e1" ontology_id="GO_0016338" text="calcium-independent cell-cell adhesion via plasma membrane cell-adhesion molecules" type="GO"/>
+    <pair e1="28229505.s0.e0" e2="28229505.s0.e1" id="28229505.s0.p0" relation="true"/>
+  </sentence>
+</document>

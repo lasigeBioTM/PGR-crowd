@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<document id="29518027">
+  <sentence id="29518027.s0" text="Using preclinical models, we have recently found that positive regulation of transcription, DNA-templated, a transcriptional factor that activates downstream targets, including &lt;i&gt;c-fos&lt;/i&gt; proto-oncogene, induces bladder cancer outgrowth.">
+    <entity charOffset="54-105" id="29518027.s0.e0" ontology_id="GO_0045893" text="positive regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="222-228" id="29518027.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29518027.s0.e0" e2="29518027.s0.e1" id="29518027.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29518027.s1" text="Lymphovascular invasion was significantly (&lt;i&gt;P&lt;/i&gt; = 0.014) more often seen in phospho-positive regulation of transcription, DNA-templated(2+) tumors (80.0%) than in phospho-ELK1(0/1+) tumors (36.0%).">
+    <entity charOffset="88-139" id="29518027.s1.e0" ontology_id="GO_0045893" text="positive regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="144-150" id="29518027.s1.e1" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <pair e1="29518027.s1.e0" e2="29518027.s1.e1" id="29518027.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="29518027.s2" text="There were no statistically significant associations between phospho-positive regulation of transcription, DNA-templated expression and tumor grade, presence of concurrent carcinoma in situ or hydronephrosis, or pN status.">
+    <entity charOffset="69-120" id="29518027.s2.e0" ontology_id="GO_0045893" text="positive regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="193-207" id="29518027.s2.e1" ontology_id="HP_0000126" text="hydronephrosis" type="HP"/>
+    <pair e1="29518027.s2.e0" e2="29518027.s2.e1" id="29518027.s2.p0" relation="true"/>
+  </sentence>
+  <sentence id="29518027.s3" text="Kaplan-Meier and log-rank tests revealed that patients with phospho-positive regulation of transcription, DNA-templated(2+) tumor had marginally and significantly higher risks of disease progression (&lt;i&gt;P&lt;/i&gt; = 0.055) and cancer-specific mortality (&lt;i&gt;P&lt;/i&gt; = 0.008), respectively, compared to those with phospho-ELK1(0/1+) tumor.">
+    <entity charOffset="68-119" id="29518027.s3.e0" ontology_id="GO_0045893" text="positive regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="124-129" id="29518027.s3.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="222-228" id="29518027.s3.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29518027.s3.e0" e2="29518027.s3.e2" id="29518027.s3.p0" relation="true"/>
+    <pair e1="29518027.s3.e0" e2="29518027.s3.e1" id="29518027.s3.p1" relation="true"/>
+  </sentence>
+  <sentence id="29518027.s4" text="The current results thus support our previous observations in bladder cancer and further suggest that phospho-positive regulation of transcription, DNA-templated overexpression serves as a predictor of poor prognosis in patients with UUTUC">
+    <entity charOffset="70-76" id="29518027.s4.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="110-161" id="29518027.s4.e1" ontology_id="GO_0045893" text="positive regulation of transcription, DNA-templated" type="GO"/>
+    <pair e1="29518027.s4.e0" e2="29518027.s4.e1" id="29518027.s4.p0" relation="true"/>
+  </sentence>
+</document>

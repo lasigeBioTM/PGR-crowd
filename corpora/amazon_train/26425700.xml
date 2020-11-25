@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="26425700">
+  <sentence id="26425700.s0" text="Candidate markers were identified by bisulfite conversion-based genome-wide methylation screening of lung tissue from lung cancer, fibrotic ILD, and intracellular protein transport. cfDNA from 400 μl serum (n = 204) served to test the diagnostic performance of these markers.">
+    <entity charOffset="123-129" id="26425700.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="149-180" id="26425700.s0.e1" ontology_id="GO_0006886" text="intracellular protein transport" type="GO"/>
+    <pair e1="26425700.s0.e0" e2="26425700.s0.e1" id="26425700.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="26425700.s1" text="Cancer was distinguished from ILD with a specificity of 88%, (95%CI: 0.57-1), and intracellular protein transport from cancer with a specificity of 88% (95%CI: 0.64-0.97).">
+    <entity charOffset="82-113" id="26425700.s1.e0" ontology_id="GO_0006886" text="intracellular protein transport" type="GO"/>
+    <entity charOffset="119-125" id="26425700.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+  </sentence>
+</document>

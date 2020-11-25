@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<document id="30030956">
+  <sentence id="30030956.s0" text="Hearing impairment (HI) caused by mutations in the connexin-26 gene (gap junction-mediated intercellular transport) accounts for the majority of cases with inherited, nonsyndromic sensorineural hearing loss.">
+    <entity charOffset="69-114" id="30030956.s0.e0" ontology_id="GO_1990349" text="gap junction-mediated intercellular transport" type="GO"/>
+    <entity charOffset="194-206" id="30030956.s0.e1" ontology_id="HP_0000365" text="hearing loss" type="HP"/>
+    <pair e1="30030956.s0.e0" e2="30030956.s0.e1" id="30030956.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="30030956.s1" text="This study describes the first use of pentose-phosphate shunt, oxidative branch for gap junction-mediated intercellular transport associated non-syndromic deafness in Iran.">
+    <entity charOffset="38-79" id="30030956.s1.e0" ontology_id="GO_0009051" text="pentose-phosphate shunt, oxidative branch" type="GO"/>
+    <entity charOffset="84-129" id="30030956.s1.e1" ontology_id="GO_1990349" text="gap junction-mediated intercellular transport" type="GO"/>
+    <entity charOffset="155-163" id="30030956.s1.e2" ontology_id="HP_0000365" text="deafness" type="HP"/>
+    <pair e1="30030956.s1.e0" e2="30030956.s1.e2" id="30030956.s1.p0" relation="true"/>
+    <pair e1="30030956.s1.e1" e2="30030956.s1.e2" id="30030956.s1.p1" relation="true"/>
+  </sentence>
+  <sentence id="30030956.s2" text="gap junction-mediated intercellular transport donor splicing site IVS1+1G&amp;amp;gt;A mutation analysis was performed using Sanger sequencing for a total of 71 Iranian families with at least 1 deaf child diagnosed with non-syndromic deafness.">
+    <entity charOffset="0-45" id="30030956.s2.e0" ontology_id="GO_1990349" text="gap junction-mediated intercellular transport" type="GO"/>
+    <entity charOffset="230-238" id="30030956.s2.e1" ontology_id="HP_0000365" text="deafness" type="HP"/>
+    <pair e1="30030956.s2.e0" e2="30030956.s2.e1" id="30030956.s2.p0" relation="true"/>
+  </sentence>
+</document>

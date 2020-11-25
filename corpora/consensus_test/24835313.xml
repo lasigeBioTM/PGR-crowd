@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<document id="24835313">
+  <sentence id="24835313.s0" text="Several gene encoding proteins related to collagen metabolism have been described in some cases of autosomal recessive OI (including CRTAP, LEPRE1, PPIB, FKBP65, negative regulation of angiogenesis, BMP1, positive regulation of cell proliferation, protein peptidyl-prolyl isomerization).">
+    <entity charOffset="99-118" id="24835313.s0.e0" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="162-197" id="24835313.s0.e1" ontology_id="GO_0016525" text="negative regulation of angiogenesis" type="GO"/>
+    <entity charOffset="205-246" id="24835313.s0.e2" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <entity charOffset="248-285" id="24835313.s0.e3" ontology_id="GO_0000413" text="protein peptidyl-prolyl isomerization" type="GO"/>
+    <pair e1="24835313.s0.e0" e2="24835313.s0.e2" id="24835313.s0.p0" relation="true"/>
+    <pair e1="24835313.s0.e0" e2="24835313.s0.e3" id="24835313.s0.p1" relation="true"/>
+    <pair e1="24835313.s0.e0" e2="24835313.s0.e1" id="24835313.s0.p2" relation="true"/>
+  </sentence>
+  <sentence id="24835313.s1" text="Recently, endoplasmic reticulum organization, a gene that encodes TRIC-B, a monovalent cation-specific channel involved in calcium flux from intracellular stores and in cell differentiation, has been associated with autosomal recessive OI.">
+    <entity charOffset="10-44" id="24835313.s1.e0" ontology_id="GO_0007029" text="endoplasmic reticulum organization" type="GO"/>
+    <entity charOffset="216-235" id="24835313.s1.e1" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <pair e1="24835313.s1.e0" e2="24835313.s1.e1" id="24835313.s1.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="29529029">
+  <sentence id="29529029.s0" text="Finally, we demonstrate that genetic inactivation of camera-type eye development rescues axial elongation in a mouse model of myopia caused by a null mutation in Egr1.">
+    <entity charOffset="53-80" id="29529029.s0.e0" ontology_id="GO_0043010" text="camera-type eye development" type="GO"/>
+    <entity charOffset="126-132" id="29529029.s0.e1" ontology_id="HP_0000545" text="myopia" type="HP"/>
+    <pair e1="29529029.s0.e0" e2="29529029.s0.e1" id="29529029.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29529029.s1" text="We have previously identified a role for the secreted serine protease camera-type eye development in ocular size determination and PRSS56 variants have been implicated in the etiology of both hyperopia and myopia, highlighting its importance in refractive development.">
+    <entity charOffset="70-97" id="29529029.s1.e0" ontology_id="GO_0043010" text="camera-type eye development" type="GO"/>
+    <entity charOffset="206-212" id="29529029.s1.e1" ontology_id="HP_0000545" text="myopia" type="HP"/>
+    <pair e1="29529029.s1.e0" e2="29529029.s1.e1" id="29529029.s1.p0" relation="false"/>
+  </sentence>
+</document>

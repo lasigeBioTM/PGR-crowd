@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30054853">
+  <sentence id="30054853.s0" text="Moreover, oncogenic activation of negative regulation of transcription by RNA polymerase II and/or loss of a MYC antagonist, results in an imbalance in the activity of the network as a whole, leading to tumor initiation, progression and maintenance">
+    <entity charOffset="34-91" id="30054853.s0.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="203-208" id="30054853.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="30054853.s0.e0" e2="30054853.s0.e1" id="30054853.s0.p0" relation="true"/>
+  </sentence>
+</document>

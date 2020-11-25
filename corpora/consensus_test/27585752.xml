@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27585752">
+  <sentence id="27585752.s0" text="In the present study, we first analyzed two expression quantitative trait loci (eQTL) datasets in healthy individuals and investigated the associations of eQTL of morphogenesis of a polarized epithelium with schizophrenia in independent European samples.">
+    <entity charOffset="163-202" id="27585752.s0.e0" ontology_id="GO_0001738" text="morphogenesis of a polarized epithelium" type="GO"/>
+    <entity charOffset="208-221" id="27585752.s0.e1" ontology_id="HP_0100753" text="schizophrenia" type="HP"/>
+    <pair e1="27585752.s0.e0" e2="27585752.s0.e1" id="27585752.s0.p0" relation="true"/>
+  </sentence>
+</document>

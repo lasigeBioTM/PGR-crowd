@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="26990554">
+  <sentence id="26990554.s0" text="In addition, the tested peptides inhibited lung colonization after intranasal inoculation of epidermis development with S. pneumoniae.">
+    <entity charOffset="93-114" id="26990554.s0.e0" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="123-132" id="26990554.s0.e1" ontology_id="HP_0002090" text="pneumonia" type="HP"/>
+    <pair e1="26990554.s0.e0" e2="26990554.s0.e1" id="26990554.s0.p0" relation="false"/>
+  </sentence>
+</document>

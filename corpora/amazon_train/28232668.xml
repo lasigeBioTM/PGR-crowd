@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="28232668">
+  <sentence id="28232668.s0" text="We cellular response to interleukin-4 evidence of genetic heterogeneity between the sub-phenotypes of NSOFC and among different populations.">
+    <entity charOffset="3-37" id="28232668.s0.e0" ontology_id="GO_0071353" text="cellular response to interleukin-4" type="GO"/>
+    <entity charOffset="58-71" id="28232668.s0.e1" ontology_id="HP_0001425" text="heterogeneity" type="HP"/>
+  </sentence>
+</document>

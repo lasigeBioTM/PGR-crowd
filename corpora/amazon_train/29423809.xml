@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<document id="29423809">
+  <sentence id="29423809.s0" text="Here we describe the approaches and methods used to identify nucleosome disassembly mutations, which drive development of the rare ovarian cancer, small cell carcinoma of the ovary, hypercalcemic muscle organ development (SCCOHT), and point to the broader relevance of this paradigm for future research in rare cancers">
+    <entity charOffset="61-83" id="29423809.s0.e0" ontology_id="GO_0006337" text="nucleosome disassembly" type="GO"/>
+    <entity charOffset="139-145" id="29423809.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="196-220" id="29423809.s0.e2" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <pair e1="29423809.s0.e0" e2="29423809.s0.e1" id="29423809.s0.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<document id="26325687">
+  <sentence id="26325687.s0" text="Bardet-Biedl syndrome (visual perception) is an autosomal recessive disorder characterized by central obesity, mental impairment, rod-cone dystrophy, polydactyly, hypogonadism in males, and renal abnormalities.">
+    <entity charOffset="23-40" id="26325687.s0.e0" ontology_id="GO_0007601" text="visual perception" type="GO"/>
+    <entity charOffset="48-67" id="26325687.s0.e1" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="111-128" id="26325687.s0.e2" ontology_id="HP_0100543" text="mental impairment" type="HP"/>
+    <entity charOffset="163-175" id="26325687.s0.e3" ontology_id="HP_0000135" text="hypogonadism" type="HP"/>
+  </sentence>
+</document>

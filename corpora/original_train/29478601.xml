@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29478601">
+  <sentence id="29478601.s0" text="The congenital myasthenic syndromes (actin filament organization) are heterogeneous disorders in which the safety margin of neuromuscular transmission is compromised by one or more specific mechanisms.">
+    <entity charOffset="37-64" id="29478601.s0.e0" ontology_id="GO_0007015" text="actin filament organization" type="GO"/>
+    <entity charOffset="70-83" id="29478601.s0.e1" ontology_id="HP_0001425" text="heterogeneous" type="HP"/>
+    <pair e1="29478601.s0.e0" e2="29478601.s0.e1" id="29478601.s0.p0" relation="false"/>
+  </sentence>
+</document>

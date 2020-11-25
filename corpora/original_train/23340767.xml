@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<document id="23340767">
+  <sentence id="23340767.s0" text="The sensory perception of sound locus harbors sensory perception of sound mutations in which have been reported in a few families with deafness.">
+    <entity charOffset="4-31" id="23340767.s0.e0" ontology_id="GO_0007605" text="sensory perception of sound" type="GO"/>
+    <entity charOffset="46-73" id="23340767.s0.e1" ontology_id="GO_0007605" text="sensory perception of sound" type="GO"/>
+    <entity charOffset="135-143" id="23340767.s0.e2" ontology_id="HP_0000365" text="deafness" type="HP"/>
+    <pair e1="23340767.s0.e0" e2="23340767.s0.e2" id="23340767.s0.p0" relation="true"/>
+    <pair e1="23340767.s0.e1" e2="23340767.s0.e2" id="23340767.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="23340767.s1" text="Four frameshift mutations in sensory perception of sound have been described to cause severe or severe-to-profound hearing loss in Moroccan and Pakistani families, and a single frameshift mutation was associated with progressive hearing loss in deaf individuals in a Dutch family.">
+    <entity charOffset="29-56" id="23340767.s1.e0" ontology_id="GO_0007605" text="sensory perception of sound" type="GO"/>
+    <entity charOffset="106-114" id="23340767.s1.e1" ontology_id="HP_0012829" text="profound" type="HP"/>
+    <entity charOffset="115-127" id="23340767.s1.e2" ontology_id="HP_0000365" text="hearing loss" type="HP"/>
+    <entity charOffset="217-228" id="23340767.s1.e3" ontology_id="HP_0003676" text="progressive" type="HP"/>
+    <pair e1="23340767.s1.e0" e2="23340767.s1.e1" id="23340767.s1.p0" relation="false"/>
+    <pair e1="23340767.s1.e0" e2="23340767.s1.e2" id="23340767.s1.p1" relation="true"/>
+    <pair e1="23340767.s1.e0" e2="23340767.s1.e3" id="23340767.s1.p2" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="28805828">
+  <sentence id="28805828.s0" text="CRISPR-Cas9 knockout in zebrafish and epidermis development recapitulated the human phenotype of primary microcephaly and resulted in early lethality.">
+    <entity charOffset="38-59" id="28805828.s0.e0" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="105-117" id="28805828.s0.e1" ontology_id="HP_0000252" text="microcephaly" type="HP"/>
+  </sentence>
+</document>

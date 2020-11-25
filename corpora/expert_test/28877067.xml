@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<document id="28877067">
+  <sentence id="28877067.s0" text="We examined the diagnostic and prognostic value of altered reticulin framework and the immunoprofile of biomarkers including IGF-2, proteins involved in cell proliferation and mitotic spindle regulation (Ki67, p53, ubiquitin-dependent protein catabolic process, HURP, protein phosphorylation), DNA damage repair (mitotic cell cycle, γ-H2AX), telomere regulation (DAX, ATRX), wnt-signaling pathway (protein polyubiquitination) and PI3K signaling pathway (negative regulation of protein phosphorylation, phospho-regulation of cell growth) in a tissue microarray of 50 adenomas and 43 carcinomas that were characterized for angioinvasion as defined by strict criteria, Weiss score, and mitotic rate-based tumor grade.">
+    <entity charOffset="215-260" id="28877067.s0.e0" ontology_id="GO_0006511" text="ubiquitin-dependent protein catabolic process" type="GO"/>
+    <entity charOffset="268-291" id="28877067.s0.e1" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <entity charOffset="313-331" id="28877067.s0.e2" ontology_id="GO_0000278" text="mitotic cell cycle" type="GO"/>
+    <entity charOffset="398-424" id="28877067.s0.e3" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="454-500" id="28877067.s0.e4" ontology_id="GO_0001933" text="negative regulation of protein phosphorylation" type="GO"/>
+    <entity charOffset="510-535" id="28877067.s0.e5" ontology_id="GO_0001558" text="regulation of cell growth" type="GO"/>
+    <entity charOffset="582-592" id="28877067.s0.e6" ontology_id="HP_0030731" text="carcinomas" type="HP"/>
+    <entity charOffset="702-707" id="28877067.s0.e7" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28877067.s0.e0" e2="28877067.s0.e6" id="28877067.s0.p0" relation="true"/>
+    <pair e1="28877067.s0.e1" e2="28877067.s0.e6" id="28877067.s0.p1" relation="true"/>
+    <pair e1="28877067.s0.e2" e2="28877067.s0.e6" id="28877067.s0.p2" relation="true"/>
+    <pair e1="28877067.s0.e3" e2="28877067.s0.e6" id="28877067.s0.p3" relation="true"/>
+    <pair e1="28877067.s0.e4" e2="28877067.s0.e7" id="28877067.s0.p4" relation="false"/>
+    <pair e1="28877067.s0.e4" e2="28877067.s0.e6" id="28877067.s0.p5" relation="true"/>
+    <pair e1="28877067.s0.e5" e2="28877067.s0.e7" id="28877067.s0.p6" relation="true"/>
+  </sentence>
+  <sentence id="28877067.s1" text="IGF-2 and proteins involved in cell proliferation and mitotic spindle regulation (Ki67, p53, ubiquitin-dependent protein catabolic process, HURP, NEK2), DNA damage proteins (PBK, γ-H2AX), regulators of telomeres (DAXX, nucleosome assembly), and beta-catenin revealed characteristic expression profiles enabling the distinction of carcinomas from adenomas.">
+    <entity charOffset="93-138" id="28877067.s1.e0" ontology_id="GO_0006511" text="ubiquitin-dependent protein catabolic process" type="GO"/>
+    <entity charOffset="219-238" id="28877067.s1.e1" ontology_id="GO_0006334" text="nucleosome assembly" type="GO"/>
+    <entity charOffset="330-340" id="28877067.s1.e2" ontology_id="HP_0030731" text="carcinomas" type="HP"/>
+    <pair e1="28877067.s1.e0" e2="28877067.s1.e2" id="28877067.s1.p0" relation="true"/>
+    <pair e1="28877067.s1.e1" e2="28877067.s1.e2" id="28877067.s1.p1" relation="true"/>
+  </sentence>
+</document>

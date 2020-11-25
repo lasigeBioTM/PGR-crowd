@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<document id="27666370">
+  <sentence id="27666370.s0" text="We report that biallelic mutations in protein folding, encoding one of the five co-chaperones required for assembly and disassembly of the αβ-tubulin heterodimer, the structural unit of microtubules, cause a disease with neurodevelopmental and neurodegenerative features characterized by early-onset cortical atrophy, secondary hypomyelination, microcephaly, thin corpus callosum, developmental delay, intellectual disability, seizures, optic atrophy, and spastic quadriplegia.">
+    <entity charOffset="38-53" id="27666370.s0.e0" ontology_id="GO_0006457" text="protein folding" type="GO"/>
+    <entity charOffset="300-316" id="27666370.s0.e1" ontology_id="HP_0002120" text="cortical atrophy" type="HP"/>
+    <entity charOffset="345-357" id="27666370.s0.e2" ontology_id="HP_0000252" text="microcephaly" type="HP"/>
+    <entity charOffset="381-400" id="27666370.s0.e3" ontology_id="HP_0001263" text="developmental delay" type="HP"/>
+    <entity charOffset="402-425" id="27666370.s0.e4" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <entity charOffset="427-435" id="27666370.s0.e5" ontology_id="HP_0001250" text="seizures" type="HP"/>
+    <entity charOffset="437-450" id="27666370.s0.e6" ontology_id="HP_0000648" text="optic atrophy" type="HP"/>
+    <entity charOffset="456-476" id="27666370.s0.e7" ontology_id="HP_0002510" text="spastic quadriplegia" type="HP"/>
+    <pair e1="27666370.s0.e0" e2="27666370.s0.e1" id="27666370.s0.p0" relation="true"/>
+    <pair e1="27666370.s0.e0" e2="27666370.s0.e2" id="27666370.s0.p1" relation="true"/>
+    <pair e1="27666370.s0.e0" e2="27666370.s0.e3" id="27666370.s0.p2" relation="true"/>
+    <pair e1="27666370.s0.e0" e2="27666370.s0.e4" id="27666370.s0.p3" relation="true"/>
+    <pair e1="27666370.s0.e0" e2="27666370.s0.e5" id="27666370.s0.p4" relation="true"/>
+    <pair e1="27666370.s0.e0" e2="27666370.s0.e6" id="27666370.s0.p5" relation="true"/>
+    <pair e1="27666370.s0.e0" e2="27666370.s0.e7" id="27666370.s0.p6" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<document id="28728825">
+  <sentence id="28728825.s0" text="Loss-of-function mutations in the human positive regulation of integrin activation gene cause autosomal recessive congenital lymphatic dysplasia.">
+    <entity charOffset="40-82" id="28728825.s0.e0" ontology_id="GO_0033625" text="positive regulation of integrin activation" type="GO"/>
+    <entity charOffset="94-113" id="28728825.s0.e1" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <pair e1="28728825.s0.e0" e2="28728825.s0.e1" id="28728825.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28728825.s1" text="Gain-of-function mutations in the human positive regulation of integrin activation gene cause the autosomal dominant hemolytic anemia, hereditary xerocytosis (also known as dehydrated stomatocytosis).">
+    <entity charOffset="40-82" id="28728825.s1.e0" ontology_id="GO_0033625" text="positive regulation of integrin activation" type="GO"/>
+    <entity charOffset="117-133" id="28728825.s1.e1" ontology_id="HP_0001878" text="hemolytic anemia" type="HP"/>
+    <pair e1="28728825.s1.e0" e2="28728825.s1.e1" id="28728825.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="28728825.s2" text="Loss-of-function mutations in the human cation transport gene cause an autosomal recessive syndrome of muscular atrophy with perinatal respiratory distress, arthrogryposis, and scoliosis.">
+    <entity charOffset="40-56" id="28728825.s2.e0" ontology_id="GO_0006812" text="cation transport" type="GO"/>
+    <entity charOffset="71-90" id="28728825.s2.e1" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="157-171" id="28728825.s2.e2" ontology_id="HP_0002804" text="arthrogryposis" type="HP"/>
+    <entity charOffset="177-186" id="28728825.s2.e3" ontology_id="HP_0002650" text="scoliosis" type="HP"/>
+    <pair e1="28728825.s2.e0" e2="28728825.s2.e1" id="28728825.s2.p0" relation="true"/>
+    <pair e1="28728825.s2.e0" e2="28728825.s2.e2" id="28728825.s2.p1" relation="true"/>
+    <pair e1="28728825.s2.e0" e2="28728825.s2.e3" id="28728825.s2.p2" relation="true"/>
+  </sentence>
+</document>

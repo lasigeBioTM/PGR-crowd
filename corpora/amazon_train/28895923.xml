@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="28895923">
+  <sentence id="28895923.s0" text="Thus, the geographic imbalance in colorectal cancer, in part, may reflect chronic exposure to ST-producing organisms that restore digestion signaling silenced by hormone loss during transformation.">
+    <entity charOffset="45-51" id="28895923.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="130-139" id="28895923.s0.e1" ontology_id="GO_0007586" text="digestion" type="GO"/>
+    <pair e1="28895923.s0.e0" e2="28895923.s0.e1" id="28895923.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28895923.s1" text="Moreover, epidermis development colonized with ST-producing &lt;i&gt;E. coli&lt;/i&gt; exhibited a 50% reduction in carcinogen-induced colorectal tumor burden.">
+    <entity charOffset="10-31" id="28895923.s1.e0" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="134-139" id="28895923.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+  </sentence>
+</document>

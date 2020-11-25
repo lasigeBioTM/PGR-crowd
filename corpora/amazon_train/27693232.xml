@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<document id="27693232">
+  <sentence id="27693232.s0" text="Germline de novo truncating variants in monoubiquitinated histone H2A deubiquitination and transcription, DNA-templated have been respectively implicated in causing Bohring-Opitz and Bainbridge-Ropers syndromes, which result in overlapping features of severe intellectual disability and dysmorphic features.">
+    <entity charOffset="40-86" id="27693232.s0.e0" ontology_id="GO_0035522" text="monoubiquitinated histone H2A deubiquitination" type="GO"/>
+    <entity charOffset="91-119" id="27693232.s0.e1" ontology_id="GO_0006351" text="transcription, DNA-templated" type="GO"/>
+    <entity charOffset="259-282" id="27693232.s0.e2" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <pair e1="27693232.s0.e0" e2="27693232.s0.e2" id="27693232.s0.p0" relation="true"/>
+    <pair e1="27693232.s0.e1" e2="27693232.s0.e2" id="27693232.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="27693232.s1" text="Although overlapping features with Bohring-Opitz and Bainbridge-Ropers syndromes exist, features that distinguish the positive regulation of peroxisome proliferator activated receptor signaling pathway-associated condition from ASXL1- and ASXL3-related disorders are macrocephaly, absence of growth retardation, and more variability in the degree of intellectual disabilities.">
+    <entity charOffset="118-201" id="27693232.s1.e0" ontology_id="GO_0035360" text="positive regulation of peroxisome proliferator activated receptor signaling pathway" type="GO"/>
+    <entity charOffset="267-279" id="27693232.s1.e1" ontology_id="HP_0000256" text="macrocephaly" type="HP"/>
+    <entity charOffset="350-375" id="27693232.s1.e2" ontology_id="HP_0001249" text="intellectual disabilities" type="HP"/>
+    <pair e1="27693232.s1.e0" e2="27693232.s1.e1" id="27693232.s1.p0" relation="true"/>
+    <pair e1="27693232.s1.e0" e2="27693232.s1.e2" id="27693232.s1.p1" relation="true"/>
+  </sentence>
+</document>

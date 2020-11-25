@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="26645154">
+  <sentence id="26645154.s0" text="On comparing cytoskeletal anchoring at nuclear membrane and BRCA1 localization in the ovarian cancer cell lines SKOV-3 and Caov-3, Nesprin-2 and BRCA1 were localized to the NE envelope and the nucleus in SKOV-3, respectively, and to the cytoplasm in Caov-3 cells.">
+    <entity charOffset="13-55" id="26645154.s0.e0" ontology_id="GO_0090286" text="cytoskeletal anchoring at nuclear membrane" type="GO"/>
+    <entity charOffset="94-100" id="26645154.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="26645154.s0.e0" e2="26645154.s0.e1" id="26645154.s0.p0" relation="false"/>
+  </sentence>
+</document>

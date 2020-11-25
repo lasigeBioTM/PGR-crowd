@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="29636449">
+  <sentence id="29636449.s0" text="Feingold syndrome is a skeletal dysplasia caused by loss-of-function mutations of either MYCN (muscle organ development 1) or MIR17HG that encodes protein polyubiquitination-17-92 microRNAs (type 2).">
+    <entity charOffset="23-41" id="29636449.s0.e0" ontology_id="HP_0002652" text="skeletal dysplasia" type="HP"/>
+    <entity charOffset="95-119" id="29636449.s0.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="147-173" id="29636449.s0.e2" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <pair e1="29636449.s0.e0" e2="29636449.s0.e1" id="29636449.s0.p0" relation="false"/>
+    <pair e1="29636449.s0.e0" e2="29636449.s0.e2" id="29636449.s0.p1" relation="false"/>
+  </sentence>
+</document>

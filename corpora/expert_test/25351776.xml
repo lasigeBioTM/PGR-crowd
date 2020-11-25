@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="25351776">
+  <sentence id="25351776.s0" text="A further XX male, ascertained because of intellectual disability, carried a de novo cryptic duplication at Xq27.1, involving sex determination.">
+    <entity charOffset="42-65" id="25351776.s0.e0" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <entity charOffset="126-143" id="25351776.s0.e1" ontology_id="GO_0007530" text="sex determination" type="GO"/>
+    <pair e1="25351776.s0.e0" e2="25351776.s0.e1" id="25351776.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="25351776.s1" text="We analyzed, by conventional and molecular cytogenetics, 19 novel positive regulation of gene expression-negative unrelated 46,XX subjects both familial and sporadic, with isolated DSD.">
+    <entity charOffset="66-104" id="25351776.s1.e0" ontology_id="GO_0010628" text="positive regulation of gene expression" type="GO"/>
+    <entity charOffset="157-165" id="25351776.s1.e1" ontology_id="HP_0003745" text="sporadic" type="HP"/>
+    <pair e1="25351776.s1.e0" e2="25351776.s1.e1" id="25351776.s1.p0" relation="true"/>
+  </sentence>
+</document>

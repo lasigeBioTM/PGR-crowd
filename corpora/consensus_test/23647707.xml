@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="23647707">
+  <sentence id="23647707.s0" text="Despite this multisystemic involvement and contrasting with a cachectic appearance, the anthropometric parameters showed marked overgrowth (+4 DS), leading to diagnosis of congenital lipodystrophy, which was confirmed by the presence of the new homozygous c.259C&amp;gt;T (p.Gln87*) mutation in the positive regulation of cytokine production gene.">
+    <entity charOffset="183-196" id="23647707.s0.e0" ontology_id="HP_0009125" text="lipodystrophy" type="HP"/>
+    <entity charOffset="295-337" id="23647707.s0.e1" ontology_id="GO_0001819" text="positive regulation of cytokine production" type="GO"/>
+    <pair e1="23647707.s0.e0" e2="23647707.s0.e1" id="23647707.s0.p0" relation="true"/>
+  </sentence>
+</document>

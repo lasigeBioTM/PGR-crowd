@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<document id="29662198">
+  <sentence id="29662198.s0" text="We show that the protein polyubiquitination-106b-25 cluster upregulates cell cycle arrest in multiple breast cancer cell lines, representing both estrogen receptor (ER+) and triple negative breast cancer (TNBC) through direct repression of the E3 ubiquitin ligase, NEDD4L.">
+    <entity charOffset="17-43" id="29662198.s0.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="72-89" id="29662198.s0.e1" ontology_id="GO_0007050" text="cell cycle arrest" type="GO"/>
+    <entity charOffset="109-115" id="29662198.s0.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29662198.s0.e0" e2="29662198.s0.e2" id="29662198.s0.p0" relation="false"/>
+    <pair e1="29662198.s0.e1" e2="29662198.s0.e2" id="29662198.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="29662198.s1" text="We further show that upregulation of NOTCH1 is necessary for TIC induction downstream of miR-106b-25 in both ER + and TNBC breast cancer cells, and that re-expression of regulation of membrane depolarization is sufficient to reverse miR106b-25-mediated NOTCH1 upregulation and TIC induction.">
+    <entity charOffset="130-136" id="29662198.s1.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="170-207" id="29662198.s1.e1" ontology_id="GO_0003254" text="regulation of membrane depolarization" type="GO"/>
+    <pair e1="29662198.s1.e0" e2="29662198.s1.e1" id="29662198.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="29662198.s2" text="Further, we show for the first time that regulation of membrane depolarization expression alone is significantly associated with a better relapse-free prognosis for breast cancer patients.">
+    <entity charOffset="41-78" id="29662198.s2.e0" ontology_id="GO_0003254" text="regulation of membrane depolarization" type="GO"/>
+    <entity charOffset="172-178" id="29662198.s2.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29662198.s2.e0" e2="29662198.s2.e1" id="29662198.s2.p0" relation="true"/>
+  </sentence>
+  <sentence id="29662198.s3" text="Here we identify a novel mechanism of NOTCH regulation and TIC induction in breast cancer via the protein polyubiquitination-106b-25 miRNA cluster.">
+    <entity charOffset="83-89" id="29662198.s3.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="98-124" id="29662198.s3.e1" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <pair e1="29662198.s3.e0" e2="29662198.s3.e1" id="29662198.s3.p0" relation="true"/>
+  </sentence>
+  <sentence id="29662198.s4" text="Tumor-initiating cells (regulation of ARF protein signal transduction) represent a subset of tumor cells with increased self-renewal capability.">
+    <entity charOffset="24-69" id="29662198.s4.e0" ontology_id="GO_0032012" text="regulation of ARF protein signal transduction" type="GO"/>
+    <entity charOffset="93-98" id="29662198.s4.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29662198.s4.e0" e2="29662198.s4.e1" id="29662198.s4.p0" relation="true"/>
+  </sentence>
+  <sentence id="29662198.s5" text="NOTCH signaling has been identified as an important driver of the regulation of ARF protein signal transduction population, yet mechanisms governing regulation of this pathway in cancer remain to be fully elucidated.">
+    <entity charOffset="66-111" id="29662198.s5.e0" ontology_id="GO_0032012" text="regulation of ARF protein signal transduction" type="GO"/>
+    <entity charOffset="179-185" id="29662198.s5.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29662198.s5.e0" e2="29662198.s5.e1" id="29662198.s5.p0" relation="false"/>
+  </sentence>
+  <sentence id="29662198.s6" text="Importantly, we demonstrate a significant positive correlation between protein polyubiquitination-106b-25 and NOTCH1 protein, yet a significant inverse correlation between miR-106b-25 and regulation of membrane depolarization mRNA in human breast cancer, suggesting a critical role for the miR106b-25/NEDD4L/NOTCH1 axis in the disease.">
+    <entity charOffset="71-97" id="29662198.s6.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="188-225" id="29662198.s6.e1" ontology_id="GO_0003254" text="regulation of membrane depolarization" type="GO"/>
+    <entity charOffset="247-253" id="29662198.s6.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29662198.s6.e0" e2="29662198.s6.e2" id="29662198.s6.p0" relation="true"/>
+    <pair e1="29662198.s6.e1" e2="29662198.s6.e2" id="29662198.s6.p1" relation="true"/>
+  </sentence>
+  <sentence id="29662198.s7" text="These data expand our knowledge of the mechanisms underlying NOTCH activation and regulation of ARF protein signal transduction induction in breast cancer, and may provide new avenues for the development of therapies targeting this resistant subset of tumor cells">
+    <entity charOffset="82-127" id="29662198.s7.e0" ontology_id="GO_0032012" text="regulation of ARF protein signal transduction" type="GO"/>
+    <entity charOffset="252-257" id="29662198.s7.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29662198.s7.e0" e2="29662198.s7.e1" id="29662198.s7.p0" relation="false"/>
+  </sentence>
+</document>

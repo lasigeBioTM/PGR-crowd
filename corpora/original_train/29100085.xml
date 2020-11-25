@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="29100085">
+  <sentence id="29100085.s0" text="Here we identified six different de novo missense mutations in mitochondrial large ribosomal subunit assembly in twelve unrelated individuals affected by global developmental delay (GDD), intellectual disability (ID), severe speech impairment and gait abnormalities.">
+    <entity charOffset="63-109" id="29100085.s0.e0" ontology_id="GO_1902775" text="mitochondrial large ribosomal subunit assembly" type="GO"/>
+    <entity charOffset="161-180" id="29100085.s0.e1" ontology_id="HP_0001263" text="developmental delay" type="HP"/>
+    <entity charOffset="188-211" id="29100085.s0.e2" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <entity charOffset="225-242" id="29100085.s0.e3" ontology_id="HP_0002167" text="speech impairment" type="HP"/>
+    <entity charOffset="247-265" id="29100085.s0.e4" ontology_id="HP_0001288" text="gait abnormalities" type="HP"/>
+    <pair e1="29100085.s0.e0" e2="29100085.s0.e1" id="29100085.s0.p0" relation="true"/>
+    <pair e1="29100085.s0.e0" e2="29100085.s0.e2" id="29100085.s0.p1" relation="true"/>
+    <pair e1="29100085.s0.e0" e2="29100085.s0.e3" id="29100085.s0.p2" relation="true"/>
+    <pair e1="29100085.s0.e0" e2="29100085.s0.e4" id="29100085.s0.p3" relation="true"/>
+  </sentence>
+</document>

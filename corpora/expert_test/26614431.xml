@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="26614431">
+  <sentence id="26614431.s0" text="The SNPs rs2124437 (MAPK cascade), rs1335022 (GRIK2), rs4512367 (G protein-coupled receptor signaling pathway), rs4748011 (negative regulation of tumor necrosis factor-mediated signaling pathway), and rs1435218 (LNX1) were analyzed in 500 histopathologically confirmed oral cancers and 500 healthy controls with a minimum of 10 years of tobacco usage.">
+    <entity charOffset="20-32" id="26614431.s0.e0" ontology_id="GO_0000165" text="MAPK cascade" type="GO"/>
+    <entity charOffset="65-109" id="26614431.s0.e1" ontology_id="GO_0007186" text="G protein-coupled receptor signaling pathway" type="GO"/>
+    <entity charOffset="123-194" id="26614431.s0.e2" ontology_id="GO_0010804" text="negative regulation of tumor necrosis factor-mediated signaling pathway" type="GO"/>
+    <entity charOffset="274-280" id="26614431.s0.e3" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="26614431.s0.e0" e2="26614431.s0.e3" id="26614431.s0.p0" relation="true"/>
+    <pair e1="26614431.s0.e1" e2="26614431.s0.e3" id="26614431.s0.p1" relation="true"/>
+    <pair e1="26614431.s0.e2" e2="26614431.s0.e3" id="26614431.s0.p2" relation="true"/>
+  </sentence>
+</document>

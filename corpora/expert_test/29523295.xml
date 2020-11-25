@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29523295">
+  <sentence id="29523295.s0" text="SNORD115-TAF1 and SNORD-DPM2 dysfunction introduce possible clues to the parkinsonism and increased creatinine phosphokinase in NMS, while abnormalities of SNORD115-regulation of Ral protein signal transduction suggest links to both anti-NMDAR encephalitis and the proven predisposing catatonic SHANK3 gene.">
+    <entity charOffset="165-210" id="29523295.s0.e0" ontology_id="GO_0032485" text="regulation of Ral protein signal transduction" type="GO"/>
+    <entity charOffset="244-256" id="29523295.s0.e1" ontology_id="HP_0002383" text="encephalitis" type="HP"/>
+    <pair e1="29523295.s0.e0" e2="29523295.s0.e1" id="29523295.s0.p0" relation="true"/>
+  </sentence>
+</document>

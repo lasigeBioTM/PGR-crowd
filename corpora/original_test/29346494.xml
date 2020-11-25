@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29346494">
+  <sentence id="29346494.s0" text="In T2D patients, animal organ morphogenesis Arg192His was associated with earlier age at diagnosis, and GLP1R Arg131Gln was associated with decreased risk of cardiovascular disease.">
+    <entity charOffset="17-43" id="29346494.s0.e0" ontology_id="GO_0009887" text="animal organ morphogenesis" type="GO"/>
+    <entity charOffset="158-180" id="29346494.s0.e1" ontology_id="HP_0001626" text="cardiovascular disease" type="HP"/>
+    <pair e1="29346494.s0.e0" e2="29346494.s0.e1" id="29346494.s0.p0" relation="false"/>
+  </sentence>
+</document>

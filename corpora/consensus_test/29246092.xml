@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="29246092">
+  <sentence id="29246092.s0" text="The authors report a patient with a novel positive regulation of GTPase activity mutation, who presented with intellectual disability, severe automutilation, and epilepsy.">
+    <entity charOffset="42-80" id="29246092.s0.e0" ontology_id="GO_0043547" text="positive regulation of GTPase activity" type="GO"/>
+    <entity charOffset="110-133" id="29246092.s0.e1" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <pair e1="29246092.s0.e0" e2="29246092.s0.e1" id="29246092.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="29246092.s1" text="PAK3-related intellectual disability is caused by mutations in the gene encoding the negative regulation of transcription by RNA polymerase II-activated kinase (PAK) protein.">
+    <entity charOffset="13-36" id="29246092.s1.e0" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <entity charOffset="85-142" id="29246092.s1.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="29246092.s1.e0" e2="29246092.s1.e1" id="29246092.s1.p0" relation="true"/>
+  </sentence>
+</document>

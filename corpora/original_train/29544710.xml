@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="29544710">
+  <sentence id="29544710.s0" text="The purpose of these recommendations is to answer the following question: in case of deeply infiltrating endometriosis associated infertility, what is the best therapeutic strategy? First-line surgery and then in vitro fertilization (sodium ion transport) in case of persistent infertility or first-line IVF, without surgery? After exhaustive literature analysis, we suggest the following recommendations: studies focusing on spontaneous fertility of infertile patients with deeply infiltrating endometriosis found spontaneous pregnancy rates about 10%.">
+    <entity charOffset="105-118" id="29544710.s0.e0" ontology_id="HP_0030127" text="endometriosis" type="HP"/>
+    <entity charOffset="234-254" id="29544710.s0.e1" ontology_id="GO_0006814" text="sodium ion transport" type="GO"/>
+    <pair e1="29544710.s0.e0" e2="29544710.s0.e1" id="29544710.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="29544710.s1" text="First-line sodium ion transport is a good option in case of no operated deeply infiltrating endometriosis associated infertility.">
+    <entity charOffset="11-31" id="29544710.s1.e0" ontology_id="GO_0006814" text="sodium ion transport" type="GO"/>
+    <entity charOffset="92-105" id="29544710.s1.e1" ontology_id="HP_0030127" text="endometriosis" type="HP"/>
+    <pair e1="29544710.s1.e0" e2="29544710.s1.e1" id="29544710.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="29544710.s2" text="The use of sodium ion transport in the indication &amp;quot;deep infiltrating endometriosis&amp;quot; allows satisfactory pregnancy rates without significant risk, regarding disease progression or oocyte retrieval procedure morbidity">
+    <entity charOffset="11-31" id="29544710.s2.e0" ontology_id="GO_0006814" text="sodium ion transport" type="GO"/>
+    <entity charOffset="74-87" id="29544710.s2.e1" ontology_id="HP_0030127" text="endometriosis" type="HP"/>
+    <pair e1="29544710.s2.e0" e2="29544710.s2.e1" id="29544710.s2.p0" relation="false"/>
+  </sentence>
+</document>

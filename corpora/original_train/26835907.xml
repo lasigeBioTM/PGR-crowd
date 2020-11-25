@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<document id="26835907">
+  <sentence id="26835907.s0" text="L-cysteine catabolic process to hypotaurine is clinically and genetically heterogeneous.">
+    <entity charOffset="0-43" id="26835907.s0.e0" ontology_id="GO_0019449" text="L-cysteine catabolic process to hypotaurine" type="GO"/>
+    <entity charOffset="74-87" id="26835907.s0.e1" ontology_id="HP_0001425" text="heterogeneous" type="HP"/>
+    <pair e1="26835907.s0.e0" e2="26835907.s0.e1" id="26835907.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="26835907.s1" text="It is autosomal recessively inherited, and caused by negative regulation of cell-cell adhesion mutations.">
+    <entity charOffset="6-25" id="26835907.s1.e0" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="53-94" id="26835907.s1.e1" ontology_id="GO_0022408" text="negative regulation of cell-cell adhesion" type="GO"/>
+    <pair e1="26835907.s1.e0" e2="26835907.s1.e1" id="26835907.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="26835907.s2" text="The nonsyndromic form of L-cysteine catabolic process to hypotaurine can be caused by dominant activating mutations in digestion, encoding intestinal receptor guanylate cyclase C (GC-C), and by autosomal recessive sodium ion import across plasma membrane loss-of-function mutations.">
+    <entity charOffset="25-68" id="26835907.s2.e0" ontology_id="GO_0019449" text="L-cysteine catabolic process to hypotaurine" type="GO"/>
+    <entity charOffset="119-128" id="26835907.s2.e1" ontology_id="GO_0007586" text="digestion" type="GO"/>
+    <entity charOffset="194-213" id="26835907.s2.e2" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="214-254" id="26835907.s2.e3" ontology_id="GO_0098719" text="sodium ion import across plasma membrane" type="GO"/>
+    <pair e1="26835907.s2.e0" e2="26835907.s2.e2" id="26835907.s2.p0" relation="false"/>
+    <pair e1="26835907.s2.e1" e2="26835907.s2.e2" id="26835907.s2.p1" relation="true"/>
+    <pair e1="26835907.s2.e2" e2="26835907.s2.e3" id="26835907.s2.p2" relation="true"/>
+  </sentence>
+</document>

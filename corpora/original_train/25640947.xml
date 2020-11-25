@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="25640947">
+  <sentence id="25640947.s0" text="Deleted in lung and esophageal cancer 1 (negative regulation of cell proliferation) is a tumor suppressor gene with reduced transcriptional activity and promoter hypermethylation in various cancers, including colorectal cancer.">
+    <entity charOffset="31-37" id="25640947.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="41-82" id="25640947.s0.e1" ontology_id="GO_0008285" text="negative regulation of cell proliferation" type="GO"/>
+    <entity charOffset="89-94" id="25640947.s0.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="25640947.s0.e0" e2="25640947.s0.e1" id="25640947.s0.p0" relation="true"/>
+    <pair e1="25640947.s0.e1" e2="25640947.s0.e2" id="25640947.s0.p1" relation="true"/>
+  </sentence>
+</document>

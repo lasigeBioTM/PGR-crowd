@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28942967">
+  <sentence id="28942967.s0" text="By pooling genetic findings across multiple studies, we have identified six individuals with severe developmental delay (6/6), refractory seizures (5/6), and similar dysmorphic features (3/6), each harboring a de novo mutation in protein dephosphorylation.">
+    <entity charOffset="138-146" id="28942967.s0.e0" ontology_id="HP_0001250" text="seizures" type="HP"/>
+    <entity charOffset="230-255" id="28942967.s0.e1" ontology_id="GO_0006470" text="protein dephosphorylation" type="GO"/>
+    <pair e1="28942967.s0.e0" e2="28942967.s0.e1" id="28942967.s0.p0" relation="true"/>
+  </sentence>
+</document>

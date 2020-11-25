@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27711207">
+  <sentence id="27711207.s0" text="The cytolysis G1 polymorphism, an identified risk factor for non-diabetic renal disease, was associated with albuminuria.">
+    <entity charOffset="4-13" id="27711207.s0.e0" ontology_id="GO_0019835" text="cytolysis" type="GO"/>
+    <entity charOffset="109-120" id="27711207.s0.e1" ontology_id="HP_0012592" text="albuminuria" type="HP"/>
+    <pair e1="27711207.s0.e0" e2="27711207.s0.e1" id="27711207.s0.p0" relation="true"/>
+  </sentence>
+</document>

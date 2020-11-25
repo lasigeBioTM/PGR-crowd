@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30388826">
+  <sentence id="30388826.s0" text="Fungal immunomodulatory protein from &lt;i&gt;Nectria haematococca&lt;/i&gt; (positive regulation of transcription from RNA polymerase II promoter by glucose-nha) has potential as a lung cancer therapeutic; as such, illuminating its anti-tumor mechanism is expected to facilitate novel treatment options.">
+    <entity charOffset="66-145" id="30388826.s0.e0" ontology_id="GO_0000432" text="positive regulation of transcription from RNA polymerase II promoter by glucose" type="GO"/>
+    <entity charOffset="226-231" id="30388826.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="30388826.s0.e0" e2="30388826.s0.e1" id="30388826.s0.p0" relation="true"/>
+  </sentence>
+</document>

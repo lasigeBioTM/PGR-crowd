@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="29503125">
+  <sentence id="29503125.s0" text="Disorders of multicellular organism development development comprise a heterogeneous group of congenital conditions associated with atypical development of internal and external genitalia.">
+    <entity charOffset="13-47" id="29503125.s0.e0" ontology_id="GO_0007275" text="multicellular organism development" type="GO"/>
+    <entity charOffset="71-84" id="29503125.s0.e1" ontology_id="HP_0001425" text="heterogeneous" type="HP"/>
+  </sentence>
+</document>

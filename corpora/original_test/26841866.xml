@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="26841866">
+  <sentence id="26841866.s0" text="Taken together, these data open venues for exploring the possibility that sporadic breast cancer patients with DNA repair amplification might benefit from epigenetic combination therapy targeting both the KDM5A demethylase and histone deacetylases.">
+    <entity charOffset="90-96" id="26841866.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="111-121" id="26841866.s0.e1" ontology_id="GO_0006281" text="DNA repair" type="GO"/>
+    <pair e1="26841866.s0.e0" e2="26841866.s0.e1" id="26841866.s0.p0" relation="true"/>
+  </sentence>
+</document>

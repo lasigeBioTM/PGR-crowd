@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30579095">
+  <sentence id="30579095.s0" text="Of the genes detected out, gap junction-mediated intercellular transport gene mutation was with significant difference (χ&lt;sup&gt;2&lt;/sup&gt; = 75.132, p = 0.000) between audio-no-pass group (417/1315, 31.711%) and random-selected cohort (159/1000, 15.900%); c.109G &amp;gt; A was the most common allele, as well as the only one with significantly different allele frequency (χ&lt;sup&gt;2&lt;/sup&gt; = 79.327, p = 0.000) between audio-no-pass group (392/1315, 16.84%) and random-selected cohort (140/1000, 7.55%), which suggested c.109G &amp;gt; A mutation was critical for newborns' hearing loss.">
+    <entity charOffset="27-72" id="30579095.s0.e0" ontology_id="GO_1990349" text="gap junction-mediated intercellular transport" type="GO"/>
+    <entity charOffset="558-570" id="30579095.s0.e1" ontology_id="HP_0000365" text="hearing loss" type="HP"/>
+    <pair e1="30579095.s0.e0" e2="30579095.s0.e1" id="30579095.s0.p0" relation="false"/>
+  </sentence>
+</document>

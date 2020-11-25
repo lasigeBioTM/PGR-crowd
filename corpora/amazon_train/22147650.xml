@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<document id="22147650">
+  <sentence id="22147650.s0" text="Prion proteins (positive regulation of peptidyl-tyrosine phosphorylation and acrosome reaction), known mostly for its involvement in neurodegenerative spongiform encephalopathies, have been recently demonstrated to be involved in resistance to apoptosis, tumorigenesis, proliferation, and metastasis.">
+    <entity charOffset="16-72" id="22147650.s0.e0" ontology_id="GO_0050731" text="positive regulation of peptidyl-tyrosine phosphorylation" type="GO"/>
+    <entity charOffset="77-94" id="22147650.s0.e1" ontology_id="GO_0007340" text="acrosome reaction" type="GO"/>
+    <entity charOffset="162-178" id="22147650.s0.e2" ontology_id="HP_0001298" text="encephalopathies" type="HP"/>
+    <entity charOffset="255-260" id="22147650.s0.e3" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="22147650.s0.e0" e2="22147650.s0.e2" id="22147650.s0.p0" relation="true"/>
+    <pair e1="22147650.s0.e1" e2="22147650.s0.e2" id="22147650.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="22147650.s1" text="PRNP and acrosome reaction are significantly over-expressed in osteosarcoma.">
+    <entity charOffset="9-26" id="22147650.s1.e0" ontology_id="GO_0007340" text="acrosome reaction" type="GO"/>
+    <entity charOffset="63-75" id="22147650.s1.e1" ontology_id="HP_0002669" text="osteosarcoma" type="HP"/>
+    <pair e1="22147650.s1.e0" e2="22147650.s1.e1" id="22147650.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="22147650.s2" text="positive regulation of peptidyl-tyrosine phosphorylation and PRND appear involved with some important genes related to tumorigenesis and apoptosis.">
+    <entity charOffset="0-56" id="22147650.s2.e0" ontology_id="GO_0050731" text="positive regulation of peptidyl-tyrosine phosphorylation" type="GO"/>
+    <entity charOffset="119-124" id="22147650.s2.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="22147650.s2.e0" e2="22147650.s2.e1" id="22147650.s2.p0" relation="true"/>
+  </sentence>
+</document>

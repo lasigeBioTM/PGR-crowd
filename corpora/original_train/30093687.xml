@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="30093687">
+  <sentence id="30093687.s0" text="Cushing's disease results from corticotroph adenomas of the pituitary that hypersecrete adrenocorticotropin (negative regulation of tumor necrosis factor production), leading to excess glucocorticoid and hypercortisolism.">
+    <entity charOffset="109-164" id="30093687.s0.e0" ontology_id="GO_0032720" text="negative regulation of tumor necrosis factor production" type="GO"/>
+    <entity charOffset="204-220" id="30093687.s0.e1" ontology_id="HP_0003118" text="hypercortisolism" type="HP"/>
+    <pair e1="30093687.s0.e0" e2="30093687.s0.e1" id="30093687.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="30093687.s1" text="However, the major driver mutations in protein K63-linked deubiquitination wild-type tumors remain elusive.">
+    <entity charOffset="39-74" id="30093687.s1.e0" ontology_id="GO_0070536" text="protein K63-linked deubiquitination" type="GO"/>
+    <entity charOffset="85-91" id="30093687.s1.e1" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <pair e1="30093687.s1.e0" e2="30093687.s1.e1" id="30093687.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="30093687.s2" text="Moreover, primary corticotroph tumor cells harboring protein phosphorylation V600E are sensitive to the BRAF inhibitor vemurafenib.">
+    <entity charOffset="31-36" id="30093687.s2.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="53-76" id="30093687.s2.e1" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <pair e1="30093687.s2.e0" e2="30093687.s2.e1" id="30093687.s2.p0" relation="true"/>
+  </sentence>
+</document>

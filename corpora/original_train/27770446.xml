@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="27770446">
+  <sentence id="27770446.s0" text="Group 1 pulmonary hypertension or pulmonary arterial hypertension (L-phenylalanine catabolic process) is a rare disease characterized by proliferation and occlusion of small pulmonary arterioles, leading to progressive elevation of pulmonary artery pressure and pulmonary vascular resistance, and right ventricular failure.">
+    <entity charOffset="67-100" id="27770446.s0.e0" ontology_id="GO_0006559" text="L-phenylalanine catabolic process" type="GO"/>
+    <entity charOffset="297-322" id="27770446.s0.e1" ontology_id="HP_0001708" text="right ventricular failure" type="HP"/>
+    <pair e1="27770446.s0.e0" e2="27770446.s0.e1" id="27770446.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="27770446.s1" text="L-phenylalanine catabolic process in children is much more heterogeneous than in adults, and can be associated with several genetic syndromes, congenital heart disease, pulmonary disease, and vascular disease.">
+    <entity charOffset="0-33" id="27770446.s1.e0" ontology_id="GO_0006559" text="L-phenylalanine catabolic process" type="GO"/>
+    <entity charOffset="59-72" id="27770446.s1.e1" ontology_id="HP_0001425" text="heterogeneous" type="HP"/>
+    <pair e1="27770446.s1.e0" e2="27770446.s1.e1" id="27770446.s1.p0" relation="false"/>
+  </sentence>
+</document>

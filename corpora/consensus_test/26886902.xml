@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="26886902">
+  <sentence id="26886902.s0" text="Due to evolving hypopituitarism, she was replaced with thyroxine (from age 5), hydrocortisone (from age 13), GH (from age 13 until 17), and multicellular organism development steroids in adolescence and adulthood.">
+    <entity charOffset="16-31" id="26886902.s0.e0" ontology_id="HP_0040075" text="hypopituitarism" type="HP"/>
+    <entity charOffset="140-174" id="26886902.s0.e1" ontology_id="GO_0007275" text="multicellular organism development" type="GO"/>
+  </sentence>
+</document>

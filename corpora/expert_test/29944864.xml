@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="29944864">
+  <sentence id="29944864.s0" text="To provide new ideas based on the use of peptide hormone processing for risk prediction, prognostic assessment, and clinical treatment of cardiovascular diseases and to promote the implementation of corin as a routine laboratory index, we summarize the latest studies of the association between corin and cardiovascular diseases in recent years and offer some prospective proposals for future research on corin in this review">
+    <entity charOffset="41-67" id="29944864.s0.e0" ontology_id="GO_0016486" text="peptide hormone processing" type="GO"/>
+    <entity charOffset="138-161" id="29944864.s0.e1" ontology_id="HP_0001626" text="cardiovascular diseases" type="HP"/>
+    <pair e1="29944864.s0.e0" e2="29944864.s0.e1" id="29944864.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29944864.s1" text="All these findings indicate that circulating soluble peptide hormone processing has the potential to be a sensitive and specific biomarker for risk prediction and prognostic assessment of cardiovascular diseases.">
+    <entity charOffset="53-79" id="29944864.s1.e0" ontology_id="GO_0016486" text="peptide hormone processing" type="GO"/>
+    <entity charOffset="188-211" id="29944864.s1.e1" ontology_id="HP_0001626" text="cardiovascular diseases" type="HP"/>
+    <pair e1="29944864.s1.e0" e2="29944864.s1.e1" id="29944864.s1.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="26854714">
+  <sentence id="26854714.s0" text="Moreover, regulation of cell shape predicted poor prognosis of pancreatic cancer, partially due to its role in E-cadherin expression regulation, and the results were further validated by analysis of the correlation between ALDOA and E-cadherin expression in pancreatic cancer tissue samples.">
+    <entity charOffset="10-34" id="26854714.s0.e0" ontology_id="GO_0008360" text="regulation of cell shape" type="GO"/>
+    <entity charOffset="74-80" id="26854714.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="26854714.s0.e0" e2="26854714.s0.e1" id="26854714.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="26854714.s1" text="Mechanistically, the role of ALDOA in pancreatic cancer might attribute to its regulation of negative regulation of transcription by RNA polymerase II, HIF1α and positive regulation of transcription by RNA polymerase II (Nuclear Factor, Erythroid 2-Like 2), which were key regulators of glycolysis and antioxidant response control.">
+    <entity charOffset="49-55" id="26854714.s1.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="93-150" id="26854714.s1.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="162-219" id="26854714.s1.e2" ontology_id="GO_0045944" text="positive regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="26854714.s1.e0" e2="26854714.s1.e1" id="26854714.s1.p0" relation="true"/>
+    <pair e1="26854714.s1.e0" e2="26854714.s1.e2" id="26854714.s1.p1" relation="true"/>
+  </sentence>
+</document>

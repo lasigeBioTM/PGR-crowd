@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<document id="28038461">
+  <sentence id="28038461.s0" text="Homeobox A11 (skeletal system development) is one of the hypermethylated genes in breast cancer and its function in breast tumorigenesis remains elusive.">
+    <entity charOffset="14-41" id="28038461.s0.e0" ontology_id="GO_0001501" text="skeletal system development" type="GO"/>
+    <entity charOffset="89-95" id="28038461.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="123-128" id="28038461.s0.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28038461.s0.e0" e2="28038461.s0.e1" id="28038461.s0.p0" relation="true"/>
+    <pair e1="28038461.s0.e0" e2="28038461.s0.e2" id="28038461.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="28038461.s1" text="In this study, we analyzed the methylation status of skeletal system development in 264 paired breast cancer and normal tissue as well as in matched serum samples by MethyLight assay.">
+    <entity charOffset="53-80" id="28038461.s1.e0" ontology_id="GO_0001501" text="skeletal system development" type="GO"/>
+    <entity charOffset="102-108" id="28038461.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28038461.s1.e0" e2="28038461.s1.e1" id="28038461.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="28038461.s2" text="Further, the function of skeletal system development in breast tumorigenesis was analyzed by cell proliferation and migration assays.">
+    <entity charOffset="25-52" id="28038461.s2.e0" ontology_id="GO_0001501" text="skeletal system development" type="GO"/>
+    <entity charOffset="63-68" id="28038461.s2.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28038461.s2.e0" e2="28038461.s2.e1" id="28038461.s2.p0" relation="true"/>
+  </sentence>
+  <sentence id="28038461.s3" text="We found that skeletal system development was hypermethylated in cancer tissues (45.08%), especially in invasive ductal carcinomas (P&amp;lt;0.001), patients with a family history of cancer (P=0.033), cases with metastatic lymph nodes (P=0.004) and P53 positive group (P=0.017).">
+    <entity charOffset="14-41" id="28038461.s3.e0" ontology_id="GO_0001501" text="skeletal system development" type="GO"/>
+    <entity charOffset="65-71" id="28038461.s3.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28038461.s3.e0" e2="28038461.s3.e1" id="28038461.s3.p0" relation="true"/>
+  </sentence>
+</document>

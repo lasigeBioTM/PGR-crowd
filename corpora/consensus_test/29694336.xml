@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="29694336">
+  <sentence id="29694336.s0" text="Additionally, despite GDAP1 affecting mitochondrial functionality, and hence being of G protein-coupled receptor signaling pathway importance to cellular function, the GDAP1‑associated Charcot-Marie-Tooth disease is mainly characterized by axonal degeneration.">
+    <entity charOffset="86-130" id="29694336.s0.e0" ontology_id="GO_0007186" text="G protein-coupled receptor signaling pathway" type="GO"/>
+    <entity charOffset="240-259" id="29694336.s0.e1" ontology_id="HP_0040078" text="axonal degeneration" type="HP"/>
+  </sentence>
+</document>

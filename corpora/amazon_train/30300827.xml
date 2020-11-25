@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="30300827">
+  <sentence id="30300827.s0" text="The ability of positive regulation of B cell proliferation to promote proliferation and differentiation of activated T cells fueled present attempts to modulate this immune checkpoint to reinforce antitumor immunity.">
+    <entity charOffset="15-58" id="30300827.s0.e0" ontology_id="GO_0030890" text="positive regulation of B cell proliferation" type="GO"/>
+    <entity charOffset="201-206" id="30300827.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="30300827.s0.e0" e2="30300827.s0.e1" id="30300827.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="30300827.s1" text="The data presented thus not only identify the yet unknown involvement of positive regulation of B cell proliferation/OX40L in ALL pathophysiology and NK cell immunosurveillance but also point to the necessity to thoroughly consider the consequences of modulating the OX40/OX40L molecule system beyond its effects on T cells when developing OX40-targeting approaches for cancer immunotherapy">
+    <entity charOffset="73-116" id="30300827.s1.e0" ontology_id="GO_0030890" text="positive regulation of B cell proliferation" type="GO"/>
+    <entity charOffset="370-376" id="30300827.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30300827.s1.e0" e2="30300827.s1.e1" id="30300827.s1.p0" relation="true"/>
+  </sentence>
+</document>

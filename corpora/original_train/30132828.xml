@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="30132828">
+  <sentence id="30132828.s0" text="Previous reports have identified chemical synaptic transmission variants in patients with generalized epilepsies, such as myoclonic-atonic epilepsy and childhood absence epilepsy.">
+    <entity charOffset="33-63" id="30132828.s0.e0" ontology_id="GO_0007268" text="chemical synaptic transmission" type="GO"/>
+    <entity charOffset="139-147" id="30132828.s0.e1" ontology_id="HP_0001250" text="epilepsy" type="HP"/>
+    <pair e1="30132828.s0.e0" e2="30132828.s0.e1" id="30132828.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="30132828.s1" text="The purpose of this study was to determine the incidence of chemical synaptic transmission variants in 460 unselected epilepsy patients and to evaluate the impact of the identified variants on γ-aminobutyric acid (GABA)transport.">
+    <entity charOffset="60-90" id="30132828.s1.e0" ontology_id="GO_0007268" text="chemical synaptic transmission" type="GO"/>
+    <entity charOffset="118-126" id="30132828.s1.e1" ontology_id="HP_0001250" text="epilepsy" type="HP"/>
+    <pair e1="30132828.s1.e0" e2="30132828.s1.e1" id="30132828.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="30132828.s2" text="These findings demonstrate that chemical synaptic transmission is an important contributor to childhood epilepsy and that reduced GAT-1 function is a common consequence of epilepsy-causing SLC6A1 variants">
+    <entity charOffset="32-62" id="30132828.s2.e0" ontology_id="GO_0007268" text="chemical synaptic transmission" type="GO"/>
+    <entity charOffset="104-112" id="30132828.s2.e1" ontology_id="HP_0001250" text="epilepsy" type="HP"/>
+    <pair e1="30132828.s2.e0" e2="30132828.s2.e1" id="30132828.s2.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="24859618">
+  <sentence id="24859618.s0" text="In severe bilateral cases (anophthalmia or severe microphthalmia) the genetic cause is now identifiable in approximately 80 percent of cases, with de novo heterozygous loss-of-function mutations in SOX2 or axon guidance being the most common.">
+    <entity charOffset="27-39" id="24859618.s0.e0" ontology_id="HP_0000528" text="anophthalmia" type="HP"/>
+    <entity charOffset="50-64" id="24859618.s0.e1" ontology_id="HP_0000568" text="microphthalmia" type="HP"/>
+    <entity charOffset="206-219" id="24859618.s0.e2" ontology_id="GO_0007411" text="axon guidance" type="GO"/>
+    <pair e1="24859618.s0.e0" e2="24859618.s0.e2" id="24859618.s0.p0" relation="true"/>
+    <pair e1="24859618.s0.e1" e2="24859618.s0.e2" id="24859618.s0.p1" relation="true"/>
+  </sentence>
+</document>

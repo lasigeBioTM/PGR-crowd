@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="29370225">
+  <sentence id="29370225.s0" text="We conducted the largest association study of mitochondrial DNA variants and schizophrenia but did not cellular response to interleukin-4 an association that survived multiple testing correction.">
+    <entity charOffset="77-90" id="29370225.s0.e0" ontology_id="HP_0100753" text="schizophrenia" type="HP"/>
+    <entity charOffset="103-137" id="29370225.s0.e1" ontology_id="GO_0071353" text="cellular response to interleukin-4" type="GO"/>
+  </sentence>
+</document>

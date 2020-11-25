@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29054765">
+  <sentence id="29054765.s0" text="Mutations of the five genes (ARHGEF5, biological_process, ZNF595, ZNF812, MYO18B) may be potential germline mutations of lung cancer.">
+    <entity charOffset="38-56" id="29054765.s0.e0" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="126-132" id="29054765.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29054765.s0.e0" e2="29054765.s0.e1" id="29054765.s0.p0" relation="true"/>
+  </sentence>
+</document>

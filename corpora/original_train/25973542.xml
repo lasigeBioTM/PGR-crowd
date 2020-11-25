@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<document id="25973542">
+  <sentence id="25973542.s0" text="Here we identify a negative regulation of transcription, DNA-templated of genes that is highly expressed in breast cancer bone metastasis and activated by negative regulation of transcription by RNA polymerase II.">
+    <entity charOffset="19-70" id="25973542.s0.e0" ontology_id="GO_0045892" text="negative regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="115-121" id="25973542.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="155-212" id="25973542.s0.e2" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="25973542.s0.e0" e2="25973542.s0.e1" id="25973542.s0.p0" relation="false"/>
+    <pair e1="25973542.s0.e1" e2="25973542.s0.e2" id="25973542.s0.p1" relation="false"/>
+  </sentence>
+  <sentence id="25973542.s1" text="We here demonstrate that the expression of negative regulation of transcription by RNA polymerase II and BMP-inhibitors is correlated with bone metastasis, but not with brain or lung metastasis of breast cancer patients.">
+    <entity charOffset="43-100" id="25973542.s1.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="204-210" id="25973542.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="25973542.s1.e0" e2="25973542.s1.e1" id="25973542.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="25973542.s2" text="These findings suggest that ZEB1 is not only driving cytokine production, but also contributes to the formation of osteolytic bone metastases in breast cancer.">
+    <entity charOffset="53-72" id="25973542.s2.e0" ontology_id="GO_0001816" text="cytokine production" type="GO"/>
+    <entity charOffset="152-158" id="25973542.s2.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="25973542.s2.e0" e2="25973542.s2.e1" id="25973542.s2.p0" relation="true"/>
+  </sentence>
+</document>

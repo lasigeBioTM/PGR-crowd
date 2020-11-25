@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="26979803">
+  <sentence id="26979803.s0" text="To test whether these risk SNPs regulate their target genes through long-range chromatin interactions, we applied capture-based 3C sequencing technology to investigate possible interleukin-7-mediated signaling pathway-interactions at ten prostate cancer risk loci in six cell lines.">
+    <entity charOffset="177-217" id="26979803.s0.e0" ontology_id="GO_0038111" text="interleukin-7-mediated signaling pathway" type="GO"/>
+    <entity charOffset="247-253" id="26979803.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+  </sentence>
+</document>

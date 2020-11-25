@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="29322253">
+  <sentence id="29322253.s0" text="Our data, for the first time, functionally link Jalili syndrome gene metal ion homeostasis to LCA gene photoreceptor cell maintenance, providing important insights into the molecular pathogenic mechanism of retinal dystrophy in Jalili syndrome">
+    <entity charOffset="69-90" id="29322253.s0.e0" ontology_id="GO_0055065" text="metal ion homeostasis" type="GO"/>
+    <entity charOffset="103-133" id="29322253.s0.e1" ontology_id="GO_0045494" text="photoreceptor cell maintenance" type="GO"/>
+    <entity charOffset="207-224" id="29322253.s0.e2" ontology_id="HP_0000556" text="retinal dystrophy" type="HP"/>
+    <pair e1="29322253.s0.e0" e2="29322253.s0.e2" id="29322253.s0.p0" relation="true"/>
+    <pair e1="29322253.s0.e1" e2="29322253.s0.e2" id="29322253.s0.p1" relation="true"/>
+  </sentence>
+</document>

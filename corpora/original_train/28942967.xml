@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="28942967">
+  <sentence id="28942967.s0" text="Despite significant progress, the high genetic heterogeneity of these disorders often requires large sample sizes to identify a critical cell adhesion mediated by integrin of individuals with disease-causing mutations in a single gene.">
+    <entity charOffset="47-60" id="28942967.s0.e0" ontology_id="HP_0001425" text="heterogeneity" type="HP"/>
+    <entity charOffset="137-171" id="28942967.s0.e1" ontology_id="GO_0033627" text="cell adhesion mediated by integrin" type="GO"/>
+    <pair e1="28942967.s0.e0" e2="28942967.s0.e1" id="28942967.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="28942967.s1" text="By pooling genetic findings across multiple studies, we have identified six individuals with severe developmental delay (6/6), refractory seizures (5/6), and similar dysmorphic features (3/6), each harboring a de novo mutation in protein dephosphorylation.">
+    <entity charOffset="100-119" id="28942967.s1.e0" ontology_id="HP_0001263" text="developmental delay" type="HP"/>
+    <entity charOffset="230-255" id="28942967.s1.e1" ontology_id="GO_0006470" text="protein dephosphorylation" type="GO"/>
+    <pair e1="28942967.s1.e0" e2="28942967.s1.e1" id="28942967.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="28942967.s2" text="Based on these findings, we securely implicate protein dephosphorylation in early-onset refractory epilepsy and further support the emerging role for synaptic dysregulation in epilepsy">
+    <entity charOffset="47-72" id="28942967.s2.e0" ontology_id="GO_0006470" text="protein dephosphorylation" type="GO"/>
+    <entity charOffset="99-107" id="28942967.s2.e1" ontology_id="HP_0001250" text="epilepsy" type="HP"/>
+    <pair e1="28942967.s2.e0" e2="28942967.s2.e1" id="28942967.s2.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="25921236">
+  <sentence id="25921236.s0" text="A third proband was doubly heterozygous for inherited rare variants in additional components of complex I, mitochondrial respiratory chain complex I assembly and mitochondrial respiratory chain complex I assembly, confirming that Histiocytoid CM is genetically heterogeneous.">
+    <entity charOffset="107-157" id="25921236.s0.e0" ontology_id="GO_0032981" text="mitochondrial respiratory chain complex I assembly" type="GO"/>
+    <entity charOffset="162-212" id="25921236.s0.e1" ontology_id="GO_0032981" text="mitochondrial respiratory chain complex I assembly" type="GO"/>
+    <entity charOffset="261-274" id="25921236.s0.e2" ontology_id="HP_0001425" text="heterogeneous" type="HP"/>
+    <pair e1="25921236.s0.e0" e2="25921236.s0.e2" id="25921236.s0.p0" relation="false"/>
+    <pair e1="25921236.s0.e1" e2="25921236.s0.e2" id="25921236.s0.p1" relation="true"/>
+  </sentence>
+</document>

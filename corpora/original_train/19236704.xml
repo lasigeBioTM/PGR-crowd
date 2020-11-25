@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<document id="19236704">
+  <sentence id="19236704.s0" text="Corneal dystrophies may have a positive regulation of transcription by RNA polymerase II autosomal dominant, autosomal recessive or X-linked recessive Mendelian mode of inheritance.">
+    <entity charOffset="31-88" id="19236704.s0.e0" ontology_id="GO_0045944" text="positive regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="109-128" id="19236704.s0.e1" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="161-180" id="19236704.s0.e2" ontology_id="HP_0000005" text="mode of inheritance" type="HP"/>
+    <pair e1="19236704.s0.e0" e2="19236704.s0.e1" id="19236704.s0.p0" relation="false"/>
+    <pair e1="19236704.s0.e0" e2="19236704.s0.e2" id="19236704.s0.p1" relation="false"/>
+  </sentence>
+  <sentence id="19236704.s1" text="Different corneal dystrophies are caused by mutations in the N-acetylglucosamine metabolic process, intermediate filament cytoskeleton organization, KRT12, PIP5K3, sodium ion transport, negative regulation of epithelial cell migration, angiogenesis, and UBIAD1 genes.">
+    <entity charOffset="10-29" id="19236704.s1.e0" ontology_id="HP_0001131" text="corneal dystrophies" type="HP"/>
+    <entity charOffset="61-98" id="19236704.s1.e1" ontology_id="GO_0006044" text="N-acetylglucosamine metabolic process" type="GO"/>
+    <entity charOffset="100-147" id="19236704.s1.e2" ontology_id="GO_0045104" text="intermediate filament cytoskeleton organization" type="GO"/>
+    <entity charOffset="164-184" id="19236704.s1.e3" ontology_id="GO_0006814" text="sodium ion transport" type="GO"/>
+    <entity charOffset="186-234" id="19236704.s1.e4" ontology_id="GO_0010633" text="negative regulation of epithelial cell migration" type="GO"/>
+    <entity charOffset="236-248" id="19236704.s1.e5" ontology_id="GO_0001525" text="angiogenesis" type="GO"/>
+    <pair e1="19236704.s1.e0" e2="19236704.s1.e1" id="19236704.s1.p0" relation="true"/>
+    <pair e1="19236704.s1.e0" e2="19236704.s1.e2" id="19236704.s1.p1" relation="true"/>
+    <pair e1="19236704.s1.e0" e2="19236704.s1.e3" id="19236704.s1.p2" relation="true"/>
+    <pair e1="19236704.s1.e0" e2="19236704.s1.e4" id="19236704.s1.p3" relation="true"/>
+    <pair e1="19236704.s1.e0" e2="19236704.s1.e5" id="19236704.s1.p4" relation="true"/>
+  </sentence>
+</document>

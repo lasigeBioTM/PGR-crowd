@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29356994">
+  <sentence id="29356994.s0" text="Gorlin syndrome is a rare multisystem inherited disorder which can predispose to basal cell carcinomas (BCCs), childhood medulloblastomas in addition to various developmental abnormalities; the majority of cases are due to mutations in the positive regulation of cholesterol efflux gene.">
+    <entity charOffset="81-102" id="29356994.s0.e0" ontology_id="HP_0002671" text="basal cell carcinomas" type="HP"/>
+    <entity charOffset="240-281" id="29356994.s0.e1" ontology_id="GO_0010875" text="positive regulation of cholesterol efflux" type="GO"/>
+    <pair e1="29356994.s0.e0" e2="29356994.s0.e1" id="29356994.s0.p0" relation="true"/>
+  </sentence>
+</document>

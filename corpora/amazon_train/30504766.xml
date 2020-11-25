@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<document id="30504766">
+  <sentence id="30504766.s0" text="Palatable foods (positive regulation of cell-matrix adhesion and sweet) induce hyperphagia, and facilitate the development of obesity.">
+    <entity charOffset="17-60" id="30504766.s0.e0" ontology_id="GO_0001954" text="positive regulation of cell-matrix adhesion" type="GO"/>
+    <entity charOffset="79-90" id="30504766.s0.e1" ontology_id="HP_0002591" text="hyperphagia" type="HP"/>
+    <entity charOffset="126-133" id="30504766.s0.e2" ontology_id="HP_0001513" text="obesity" type="HP"/>
+    <pair e1="30504766.s0.e0" e2="30504766.s0.e1" id="30504766.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="30504766.s1" text="Here we show that adipocyte regulation of glycolytic process is essential for high fat diet-induced hyperphagia, but is dispensable for baseline food intake.">
+    <entity charOffset="28-60" id="30504766.s1.e0" ontology_id="GO_0006110" text="regulation of glycolytic process" type="GO"/>
+    <entity charOffset="100-111" id="30504766.s1.e1" ontology_id="HP_0002591" text="hyperphagia" type="HP"/>
+    <pair e1="30504766.s1.e0" e2="30504766.s1.e1" id="30504766.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="30504766.s2" text="Adipocyte regulation of glycolytic process stimulates hyperphagia by transcriptional activation of de novo lipid desaturation and accumulation of N-arachidonyl ethanolamine (AEA), an endogenous appetite-inducing cannabinoid (CB).">
+    <entity charOffset="10-42" id="30504766.s2.e0" ontology_id="GO_0006110" text="regulation of glycolytic process" type="GO"/>
+    <entity charOffset="54-65" id="30504766.s2.e1" ontology_id="HP_0002591" text="hyperphagia" type="HP"/>
+    <pair e1="30504766.s2.e0" e2="30504766.s2.e1" id="30504766.s2.p0" relation="true"/>
+  </sentence>
+  <sentence id="30504766.s3" text="These findings define adipocyte regulation of glycolytic process as a positive regulation of cell-matrix adhesion sensor that regulates peripheral lipid signals, and uncover an unexpected adipose-to-brain axis to induce hyperphagia and obesity">
+    <entity charOffset="32-64" id="30504766.s3.e0" ontology_id="GO_0006110" text="regulation of glycolytic process" type="GO"/>
+    <entity charOffset="70-113" id="30504766.s3.e1" ontology_id="GO_0001954" text="positive regulation of cell-matrix adhesion" type="GO"/>
+    <entity charOffset="220-231" id="30504766.s3.e2" ontology_id="HP_0002591" text="hyperphagia" type="HP"/>
+    <pair e1="30504766.s3.e0" e2="30504766.s3.e2" id="30504766.s3.p0" relation="true"/>
+    <pair e1="30504766.s3.e1" e2="30504766.s3.e2" id="30504766.s3.p1" relation="true"/>
+  </sentence>
+</document>

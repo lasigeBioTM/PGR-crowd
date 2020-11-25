@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="26420843">
+  <sentence id="26420843.s0" text="Vestibular sensory-evoked potentials demonstrate severe to profound vestibular deficits in Dfnb31(neo/neo) and Dfnb31(wi/wi) epidermis development.">
+    <entity charOffset="59-67" id="26420843.s0.e0" ontology_id="HP_0012829" text="profound" type="HP"/>
+    <entity charOffset="125-146" id="26420843.s0.e1" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <pair e1="26420843.s0.e0" e2="26420843.s0.e1" id="26420843.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="26420843.s1" text="Because Dfnb31(wi/wi) and Dfnb31(neo/neo) mice faithfully recapitulate hearing and vision symptoms in patients, our cellular response to interleukin-4ings of vestibular dysfunction in these Dfnb31 mutants raise the question of whether DFNB31-deficient patients may acquire vestibular as well as hearing and vision loss.">
+    <entity charOffset="116-150" id="26420843.s1.e0" ontology_id="GO_0071353" text="cellular response to interleukin-4" type="GO"/>
+    <entity charOffset="158-180" id="26420843.s1.e1" ontology_id="HP_0001751" text="vestibular dysfunction" type="HP"/>
+    <pair e1="26420843.s1.e0" e2="26420843.s1.e1" id="26420843.s1.p0" relation="false"/>
+  </sentence>
+</document>

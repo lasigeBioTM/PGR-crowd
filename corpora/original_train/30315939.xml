@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="30315939">
+  <sentence id="30315939.s0" text="Mutations in branching involved in blood vessel morphogenesis have been reported in schizencephaly and porencephaly combined with microbleeds or calcifications, often associated with ocular and renal abnormalities, myopathy, elevated creatine kinase levels and haemolytic anaemia.">
+    <entity charOffset="13-61" id="30315939.s0.e0" ontology_id="GO_0001569" text="branching involved in blood vessel morphogenesis" type="GO"/>
+    <entity charOffset="84-98" id="30315939.s0.e1" ontology_id="HP_0010636" text="schizencephaly" type="HP"/>
+    <entity charOffset="215-223" id="30315939.s0.e2" ontology_id="HP_0003198" text="myopathy" type="HP"/>
+    <pair e1="30315939.s0.e0" e2="30315939.s0.e1" id="30315939.s0.p0" relation="true"/>
+    <pair e1="30315939.s0.e0" e2="30315939.s0.e2" id="30315939.s0.p1" relation="false"/>
+  </sentence>
+  <sentence id="30315939.s1" text="In this study, we aimed to clarify the phenotypic spectrum of branching involved in blood vessel morphogenesis/A2 mutations in the context of cortical malformations that include schizencephaly, polymicrogyria and/or heterotopia">
+    <entity charOffset="62-110" id="30315939.s1.e0" ontology_id="GO_0001569" text="branching involved in blood vessel morphogenesis" type="GO"/>
+    <entity charOffset="194-208" id="30315939.s1.e1" ontology_id="HP_0002126" text="polymicrogyria" type="HP"/>
+    <pair e1="30315939.s1.e0" e2="30315939.s1.e1" id="30315939.s1.p0" relation="true"/>
+  </sentence>
+</document>

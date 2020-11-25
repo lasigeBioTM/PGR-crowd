@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="29564728">
+  <sentence id="29564728.s0" text="In subgroup analysis, compared with PD patients with initial symptom of tremor and mitochondrion organization, the positive regulation of glucose transmembrane transport allele frequency of ribosomal large subunit export from nucleus rs34016896 in PD patients with initial symptoms of rigidity/bradykinesia was significantly lower.">
+    <entity charOffset="83-109" id="29564728.s0.e0" ontology_id="GO_0007005" text="mitochondrion organization" type="GO"/>
+    <entity charOffset="115-169" id="29564728.s0.e1" ontology_id="GO_0010828" text="positive regulation of glucose transmembrane transport" type="GO"/>
+    <entity charOffset="190-233" id="29564728.s0.e2" ontology_id="GO_0000055" text="ribosomal large subunit export from nucleus" type="GO"/>
+    <entity charOffset="294-306" id="29564728.s0.e3" ontology_id="HP_0002067" text="bradykinesia" type="HP"/>
+    <pair e1="29564728.s0.e0" e2="29564728.s0.e3" id="29564728.s0.p0" relation="false"/>
+    <pair e1="29564728.s0.e1" e2="29564728.s0.e3" id="29564728.s0.p1" relation="false"/>
+    <pair e1="29564728.s0.e2" e2="29564728.s0.e3" id="29564728.s0.p2" relation="false"/>
+  </sentence>
+</document>

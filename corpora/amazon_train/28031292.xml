@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28031292">
+  <sentence id="28031292.s0" text="Mutations in the negative regulation of protein binding gene lead to inherited neuropathies such as Charcot-Marie-Tooth type-2, distal hereditary motor neuropathies, spinal muscular atrophy with parkinsonism and the later stages can resemble amyotrophic lateral sclerosis.">
+    <entity charOffset="17-55" id="28031292.s0.e0" ontology_id="GO_0032091" text="negative regulation of protein binding" type="GO"/>
+    <entity charOffset="195-207" id="28031292.s0.e1" ontology_id="HP_0001300" text="parkinsonism" type="HP"/>
+    <pair e1="28031292.s0.e0" e2="28031292.s0.e1" id="28031292.s0.p0" relation="true"/>
+  </sentence>
+</document>

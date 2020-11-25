@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27401718">
+  <sentence id="27401718.s0" text="These 294 differentially expressed genes and non-coding RNA transcripts provide here a negative regulation of transcription, DNA-templated to specifically define skull base chordomas and to identify novel and potentially important targets for diagnosis, prognosis, and therapy of this cancer.">
+    <entity charOffset="87-138" id="27401718.s0.e0" ontology_id="GO_0045892" text="negative regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="173-182" id="27401718.s0.e1" ontology_id="HP_0010762" text="chordomas" type="HP"/>
+    <pair e1="27401718.s0.e0" e2="27401718.s0.e1" id="27401718.s0.p0" relation="false"/>
+  </sentence>
+</document>

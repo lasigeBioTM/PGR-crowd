@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<document id="27834349">
+  <sentence id="27834349.s0" text="Eleven (79%) and five (36%) of fourteen keratinizing squamous cell carcinomas tested contained TP53 and G1/S transition of mitotic cell cycle mutations, respectively.">
+    <entity charOffset="53-77" id="27834349.s0.e0" ontology_id="HP_0002860" text="squamous cell carcinomas" type="HP"/>
+    <entity charOffset="104-141" id="27834349.s0.e1" ontology_id="GO_0000082" text="G1/S transition of mitotic cell cycle" type="GO"/>
+    <pair e1="27834349.s0.e0" e2="27834349.s0.e1" id="27834349.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="27834349.s1" text="The findings indicate that although phosphorylation mutations are found in &amp;lt;10% of vulvar squamous cell carcinomas, they may be specific for a particular pathway involving atypical verruciform lesions, which could function as either a direct precursor or a risk factor for vulvar squamous cell carcinoma.">
+    <entity charOffset="36-51" id="27834349.s1.e0" ontology_id="GO_0016310" text="phosphorylation" type="GO"/>
+    <entity charOffset="93-117" id="27834349.s1.e1" ontology_id="HP_0002860" text="squamous cell carcinomas" type="HP"/>
+    <entity charOffset="283-306" id="27834349.s1.e2" ontology_id="HP_0002860" text="squamous cell carcinoma" type="HP"/>
+    <pair e1="27834349.s1.e0" e2="27834349.s1.e1" id="27834349.s1.p0" relation="false"/>
+    <pair e1="27834349.s1.e0" e2="27834349.s1.e2" id="27834349.s1.p1" relation="false"/>
+  </sentence>
+  <sentence id="27834349.s2" text="Whether they function as direct precursors to a less common form of squamous cell carcinoma will require further study, but carcinomas associated with these lesions might warrant testing for phosphorylation mutations to address this question">
+    <entity charOffset="68-91" id="27834349.s2.e0" ontology_id="HP_0002860" text="squamous cell carcinoma" type="HP"/>
+    <entity charOffset="191-206" id="27834349.s2.e1" ontology_id="GO_0016310" text="phosphorylation" type="GO"/>
+    <pair e1="27834349.s2.e0" e2="27834349.s2.e1" id="27834349.s2.p0" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="23339187">
+  <sentence id="23339187.s0" text="Blocking the expression of regulation of transcription by RNA polymerase II, female gamete generation, and RDX significantly inhibits breast cancer cell migration induced by let-7b repression.">
+    <entity charOffset="27-75" id="23339187.s0.e0" ontology_id="GO_0006357" text="regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="77-101" id="23339187.s0.e1" ontology_id="GO_0007292" text="female gamete generation" type="GO"/>
+    <entity charOffset="141-147" id="23339187.s0.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="23339187.s0.e0" e2="23339187.s0.e2" id="23339187.s0.p0" relation="false"/>
+    <pair e1="23339187.s0.e1" e2="23339187.s0.e2" id="23339187.s0.p1" relation="false"/>
+  </sentence>
+</document>

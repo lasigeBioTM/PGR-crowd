@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="29153328">
+  <sentence id="29153328.s0" text="Here we cellular response to interleukin-4, launching from Drosophila models of amyotrophic lateral sclerosis and frontotemporal dementia, that RNA splicing impairs the induction of multiple key stress genes required to protect from disease by reducing the recruitment of the chromatin remodeler covalent chromatin modification to chromatin.">
+    <entity charOffset="8-42" id="29153328.s0.e0" ontology_id="GO_0071353" text="cellular response to interleukin-4" type="GO"/>
+    <entity charOffset="114-137" id="29153328.s0.e1" ontology_id="HP_0002145" text="frontotemporal dementia" type="HP"/>
+    <entity charOffset="144-156" id="29153328.s0.e2" ontology_id="GO_0008380" text="RNA splicing" type="GO"/>
+    <entity charOffset="296-327" id="29153328.s0.e3" ontology_id="GO_0016569" text="covalent chromatin modification" type="GO"/>
+    <pair e1="29153328.s0.e1" e2="29153328.s0.e3" id="29153328.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29153328.s1" text="Enhancing chromatin dynamics may be a treatment approach to amyotrophic lateral scleorosis (signal transduction)/frontotemporal dementia (FTD)">
+    <entity charOffset="92-111" id="29153328.s1.e0" ontology_id="GO_0007165" text="signal transduction" type="GO"/>
+    <entity charOffset="113-136" id="29153328.s1.e1" ontology_id="HP_0002145" text="frontotemporal dementia" type="HP"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30069007">
+  <sentence id="30069007.s0" text="Polo-like kinase 1 (G2/M transition of mitotic cell cycle) is overexpressed in a wide spectrum of human tumors, being frequently considered as an oncogene and an attractive cancer target.">
+    <entity charOffset="20-57" id="30069007.s0.e0" ontology_id="GO_0000086" text="G2/M transition of mitotic cell cycle" type="GO"/>
+    <entity charOffset="104-110" id="30069007.s0.e1" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <pair e1="30069007.s0.e0" e2="30069007.s0.e1" id="30069007.s0.p0" relation="true"/>
+  </sentence>
+</document>

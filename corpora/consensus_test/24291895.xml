@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="24291895">
+  <sentence id="24291895.s0" text="Congenital muscular dystrophy with mitochondrial structural abnormalities (negative regulation of epithelial cell proliferation #602541), or also called megaconial congenital muscular dystrophy, is characterized clinically by early-onset muscle wasting and severe mental retardation, and pathologically by peculiar enlarged mitochondria that are prevalent toward the periphery of the fibers but are sparse in the center on muscle biopsy.">
+    <entity charOffset="75-127" id="24291895.s0.e0" ontology_id="GO_0050680" text="negative regulation of epithelial cell proliferation" type="GO"/>
+    <entity charOffset="257-263" id="24291895.s0.e1" ontology_id="HP_0012828" text="severe" type="HP"/>
+    <pair e1="24291895.s0.e0" e2="24291895.s0.e1" id="24291895.s0.p0" relation="false"/>
+  </sentence>
+</document>

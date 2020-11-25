@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="28582508">
+  <sentence id="28582508.s0" text="The regulation of cell growth pathway was significantly associated with overall and estrogen receptor-negative (ER-) breast cancer risk (P = 0.003 and 0.03, respectively).">
+    <entity charOffset="4-29" id="28582508.s0.e0" ontology_id="GO_0001558" text="regulation of cell growth" type="GO"/>
+    <entity charOffset="124-130" id="28582508.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28582508.s0.e0" e2="28582508.s0.e1" id="28582508.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28582508.s1" text="cell cycle arrest (Padj = 0.0018) and RPS6KA3 (Padj = 0.061) were the leading genes for the associations with overall breast cancer risk and ER- breast cancer risk, respectively.">
+    <entity charOffset="0-17" id="28582508.s1.e0" ontology_id="GO_0007050" text="cell cycle arrest" type="GO"/>
+    <entity charOffset="125-131" id="28582508.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28582508.s1.e0" e2="28582508.s1.e1" id="28582508.s1.p0" relation="true"/>
+  </sentence>
+</document>

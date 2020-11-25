@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="29054568">
+  <sentence id="29054568.s0" text="A combination of familial and population based sequencing studies, and genome wide association studies (GWAS) have identified a range of genetic susceptibility alleles for EOC comprising rare but highly penetrant genes (e.g. double-strand break repair via homologous recombination, mitotic cytokinesis) that are responsible for familial clustering of ovarian cancer cases; more moderate penetrance susceptibility genes (e.g. mitochondrial translational elongation, RAD51C/D, DNA repair); and multiple common but low penetrance susceptibility alleles identified by GWAS.">
+    <entity charOffset="225-280" id="29054568.s0.e0" ontology_id="GO_0000724" text="double-strand break repair via homologous recombination" type="GO"/>
+    <entity charOffset="282-301" id="29054568.s0.e1" ontology_id="GO_0000281" text="mitotic cytokinesis" type="GO"/>
+    <entity charOffset="359-365" id="29054568.s0.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="425-463" id="29054568.s0.e3" ontology_id="GO_0070125" text="mitochondrial translational elongation" type="GO"/>
+    <entity charOffset="475-485" id="29054568.s0.e4" ontology_id="GO_0006281" text="DNA repair" type="GO"/>
+    <pair e1="29054568.s0.e0" e2="29054568.s0.e2" id="29054568.s0.p0" relation="true"/>
+    <pair e1="29054568.s0.e1" e2="29054568.s0.e2" id="29054568.s0.p1" relation="true"/>
+    <pair e1="29054568.s0.e2" e2="29054568.s0.e3" id="29054568.s0.p2" relation="true"/>
+    <pair e1="29054568.s0.e2" e2="29054568.s0.e4" id="29054568.s0.p3" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<document id="29625052">
+  <sentence id="29625052.s0" text="Twenty-one genes showed single or cross-cancer associations, including novel associations of succinate metabolic process in melanoma and double-strand break repair via homologous recombination in stomach adenocarcinoma.">
+    <entity charOffset="40-46" id="29625052.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="93-120" id="29625052.s0.e1" ontology_id="GO_0006105" text="succinate metabolic process" type="GO"/>
+    <entity charOffset="124-132" id="29625052.s0.e2" ontology_id="HP_0002861" text="melanoma" type="HP"/>
+    <entity charOffset="137-192" id="29625052.s0.e3" ontology_id="GO_0000724" text="double-strand break repair via homologous recombination" type="GO"/>
+    <pair e1="29625052.s0.e0" e2="29625052.s0.e1" id="29625052.s0.p0" relation="true"/>
+    <pair e1="29625052.s0.e0" e2="29625052.s0.e3" id="29625052.s0.p1" relation="true"/>
+    <pair e1="29625052.s0.e2" e2="29625052.s0.e3" id="29625052.s0.p2" relation="true"/>
+  </sentence>
+  <sentence id="29625052.s1" text="The 659 predisposition variants and 18 additional large deletions in tumor suppressors, including protein phosphorylation, double-strand break repair via homologous recombination, and NF1, showed low gene expression and frequent (43%) loss of heterozygosity or biallelic two-hit events.">
+    <entity charOffset="69-74" id="29625052.s1.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="98-121" id="29625052.s1.e1" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <entity charOffset="123-178" id="29625052.s1.e2" ontology_id="GO_0000724" text="double-strand break repair via homologous recombination" type="GO"/>
+    <pair e1="29625052.s1.e0" e2="29625052.s1.e1" id="29625052.s1.p0" relation="true"/>
+    <pair e1="29625052.s1.e0" e2="29625052.s1.e2" id="29625052.s1.p1" relation="true"/>
+  </sentence>
+</document>

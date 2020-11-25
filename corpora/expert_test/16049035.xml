@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="16049035">
+  <sentence id="16049035.s0" text="A genetically determined generalized hyperexcitability had been predicted in primarily generalized seizures, but surprisingly the first epilepsy gene discovered, response to hypoxia, was in a focal (frontal lobe)-onset syndrome.">
+    <entity charOffset="99-107" id="16049035.s0.e0" ontology_id="HP_0001250" text="seizures" type="HP"/>
+    <entity charOffset="162-181" id="16049035.s0.e1" ontology_id="GO_0001666" text="response to hypoxia" type="GO"/>
+    <pair e1="16049035.s0.e0" e2="16049035.s0.e1" id="16049035.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="16049035.s1" text="Mutations in the EFHC1 gene (unknown function) occur in other rare JME families, and yet in other families, associations are present between JME (or other generalized epilepsies) and single nucleotide polymorphisms in the regulation of transcription by RNA polymerase II gene (unknown function) and the malic enzyme 2 (ME2) gene.">
+    <entity charOffset="167-177" id="16049035.s1.e0" ontology_id="HP_0001250" text="epilepsies" type="HP"/>
+    <entity charOffset="222-270" id="16049035.s1.e1" ontology_id="GO_0006357" text="regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="16049035.s1.e0" e2="16049035.s1.e1" id="16049035.s1.p0" relation="true"/>
+  </sentence>
+</document>

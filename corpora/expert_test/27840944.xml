@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="27840944">
+  <sentence id="27840944.s0" text="As poor differentiation and low apoptosis are closely associated with poor survival rates and a poor response to radio/chemotherapy in patients with cancer, the prognostic value of negative regulation of transcription by RNA polymerase II expression was examined in the present study and its correlation with response to temozolomide (TMZ) chemotherapy was analyzed in patients with glioma.">
+    <entity charOffset="149-155" id="27840944.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="181-238" id="27840944.s0.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="27840944.s0.e0" e2="27840944.s0.e1" id="27840944.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="27840944.s1" text="High expression of negative regulation of transcription by RNA polymerase II, which was significantly associated with high pathological tumor grade and poor response to TMZ chemotherapy, was demonstrated to be an unfavorable independent prognostic factor and predicted poor survival in patients with newly diagnosed glioma.">
+    <entity charOffset="19-76" id="27840944.s1.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="316-322" id="27840944.s1.e1" ontology_id="HP_0009733" text="glioma" type="HP"/>
+    <pair e1="27840944.s1.e0" e2="27840944.s1.e1" id="27840944.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="27840944.s2" text="negative regulation of transcription by RNA polymerase II expression was analyzed by immunohistochemistry in 157 samples of newly diagnosed glioma and 63 recurrent glioblastoma cases that relapsed during TMZ chemotherapy.">
+    <entity charOffset="0-57" id="27840944.s2.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="164-176" id="27840944.s2.e1" ontology_id="HP_0012174" text="glioblastoma" type="HP"/>
+    <pair e1="27840944.s2.e0" e2="27840944.s2.e1" id="27840944.s2.p0" relation="true"/>
+  </sentence>
+</document>

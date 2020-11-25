@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<document id="30693543">
+  <sentence id="30693543.s0" text="Liver-specific knockout of murine regulation of cytokinesis impaired ATR activation and exacerbated inflammation, fibrosis and hepatocellular carcinoma, which exhibited a trabecular architecture, closely resembling human HCC.">
+    <entity charOffset="34-59" id="30693543.s0.e0" ontology_id="GO_0032465" text="regulation of cytokinesis" type="GO"/>
+    <entity charOffset="127-151" id="30693543.s0.e1" ontology_id="HP_0001402" text="hepatocellular carcinoma" type="HP"/>
+  </sentence>
+  <sentence id="30693543.s1" text="Conclusion: These findings establish a new BRUCE-ATR signaling axis in accurate DNA replication and suppression of liver cancer in epidermis development and humans and provides a clinically relevant HCC mouse model.">
+    <entity charOffset="121-127" id="30693543.s1.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="131-152" id="30693543.s1.e1" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+  </sentence>
+  <sentence id="30693543.s2" text="The in vivo impact of regulation of cytokinesis loss on liver tumorigenesis was determined using the hepatocellular carcinoma model induced by genotoxin Diethylnitrosamine.">
+    <entity charOffset="22-47" id="30693543.s2.e0" ontology_id="GO_0032465" text="regulation of cytokinesis" type="GO"/>
+    <entity charOffset="62-67" id="30693543.s2.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="30693543.s2.e0" e2="30693543.s2.e1" id="30693543.s2.p0" relation="false"/>
+  </sentence>
+  <sentence id="30693543.s3" text="While many downstream effectors of ATR have been established, the upstream regulators of ATR and the negative regulation of transcription by RNA polymerase II of such regulation on liver cancer remain unclear.">
+    <entity charOffset="101-158" id="30693543.s3.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="187-193" id="30693543.s3.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+  </sentence>
+</document>

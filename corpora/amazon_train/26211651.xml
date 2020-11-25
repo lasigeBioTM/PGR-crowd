@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="26211651">
+  <sentence id="26211651.s0" text="In addition, polymorphisms in apoptosis-related genes such as RNF7, positive regulation of phagocytosis, and positive regulation of phagocytosis are associated with fibrosis progression, and negative regulation of TOR signaling and MICA variants are associated with HCV-related hepatocellular carcinoma.">
+    <entity charOffset="68-103" id="26211651.s0.e0" ontology_id="GO_0050766" text="positive regulation of phagocytosis" type="GO"/>
+    <entity charOffset="109-144" id="26211651.s0.e1" ontology_id="GO_0050766" text="positive regulation of phagocytosis" type="GO"/>
+    <entity charOffset="191-227" id="26211651.s0.e2" ontology_id="GO_0032007" text="negative regulation of TOR signaling" type="GO"/>
+    <entity charOffset="278-302" id="26211651.s0.e3" ontology_id="HP_0001402" text="hepatocellular carcinoma" type="HP"/>
+    <pair e1="26211651.s0.e0" e2="26211651.s0.e3" id="26211651.s0.p0" relation="false"/>
+    <pair e1="26211651.s0.e1" e2="26211651.s0.e3" id="26211651.s0.p1" relation="false"/>
+    <pair e1="26211651.s0.e2" e2="26211651.s0.e3" id="26211651.s0.p2" relation="true"/>
+  </sentence>
+</document>

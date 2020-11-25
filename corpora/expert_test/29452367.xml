@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29452367">
+  <sentence id="29452367.s0" text="Here we report a patient with a congenital syndrome consisting of severe global developmental delay, microcephaly, heart defects, failure to thrive and liver disease with a previously unreported homozygous NM_015352.1: c.485C&amp;gt;T variant (p.Ser162Leu) in protein O-linked glycosylation detected by exome sequencing.">
+    <entity charOffset="130-147" id="29452367.s0.e0" ontology_id="HP_0001508" text="failure to thrive" type="HP"/>
+    <entity charOffset="256-286" id="29452367.s0.e1" ontology_id="GO_0006493" text="protein O-linked glycosylation" type="GO"/>
+    <pair e1="29452367.s0.e0" e2="29452367.s0.e1" id="29452367.s0.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27270415">
+  <sentence id="27270415.s0" text="Mice with a neuronal deletion of regulation of intracellular cholesterol transport recapitulated the human phenotype, exhibiting seizures and a severe survival defect in adulthood.">
+    <entity charOffset="33-82" id="27270415.s0.e0" ontology_id="GO_0032383" text="regulation of intracellular cholesterol transport" type="GO"/>
+    <entity charOffset="129-136" id="27270415.s0.e1" ontology_id="HP_0001250" text="seizure" type="HP"/>
+    <pair e1="27270415.s0.e0" e2="27270415.s0.e1" id="27270415.s0.p0" relation="true"/>
+  </sentence>
+</document>

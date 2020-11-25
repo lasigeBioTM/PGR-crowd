@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<document id="28869607">
+  <sentence id="28869607.s0" text="More importantly, overexpression of mitochondrial translational elongation-L could increase tumorigenic potential of regulation of low-density lipoprotein particle clearance-depleted cancer cells, likely indicating that hnRNPK mediates tumorigenesis through splicing regulation of MRPL33 pre-mRNA.">
+    <entity charOffset="36-74" id="28869607.s0.e0" ontology_id="GO_0070125" text="mitochondrial translational elongation" type="GO"/>
+    <entity charOffset="92-97" id="28869607.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="117-173" id="28869607.s0.e2" ontology_id="GO_0010988" text="regulation of low-density lipoprotein particle clearance" type="GO"/>
+    <entity charOffset="183-189" id="28869607.s0.e3" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28869607.s0.e0" e2="28869607.s0.e3" id="28869607.s0.p0" relation="false"/>
+    <pair e1="28869607.s0.e1" e2="28869607.s0.e2" id="28869607.s0.p1" relation="false"/>
+    <pair e1="28869607.s0.e2" e2="28869607.s0.e3" id="28869607.s0.p2" relation="false"/>
+  </sentence>
+  <sentence id="28869607.s1" text="Finally, we found that inclusion of mitochondrial translational elongation exon 3 was promoted in human colorectal cancer tissues and this was correlated with regulation of low-density lipoprotein particle clearance levels.">
+    <entity charOffset="36-74" id="28869607.s1.e0" ontology_id="GO_0070125" text="mitochondrial translational elongation" type="GO"/>
+    <entity charOffset="115-121" id="28869607.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="159-215" id="28869607.s1.e2" ontology_id="GO_0010988" text="regulation of low-density lipoprotein particle clearance" type="GO"/>
+    <pair e1="28869607.s1.e0" e2="28869607.s1.e1" id="28869607.s1.p0" relation="false"/>
+    <pair e1="28869607.s1.e1" e2="28869607.s1.e2" id="28869607.s1.p1" relation="false"/>
+  </sentence>
+  <sentence id="28869607.s2" text="In summary, our findings underscore the biological significance of mitochondrial translational elongation-L and regulation of low-density lipoprotein particle clearance in the tumor formation and identifies hnRNPK as a critical splicing regulator of MRPL33 pre-mRNA in cancer cells">
+    <entity charOffset="67-105" id="28869607.s2.e0" ontology_id="GO_0070125" text="mitochondrial translational elongation" type="GO"/>
+    <entity charOffset="112-168" id="28869607.s2.e1" ontology_id="GO_0010988" text="regulation of low-density lipoprotein particle clearance" type="GO"/>
+    <entity charOffset="176-181" id="28869607.s2.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="269-275" id="28869607.s2.e3" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28869607.s2.e0" e2="28869607.s2.e2" id="28869607.s2.p0" relation="false"/>
+    <pair e1="28869607.s2.e1" e2="28869607.s2.e3" id="28869607.s2.p1" relation="false"/>
+    <pair e1="28869607.s2.e1" e2="28869607.s2.e2" id="28869607.s2.p2" relation="false"/>
+  </sentence>
+</document>

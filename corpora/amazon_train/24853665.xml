@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="24853665">
+  <sentence id="24853665.s0" text="Several recent studies applied targeted genome enrichment (peptide cross-linking) and massively parallel sequencing (MPS) to simultaneously screen a large negative regulation of transcription, DNA-templated of known hearing loss (HL) genes.">
+    <entity charOffset="59-80" id="24853665.s0.e0" ontology_id="GO_0018149" text="peptide cross-linking" type="GO"/>
+    <entity charOffset="155-206" id="24853665.s0.e1" ontology_id="GO_0045892" text="negative regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="216-228" id="24853665.s0.e2" ontology_id="HP_0000365" text="hearing loss" type="HP"/>
+  </sentence>
+  <sentence id="24853665.s1" text="To evaluate the effectiveness of TGE and MPS on screening sporadic NSHL patients, we recruited 63 unrelated sporadic NSHL probands, who had various levels of HL and were excluded for mutations in gap junction-mediated intercellular transport, MT-RNR1, and regulation of pH genes.">
+    <entity charOffset="58-66" id="24853665.s1.e0" ontology_id="HP_0003745" text="sporadic" type="HP"/>
+    <entity charOffset="196-241" id="24853665.s1.e1" ontology_id="GO_1990349" text="gap junction-mediated intercellular transport" type="GO"/>
+    <entity charOffset="256-272" id="24853665.s1.e2" ontology_id="GO_0006885" text="regulation of pH" type="GO"/>
+    <pair e1="24853665.s1.e0" e2="24853665.s1.e1" id="24853665.s1.p0" relation="false"/>
+    <pair e1="24853665.s1.e0" e2="24853665.s1.e2" id="24853665.s1.p1" relation="true"/>
+  </sentence>
+</document>

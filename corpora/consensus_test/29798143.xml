@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="29798143">
+  <sentence id="29798143.s0" text="The correlations between the expressions of CTHRC1 with clinicopathologic features,E-integrin-mediated signaling pathway and Vimentin expression were analyzed.&lt;b&gt;Result:&lt;/b&gt;CTHRC1 protein expression levels in papillary thyroid carcinoma tissue were significantly higher than those in adjacent normal thyroid tissue and benign disease(&lt;i&gt;P&lt;/i&gt;&amp;lt;0.01);CTHRC1 expression was significantly correlated with lymph node metastases(&lt;i&gt;P&lt;/i&gt;&amp;lt;0.05).">
+    <entity charOffset="85-120" id="29798143.s0.e0" ontology_id="GO_0007229" text="integrin-mediated signaling pathway" type="GO"/>
+    <entity charOffset="209-236" id="29798143.s0.e1" ontology_id="HP_0002895" text="papillary thyroid carcinoma" type="HP"/>
+    <pair e1="29798143.s0.e0" e2="29798143.s0.e1" id="29798143.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29798143.s1" text="&lt;b&gt;Objective:&lt;/b&gt;To investigate the expression and significance of cell migration in patients with papillary thyroid cancinoma.&lt;b&gt;Method:&lt;/b&gt;We collected 63 specimens of papillary thyroid carcinoma tissue with 36 specimens of the adjacent normal thyroid tissue and 23 specimens of thyroid nodular goiter.">
+    <entity charOffset="67-81" id="29798143.s1.e0" ontology_id="GO_0016477" text="cell migration" type="GO"/>
+    <entity charOffset="170-197" id="29798143.s1.e1" ontology_id="HP_0002895" text="papillary thyroid carcinoma" type="HP"/>
+    <pair e1="29798143.s1.e0" e2="29798143.s1.e1" id="29798143.s1.p0" relation="false"/>
+  </sentence>
+</document>

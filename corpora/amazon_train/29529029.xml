@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<document id="29529029">
+  <sentence id="29529029.s0" text="Uncorrected refrcoenzyme A biosynthetic processive errors constitute the most common cause of vision loss and second leading cause of blindness worldwide.">
+    <entity charOffset="16-47" id="29529029.s0.e0" ontology_id="GO_0015937" text="coenzyme A biosynthetic process" type="GO"/>
+    <entity charOffset="134-143" id="29529029.s0.e1" ontology_id="HP_0000618" text="blindness" type="HP"/>
+  </sentence>
+  <sentence id="29529029.s1" text="We have previously identified a role for the secreted serine protease camera-type eye development in ocular size determination and PRSS56 variants have been implicated in the etiology of both hyperopia and myopia, highlighting its importance in refrcoenzyme A biosynthetic processive development.">
+    <entity charOffset="70-97" id="29529029.s1.e0" ontology_id="GO_0043010" text="camera-type eye development" type="GO"/>
+    <entity charOffset="192-201" id="29529029.s1.e1" ontology_id="HP_0000540" text="hyperopia" type="HP"/>
+    <entity charOffset="206-212" id="29529029.s1.e2" ontology_id="HP_0000545" text="myopia" type="HP"/>
+    <entity charOffset="249-280" id="29529029.s1.e3" ontology_id="GO_0015937" text="coenzyme A biosynthetic process" type="GO"/>
+    <pair e1="29529029.s1.e0" e2="29529029.s1.e1" id="29529029.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="29529029.s2" text="Here, we use a combination of genetic mouse models to demonstrate that camera-type eye development mutations leading to reduced ocular size and hyperopia coenzyme A biosynthetic process via a loss of function mechanism.">
+    <entity charOffset="71-98" id="29529029.s2.e0" ontology_id="GO_0043010" text="camera-type eye development" type="GO"/>
+    <entity charOffset="144-153" id="29529029.s2.e1" ontology_id="HP_0000540" text="hyperopia" type="HP"/>
+    <entity charOffset="154-185" id="29529029.s2.e2" ontology_id="GO_0015937" text="coenzyme A biosynthetic process" type="GO"/>
+    <pair e1="29529029.s2.e0" e2="29529029.s2.e1" id="29529029.s2.p0" relation="true"/>
+  </sentence>
+  <sentence id="29529029.s3" text="Overall, our findings identify camera-type eye development as a potential therapeutic target for modulating ocular growth aimed at preventing or slowing down myopia, which is reaching epidemic proportions">
+    <entity charOffset="31-58" id="29529029.s3.e0" ontology_id="GO_0043010" text="camera-type eye development" type="GO"/>
+    <entity charOffset="158-164" id="29529029.s3.e1" ontology_id="HP_0000545" text="myopia" type="HP"/>
+    <pair e1="29529029.s3.e0" e2="29529029.s3.e1" id="29529029.s3.p0" relation="true"/>
+  </sentence>
+</document>

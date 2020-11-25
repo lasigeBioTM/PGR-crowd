@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="30504334">
+  <sentence id="30504334.s0" text="Paroxysmal nocturnal hemoglobinuria (PNH) is a clonal hematopoietic disease caused by expansion of a stem cell that harbors a somatic mutation in &lt;i&gt;GPI anchor biosynthetic process&lt;/i&gt; PIGA mutant blood cells are deficient in the complement regulator proteins CD55 and CD59, making them susceptible to intravascular hemolysis due to a failure to regulate the cellular response to DNA damage stimulus on erythrocytes.">
+    <entity charOffset="126-142" id="30504334.s0.e0" ontology_id="HP_0001428" text="somatic mutation" type="HP"/>
+    <entity charOffset="149-180" id="30504334.s0.e1" ontology_id="GO_0006506" text="GPI anchor biosynthetic process" type="GO"/>
+    <entity charOffset="359-399" id="30504334.s0.e2" ontology_id="GO_0006974" text="cellular response to DNA damage stimulus" type="GO"/>
+    <pair e1="30504334.s0.e0" e2="30504334.s0.e2" id="30504334.s0.p0" relation="true"/>
+    <pair e1="30504334.s0.e0" e2="30504334.s0.e1" id="30504334.s0.p1" relation="true"/>
+  </sentence>
+</document>

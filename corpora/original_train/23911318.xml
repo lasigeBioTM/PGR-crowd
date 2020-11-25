@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="23911318">
+  <sentence id="23911318.s0" text="These data suggest cyclic purine nucleotide metabolic process-related PCH as a potentially treatable early-onset neurodegenerative disease.">
+    <entity charOffset="19-61" id="23911318.s0.e0" ontology_id="GO_0052652" text="cyclic purine nucleotide metabolic process" type="GO"/>
+    <entity charOffset="113-138" id="23911318.s0.e1" ontology_id="HP_0002180" text="neurodegenerative disease" type="HP"/>
+    <pair e1="23911318.s0.e0" e2="23911318.s0.e1" id="23911318.s0.p0" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<document id="12642876">
+  <sentence id="12642876.s0" text="Liver cancer is very common worldwide and the rates of hepatocellular carcinoma (phosphatidylinositol phosphorylation) have increased by over 70% in the last 2 decades in the US.">
+    <entity charOffset="6-12" id="12642876.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="81-117" id="12642876.s0.e1" ontology_id="GO_0046854" text="phosphatidylinositol phosphorylation" type="GO"/>
+    <pair e1="12642876.s0.e0" e2="12642876.s0.e1" id="12642876.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="12642876.s1" text="We present the cloning and characterization of a novel gene, microvillus organization (Cancer related gene-Liver 2), which displays high expression in murine and human hepatocellular carcinomas.">
+    <entity charOffset="61-85" id="12642876.s1.e0" ontology_id="GO_0032528" text="microvillus organization" type="GO"/>
+    <entity charOffset="168-192" id="12642876.s1.e1" ontology_id="HP_0001402" text="hepatocellular carcinoma" type="HP"/>
+    <pair e1="12642876.s1.e0" e2="12642876.s1.e1" id="12642876.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="12642876.s2" text="Using in situ hybridization, we show that microvillus organization mRNA levels are increased early during the development of liver tumors in C3H/HeJ epidermis development, and that in normal tissues CRG-L2 mRNA is restricted to the murine testis and human placenta.">
+    <entity charOffset="42-66" id="12642876.s2.e0" ontology_id="GO_0032528" text="microvillus organization" type="GO"/>
+    <entity charOffset="131-137" id="12642876.s2.e1" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <entity charOffset="149-170" id="12642876.s2.e2" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <pair e1="12642876.s2.e0" e2="12642876.s2.e1" id="12642876.s2.p0" relation="false"/>
+    <pair e1="12642876.s2.e1" e2="12642876.s2.e2" id="12642876.s2.p1" relation="false"/>
+  </sentence>
+</document>

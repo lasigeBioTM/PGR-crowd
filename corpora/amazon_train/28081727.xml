@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<document id="28081727">
+  <sentence id="28081727.s0" text="MicroRNA-200a (protein polyubiquitination-200a) is frequently downregulated in most cancer types and plays an important role in carcinogenesis and cancer progression.">
+    <entity charOffset="15-41" id="28081727.s0.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="84-90" id="28081727.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28081727.s0.e0" e2="28081727.s0.e1" id="28081727.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28081727.s1" text="In this study, we determined that protein polyubiquitination-200a was downregulated in hepatocellular carcinoma (phosphatidylinositol phosphorylation) tissues and cell lines, consistent with the results of our previous study.">
+    <entity charOffset="34-60" id="28081727.s1.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="87-111" id="28081727.s1.e1" ontology_id="HP_0001402" text="hepatocellular carcinoma" type="HP"/>
+    <entity charOffset="113-149" id="28081727.s1.e2" ontology_id="GO_0046854" text="phosphatidylinositol phosphorylation" type="GO"/>
+    <pair e1="28081727.s1.e0" e2="28081727.s1.e1" id="28081727.s1.p0" relation="true"/>
+    <pair e1="28081727.s1.e1" e2="28081727.s1.e2" id="28081727.s1.p1" relation="true"/>
+  </sentence>
+  <sentence id="28081727.s2" text="Taken together, these data provide novel information for comprehending the tumor-suppressive role of protein polyubiquitination-200a in phosphatidylinositol phosphorylation pathogenesis through inhibition of GAB1 translation">
+    <entity charOffset="75-80" id="28081727.s2.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="101-127" id="28081727.s2.e1" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="136-172" id="28081727.s2.e2" ontology_id="GO_0046854" text="phosphatidylinositol phosphorylation" type="GO"/>
+    <pair e1="28081727.s2.e0" e2="28081727.s2.e1" id="28081727.s2.p0" relation="true"/>
+    <pair e1="28081727.s2.e0" e2="28081727.s2.e2" id="28081727.s2.p1" relation="true"/>
+  </sentence>
+</document>

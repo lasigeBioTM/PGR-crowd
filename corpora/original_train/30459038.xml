@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="30459038">
+  <sentence id="30459038.s0" text="Amyotrophic lateral sclerosis (signal transduction) is the major adult-onset motor neuron disease, and is clinisister chromatid cohesiony, pathologically, and genetically associated with frontotemporal dementia, the second cause of dementia in the elderly.">
+    <entity charOffset="31-50" id="30459038.s0.e0" ontology_id="GO_0007165" text="signal transduction" type="GO"/>
+    <entity charOffset="111-136" id="30459038.s0.e1" ontology_id="GO_0007062" text="sister chromatid cohesion" type="GO"/>
+    <entity charOffset="187-210" id="30459038.s0.e2" ontology_id="HP_0002145" text="frontotemporal dementia" type="HP"/>
+    <pair e1="30459038.s0.e0" e2="30459038.s0.e2" id="30459038.s0.p0" relation="false"/>
+    <pair e1="30459038.s0.e1" e2="30459038.s0.e2" id="30459038.s0.p1" relation="false"/>
+  </sentence>
+</document>

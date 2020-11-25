@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="29283210">
+  <sentence id="29283210.s0" text="positive regulation of cell proliferation deficiency is a syndromic condition of X-linked intellectual disability (ID) characterized by typical dysmorphic features that include synophrys, prominent supraorbital ridges, almond-shaped, and deep-set eyes, large ears, wide mouth, myxedematous appearance, hirsutism, micropenis, and onychodystrophy.">
+    <entity charOffset="0-41" id="29283210.s0.e0" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <entity charOffset="90-113" id="29283210.s0.e1" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <entity charOffset="188-217" id="29283210.s0.e2" ontology_id="HP_0000336" text="prominent supraorbital ridges" type="HP"/>
+    <entity charOffset="265-275" id="29283210.s0.e3" ontology_id="HP_0000154" text="wide mouth" type="HP"/>
+    <entity charOffset="313-323" id="29283210.s0.e4" ontology_id="HP_0000054" text="micropenis" type="HP"/>
+    <pair e1="29283210.s0.e0" e2="29283210.s0.e1" id="29283210.s0.p0" relation="true"/>
+    <pair e1="29283210.s0.e0" e2="29283210.s0.e2" id="29283210.s0.p1" relation="true"/>
+    <pair e1="29283210.s0.e0" e2="29283210.s0.e3" id="29283210.s0.p2" relation="true"/>
+    <pair e1="29283210.s0.e0" e2="29283210.s0.e4" id="29283210.s0.p3" relation="true"/>
+  </sentence>
+</document>

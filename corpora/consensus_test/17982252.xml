@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="17982252">
+  <sentence id="17982252.s0" text="The glutamatergic hypothesis of schizophrenia lead recently to a first successful mGlu2/3 receptor agonistic drug and is underpinned by significant findings in genes regulating the glutamatergic system (SLC1A6, SLC1A2 GRIN1, GRIN2A, GRIA1, ventricular trabecula myocardium morphogenesis, signal transduction, DTNBP1, DAAO, G72/30, GRM3).">
+    <entity charOffset="32-45" id="17982252.s0.e0" ontology_id="HP_0100753" text="schizophrenia" type="HP"/>
+    <entity charOffset="240-286" id="17982252.s0.e1" ontology_id="GO_0003222" text="ventricular trabecula myocardium morphogenesis" type="GO"/>
+    <entity charOffset="288-307" id="17982252.s0.e2" ontology_id="GO_0007165" text="signal transduction" type="GO"/>
+    <pair e1="17982252.s0.e0" e2="17982252.s0.e2" id="17982252.s0.p0" relation="false"/>
+    <pair e1="17982252.s0.e0" e2="17982252.s0.e1" id="17982252.s0.p1" relation="false"/>
+  </sentence>
+</document>

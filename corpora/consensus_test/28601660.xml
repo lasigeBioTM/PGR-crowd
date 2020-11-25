@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="28601660">
+  <sentence id="28601660.s0" text="Further analysis revealed a reduced nucleosome disassembly expression and a complete loss of negative regulation of cell proliferation expression in tumor cells.">
+    <entity charOffset="36-58" id="28601660.s0.e0" ontology_id="GO_0006337" text="nucleosome disassembly" type="GO"/>
+    <entity charOffset="93-134" id="28601660.s0.e1" ontology_id="GO_0008285" text="negative regulation of cell proliferation" type="GO"/>
+    <entity charOffset="149-154" id="28601660.s0.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28601660.s0.e0" e2="28601660.s0.e2" id="28601660.s0.p0" relation="true"/>
+    <pair e1="28601660.s0.e1" e2="28601660.s0.e2" id="28601660.s0.p1" relation="true"/>
+  </sentence>
+</document>

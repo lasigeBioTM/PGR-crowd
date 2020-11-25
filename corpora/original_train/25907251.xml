@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="25907251">
+  <sentence id="25907251.s0" text="Based on the elastic negative regulation of transcription, DNA-templated, 33 genes out of 1381 genes related to bladder cancer were selected.">
+    <entity charOffset="21-72" id="25907251.s0.e0" ontology_id="GO_0045892" text="negative regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="120-126" id="25907251.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="25907251.s0.e0" e2="25907251.s0.e1" id="25907251.s0.p0" relation="false"/>
+  </sentence>
+</document>

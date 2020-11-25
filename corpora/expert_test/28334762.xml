@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28334762">
+  <sentence id="28334762.s0" text="Finally, we show evidence that abnormal protein homeostasis is a prevalent mechanism responsible for uroporphyrinogen III biosynthetic process deficiency and that modulators of UROS proteolysis such as proteasome inhibitors or chemical chaperones may represent an attractive therapeutic option to reduce porphyrin accumulation and prevent skin photosensitivity in CEP patients when the genotype includes a missense variant">
+    <entity charOffset="101-142" id="28334762.s0.e0" ontology_id="GO_0006780" text="uroporphyrinogen III biosynthetic process" type="GO"/>
+    <entity charOffset="339-360" id="28334762.s0.e1" ontology_id="HP_0000992" text="skin photosensitivity" type="HP"/>
+    <pair e1="28334762.s0.e0" e2="28334762.s0.e1" id="28334762.s0.p0" relation="false"/>
+  </sentence>
+</document>

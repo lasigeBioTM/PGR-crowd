@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<document id="28262687">
+  <sentence id="28262687.s0" text="regulation of transcription, DNA-templated (Immunoglobulin Superfamily 1) gene defects cause central hypothyroidism and macroorchidism.">
+    <entity charOffset="0-42" id="28262687.s0.e0" ontology_id="GO_0006355" text="regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="120-134" id="28262687.s0.e1" ontology_id="HP_0000053" text="macroorchidism" type="HP"/>
+    <pair e1="28262687.s0.e0" e2="28262687.s0.e1" id="28262687.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28262687.s1" text="Based on a patient with a full deletion of regulation of transcription, DNA-templated clinically followed from neonate to adulthood, we investigated a common pituitary origin for hypothyroidism and macroorchidism, and the role of IGSF1 as regulator of pituitary hormone secretion.">
+    <entity charOffset="43-85" id="28262687.s1.e0" ontology_id="GO_0006355" text="regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="179-193" id="28262687.s1.e1" ontology_id="HP_0000821" text="hypothyroidism" type="HP"/>
+    <entity charOffset="198-212" id="28262687.s1.e2" ontology_id="HP_0000053" text="macroorchidism" type="HP"/>
+    <pair e1="28262687.s1.e0" e2="28262687.s1.e1" id="28262687.s1.p0" relation="true"/>
+    <pair e1="28262687.s1.e0" e2="28262687.s1.e2" id="28262687.s1.p1" relation="true"/>
+  </sentence>
+  <sentence id="28262687.s2" text="In conclusion, two relevant molecular mechanisms linked to central hypothyroidism and macroorchidism in regulation of transcription, DNA-templated deficiency are identified, revealing IGSF1 as an important regulator of TGFβ/Activin pathways in the pituitary">
+    <entity charOffset="59-66" id="28262687.s2.e0" ontology_id="HP_0030645" text="central" type="HP"/>
+    <entity charOffset="67-81" id="28262687.s2.e1" ontology_id="HP_0000821" text="hypothyroidism" type="HP"/>
+    <entity charOffset="104-146" id="28262687.s2.e2" ontology_id="GO_0006355" text="regulation of transcription, DNA-templated" type="GO"/>
+    <pair e1="28262687.s2.e0" e2="28262687.s2.e2" id="28262687.s2.p0" relation="true"/>
+    <pair e1="28262687.s2.e1" e2="28262687.s2.e2" id="28262687.s2.p1" relation="true"/>
+  </sentence>
+</document>

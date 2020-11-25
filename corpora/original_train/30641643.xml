@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="30641643">
+  <sentence id="30641643.s0" text="Immunohistochemically, tumor cells of all cases were positive for vimentin (100.0%, 60/60), STAT6 (98.3%, 59/60), CD34 (61.7%, 37/60), and the tumor cells were typically positive for CD99, bcl-2, fatty acid beta-oxidation using acyl-CoA dehydrogenase and G protein-coupled receptor signaling pathway as well.Negative for S-100 protein, SOX10, E-cadherin, GFAP.">
+    <entity charOffset="23-28" id="30641643.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="196-250" id="30641643.s0.e1" ontology_id="GO_0033539" text="fatty acid beta-oxidation using acyl-CoA dehydrogenase" type="GO"/>
+    <entity charOffset="255-299" id="30641643.s0.e2" ontology_id="GO_0007186" text="G protein-coupled receptor signaling pathway" type="GO"/>
+    <pair e1="30641643.s0.e0" e2="30641643.s0.e1" id="30641643.s0.p0" relation="false"/>
+    <pair e1="30641643.s0.e0" e2="30641643.s0.e2" id="30641643.s0.p1" relation="false"/>
+  </sentence>
+</document>

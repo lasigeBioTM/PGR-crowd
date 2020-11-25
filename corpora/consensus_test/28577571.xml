@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="28577571">
+  <sentence id="28577571.s0" text="Here in, we review the recent evidence of association of the genetic variants with hypercholesterolemia and the three lipid negative regulation of transcription by RNA polymerase II; total cholesterol (TC), HDL-cholesterol (HDL-C) and LDL-cholesterol (LDL-C), their biological pathways and the associated pathogenetic mechanisms.">
+    <entity charOffset="83-103" id="28577571.s0.e0" ontology_id="HP_0003124" text="hypercholesterolemia" type="HP"/>
+    <entity charOffset="124-181" id="28577571.s0.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+  </sentence>
+</document>

@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<document id="26835907">
+  <sentence id="26835907.s0" text="L-cysteine catabolic process to hypotaurine refers to an intractable diarrhea of intrauterine onset with high fecal sodium loss.">
+    <entity charOffset="0-43" id="26835907.s0.e0" ontology_id="GO_0019449" text="L-cysteine catabolic process to hypotaurine" type="GO"/>
+    <entity charOffset="81-99" id="26835907.s0.e1" ontology_id="HP_0003577" text="intrauterine onset" type="HP"/>
+  </sentence>
+  <sentence id="26835907.s1" text="A syndromic form of L-cysteine catabolic process to hypotaurine features choanal and intestinal atresias as well as recurrent corneal erosions.">
+    <entity charOffset="20-63" id="26835907.s1.e0" ontology_id="GO_0019449" text="L-cysteine catabolic process to hypotaurine" type="GO"/>
+    <entity charOffset="85-104" id="26835907.s1.e1" ontology_id="HP_0011100" text="intestinal atresias" type="HP"/>
+  </sentence>
+</document>

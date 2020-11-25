@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30665488">
+  <sentence id="30665488.s0" text="The tumor was afterwards identified as a dMMR melanoma for an exclusive loss of DNA repair expression on IHC (Figure 1).">
+    <entity charOffset="4-9" id="30665488.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="80-90" id="30665488.s0.e1" ontology_id="GO_0006281" text="DNA repair" type="GO"/>
+    <pair e1="30665488.s0.e0" e2="30665488.s0.e1" id="30665488.s0.p0" relation="true"/>
+  </sentence>
+</document>

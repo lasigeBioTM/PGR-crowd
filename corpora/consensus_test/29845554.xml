@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<document id="29845554">
+  <sentence id="29845554.s0" text="She presented with mild abdominal distension and laboratory findings revealed thrombocytopenia and abnormal coagulation, indicating disseminated intravascular coagulation (gluconeogenesis).">
+    <entity charOffset="24-44" id="29845554.s0.e0" ontology_id="HP_0003270" text="abdominal distension" type="HP"/>
+    <entity charOffset="172-187" id="29845554.s0.e1" ontology_id="GO_0006094" text="gluconeogenesis" type="GO"/>
+  </sentence>
+  <sentence id="29845554.s1" text="Since diffuse hepatic hemangiomatosis (osteoblast differentiation) is an extremely rare disease especially in adults, the etiology and natural course of adult-onset DHH has not been well understood.">
+    <entity charOffset="22-37" id="29845554.s1.e0" ontology_id="HP_0007461" text="hemangiomatosis" type="HP"/>
+    <entity charOffset="39-65" id="29845554.s1.e1" ontology_id="GO_0001649" text="osteoblast differentiation" type="GO"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29700598">
+  <sentence id="29700598.s0" text="A better understanding of the mechanisms coupling thermoregulation to energy homeostasis, including the involvement of thermosensitive positive regulation of melanin biosynthetic processs, may uncover additional mechanisms underlying the pathogenesis of obesity and its metabolic consequences in humans, opening new strategies for the diagnosis, treatment, and prevention of this disease">
+    <entity charOffset="135-186" id="29700598.s0.e0" ontology_id="GO_0048023" text="positive regulation of melanin biosynthetic process" type="GO"/>
+    <entity charOffset="254-261" id="29700598.s0.e1" ontology_id="HP_0001513" text="obesity" type="HP"/>
+    <pair e1="29700598.s0.e0" e2="29700598.s0.e1" id="29700598.s0.p0" relation="false"/>
+  </sentence>
+</document>

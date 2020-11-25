@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29666340">
+  <sentence id="29666340.s0" text="The student's t-test was used to compare negative regulation of B cell apoptotic process expression in the tumour and the adjacent normal tissues.">
+    <entity charOffset="41-88" id="29666340.s0.e0" ontology_id="GO_0002903" text="negative regulation of B cell apoptotic process" type="GO"/>
+    <entity charOffset="107-113" id="29666340.s0.e1" ontology_id="HP_0002664" text="tumour" type="HP"/>
+    <pair e1="29666340.s0.e0" e2="29666340.s0.e1" id="29666340.s0.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27007659">
+  <sentence id="27007659.s0" text="Two rare pathogenic variants were identified in the collagen catabolic process gene: one in a sporadic case and another was found to segregate in a family with six affected individuals with CD.">
+    <entity charOffset="52-78" id="27007659.s0.e0" ontology_id="GO_0030574" text="collagen catabolic process" type="GO"/>
+    <entity charOffset="94-102" id="27007659.s0.e1" ontology_id="HP_0003745" text="sporadic" type="HP"/>
+    <pair e1="27007659.s0.e0" e2="27007659.s0.e1" id="27007659.s0.p0" relation="false"/>
+  </sentence>
+</document>

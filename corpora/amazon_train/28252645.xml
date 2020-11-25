@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="28252645">
+  <sentence id="28252645.s0" text="We show here that histone deacetylation depletion in MYCN-driven neuroblastoma cell lines strongly induces cell death, mostly mediated by apoptotic programs.">
+    <entity charOffset="18-39" id="28252645.s0.e0" ontology_id="GO_0016575" text="histone deacetylation" type="GO"/>
+    <entity charOffset="65-78" id="28252645.s0.e1" ontology_id="HP_0003006" text="neuroblastoma" type="HP"/>
+    <pair e1="28252645.s0.e0" e2="28252645.s0.e1" id="28252645.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28252645.s1" text="Our study identified a group of cell cycle-promoting genes regulated by histone deacetylation, being both predictors of unfavorable patient outcome and essential for tumor cell viability.">
+    <entity charOffset="72-93" id="28252645.s1.e0" ontology_id="GO_0016575" text="histone deacetylation" type="GO"/>
+    <entity charOffset="166-171" id="28252645.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28252645.s1.e0" e2="28252645.s1.e1" id="28252645.s1.p0" relation="true"/>
+  </sentence>
+</document>

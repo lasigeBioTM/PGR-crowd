@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="29084003">
+  <sentence id="29084003.s0" text="Furthermore, we identified some potential lung cancer driver genes, such as TBX2, MCM4, protein-containing complex assembly, BIRC5, and anaphase-promoting complex-dependent catabolic process, whose expression is significantly upregulated in lung cancer, and the copy number of these genes is amplified in the genome of patients with lung cancer.">
+    <entity charOffset="47-53" id="29084003.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="88-123" id="29084003.s0.e1" ontology_id="GO_0065003" text="protein-containing complex assembly" type="GO"/>
+    <entity charOffset="136-190" id="29084003.s0.e2" ontology_id="GO_0031145" text="anaphase-promoting complex-dependent catabolic process" type="GO"/>
+    <pair e1="29084003.s0.e0" e2="29084003.s0.e1" id="29084003.s0.p0" relation="true"/>
+    <pair e1="29084003.s0.e0" e2="29084003.s0.e2" id="29084003.s0.p1" relation="true"/>
+  </sentence>
+</document>

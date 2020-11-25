@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="28175314">
+  <sentence id="28175314.s0" text="Furthermore, negative regulation of gene expression expression is altered in skeletal muscle of classical congenital muscular dystrophy mouse models.">
+    <entity charOffset="13-51" id="28175314.s0.e0" ontology_id="GO_0010629" text="negative regulation of gene expression" type="GO"/>
+    <entity charOffset="117-135" id="28175314.s0.e1" ontology_id="HP_0003560" text="muscular dystrophy" type="HP"/>
+    <pair e1="28175314.s0.e0" e2="28175314.s0.e1" id="28175314.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28175314.s1" text="negative regulation of gene expression levels were up-regulated in dystrophin deficient mdx muscle, which correlates with the elevated levels of the α7β1 integrin observed in mdx muscle and Duchenne muscular dystrophy patients.">
+    <entity charOffset="0-38" id="28175314.s1.e0" ontology_id="GO_0010629" text="negative regulation of gene expression" type="GO"/>
+    <entity charOffset="199-217" id="28175314.s1.e1" ontology_id="HP_0003560" text="muscular dystrophy" type="HP"/>
+    <pair e1="28175314.s1.e0" e2="28175314.s1.e1" id="28175314.s1.p0" relation="true"/>
+  </sentence>
+</document>

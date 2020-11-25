@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<document id="22179838">
+  <sentence id="22179838.s0" text="By analyzing public data sets of gene expression in human breast cancers we observed that increased levels of transcripts encoding the planar cell polarity (biological_process) proteins cell proliferation and Wnt signaling pathway, planar cell polarity pathway correlate with increased risk of patient relapse.">
+    <entity charOffset="65-71" id="22179838.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="157-175" id="22179838.s0.e1" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="186-204" id="22179838.s0.e2" ontology_id="GO_0008283" text="cell proliferation" type="GO"/>
+    <entity charOffset="209-260" id="22179838.s0.e3" ontology_id="GO_0060071" text="Wnt signaling pathway, planar cell polarity pathway" type="GO"/>
+    <pair e1="22179838.s0.e0" e2="22179838.s0.e1" id="22179838.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="22179838.s1" text="To investigate SCRIB-associated proteins that might participate in the responses of breast cancer cells to altered levels of SCRIB, we used cell adhesion mediated by integrin spectrometry and confocal microscopy.">
+    <entity charOffset="91-97" id="22179838.s1.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="140-174" id="22179838.s1.e1" ontology_id="GO_0033627" text="cell adhesion mediated by integrin" type="GO"/>
+    <pair e1="22179838.s1.e0" e2="22179838.s1.e1" id="22179838.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="22179838.s2" text="Focusing on postsynaptic actin cytoskeleton organization, we observed that NOS1AP colocalizes with both cell proliferation and VANGL1 along cellular protrusions in metastatic breast cancer cells, but does not colocalize with either SCRIB or VANGL1 at cell junctions in normal breast cells.">
+    <entity charOffset="12-56" id="22179838.s2.e0" ontology_id="GO_0098974" text="postsynaptic actin cytoskeleton organization" type="GO"/>
+    <entity charOffset="104-122" id="22179838.s2.e1" ontology_id="GO_0008283" text="cell proliferation" type="GO"/>
+    <entity charOffset="182-188" id="22179838.s2.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="22179838.s2.e0" e2="22179838.s2.e2" id="22179838.s2.p0" relation="true"/>
+    <pair e1="22179838.s2.e1" e2="22179838.s2.e2" id="22179838.s2.p1" relation="true"/>
+  </sentence>
+  <sentence id="22179838.s3" text="We investigated the effects of shRNA-mediated knockdown of postsynaptic actin cytoskeleton organization and cell proliferation in vitro, and found that reducing NOS1AP and SCRIB slows breast cancer cell migration and prevents the establishment of leading-trailing polarity.">
+    <entity charOffset="59-103" id="22179838.s3.e0" ontology_id="GO_0098974" text="postsynaptic actin cytoskeleton organization" type="GO"/>
+    <entity charOffset="108-126" id="22179838.s3.e1" ontology_id="GO_0008283" text="cell proliferation" type="GO"/>
+    <entity charOffset="191-197" id="22179838.s3.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="22179838.s3.e0" e2="22179838.s3.e2" id="22179838.s3.p0" relation="true"/>
+    <pair e1="22179838.s3.e1" e2="22179838.s3.e2" id="22179838.s3.p1" relation="true"/>
+  </sentence>
+</document>

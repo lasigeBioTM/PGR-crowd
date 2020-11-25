@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="29758292">
+  <sentence id="29758292.s0" text="While the patient showed features overlapping with the reported phenotype, such as a short stature and small hands and feet, he also presented with additional features like cleft nuclear-transcribed mRNA catabolic process, nonsense-mediated decay and palate and an aberrant right subclavian artery.">
+    <entity charOffset="85-98" id="29758292.s0.e0" ontology_id="HP_0004322" text="short stature" type="HP"/>
+    <entity charOffset="179-246" id="29758292.s0.e1" ontology_id="GO_0000184" text="nuclear-transcribed mRNA catabolic process, nonsense-mediated decay" type="GO"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28314892">
+  <sentence id="28314892.s0" text="Increased catabolite concentrations in serum are associated with several cardiovascular diseases (CVD), including heart disease, atherosclerosis, and endothelial dysfunction, as well as their risk fcoenzyme A biosynthetic processors, including hypertension, diabetes, obesity, and aging.">
+    <entity charOffset="198-229" id="28314892.s0.e0" ontology_id="GO_0015937" text="coenzyme A biosynthetic process" type="GO"/>
+    <entity charOffset="244-256" id="28314892.s0.e1" ontology_id="HP_0000822" text="hypertension" type="HP"/>
+    <entity charOffset="268-275" id="28314892.s0.e2" ontology_id="HP_0001513" text="obesity" type="HP"/>
+  </sentence>
+</document>

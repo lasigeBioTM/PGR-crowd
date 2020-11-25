@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<document id="27305985">
+  <sentence id="27305985.s0" text="Essential hypersomnia (EHS) is another muscle organ development of sleep disorder that is characterized by excessive daytime sleepiness without cataplexy.">
+    <entity charOffset="10-21" id="27305985.s0.e0" ontology_id="HP_0100786" text="hypersomnia" type="HP"/>
+    <entity charOffset="39-63" id="27305985.s0.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+  </sentence>
+  <sentence id="27305985.s1" text="In humans, narcolepsy is a sleep disorder that is characterized by sleepiness, cataplexy and rapid eye movement (signal transduction) sleep abnormalities.">
+    <entity charOffset="11-21" id="27305985.s1.e0" ontology_id="HP_0030050" text="narcolepsy" type="HP"/>
+    <entity charOffset="113-132" id="27305985.s1.e1" ontology_id="GO_0007165" text="signal transduction" type="GO"/>
+  </sentence>
+</document>

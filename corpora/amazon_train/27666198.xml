@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="27666198">
+  <sentence id="27666198.s0" text="Nagashima-type palmoplantar keratosis (NPPK) is an autosomal recessive form of palmoplantar keratoderma (PPK), which is caused by mutations in the positive regulation of transforming growth factor beta1 production gene.">
+    <entity charOffset="51-70" id="27666198.s0.e0" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="79-103" id="27666198.s0.e1" ontology_id="HP_0000982" text="palmoplantar keratoderma" type="HP"/>
+    <entity charOffset="147-213" id="27666198.s0.e2" ontology_id="GO_0032914" text="positive regulation of transforming growth factor beta1 production" type="GO"/>
+    <pair e1="27666198.s0.e0" e2="27666198.s0.e2" id="27666198.s0.p0" relation="true"/>
+    <pair e1="27666198.s0.e1" e2="27666198.s0.e2" id="27666198.s0.p1" relation="true"/>
+  </sentence>
+</document>

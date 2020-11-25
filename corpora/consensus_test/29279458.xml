@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="29279458">
+  <sentence id="29279458.s0" text="Autosomal dominant inheritance of AIMAH was confirmed by genomuscle organ developments of one family member.">
+    <entity charOffset="19-30" id="29279458.s0.e0" ontology_id="HP_0000005" text="inheritance" type="HP"/>
+    <entity charOffset="61-85" id="29279458.s0.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+  </sentence>
+</document>

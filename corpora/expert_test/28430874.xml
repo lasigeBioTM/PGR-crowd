@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="28430874">
+  <sentence id="28430874.s0" text="We specifically discuss the role of eye development in the regulation of cell proliferation and survival within the context of the identified target genes, its interaction with viral oncogenes, and its association with the TP53 tumor suppressor and MYC oncogene.">
+    <entity charOffset="36-51" id="28430874.s0.e0" ontology_id="GO_0001654" text="eye development" type="GO"/>
+    <entity charOffset="228-233" id="28430874.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28430874.s0.e0" e2="28430874.s0.e1" id="28430874.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28430874.s1" text="Special attention is given to p53-independent SALL2 regulation of pro-apoptotic genes B cell apoptotic process and PMAIP1, and the implication of these findings on the apoptotic response of cancer cells to therapy.">
+    <entity charOffset="86-110" id="28430874.s1.e0" ontology_id="GO_0001783" text="B cell apoptotic process" type="GO"/>
+    <entity charOffset="190-196" id="28430874.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28430874.s1.e0" e2="28430874.s1.e1" id="28430874.s1.p0" relation="true"/>
+  </sentence>
+</document>

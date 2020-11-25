@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="28098905">
+  <sentence id="28098905.s0" text="However, correlation between positive regulation of cytosolic calcium ion concentration-1 and prostate cancer (PCa) remains still unclear.">
+    <entity charOffset="29-87" id="28098905.s0.e0" ontology_id="GO_0007204" text="positive regulation of cytosolic calcium ion concentration" type="GO"/>
+    <entity charOffset="103-109" id="28098905.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28098905.s0.e0" e2="28098905.s0.e1" id="28098905.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28098905.s1" text="The Cripto-1 (CR-1) derived angiogenesis-post-chaperonin tubulin folding pathway family was overexpressed in tumor development enhancing proliferation, epithelial-mesenchymal transition (EMT) and migration of tumor cells.">
+    <entity charOffset="28-40" id="28098905.s1.e0" ontology_id="GO_0001525" text="angiogenesis" type="GO"/>
+    <entity charOffset="41-80" id="28098905.s1.e1" ontology_id="GO_0007023" text="post-chaperonin tubulin folding pathway" type="GO"/>
+    <entity charOffset="109-114" id="28098905.s1.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28098905.s1.e0" e2="28098905.s1.e2" id="28098905.s1.p0" relation="true"/>
+    <pair e1="28098905.s1.e1" e2="28098905.s1.e2" id="28098905.s1.p1" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="28427240">
+  <sentence id="28427240.s0" text="A xenograft model in which establishment of mitotic spindle orientation mice were injected with UBE2T knockdown human gastric cancer cells confirmed that suppression of UBE2T also decreased tumor formation and growth in vivo.">
+    <entity charOffset="27-71" id="28427240.s0.e0" ontology_id="GO_0000132" text="establishment of mitotic spindle orientation" type="GO"/>
+    <entity charOffset="126-132" id="28427240.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="190-195" id="28427240.s0.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+  </sentence>
+  <sentence id="28427240.s1" text="siRNA-mediated suppression of protein monoubiquitination inhibited gastric cancer cell proliferation and colony formation by promoting cell cycle arrest at G2/M phase and increasing apoptosis.">
+    <entity charOffset="30-56" id="28427240.s1.e0" ontology_id="GO_0006513" text="protein monoubiquitination" type="GO"/>
+    <entity charOffset="75-81" id="28427240.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28427240.s1.e0" e2="28427240.s1.e1" id="28427240.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="28427240.s2" text="protein monoubiquitination was highly expressed in gastric tumors and gastric cancer cells.">
+    <entity charOffset="0-26" id="28427240.s2.e0" ontology_id="GO_0006513" text="protein monoubiquitination" type="GO"/>
+    <entity charOffset="78-84" id="28427240.s2.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28427240.s2.e0" e2="28427240.s2.e1" id="28427240.s2.p0" relation="true"/>
+  </sentence>
+</document>

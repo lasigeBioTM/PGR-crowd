@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30262533">
+  <sentence id="30262533.s0" text="We report the case of a patient with &lt;i&gt;attachment of GPI anchor to protein&lt;/i&gt; mutations who experienced recurrent aseptic meningitis 121 times over 16 years before developing paroxysmal nocturnal haemoglobinuria (PNH).">
+    <entity charOffset="40-75" id="30262533.s0.e0" ontology_id="GO_0016255" text="attachment of GPI anchor to protein" type="GO"/>
+    <entity charOffset="177-213" id="30262533.s0.e1" ontology_id="HP_0004818" text="paroxysmal nocturnal haemoglobinuria" type="HP"/>
+    <pair e1="30262533.s0.e0" e2="30262533.s0.e1" id="30262533.s0.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="26881841">
+  <sentence id="26881841.s0" text="Usher syndrome muscle organ development III (actin filament organization) is an autosomal recessive disorder caused by mutations in clarin-1 (actin filament organization) gene, leading to progressive retinal degeneration and sensorineural deafness.">
+    <entity charOffset="15-39" id="26881841.s0.e0" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="45-72" id="26881841.s0.e1" ontology_id="GO_0007015" text="actin filament organization" type="GO"/>
+    <entity charOffset="142-169" id="26881841.s0.e2" ontology_id="GO_0007015" text="actin filament organization" type="GO"/>
+    <entity charOffset="200-220" id="26881841.s0.e3" ontology_id="HP_0000546" text="retinal degeneration" type="HP"/>
+    <entity charOffset="239-247" id="26881841.s0.e4" ontology_id="HP_0000365" text="deafness" type="HP"/>
+    <pair e1="26881841.s0.e0" e2="26881841.s0.e3" id="26881841.s0.p0" relation="false"/>
+    <pair e1="26881841.s0.e1" e2="26881841.s0.e3" id="26881841.s0.p1" relation="false"/>
+    <pair e1="26881841.s0.e1" e2="26881841.s0.e4" id="26881841.s0.p2" relation="true"/>
+    <pair e1="26881841.s0.e2" e2="26881841.s0.e3" id="26881841.s0.p3" relation="false"/>
+    <pair e1="26881841.s0.e2" e2="26881841.s0.e4" id="26881841.s0.p4" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="25142535">
+  <sentence id="25142535.s0" text="Patients with the combination of dystonia and ataxia and a family history of a neurodegenerative disorder should be tested for biological_process.">
+    <entity charOffset="46-52" id="25142535.s0.e0" ontology_id="HP_0001251" text="ataxia" type="HP"/>
+    <entity charOffset="127-145" id="25142535.s0.e1" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <pair e1="25142535.s0.e0" e2="25142535.s0.e1" id="25142535.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="25142535.s1" text="Previously there have been no reports of biological_process associated with dystonia.">
+    <entity charOffset="41-59" id="25142535.s1.e0" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="76-84" id="25142535.s1.e1" ontology_id="HP_0001332" text="dystonia" type="HP"/>
+    <pair e1="25142535.s1.e0" e2="25142535.s1.e1" id="25142535.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="25142535.s2" text="We report on the case of a 77-year-old male with genetically proven spinocerebellar ataxia type 31 (biological_process) who had dystonia.">
+    <entity charOffset="100-118" id="25142535.s2.e0" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="128-136" id="25142535.s2.e1" ontology_id="HP_0001332" text="dystonia" type="HP"/>
+    <pair e1="25142535.s2.e0" e2="25142535.s2.e1" id="25142535.s2.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29616049">
+  <sentence id="29616049.s0" text="We found that multiple oncogenic tyrosine kinases directly phosphorylated peptidyl-threonine dephosphorylation at Tyr-94, and Tyr-94 phosphorylation of PDP1 was common in diverse human cancer cells and primary leukemia cells from patients.">
+    <entity charOffset="74-110" id="29616049.s0.e0" ontology_id="GO_0035970" text="peptidyl-threonine dephosphorylation" type="GO"/>
+    <entity charOffset="185-191" id="29616049.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29616049.s0.e0" e2="29616049.s0.e1" id="29616049.s0.p0" relation="true"/>
+  </sentence>
+</document>

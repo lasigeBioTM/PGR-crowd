@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="20409997">
+  <sentence id="20409997.s0" text="Our study confirms linkage of a variant clinical form of hair-natural killer cell activation involved in immune response ectodermal dysplasia to chromosome 12 without any mutation in the coding sequences of the epidermis development gene.">
+    <entity charOffset="62-120" id="20409997.s0.e0" ontology_id="GO_0002323" text="natural killer cell activation involved in immune response" type="GO"/>
+    <entity charOffset="121-141" id="20409997.s0.e1" ontology_id="HP_0000968" text="ectodermal dysplasia" type="HP"/>
+    <entity charOffset="211-232" id="20409997.s0.e2" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <pair e1="20409997.s0.e0" e2="20409997.s0.e1" id="20409997.s0.p0" relation="false"/>
+    <pair e1="20409997.s0.e1" e2="20409997.s0.e2" id="20409997.s0.p1" relation="true"/>
+  </sentence>
+</document>

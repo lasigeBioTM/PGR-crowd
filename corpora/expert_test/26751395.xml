@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="26751395">
+  <sentence id="26751395.s0" text="A rare syndromic form of intellectual disability with impaired speech was recently found associated with mutations in sister chromatid biorientation (chromosome alignment-maintaining phosphoprotein 1), the protein product of which is directly involved in microtubule-kinetochore attachment.">
+    <entity charOffset="25-48" id="26751395.s0.e0" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <entity charOffset="118-148" id="26751395.s0.e1" ontology_id="GO_0031134" text="sister chromatid biorientation" type="GO"/>
+    <pair e1="26751395.s0.e0" e2="26751395.s0.e1" id="26751395.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="26751395.s1" text="Through whole-exome sequencing in six unrelated nonconsanguineous families having a sporadic case of intellectual disability, we identified six novel de novo truncating mutations in sister chromatid biorientation: c.1880C&amp;gt;G p.(Ser627*), c.1489C&amp;gt;T; p.(Arg497*), c.1876_1877delAG; p.(Ser626Leufs*4), c.1043G&amp;gt;A; p.(Trp348*), c.1002G&amp;gt;A; p.(Trp334*), and c.958_959delCC; p.(Pro320*).">
+    <entity charOffset="84-92" id="26751395.s1.e0" ontology_id="HP_0003745" text="sporadic" type="HP"/>
+    <entity charOffset="182-212" id="26751395.s1.e1" ontology_id="GO_0031134" text="sister chromatid biorientation" type="GO"/>
+    <pair e1="26751395.s1.e0" e2="26751395.s1.e1" id="26751395.s1.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="27193597">
+  <sentence id="27193597.s0" text="Mining GWAS databases revealed association of cis-eSNPs for more than 50 genes with T2D (e.g. PIK3C2A, RNA processing, UFSP1), gluco-metabolic phenomuscle organ developments (e.g. INPP5E, endocytic recycling, ERAP2, post-translational protein modification), and obesity (e.g. negative regulation of tumor necrosis factor production, response to ischemia).">
+    <entity charOffset="103-117" id="27193597.s0.e0" ontology_id="GO_0006396" text="RNA processing" type="GO"/>
+    <entity charOffset="148-172" id="27193597.s0.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="188-207" id="27193597.s0.e2" ontology_id="GO_0032456" text="endocytic recycling" type="GO"/>
+    <entity charOffset="216-255" id="27193597.s0.e3" ontology_id="GO_0043687" text="post-translational protein modification" type="GO"/>
+    <entity charOffset="262-269" id="27193597.s0.e4" ontology_id="HP_0001513" text="obesity" type="HP"/>
+    <entity charOffset="276-331" id="27193597.s0.e5" ontology_id="GO_0032720" text="negative regulation of tumor necrosis factor production" type="GO"/>
+    <entity charOffset="333-353" id="27193597.s0.e6" ontology_id="GO_0002931" text="response to ischemia" type="GO"/>
+    <pair e1="27193597.s0.e0" e2="27193597.s0.e4" id="27193597.s0.p0" relation="false"/>
+    <pair e1="27193597.s0.e1" e2="27193597.s0.e4" id="27193597.s0.p1" relation="false"/>
+    <pair e1="27193597.s0.e2" e2="27193597.s0.e4" id="27193597.s0.p2" relation="false"/>
+    <pair e1="27193597.s0.e3" e2="27193597.s0.e4" id="27193597.s0.p3" relation="false"/>
+    <pair e1="27193597.s0.e4" e2="27193597.s0.e5" id="27193597.s0.p4" relation="true"/>
+    <pair e1="27193597.s0.e4" e2="27193597.s0.e6" id="27193597.s0.p5" relation="false"/>
+  </sentence>
+</document>

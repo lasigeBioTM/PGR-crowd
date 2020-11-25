@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="30513729">
+  <sentence id="30513729.s0" text="However, there is G protein-coupled receptor signaling pathway variation in the literature due to the heterogeneous nature of the randomised controlled trials conducted.">
+    <entity charOffset="18-62" id="30513729.s0.e0" ontology_id="GO_0007186" text="G protein-coupled receptor signaling pathway" type="GO"/>
+    <entity charOffset="102-115" id="30513729.s0.e1" ontology_id="HP_0001425" text="heterogeneous" type="HP"/>
+  </sentence>
+</document>

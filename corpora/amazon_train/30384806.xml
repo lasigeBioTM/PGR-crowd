@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="30384806">
+  <sentence id="30384806.s0" text="Furthermore, microRNA-22 targeted Ras protein signal transduction proto-oncogene, GTPase (NRAS) in breast cancer cells.">
+    <entity charOffset="34-65" id="30384806.s0.e0" ontology_id="GO_0007265" text="Ras protein signal transduction" type="GO"/>
+    <entity charOffset="106-112" id="30384806.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30384806.s0.e0" e2="30384806.s0.e1" id="30384806.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="30384806.s1" text="Moreover, microRNA-22 sensitized breast cancer cells to paclitaxel by regulation of Ras protein signal transduction.">
+    <entity charOffset="40-46" id="30384806.s1.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="84-115" id="30384806.s1.e1" ontology_id="GO_0007265" text="Ras protein signal transduction" type="GO"/>
+    <pair e1="30384806.s1.e0" e2="30384806.s1.e1" id="30384806.s1.p0" relation="true"/>
+  </sentence>
+</document>

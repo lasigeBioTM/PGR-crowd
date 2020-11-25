@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="29656859">
+  <sentence id="29656859.s0" text="The spontaneous mutant mouse staggerer, with an ataxic gait caused by neurodegeneration of cerebellar Purkinje cells, was discovered two decades protein ubiquitination to result from homozygous intragenic Rora deletions.">
+    <entity charOffset="48-59" id="29656859.s0.e0" ontology_id="HP_0002066" text="ataxic gait" type="HP"/>
+    <entity charOffset="145-167" id="29656859.s0.e1" ontology_id="GO_0016567" text="protein ubiquitination" type="GO"/>
+  </sentence>
+  <sentence id="29656859.s1" text="Through a multi-centric collaboration, we identified three copy-number variant deletions (two de novo and one dominantly inherited in three generations), one de novo disrupting duplication, and nine de novo point mutations (three truncating, one canonical splice site, and five missense mutations) involving regulation of transcription, DNA-templated in 16 individuals from 13 families with variable neurodevelopmental delay and intellectual disability (ID)-associated autistic features, cerebellar ataxia, and epilepsy.">
+    <entity charOffset="308-350" id="29656859.s1.e0" ontology_id="GO_0006355" text="regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="400-424" id="29656859.s1.e1" ontology_id="HP_0012758" text="neurodevelopmental delay" type="HP"/>
+    <entity charOffset="488-505" id="29656859.s1.e2" ontology_id="HP_0001251" text="cerebellar ataxia" type="HP"/>
+    <pair e1="29656859.s1.e0" e2="29656859.s1.e1" id="29656859.s1.p0" relation="true"/>
+    <pair e1="29656859.s1.e0" e2="29656859.s1.e2" id="29656859.s1.p1" relation="true"/>
+  </sentence>
+</document>

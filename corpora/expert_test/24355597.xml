@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="24355597">
+  <sentence id="24355597.s0" text="Interestingly, protein insertion into membrane mutations have been linked to neurodegenerative disorders of upper and lower motor neurons, hereditary spastic paraplegia (HSP) and distal hereditary motor neuropathy type V (dHMN-V).">
+    <entity charOffset="15-46" id="24355597.s0.e0" ontology_id="GO_0051205" text="protein insertion into membrane" type="GO"/>
+    <entity charOffset="203-213" id="24355597.s0.e1" ontology_id="HP_0009830" text="neuropathy" type="HP"/>
+    <pair e1="24355597.s0.e0" e2="24355597.s0.e1" id="24355597.s0.p0" relation="true"/>
+  </sentence>
+</document>

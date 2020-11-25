@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="25134915">
+  <sentence id="25134915.s0" text="Single nucleotide polymorphisms (SNPs) in telomere maintenance via telomerase have been associated with risk of cancer, which strengthens the role of WRAP53 in the pathogenesis of human malignancies.">
+    <entity charOffset="42-77" id="25134915.s0.e0" ontology_id="GO_0007004" text="telomere maintenance via telomerase" type="GO"/>
+    <entity charOffset="112-118" id="25134915.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="25134915.s0.e0" e2="25134915.s0.e1" id="25134915.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="25134915.s1" text="In nucleosome disassembly, WRAP53 has been considered as a candidate cancer susceptibility gene.">
+    <entity charOffset="3-25" id="25134915.s1.e0" ontology_id="GO_0006337" text="nucleosome disassembly" type="GO"/>
+    <entity charOffset="69-75" id="25134915.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="25134915.s1.e0" e2="25134915.s1.e1" id="25134915.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="25134915.s2" text="Accordingly, we performed a study to examine the association of a frequent genetic variation in telomere maintenance via telomerase, rs2287499 (C/G), with breast cancer risk and prognosis among Iranian-Azeri population.">
+    <entity charOffset="96-131" id="25134915.s2.e0" ontology_id="GO_0007004" text="telomere maintenance via telomerase" type="GO"/>
+    <entity charOffset="162-168" id="25134915.s2.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="25134915.s2.e0" e2="25134915.s2.e1" id="25134915.s2.p0" relation="true"/>
+  </sentence>
+</document>

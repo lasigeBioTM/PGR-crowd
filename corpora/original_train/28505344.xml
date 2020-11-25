@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<document id="28505344">
+  <sentence id="28505344.s0" text="Recent studies have suggested possible therapeutic targets for some patients with early-onset glaucoma based on the molecular and cellular events caused by osteoblast differentiation, OPTN and protein phosphorylation mutations.">
+    <entity charOffset="94-102" id="28505344.s0.e0" ontology_id="HP_0000501" text="glaucoma" type="HP"/>
+    <entity charOffset="156-182" id="28505344.s0.e1" ontology_id="GO_0001649" text="osteoblast differentiation" type="GO"/>
+    <entity charOffset="193-216" id="28505344.s0.e2" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <pair e1="28505344.s0.e0" e2="28505344.s0.e1" id="28505344.s0.p0" relation="true"/>
+    <pair e1="28505344.s0.e0" e2="28505344.s0.e2" id="28505344.s0.p1" relation="false"/>
+  </sentence>
+  <sentence id="28505344.s1" text="Recent GWAS completed for three types of common adult-onset glaucoma have identified novel loci for POAG (primary-open-angle glaucoma) (lysosome organization, regulation of signal transduction, GDP-mannose metabolic process, protein glycosylation, TGFBR3, biological_process, ARHGEF12, GAS7, eye development, negative regulation of receptor internalization, TXNRD2); PACG (primary angle-closure glaucoma (cell-matrix adhesion, CHAT, GLIS3, cell-matrix adhesion, GPI anchor biosynthetic process-FAM102); and exfoliation syndrome (XFS) glaucoma (positive regulation of cytosolic calcium ion concentration).">
+    <entity charOffset="60-68" id="28505344.s1.e0" ontology_id="HP_0000501" text="glaucoma" type="HP"/>
+    <entity charOffset="136-157" id="28505344.s1.e1" ontology_id="GO_0007040" text="lysosome organization" type="GO"/>
+    <entity charOffset="159-192" id="28505344.s1.e2" ontology_id="GO_0009966" text="regulation of signal transduction" type="GO"/>
+    <entity charOffset="194-223" id="28505344.s1.e3" ontology_id="GO_0019673" text="GDP-mannose metabolic process" type="GO"/>
+    <entity charOffset="225-246" id="28505344.s1.e4" ontology_id="GO_0006486" text="protein glycosylation" type="GO"/>
+    <entity charOffset="256-274" id="28505344.s1.e5" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="292-307" id="28505344.s1.e6" ontology_id="GO_0001654" text="eye development" type="GO"/>
+    <entity charOffset="309-356" id="28505344.s1.e7" ontology_id="GO_0002091" text="negative regulation of receptor internalization" type="GO"/>
+    <entity charOffset="405-425" id="28505344.s1.e8" ontology_id="GO_0007160" text="cell-matrix adhesion" type="GO"/>
+    <entity charOffset="440-460" id="28505344.s1.e9" ontology_id="GO_0007160" text="cell-matrix adhesion" type="GO"/>
+    <entity charOffset="462-493" id="28505344.s1.e10" ontology_id="GO_0006506" text="GPI anchor biosynthetic process" type="GO"/>
+    <entity charOffset="544-602" id="28505344.s1.e11" ontology_id="GO_0007204" text="positive regulation of cytosolic calcium ion concentration" type="GO"/>
+    <pair e1="28505344.s1.e0" e2="28505344.s1.e1" id="28505344.s1.p0" relation="false"/>
+    <pair e1="28505344.s1.e0" e2="28505344.s1.e2" id="28505344.s1.p1" relation="false"/>
+    <pair e1="28505344.s1.e0" e2="28505344.s1.e3" id="28505344.s1.p2" relation="false"/>
+    <pair e1="28505344.s1.e0" e2="28505344.s1.e4" id="28505344.s1.p3" relation="false"/>
+    <pair e1="28505344.s1.e0" e2="28505344.s1.e5" id="28505344.s1.p4" relation="false"/>
+    <pair e1="28505344.s1.e0" e2="28505344.s1.e6" id="28505344.s1.p5" relation="true"/>
+    <pair e1="28505344.s1.e0" e2="28505344.s1.e7" id="28505344.s1.p6" relation="false"/>
+    <pair e1="28505344.s1.e0" e2="28505344.s1.e8" id="28505344.s1.p7" relation="false"/>
+    <pair e1="28505344.s1.e0" e2="28505344.s1.e9" id="28505344.s1.p8" relation="false"/>
+    <pair e1="28505344.s1.e0" e2="28505344.s1.e10" id="28505344.s1.p9" relation="false"/>
+    <pair e1="28505344.s1.e0" e2="28505344.s1.e11" id="28505344.s1.p10" relation="false"/>
+  </sentence>
+  <sentence id="28505344.s2" text="In total sixteen genomic regions have been associated with POAG (including the normal tension glaucoma (transcription initiation from RNA polymerase II promoter) subgroup), 8 with PACG and 2 with XFS.">
+    <entity charOffset="94-102" id="28505344.s2.e0" ontology_id="HP_0000501" text="glaucoma" type="HP"/>
+    <entity charOffset="104-160" id="28505344.s2.e1" ontology_id="GO_0006367" text="transcription initiation from RNA polymerase II promoter" type="GO"/>
+    <pair e1="28505344.s2.e0" e2="28505344.s2.e1" id="28505344.s2.p0" relation="false"/>
+  </sentence>
+</document>

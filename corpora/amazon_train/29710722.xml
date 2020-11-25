@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="29710722">
+  <sentence id="29710722.s0" text="Growing evidence suggests that mitochondrial dysfunction is an early event in sporadic Alzheimer's disease (AD), but the negative regulation of transcription by RNA polymerase II of mitochondrial dysfunction on the transition from healthy aging to AD remains elusive.">
+    <entity charOffset="78-86" id="29710722.s0.e0" ontology_id="HP_0003745" text="sporadic" type="HP"/>
+    <entity charOffset="121-178" id="29710722.s0.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+  </sentence>
+</document>

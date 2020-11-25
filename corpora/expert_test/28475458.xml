@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28475458">
+  <sentence id="28475458.s0" text="In this study, we present a male child demonstrating recurrent febrile episodes, spasticity, and basal ganglia calcification suggestive of Aicardi-Goutières syndrome, who carries the same Arg822Gln mutation in protein sumoylation previously associated with SMS.">
+    <entity charOffset="81-91" id="28475458.s0.e0" ontology_id="HP_0001257" text="spasticity" type="HP"/>
+    <entity charOffset="210-229" id="28475458.s0.e1" ontology_id="GO_0016925" text="protein sumoylation" type="GO"/>
+    <pair e1="28475458.s0.e0" e2="28475458.s0.e1" id="28475458.s0.p0" relation="true"/>
+  </sentence>
+</document>

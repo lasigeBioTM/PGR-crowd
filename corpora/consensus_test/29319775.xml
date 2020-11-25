@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="29319775">
+  <sentence id="29319775.s0" text="We present two cases of patients with a history of renal lithiasis who were diagnosed with primary hyperoxaluria in the post-transplant period, manifested by early graft failure, with evidence of calcium oxalate crystals in renal biopsy, hyperoxaluria, hyperoxalemia, and genetic test compatible; they were managed with proper diet, abundant oral liquids, pyridoxine, hydrochlorothiazide and potassium citrate; however, they had slow but progressive deterioration of their grafts function until they reached positive regulation of protein phosphorylation-stage chronic renal disease">
+    <entity charOffset="99-112" id="29319775.s0.e0" ontology_id="HP_0003159" text="hyperoxaluria" type="HP"/>
+    <entity charOffset="508-554" id="29319775.s0.e1" ontology_id="GO_0001934" text="positive regulation of protein phosphorylation" type="GO"/>
+  </sentence>
+</document>

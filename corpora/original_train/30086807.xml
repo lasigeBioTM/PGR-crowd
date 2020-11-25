@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<document id="30086807">
+  <sentence id="30086807.s0" text="Eighteen MCPH loci (MCPH1-MCPH18) have been mapped to date from various populations around the world and contain the following genes: Microcephalin, WDR62, microtubule cytoskeleton organization, CASC5, spindle organization, centriole elongation, centrosome duplication, CEP135, centrosome duplication, ZNF335, PHC1, CDK6, mitotic chromosome movement towards spindle pole, SASS6, MFSD2A, central nervous system development, mitotic cytokinesis and aggrephagy, clarifying our understanding about the molecular basis of microcephaly genetic disorder.">
+    <entity charOffset="156-193" id="30086807.s0.e0" ontology_id="GO_0000226" text="microtubule cytoskeleton organization" type="GO"/>
+    <entity charOffset="202-222" id="30086807.s0.e1" ontology_id="GO_0007051" text="spindle organization" type="GO"/>
+    <entity charOffset="224-244" id="30086807.s0.e2" ontology_id="GO_0061511" text="centriole elongation" type="GO"/>
+    <entity charOffset="246-268" id="30086807.s0.e3" ontology_id="GO_0051298" text="centrosome duplication" type="GO"/>
+    <entity charOffset="278-300" id="30086807.s0.e4" ontology_id="GO_0051298" text="centrosome duplication" type="GO"/>
+    <entity charOffset="322-370" id="30086807.s0.e5" ontology_id="GO_0007079" text="mitotic chromosome movement towards spindle pole" type="GO"/>
+    <entity charOffset="387-421" id="30086807.s0.e6" ontology_id="GO_0007417" text="central nervous system development" type="GO"/>
+    <entity charOffset="423-442" id="30086807.s0.e7" ontology_id="GO_0000281" text="mitotic cytokinesis" type="GO"/>
+    <entity charOffset="447-457" id="30086807.s0.e8" ontology_id="GO_0035973" text="aggrephagy" type="GO"/>
+    <entity charOffset="517-529" id="30086807.s0.e9" ontology_id="HP_0000252" text="microcephaly" type="HP"/>
+    <pair e1="30086807.s0.e0" e2="30086807.s0.e9" id="30086807.s0.p0" relation="true"/>
+    <pair e1="30086807.s0.e1" e2="30086807.s0.e9" id="30086807.s0.p1" relation="true"/>
+    <pair e1="30086807.s0.e2" e2="30086807.s0.e9" id="30086807.s0.p2" relation="true"/>
+    <pair e1="30086807.s0.e3" e2="30086807.s0.e9" id="30086807.s0.p3" relation="true"/>
+    <pair e1="30086807.s0.e4" e2="30086807.s0.e9" id="30086807.s0.p4" relation="true"/>
+    <pair e1="30086807.s0.e5" e2="30086807.s0.e9" id="30086807.s0.p5" relation="true"/>
+    <pair e1="30086807.s0.e6" e2="30086807.s0.e9" id="30086807.s0.p6" relation="true"/>
+    <pair e1="30086807.s0.e7" e2="30086807.s0.e9" id="30086807.s0.p7" relation="true"/>
+    <pair e1="30086807.s0.e8" e2="30086807.s0.e9" id="30086807.s0.p8" relation="false"/>
+  </sentence>
+</document>

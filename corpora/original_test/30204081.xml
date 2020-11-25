@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30204081">
+  <sentence id="30204081.s0" text="This was accompanied by neuronal loss and neuro-axonal dysfunction in adult OL-potassium ion transport cKO mice as shown by delayed visual evoked potentials, inner retinal thinning and progressive motor deficits.">
+    <entity charOffset="24-37" id="30204081.s0.e0" ontology_id="HP_0002529" text="neuronal loss" type="HP"/>
+    <entity charOffset="79-102" id="30204081.s0.e1" ontology_id="GO_0006813" text="potassium ion transport" type="GO"/>
+    <pair e1="30204081.s0.e0" e2="30204081.s0.e1" id="30204081.s0.p0" relation="true"/>
+  </sentence>
+</document>

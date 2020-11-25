@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30079398">
+  <sentence id="30079398.s0" text="Alterations of its normal function may contribute to two different phenotypes: juvenile amyotrophic lateral sclerosis (signal transduction 16) and distal hereditary motor neuropathies (dHMN).">
+    <entity charOffset="119-138" id="30079398.s0.e0" ontology_id="GO_0007165" text="signal transduction" type="GO"/>
+    <entity charOffset="147-153" id="30079398.s0.e1" ontology_id="HP_0012839" text="distal" type="HP"/>
+    <pair e1="30079398.s0.e0" e2="30079398.s0.e1" id="30079398.s0.p0" relation="true"/>
+  </sentence>
+</document>

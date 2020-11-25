@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<document id="30150420">
+  <sentence id="30150420.s0" text="There are several genetic mutations that lead to signal transduction development, such as chromosome 9 hexanucleotide repeat 72 (C9ORF72), transactive response DNA-binding protein (TARDBP), superoxide dismutase 1 (response to superoxide) and fused in sarcoma (FUS).">
+    <entity charOffset="49-68" id="30150420.s0.e0" ontology_id="GO_0007165" text="signal transduction" type="GO"/>
+    <entity charOffset="214-236" id="30150420.s0.e1" ontology_id="GO_0000303" text="response to superoxide" type="GO"/>
+    <entity charOffset="251-258" id="30150420.s0.e2" ontology_id="HP_0100242" text="sarcoma" type="HP"/>
+    <pair e1="30150420.s0.e1" e2="30150420.s0.e2" id="30150420.s0.p0" relation="false"/>
+  </sentence>
+</document>

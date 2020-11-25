@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<document id="21184099">
+  <sentence id="21184099.s0" text="Three affected individuals from a small Bedouin activation of cysteine-type endopeptidase activity involved in apoptotic process presented with failure to thrive, hyponatremic dehydration and hyperkalemia with isolated sweat salt wasting.">
+    <entity charOffset="48-128" id="21184099.s0.e0" ontology_id="GO_0006919" text="activation of cysteine-type endopeptidase activity involved in apoptotic process" type="GO"/>
+    <entity charOffset="144-161" id="21184099.s0.e1" ontology_id="HP_0001508" text="failure to thrive" type="HP"/>
+    <entity charOffset="192-204" id="21184099.s0.e2" ontology_id="HP_0002153" text="hyperkalemia" type="HP"/>
+    <pair e1="21184099.s0.e0" e2="21184099.s0.e1" id="21184099.s0.p0" relation="false"/>
+  </sentence>
+</document>

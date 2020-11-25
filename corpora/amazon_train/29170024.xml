@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29170024">
+  <sentence id="29170024.s0" text="Within the last decade, the Bromodomain and Extra-Terminal domain family (central nervous system development) of proteins have emerged as promising drug targets in diverse clinical indications including oncology, auto-immune disease, heart failure, and male contraception.">
+    <entity charOffset="74-108" id="29170024.s0.e0" ontology_id="GO_0007417" text="central nervous system development" type="GO"/>
+    <entity charOffset="234-247" id="29170024.s0.e1" ontology_id="HP_0001635" text="heart failure" type="HP"/>
+    <pair e1="29170024.s0.e0" e2="29170024.s0.e1" id="29170024.s0.p0" relation="true"/>
+  </sentence>
+</document>

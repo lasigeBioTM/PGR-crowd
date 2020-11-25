@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="29638194">
+  <sentence id="29638194.s0" text="Fasting serum tumor necrosis factor (negative regulation of transcription by RNA polymerase II)-like antigen 1A (TL1A) and its receptor death receptor 3 (DR3), negative regulation of axon extension-B (reticulon 4B) and its receptor dolichyl diphosphate biosynthetic process, high-sensitivity C-reactive protein (hsCRP), A disintegrin and metalloproteinase with thrombospondin motifs (ADAMTS) 1, 4, 5 and interleukin (IL) 6 levels were determined.">
+    <entity charOffset="14-19" id="29638194.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="37-94" id="29638194.s0.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="160-197" id="29638194.s0.e2" ontology_id="GO_0030517" text="negative regulation of axon extension" type="GO"/>
+    <entity charOffset="232-273" id="29638194.s0.e3" ontology_id="GO_0006489" text="dolichyl diphosphate biosynthetic process" type="GO"/>
+    <pair e1="29638194.s0.e0" e2="29638194.s0.e1" id="29638194.s0.p0" relation="false"/>
+    <pair e1="29638194.s0.e0" e2="29638194.s0.e2" id="29638194.s0.p1" relation="true"/>
+    <pair e1="29638194.s0.e0" e2="29638194.s0.e3" id="29638194.s0.p2" relation="true"/>
+  </sentence>
+</document>

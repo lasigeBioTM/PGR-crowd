@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="29071511">
+  <sentence id="29071511.s0" text="The most common and severe form, primary hyperoxaluria muscle organ development I, is due to the deficit of liver peroxisomal alanine/glyoxylate aminotransferase (AGT).">
+    <entity charOffset="41-54" id="29071511.s0.e0" ontology_id="HP_0003159" text="hyperoxaluria" type="HP"/>
+    <entity charOffset="55-79" id="29071511.s0.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+  </sentence>
+</document>

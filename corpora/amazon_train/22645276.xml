@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<document id="22645276">
+  <sentence id="22645276.s0" text="We therefore screened patients with hereditary PHPV, as well as bilateral optic nerve aplasia (ONA) or hypoplasia (ONH), for mutations in neural retina development.">
+    <entity charOffset="64-73" id="22645276.s0.e0" ontology_id="HP_0012832" text="bilateral" type="HP"/>
+    <entity charOffset="74-93" id="22645276.s0.e1" ontology_id="HP_0012521" text="optic nerve aplasia" type="HP"/>
+    <entity charOffset="138-163" id="22645276.s0.e2" ontology_id="GO_0003407" text="neural retina development" type="GO"/>
+    <pair e1="22645276.s0.e0" e2="22645276.s0.e2" id="22645276.s0.p0" relation="true"/>
+    <pair e1="22645276.s0.e1" e2="22645276.s0.e2" id="22645276.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="22645276.s1" text="We identified a homozygous neural retina development mutation (N46H) in a large family with an autosomal recessive PHPV disease trait linked to 10q21, and a heterozygous variant (R65G, p.Arg65Gly) in one of five sporadic ONA patients.">
+    <entity charOffset="27-52" id="22645276.s1.e0" ontology_id="GO_0003407" text="neural retina development" type="GO"/>
+    <entity charOffset="95-114" id="22645276.s1.e1" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="212-220" id="22645276.s1.e2" ontology_id="HP_0003745" text="sporadic" type="HP"/>
+    <pair e1="22645276.s1.e0" e2="22645276.s1.e1" id="22645276.s1.p0" relation="true"/>
+    <pair e1="22645276.s1.e0" e2="22645276.s1.e2" id="22645276.s1.p1" relation="true"/>
+  </sentence>
+</document>

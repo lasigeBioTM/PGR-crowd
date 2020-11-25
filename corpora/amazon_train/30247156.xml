@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="30247156">
+  <sentence id="30247156.s0" text="Raptor-cKO epidermis development developed hearing loss considerably more slowly than WT littermates.">
+    <entity charOffset="11-32" id="30247156.s0.e0" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="43-55" id="30247156.s0.e1" ontology_id="HP_0000365" text="hearing loss" type="HP"/>
+  </sentence>
+  <sentence id="30247156.s1" text="Conversely, regulation of translation loss led to the early-onset death of cochlear hair cells and consequently accelerated hearing loss.">
+    <entity charOffset="12-37" id="30247156.s1.e0" ontology_id="GO_0006417" text="regulation of translation" type="GO"/>
+    <entity charOffset="124-136" id="30247156.s1.e1" ontology_id="HP_0000365" text="hearing loss" type="HP"/>
+    <pair e1="30247156.s1.e0" e2="30247156.s1.e1" id="30247156.s1.p0" relation="true"/>
+  </sentence>
+</document>

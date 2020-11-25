@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<document id="28742274">
+  <sentence id="28742274.s0" text="Genes harboring the most significant mutations include homophilic cell adhesion via plasma membrane adhesion molecules, protein monoubiquitination, DCAF4L1, and VHL in sporadic HBs, and ZNF814, G2/M transition of mitotic cell cycle, acrosomal vesicle exocytosis, PNN, and MUC7 in familial HBs.">
+    <entity charOffset="55-118" id="28742274.s0.e0" ontology_id="GO_0007156" text="homophilic cell adhesion via plasma membrane adhesion molecules" type="GO"/>
+    <entity charOffset="120-146" id="28742274.s0.e1" ontology_id="GO_0006513" text="protein monoubiquitination" type="GO"/>
+    <entity charOffset="168-176" id="28742274.s0.e2" ontology_id="HP_0003745" text="sporadic" type="HP"/>
+    <entity charOffset="194-231" id="28742274.s0.e3" ontology_id="GO_0000086" text="G2/M transition of mitotic cell cycle" type="GO"/>
+    <entity charOffset="233-261" id="28742274.s0.e4" ontology_id="GO_0060478" text="acrosomal vesicle exocytosis" type="GO"/>
+    <pair e1="28742274.s0.e0" e2="28742274.s0.e2" id="28742274.s0.p0" relation="false"/>
+    <pair e1="28742274.s0.e1" e2="28742274.s0.e2" id="28742274.s0.p1" relation="true"/>
+    <pair e1="28742274.s0.e2" e2="28742274.s0.e4" id="28742274.s0.p2" relation="false"/>
+    <pair e1="28742274.s0.e2" e2="28742274.s0.e3" id="28742274.s0.p3" relation="false"/>
+  </sentence>
+  <sentence id="28742274.s1" text="Five genes, including OTOGL, PLCB4, SCEL, THSD4, and negative regulation of Wnt signaling pathway, have CNVs in the six patients with sporadic HBs, and three genes, including ABCA6, mRNA splicing, via spliceosome, and LAMA2, have CNVs in the five patients with familial HBs.">
+    <entity charOffset="53-97" id="28742274.s1.e0" ontology_id="GO_0030178" text="negative regulation of Wnt signaling pathway" type="GO"/>
+    <entity charOffset="134-142" id="28742274.s1.e1" ontology_id="HP_0003745" text="sporadic" type="HP"/>
+    <entity charOffset="182-212" id="28742274.s1.e2" ontology_id="GO_0000398" text="mRNA splicing, via spliceosome" type="GO"/>
+    <pair e1="28742274.s1.e0" e2="28742274.s1.e1" id="28742274.s1.p0" relation="true"/>
+    <pair e1="28742274.s1.e1" e2="28742274.s1.e2" id="28742274.s1.p1" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="28814763">
+  <sentence id="28814763.s0" text="We show that the extent of multicellular organism development heterogeneity is positively associated with the size of biopsied focal lesions consistent with regional outgrowth of advanced clones.">
+    <entity charOffset="27-61" id="28814763.s0.e0" ontology_id="GO_0007275" text="multicellular organism development" type="GO"/>
+    <entity charOffset="62-75" id="28814763.s0.e1" ontology_id="HP_0001425" text="heterogeneity" type="HP"/>
+  </sentence>
+  <sentence id="28814763.s1" text="We demonstrate multicellular organism development genomic heterogeneity in more than 75% of patients, including inactivation of regulation of cyclin-dependent protein serine/threonine kinase activity and TP53, and mutations affecting mitogen-activated protein kinase genes.">
+    <entity charOffset="15-49" id="28814763.s1.e0" ontology_id="GO_0007275" text="multicellular organism development" type="GO"/>
+    <entity charOffset="58-71" id="28814763.s1.e1" ontology_id="HP_0001425" text="heterogeneity" type="HP"/>
+    <entity charOffset="128-199" id="28814763.s1.e2" ontology_id="GO_0000079" text="regulation of cyclin-dependent protein serine/threonine kinase activity" type="GO"/>
+    <pair e1="28814763.s1.e0" e2="28814763.s1.e1" id="28814763.s1.p0" relation="false"/>
+    <pair e1="28814763.s1.e1" e2="28814763.s1.e2" id="28814763.s1.p1" relation="false"/>
+  </sentence>
+</document>

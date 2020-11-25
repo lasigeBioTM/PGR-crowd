@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29851970">
+  <sentence id="29851970.s0" text="Some of them were cancer-related according to COSMIC and HGMD databases (no founder mutations in double-strand break repair via homologous recombination and BRCA2 have been found).">
+    <entity charOffset="18-24" id="29851970.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="97-152" id="29851970.s0.e1" ontology_id="GO_0000724" text="double-strand break repair via homologous recombination" type="GO"/>
+    <pair e1="29851970.s0.e0" e2="29851970.s0.e1" id="29851970.s0.p0" relation="false"/>
+  </sentence>
+</document>

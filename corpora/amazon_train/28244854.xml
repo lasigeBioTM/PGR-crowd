@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="28244854">
+  <sentence id="28244854.s0" text="Recently, cell cycle arrest was reported to be implicated in cancer development, and many researchers investigated its biological function in the tumorigenesis of various cancers.">
+    <entity charOffset="10-27" id="28244854.s0.e0" ontology_id="GO_0007050" text="cell cycle arrest" type="GO"/>
+    <entity charOffset="61-67" id="28244854.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28244854.s0.e0" e2="28244854.s0.e1" id="28244854.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28244854.s1" text="However, what kind of role cell cycle arrest plays in colorectal cancer (CRC) remains unknown.">
+    <entity charOffset="27-44" id="28244854.s1.e0" ontology_id="GO_0007050" text="cell cycle arrest" type="GO"/>
+    <entity charOffset="65-71" id="28244854.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28244854.s1.e0" e2="28244854.s1.e1" id="28244854.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="28244854.s2" text="Furthermore, the tumorigenesis assay showed that increased expression of cell cycle arrest suppressed CRC tumor growth and metastasis in vivo.">
+    <entity charOffset="17-22" id="28244854.s2.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="73-90" id="28244854.s2.e1" ontology_id="GO_0007050" text="cell cycle arrest" type="GO"/>
+    <pair e1="28244854.s2.e0" e2="28244854.s2.e1" id="28244854.s2.p0" relation="true"/>
+  </sentence>
+</document>

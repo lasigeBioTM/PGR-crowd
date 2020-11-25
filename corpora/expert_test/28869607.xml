@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="28869607">
+  <sentence id="28869607.s0" text="Depletion of the exon 3-containing long isoform of mitochondrial translational elongation (MRPL33-L) led to impaired proliferation and increased apoptosis in cancer cell lines and in a xenograft model.">
+    <entity charOffset="51-89" id="28869607.s0.e0" ontology_id="GO_0070125" text="mitochondrial translational elongation" type="GO"/>
+    <entity charOffset="158-164" id="28869607.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28869607.s0.e0" e2="28869607.s0.e1" id="28869607.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28869607.s1" text="In summary, our findings underscore the biological significance of mitochondrial translational elongation-L and hnRNPK in the tumor formation and identifies hnRNPK as a critical splicing regulator of MRPL33 pre-mRNA in cancer cells">
+    <entity charOffset="67-105" id="28869607.s1.e0" ontology_id="GO_0070125" text="mitochondrial translational elongation" type="GO"/>
+    <entity charOffset="219-225" id="28869607.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28869607.s1.e0" e2="28869607.s1.e1" id="28869607.s1.p0" relation="false"/>
+  </sentence>
+</document>

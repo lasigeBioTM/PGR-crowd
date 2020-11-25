@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="22994209">
+  <sentence id="22994209.s0" text="Although ABCD1 is responsible for X-linked fatty acid beta-oxidation (X-ALD), its phenotype differs from that of CADDS, which manifests with many features of Zellweger syndrome (ZS), including severe growth and developmental retardation, liver dysfunction, cholestasis and early infantile death.">
+    <entity charOffset="43-68" id="22994209.s0.e0" ontology_id="GO_0006635" text="fatty acid beta-oxidation" type="GO"/>
+    <entity charOffset="238-255" id="22994209.s0.e1" ontology_id="HP_0001410" text="liver dysfunction" type="HP"/>
+    <pair e1="22994209.s0.e0" e2="22994209.s0.e1" id="22994209.s0.p0" relation="false"/>
+  </sentence>
+</document>

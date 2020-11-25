@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="26035073">
+  <sentence id="26035073.s0" text="In the present study, we examined whether centriole replication expression is abnormally regulated in colorectal cancers (CRCs).">
+    <entity charOffset="42-63" id="26035073.s0.e0" ontology_id="GO_0007099" text="centriole replication" type="GO"/>
+    <entity charOffset="113-119" id="26035073.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="26035073.s0.e0" e2="26035073.s0.e1" id="26035073.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="26035073.s1" text="Next, using DLD-1 colon cancer cells inducibly expressing centriole replication, SASS6 overexpression was shown to induce centrosome amplification, mitotic abnormalities such as chromosomal misalignment and lagging chromosome, and chromosomal numerical changes.">
+    <entity charOffset="24-30" id="26035073.s1.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="58-79" id="26035073.s1.e1" ontology_id="GO_0007099" text="centriole replication" type="GO"/>
+    <pair e1="26035073.s1.e0" e2="26035073.s1.e1" id="26035073.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="26035073.s2" text="To date, the genetic alteration of centriole replication has not been reported in human cancers.">
+    <entity charOffset="35-56" id="26035073.s2.e0" ontology_id="GO_0007099" text="centriole replication" type="GO"/>
+    <entity charOffset="88-94" id="26035073.s2.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="26035073.s2.e0" e2="26035073.s2.e1" id="26035073.s2.p0" relation="true"/>
+  </sentence>
+</document>

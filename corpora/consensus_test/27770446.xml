@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="27770446">
+  <sentence id="27770446.s0" text="The aetiology of L-phenylalanine catabolic process is heterogeneous, and genetics play an important role in some cases.">
+    <entity charOffset="17-50" id="27770446.s0.e0" ontology_id="GO_0006559" text="L-phenylalanine catabolic process" type="GO"/>
+    <entity charOffset="54-67" id="27770446.s0.e1" ontology_id="HP_0001425" text="heterogeneous" type="HP"/>
+    <pair e1="27770446.s0.e0" e2="27770446.s0.e1" id="27770446.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="27770446.s1" text="Group 1 pulmonary hypertension or pulmonary arterial hypertension (L-phenylalanine catabolic process) is a rare disease characterized by proliferation and occlusion of small pulmonary arterioles, leading to progressive elevation of pulmonary artery pressure and pulmonary vascular resistance, and right ventricular failure.">
+    <entity charOffset="34-65" id="27770446.s1.e0" ontology_id="HP_0002092" text="pulmonary arterial hypertension" type="HP"/>
+    <entity charOffset="67-100" id="27770446.s1.e1" ontology_id="GO_0006559" text="L-phenylalanine catabolic process" type="GO"/>
+    <pair e1="27770446.s1.e0" e2="27770446.s1.e1" id="27770446.s1.p0" relation="false"/>
+  </sentence>
+</document>

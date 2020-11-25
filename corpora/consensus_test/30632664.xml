@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30632664">
+  <sentence id="30632664.s0" text="Birt-Hogg-Dubé (negative regulation of transcription by RNA polymerase II) syndrome is a rare genetic disorder characterized by cutaneous fibrofolliculomas, pulmonary cysts and renal cell carcinomas.">
+    <entity charOffset="16-73" id="30632664.s0.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="177-198" id="30632664.s0.e1" ontology_id="HP_0005584" text="renal cell carcinomas" type="HP"/>
+    <pair e1="30632664.s0.e0" e2="30632664.s0.e1" id="30632664.s0.p0" relation="false"/>
+  </sentence>
+</document>

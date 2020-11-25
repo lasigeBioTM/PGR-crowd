@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28965985">
+  <sentence id="28965985.s0" text="Through gene negative regulation of transcription, DNA-templated enrichment analysis and bi-clustering, we also found that most of the differential expressed lncRNAs were closely associated with mitochondrial functions (e.g. mitochondrion organization, P=3.21×10&lt;sup&gt;-17&lt;/sup&gt;; mitochondrial ATP synthesis coupled electron transport, P=1.73×10&lt;sup&gt;-19&lt;/sup&gt; and mitochondrial membrane organization, P=4.04×10&lt;sup&gt;-8&lt;/sup&gt;).">
+    <entity charOffset="13-64" id="28965985.s0.e0" ontology_id="GO_0045892" text="negative regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="195-208" id="28965985.s0.e1" ontology_id="HP_0001427" text="mitochondrial" type="HP"/>
+    <pair e1="28965985.s0.e0" e2="28965985.s0.e1" id="28965985.s0.p0" relation="false"/>
+  </sentence>
+</document>

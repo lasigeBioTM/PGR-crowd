@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="29961928">
+  <sentence id="29961928.s0" text="Humans who carry kidney development mutations develop heterogeneous renal abnormalities, including multicystic dysplastic kidneys, glomerulocystic kidney disease, renal agenesis, renal hypoplasia, and renal interstitial fibrosis.">
+    <entity charOffset="17-35" id="29961928.s0.e0" ontology_id="GO_0001822" text="kidney development" type="GO"/>
+    <entity charOffset="163-177" id="29961928.s0.e1" ontology_id="HP_0000104" text="renal agenesis" type="HP"/>
+    <entity charOffset="179-195" id="29961928.s0.e2" ontology_id="HP_0000089" text="renal hypoplasia" type="HP"/>
+    <entity charOffset="201-228" id="29961928.s0.e3" ontology_id="HP_0005576" text="renal interstitial fibrosis" type="HP"/>
+    <pair e1="29961928.s0.e0" e2="29961928.s0.e1" id="29961928.s0.p0" relation="true"/>
+    <pair e1="29961928.s0.e0" e2="29961928.s0.e2" id="29961928.s0.p1" relation="true"/>
+    <pair e1="29961928.s0.e0" e2="29961928.s0.e3" id="29961928.s0.p2" relation="false"/>
+  </sentence>
+</document>

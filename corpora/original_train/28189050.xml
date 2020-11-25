@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28189050">
+  <sentence id="28189050.s0" text="Considering the pivotal role of negative regulation of transcription by RNA polymerase II signaling in the colon epithelium both physiologically and pathologically, the correlation between H19 and VDR signaling may have an important role in the development of colon cancer.">
+    <entity charOffset="32-89" id="28189050.s0.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="266-272" id="28189050.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28189050.s0.e0" e2="28189050.s0.e1" id="28189050.s0.p0" relation="false"/>
+  </sentence>
+</document>

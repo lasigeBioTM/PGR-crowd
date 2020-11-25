@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="28063004">
+  <sentence id="28063004.s0" text="Tubulin alpha 8 (biological_process) is highly abundant in murine liver tumors suggesting a role in hepatocellular carcinoma (phosphatidylinositol phosphorylation).">
+    <entity charOffset="17-35" id="28063004.s0.e0" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="72-78" id="28063004.s0.e1" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <entity charOffset="100-124" id="28063004.s0.e2" ontology_id="HP_0001402" text="hepatocellular carcinoma" type="HP"/>
+    <entity charOffset="126-162" id="28063004.s0.e3" ontology_id="GO_0046854" text="phosphatidylinositol phosphorylation" type="GO"/>
+    <pair e1="28063004.s0.e0" e2="28063004.s0.e2" id="28063004.s0.p0" relation="true"/>
+  </sentence>
+</document>

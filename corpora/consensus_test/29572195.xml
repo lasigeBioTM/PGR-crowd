@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="29572195">
+  <sentence id="29572195.s0" text="Biallelic ion transmembrane transport mutations cause infantile hypotonia with psychomotor retardation and characteristic facies 2 (IHPRF2), which is characterized by hypotonia, developmental delay (DD)/intellectual disability (ID), intrauterine growth retardation, postnatal growth retardation and characteristic facial features.">
+    <entity charOffset="10-37" id="29572195.s0.e0" ontology_id="GO_0034220" text="ion transmembrane transport" type="GO"/>
+    <entity charOffset="203-226" id="29572195.s0.e1" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <pair e1="29572195.s0.e0" e2="29572195.s0.e1" id="29572195.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29572195.s1" text="Common facial dysmorphisms include a thin upper nuclear-transcribed mRNA catabolic process, nonsense-mediated decay, a tented upper lip, a triangular face, strabismus and microcephaly.">
+    <entity charOffset="7-26" id="29572195.s1.e0" ontology_id="HP_0001999" text="facial dysmorphisms" type="HP"/>
+    <entity charOffset="48-115" id="29572195.s1.e1" ontology_id="GO_0000184" text="nuclear-transcribed mRNA catabolic process, nonsense-mediated decay" type="GO"/>
+    <entity charOffset="156-166" id="29572195.s1.e2" ontology_id="HP_0000486" text="strabismus" type="HP"/>
+  </sentence>
+</document>

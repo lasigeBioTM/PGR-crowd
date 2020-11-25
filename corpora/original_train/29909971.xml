@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="29909971">
+  <sentence id="29909971.s0" text="Mutations in antibacterial humoral response (antibacterial humoral response) cause neurodegenerative disorders in humans, including autosomal recessive neuroaxonal dystrophy and early-onset parkinsonism.">
+    <entity charOffset="13-43" id="29909971.s0.e0" ontology_id="GO_0019731" text="antibacterial humoral response" type="GO"/>
+    <entity charOffset="45-75" id="29909971.s0.e1" ontology_id="GO_0019731" text="antibacterial humoral response" type="GO"/>
+    <entity charOffset="132-151" id="29909971.s0.e2" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="190-202" id="29909971.s0.e3" ontology_id="HP_0001300" text="parkinsonism" type="HP"/>
+    <pair e1="29909971.s0.e0" e2="29909971.s0.e2" id="29909971.s0.p0" relation="true"/>
+    <pair e1="29909971.s0.e1" e2="29909971.s0.e2" id="29909971.s0.p1" relation="true"/>
+    <pair e1="29909971.s0.e1" e2="29909971.s0.e3" id="29909971.s0.p2" relation="true"/>
+  </sentence>
+</document>

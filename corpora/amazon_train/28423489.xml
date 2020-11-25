@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<document id="28423489">
+  <sentence id="28423489.s0" text="In the gene expression and network-level information, we revealed significant alterations of molecules related to response to hypoxia and metabolic pathways in the hypoxic-conditioned lung cancer cells.">
+    <entity charOffset="114-133" id="28423489.s0.e0" ontology_id="GO_0001666" text="response to hypoxia" type="GO"/>
+    <entity charOffset="189-195" id="28423489.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28423489.s0.e0" e2="28423489.s0.e1" id="28423489.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28423489.s1" text="We also observed that glycogen biosynthetic process and HK2 are downstream of response to hypoxia pathway important in hypoxia-conditioned lung cancer cell.">
+    <entity charOffset="22-51" id="28423489.s1.e0" ontology_id="GO_0005978" text="glycogen biosynthetic process" type="GO"/>
+    <entity charOffset="78-97" id="28423489.s1.e1" ontology_id="GO_0001666" text="response to hypoxia" type="GO"/>
+    <entity charOffset="144-150" id="28423489.s1.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28423489.s1.e0" e2="28423489.s1.e2" id="28423489.s1.p0" relation="true"/>
+    <pair e1="28423489.s1.e1" e2="28423489.s1.e2" id="28423489.s1.p1" relation="true"/>
+  </sentence>
+  <sentence id="28423489.s2" text="Furthermore, we used publicly available datasets to validate that the late-stage lung adenocarcinoma patients showed higher expression HK2 and glycogen biosynthetic process than early-stage ones.">
+    <entity charOffset="81-100" id="28423489.s2.e0" ontology_id="HP_0030078" text="lung adenocarcinoma" type="HP"/>
+    <entity charOffset="143-172" id="28423489.s2.e1" ontology_id="GO_0005978" text="glycogen biosynthetic process" type="GO"/>
+    <pair e1="28423489.s2.e0" e2="28423489.s2.e1" id="28423489.s2.p0" relation="true"/>
+  </sentence>
+</document>

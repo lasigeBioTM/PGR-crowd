@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<document id="30486759">
+  <sentence id="30486759.s0" text="This is the first study to investigate the effect of vitamin D receptor ( negative regulation of transcription by RNA polymerase II) gene single-nucleotide polymorphisms on the clinicopathologic features of papillary thyroid cancer in Turkey.">
+    <entity charOffset="74-131" id="30486759.s0.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="225-231" id="30486759.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30486759.s0.e0" e2="30486759.s0.e1" id="30486759.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="30486759.s1" text="negative regulation of transcription by RNA polymerase II gene polymorphisms BsmI, ApaI, and TaqI did not differ between the papillary thyroid cancer group and control group (p &amp;gt; 0.05, each).">
+    <entity charOffset="0-57" id="30486759.s1.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="143-149" id="30486759.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30486759.s1.e0" e2="30486759.s1.e1" id="30486759.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="30486759.s2" text="negative regulation of transcription by RNA polymerase II gene FokI T allele and TT genotype correlated with aggressiveness of papillary thyroid cancer; thus, FokI could be useful as a poor prognostic factor to assess the high risk of papillary thyroid cancer">
+    <entity charOffset="0-57" id="30486759.s2.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="109-123" id="30486759.s2.e1" ontology_id="HP_0000718" text="aggressiveness" type="HP"/>
+    <entity charOffset="145-151" id="30486759.s2.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30486759.s2.e0" e2="30486759.s2.e2" id="30486759.s2.p0" relation="true"/>
+    <pair e1="30486759.s2.e0" e2="30486759.s2.e1" id="30486759.s2.p1" relation="true"/>
+  </sentence>
+</document>

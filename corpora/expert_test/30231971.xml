@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30231971">
+  <sentence id="30231971.s0" text="Here, we show that human spSCC tumours also feature strong nuclear localisation of regulation of cell cycle and overexpression of activated YAP (NLS-YAP-5SA) with Keratin-5 (K5-CreERt) is sufficient to induce rapid formation of both SCC and spSCC in mice.">
+    <entity charOffset="31-38" id="30231971.s0.e0" ontology_id="HP_0002664" text="tumours" type="HP"/>
+    <entity charOffset="83-107" id="30231971.s0.e1" ontology_id="GO_0051726" text="regulation of cell cycle" type="GO"/>
+    <pair e1="30231971.s0.e0" e2="30231971.s0.e1" id="30231971.s0.p0" relation="true"/>
+  </sentence>
+</document>

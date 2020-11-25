@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="24056535">
+  <sentence id="24056535.s0" text="Using whole exome sequencing in 14 patients with isolated periventricular nodular heterotopia but no copy number variants, we identified one patient with periventricular nodular heterotopia, developmental delay and epilepsy and a de novo missense mutation in the chromosome 6 open reading frame 70 (biological_process) gene, mapping in the minimal critical deleted region.">
+    <entity charOffset="82-93" id="24056535.s0.e0" ontology_id="HP_0002282" text="heterotopia" type="HP"/>
+    <entity charOffset="215-223" id="24056535.s0.e1" ontology_id="HP_0001250" text="epilepsy" type="HP"/>
+    <entity charOffset="299-317" id="24056535.s0.e2" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <pair e1="24056535.s0.e0" e2="24056535.s0.e2" id="24056535.s0.p0" relation="true"/>
+    <pair e1="24056535.s0.e1" e2="24056535.s0.e2" id="24056535.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="24056535.s1" text="Silencing of biological_process in the developing rat neocortex produced periventricular nodular heterotopia that was rescued by concomitant expression of wild-type human C6orf70 protein.">
+    <entity charOffset="13-31" id="24056535.s1.e0" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="97-108" id="24056535.s1.e1" ontology_id="HP_0002282" text="heterotopia" type="HP"/>
+    <pair e1="24056535.s1.e0" e2="24056535.s1.e1" id="24056535.s1.p0" relation="true"/>
+  </sentence>
+</document>

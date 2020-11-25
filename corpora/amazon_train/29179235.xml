@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="29179235">
+  <sentence id="29179235.s0" text="A novel hereditary disorder encompassing high blood Mn levels, dystonia, polycythemia, distinctive cell recognition hyperintense signals in the basal ganglia on magnetic resonance imaging (MRI) brain, and chronic liver disease was recently described.">
+    <entity charOffset="73-85" id="29179235.s0.e0" ontology_id="HP_0001901" text="polycythemia" type="HP"/>
+    <entity charOffset="99-115" id="29179235.s0.e1" ontology_id="GO_0008037" text="cell recognition" type="GO"/>
+    <pair e1="29179235.s0.e0" e2="29179235.s0.e1" id="29179235.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29179235.s1" text="The older brother presented with progressive gait difficulties, hypotonia, intermittent dystonia, polycythemia, and characteristic cell recognition-hyperintense lesions on MRI brain.">
+    <entity charOffset="88-96" id="29179235.s1.e0" ontology_id="HP_0001332" text="dystonia" type="HP"/>
+    <entity charOffset="98-110" id="29179235.s1.e1" ontology_id="HP_0001901" text="polycythemia" type="HP"/>
+    <entity charOffset="131-147" id="29179235.s1.e2" ontology_id="GO_0008037" text="cell recognition" type="GO"/>
+    <pair e1="29179235.s1.e0" e2="29179235.s1.e2" id="29179235.s1.p0" relation="true"/>
+    <pair e1="29179235.s1.e1" e2="29179235.s1.e2" id="29179235.s1.p1" relation="true"/>
+  </sentence>
+</document>

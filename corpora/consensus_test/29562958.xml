@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29562958">
+  <sentence id="29562958.s0" text="Our study aimed to investigate the roles and possible regulatory mechanism of miR-1277 in the development of hepatocellular carcinoma (phosphatidylinositol phosphorylation).">
+    <entity charOffset="109-133" id="29562958.s0.e0" ontology_id="HP_0001402" text="hepatocellular carcinoma" type="HP"/>
+    <entity charOffset="135-171" id="29562958.s0.e1" ontology_id="GO_0046854" text="phosphatidylinositol phosphorylation" type="GO"/>
+    <pair e1="29562958.s0.e0" e2="29562958.s0.e1" id="29562958.s0.p0" relation="false"/>
+  </sentence>
+</document>

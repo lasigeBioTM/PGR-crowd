@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="28877251">
+  <sentence id="28877251.s0" text="In the present study, we used a custom-made negative regulation of cell proliferation panel to identify the genetic defect of a four-generation Chinese family with bilateral pulverulent nuclear cataracts.">
+    <entity charOffset="44-85" id="28877251.s0.e0" ontology_id="GO_0008285" text="negative regulation of cell proliferation" type="GO"/>
+    <entity charOffset="164-173" id="28877251.s0.e1" ontology_id="HP_0012832" text="bilateral" type="HP"/>
+    <entity charOffset="194-202" id="28877251.s0.e2" ontology_id="HP_0000518" text="cataract" type="HP"/>
+    <pair e1="28877251.s0.e0" e2="28877251.s0.e2" id="28877251.s0.p0" relation="true"/>
+    <pair e1="28877251.s0.e0" e2="28877251.s0.e1" id="28877251.s0.p1" relation="true"/>
+  </sentence>
+</document>

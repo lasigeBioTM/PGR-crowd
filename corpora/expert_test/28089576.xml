@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<document id="28089576">
+  <sentence id="28089576.s0" text="Mutations in the Pejvakin (biological_process) gene cause autosomal recessive hearing loss DFNB59 with audiological features of auditory neuropathy spectrum disorder (ANSD) or cochlear dysfunction.">
+    <entity charOffset="27-45" id="28089576.s0.e0" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="58-77" id="28089576.s0.e1" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="78-90" id="28089576.s0.e2" ontology_id="HP_0000365" text="hearing loss" type="HP"/>
+    <pair e1="28089576.s0.e0" e2="28089576.s0.e2" id="28089576.s0.p0" relation="true"/>
+    <pair e1="28089576.s0.e0" e2="28089576.s0.e1" id="28089576.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="28089576.s1" text="By contrast, loss of biological_process in adult OHCs causes a slowly progressive hearing loss associated with OHC degeneration and delayed loss of inner hair cells (IHCs), indicating a primary role for pejvakin in regulating OHC function and survival.">
+    <entity charOffset="21-39" id="28089576.s1.e0" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="82-94" id="28089576.s1.e1" ontology_id="HP_0000365" text="hearing loss" type="HP"/>
+    <pair e1="28089576.s1.e0" e2="28089576.s1.e1" id="28089576.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="28089576.s2" text="Here, we demonstrate that mice with conditional ablation of the biological_process gene in all sensory hair cells or only in outer hair cells (OHCs) show similar auditory phenotypes with early-onset profound hearing loss.">
+    <entity charOffset="64-82" id="28089576.s2.e0" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="199-207" id="28089576.s2.e1" ontology_id="HP_0012829" text="profound" type="HP"/>
+    <entity charOffset="208-220" id="28089576.s2.e2" ontology_id="HP_0000365" text="hearing loss" type="HP"/>
+    <pair e1="28089576.s2.e0" e2="28089576.s2.e2" id="28089576.s2.p0" relation="true"/>
+    <pair e1="28089576.s2.e0" e2="28089576.s2.e1" id="28089576.s2.p1" relation="true"/>
+  </sentence>
+</document>

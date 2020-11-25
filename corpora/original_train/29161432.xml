@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29161432">
+  <sentence id="29161432.s0" text="Homozygous, loss of function variants in G protein-coupled receptor signaling pathway was initially implicated in autosomal recessive IGD; however, most IGD-associated PROKR2 variants are heterozygous.">
+    <entity charOffset="41-85" id="29161432.s0.e0" ontology_id="GO_0007186" text="G protein-coupled receptor signaling pathway" type="GO"/>
+    <entity charOffset="114-133" id="29161432.s0.e1" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <pair e1="29161432.s0.e0" e2="29161432.s0.e1" id="29161432.s0.p0" relation="true"/>
+  </sentence>
+</document>

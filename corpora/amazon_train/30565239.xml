@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30565239">
+  <sentence id="30565239.s0" text="One hundred and forty-eight negative regulation of regulatory T cell differentiation mutation carriers have been reported; patients showed hypogammaglobulinemia, recurrent infectious diseases, various autoimmune diseases, and lymphocytic infiltration into multiple organs.">
+    <entity charOffset="28-84" id="30565239.s0.e0" ontology_id="GO_0045590" text="negative regulation of regulatory T cell differentiation" type="GO"/>
+    <entity charOffset="139-160" id="30565239.s0.e1" ontology_id="HP_0004313" text="hypogammaglobulinemia" type="HP"/>
+    <pair e1="30565239.s0.e0" e2="30565239.s0.e1" id="30565239.s0.p0" relation="true"/>
+  </sentence>
+</document>

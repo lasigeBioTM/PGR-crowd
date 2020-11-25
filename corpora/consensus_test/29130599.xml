@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="29130599">
+  <sentence id="29130599.s0" text="Shared facial features are a broad and wide forehead, similar shape of the eyes with long palpebral fissures, a bulbous biological_process of the nose and thick lips.">
+    <entity charOffset="39-52" id="29130599.s0.e0" ontology_id="HP_0000337" text="wide forehead" type="HP"/>
+    <entity charOffset="120-138" id="29130599.s0.e1" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+  </sentence>
+</document>

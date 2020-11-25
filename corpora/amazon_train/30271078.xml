@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<document id="30271078">
+  <sentence id="30271078.s0" text="Although the expression pattern and functions of the detection of calcium ion in the colonic microenvironment are far from being completely understood, evidence has been accumulating that the CaSR might play a protective role against both colonic inflammation and colorectal cancer.">
+    <entity charOffset="53-77" id="30271078.s0.e0" ontology_id="GO_0005513" text="detection of calcium ion" type="GO"/>
+    <entity charOffset="275-281" id="30271078.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30271078.s0.e0" e2="30271078.s0.e1" id="30271078.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="30271078.s1" text="For example, detection of calcium ion agonists such as dipeptides have been suggested to reduce colonic inflammation, while dietary calcium was shown to reduce the risk of colorectal cancer.">
+    <entity charOffset="13-37" id="30271078.s1.e0" ontology_id="GO_0005513" text="detection of calcium ion" type="GO"/>
+    <entity charOffset="183-189" id="30271078.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30271078.s1.e0" e2="30271078.s1.e1" id="30271078.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="30271078.s2" text="This dual anti-inflammatory and anti-tumourigenic role of the detection of calcium ion makes it especially interesting in colitis-associated colorectal cancer.">
+    <entity charOffset="62-86" id="30271078.s2.e0" ontology_id="GO_0005513" text="detection of calcium ion" type="GO"/>
+    <entity charOffset="152-158" id="30271078.s2.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30271078.s2.e0" e2="30271078.s2.e1" id="30271078.s2.p0" relation="true"/>
+  </sentence>
+  <sentence id="30271078.s3" text="In this review, we describe the clinical and experimental evidence for the role of the detection of calcium ion in colonic inflammation and colorectal cancer, the intracellular signalling pathways which are putatively involved in these actions, and the possibilities to exploit these actions of the CaSR for future therapies of colonic inflammation and cancer">
+    <entity charOffset="87-111" id="30271078.s3.e0" ontology_id="GO_0005513" text="detection of calcium ion" type="GO"/>
+    <entity charOffset="151-157" id="30271078.s3.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30271078.s3.e0" e2="30271078.s3.e1" id="30271078.s3.p0" relation="false"/>
+  </sentence>
+</document>

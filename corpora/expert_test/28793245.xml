@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="28793245">
+  <sentence id="28793245.s0" text="osteoblast differentiation expression is absent in normal urothelial cells, but it begins to be expressed in pre-neoplastic bladder tumors and continues to be expressed in invasive mouse BCa.">
+    <entity charOffset="0-26" id="28793245.s0.e0" ontology_id="GO_0001649" text="osteoblast differentiation" type="GO"/>
+    <entity charOffset="132-138" id="28793245.s0.e1" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <pair e1="28793245.s0.e0" e2="28793245.s0.e1" id="28793245.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28793245.s1" text="Ablation of osteoblast differentiation-expressing cells within primary invasive BCa led to enhanced tumor regression, supporting the essential role of SOX2-positive cells in regulating BCa maintenance and progression.">
+    <entity charOffset="12-38" id="28793245.s1.e0" ontology_id="GO_0001649" text="osteoblast differentiation" type="GO"/>
+    <entity charOffset="100-105" id="28793245.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28793245.s1.e0" e2="28793245.s1.e1" id="28793245.s1.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28839118">
+  <sentence id="28839118.s0" text="We detected 11 novel mutations in &lt;i&gt;GJA3&lt;/i&gt;, &lt;i&gt;GJA8&lt;/i&gt;, &lt;i&gt;CRYAA&lt;/i&gt;, &lt;i&gt;CRYBB2&lt;/i&gt;, &lt;i&gt;CRYGS&lt;/i&gt;, &lt;i&gt;CRYGA&lt;/i&gt;, &lt;i&gt;GCNT2&lt;/i&gt;, &lt;i&gt;CRYGA&lt;/i&gt;, and &lt;i&gt;MIP&lt;/i&gt;; and three previously reported cataract-causing mutations in &lt;i&gt;GJA8&lt;/i&gt;, &lt;i&gt;CRYAA&lt;/i&gt;, and &lt;i&gt;CRYBB2&lt;/i&gt; The most commonly mutated genes were those coding for negative regulation of cell-matrix adhesion junctions and crystallin proteins.">
+    <entity charOffset="191-199" id="28839118.s0.e0" ontology_id="HP_0000518" text="cataract" type="HP"/>
+    <entity charOffset="320-363" id="28839118.s0.e1" ontology_id="GO_0001953" text="negative regulation of cell-matrix adhesion" type="GO"/>
+    <pair e1="28839118.s0.e0" e2="28839118.s0.e1" id="28839118.s0.p0" relation="true"/>
+  </sentence>
+</document>

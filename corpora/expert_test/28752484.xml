@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28752484">
+  <sentence id="28752484.s0" text="Mutations of the succinate dehydrogenase (choline catabolic process) complex subunits (A, B, C, D, and SDHAF2) have been implicated in predicting metastatic behavior and in identifying possible paraganglioma syndromes.">
+    <entity charOffset="42-67" id="28752484.s0.e0" ontology_id="GO_0042426" text="choline catabolic process" type="GO"/>
+    <entity charOffset="194-207" id="28752484.s0.e1" ontology_id="HP_0002668" text="paraganglioma" type="HP"/>
+    <pair e1="28752484.s0.e0" e2="28752484.s0.e1" id="28752484.s0.p0" relation="true"/>
+  </sentence>
+</document>

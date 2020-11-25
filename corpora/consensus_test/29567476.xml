@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29567476">
+  <sentence id="29567476.s0" text="Here, we report that mitotic spindle assembly checkpoint is highly overexpressed in multiple lung adenocarcinoma cell lines and tumor tissues.">
+    <entity charOffset="21-56" id="29567476.s0.e0" ontology_id="GO_0007094" text="mitotic spindle assembly checkpoint" type="GO"/>
+    <entity charOffset="128-133" id="29567476.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29567476.s0.e0" e2="29567476.s0.e1" id="29567476.s0.p0" relation="true"/>
+  </sentence>
+</document>

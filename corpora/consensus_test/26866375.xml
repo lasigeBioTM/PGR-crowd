@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="26866375">
+  <sentence id="26866375.s0" text="Autosomal recessive ataxias are a clinically diverse group of syndromes that in some cases are caused by mutations in genes with roles in the DNA cellular protein catabolic process response, transcriptional regulation or mitochondrial function.">
+    <entity charOffset="20-27" id="26866375.s0.e0" ontology_id="HP_0001251" text="ataxias" type="HP"/>
+    <entity charOffset="146-180" id="26866375.s0.e1" ontology_id="GO_0044257" text="cellular protein catabolic process" type="GO"/>
+  </sentence>
+</document>

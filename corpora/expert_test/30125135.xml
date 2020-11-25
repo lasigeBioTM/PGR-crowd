@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="30125135">
+  <sentence id="30125135.s0" text="In addition, reduced hair follicles (HFs) while the enlarged and increased number of sebaceous glands (SGs) were also found in the anatomical structure morphogenesis&lt;sup&gt;-/-&lt;/sup&gt; rabbits, showing that the disrupted balance between HFs and SGs may respond to hypotrichosis of ECTD-9 in an animal model and clinically.">
+    <entity charOffset="131-165" id="30125135.s0.e0" ontology_id="GO_0009653" text="anatomical structure morphogenesis" type="GO"/>
+    <entity charOffset="259-272" id="30125135.s0.e1" ontology_id="HP_0001006" text="hypotrichosis" type="HP"/>
+    <pair e1="30125135.s0.e0" e2="30125135.s0.e1" id="30125135.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="30125135.s1" text="Here, the homozygous anatomical structure morphogenesis&lt;sup&gt;-/-&lt;/sup&gt; rabbits showed complete loss of hair on the head and dorsum, whereas hypotrichosis in the limbs and tail were determined in the Hoxc13&lt;sup&gt;-/-&lt;/sup&gt; rabbits.">
+    <entity charOffset="21-55" id="30125135.s1.e0" ontology_id="GO_0009653" text="anatomical structure morphogenesis" type="GO"/>
+    <entity charOffset="139-152" id="30125135.s1.e1" ontology_id="HP_0001006" text="hypotrichosis" type="HP"/>
+    <pair e1="30125135.s1.e0" e2="30125135.s1.e1" id="30125135.s1.p0" relation="false"/>
+  </sentence>
+</document>

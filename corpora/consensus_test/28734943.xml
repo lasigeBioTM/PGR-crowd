@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28734943">
+  <sentence id="28734943.s0" text="More important, negative regulation of endodermal cell differentiation haploinsufficiency markedly increased the incidence and severity of abdominal aortic aneurysms, and caused aortic arch ruptures and dissections, indicating that α2(V) chain deficits may play roles in these pathologies in humans">
+    <entity charOffset="16-70" id="28734943.s0.e0" ontology_id="GO_1903225" text="negative regulation of endodermal cell differentiation" type="GO"/>
+    <entity charOffset="149-165" id="28734943.s0.e1" ontology_id="HP_0004942" text="aortic aneurysms" type="HP"/>
+    <pair e1="28734943.s0.e0" e2="28734943.s0.e1" id="28734943.s0.p0" relation="true"/>
+  </sentence>
+</document>

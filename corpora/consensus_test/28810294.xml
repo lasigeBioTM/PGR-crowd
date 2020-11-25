@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<document id="28810294">
+  <sentence id="28810294.s0" text="Correct classification of HGSC may have potential impcoenzyme A biosynthetic processs for cancer prevention and improve our understanding of ovarian serous carcinogenesis">
+    <entity charOffset="53-84" id="28810294.s0.e0" ontology_id="GO_0015937" text="coenzyme A biosynthetic process" type="GO"/>
+    <entity charOffset="90-96" id="28810294.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+  </sentence>
+  <sentence id="28810294.s1" text="&lt;b&gt;Methods:&lt;/b&gt; The fallopian tubes in 58 cases of pelvic HGSC (54 cases of ovarian primary, 3 cases of tubal primary, 1 case of peritoneum) and 25 cases of pelvic non-HGSC (5 cases of ovarian low-grade serous cancer, 9 cases of endometrioid cancer, and 11 cases of clear cell ovary carcinoma) were collected from June 2015 to December 2016, and serially examined under T cell costimulation microscope (SEE-FIM protocol).">
+    <entity charOffset="210-216" id="28810294.s1.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="370-390" id="28810294.s1.e1" ontology_id="GO_0031295" text="T cell costimulation" type="GO"/>
+  </sentence>
+</document>

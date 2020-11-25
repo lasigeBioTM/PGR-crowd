@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28866396">
+  <sentence id="28866396.s0" text="Among all premature deaths, contributions of cerebrovascular disease (stroke), ischemic heart disease (IHD), chronic obstructive pulmonary disease (intracellular protein transport), lung cancer (LC) and acute lower respiratory infections (ALRIs) were 51.70, 26.26, 11.77, 9.45 and 0.82%, respectively.">
+    <entity charOffset="148-179" id="28866396.s0.e0" ontology_id="GO_0006886" text="intracellular protein transport" type="GO"/>
+    <entity charOffset="187-193" id="28866396.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28866396.s0.e0" e2="28866396.s0.e1" id="28866396.s0.p0" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<document id="29662198">
+  <sentence id="29662198.s0" text="regulation of ARF protein signal transductions display resistance to frontline cancer treatment and retain the ability to repopulate a tumor after therapy, leading to cancer relapse.">
+    <entity charOffset="0-45" id="29662198.s0.e0" ontology_id="GO_0032012" text="regulation of ARF protein signal transduction" type="GO"/>
+    <entity charOffset="79-85" id="29662198.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="135-140" id="29662198.s0.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29662198.s0.e0" e2="29662198.s0.e2" id="29662198.s0.p0" relation="true"/>
+    <pair e1="29662198.s0.e0" e2="29662198.s0.e1" id="29662198.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="29662198.s1" text="Here we identify a novel mechanism of NOTCH regulation and regulation of ARF protein signal transduction induction in breast cancer via the miR-106b-25 miRNA cluster.">
+    <entity charOffset="59-104" id="29662198.s1.e0" ontology_id="GO_0032012" text="regulation of ARF protein signal transduction" type="GO"/>
+    <entity charOffset="125-131" id="29662198.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29662198.s1.e0" e2="29662198.s1.e1" id="29662198.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="29662198.s2" text="We show that the miR-106b-25 cluster upregulates NOTCH1 in multiple breast cancer cell lines, representing both estrogen receptor (ER+) and triple negative breast cancer (TNBC) through direct repression of the E3 ubiquitin ligase, regulation of membrane depolarization.">
+    <entity charOffset="75-81" id="29662198.s2.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="231-268" id="29662198.s2.e1" ontology_id="GO_0003254" text="regulation of membrane depolarization" type="GO"/>
+    <pair e1="29662198.s2.e0" e2="29662198.s2.e1" id="29662198.s2.p0" relation="true"/>
+  </sentence>
+  <sentence id="29662198.s3" text="We further show that upregulation of cell cycle arrest is necessary for regulation of ARF protein signal transduction induction downstream of protein polyubiquitination-106b-25 in both ER + and TNBC breast cancer cells, and that re-expression of NEDD4L is sufficient to reverse miR106b-25-mediated NOTCH1 upregulation and TIC induction.">
+    <entity charOffset="37-54" id="29662198.s3.e0" ontology_id="GO_0007050" text="cell cycle arrest" type="GO"/>
+    <entity charOffset="72-117" id="29662198.s3.e1" ontology_id="GO_0032012" text="regulation of ARF protein signal transduction" type="GO"/>
+    <entity charOffset="142-168" id="29662198.s3.e2" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="206-212" id="29662198.s3.e3" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29662198.s3.e0" e2="29662198.s3.e3" id="29662198.s3.p0" relation="true"/>
+    <pair e1="29662198.s3.e1" e2="29662198.s3.e3" id="29662198.s3.p1" relation="true"/>
+    <pair e1="29662198.s3.e2" e2="29662198.s3.e3" id="29662198.s3.p2" relation="true"/>
+  </sentence>
+  <sentence id="29662198.s4" text="Importantly, we demonstrate a significant positive correlation between miR-106b-25 and cell cycle arrest protein, yet a significant inverse correlation between miR-106b-25 and NEDD4L mRNA in human breast cancer, suggesting a critical role for the miR106b-25/NEDD4L/NOTCH1 axis in the disease.">
+    <entity charOffset="87-104" id="29662198.s4.e0" ontology_id="GO_0007050" text="cell cycle arrest" type="GO"/>
+    <entity charOffset="204-210" id="29662198.s4.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+  </sentence>
+  <sentence id="29662198.s5" text="These data expand our knowledge of the mechanisms underlying NOTCH activation and regulation of ARF protein signal transduction induction in breast cancer, and may provide new avenues for the development of therapies targeting this resistant subset of tumor cells">
+    <entity charOffset="82-127" id="29662198.s5.e0" ontology_id="GO_0032012" text="regulation of ARF protein signal transduction" type="GO"/>
+    <entity charOffset="148-154" id="29662198.s5.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29662198.s5.e0" e2="29662198.s5.e1" id="29662198.s5.p0" relation="true"/>
+  </sentence>
+</document>

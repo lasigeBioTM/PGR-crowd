@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="24835313">
+  <sentence id="24835313.s0" text="Several gene encoding proteins related to collagen metabolism have been described in some cases of autosomal recessive OI (including protein stabilization, protein folding, protein peptidyl-prolyl isomerization, FKBP65, SERPINF1, proteolysis, WNT1, FKBP10).">
+    <entity charOffset="99-118" id="24835313.s0.e0" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="133-154" id="24835313.s0.e1" ontology_id="GO_0050821" text="protein stabilization" type="GO"/>
+    <entity charOffset="156-171" id="24835313.s0.e2" ontology_id="GO_0006457" text="protein folding" type="GO"/>
+    <entity charOffset="173-210" id="24835313.s0.e3" ontology_id="GO_0000413" text="protein peptidyl-prolyl isomerization" type="GO"/>
+    <entity charOffset="230-241" id="24835313.s0.e4" ontology_id="GO_0006508" text="proteolysis" type="GO"/>
+    <pair e1="24835313.s0.e0" e2="24835313.s0.e1" id="24835313.s0.p0" relation="true"/>
+    <pair e1="24835313.s0.e0" e2="24835313.s0.e2" id="24835313.s0.p1" relation="true"/>
+    <pair e1="24835313.s0.e0" e2="24835313.s0.e3" id="24835313.s0.p2" relation="true"/>
+    <pair e1="24835313.s0.e0" e2="24835313.s0.e4" id="24835313.s0.p3" relation="true"/>
+  </sentence>
+  <sentence id="24835313.s1" text="Recently, TMEM38B, a gene that encodes endoplasmic reticulum organization, a monovalent cation-specific channel involved in calcium flux from intracellular stores and in cell differentiation, has been associated with autosomal recessive OI.">
+    <entity charOffset="39-73" id="24835313.s1.e0" ontology_id="GO_0007029" text="endoplasmic reticulum organization" type="GO"/>
+    <entity charOffset="217-236" id="24835313.s1.e1" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+  </sentence>
+</document>

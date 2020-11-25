@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<document id="29901129">
+  <sentence id="29901129.s0" text="The key clinical features of the patient with receptor-mediated endocytosis included short stature, joint contractures, pigeon breast, and myotonia that led to progressive stiffness of the interstrand cross-link repair and limbs; barely discernible kyphosis was also noted.">
+    <entity charOffset="46-75" id="29901129.s0.e0" ontology_id="GO_0006898" text="receptor-mediated endocytosis" type="GO"/>
+    <entity charOffset="85-98" id="29901129.s0.e1" ontology_id="HP_0004322" text="short stature" type="HP"/>
+    <entity charOffset="189-218" id="29901129.s0.e2" ontology_id="GO_0036297" text="interstrand cross-link repair" type="GO"/>
+    <entity charOffset="249-257" id="29901129.s0.e3" ontology_id="HP_0002808" text="kyphosis" type="HP"/>
+    <pair e1="29901129.s0.e0" e2="29901129.s0.e3" id="29901129.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29901129.s1" text="Schwartz-Jampel syndrome muscle organ development 1 (SJS1) is a rare autosomal recessive disease caused by mutations in the gene heparan sulfate proteoglycan 2 (HSPG2; also known as basement membrane‑specific heparin sulfate).">
+    <entity charOffset="25-49" id="29901129.s1.e0" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="69-88" id="29901129.s1.e1" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <pair e1="29901129.s1.e0" e2="29901129.s1.e1" id="29901129.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="29901129.s2" text="The family members harboring 1 heterozygous mutation in receptor-mediated endocytosis did not exhibit any skeletal abnormalities.">
+    <entity charOffset="56-85" id="29901129.s2.e0" ontology_id="GO_0006898" text="receptor-mediated endocytosis" type="GO"/>
+    <entity charOffset="106-128" id="29901129.s2.e1" ontology_id="HP_0000924" text="skeletal abnormalities" type="HP"/>
+    <pair e1="29901129.s2.e0" e2="29901129.s2.e1" id="29901129.s2.p0" relation="true"/>
+  </sentence>
+</document>

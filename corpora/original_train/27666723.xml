@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<document id="27666723">
+  <sentence id="27666723.s0" text="The present study, therefore, aimed to evaluate the expression levels of the following growth factors and receptors in squamous cell carcinoma (negative regulation of peptidase activity) of the tongue: the vascular endothelial growth factor (negative regulation of transcription by RNA polymerase II)‑C and VEGF‑D, which bind to the cell surface tyrosine kinase receptor VEGF receptor‑3 (VEGFR‑3); C‑C motif chemokine receptor 7 (myeloid dendritic cell chemotaxis); neuropilin (positive regulation of neurogenesis)1 and NRP2; and semaphorin 3E (branching involved in blood vessel morphogenesis).">
+    <entity charOffset="119-142" id="27666723.s0.e0" ontology_id="HP_0002860" text="squamous cell carcinoma" type="HP"/>
+    <entity charOffset="144-185" id="27666723.s0.e1" ontology_id="GO_0010466" text="negative regulation of peptidase activity" type="GO"/>
+    <entity charOffset="242-299" id="27666723.s0.e2" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="430-463" id="27666723.s0.e3" ontology_id="GO_0002408" text="myeloid dendritic cell chemotaxis" type="GO"/>
+    <entity charOffset="478-513" id="27666723.s0.e4" ontology_id="GO_0050769" text="positive regulation of neurogenesis" type="GO"/>
+    <entity charOffset="545-593" id="27666723.s0.e5" ontology_id="GO_0001569" text="branching involved in blood vessel morphogenesis" type="GO"/>
+    <pair e1="27666723.s0.e0" e2="27666723.s0.e1" id="27666723.s0.p0" relation="false"/>
+    <pair e1="27666723.s0.e0" e2="27666723.s0.e2" id="27666723.s0.p1" relation="false"/>
+    <pair e1="27666723.s0.e0" e2="27666723.s0.e3" id="27666723.s0.p2" relation="false"/>
+    <pair e1="27666723.s0.e0" e2="27666723.s0.e4" id="27666723.s0.p3" relation="false"/>
+    <pair e1="27666723.s0.e0" e2="27666723.s0.e5" id="27666723.s0.p4" relation="false"/>
+  </sentence>
+</document>

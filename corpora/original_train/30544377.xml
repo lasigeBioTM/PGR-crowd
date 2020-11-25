@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="30544377">
+  <sentence id="30544377.s0" text="Our study aimed to investigate the relationship between single nucleotide polymorphisms (SNPs) of claudin 10 (regulation of ion transport) (rs1325774, rs7333503, rs3751334) and breast cancer and the clinical characteristics of patients.A total of 104 patients with breast cancer and 118 healthy controls were recruited in our study between 2013 and 2015.">
+    <entity charOffset="110-137" id="30544377.s0.e0" ontology_id="GO_0043269" text="regulation of ion transport" type="GO"/>
+    <entity charOffset="184-190" id="30544377.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30544377.s0.e0" e2="30544377.s0.e1" id="30544377.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="30544377.s1" text="The expression level of regulation of ion transport was reduced in breast cancer tissues compared with normal breast tissues according to the analysis of The Cancer Genome Atlas (TCGA) data through GEPIA.Our results suggest that the polymorphism of rs1325774 associate with increase the breast cancer risk.">
+    <entity charOffset="24-51" id="30544377.s1.e0" ontology_id="GO_0043269" text="regulation of ion transport" type="GO"/>
+    <entity charOffset="74-80" id="30544377.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30544377.s1.e0" e2="30544377.s1.e1" id="30544377.s1.p0" relation="false"/>
+  </sentence>
+</document>

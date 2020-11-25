@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<document id="28377321">
+  <sentence id="28377321.s0" text="Chromosomal studies for Individual 1 identified an X-chromosome deletion due to a de novo pericentric inversion; the inversion breakpoint was associated with deletion of the 5'UTR of the protein deubiquitination, a gene which has been implicated in a syndromic intellectual disability affecting females.">
+    <entity charOffset="187-211" id="28377321.s0.e0" ontology_id="GO_0016579" text="protein deubiquitination" type="GO"/>
+    <entity charOffset="261-284" id="28377321.s0.e1" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <pair e1="28377321.s0.e0" e2="28377321.s0.e1" id="28377321.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28377321.s1" text="Haploinsufficiency of protein deubiquitination in females has been associated with ID and congenital malformations that include heart defects, scoliosis, dental abnormalities, anal atresia, polydactyly, Dandy Walker malformation and hypoplastic corpus callosum.">
+    <entity charOffset="22-46" id="28377321.s1.e0" ontology_id="GO_0016579" text="protein deubiquitination" type="GO"/>
+    <entity charOffset="143-152" id="28377321.s1.e1" ontology_id="HP_0002650" text="scoliosis" type="HP"/>
+    <entity charOffset="154-174" id="28377321.s1.e2" ontology_id="HP_0000164" text="dental abnormalities" type="HP"/>
+    <entity charOffset="176-188" id="28377321.s1.e3" ontology_id="HP_0002023" text="anal atresia" type="HP"/>
+    <entity charOffset="190-201" id="28377321.s1.e4" ontology_id="HP_0010442" text="polydactyly" type="HP"/>
+    <pair e1="28377321.s1.e0" e2="28377321.s1.e4" id="28377321.s1.p0" relation="true"/>
+    <pair e1="28377321.s1.e0" e2="28377321.s1.e1" id="28377321.s1.p1" relation="true"/>
+    <pair e1="28377321.s1.e0" e2="28377321.s1.e2" id="28377321.s1.p2" relation="true"/>
+    <pair e1="28377321.s1.e0" e2="28377321.s1.e3" id="28377321.s1.p3" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<document id="26073781">
+  <sentence id="26073781.s0" text="There was weaker evidence for iCHAV4, located 5' of sulfur amino acid catabolic process, associated only with ER-positive breast cancer (OR = 0.93 [0.90-0.96]).">
+    <entity charOffset="52-87" id="26073781.s0.e0" ontology_id="GO_0000098" text="sulfur amino acid catabolic process" type="GO"/>
+    <entity charOffset="129-135" id="26073781.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="26073781.s0.e0" e2="26073781.s0.e1" id="26073781.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="26073781.s1" text="Chromosome conformation capture analysis showed that iCHAV2 interacts with the negative regulation of neuron projection development and autophagy (more than 600 kb away) promoters in normal and cancerous breast epithelial cells.">
+    <entity charOffset="79-131" id="26073781.s1.e0" ontology_id="GO_0010977" text="negative regulation of neuron projection development" type="GO"/>
+    <entity charOffset="136-145" id="26073781.s1.e1" ontology_id="GO_0006914" text="autophagy" type="GO"/>
+    <entity charOffset="194-200" id="26073781.s1.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="26073781.s1.e0" e2="26073781.s1.e2" id="26073781.s1.p0" relation="false"/>
+    <pair e1="26073781.s1.e1" e2="26073781.s1.e2" id="26073781.s1.p1" relation="false"/>
+  </sentence>
+  <sentence id="26073781.s2" text="Luciferase assays did not identify SNPs that affect transactivation of ZNF365, but identified a protective haplotype in iCHAV2, associated with silencing of the autophagy promoter, implicating this gene in the etiology of breast cancer.">
+    <entity charOffset="161-170" id="26073781.s2.e0" ontology_id="GO_0006914" text="autophagy" type="GO"/>
+    <entity charOffset="229-235" id="26073781.s2.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="26073781.s2.e0" e2="26073781.s2.e1" id="26073781.s2.p0" relation="false"/>
+  </sentence>
+</document>

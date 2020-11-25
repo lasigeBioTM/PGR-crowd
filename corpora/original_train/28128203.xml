@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="28128203">
+  <sentence id="28128203.s0" text="Gain-of-function mutations in negative regulation of protein secretion underlie Tylosis with oesophageal cancer (negative regulation of protein secretion), characterized by palmoplantar thickening, upregulate K16 with robust downregulation of its type II keratin binding partner, K6.">
+    <entity charOffset="30-70" id="28128203.s0.e0" ontology_id="GO_0050709" text="negative regulation of protein secretion" type="GO"/>
+    <entity charOffset="105-111" id="28128203.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="113-153" id="28128203.s0.e2" ontology_id="GO_0050709" text="negative regulation of protein secretion" type="GO"/>
+    <pair e1="28128203.s0.e0" e2="28128203.s0.e1" id="28128203.s0.p0" relation="true"/>
+    <pair e1="28128203.s0.e1" e2="28128203.s0.e2" id="28128203.s0.p1" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="27585752">
+  <sentence id="27585752.s0" text="Besides, previous evidence suggested that morphogenesis of a polarized epithelium expression was changed in schizophrenia patients.">
+    <entity charOffset="42-81" id="27585752.s0.e0" ontology_id="GO_0001738" text="morphogenesis of a polarized epithelium" type="GO"/>
+    <entity charOffset="108-121" id="27585752.s0.e1" ontology_id="HP_0100753" text="schizophrenia" type="HP"/>
+    <pair e1="27585752.s0.e0" e2="27585752.s0.e1" id="27585752.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="27585752.s1" text="Furthermore, association signal between morphogenesis of a polarized epithelium variants and schizophrenia has been reported in several European samples.">
+    <entity charOffset="40-79" id="27585752.s1.e0" ontology_id="GO_0001738" text="morphogenesis of a polarized epithelium" type="GO"/>
+    <entity charOffset="93-106" id="27585752.s1.e1" ontology_id="HP_0100753" text="schizophrenia" type="HP"/>
+    <pair e1="27585752.s1.e0" e2="27585752.s1.e1" id="27585752.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="27585752.s2" text="These results suggested that morphogenesis of a polarized epithelium is likely a risk gene for schizophrenia, at least in European populations.">
+    <entity charOffset="29-68" id="27585752.s2.e0" ontology_id="GO_0001738" text="morphogenesis of a polarized epithelium" type="GO"/>
+    <entity charOffset="95-108" id="27585752.s2.e1" ontology_id="HP_0100753" text="schizophrenia" type="HP"/>
+    <pair e1="27585752.s2.e0" e2="27585752.s2.e1" id="27585752.s2.p0" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="26026368">
+  <sentence id="26026368.s0" text="Overexpression of L-serine biosynthetic process in CK5-positive cell lineages, and differential protein isoform expression, was additionally found in other tissues and cancer types, suggesting that overexpression of Phgdh is generally associated with CK5 cells, and that oncogenic function may be determined by isoform expression.">
+    <entity charOffset="18-47" id="26026368.s0.e0" ontology_id="GO_0006564" text="L-serine biosynthetic process" type="GO"/>
+    <entity charOffset="168-174" id="26026368.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="26026368.s0.e0" e2="26026368.s0.e1" id="26026368.s0.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="23307924">
+  <sentence id="23307924.s0" text="These findings implicate for the first time perturbed TGF-β signaling in the negative regulation of transcription by RNA polymerase II of retinal dystrophies, support the study of related morphogenetic genes for comparable roles in retinal disease and may offer additional therapeutic opportunities for genetically heterogeneous disorders presently only treatable with gene therapy">
+    <entity charOffset="77-134" id="23307924.s0.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="138-157" id="23307924.s0.e1" ontology_id="HP_0000556" text="retinal dystrophies" type="HP"/>
+    <pair e1="23307924.s0.e0" e2="23307924.s0.e1" id="23307924.s0.p0" relation="false"/>
+  </sentence>
+</document>

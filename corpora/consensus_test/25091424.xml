@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="25091424">
+  <sentence id="25091424.s0" text="In primary forms treatment can lysosome localization the progression of both SRNS and encephalopathy, hence the critical importance of a prompt diagnosis.">
+    <entity charOffset="31-52" id="25091424.s0.e0" ontology_id="GO_0032418" text="lysosome localization" type="GO"/>
+    <entity charOffset="86-100" id="25091424.s0.e1" ontology_id="HP_0001298" text="encephalopathy" type="HP"/>
+  </sentence>
+  <sentence id="25091424.s1" text="Mutations in eight of them (PDSS1, ubiquinone biosynthetic process, COQ2, COQ4, COQ6, ADCK3, ADCK4, and ubiquinone biosynthetic process) cause primary CoQ(10) deficiency, a heterogeneous group of disorders with variable age of onset (from birth to the seventh decade) and associated clinical phenotypes, ranging from a fatal multisystem disease to isolated steroid resistant nephrotic syndrome (SRNS) or isolated central nervous system disease.">
+    <entity charOffset="35-66" id="25091424.s1.e0" ontology_id="GO_0006744" text="ubiquinone biosynthetic process" type="GO"/>
+    <entity charOffset="104-135" id="25091424.s1.e1" ontology_id="GO_0006744" text="ubiquinone biosynthetic process" type="GO"/>
+    <entity charOffset="173-186" id="25091424.s1.e2" ontology_id="HP_0001425" text="heterogeneous" type="HP"/>
+    <pair e1="25091424.s1.e0" e2="25091424.s1.e2" id="25091424.s1.p0" relation="true"/>
+    <pair e1="25091424.s1.e1" e2="25091424.s1.e2" id="25091424.s1.p1" relation="true"/>
+  </sentence>
+</document>

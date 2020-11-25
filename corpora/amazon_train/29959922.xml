@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29959922">
+  <sentence id="29959922.s0" text="However, the role of circRNAs in age-related cataract (mRNA splice site selection), the leading cause of visual impairment worldwide, is still unknown.">
+    <entity charOffset="45-53" id="29959922.s0.e0" ontology_id="HP_0000518" text="cataract" type="HP"/>
+    <entity charOffset="55-81" id="29959922.s0.e1" ontology_id="GO_0006376" text="mRNA splice site selection" type="GO"/>
+    <entity charOffset="105-122" id="29959922.s0.e2" ontology_id="HP_0000505" text="visual impairment" type="HP"/>
+  </sentence>
+</document>

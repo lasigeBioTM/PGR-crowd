@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="22961547">
+  <sentence id="22961547.s0" text="In this work, we report a new progressive myoclonus epilepsy associated with Lafora bodies, early-onset Lafora body disease, map its locus to chromosome 4q21.21, identify its gene and mutation and characterize the relationship of its gene product with laforin and protein polyubiquitination.">
+    <entity charOffset="42-51" id="22961547.s0.e0" ontology_id="HP_0001336" text="myoclonus" type="HP"/>
+    <entity charOffset="52-60" id="22961547.s0.e1" ontology_id="HP_0001250" text="epilepsy" type="HP"/>
+    <entity charOffset="264-290" id="22961547.s0.e2" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30337515">
+  <sentence id="30337515.s0" text="BRCT-repeat inhibitor of hTERT expression (negative regulation of transcription by RNA polymerase II) is involved in the invasion of tumors.">
+    <entity charOffset="43-100" id="30337515.s0.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="133-139" id="30337515.s0.e1" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <pair e1="30337515.s0.e0" e2="30337515.s0.e1" id="30337515.s0.p0" relation="false"/>
+  </sentence>
+</document>

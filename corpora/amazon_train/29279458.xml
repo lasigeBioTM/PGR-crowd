@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<document id="29279458">
+  <sentence id="29279458.s0" text="Primary macronodular adrenal hyperplasia (PMAH), also known in the past as bilateral macronodular adrenalhyperplasia or adrenocorticotropin (negative regulation of tumor necrosis factor production)-independent macronodular adrenal hyperplasia, is a rare muscle organ development of Cushing's syndrome (CS) and is associated with bilateralenlargement of the adrenal glands.">
+    <entity charOffset="21-40" id="29279458.s0.e0" ontology_id="HP_0008221" text="adrenal hyperplasia" type="HP"/>
+    <entity charOffset="75-84" id="29279458.s0.e1" ontology_id="HP_0012832" text="bilateral" type="HP"/>
+    <entity charOffset="141-196" id="29279458.s0.e2" ontology_id="GO_0032720" text="negative regulation of tumor necrosis factor production" type="GO"/>
+    <entity charOffset="254-278" id="29279458.s0.e3" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <pair e1="29279458.s0.e0" e2="29279458.s0.e2" id="29279458.s0.p0" relation="true"/>
+    <pair e1="29279458.s0.e0" e2="29279458.s0.e3" id="29279458.s0.p1" relation="true"/>
+    <pair e1="29279458.s0.e1" e2="29279458.s0.e2" id="29279458.s0.p2" relation="true"/>
+  </sentence>
+  <sentence id="29279458.s1" text="In addition, haploid clone of tumor DNA was confirmed by germline mutation and somaticmutation, which suggested the pathogenic mechanism of &amp;quot;two-hit-model.&amp;quot; biological_process was the causative gene of AIMAH pedigrees.">
+    <entity charOffset="30-35" id="29279458.s1.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="167-185" id="29279458.s1.e1" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <pair e1="29279458.s1.e0" e2="29279458.s1.e1" id="29279458.s1.p0" relation="true"/>
+  </sentence>
+</document>

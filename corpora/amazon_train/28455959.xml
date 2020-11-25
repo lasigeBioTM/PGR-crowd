@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<document id="28455959">
+  <sentence id="28455959.s0" text="Great progress has been achieved in the study of the role of TGF-β signaling in triggering epithelial-mesenchymal transition (cytokine production) in a variety of cancers; however, the regulation of TGF-β signaling during EMT in mammary tumor metastasis has not been completely defined.">
+    <entity charOffset="126-145" id="28455959.s0.e0" ontology_id="GO_0001816" text="cytokine production" type="GO"/>
+    <entity charOffset="163-169" id="28455959.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="237-242" id="28455959.s0.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28455959.s0.e0" e2="28455959.s0.e2" id="28455959.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28455959.s1" text="In the present study, we demonstrated that positive regulation of gene expression, a zinc finger transcription factor, inhibits TGF-β signaling-induced cytokine production in mouse and human mammary tumor cells, as well as in mouse tumor models.">
+    <entity charOffset="43-81" id="28455959.s1.e0" ontology_id="GO_0010628" text="positive regulation of gene expression" type="GO"/>
+    <entity charOffset="152-171" id="28455959.s1.e1" ontology_id="GO_0001816" text="cytokine production" type="GO"/>
+    <entity charOffset="199-204" id="28455959.s1.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28455959.s1.e0" e2="28455959.s1.e2" id="28455959.s1.p0" relation="true"/>
+    <pair e1="28455959.s1.e1" e2="28455959.s1.e2" id="28455959.s1.p1" relation="true"/>
+  </sentence>
+  <sentence id="28455959.s2" text="Data from the Oncomine databases indicated a strong negative relationship between positive regulation of gene expression expression and breast cancer progression.">
+    <entity charOffset="82-120" id="28455959.s2.e0" ontology_id="GO_0010628" text="positive regulation of gene expression" type="GO"/>
+    <entity charOffset="143-149" id="28455959.s2.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28455959.s2.e0" e2="28455959.s2.e1" id="28455959.s2.p0" relation="true"/>
+  </sentence>
+  <sentence id="28455959.s3" text="The modulation of these molecular processes may represent a strategy for inhibiting breast cancer invasion by restoring positive regulation of gene expression expression">
+    <entity charOffset="91-97" id="28455959.s3.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="120-158" id="28455959.s3.e1" ontology_id="GO_0010628" text="positive regulation of gene expression" type="GO"/>
+    <pair e1="28455959.s3.e0" e2="28455959.s3.e1" id="28455959.s3.p0" relation="true"/>
+  </sentence>
+</document>

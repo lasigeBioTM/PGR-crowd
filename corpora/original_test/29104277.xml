@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29104277">
+  <sentence id="29104277.s0" text="RT-PCR analysis showed that the overall transcriptional activity of the main HS biosynthesis-involved genes (EXT1, EXT2, NDST1, NDST2, GLCE, HS2ST1, HS3ST1, HS3ST2, HS6ST1, HS6ST2, SULF1, positive regulation of Wnt signaling pathway, HPSE) was decreased by 1.5-2-fold in Grade II-III glioma (p &amp;lt; 0.01) and by 3-fold in Grade IV glioma (glioblastoma multiforme, GBM) (p &amp;lt; 0.05), as compared with the para-tumourous tissue.">
+    <entity charOffset="188-232" id="29104277.s0.e0" ontology_id="GO_0030177" text="positive regulation of Wnt signaling pathway" type="GO"/>
+    <entity charOffset="410-416" id="29104277.s0.e1" ontology_id="HP_0002664" text="tumour" type="HP"/>
+    <pair e1="29104277.s0.e0" e2="29104277.s0.e1" id="29104277.s0.p0" relation="true"/>
+  </sentence>
+</document>

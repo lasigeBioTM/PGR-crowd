@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="29190522">
+  <sentence id="29190522.s0" text="The diagnosis of acquired chronic dysimmune neuropathies (pyrimidine deoxyribonucleotide catabolic process) like chronic inflammatory demyelinating polyneuropathy (CIDP), Lewis-Sumner Syndrome (LSS) or multifocal motor neuropathy (MMN) can be challenging.">
+    <entity charOffset="58-106" id="29190522.s0.e0" ontology_id="GO_0009223" text="pyrimidine deoxyribonucleotide catabolic process" type="GO"/>
+    <entity charOffset="202-212" id="29190522.s0.e1" ontology_id="HP_0030651" text="multifocal" type="HP"/>
+  </sentence>
+</document>

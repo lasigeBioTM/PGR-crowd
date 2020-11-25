@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="29709443">
+  <sentence id="29709443.s0" text="We aimed to investigate the effect of the AS to negative regulation of transcription by RNA polymerase II gene on non-small cell lung cancer (NSCLC) development.">
+    <entity charOffset="48-105" id="29709443.s0.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="134-140" id="29709443.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29709443.s0.e0" e2="29709443.s0.e1" id="29709443.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29709443.s1" text="By GEPIA database analysis, we also found that the expression of lncRNA FEZF-AS1 and negative regulation of transcription by RNA polymerase II were significantly higher in tumour tissues than those of the adjacent non-cancerous tissues in 969 NSCLC patients (P &amp;lt; 0.05), and lncRNA FEZF-AS1 was positively correlated with FEZF1 (r = 0.90, P &amp;lt; 0.001).">
+    <entity charOffset="85-142" id="29709443.s1.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="172-178" id="29709443.s1.e1" ontology_id="HP_0002664" text="tumour" type="HP"/>
+    <pair e1="29709443.s1.e0" e2="29709443.s1.e1" id="29709443.s1.p0" relation="true"/>
+  </sentence>
+</document>

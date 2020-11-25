@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="26861296">
+  <sentence id="26861296.s0" text="In addition, splicing variants of biological_process mRNA is associated with a variety of cancers and Alzheimer's disease, and mutations of the CIZ1 gene lead to cervical dystonia.">
+    <entity charOffset="34-52" id="26861296.s0.e0" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="162-179" id="26861296.s0.e1" ontology_id="HP_0000473" text="cervical dystonia" type="HP"/>
+    <pair e1="26861296.s0.e0" e2="26861296.s0.e1" id="26861296.s0.p0" relation="true"/>
+  </sentence>
+</document>

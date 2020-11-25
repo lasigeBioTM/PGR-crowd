@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="26357016">
+  <sentence id="26357016.s0" text="A cation transport complex mutation analogous to a lysosomal transport allele causing progressive cerebello-cerebral atrophy type 2 (PCCA2) in humans exhibits similar, albeit weaker, phenotypes in yeast, providing mechanistic insights into disease pathogenesis.">
+    <entity charOffset="2-18" id="26357016.s0.e0" ontology_id="GO_0006812" text="cation transport" type="GO"/>
+    <entity charOffset="51-70" id="26357016.s0.e1" ontology_id="GO_0007041" text="lysosomal transport" type="GO"/>
+    <entity charOffset="108-124" id="26357016.s0.e2" ontology_id="HP_0002059" text="cerebral atrophy" type="HP"/>
+    <pair e1="26357016.s0.e0" e2="26357016.s0.e2" id="26357016.s0.p0" relation="true"/>
+    <pair e1="26357016.s0.e1" e2="26357016.s0.e2" id="26357016.s0.p1" relation="true"/>
+  </sentence>
+</document>

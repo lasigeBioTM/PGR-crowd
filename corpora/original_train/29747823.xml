@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29747823">
+  <sentence id="29747823.s0" text="The accuracy of this mouse model was emphasized by the finding that various central nervous system and noncentral nervous system tissues from PD patients manifested similar GM1 deficiency as the ganglioside biosynthetic process&lt;sup&gt;+/-&lt;/sup&gt; mouse.">
+    <entity charOffset="76-83" id="29747823.s0.e0" ontology_id="HP_0030645" text="central" type="HP"/>
+    <entity charOffset="195-227" id="29747823.s0.e1" ontology_id="GO_0001574" text="ganglioside biosynthetic process" type="GO"/>
+    <pair e1="29747823.s0.e0" e2="29747823.s0.e1" id="29747823.s0.p0" relation="false"/>
+  </sentence>
+</document>

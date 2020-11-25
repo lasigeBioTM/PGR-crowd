@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<document id="30231971">
+  <sentence id="30231971.s0" text="Squamous cell carcinoma (negative regulation of peptidase activity) can progress to malignant metastatic cancer, including an aggressive subtype known as spindle cell carcinoma (spSCC). spSCC formation involves epithelial-to-mesenchymal transition (EMT), yet the molecular basis of this event remains unknown.">
+    <entity charOffset="25-66" id="30231971.s0.e0" ontology_id="GO_0010466" text="negative regulation of peptidase activity" type="GO"/>
+    <entity charOffset="105-111" id="30231971.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30231971.s0.e0" e2="30231971.s0.e1" id="30231971.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="30231971.s1" text="Here, we show that human spSCC tumours also feature strong nuclear localisation of YAP and overexpression of activated YAP (NLS-YAP-5SA) with Keratin-5 (K5-CreERt) is sufficient to induce rapid formation of both SCC and spSCC in epidermis development.">
+    <entity charOffset="31-38" id="30231971.s1.e0" ontology_id="HP_0002664" text="tumours" type="HP"/>
+    <entity charOffset="229-250" id="30231971.s1.e1" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <pair e1="30231971.s1.e0" e2="30231971.s1.e1" id="30231971.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="30231971.s2" text="spnegative regulation of peptidase activity tumours arise at sites of epithelial scratch wounding, where tumour-initiating epithelial cells undergo cytokine production to generate spSCC.">
+    <entity charOffset="2-43" id="30231971.s2.e0" ontology_id="GO_0010466" text="negative regulation of peptidase activity" type="GO"/>
+    <entity charOffset="44-51" id="30231971.s2.e1" ontology_id="HP_0002664" text="tumours" type="HP"/>
+    <entity charOffset="105-111" id="30231971.s2.e2" ontology_id="HP_0002664" text="tumour" type="HP"/>
+    <entity charOffset="148-167" id="30231971.s2.e3" ontology_id="GO_0001816" text="cytokine production" type="GO"/>
+    <pair e1="30231971.s2.e0" e2="30231971.s2.e1" id="30231971.s2.p0" relation="false"/>
+    <pair e1="30231971.s2.e0" e2="30231971.s2.e2" id="30231971.s2.p1" relation="false"/>
+    <pair e1="30231971.s2.e1" e2="30231971.s2.e3" id="30231971.s2.p2" relation="true"/>
+    <pair e1="30231971.s2.e2" e2="30231971.s2.e3" id="30231971.s2.p3" relation="true"/>
+  </sentence>
+</document>

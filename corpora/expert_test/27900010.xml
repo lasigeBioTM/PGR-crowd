@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27900010">
+  <sentence id="27900010.s0" text="In humans, &lt;i&gt;negative regulation of cell proliferation&lt;/i&gt; is the gene responsible for the disease neurofibromatosis type II, which results in the development of brain tumors, including acoustic neurinoma and meningioma.">
+    <entity charOffset="14-55" id="27900010.s0.e0" ontology_id="GO_0008285" text="negative regulation of cell proliferation" type="GO"/>
+    <entity charOffset="100-117" id="27900010.s0.e1" ontology_id="HP_0001067" text="neurofibromatosis" type="HP"/>
+    <pair e1="27900010.s0.e0" e2="27900010.s0.e1" id="27900010.s0.p0" relation="true"/>
+  </sentence>
+</document>

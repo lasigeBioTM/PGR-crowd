@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="29314300">
+  <sentence id="29314300.s0" text="At surgery, the cell adhesion mediated by integrin was located within the epineurium, could be bluntly dissected from the nerve fascicles, and was suspected to be a schwannoma.">
+    <entity charOffset="16-50" id="29314300.s0.e0" ontology_id="GO_0033627" text="cell adhesion mediated by integrin" type="GO"/>
+    <entity charOffset="165-175" id="29314300.s0.e1" ontology_id="HP_0100008" text="schwannoma" type="HP"/>
+    <pair e1="29314300.s0.e0" e2="29314300.s0.e1" id="29314300.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29314300.s1" text="Fluorescence in situ hybridization, with a break-apart probe strategy, demonstrated regulation of transcription, DNA-templated rearrangement, consistent in this morphological context with the low-grade fibromyxoid sarcoma-associated FUS-CREB3L2 or FUS-CREB3L1 fusions.">
+    <entity charOffset="84-126" id="29314300.s1.e0" ontology_id="GO_0006355" text="regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="214-221" id="29314300.s1.e1" ontology_id="HP_0100242" text="sarcoma" type="HP"/>
+    <pair e1="29314300.s1.e0" e2="29314300.s1.e1" id="29314300.s1.p0" relation="true"/>
+  </sentence>
+</document>

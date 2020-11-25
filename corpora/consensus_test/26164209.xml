@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="26164209">
+  <sentence id="26164209.s0" text="To investigate this mechanism, we developed a novel uterine sarcoma tissue-derived orthotopic and metastatic model in KSN establishment of mitotic spindle orientation mice using a green fluorescent protein stably expressed uterine sarcoma cell line, MES-SA.">
+    <entity charOffset="60-67" id="26164209.s0.e0" ontology_id="HP_0100242" text="sarcoma" type="HP"/>
+    <entity charOffset="122-166" id="26164209.s0.e1" ontology_id="GO_0000132" text="establishment of mitotic spindle orientation" type="GO"/>
+  </sentence>
+</document>

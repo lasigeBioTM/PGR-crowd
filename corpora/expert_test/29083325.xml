@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="29083325">
+  <sentence id="29083325.s0" text="However, the functions of negative regulation of transcription by RNA polymerase II in the thyroid gland and the mechanism by which GLIS3 dysfunction causes hypothyroidism are unknown.">
+    <entity charOffset="26-83" id="29083325.s0.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="157-171" id="29083325.s0.e1" ontology_id="HP_0000821" text="hypothyroidism" type="HP"/>
+    <pair e1="29083325.s0.e0" e2="29083325.s0.e1" id="29083325.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="29083325.s1" text="Deficiency in Krüppel-like zinc finger transcription factor GLI-similar 3 (negative regulation of transcription by RNA polymerase II) in humans is associated with the development of congenital hypothyroidism.">
+    <entity charOffset="75-132" id="29083325.s1.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="193-207" id="29083325.s1.e1" ontology_id="HP_0000821" text="hypothyroidism" type="HP"/>
+    <pair e1="29083325.s1.e0" e2="29083325.s1.e1" id="29083325.s1.p0" relation="true"/>
+  </sentence>
+</document>

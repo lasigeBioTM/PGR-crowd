@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="25899669">
+  <sentence id="25899669.s0" text="The bilateral retinal cherry protein phosphorylation spots and failure to thrive observed in our patient are unique features, which have not been described, in previously reported patients with TTC19 mutations.">
+    <entity charOffset="4-13" id="25899669.s0.e0" ontology_id="HP_0012832" text="bilateral" type="HP"/>
+    <entity charOffset="29-52" id="25899669.s0.e1" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+  </sentence>
+</document>

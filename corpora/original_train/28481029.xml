@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<document id="28481029">
+  <sentence id="28481029.s0" text="Deregulated monoubiquitination of histone H2B (H2Bub1), mainly catalyzed by E3 ubiquitin-protein ligase protein polyubiquitination/RNF40 complex, may play an important role in cancer.">
+    <entity charOffset="104-130" id="28481029.s0.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="176-182" id="28481029.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28481029.s0.e0" e2="28481029.s0.e1" id="28481029.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="28481029.s1" text="Concurrently, global transcriptional profiling analysis reveals that multiple tumor-associated genes such as positive regulation of protein phosphorylation, E2F1/2, HOXA1, protein polyubiquitination modifying factor (negative regulation of autophagy), Met, and negative regulation of transcription by RNA polymerase II; and signaling pathways of cellular dedifferentiation, proliferation, adhesion, survival including p53, integrin-mediated signaling pathway, Myc, and anti-apoptotic pathways are differentially expressed or significantly altered in these lung epithelial cells upon downregulation of H2Bub1.">
+    <entity charOffset="78-83" id="28481029.s1.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="109-155" id="28481029.s1.e1" ontology_id="GO_0001934" text="positive regulation of protein phosphorylation" type="GO"/>
+    <entity charOffset="172-198" id="28481029.s1.e2" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="217-249" id="28481029.s1.e3" ontology_id="GO_0010507" text="negative regulation of autophagy" type="GO"/>
+    <entity charOffset="261-318" id="28481029.s1.e4" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="423-458" id="28481029.s1.e5" ontology_id="GO_0007229" text="integrin-mediated signaling pathway" type="GO"/>
+    <pair e1="28481029.s1.e0" e2="28481029.s1.e1" id="28481029.s1.p0" relation="false"/>
+    <pair e1="28481029.s1.e0" e2="28481029.s1.e2" id="28481029.s1.p1" relation="true"/>
+    <pair e1="28481029.s1.e0" e2="28481029.s1.e3" id="28481029.s1.p2" relation="false"/>
+    <pair e1="28481029.s1.e0" e2="28481029.s1.e4" id="28481029.s1.p3" relation="true"/>
+    <pair e1="28481029.s1.e0" e2="28481029.s1.e5" id="28481029.s1.p4" relation="false"/>
+  </sentence>
+  <sentence id="28481029.s2" text="Moreover, protein polyubiquitination knockdown dramatically suppresses terminal squamous differentiation of cultured bronchial epithelial cells, and significantly enhances proliferation, migration, invasion, and cisplatin resistance of lung cancer cells.">
+    <entity charOffset="10-36" id="28481029.s2.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="241-247" id="28481029.s2.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28481029.s2.e0" e2="28481029.s2.e1" id="28481029.s2.p0" relation="false"/>
+  </sentence>
+</document>

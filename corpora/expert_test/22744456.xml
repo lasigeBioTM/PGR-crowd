@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="22744456">
+  <sentence id="22744456.s0" text="regulation of transcription by RNA polymerase II, HES7 and DUSP6 genes have been proved to be involved in the etiopathogenesis of congenital scoliosis (CS) in animal embryo studies, however, whether this association was detected in human CS patients also remains unknown.">
+    <entity charOffset="0-48" id="22744456.s0.e0" ontology_id="GO_0006357" text="regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="141-150" id="22744456.s0.e1" ontology_id="HP_0002650" text="scoliosis" type="HP"/>
+    <pair e1="22744456.s0.e0" e2="22744456.s0.e1" id="22744456.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="22744456.s1" text="MESP2, mesoderm development and DUSP6 genes may not be involved in the etiopathogenesis of sporadic and non-syndromic CS in Chinese Han population">
+    <entity charOffset="7-27" id="22744456.s1.e0" ontology_id="GO_0007498" text="mesoderm development" type="GO"/>
+    <entity charOffset="91-99" id="22744456.s1.e1" ontology_id="HP_0003745" text="sporadic" type="HP"/>
+    <pair e1="22744456.s1.e0" e2="22744456.s1.e1" id="22744456.s1.p0" relation="true"/>
+  </sentence>
+</document>

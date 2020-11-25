@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<document id="30281617">
+  <sentence id="30281617.s0" text="Recently, defects of positive regulation of glycolytic process, a BTB and zinc finger domain containing transcriptional repressor, have been implicated in a wide range of neurodevelopmental disorders, including intellectual disability and autism.">
+    <entity charOffset="21-62" id="30281617.s0.e0" ontology_id="GO_0045821" text="positive regulation of glycolytic process" type="GO"/>
+    <entity charOffset="211-234" id="30281617.s0.e1" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <entity charOffset="239-245" id="30281617.s0.e2" ontology_id="HP_0000717" text="autism" type="HP"/>
+    <pair e1="30281617.s0.e0" e2="30281617.s0.e1" id="30281617.s0.p0" relation="true"/>
+    <pair e1="30281617.s0.e0" e2="30281617.s0.e2" id="30281617.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="30281617.s1" text="Two positive regulation of glycolytic process single nucleotide variants, located at the N-terminal and central regions of the protein and potentially conferring autism risk, altered dendritic spine morphology.">
+    <entity charOffset="4-45" id="30281617.s1.e0" ontology_id="GO_0045821" text="positive regulation of glycolytic process" type="GO"/>
+    <entity charOffset="162-168" id="30281617.s1.e1" ontology_id="HP_0000717" text="autism" type="HP"/>
+    <pair e1="30281617.s1.e0" e2="30281617.s1.e1" id="30281617.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="30281617.s2" text="In contrast, a single nucleotide variant identified in patients with intellectual disability and located at the C-terminus of positive regulation of glycolytic process affected dendritic arborization and dendritic length but had no effect on dendritic spine morphology.">
+    <entity charOffset="69-92" id="30281617.s2.e0" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <entity charOffset="126-167" id="30281617.s2.e1" ontology_id="GO_0045821" text="positive regulation of glycolytic process" type="GO"/>
+    <pair e1="30281617.s2.e0" e2="30281617.s2.e1" id="30281617.s2.p0" relation="true"/>
+  </sentence>
+</document>

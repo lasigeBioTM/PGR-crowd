@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="21195649">
+  <sentence id="21195649.s0" text="Cystinosis is an autosomal recessive lysosomal storage disease caused by mutations in glutathione metabolic process.">
+    <entity charOffset="17-36" id="21195649.s0.e0" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="86-115" id="21195649.s0.e1" ontology_id="GO_0006749" text="glutathione metabolic process" type="GO"/>
+    <pair e1="21195649.s0.e0" e2="21195649.s0.e1" id="21195649.s0.p0" relation="true"/>
+  </sentence>
+</document>

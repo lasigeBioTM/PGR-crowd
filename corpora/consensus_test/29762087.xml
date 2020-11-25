@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="29762087">
+  <sentence id="29762087.s0" text="Among the available genomic studies, the key findings in Africa were variants in GATA4 (P193H), MTHFR 677TT, and MTHFR 1298CC that were associated with atrial septal defect, ventricular septal defect (VSD), Tetralogy of Fallot (negative regulation of transcription by RNA polymerase II), and patent ductus arteriosus phenotypes and 22q.11 deletion, which is associated with TOF.">
+    <entity charOffset="174-199" id="29762087.s0.e0" ontology_id="HP_0001629" text="ventricular septal defect" type="HP"/>
+    <entity charOffset="228-285" id="29762087.s0.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+  </sentence>
+</document>

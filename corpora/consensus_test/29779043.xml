@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<document id="29779043">
+  <sentence id="29779043.s0" text="Loss of GLIS3 function in humans and epidermis development leads to the development of several pathologies, including neonatal diabetes and congenital hypothyroidism, polycystic kidney disease, and infertility.">
+    <entity charOffset="37-58" id="29779043.s0.e0" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="151-165" id="29779043.s0.e1" ontology_id="HP_0000821" text="hypothyroidism" type="HP"/>
+  </sentence>
+  <sentence id="29779043.s1" text="Single nucleotide polymorphisms in GLIS3 genes have been associated with increased risk of several diseases, including muscle organ development 1 and type 2 diabetes, glaucoma, and neurological disorders.">
+    <entity charOffset="119-143" id="29779043.s1.e0" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="167-175" id="29779043.s1.e1" ontology_id="HP_0000501" text="glaucoma" type="HP"/>
+  </sentence>
+</document>

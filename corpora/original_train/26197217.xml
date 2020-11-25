@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="26197217">
+  <sentence id="26197217.s0" text="Two additional mutations linked to different forms of retinal dystrophies were identified in two families: a known frameshift deletion in visual perception, a gene responsible for X-linked retinitis pigmentosa and p.Ser163Arg in embryo development ending in birth or egg hatching associated with Late-Onset Retinal Degeneration.">
+    <entity charOffset="54-73" id="26197217.s0.e0" ontology_id="HP_0000556" text="retinal dystrophies" type="HP"/>
+    <entity charOffset="138-155" id="26197217.s0.e1" ontology_id="GO_0007601" text="visual perception" type="GO"/>
+    <entity charOffset="229-279" id="26197217.s0.e2" ontology_id="GO_0009792" text="embryo development ending in birth or egg hatching" type="GO"/>
+    <pair e1="26197217.s0.e0" e2="26197217.s0.e1" id="26197217.s0.p0" relation="true"/>
+    <pair e1="26197217.s0.e0" e2="26197217.s0.e2" id="26197217.s0.p1" relation="true"/>
+  </sentence>
+</document>

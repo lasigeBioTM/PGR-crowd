@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<document id="29348457">
+  <sentence id="29348457.s0" text="Herein, we investigated the role of transforming growth factor beta activation in the distinct processes involved in cancer metastasis.">
+    <entity charOffset="36-78" id="29348457.s0.e0" ontology_id="GO_0036363" text="transforming growth factor beta activation" type="GO"/>
+    <entity charOffset="117-123" id="29348457.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29348457.s0.e0" e2="29348457.s0.e1" id="29348457.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29348457.s1" text="By using three human tumor cell lines of different tissue origin (epidermoid HEp-3 and prostate PC-3 carcinomas and HT-1080 fibrosarcoma) and several metastasis models conducted in both mammalian and avian settings, we show that transforming growth factor beta activation is involved in the early dissemination of primary cancer cells, namely in the intravasation protein dephosphorylation of the metastatic cascade.">
+    <entity charOffset="21-26" id="29348457.s1.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="101-111" id="29348457.s1.e1" ontology_id="HP_0030731" text="carcinomas" type="HP"/>
+    <entity charOffset="124-136" id="29348457.s1.e2" ontology_id="HP_0100244" text="fibrosarcoma" type="HP"/>
+    <entity charOffset="229-271" id="29348457.s1.e3" ontology_id="GO_0036363" text="transforming growth factor beta activation" type="GO"/>
+    <entity charOffset="322-328" id="29348457.s1.e4" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="364-389" id="29348457.s1.e5" ontology_id="GO_0006470" text="protein dephosphorylation" type="GO"/>
+    <pair e1="29348457.s1.e0" e2="29348457.s1.e3" id="29348457.s1.p0" relation="true"/>
+    <pair e1="29348457.s1.e2" e2="29348457.s1.e3" id="29348457.s1.p1" relation="true"/>
+  </sentence>
+  <sentence id="29348457.s2" text="LTBP3 was dispensable in the late protein dephosphorylations of carcinoma cell metastasis that follow tumor cell intravasation, including vascular arrest, extravasation, and tissue colonization.">
+    <entity charOffset="34-59" id="29348457.s2.e0" ontology_id="GO_0006470" text="protein dephosphorylation" type="GO"/>
+    <entity charOffset="102-107" id="29348457.s2.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+  </sentence>
+  <sentence id="29348457.s3" text="A similar compensatory approach rescued the dampened intravasation of transforming growth factor beta activation-deficient HEp-3 cells, suggesting that LTBP3 regulates the induction of the intravasation-supporting angiogenic vasculature within developing primary tumors.">
+    <entity charOffset="70-112" id="29348457.s3.e0" ontology_id="GO_0036363" text="transforming growth factor beta activation" type="GO"/>
+    <entity charOffset="263-268" id="29348457.s3.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29348457.s3.e0" e2="29348457.s3.e1" id="29348457.s3.p0" relation="true"/>
+  </sentence>
+  <sentence id="29348457.s4" text="Using our recently developed microtumor model, we confirmed that transforming growth factor beta activation loss resulted in the development of intratumoral vessels with an abnormal microarchitecture incompatible with efficient intravasation of HEp-3 carcinoma cells.">
+    <entity charOffset="34-39" id="29348457.s4.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="65-107" id="29348457.s4.e1" ontology_id="GO_0036363" text="transforming growth factor beta activation" type="GO"/>
+    <pair e1="29348457.s4.e0" e2="29348457.s4.e1" id="29348457.s4.p0" relation="true"/>
+  </sentence>
+  <sentence id="29348457.s5" text="Collectively, these findings demonstrate that transforming growth factor beta activation represents a novel oncotarget that has distinctive functions in the regulation of angiogenesis-dependent tumor cell intravasation, a critical process during early cancer dissemination.">
+    <entity charOffset="46-88" id="29348457.s5.e0" ontology_id="GO_0036363" text="transforming growth factor beta activation" type="GO"/>
+    <entity charOffset="194-199" id="29348457.s5.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="252-258" id="29348457.s5.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29348457.s5.e0" e2="29348457.s5.e2" id="29348457.s5.p0" relation="true"/>
+    <pair e1="29348457.s5.e0" e2="29348457.s5.e1" id="29348457.s5.p1" relation="true"/>
+  </sentence>
+  <sentence id="29348457.s6" text="Our experimental data are also consistent with the survival prognostic value of transforming growth factor beta activation expression in early-stage head and neck squamous cell carcinomas, further indicating a specific role for LTBP3 in cancer progression toward metastatic disease">
+    <entity charOffset="80-122" id="29348457.s6.e0" ontology_id="GO_0036363" text="transforming growth factor beta activation" type="GO"/>
+    <entity charOffset="177-187" id="29348457.s6.e1" ontology_id="HP_0030731" text="carcinomas" type="HP"/>
+    <entity charOffset="237-243" id="29348457.s6.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29348457.s6.e0" e2="29348457.s6.e2" id="29348457.s6.p0" relation="true"/>
+    <pair e1="29348457.s6.e0" e2="29348457.s6.e1" id="29348457.s6.p1" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="28720310">
+  <sentence id="28720310.s0" text="Preclinical studies have demonstrated that positive regulation of cell-matrix adhesion is associated with disease prognosis in a number of human cancers, including glioblastoma.">
+    <entity charOffset="43-86" id="28720310.s0.e0" ontology_id="GO_0001954" text="positive regulation of cell-matrix adhesion" type="GO"/>
+    <entity charOffset="145-151" id="28720310.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="164-176" id="28720310.s0.e2" ontology_id="HP_0012174" text="glioblastoma" type="HP"/>
+    <pair e1="28720310.s0.e0" e2="28720310.s0.e2" id="28720310.s0.p0" relation="true"/>
+    <pair e1="28720310.s0.e0" e2="28720310.s0.e1" id="28720310.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="28720310.s1" text="Translational research suggests that positive regulation of cell-matrix adhesion may be targeted with antibodies to improve tumor control and survival in a variety of murine models and cancer types.">
+    <entity charOffset="37-80" id="28720310.s1.e0" ontology_id="GO_0001954" text="positive regulation of cell-matrix adhesion" type="GO"/>
+    <entity charOffset="124-129" id="28720310.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28720310.s1.e0" e2="28720310.s1.e1" id="28720310.s1.p0" relation="true"/>
+  </sentence>
+</document>

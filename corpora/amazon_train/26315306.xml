@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="26315306">
+  <sentence id="26315306.s0" text="Our results demonstrated that SelM may have an important role in protecting against oxidative cellular protein catabolic process in the brain of chicken, which might shed light on the role of SelM in human neurodegenerative disease.">
+    <entity charOffset="94-128" id="26315306.s0.e0" ontology_id="GO_0044257" text="cellular protein catabolic process" type="GO"/>
+    <entity charOffset="206-231" id="26315306.s0.e1" ontology_id="HP_0002180" text="neurodegenerative disease" type="HP"/>
+    <pair e1="26315306.s0.e0" e2="26315306.s0.e1" id="26315306.s0.p0" relation="false"/>
+  </sentence>
+</document>

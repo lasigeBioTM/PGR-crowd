@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="30701745">
+  <sentence id="30701745.s0" text="Family hyperaldosteronism muscle organ development I (glucocorticoids-remediable hyperaldosteronism) is a rare form of symptomatic arterial hypertension (AH), which often leads to the development of cerebrovascular complications.">
+    <entity charOffset="7-25" id="30701745.s0.e0" ontology_id="HP_0000859" text="hyperaldosteronism" type="HP"/>
+    <entity charOffset="26-50" id="30701745.s0.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+  </sentence>
+</document>

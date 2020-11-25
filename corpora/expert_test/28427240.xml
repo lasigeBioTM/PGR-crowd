@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="28427240">
+  <sentence id="28427240.s0" text="siRNA-mediated suppression of protein monoubiquitination inhibited gastric cancer cell proliferation and colony formation by promoting cell cycle arrest at G2/M phase and increasing apoptosis.">
+    <entity charOffset="30-56" id="28427240.s0.e0" ontology_id="GO_0006513" text="protein monoubiquitination" type="GO"/>
+    <entity charOffset="75-81" id="28427240.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28427240.s0.e0" e2="28427240.s0.e1" id="28427240.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28427240.s1" text="protein monoubiquitination was highly expressed in gastric tumors and gastric cancer cells.">
+    <entity charOffset="0-26" id="28427240.s1.e0" ontology_id="GO_0006513" text="protein monoubiquitination" type="GO"/>
+    <entity charOffset="78-84" id="28427240.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28427240.s1.e0" e2="28427240.s1.e1" id="28427240.s1.p0" relation="true"/>
+  </sentence>
+</document>

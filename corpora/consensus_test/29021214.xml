@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<document id="29021214">
+  <sentence id="29021214.s0" text="Recently, we identified disease-linked mutations in the &lt;i&gt;CCNF&lt;/i&gt; gene, which encodes the cyclin F protein, in cohorts of patients with familial and sporadic signal transduction and frontotemporal dementia (FTD) (Williams KL &lt;i&gt;et al&lt;/i&gt; 2016 &lt;i&gt;Nat.">
+    <entity charOffset="151-159" id="29021214.s0.e0" ontology_id="HP_0003745" text="sporadic" type="HP"/>
+    <entity charOffset="160-179" id="29021214.s0.e1" ontology_id="GO_0007165" text="signal transduction" type="GO"/>
+    <entity charOffset="184-207" id="29021214.s0.e2" ontology_id="HP_0002145" text="frontotemporal dementia" type="HP"/>
+    <pair e1="29021214.s0.e1" e2="29021214.s0.e2" id="29021214.s0.p0" relation="false"/>
+  </sentence>
+</document>

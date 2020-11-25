@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<document id="25109669">
+  <sentence id="25109669.s0" text="Thus, it is possible that subtle dysfunction arising from multiple cell muscle organ developments is necessary for the expression of certain ataxia syndromes.">
+    <entity charOffset="72-96" id="25109669.s0.e0" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="141-147" id="25109669.s0.e1" ontology_id="HP_0001251" text="ataxia" type="HP"/>
+  </sentence>
+  <sentence id="25109669.s1" text="Episodic ataxia muscle organ development 2 (EA2) is an autosomal dominant disorder associated with attacks of ataxia that are typically precipitated by stress, ethanol, caffeine or exercise.">
+    <entity charOffset="9-15" id="25109669.s1.e0" ontology_id="HP_0001251" text="ataxia" type="HP"/>
+    <entity charOffset="16-40" id="25109669.s1.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29429788">
+  <sentence id="29429788.s0" text="We present a case of myoclonus-dystonia syndrome illustrated by three videos in which we found a novel cell-matrix adhesion mutation.">
+    <entity charOffset="21-30" id="29429788.s0.e0" ontology_id="HP_0001336" text="myoclonus" type="HP"/>
+    <entity charOffset="103-123" id="29429788.s0.e1" ontology_id="GO_0007160" text="cell-matrix adhesion" type="GO"/>
+    <pair e1="29429788.s0.e0" e2="29429788.s0.e1" id="29429788.s0.p0" relation="true"/>
+  </sentence>
+</document>

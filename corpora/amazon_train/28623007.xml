@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="28623007">
+  <sentence id="28623007.s0" text="We will systematically examine seven genes (motor neuron axon guidance, gluconeogenesis, positive regulation of neuron differentiation, RTN1, urea transmembrane transport, neurotransmitter secretion and positive regulation of insulin secretion involved in cellular response to glucose stimulus) that are altered in the three neurodegenerative diseases.">
+    <entity charOffset="44-70" id="28623007.s0.e0" ontology_id="GO_0008045" text="motor neuron axon guidance" type="GO"/>
+    <entity charOffset="72-87" id="28623007.s0.e1" ontology_id="GO_0006094" text="gluconeogenesis" type="GO"/>
+    <entity charOffset="89-134" id="28623007.s0.e2" ontology_id="GO_0045666" text="positive regulation of neuron differentiation" type="GO"/>
+    <entity charOffset="142-170" id="28623007.s0.e3" ontology_id="GO_0071918" text="urea transmembrane transport" type="GO"/>
+    <entity charOffset="172-198" id="28623007.s0.e4" ontology_id="GO_0007269" text="neurotransmitter secretion" type="GO"/>
+    <entity charOffset="203-293" id="28623007.s0.e5" ontology_id="GO_0035774" text="positive regulation of insulin secretion involved in cellular response to glucose stimulus" type="GO"/>
+    <entity charOffset="325-351" id="28623007.s0.e6" ontology_id="HP_0002180" text="neurodegenerative diseases" type="HP"/>
+    <pair e1="28623007.s0.e0" e2="28623007.s0.e6" id="28623007.s0.p0" relation="true"/>
+    <pair e1="28623007.s0.e1" e2="28623007.s0.e6" id="28623007.s0.p1" relation="true"/>
+    <pair e1="28623007.s0.e2" e2="28623007.s0.e6" id="28623007.s0.p2" relation="true"/>
+    <pair e1="28623007.s0.e3" e2="28623007.s0.e6" id="28623007.s0.p3" relation="false"/>
+    <pair e1="28623007.s0.e4" e2="28623007.s0.e6" id="28623007.s0.p4" relation="true"/>
+    <pair e1="28623007.s0.e5" e2="28623007.s0.e6" id="28623007.s0.p5" relation="true"/>
+  </sentence>
+</document>

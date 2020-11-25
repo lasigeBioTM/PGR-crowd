@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="29222283">
+  <sentence id="29222283.s0" text="In particular, angiogenesis mutations result in congenital macrothrombocytopenia and predispose to kidney failure, hearing loss, and cataracts, MPL and MECOM mutations cause congenital thrombocytopenia evolving into bone marrow failure, whereas thrombocytopenias caused by RUNX1, negative regulation of fat cell differentiation, and negative regulation of transcription by RNA polymerase II mutations are characterized by predisposition to hematological malignancies.">
+    <entity charOffset="15-27" id="29222283.s0.e0" ontology_id="GO_0001525" text="angiogenesis" type="GO"/>
+    <entity charOffset="59-80" id="29222283.s0.e1" ontology_id="HP_0040185" text="macrothrombocytopenia" type="HP"/>
+    <entity charOffset="115-127" id="29222283.s0.e2" ontology_id="HP_0000365" text="hearing loss" type="HP"/>
+    <entity charOffset="280-327" id="29222283.s0.e3" ontology_id="GO_0045599" text="negative regulation of fat cell differentiation" type="GO"/>
+    <entity charOffset="333-390" id="29222283.s0.e4" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="29222283.s0.e0" e2="29222283.s0.e2" id="29222283.s0.p0" relation="true"/>
+    <pair e1="29222283.s0.e1" e2="29222283.s0.e4" id="29222283.s0.p1" relation="false"/>
+    <pair e1="29222283.s0.e2" e2="29222283.s0.e3" id="29222283.s0.p2" relation="false"/>
+  </sentence>
+</document>

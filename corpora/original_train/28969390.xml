@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28969390">
+  <sentence id="28969390.s0" text="Using exome sequencing, we identified dominant mutations in mitochondrial fission on chromosome 12p11.21 in three large families with isolated optic atrophy, including the two families that defined the OPA5 locus on chromosome 19q12.1-13.1, the existence of which is denied by the present study.">
+    <entity charOffset="60-81" id="28969390.s0.e0" ontology_id="GO_0000266" text="mitochondrial fission" type="GO"/>
+    <entity charOffset="143-156" id="28969390.s0.e1" ontology_id="HP_0000648" text="optic atrophy" type="HP"/>
+    <pair e1="28969390.s0.e0" e2="28969390.s0.e1" id="28969390.s0.p0" relation="true"/>
+  </sentence>
+</document>

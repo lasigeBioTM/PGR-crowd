@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<document id="29799832">
+  <sentence id="29799832.s0" text="BACKGROUND Previous research found that dolichol-linked oligosaccharide biosynthetic process is associated with cervical cancer, but the role of ALG3 in breast cancer was still unknown.">
+    <entity charOffset="40-92" id="29799832.s0.e0" ontology_id="GO_0006488" text="dolichol-linked oligosaccharide biosynthetic process" type="GO"/>
+    <entity charOffset="121-127" id="29799832.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29799832.s0.e0" e2="29799832.s0.e1" id="29799832.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="29799832.s1" text="MATERIAL AND METHODS The expression of dolichol-linked oligosaccharide biosynthetic process in breast carcinoma tissues was determined by immunochemistry.">
+    <entity charOffset="39-91" id="29799832.s1.e0" ontology_id="GO_0006488" text="dolichol-linked oligosaccharide biosynthetic process" type="GO"/>
+    <entity charOffset="95-111" id="29799832.s1.e1" ontology_id="HP_0003002" text="breast carcinoma" type="HP"/>
+    <pair e1="29799832.s1.e0" e2="29799832.s1.e1" id="29799832.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="29799832.s2" text="dolichol-linked oligosaccharide biosynthetic process expression was significantly increased in cancer samples with advanced stages (stage III/IV) compared with those in the early stages of disease (stage I/II) (p&amp;lt;0.05).">
+    <entity charOffset="0-52" id="29799832.s2.e0" ontology_id="GO_0006488" text="dolichol-linked oligosaccharide biosynthetic process" type="GO"/>
+    <entity charOffset="95-101" id="29799832.s2.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29799832.s2.e0" e2="29799832.s2.e1" id="29799832.s2.p0" relation="false"/>
+  </sentence>
+  <sentence id="29799832.s3" text="The staining intensity of dolichol-linked oligosaccharide biosynthetic process was significantly correlated to the tumor grade (grades 2-3 versus 1, p&amp;lt;0.05).">
+    <entity charOffset="26-78" id="29799832.s3.e0" ontology_id="GO_0006488" text="dolichol-linked oligosaccharide biosynthetic process" type="GO"/>
+    <entity charOffset="115-120" id="29799832.s3.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29799832.s3.e0" e2="29799832.s3.e1" id="29799832.s3.p0" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="28803936">
+  <sentence id="28803936.s0" text="Addition of exogenous negative regulation of cell proliferation (6XHis-tagged, E. coli expressed and partially purified using Ni-ion columns) significantly suppressed the tumor necrosis factor-α (negative regulation of transcription by RNA polymerase II-α)-stimulated human umbilical cord vascular endothelial cell (HUVEC) tube formation.">
+    <entity charOffset="22-63" id="28803936.s0.e0" ontology_id="GO_0008285" text="negative regulation of cell proliferation" type="GO"/>
+    <entity charOffset="171-176" id="28803936.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="196-253" id="28803936.s0.e2" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="28803936.s0.e0" e2="28803936.s0.e1" id="28803936.s0.p0" relation="false"/>
+    <pair e1="28803936.s0.e1" e2="28803936.s0.e2" id="28803936.s0.p1" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="29475819">
+  <sentence id="29475819.s0" text="A recent syndromic condition with craniofacial dysmorphisms, comprising congenital ocular defect and neurodevelopmental delay named Helsmoortel-glycoprotein biosynthetic process der Aa Syndrome (HVDAS) (OMIM#615873), has been described and molecularly defined, identifying pathogenic mutations in the regulation of transcription by RNA polymerase II gene (OMIM#611386) as biological cause.">
+    <entity charOffset="101-125" id="29475819.s0.e0" ontology_id="HP_0012758" text="neurodevelopmental delay" type="HP"/>
+    <entity charOffset="144-177" id="29475819.s0.e1" ontology_id="GO_0009101" text="glycoprotein biosynthetic process" type="GO"/>
+    <entity charOffset="301-349" id="29475819.s0.e2" ontology_id="GO_0006357" text="regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="29475819.s0.e0" e2="29475819.s0.e1" id="29475819.s0.p0" relation="false"/>
+    <pair e1="29475819.s0.e0" e2="29475819.s0.e2" id="29475819.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="29475819.s1" text="We report on two children, displaying intellectual disability (ID) and peculiar congenital eyes anomalies, both carrying a de novo nonsense mutation in the regulation of transcription by RNA polymerase II gene.">
+    <entity charOffset="38-61" id="29475819.s1.e0" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <entity charOffset="156-204" id="29475819.s1.e1" ontology_id="GO_0006357" text="regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="29475819.s1.e0" e2="29475819.s1.e1" id="29475819.s1.p0" relation="true"/>
+  </sentence>
+</document>

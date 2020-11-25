@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29986413">
+  <sentence id="29986413.s0" text="High-density lipoprotein (HDL) particles have experienced a turbulent decade of falling from grace with widespread demotion from the most-sought-after thtranscription by RNA polymerase IIpeutic target to reverse cardiovascular disease (CVD), to mere biomarker status.">
+    <entity charOffset="153-187" id="29986413.s0.e0" ontology_id="GO_0006366" text="transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="212-234" id="29986413.s0.e1" ontology_id="HP_0001626" text="cardiovascular disease" type="HP"/>
+    <pair e1="29986413.s0.e0" e2="29986413.s0.e1" id="29986413.s0.p0" relation="true"/>
+  </sentence>
+</document>

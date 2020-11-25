@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27353389">
+  <sentence id="27353389.s0" text="Mutant mice lacking cilium movement show typical PCD defects such as hydrocephalus and laterality defects.">
+    <entity charOffset="20-35" id="27353389.s0.e0" ontology_id="GO_0003341" text="cilium movement" type="GO"/>
+    <entity charOffset="69-82" id="27353389.s0.e1" ontology_id="HP_0000238" text="hydrocephalus" type="HP"/>
+    <pair e1="27353389.s0.e0" e2="27353389.s0.e1" id="27353389.s0.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="30531691">
+  <sentence id="30531691.s0" text="The purpose of the present study was to evaluate the expression of Lin28A, let-7a, and negative regulation of transcription by RNA polymerase II in human papillary thyroid carcinoma (PTC) and to investigate their potential mechanisms in the progression of PTC.">
+    <entity charOffset="87-144" id="30531691.s0.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="154-181" id="30531691.s0.e1" ontology_id="HP_0002895" text="papillary thyroid carcinoma" type="HP"/>
+    <pair e1="30531691.s0.e0" e2="30531691.s0.e1" id="30531691.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="30531691.s1" text="BACKGROUND miRNA catabolic process is a gene involved in many biological processes, including development, glucose metabolism, and tumorigenesis.">
+    <entity charOffset="11-34" id="30531691.s1.e0" ontology_id="GO_0010587" text="miRNA catabolic process" type="GO"/>
+    <entity charOffset="131-136" id="30531691.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="30531691.s1.e0" e2="30531691.s1.e1" id="30531691.s1.p0" relation="true"/>
+  </sentence>
+</document>

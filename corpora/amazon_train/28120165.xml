@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28120165">
+  <sentence id="28120165.s0" text="fatty acid beta-oxidation mice accumulate excess abdominal adipose tissue, develop an early inflammatory liver process, exhibit fasting rhabdomyolysis, and have abnormal skeletal muscle mitochondria.">
+    <entity charOffset="0-25" id="28120165.s0.e0" ontology_id="GO_0006635" text="fatty acid beta-oxidation" type="GO"/>
+    <entity charOffset="136-150" id="28120165.s0.e1" ontology_id="HP_0003201" text="rhabdomyolysis" type="HP"/>
+    <pair e1="28120165.s0.e0" e2="28120165.s0.e1" id="28120165.s0.p0" relation="true"/>
+  </sentence>
+</document>

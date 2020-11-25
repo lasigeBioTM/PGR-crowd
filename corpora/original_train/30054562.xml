@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<document id="30054562">
+  <sentence id="30054562.s0" text="In this study, we reported the identification of Calcium Binding Protein 39-Like (cell cycle arrest) as a novel regulator of tumor metabolism in GC.">
+    <entity charOffset="82-99" id="30054562.s0.e0" ontology_id="GO_0007050" text="cell cycle arrest" type="GO"/>
+    <entity charOffset="125-130" id="30054562.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="30054562.s0.e0" e2="30054562.s0.e1" id="30054562.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="30054562.s1" text="protein phosphorylation-lipid biosynthetic process activation in GC cell lines was tumor suppressive, as metformin (an AMPK activator) inhibited GC cell growth in the cell cycle arrest-silenced cells.">
+    <entity charOffset="0-23" id="30054562.s1.e0" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <entity charOffset="24-50" id="30054562.s1.e1" ontology_id="GO_0008610" text="lipid biosynthetic process" type="GO"/>
+    <entity charOffset="83-88" id="30054562.s1.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="167-184" id="30054562.s1.e3" ontology_id="GO_0007050" text="cell cycle arrest" type="GO"/>
+    <pair e1="30054562.s1.e0" e2="30054562.s1.e2" id="30054562.s1.p0" relation="true"/>
+    <pair e1="30054562.s1.e1" e2="30054562.s1.e2" id="30054562.s1.p1" relation="false"/>
+    <pair e1="30054562.s1.e2" e2="30054562.s1.e3" id="30054562.s1.p2" relation="false"/>
+  </sentence>
+  <sentence id="30054562.s2" text="Moreover, knockdown of protein phosphorylation reversed growth inhibitory effect of CAB39L, indicating that tumor suppression by CAB39L depended on LKB1-lipid biosynthetic process.">
+    <entity charOffset="23-46" id="30054562.s2.e0" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <entity charOffset="108-113" id="30054562.s2.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="153-179" id="30054562.s2.e2" ontology_id="GO_0008610" text="lipid biosynthetic process" type="GO"/>
+    <pair e1="30054562.s2.e0" e2="30054562.s2.e1" id="30054562.s2.p0" relation="true"/>
+    <pair e1="30054562.s2.e1" e2="30054562.s2.e2" id="30054562.s2.p1" relation="false"/>
+  </sentence>
+  <sentence id="30054562.s3" text="Our data demonstrate that cell cycle arrest is a novel tumor suppressor which suppresses tumorigenesis by promoting protein phosphorylation-AMPK-PGC1α axis, thereby preventing a metabolic shift that drives carcinogenesis.">
+    <entity charOffset="26-43" id="30054562.s3.e0" ontology_id="GO_0007050" text="cell cycle arrest" type="GO"/>
+    <entity charOffset="55-60" id="30054562.s3.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="116-139" id="30054562.s3.e2" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <pair e1="30054562.s3.e0" e2="30054562.s3.e1" id="30054562.s3.p0" relation="false"/>
+    <pair e1="30054562.s3.e1" e2="30054562.s3.e2" id="30054562.s3.p1" relation="true"/>
+  </sentence>
+</document>

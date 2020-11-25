@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="27837419">
+  <sentence id="27837419.s0" text="The clinical history for migraine and hypertension was collected; genomic DNA was charcoenzyme A biosynthetic processerized for a panel of 33 SNPs encoding proteins involved in ionic transport.">
+    <entity charOffset="38-50" id="27837419.s0.e0" ontology_id="HP_0000822" text="hypertension" type="HP"/>
+    <entity charOffset="86-117" id="27837419.s0.e1" ontology_id="GO_0015937" text="coenzyme A biosynthetic process" type="GO"/>
+  </sentence>
+</document>

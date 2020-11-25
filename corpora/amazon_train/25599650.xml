@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<document id="25599650">
+  <sentence id="25599650.s0" text="Both display heterotaxy, cardiopulmonary malformations and cystic kidneys, a syndrome also characteristic of mutations in negative regulation of canonical Wnt signaling pathway and negative regulation of canonical Wnt signaling pathway, the other known components of the IC.">
+    <entity charOffset="59-73" id="25599650.s0.e0" ontology_id="HP_0000107" text="cystic kidneys" type="HP"/>
+    <entity charOffset="122-176" id="25599650.s0.e1" ontology_id="GO_0090090" text="negative regulation of canonical Wnt signaling pathway" type="GO"/>
+    <entity charOffset="181-235" id="25599650.s0.e2" ontology_id="GO_0090090" text="negative regulation of canonical Wnt signaling pathway" type="GO"/>
+    <pair e1="25599650.s0.e0" e2="25599650.s0.e2" id="25599650.s0.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28272537">
+  <sentence id="28272537.s0" text="Here, we identified, by next generation sequencing, sequence variants affecting function in the phosphatidylcholine biosynthetic process gene in three young patients with isolated retinal dystrophy from two different Italian families.">
+    <entity charOffset="96-136" id="28272537.s0.e0" ontology_id="GO_0006656" text="phosphatidylcholine biosynthetic process" type="GO"/>
+    <entity charOffset="180-197" id="28272537.s0.e1" ontology_id="HP_0000556" text="retinal dystrophy" type="HP"/>
+    <pair e1="28272537.s0.e0" e2="28272537.s0.e1" id="28272537.s0.p0" relation="true"/>
+  </sentence>
+</document>

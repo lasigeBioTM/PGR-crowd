@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<document id="29916023">
+  <sentence id="29916023.s0" text="Genetic discoveries have established the importance of MAPK cascade for neural function, as recessive mutations in the SETX gene cause Ataxia with Oculomotor Apraxia muscle organ development 2 (MAPK cascade) (OMIM: 606002), which is the third most common form of recessive ataxia, after Friedreich's ataxia and Ataxia-Telangiectasia.">
+    <entity charOffset="55-67" id="29916023.s0.e0" ontology_id="GO_0000165" text="MAPK cascade" type="GO"/>
+    <entity charOffset="166-190" id="29916023.s0.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="194-206" id="29916023.s0.e2" ontology_id="GO_0000165" text="MAPK cascade" type="GO"/>
+    <entity charOffset="273-279" id="29916023.s0.e3" ontology_id="HP_0001251" text="ataxia" type="HP"/>
+    <pair e1="29916023.s0.e0" e2="29916023.s0.e3" id="29916023.s0.p0" relation="true"/>
+    <pair e1="29916023.s0.e1" e2="29916023.s0.e3" id="29916023.s0.p1" relation="true"/>
+    <pair e1="29916023.s0.e2" e2="29916023.s0.e3" id="29916023.s0.p2" relation="true"/>
+  </sentence>
+  <sentence id="29916023.s1" text="Over the last decade, altered RNA regulation and aberrant RNA-binding protein function have emerged as a central theme in motor neuron disease pathogenesis, with evidence suggesting that sporadic signal transduction disease pathology may overlap with the molecular pathology uncovered in familial ALS.">
+    <entity charOffset="187-195" id="29916023.s1.e0" ontology_id="HP_0003745" text="sporadic" type="HP"/>
+    <entity charOffset="196-215" id="29916023.s1.e1" ontology_id="GO_0007165" text="signal transduction" type="GO"/>
+  </sentence>
+  <sentence id="29916023.s2" text="While we do not yet know which MAPK cascade activities are most critical to neurodegeneration, our evolving understanding of SETX function will undoubtedly be crucial for not only understanding the role of SETX in signal transduction and ataxia disease pathogenesis, but also for delineating the mechanistic biology of fundamentally important molecular processes in the cell">
+    <entity charOffset="31-43" id="29916023.s2.e0" ontology_id="GO_0000165" text="MAPK cascade" type="GO"/>
+    <entity charOffset="214-233" id="29916023.s2.e1" ontology_id="GO_0007165" text="signal transduction" type="GO"/>
+    <entity charOffset="238-244" id="29916023.s2.e2" ontology_id="HP_0001251" text="ataxia" type="HP"/>
+    <pair e1="29916023.s2.e0" e2="29916023.s2.e2" id="29916023.s2.p0" relation="true"/>
+  </sentence>
+</document>

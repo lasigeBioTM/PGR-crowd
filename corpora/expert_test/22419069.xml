@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="22419069">
+  <sentence id="22419069.s0" text="Genes involved in tissue development, differentiation, and oncogenesis such as DNAJA4, cartilage development, IRX1, BMP8A, GATA4, negative regulation of transcription by RNA polymerase II, regulation of transcription by RNA polymerase II, and regulation of erythrocyte differentiation were hypermethylated in both RMS cell lines and primary samples, implicating aberrant DNA methylation in the pathogenesis of rhabdomyosarcoma.">
+    <entity charOffset="87-108" id="22419069.s0.e0" ontology_id="GO_0051216" text="cartilage development" type="GO"/>
+    <entity charOffset="130-187" id="22419069.s0.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="189-237" id="22419069.s0.e2" ontology_id="GO_0006357" text="regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="243-284" id="22419069.s0.e3" ontology_id="GO_0045646" text="regulation of erythrocyte differentiation" type="GO"/>
+    <entity charOffset="410-426" id="22419069.s0.e4" ontology_id="HP_0002859" text="rhabdomyosarcoma" type="HP"/>
+    <pair e1="22419069.s0.e0" e2="22419069.s0.e4" id="22419069.s0.p0" relation="false"/>
+    <pair e1="22419069.s0.e1" e2="22419069.s0.e4" id="22419069.s0.p1" relation="false"/>
+    <pair e1="22419069.s0.e2" e2="22419069.s0.e4" id="22419069.s0.p2" relation="false"/>
+    <pair e1="22419069.s0.e3" e2="22419069.s0.e4" id="22419069.s0.p3" relation="false"/>
+  </sentence>
+</document>

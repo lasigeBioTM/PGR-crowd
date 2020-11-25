@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="29526753">
+  <sentence id="29526753.s0" text="Microfibrillar-associated protein 5 (definitive hemopoiesis) is a component of extracellular elastic microfibril which has been confirmed to function in tissue development and cancer progression.">
+    <entity charOffset="37-59" id="29526753.s0.e0" ontology_id="GO_0060216" text="definitive hemopoiesis" type="GO"/>
+    <entity charOffset="176-182" id="29526753.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29526753.s0.e0" e2="29526753.s0.e1" id="29526753.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29526753.s1" text="The present study demonstrated that definitive hemopoiesis was up-regulated in breast cancers compared with that in normal breast tissues, and further increased in breast cancer bone metastasis.">
+    <entity charOffset="36-58" id="29526753.s1.e0" ontology_id="GO_0060216" text="definitive hemopoiesis" type="GO"/>
+    <entity charOffset="86-92" id="29526753.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29526753.s1.e0" e2="29526753.s1.e1" id="29526753.s1.p0" relation="true"/>
+  </sentence>
+</document>

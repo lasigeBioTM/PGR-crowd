@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29916977">
+  <sentence id="29916977.s0" text="Popliteal pterygium syndrome shares features with glycoprotein biosynthetic process der Woude syndrome but, in addition, is characterized by genital anomalies, syndactyly of fingers and toes, and toenail dysplasia.">
+    <entity charOffset="50-83" id="29916977.s0.e0" ontology_id="GO_0009101" text="glycoprotein biosynthetic process" type="GO"/>
+    <entity charOffset="141-158" id="29916977.s0.e1" ontology_id="HP_0000078" text="genital anomalies" type="HP"/>
+    <entity charOffset="196-213" id="29916977.s0.e2" ontology_id="HP_0100797" text="toenail dysplasia" type="HP"/>
+  </sentence>
+</document>

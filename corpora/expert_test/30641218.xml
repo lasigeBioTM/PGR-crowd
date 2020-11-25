@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<document id="30641218">
+  <sentence id="30641218.s0" text="The present study aimed to explore regulation of small GTPase mediated signal transduction expression in cervical cancer and the possible function in tumor progression.">
+    <entity charOffset="35-90" id="30641218.s0.e0" ontology_id="GO_0051056" text="regulation of small GTPase mediated signal transduction" type="GO"/>
+    <entity charOffset="150-155" id="30641218.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="30641218.s0.e0" e2="30641218.s0.e1" id="30641218.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="30641218.s1" text="These results reveal that ARHGAP17 functions as a tumor suppressor in cervical cancer that suppresses tumor growth, at least partly, through inhibition of PI3K/positive regulation of protein phosphorylation signaling and up-regulation of P21 and P27 expression">
+    <entity charOffset="79-85" id="30641218.s1.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="160-206" id="30641218.s1.e1" ontology_id="GO_0001934" text="positive regulation of protein phosphorylation" type="GO"/>
+    <pair e1="30641218.s1.e0" e2="30641218.s1.e1" id="30641218.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="30641218.s2" text="Manipulation of regulation of small GTPase mediated signal transduction affected cell proliferation in vitro and tumor growth in vivo.">
+    <entity charOffset="16-71" id="30641218.s2.e0" ontology_id="GO_0051056" text="regulation of small GTPase mediated signal transduction" type="GO"/>
+    <entity charOffset="113-118" id="30641218.s2.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="30641218.s2.e0" e2="30641218.s2.e1" id="30641218.s2.p0" relation="true"/>
+  </sentence>
+  <sentence id="30641218.s3" text="Recently, a few G protein-coupled receptor signaling pathway GTPase activating proteins (RhoGAPs) have been identified as tumor suppressors in some human cancers.">
+    <entity charOffset="16-60" id="30641218.s3.e0" ontology_id="GO_0007186" text="G protein-coupled receptor signaling pathway" type="GO"/>
+    <entity charOffset="122-127" id="30641218.s3.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="154-160" id="30641218.s3.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30641218.s3.e0" e2="30641218.s3.e1" id="30641218.s3.p0" relation="true"/>
+    <pair e1="30641218.s3.e0" e2="30641218.s3.e2" id="30641218.s3.p1" relation="true"/>
+  </sentence>
+  <sentence id="30641218.s4" text="Stepwise investigations demonstrated that regulation of small GTPase mediated signal transduction suppressed malignant phenotype of cervical cancer cells via inhibiting PI3K/positive regulation of protein phosphorylation signaling pathway.">
+    <entity charOffset="42-97" id="30641218.s4.e0" ontology_id="GO_0051056" text="regulation of small GTPase mediated signal transduction" type="GO"/>
+    <entity charOffset="141-147" id="30641218.s4.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="174-220" id="30641218.s4.e2" ontology_id="GO_0001934" text="positive regulation of protein phosphorylation" type="GO"/>
+    <pair e1="30641218.s4.e0" e2="30641218.s4.e1" id="30641218.s4.p0" relation="true"/>
+    <pair e1="30641218.s4.e1" e2="30641218.s4.e2" id="30641218.s4.p1" relation="true"/>
+  </sentence>
+</document>

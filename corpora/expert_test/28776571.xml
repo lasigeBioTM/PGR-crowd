@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<document id="28776571">
+  <sentence id="28776571.s0" text="Focal alterations affected CDKN2A, CCND1, protein phosphorylation, EGFR, peptidyl-tyrosine phosphorylation, EPHB1, positive regulation of cell proliferation, JUN, NF1, RB1, RET, TP53, and additional novel amplifications in CCNE1, KIT, EGFR, RET, protein phosphorylation, brain-derived neurotrophic factor receptor signaling pathway were seen in G3 compared with the G1 tumor areas.">
+    <entity charOffset="42-65" id="28776571.s0.e0" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <entity charOffset="73-106" id="28776571.s0.e1" ontology_id="GO_0018108" text="peptidyl-tyrosine phosphorylation" type="GO"/>
+    <entity charOffset="115-156" id="28776571.s0.e2" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <entity charOffset="246-269" id="28776571.s0.e3" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <entity charOffset="271-331" id="28776571.s0.e4" ontology_id="GO_0031547" text="brain-derived neurotrophic factor receptor signaling pathway" type="GO"/>
+    <entity charOffset="369-374" id="28776571.s0.e5" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28776571.s0.e0" e2="28776571.s0.e5" id="28776571.s0.p0" relation="true"/>
+    <pair e1="28776571.s0.e1" e2="28776571.s0.e5" id="28776571.s0.p1" relation="true"/>
+    <pair e1="28776571.s0.e2" e2="28776571.s0.e5" id="28776571.s0.p2" relation="true"/>
+    <pair e1="28776571.s0.e3" e2="28776571.s0.e5" id="28776571.s0.p3" relation="true"/>
+    <pair e1="28776571.s0.e4" e2="28776571.s0.e5" id="28776571.s0.p4" relation="true"/>
+  </sentence>
+</document>

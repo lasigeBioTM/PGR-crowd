@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27796743">
+  <sentence id="27796743.s0" text="We report a novel gene duplication syndrome (10q21.2q21.3 microduplication) and present a new evidence for signal transduction duplication, as a candidate gene for autism.">
+    <entity charOffset="107-126" id="27796743.s0.e0" ontology_id="GO_0007165" text="signal transduction" type="GO"/>
+    <entity charOffset="164-170" id="27796743.s0.e1" ontology_id="HP_0000717" text="autism" type="HP"/>
+    <pair e1="27796743.s0.e0" e2="27796743.s0.e1" id="27796743.s0.p0" relation="true"/>
+  </sentence>
+</document>

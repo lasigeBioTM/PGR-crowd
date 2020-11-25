@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="29287625">
+  <sentence id="29287625.s0" text="These results imply that PPI might be modulated by four genotypes - catecholamine catabolic process rs4680 (primarily in males), glutamate receptor signaling pathway rs1027599, TCF4 rs9960767, and positive regulation of cell death rs385440 - indicating a role of these gene variations in the development of early information processing deficits in schizophrenia.">
+    <entity charOffset="68-99" id="29287625.s0.e0" ontology_id="GO_0042424" text="catecholamine catabolic process" type="GO"/>
+    <entity charOffset="129-165" id="29287625.s0.e1" ontology_id="GO_0007215" text="glutamate receptor signaling pathway" type="GO"/>
+    <entity charOffset="197-230" id="29287625.s0.e2" ontology_id="GO_0010942" text="positive regulation of cell death" type="GO"/>
+    <entity charOffset="348-361" id="29287625.s0.e3" ontology_id="HP_0100753" text="schizophrenia" type="HP"/>
+    <pair e1="29287625.s0.e0" e2="29287625.s0.e3" id="29287625.s0.p0" relation="true"/>
+    <pair e1="29287625.s0.e1" e2="29287625.s0.e3" id="29287625.s0.p1" relation="false"/>
+    <pair e1="29287625.s0.e2" e2="29287625.s0.e3" id="29287625.s0.p2" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="29953855">
+  <sentence id="29953855.s0" text="In this report, we used a bioinformatics approach to assess the negative regulation of transcription by RNA polymerase II of amino acid (AA) substitutions on the sensitivity of CECMPs to the ST14 protease (matriptase I), a transmembrane serine protease previously implicated in cancer development.">
+    <entity charOffset="64-121" id="29953855.s0.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="278-284" id="29953855.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="26225770">
+  <sentence id="26225770.s0" text="Previous studies have shown that c-apoptotic process is overexpressed in cases of aggressive bladder cancer (intracellular signal transduction).">
+    <entity charOffset="35-52" id="26225770.s0.e0" ontology_id="GO_0006915" text="apoptotic process" type="GO"/>
+    <entity charOffset="101-107" id="26225770.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="109-142" id="26225770.s0.e2" ontology_id="GO_0035556" text="intracellular signal transduction" type="GO"/>
+  </sentence>
+</document>

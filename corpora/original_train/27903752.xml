@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<document id="27903752">
+  <sentence id="27903752.s0" text="Global gene expression profiling studies were carried out using cancer cells and surrogate tissues, such as whole blood and skin, to identify genes that are modulated by central nervous system development family proteins.">
+    <entity charOffset="64-70" id="27903752.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="170-204" id="27903752.s0.e1" ontology_id="GO_0007417" text="central nervous system development" type="GO"/>
+    <pair e1="27903752.s0.e0" e2="27903752.s0.e1" id="27903752.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="27903752.s1" text="Candidate markers were further characterized for concentration- and time-dependent responses to the central nervous system development inhibitor ABBV-075 in vitro and in vivo negative regulation of transcription by RNA polymerase II was found to be the only gene that exhibited robust and consistent modulation by BET inhibitors across multiple cancer indications and surrogate tissues.">
+    <entity charOffset="100-134" id="27903752.s1.e0" ontology_id="GO_0007417" text="central nervous system development" type="GO"/>
+    <entity charOffset="175-232" id="27903752.s1.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="345-351" id="27903752.s1.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27903752.s1.e0" e2="27903752.s1.e2" id="27903752.s1.p0" relation="false"/>
+    <pair e1="27903752.s1.e1" e2="27903752.s1.e2" id="27903752.s1.p1" relation="false"/>
+  </sentence>
+  <sentence id="27903752.s2" text="Markers such as positive regulation of neuron projection development, biological_process, and negative regulation of cell migration were modulated by ABBV-075 and other BET inhibitors across cancer cell lines and xenograft tumors but not in blood and skin.">
+    <entity charOffset="16-68" id="27903752.s2.e0" ontology_id="GO_0010976" text="positive regulation of neuron projection development" type="GO"/>
+    <entity charOffset="70-88" id="27903752.s2.e1" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="94-131" id="27903752.s2.e2" ontology_id="GO_0030336" text="negative regulation of cell migration" type="GO"/>
+    <entity charOffset="191-197" id="27903752.s2.e3" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="223-229" id="27903752.s2.e4" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <pair e1="27903752.s2.e0" e2="27903752.s2.e3" id="27903752.s2.p0" relation="false"/>
+    <pair e1="27903752.s2.e0" e2="27903752.s2.e4" id="27903752.s2.p1" relation="false"/>
+    <pair e1="27903752.s2.e1" e2="27903752.s2.e3" id="27903752.s2.p2" relation="false"/>
+    <pair e1="27903752.s2.e2" e2="27903752.s2.e3" id="27903752.s2.p3" relation="false"/>
+  </sentence>
+  <sentence id="27903752.s3" text="Significant downregulation of negative regulation of transcription by RNA polymerase II, a well-publicized target of central nervous system development inhibitors, was largely restricted to hematologic cancer cell lines.">
+    <entity charOffset="30-87" id="27903752.s3.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="117-151" id="27903752.s3.e1" ontology_id="GO_0007417" text="central nervous system development" type="GO"/>
+    <entity charOffset="202-208" id="27903752.s3.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27903752.s3.e0" e2="27903752.s3.e2" id="27903752.s3.p0" relation="true"/>
+    <pair e1="27903752.s3.e1" e2="27903752.s3.e2" id="27903752.s3.p1" relation="false"/>
+  </sentence>
+</document>

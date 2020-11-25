@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<document id="29335468">
+  <sentence id="29335468.s0" text="This phenotype is associated with increased cytosine methylation heterogeneity, but not with increased somatic diversification of immunoglobulins-mediated somatic mutation burden.">
+    <entity charOffset="65-78" id="29335468.s0.e0" ontology_id="HP_0001425" text="heterogeneity" type="HP"/>
+    <entity charOffset="103-145" id="29335468.s0.e1" ontology_id="GO_0016445" text="somatic diversification of immunoglobulins" type="GO"/>
+    <entity charOffset="155-171" id="29335468.s0.e2" ontology_id="HP_0001428" text="somatic mutation" type="HP"/>
+    <pair e1="29335468.s0.e0" e2="29335468.s0.e1" id="29335468.s0.p0" relation="false"/>
+    <pair e1="29335468.s0.e1" e2="29335468.s0.e2" id="29335468.s0.p1" relation="false"/>
+  </sentence>
+  <sentence id="29335468.s1" text="Reciprocally, the cytosine methylation heterogeneity characteristic of normal GC B cells is lost upon somatic diversification of immunoglobulins depletion.">
+    <entity charOffset="39-52" id="29335468.s1.e0" ontology_id="HP_0001425" text="heterogeneity" type="HP"/>
+    <entity charOffset="102-144" id="29335468.s1.e1" ontology_id="GO_0016445" text="somatic diversification of immunoglobulins" type="GO"/>
+    <pair e1="29335468.s1.e0" e2="29335468.s1.e1" id="29335468.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="29335468.s2" text="These observations are relevant to human patients, since DLBCLs with high somatic diversification of immunoglobulins expression manifest increased methylation heterogeneity vs. AICDA-low DLBCLs.">
+    <entity charOffset="74-116" id="29335468.s2.e0" ontology_id="GO_0016445" text="somatic diversification of immunoglobulins" type="GO"/>
+    <entity charOffset="159-172" id="29335468.s2.e1" ontology_id="HP_0001425" text="heterogeneity" type="HP"/>
+    <pair e1="29335468.s2.e0" e2="29335468.s2.e1" id="29335468.s2.p0" relation="false"/>
+  </sentence>
+  <sentence id="29335468.s3" text="Our results identify somatic diversification of immunoglobulins as a driver of epigenetic heterogeneity in B-cell lymphomas with potential significance for other tumors with aberrant expression of cytidine deaminases">
+    <entity charOffset="21-63" id="29335468.s3.e0" ontology_id="GO_0016445" text="somatic diversification of immunoglobulins" type="GO"/>
+    <entity charOffset="90-103" id="29335468.s3.e1" ontology_id="HP_0001425" text="heterogeneity" type="HP"/>
+    <entity charOffset="162-168" id="29335468.s3.e2" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <pair e1="29335468.s3.e0" e2="29335468.s3.e1" id="29335468.s3.p0" relation="false"/>
+    <pair e1="29335468.s3.e0" e2="29335468.s3.e2" id="29335468.s3.p1" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="21738669">
+  <sentence id="21738669.s0" text="bicarbonate transport is important for retinal function and has not previously been associated with spontaneously occurring retinal degenerations in any other species, including humans">
+    <entity charOffset="0-21" id="21738669.s0.e0" ontology_id="GO_0015701" text="bicarbonate transport" type="GO"/>
+    <entity charOffset="124-145" id="21738669.s0.e1" ontology_id="HP_0000546" text="retinal degenerations" type="HP"/>
+    <pair e1="21738669.s0.e0" e2="21738669.s0.e1" id="21738669.s0.p0" relation="true"/>
+  </sentence>
+</document>

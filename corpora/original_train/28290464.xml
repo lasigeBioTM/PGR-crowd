@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<document id="28290464">
+  <sentence id="28290464.s0" text="Naive CD4&lt;sup&gt;+&lt;/sup&gt; T cells adhere to tumor slices in proportion to the abundance of chemotaxis-producing macrophages.">
+    <entity charOffset="40-45" id="28290464.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="87-97" id="28290464.s0.e1" ontology_id="GO_0006935" text="chemotaxis" type="GO"/>
+    <pair e1="28290464.s0.e0" e2="28290464.s0.e1" id="28290464.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="28290464.s1" text="Moreover, adoptively transferred human naive CD4&lt;sup&gt;+&lt;/sup&gt; T cells infiltrate human breast cancer orthotopic xenografts in a chemotaxis-dependent manner.">
+    <entity charOffset="93-99" id="28290464.s1.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="127-137" id="28290464.s1.e1" ontology_id="GO_0006935" text="chemotaxis" type="GO"/>
+    <pair e1="28290464.s1.e0" e2="28290464.s1.e1" id="28290464.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="28290464.s2" text="In human breast cancer xenografts in humanized epidermis development, blocking the recruitment of naive CD4&lt;sup&gt;+&lt;/sup&gt; T cells into tumor by knocking down the expression of phosphatidylinositol biosynthetic process, a chemotaxis receptor, significantly reduces intratumoral Tregs and inhibits tumor progression.">
+    <entity charOffset="16-22" id="28290464.s2.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="47-68" id="28290464.s2.e1" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="133-138" id="28290464.s2.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="174-215" id="28290464.s2.e3" ontology_id="GO_0006661" text="phosphatidylinositol biosynthetic process" type="GO"/>
+    <entity charOffset="219-229" id="28290464.s2.e4" ontology_id="GO_0006935" text="chemotaxis" type="GO"/>
+    <pair e1="28290464.s2.e0" e2="28290464.s2.e1" id="28290464.s2.p0" relation="false"/>
+    <pair e1="28290464.s2.e0" e2="28290464.s2.e3" id="28290464.s2.p1" relation="false"/>
+    <pair e1="28290464.s2.e0" e2="28290464.s2.e4" id="28290464.s2.p2" relation="false"/>
+    <pair e1="28290464.s2.e1" e2="28290464.s2.e2" id="28290464.s2.p3" relation="false"/>
+  </sentence>
+  <sentence id="28290464.s3" text="Inhibiting naive CD4&lt;sup&gt;+&lt;/sup&gt; T cell recruitment into tumors by interfering with phosphatidylinositol biosynthetic process recognition of chemotaxis may be an attractive strategy for anticancer immunotherapy">
+    <entity charOffset="57-62" id="28290464.s3.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="84-125" id="28290464.s3.e1" ontology_id="GO_0006661" text="phosphatidylinositol biosynthetic process" type="GO"/>
+    <entity charOffset="141-151" id="28290464.s3.e2" ontology_id="GO_0006935" text="chemotaxis" type="GO"/>
+    <entity charOffset="190-196" id="28290464.s3.e3" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28290464.s3.e0" e2="28290464.s3.e2" id="28290464.s3.p0" relation="false"/>
+    <pair e1="28290464.s3.e1" e2="28290464.s3.e3" id="28290464.s3.p1" relation="false"/>
+    <pair e1="28290464.s3.e2" e2="28290464.s3.e3" id="28290464.s3.p2" relation="false"/>
+  </sentence>
+</document>

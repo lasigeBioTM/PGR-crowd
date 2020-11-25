@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="28456785">
+  <sentence id="28456785.s0" text="Some of the RP genes are also associated with other retinal diseases, such as clathrin coat assembly (Leber's congenital amaurosis) and CORD (cone-rod dystrophy).">
+    <entity charOffset="52-68" id="28456785.s0.e0" ontology_id="HP_0000479" text="retinal diseases" type="HP"/>
+    <entity charOffset="78-100" id="28456785.s0.e1" ontology_id="GO_0048268" text="clathrin coat assembly" type="GO"/>
+  </sentence>
+</document>

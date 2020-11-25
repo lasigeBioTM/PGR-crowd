@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="25569091">
+  <sentence id="25569091.s0" text="The patients were classified according to the presence of significant coronary atherosclerosis (actin filament organization) and history of myocardial infarction (MI).">
+    <entity charOffset="96-123" id="25569091.s0.e0" ontology_id="GO_0007015" text="actin filament organization" type="GO"/>
+    <entity charOffset="140-161" id="25569091.s0.e1" ontology_id="HP_0001658" text="myocardial infarction" type="HP"/>
+    <pair e1="25569091.s0.e0" e2="25569091.s0.e1" id="25569091.s0.p0" relation="true"/>
+  </sentence>
+</document>

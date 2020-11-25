@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="22201925">
+  <sentence id="22201925.s0" text="Until recently, four loci (DFN2, cochlea morphogenesis, DFN4, and DFN6) had been implicated in nonsyndromic X-linked hearing loss; however, a new classification (purine nucleobase metabolic process-5) has been proposed to reduce confusion in the terminology.">
+    <entity charOffset="33-54" id="22201925.s0.e0" ontology_id="GO_0090103" text="cochlea morphogenesis" type="GO"/>
+    <entity charOffset="117-129" id="22201925.s0.e1" ontology_id="HP_0000365" text="hearing loss" type="HP"/>
+    <entity charOffset="162-197" id="22201925.s0.e2" ontology_id="GO_0006144" text="purine nucleobase metabolic process" type="GO"/>
+    <pair e1="22201925.s0.e0" e2="22201925.s0.e1" id="22201925.s0.p0" relation="true"/>
+    <pair e1="22201925.s0.e1" e2="22201925.s0.e2" id="22201925.s0.p1" relation="true"/>
+  </sentence>
+</document>

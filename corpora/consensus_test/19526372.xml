@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="19526372">
+  <sentence id="19526372.s0" text="To identify the disease-causing defect in these families, we first analysed embryo development ending in birth or egg hatching gene, then some candidate genes (CHX10, OPA1, MITF, SOX2, CRYBB1-3 and CRYBA4) and loci (MCOP1, NNO1 and embryo development ending in birth or egg hatching) previously implicated in different forms of microphthalmia.">
+    <entity charOffset="76-126" id="19526372.s0.e0" ontology_id="GO_0009792" text="embryo development ending in birth or egg hatching" type="GO"/>
+    <entity charOffset="232-282" id="19526372.s0.e1" ontology_id="GO_0009792" text="embryo development ending in birth or egg hatching" type="GO"/>
+    <entity charOffset="328-342" id="19526372.s0.e2" ontology_id="HP_0000568" text="microphthalmia" type="HP"/>
+    <pair e1="19526372.s0.e0" e2="19526372.s0.e2" id="19526372.s0.p0" relation="true"/>
+    <pair e1="19526372.s0.e1" e2="19526372.s0.e2" id="19526372.s0.p1" relation="false"/>
+  </sentence>
+</document>

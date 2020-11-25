@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="27640307">
+  <sentence id="27640307.s0" text="We identified a recurrent de novo regulation of cell growth c.1582C&amp;gt;T (p.Arg528Trp) variant by whole-exome sequencing (WES) in five unrelated individuals with a core phenotype of global developmental delay, hypotonia, optic atrophy, axonal neuropathy, and hypertrophic cardiomyopathy.">
+    <entity charOffset="34-59" id="27640307.s0.e0" ontology_id="GO_0001558" text="regulation of cell growth" type="GO"/>
+    <entity charOffset="189-208" id="27640307.s0.e1" ontology_id="HP_0001263" text="developmental delay" type="HP"/>
+    <entity charOffset="221-234" id="27640307.s0.e2" ontology_id="HP_0000648" text="optic atrophy" type="HP"/>
+    <entity charOffset="243-253" id="27640307.s0.e3" ontology_id="HP_0009830" text="neuropathy" type="HP"/>
+    <entity charOffset="272-286" id="27640307.s0.e4" ontology_id="HP_0001638" text="cardiomyopathy" type="HP"/>
+    <pair e1="27640307.s0.e0" e2="27640307.s0.e1" id="27640307.s0.p0" relation="true"/>
+    <pair e1="27640307.s0.e0" e2="27640307.s0.e2" id="27640307.s0.p1" relation="true"/>
+    <pair e1="27640307.s0.e0" e2="27640307.s0.e3" id="27640307.s0.p2" relation="true"/>
+    <pair e1="27640307.s0.e0" e2="27640307.s0.e4" id="27640307.s0.p3" relation="true"/>
+  </sentence>
+</document>

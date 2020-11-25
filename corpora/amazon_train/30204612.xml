@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30204612">
+  <sentence id="30204612.s0" text="Subsequent mutation analyses identified tumor-associated calcium signal transducer 2 (negative regulation of epithelial cell migration; former name, M1S1) as the gene responsible for GDLD.">
+    <entity charOffset="40-45" id="30204612.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="86-134" id="30204612.s0.e1" ontology_id="GO_0010633" text="negative regulation of epithelial cell migration" type="GO"/>
+    <pair e1="30204612.s0.e0" e2="30204612.s0.e1" id="30204612.s0.p0" relation="true"/>
+  </sentence>
+</document>

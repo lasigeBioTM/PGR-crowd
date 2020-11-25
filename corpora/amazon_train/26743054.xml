@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="26743054">
+  <sentence id="26743054.s0" text="Signs and symptoms are blisters, skin fragility, erosions hyGPI anchor metabolic processpigmentation, sclerodermoid plaques.">
+    <entity charOffset="33-47" id="26743054.s0.e0" ontology_id="HP_0001030" text="skin fragility" type="HP"/>
+    <entity charOffset="60-88" id="26743054.s0.e1" ontology_id="GO_0006505" text="GPI anchor metabolic process" type="GO"/>
+  </sentence>
+</document>

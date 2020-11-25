@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<document id="30272371">
+  <sentence id="30272371.s0" text="Sonic hedgehog (positive regulation of cell proliferation) signaling is an important promotor of desmoplasia, a critical feature in pancreatic cancer stromal reactions involving the activation of pancreatic stellate cells (PSCs).">
+    <entity charOffset="16-57" id="30272371.s0.e0" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <entity charOffset="143-149" id="30272371.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30272371.s0.e0" e2="30272371.s0.e1" id="30272371.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="30272371.s1" text="The present study investigated the association between Gremlin 1 and positive regulation of cell proliferation, and the effect of Gremlin 1 in pancreatic cancer.">
+    <entity charOffset="69-110" id="30272371.s1.e0" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <entity charOffset="154-160" id="30272371.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30272371.s1.e0" e2="30272371.s1.e1" id="30272371.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="30272371.s2" text="Primary human PSCs and pancreatic cancer cell lines were exposed to positive regulation of cell proliferation, cyclopamine, osteoblast differentiation family zinc finger-1 (Gli-1) small interfering RNA (siRNA), and Gremlin 1 siRNA to examine their associations and effects using an MTT assay, reverse transcription-quantitative polymerase chain reaction analysis, western blot analysis, and migration or invasion assays.">
+    <entity charOffset="34-40" id="30272371.s2.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="68-109" id="30272371.s2.e1" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <entity charOffset="124-150" id="30272371.s2.e2" ontology_id="GO_0001649" text="osteoblast differentiation" type="GO"/>
+    <pair e1="30272371.s2.e0" e2="30272371.s2.e1" id="30272371.s2.p0" relation="true"/>
+    <pair e1="30272371.s2.e0" e2="30272371.s2.e2" id="30272371.s2.p1" relation="true"/>
+  </sentence>
+</document>

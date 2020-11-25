@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="28940506">
+  <sentence id="28940506.s0" text="Biallelic pathogenic variants in protein polyubiquitination are associated with an encephalopathic mtDNA maintenance defect syndrome that is a multisystem disease characterized by lactic acidemia, developmental delay, and hypotonia.">
+    <entity charOffset="33-59" id="28940506.s0.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="180-195" id="28940506.s0.e1" ontology_id="HP_0003128" text="lactic acidemia" type="HP"/>
+    <entity charOffset="197-216" id="28940506.s0.e2" ontology_id="HP_0001263" text="developmental delay" type="HP"/>
+    <pair e1="28940506.s0.e0" e2="28940506.s0.e1" id="28940506.s0.p0" relation="true"/>
+    <pair e1="28940506.s0.e0" e2="28940506.s0.e2" id="28940506.s0.p1" relation="true"/>
+  </sentence>
+</document>

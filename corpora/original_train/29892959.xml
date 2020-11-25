@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29892959">
+  <sentence id="29892959.s0" text="Identification of this mutation reveals the allelic heterogeneity of retinoid metabolic process in patients with RP phenotype.">
+    <entity charOffset="52-65" id="29892959.s0.e0" ontology_id="HP_0001425" text="heterogeneity" type="HP"/>
+    <entity charOffset="69-95" id="29892959.s0.e1" ontology_id="GO_0001523" text="retinoid metabolic process" type="GO"/>
+    <pair e1="29892959.s0.e0" e2="29892959.s0.e1" id="29892959.s0.p0" relation="false"/>
+  </sentence>
+</document>

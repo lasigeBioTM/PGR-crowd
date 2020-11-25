@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="28972077">
+  <sentence id="28972077.s0" text="Ancestor tumor clones evolved into three subclonal clades: clade1 fostered metastatic subclones that carried metastatic features of &lt;i&gt;PIK3CA&lt;/i&gt; and &lt;i&gt;ARHGAP26&lt;/i&gt; point mutations as well as chr13 cilium assembly-level deletion, clade2 owned branch-specific &lt;i&gt;JAK1&lt;/i&gt; mutations and &lt;i&gt;PTEN&lt;/i&gt; deletion, and clade3 was found in two vertical distribution samples below the primary tumor area, highlighting the fact that it is possible for PMME to disseminate by the submucosal longitudinal lymphatic route at an early stage of metastasis.">
+    <entity charOffset="9-14" id="28972077.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="199-214" id="28972077.s0.e1" ontology_id="GO_0060271" text="cilium assembly" type="GO"/>
+  </sentence>
+</document>

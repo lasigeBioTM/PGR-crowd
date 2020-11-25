@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<document id="28686706">
+  <sentence id="28686706.s0" text="However, all experimental models of electrolytic deep vein thrombosis, tissue factor-induced pulmonary embolism, transient focal brain ischaemic stroke, or skin-wound healing showed largely similar phenotypes between proteolysisT/T epidermis development and wild-type mice.">
+    <entity charOffset="49-69" id="28686706.s0.e0" ontology_id="HP_0002625" text="deep vein thrombosis" type="HP"/>
+    <entity charOffset="93-111" id="28686706.s0.e1" ontology_id="HP_0002204" text="pulmonary embolism" type="HP"/>
+    <entity charOffset="217-228" id="28686706.s0.e2" ontology_id="GO_0006508" text="proteolysis" type="GO"/>
+    <entity charOffset="232-253" id="28686706.s0.e3" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <pair e1="28686706.s0.e0" e2="28686706.s0.e3" id="28686706.s0.p0" relation="false"/>
+    <pair e1="28686706.s0.e1" e2="28686706.s0.e2" id="28686706.s0.p1" relation="false"/>
+    <pair e1="28686706.s0.e1" e2="28686706.s0.e3" id="28686706.s0.p2" relation="false"/>
+  </sentence>
+  <sentence id="28686706.s1" text="Coexistence in epidermis development of proteolysisT/T and Pros1E/E did not affect pulmonary embolism symptoms, compared with those in Pros1E/E mice.">
+    <entity charOffset="15-36" id="28686706.s1.e0" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="40-51" id="28686706.s1.e1" ontology_id="GO_0006508" text="proteolysis" type="GO"/>
+    <entity charOffset="83-101" id="28686706.s1.e2" ontology_id="HP_0002204" text="pulmonary embolism" type="HP"/>
+    <pair e1="28686706.s1.e0" e2="28686706.s1.e2" id="28686706.s1.p0" relation="false"/>
+    <pair e1="28686706.s1.e1" e2="28686706.s1.e2" id="28686706.s1.p1" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27302160">
+  <sentence id="27302160.s0" text="The aminoacyl tRNA synthetase complex-interacting multifunctional protein 2 (tRNA aminoacylation for protein translation) splice variant designated DX2 is induced by cigarette smoke carcinogens and is often detected in human lung cancer specimens.">
+    <entity charOffset="77-120" id="27302160.s0.e0" ontology_id="GO_0006418" text="tRNA aminoacylation for protein translation" type="GO"/>
+    <entity charOffset="230-236" id="27302160.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27302160.s0.e0" e2="27302160.s0.e1" id="27302160.s0.p0" relation="true"/>
+  </sentence>
+</document>

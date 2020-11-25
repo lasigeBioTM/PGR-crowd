@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="23261302">
+  <sentence id="23261302.s0" text="Primary ciliary dyskinesia (motile cilium assembly) is a genetically heterogeneous, autosomal-recessive disorder, characterized by oto-sino-pulmonary disease and situs abnormalities.">
+    <entity charOffset="28-50" id="23261302.s0.e0" ontology_id="GO_0044458" text="motile cilium assembly" type="GO"/>
+    <entity charOffset="69-82" id="23261302.s0.e1" ontology_id="HP_0001425" text="heterogeneous" type="HP"/>
+  </sentence>
+</document>

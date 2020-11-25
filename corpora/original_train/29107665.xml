@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="29107665">
+  <sentence id="29107665.s0" text="In vitro head and neck cancer studies have demonstrated that epidermal growth factor receptor kinase substrate 8 (regulation of cell shape) overexpression contributes to squamous carcinogenesis.">
+    <entity charOffset="23-29" id="29107665.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="114-138" id="29107665.s0.e1" ontology_id="GO_0008360" text="regulation of cell shape" type="GO"/>
+    <pair e1="29107665.s0.e0" e2="29107665.s0.e1" id="29107665.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="29107665.s1" text="We then correlated our findings with clinicopathologic data including tumor-node-metastasis stage, p16 status, age, multicellular organism development, and smoking and alcohol history.">
+    <entity charOffset="70-75" id="29107665.s1.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="116-150" id="29107665.s1.e1" ontology_id="GO_0007275" text="multicellular organism development" type="GO"/>
+    <pair e1="29107665.s1.e0" e2="29107665.s1.e1" id="29107665.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="29107665.s2" text="In conclusion, our data offer in vivo support that, in HNSCCs, regulation of cell shape is involved in tumor invasion but not necessarily the development of regional LN metastasis.">
+    <entity charOffset="63-87" id="29107665.s2.e0" ontology_id="GO_0008360" text="regulation of cell shape" type="GO"/>
+    <entity charOffset="103-108" id="29107665.s2.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29107665.s2.e0" e2="29107665.s2.e1" id="29107665.s2.p0" relation="false"/>
+  </sentence>
+</document>

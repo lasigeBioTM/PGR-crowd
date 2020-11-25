@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="27528030">
+  <sentence id="27528030.s0" text="To elucidate the underlying molecular mechanisms of tamoxifen resistance, we performed a systematic analysis of protein polyubiquitinationNA-mediated gene regulation in three clinically-relevant tamoxifen-resistant breast cancer cell lines (TamRs) compared to their parental tamoxifen-sensitive cell line.">
+    <entity charOffset="112-138" id="27528030.s0.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="222-228" id="27528030.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27528030.s0.e0" e2="27528030.s0.e1" id="27528030.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="27528030.s1" text="Finally, we show that a combination of 2 protein polyubiquitinationNAs (miR-190b and miR-516a-5p) exhibiting altered expression in TamR cell lines were predictive of treatment outcome in a cohort of ER+ breast cancer patients receiving adjuvant tamoxifen mono-therapy.">
+    <entity charOffset="41-67" id="27528030.s1.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="210-216" id="27528030.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27528030.s1.e0" e2="27528030.s1.e1" id="27528030.s1.p0" relation="false"/>
+  </sentence>
+</document>

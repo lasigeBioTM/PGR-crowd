@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="22994209">
+  <sentence id="22994209.s0" text="Although fatty acid beta-oxidation is responsible for X-linked fatty acid beta-oxidation (X-fatty acid beta-oxidation), its phenotype differs from that of CADDS, which manifests with many features of Zellweger syndrome (ZS), including severe growth and developmental retardation, liver dysfunction, cholestasis and early infantile death.">
+    <entity charOffset="9-34" id="22994209.s0.e0" ontology_id="GO_0006635" text="fatty acid beta-oxidation" type="GO"/>
+    <entity charOffset="63-88" id="22994209.s0.e1" ontology_id="GO_0006635" text="fatty acid beta-oxidation" type="GO"/>
+    <entity charOffset="92-117" id="22994209.s0.e2" ontology_id="GO_0006635" text="fatty acid beta-oxidation" type="GO"/>
+    <entity charOffset="280-297" id="22994209.s0.e3" ontology_id="HP_0001410" text="liver dysfunction" type="HP"/>
+    <entity charOffset="299-310" id="22994209.s0.e4" ontology_id="HP_0001396" text="cholestasis" type="HP"/>
+    <pair e1="22994209.s0.e0" e2="22994209.s0.e3" id="22994209.s0.p0" relation="true"/>
+    <pair e1="22994209.s0.e0" e2="22994209.s0.e4" id="22994209.s0.p1" relation="false"/>
+    <pair e1="22994209.s0.e1" e2="22994209.s0.e4" id="22994209.s0.p2" relation="false"/>
+  </sentence>
+</document>

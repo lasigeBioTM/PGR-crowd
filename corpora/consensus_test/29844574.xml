@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<document id="29844574">
+  <sentence id="29844574.s0" text="We noted that Sirtuin 1 (negative regulation of transcription by RNA polymerase II) is overexpressed in HPV-infected cervical cancer cells and hypothesized that SIRT1 counteracts antiviral immunity.">
+    <entity charOffset="25-82" id="29844574.s0.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="126-132" id="29844574.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29844574.s0.e0" e2="29844574.s0.e1" id="29844574.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29844574.s1" text="In conclusion, SIRT1 enabled HPV-infected cervical cancer cells to continue growing by nullifying activation of innate immune response inflammasome-mediated immunity.">
+    <entity charOffset="51-57" id="29844574.s1.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="98-134" id="29844574.s1.e1" ontology_id="GO_0002218" text="activation of innate immune response" type="GO"/>
+    <pair e1="29844574.s1.e0" e2="29844574.s1.e1" id="29844574.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="29844574.s2" text="Without SIRT1, cervical cancer cells could no longer survive because of the derepression of the activation of innate immune response inflammasome.">
+    <entity charOffset="24-30" id="29844574.s2.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="96-132" id="29844574.s2.e1" ontology_id="GO_0002218" text="activation of innate immune response" type="GO"/>
+    <pair e1="29844574.s2.e0" e2="29844574.s2.e1" id="29844574.s2.p0" relation="true"/>
+  </sentence>
+  <sentence id="29844574.s3" text="Furthermore, the growth of cervical cancer xenografts was significantly inhibited by either negative regulation of transcription by RNA polymerase II-targeting siRNAs or SIRT1-knockdown-derived extracellular vesicles.">
+    <entity charOffset="36-42" id="29844574.s3.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="92-149" id="29844574.s3.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="29844574.s3.e0" e2="29844574.s3.e1" id="29844574.s3.p0" relation="true"/>
+  </sentence>
+</document>

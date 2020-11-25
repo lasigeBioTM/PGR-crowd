@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<document id="29054762">
+  <sentence id="29054762.s0" text="protein polyubiquitinationNAs are a kind of endogenous non-coding small RNAs, which involved in occurrence and development of multi cancer, including miR-34a.">
+    <entity charOffset="0-26" id="29054762.s0.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="132-138" id="29054762.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+  </sentence>
+  <sentence id="29054762.s1" text="On the other hand, protein polyubiquitination-34a inhibitor could partly counter the anticancer effect of luteolin.">
+    <entity charOffset="19-45" id="29054762.s1.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="89-95" id="29054762.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+  </sentence>
+  <sentence id="29054762.s2" text="Therefore, our findings firstly suggested that protein polyubiquitination-34a could modulate the susceptibility of gastric cancer cell to luteolin via targeting HK1, potentially benefiting GC patients' treatment in the future">
+    <entity charOffset="47-73" id="29054762.s2.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="123-129" id="29054762.s2.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29054762.s2.e0" e2="29054762.s2.e1" id="29054762.s2.p0" relation="true"/>
+  </sentence>
+</document>

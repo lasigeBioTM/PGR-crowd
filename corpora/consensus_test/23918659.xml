@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="23918659">
+  <sentence id="23918659.s0" text="Mutations in Vps33 isoforms cause pigment dilution in epidermis development (vesicle-mediated transport, buff) and Drosophila (car) and the neurogenic arthrogryposis, renal dysfunction and cholestasis syndrome in humans (ARC1, vesicle-mediated transport).">
+    <entity charOffset="54-75" id="23918659.s0.e0" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="77-103" id="23918659.s0.e1" ontology_id="GO_0016192" text="vesicle-mediated transport" type="GO"/>
+    <entity charOffset="151-165" id="23918659.s0.e2" ontology_id="HP_0002804" text="arthrogryposis" type="HP"/>
+    <entity charOffset="227-253" id="23918659.s0.e3" ontology_id="GO_0016192" text="vesicle-mediated transport" type="GO"/>
+    <pair e1="23918659.s0.e0" e2="23918659.s0.e2" id="23918659.s0.p0" relation="false"/>
+    <pair e1="23918659.s0.e1" e2="23918659.s0.e2" id="23918659.s0.p1" relation="false"/>
+    <pair e1="23918659.s0.e2" e2="23918659.s0.e3" id="23918659.s0.p2" relation="true"/>
+  </sentence>
+</document>

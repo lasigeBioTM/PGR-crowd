@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27871432">
+  <sentence id="27871432.s0" text="Mutations in the GPI anchor biosynthetic process gene cause hyperphosphatasia mental retardation syndrome-3.">
+    <entity charOffset="17-48" id="27871432.s0.e0" ontology_id="GO_0006506" text="GPI anchor biosynthetic process" type="GO"/>
+    <entity charOffset="60-77" id="27871432.s0.e1" ontology_id="HP_0003155" text="hyperphosphatasia" type="HP"/>
+    <pair e1="27871432.s0.e0" e2="27871432.s0.e1" id="27871432.s0.p0" relation="true"/>
+  </sentence>
+</document>

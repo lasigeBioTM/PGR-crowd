@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="24455740">
+  <sentence id="24455740.s0" text="We initially selected 6 fluoropyrimidine metabolism-related genes (DPYD, ORPT, dTMP biosynthetic process, TYMP, TK1, and TK2) and 3 radiotherapy response-related genes (GLUT1, HIF-1α, and HIF-2α) as targets for gene expression identification in 60 LARC cancer specimens.">
+    <entity charOffset="79-104" id="24455740.s0.e0" ontology_id="GO_0006231" text="dTMP biosynthetic process" type="GO"/>
+    <entity charOffset="253-259" id="24455740.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="24455740.s0.e0" e2="24455740.s0.e1" id="24455740.s0.p0" relation="true"/>
+  </sentence>
+</document>

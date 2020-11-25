@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29133145">
+  <sentence id="29133145.s0" text="Our study identified a novel protein downstream of Ras and positive regulation of protein phosphorylation, which may serve as a potential therapeutic drug target for lung cancer patients">
+    <entity charOffset="59-105" id="29133145.s0.e0" ontology_id="GO_0001934" text="positive regulation of protein phosphorylation" type="GO"/>
+    <entity charOffset="171-177" id="29133145.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29133145.s0.e0" e2="29133145.s0.e1" id="29133145.s0.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29122497">
+  <sentence id="29122497.s0" text="Defects in ISC biogenesis lead to multiple mitochondrial dysfunction syndromes including: small molecule metabolic process with infantile onset leukodystrophy.">
+    <entity charOffset="43-68" id="29122497.s0.e0" ontology_id="HP_0003287" text="mitochondrial dysfunction" type="HP"/>
+    <entity charOffset="90-122" id="29122497.s0.e1" ontology_id="GO_0044281" text="small molecule metabolic process" type="GO"/>
+    <pair e1="29122497.s0.e0" e2="29122497.s0.e1" id="29122497.s0.p0" relation="false"/>
+  </sentence>
+</document>

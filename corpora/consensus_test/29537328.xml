@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29537328">
+  <sentence id="29537328.s0" text="It has been proposed that transcobalamin 2 (cobalamin transport) and the transcobalamin 2 receptor (TCN2R) are associated with idiopathic recurrent spontaneous abortion (RSA).">
+    <entity charOffset="44-63" id="29537328.s0.e0" ontology_id="GO_0015889" text="cobalamin transport" type="GO"/>
+    <entity charOffset="148-168" id="29537328.s0.e1" ontology_id="HP_0005268" text="spontaneous abortion" type="HP"/>
+    <pair e1="29537328.s0.e0" e2="29537328.s0.e1" id="29537328.s0.p0" relation="false"/>
+  </sentence>
+</document>

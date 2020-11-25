@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="28522832">
+  <sentence id="28522832.s0" text="High mobility group A2 (negative regulation of transcription by RNA polymerase II) plays a crucial role in the development of cancer.">
+    <entity charOffset="24-81" id="28522832.s0.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="126-132" id="28522832.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28522832.s0.e0" e2="28522832.s0.e1" id="28522832.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28522832.s1" text="However, the mechanism by which negative regulation of transcription by RNA polymerase II promotes the growth of hepatocellular carcinoma (phosphatidylinositol phosphorylation) remains unclear.">
+    <entity charOffset="32-89" id="28522832.s1.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="113-137" id="28522832.s1.e1" ontology_id="HP_0001402" text="hepatocellular carcinoma" type="HP"/>
+    <entity charOffset="139-175" id="28522832.s1.e2" ontology_id="GO_0046854" text="phosphatidylinositol phosphorylation" type="GO"/>
+    <pair e1="28522832.s1.e0" e2="28522832.s1.e1" id="28522832.s1.p0" relation="true"/>
+    <pair e1="28522832.s1.e1" e2="28522832.s1.e2" id="28522832.s1.p1" relation="true"/>
+  </sentence>
+</document>

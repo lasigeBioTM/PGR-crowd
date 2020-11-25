@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28535045">
+  <sentence id="28535045.s0" text="Chemical inhibition of epigenetic regulatory proteins regulation of transcription, DNA-templated and Brd4 is emerging as a promising therapeutic strategy in contraception, cancer, and heart disease.">
+    <entity charOffset="54-96" id="28535045.s0.e0" ontology_id="GO_0006355" text="regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="172-178" id="28535045.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28535045.s0.e0" e2="28535045.s0.e1" id="28535045.s0.p0" relation="true"/>
+  </sentence>
+</document>

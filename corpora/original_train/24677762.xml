@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<document id="24677762">
+  <sentence id="24677762.s0" text="Biallelic mutations in IRE1-mediated unfolded protein response cause a recessive form of Ehlers-Danlos syndrome (EDS) characterized by progressive kyphoscoliosis, myopathy, and hearing loss.">
+    <entity charOffset="23-62" id="24677762.s0.e0" ontology_id="GO_0036498" text="IRE1-mediated unfolded protein response" type="GO"/>
+    <entity charOffset="147-161" id="24677762.s0.e1" ontology_id="HP_0002751" text="kyphoscoliosis" type="HP"/>
+    <entity charOffset="163-171" id="24677762.s0.e2" ontology_id="HP_0003198" text="myopathy" type="HP"/>
+    <entity charOffset="177-189" id="24677762.s0.e3" ontology_id="HP_0000365" text="hearing loss" type="HP"/>
+    <pair e1="24677762.s0.e0" e2="24677762.s0.e1" id="24677762.s0.p0" relation="true"/>
+    <pair e1="24677762.s0.e0" e2="24677762.s0.e2" id="24677762.s0.p1" relation="true"/>
+    <pair e1="24677762.s0.e0" e2="24677762.s0.e3" id="24677762.s0.p2" relation="true"/>
+  </sentence>
+  <sentence id="24677762.s1" text="We recently identified a 42-year-old man with severe kyphoscoliosis, restrictive/obstructive lung disease, short stature, mild hearing loss, decreased muscle cell adhesion mediated by integrin, and a dissection of the celiac artery at age 41.">
+    <entity charOffset="107-120" id="24677762.s1.e0" ontology_id="HP_0004322" text="short stature" type="HP"/>
+    <entity charOffset="127-139" id="24677762.s1.e1" ontology_id="HP_0000365" text="hearing loss" type="HP"/>
+    <entity charOffset="158-192" id="24677762.s1.e2" ontology_id="GO_0033627" text="cell adhesion mediated by integrin" type="GO"/>
+    <pair e1="24677762.s1.e0" e2="24677762.s1.e2" id="24677762.s1.p0" relation="true"/>
+    <pair e1="24677762.s1.e1" e2="24677762.s1.e2" id="24677762.s1.p1" relation="true"/>
+  </sentence>
+</document>

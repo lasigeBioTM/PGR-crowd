@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30700638">
+  <sentence id="30700638.s0" text="We suspected PVOD from CT characteristics and pulmonary edema after L-phenylalanine catabolic process-targeted vasodilator therapy, and then started oral imatinib treatment.">
+    <entity charOffset="46-61" id="30700638.s0.e0" ontology_id="HP_0100598" text="pulmonary edema" type="HP"/>
+    <entity charOffset="68-101" id="30700638.s0.e1" ontology_id="GO_0006559" text="L-phenylalanine catabolic process" type="GO"/>
+    <pair e1="30700638.s0.e0" e2="30700638.s0.e1" id="30700638.s0.p0" relation="true"/>
+  </sentence>
+</document>

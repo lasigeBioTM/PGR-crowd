@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28298625">
+  <sentence id="28298625.s0" text="Enamel-renal-gingival syndrome (ERGS; OMIM #204690), a rare autosomal recessive disorder caused by mutations in positive regulation of protein phosphorylation, is characterized by nephrocalcinosis, nephrolithiasis, amelogenesis imperfecta, hypoplastic type, gingival fibromatosis and other dental abnormalities, including hypodontia and unerupted teeth with large dental follicles.">
+    <entity charOffset="112-158" id="28298625.s0.e0" ontology_id="GO_0001934" text="positive regulation of protein phosphorylation" type="GO"/>
+    <entity charOffset="180-196" id="28298625.s0.e1" ontology_id="HP_0000121" text="nephrocalcinosis" type="HP"/>
+    <pair e1="28298625.s0.e0" e2="28298625.s0.e1" id="28298625.s0.p0" relation="true"/>
+  </sentence>
+</document>

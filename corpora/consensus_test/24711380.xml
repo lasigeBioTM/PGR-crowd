@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="24711380">
+  <sentence id="24711380.s0" text="Erbin(-/-) epidermis development rapidly develop decompensated cardiac hypertrophy, and following severe pressure overload all Erbin(-/-) mice died from heart failure.">
+    <entity charOffset="11-32" id="24711380.s0.e0" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="153-166" id="24711380.s0.e1" ontology_id="HP_0001635" text="heart failure" type="HP"/>
+  </sentence>
+</document>

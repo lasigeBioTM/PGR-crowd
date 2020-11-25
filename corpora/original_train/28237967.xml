@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<document id="28237967">
+  <sentence id="28237967.s0" text="A key aspect of several adult lung diseases, such as idiopathic pulmonary fibrosis (IPF) and chronic obstructive pulmonary disease (intracellular protein transport), including emphysema, is aberrant tissue repair, which leads to an accumulation of cellular protein catabolic process and impaired respiratory function.">
+    <entity charOffset="132-163" id="28237967.s0.e0" ontology_id="GO_0006886" text="intracellular protein transport" type="GO"/>
+    <entity charOffset="176-185" id="28237967.s0.e1" ontology_id="HP_0002097" text="emphysema" type="HP"/>
+    <entity charOffset="248-282" id="28237967.s0.e2" ontology_id="GO_0044257" text="cellular protein catabolic process" type="GO"/>
+    <pair e1="28237967.s0.e0" e2="28237967.s0.e1" id="28237967.s0.p0" relation="false"/>
+    <pair e1="28237967.s0.e1" e2="28237967.s0.e2" id="28237967.s0.p1" relation="false"/>
+  </sentence>
+  <sentence id="28237967.s1" text="In addition, we show that &lt;i&gt;Vangl2&lt;sup&gt;Lp/+&lt;/sup&gt;&lt;/i&gt; lungs exhibit many of the hallmarks of tissue cellular protein catabolic process, including an altered macrophage population, abnormal elastin deposition and elevated levels of the elastin-modifying enzyme, &lt;i&gt;Mmp12&lt;/i&gt;, all of which are observed in emphysema.">
+    <entity charOffset="101-135" id="28237967.s1.e0" ontology_id="GO_0044257" text="cellular protein catabolic process" type="GO"/>
+    <entity charOffset="305-314" id="28237967.s1.e1" ontology_id="HP_0002097" text="emphysema" type="HP"/>
+    <pair e1="28237967.s1.e0" e2="28237967.s1.e1" id="28237967.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="28237967.s2" text="Finally, we show that biological_process genes &lt;i&gt;VANGL2&lt;/i&gt; and &lt;i&gt;SCRIB&lt;/i&gt; are significantly downregulated in lung tissue from patients with emphysema.">
+    <entity charOffset="22-40" id="28237967.s2.e0" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="144-153" id="28237967.s2.e1" ontology_id="HP_0002097" text="emphysema" type="HP"/>
+    <pair e1="28237967.s2.e0" e2="28237967.s2.e1" id="28237967.s2.p0" relation="false"/>
+  </sentence>
+</document>

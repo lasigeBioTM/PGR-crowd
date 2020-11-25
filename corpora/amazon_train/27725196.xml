@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="27725196">
+  <sentence id="27725196.s0" text="We chose to study protein transport-branching involved in blood vessel morphogenesis rather than wild muscle organ development branching involved in blood vessel morphogenesis because unlike full length sema3E, the major p61-Sema3E peptide that is produced by cleavage of sema3E with furin like pro-protein convertases activates signal transduction mediated by the ErbB2 receptor and can promote tumor metastasis in addition to its anti-angiogenic activity.">
+    <entity charOffset="18-35" id="27725196.s0.e0" ontology_id="GO_0015031" text="protein transport" type="GO"/>
+    <entity charOffset="36-84" id="27725196.s0.e1" ontology_id="GO_0001569" text="branching involved in blood vessel morphogenesis" type="GO"/>
+    <entity charOffset="102-126" id="27725196.s0.e2" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="127-175" id="27725196.s0.e3" ontology_id="GO_0001569" text="branching involved in blood vessel morphogenesis" type="GO"/>
+    <entity charOffset="396-401" id="27725196.s0.e4" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="27725196.s0.e0" e2="27725196.s0.e4" id="27725196.s0.p0" relation="true"/>
+    <pair e1="27725196.s0.e1" e2="27725196.s0.e4" id="27725196.s0.p1" relation="true"/>
+    <pair e1="27725196.s0.e2" e2="27725196.s0.e4" id="27725196.s0.p2" relation="false"/>
+    <pair e1="27725196.s0.e3" e2="27725196.s0.e4" id="27725196.s0.p3" relation="false"/>
+  </sentence>
+</document>

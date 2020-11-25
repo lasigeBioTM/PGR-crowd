@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<document id="30661349">
+  <sentence id="30661349.s0" text="The results showed that the concentration of inflammatory cytokines [interleukin 1β (IL1β) and tumor necrosis factor α (TNF-α)], myeloperoxidase (MPO) activity in the lung tissue and blood, protein abundance of toll-like receptor 4 (phagocytosis), nuclear factor κB (NF-κB, p65), phosphorylated p65 (p-p65), inhibitor κBα (IκBα), and phosphorylated IκBα (p-IκBα), and relative mRNA expression of genes associated with inflammation, such as TLR4, NF-κB, IL1β, interleukin 6 (IL6), and TNF-α, were significantly upregulated in the cell cycle arrest group compared to the PBS group.">
+    <entity charOffset="95-100" id="30661349.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="233-245" id="30661349.s0.e1" ontology_id="GO_0006909" text="phagocytosis" type="GO"/>
+    <entity charOffset="529-546" id="30661349.s0.e2" ontology_id="GO_0007050" text="cell cycle arrest" type="GO"/>
+    <pair e1="30661349.s0.e0" e2="30661349.s0.e1" id="30661349.s0.p0" relation="false"/>
+  </sentence>
+</document>

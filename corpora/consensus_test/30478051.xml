@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="30478051">
+  <sentence id="30478051.s0" text="Here, we sought to cellular response to interleukin-4 lncRNAs differentially regulated in cancer cells resistant to either negative regulation of transcription by RNA polymerase II-related apoptosis-inducing ligand (TRAIL) or the Mcl-1 inhibitor UMI-77, agents that coenzyme A biosynthetic process through the extrinsic and intrinsic apoptotic pathways, respectively.">
+    <entity charOffset="19-53" id="30478051.s0.e0" ontology_id="GO_0071353" text="cellular response to interleukin-4" type="GO"/>
+    <entity charOffset="90-96" id="30478051.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="123-180" id="30478051.s0.e2" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="266-297" id="30478051.s0.e3" ontology_id="GO_0015937" text="coenzyme A biosynthetic process" type="GO"/>
+    <pair e1="30478051.s0.e1" e2="30478051.s0.e2" id="30478051.s0.p0" relation="false"/>
+  </sentence>
+</document>

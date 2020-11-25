@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="29945888">
+  <sentence id="29945888.s0" text="An analysis of human SCLC specimens revealed that negative regulation by host of viral transcription is expressed exclusively in variant SCLC tumors that lack expression of neuroendocrine markers and instead express markers of a chemosensory lineage known as tuft cells.">
+    <entity charOffset="50-100" id="29945888.s0.e0" ontology_id="GO_0043922" text="negative regulation by host of viral transcription" type="GO"/>
+    <entity charOffset="142-147" id="29945888.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29945888.s0.e0" e2="29945888.s0.e1" id="29945888.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="29945888.s1" text="Moreover, we show that most SCLC tumors can be classified into one of three lineages based on the expression of negative regulation by host of viral transcription, ASCL1, or NEUROD1.">
+    <entity charOffset="33-38" id="29945888.s1.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="112-162" id="29945888.s1.e1" ontology_id="GO_0043922" text="negative regulation by host of viral transcription" type="GO"/>
+    <pair e1="29945888.s1.e0" e2="29945888.s1.e1" id="29945888.s1.p0" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<document id="26002316">
+  <sentence id="26002316.s0" text="In this study, we investigated the expression of activation of JUN kinase activity in temporal lobe epilepsy (TLE) and in a kainic acid (KA)-induced mouse model of epileptic seizures, and determined whether down-regulation of JIP3 can decrease susceptibility to seizures and neuron cellular protein catabolic process induced by KA.">
+    <entity charOffset="49-82" id="26002316.s0.e0" ontology_id="GO_0007257" text="activation of JUN kinase activity" type="GO"/>
+    <entity charOffset="100-108" id="26002316.s0.e1" ontology_id="HP_0001250" text="epilepsy" type="HP"/>
+    <entity charOffset="174-182" id="26002316.s0.e2" ontology_id="HP_0001250" text="seizures" type="HP"/>
+    <entity charOffset="282-316" id="26002316.s0.e3" ontology_id="GO_0044257" text="cellular protein catabolic process" type="GO"/>
+    <pair e1="26002316.s0.e0" e2="26002316.s0.e1" id="26002316.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="26002316.s1" text="We found that activation of JUN kinase activity was markedly increased in TLE patients and a mouse model of epileptic seizures; epidermis development underexpressing JIP3 through lentivirus bearing LV-Letm1-RNAi showed decreased susceptibility, delayed first seizure and decreased seizure duration response to the epileptogenic properties of KA.">
+    <entity charOffset="14-47" id="26002316.s1.e0" ontology_id="GO_0007257" text="activation of JUN kinase activity" type="GO"/>
+    <entity charOffset="118-126" id="26002316.s1.e1" ontology_id="HP_0001250" text="seizures" type="HP"/>
+    <entity charOffset="128-149" id="26002316.s1.e2" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="259-266" id="26002316.s1.e3" ontology_id="HP_0001250" text="seizure" type="HP"/>
+    <pair e1="26002316.s1.e0" e2="26002316.s1.e3" id="26002316.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="26002316.s2" text="Subsequently, a decreased activation of protein phosphorylation following seizure induction was observed in epidermis development underexpressing activation of JUN kinase activity, which also exhibited less neuronal apoptosis in the CA3 region of the hippocampus, as assessed three days after KA administration.">
+    <entity charOffset="40-63" id="26002316.s2.e0" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <entity charOffset="74-81" id="26002316.s2.e1" ontology_id="HP_0001250" text="seizure" type="HP"/>
+    <entity charOffset="108-129" id="26002316.s2.e2" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="146-179" id="26002316.s2.e3" ontology_id="GO_0007257" text="activation of JUN kinase activity" type="GO"/>
+    <pair e1="26002316.s2.e0" e2="26002316.s2.e1" id="26002316.s2.p0" relation="true"/>
+    <pair e1="26002316.s2.e1" e2="26002316.s2.e3" id="26002316.s2.p1" relation="true"/>
+    <pair e1="26002316.s2.e1" e2="26002316.s2.e2" id="26002316.s2.p2" relation="true"/>
+  </sentence>
+  <sentence id="26002316.s3" text="We also found that epidermis development underexpressing activation of JUN kinase activity exhibited a delayed pentylenetetrazole (PTZ)-induced kindling seizure process">
+    <entity charOffset="19-40" id="26002316.s3.e0" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="57-90" id="26002316.s3.e1" ontology_id="GO_0007257" text="activation of JUN kinase activity" type="GO"/>
+    <entity charOffset="153-160" id="26002316.s3.e2" ontology_id="HP_0001250" text="seizure" type="HP"/>
+    <pair e1="26002316.s3.e0" e2="26002316.s3.e2" id="26002316.s3.p0" relation="true"/>
+    <pair e1="26002316.s3.e1" e2="26002316.s3.e2" id="26002316.s3.p1" relation="true"/>
+  </sentence>
+</document>

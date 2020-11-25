@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="19236704">
+  <sentence id="19236704.s0" text="Different corneal dystrophies are caused by mutations in the CHST6, KRT3, visual perception, receptor-mediated endocytosis, SLC4A11, TACSTD2, TGFBI, and vitamin K biosynthetic process genes.">
+    <entity charOffset="10-29" id="19236704.s0.e0" ontology_id="HP_0001131" text="corneal dystrophies" type="HP"/>
+    <entity charOffset="74-91" id="19236704.s0.e1" ontology_id="GO_0007601" text="visual perception" type="GO"/>
+    <entity charOffset="93-122" id="19236704.s0.e2" ontology_id="GO_0006898" text="receptor-mediated endocytosis" type="GO"/>
+    <entity charOffset="153-183" id="19236704.s0.e3" ontology_id="GO_0042371" text="vitamin K biosynthetic process" type="GO"/>
+    <pair e1="19236704.s0.e0" e2="19236704.s0.e1" id="19236704.s0.p0" relation="true"/>
+    <pair e1="19236704.s0.e0" e2="19236704.s0.e2" id="19236704.s0.p1" relation="true"/>
+    <pair e1="19236704.s0.e0" e2="19236704.s0.e3" id="19236704.s0.p2" relation="true"/>
+  </sentence>
+</document>

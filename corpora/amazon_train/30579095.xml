@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="30579095">
+  <sentence id="30579095.s0" text="In order to investigate essential molecular causes for hearing loss and mutation frequency of deafness-related genes, 1315 newborns who did not pass the Newborn Hearing Screening (biological_process) (audio-no-pass) and 1000 random-selected infants were subjected to detection for 101 hotspot mutations in 18 common deafness-related genes.">
+    <entity charOffset="94-102" id="30579095.s0.e0" ontology_id="HP_0000365" text="deafness" type="HP"/>
+    <entity charOffset="180-198" id="30579095.s0.e1" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29298444">
+  <sentence id="29298444.s0" text="We summarize the phenotypic extent of smoothened signaling pathway/3 syndromes in the literature and determine that these 2 syndromes manifest opposite features to a certain extent, such as midface hypoplasia or macrocephaly, and anterior or posterior side of polydactyly.">
+    <entity charOffset="38-66" id="29298444.s0.e0" ontology_id="GO_0007224" text="smoothened signaling pathway" type="GO"/>
+    <entity charOffset="190-208" id="29298444.s0.e1" ontology_id="HP_0011800" text="midface hypoplasia" type="HP"/>
+    <pair e1="29298444.s0.e0" e2="29298444.s0.e1" id="29298444.s0.p0" relation="true"/>
+  </sentence>
+</document>

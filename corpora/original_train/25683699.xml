@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="25683699">
+  <sentence id="25683699.s0" text="X-linked Myopathy with Excessive Autophagy (regulation of ATPase activity) affects proximal muscles of the lower extremities and follows a progressive course reminiscent of muscular dystrophy.">
+    <entity charOffset="44-73" id="25683699.s0.e0" ontology_id="GO_0043462" text="regulation of ATPase activity" type="GO"/>
+    <entity charOffset="173-191" id="25683699.s0.e1" ontology_id="HP_0003560" text="muscular dystrophy" type="HP"/>
+    <pair e1="25683699.s0.e0" e2="25683699.s0.e1" id="25683699.s0.p0" relation="false"/>
+  </sentence>
+</document>

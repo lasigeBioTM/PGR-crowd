@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<document id="28218467">
+  <sentence id="28218467.s0" text="positive regulation of transcription by RNA polymerase II-induced skin tumors were subjected to mutation screening, which identified genetic changes in regulation of neurotransmitter receptor localization to postsynaptic specialization membrane (7/40, 17.5%) and Tp53 (2/40, 5%), but not in protein polyubiquitination, a commonly mutated gene in PhIP-induced colon tumors.">
+    <entity charOffset="0-57" id="28218467.s0.e0" ontology_id="GO_0045944" text="positive regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="71-77" id="28218467.s0.e1" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <entity charOffset="152-244" id="28218467.s0.e2" ontology_id="GO_0098696" text="regulation of neurotransmitter receptor localization to postsynaptic specialization membrane" type="GO"/>
+    <entity charOffset="291-317" id="28218467.s0.e3" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <pair e1="28218467.s0.e0" e2="28218467.s0.e1" id="28218467.s0.p0" relation="false"/>
+    <pair e1="28218467.s0.e1" e2="28218467.s0.e2" id="28218467.s0.p1" relation="true"/>
+    <pair e1="28218467.s0.e1" e2="28218467.s0.e3" id="28218467.s0.p2" relation="true"/>
+  </sentence>
+  <sentence id="28218467.s1" text="Despite the absence of protein polyubiquitination mutations, β-catenin was overexpressed in nuclear and plasma membrane fractions from positive regulation of transcription by RNA polymerase II-induced skin tumors, coinciding with loss of p120-catenin from the plasma membrane, and the appearance of multiple p120-catenin-associated bands in the nuclear extracts.">
+    <entity charOffset="23-49" id="28218467.s1.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="135-192" id="28218467.s1.e1" ontology_id="GO_0045944" text="positive regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="206-212" id="28218467.s1.e2" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <pair e1="28218467.s1.e0" e2="28218467.s1.e2" id="28218467.s1.p0" relation="true"/>
+    <pair e1="28218467.s1.e1" e2="28218467.s1.e2" id="28218467.s1.p1" relation="false"/>
+  </sentence>
+  <sentence id="28218467.s2" text="Real-time RT-PCR revealed that p120-catenin isoforms 1 and 4 were upregulated in positive regulation of transcription by RNA polymerase II-induced skin tumors, whereas p120-catenin isoform 3 was expressed uniformly, compared with adjacent normal-looking tissue.">
+    <entity charOffset="81-138" id="28218467.s2.e0" ontology_id="GO_0045944" text="positive regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="152-158" id="28218467.s2.e1" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <pair e1="28218467.s2.e0" e2="28218467.s2.e1" id="28218467.s2.p0" relation="false"/>
+  </sentence>
+  <sentence id="28218467.s3" text="Co-immunoprecipitation experiments identified associations of β-catenin with p120-catenin isoforms in positive regulation of transcription by RNA polymerase II-induced skin tumors and human cancer cell lines.">
+    <entity charOffset="102-159" id="28218467.s3.e0" ontology_id="GO_0045944" text="positive regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="173-179" id="28218467.s3.e1" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <entity charOffset="190-196" id="28218467.s3.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28218467.s3.e0" e2="28218467.s3.e1" id="28218467.s3.p0" relation="false"/>
+    <pair e1="28218467.s3.e0" e2="28218467.s3.e2" id="28218467.s3.p1" relation="false"/>
+  </sentence>
+</document>

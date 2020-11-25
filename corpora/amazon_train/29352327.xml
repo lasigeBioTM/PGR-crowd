@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<document id="29352327">
+  <sentence id="29352327.s0" text="regulation of synapse assemblyKs and SSH promote cancer cell invasion and metastasis and represent novel anti-cancer targets.">
+    <entity charOffset="0-30" id="29352327.s0.e0" ontology_id="GO_0051963" text="regulation of synapse assembly" type="GO"/>
+    <entity charOffset="49-55" id="29352327.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29352327.s0.e0" e2="29352327.s0.e1" id="29352327.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29352327.s1" text="We show that active cofilin, regulation of synapse assemblyK1, LIMK2, and SSH1 are overexpressed in human CRC and are associated with tumor progression parameters.">
+    <entity charOffset="29-59" id="29352327.s1.e0" ontology_id="GO_0051963" text="regulation of synapse assembly" type="GO"/>
+    <entity charOffset="134-139" id="29352327.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29352327.s1.e0" e2="29352327.s1.e1" id="29352327.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="29352327.s2" text="In addition, immunofluorescence analysis showed increased expression of active cofilin, regulation of synapse assemblyK1, LIMK2, and regulation of cellular protein metabolic process in HT29 colon cancer cells resistant to 5-fluorouracil compared to parental HT29 cells.">
+    <entity charOffset="88-118" id="29352327.s2.e0" ontology_id="GO_0051963" text="regulation of synapse assembly" type="GO"/>
+    <entity charOffset="133-181" id="29352327.s2.e1" ontology_id="GO_0032268" text="regulation of cellular protein metabolic process" type="GO"/>
+    <entity charOffset="196-202" id="29352327.s2.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29352327.s2.e0" e2="29352327.s2.e2" id="29352327.s2.p0" relation="true"/>
+    <pair e1="29352327.s2.e1" e2="29352327.s2.e2" id="29352327.s2.p1" relation="true"/>
+  </sentence>
+  <sentence id="29352327.s3" text="Our results suggest that F-actin regulators LIMK/cofilin pathway and regulation of cellular protein metabolic process are associated with CRC progression and chemoresistance representing promising tumor biomarkers and therapeutic targets in CRC">
+    <entity charOffset="69-117" id="29352327.s3.e0" ontology_id="GO_0032268" text="regulation of cellular protein metabolic process" type="GO"/>
+    <entity charOffset="197-202" id="29352327.s3.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29352327.s3.e0" e2="29352327.s3.e1" id="29352327.s3.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28056232">
+  <sentence id="28056232.s0" text="The proband carried the two kinds of mutations and expressed various clinical manifestations of heart failure and had history of ventricular tachycardia, paraxial atrial fibrillation, pacemaker implantation, electrocardiogram showed right bundle branch block and echocardiography examination evidenced thickened interventricular septum (23.3 mm) and telomere maintenance and reduced wall motion of these segments.">
+    <entity charOffset="129-152" id="28056232.s0.e0" ontology_id="HP_0004756" text="ventricular tachycardia" type="HP"/>
+    <entity charOffset="350-370" id="28056232.s0.e1" ontology_id="GO_0000723" text="telomere maintenance" type="GO"/>
+    <pair e1="28056232.s0.e0" e2="28056232.s0.e1" id="28056232.s0.p0" relation="true"/>
+  </sentence>
+</document>

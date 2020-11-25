@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<document id="29411334">
+  <sentence id="29411334.s0" text="Across the years the regulation of cyclin-dependent protein serine/threonine kinase activity have been increasingly implicated in the development of obesity, diabetes and its complications.">
+    <entity charOffset="21-92" id="29411334.s0.e0" ontology_id="GO_0000079" text="regulation of cyclin-dependent protein serine/threonine kinase activity" type="GO"/>
+    <entity charOffset="149-156" id="29411334.s0.e1" ontology_id="HP_0001513" text="obesity" type="HP"/>
+    <pair e1="29411334.s0.e0" e2="29411334.s0.e1" id="29411334.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="29411334.s1" text="Key steps where regulation of cyclin-dependent protein serine/threonine kinase activity may play a pathogenic metabolic role include: (i) obesity and insulin resistance, where positive regulation of cell differentiation inhibits positive regulation of cell-matrix adhesion cell differentiation in vitro and multicellular organism development may induce obesity and insulin resistance; (ii) elevated blood glucose levels to diabetes mellitus onset, where CCN2 may contribute to pancreatic beta cell and islet function; and (iii) in diabetes complications, such as nephropathy, retinopathy, liver disease (NAFLD/NASH), CVD and diabetes with heart failure.">
+    <entity charOffset="16-87" id="29411334.s1.e0" ontology_id="GO_0000079" text="regulation of cyclin-dependent protein serine/threonine kinase activity" type="GO"/>
+    <entity charOffset="138-145" id="29411334.s1.e1" ontology_id="HP_0001513" text="obesity" type="HP"/>
+    <entity charOffset="176-219" id="29411334.s1.e2" ontology_id="GO_0045597" text="positive regulation of cell differentiation" type="GO"/>
+    <entity charOffset="229-272" id="29411334.s1.e3" ontology_id="GO_0001954" text="positive regulation of cell-matrix adhesion" type="GO"/>
+    <entity charOffset="307-341" id="29411334.s1.e4" ontology_id="GO_0007275" text="multicellular organism development" type="GO"/>
+    <pair e1="29411334.s1.e0" e2="29411334.s1.e1" id="29411334.s1.p0" relation="false"/>
+    <pair e1="29411334.s1.e1" e2="29411334.s1.e2" id="29411334.s1.p1" relation="false"/>
+    <pair e1="29411334.s1.e1" e2="29411334.s1.e3" id="29411334.s1.p2" relation="false"/>
+    <pair e1="29411334.s1.e1" e2="29411334.s1.e4" id="29411334.s1.p3" relation="false"/>
+  </sentence>
+</document>

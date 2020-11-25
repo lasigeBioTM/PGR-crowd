@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<document id="27872092">
+  <sentence id="27872092.s0" text="Here we characterize protein phosphorylation-dependent cancer cell migration and invasion as well as local invasion and metastasis of cancer xenografts.">
+    <entity charOffset="21-44" id="27872092.s0.e0" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <entity charOffset="55-61" id="27872092.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27872092.s0.e0" e2="27872092.s0.e1" id="27872092.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="27872092.s1" text="protein phosphorylation depletion suppressed cancer invasion and induced an epithelial phenotype in poorly differentiated breast cancer cells.">
+    <entity charOffset="0-23" id="27872092.s1.e0" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <entity charOffset="45-51" id="27872092.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27872092.s1.e0" e2="27872092.s1.e1" id="27872092.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="27872092.s2" text="In an unbiased BioID screen for protein phosphorylation interactors, we identified members of the Arp2/3 complex-mediated actin nucleation/3 complex and confirmed a physical and functional interaction between Plk4 and Arp2 in mediating Plk4-driven cancer cell movement.">
+    <entity charOffset="32-55" id="27872092.s2.e0" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <entity charOffset="98-138" id="27872092.s2.e1" ontology_id="GO_0034314" text="Arp2/3 complex-mediated actin nucleation" type="GO"/>
+    <entity charOffset="248-254" id="27872092.s2.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27872092.s2.e0" e2="27872092.s2.e2" id="27872092.s2.p0" relation="true"/>
+    <pair e1="27872092.s2.e1" e2="27872092.s2.e2" id="27872092.s2.p1" relation="true"/>
+  </sentence>
+  <sentence id="27872092.s3" text="Our results validate protein phosphorylation as a therapeutic target in cancer patients and reveal a new role for Plk4 in regulating Arp2/3-mediated actin cytoskeletal rearrangement.">
+    <entity charOffset="21-44" id="27872092.s3.e0" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <entity charOffset="72-78" id="27872092.s3.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27872092.s3.e0" e2="27872092.s3.e1" id="27872092.s3.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30015898">
+  <sentence id="30015898.s0" text="In the present study, we revealed that TMEM165 is overexpressed in phosphatidylinositol phosphorylation and its depletion weakens the invasive activity of cancer cells through suppression of matrix metalloproteinase‑2 (MMP‑2) expression.">
+    <entity charOffset="67-103" id="30015898.s0.e0" ontology_id="GO_0046854" text="phosphatidylinositol phosphorylation" type="GO"/>
+    <entity charOffset="155-161" id="30015898.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30015898.s0.e0" e2="30015898.s0.e1" id="30015898.s0.p0" relation="false"/>
+  </sentence>
+</document>

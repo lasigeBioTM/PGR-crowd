@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="30500808">
+  <sentence id="30500808.s0" text="Moreover, we demonstrated that positive regulation of transcription by RNA polymerase II and positive regulation of transcription, DNA-templated expression is downregulated in ECs within tumors by soluble factors enriched in the tumor microenvironment.">
+    <entity charOffset="31-88" id="30500808.s0.e0" ontology_id="GO_0045944" text="positive regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="93-144" id="30500808.s0.e1" ontology_id="GO_0045893" text="positive regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="187-192" id="30500808.s0.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="30500808.s0.e0" e2="30500808.s0.e2" id="30500808.s0.p0" relation="false"/>
+    <pair e1="30500808.s0.e1" e2="30500808.s0.e2" id="30500808.s0.p1" relation="false"/>
+  </sentence>
+</document>

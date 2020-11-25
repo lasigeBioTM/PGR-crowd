@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="28802167">
+  <sentence id="28802167.s0" text="5'-Aza-2'-deoxycytidine (5-Aza-neuron migration) is a demethylating drug that causes genome-wide hypomethylation resulting in the expression of several tumor suppressor genes causing growth arrest of cancer cells.">
+    <entity charOffset="31-47" id="28802167.s0.e0" ontology_id="GO_0001764" text="neuron migration" type="GO"/>
+    <entity charOffset="152-157" id="28802167.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28802167.s0.e0" e2="28802167.s0.e1" id="28802167.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="28802167.s1" text="Induction of p53 by 5-Aza-neuron migration was tested in vitro using cancer cells.">
+    <entity charOffset="26-42" id="28802167.s1.e0" ontology_id="GO_0001764" text="neuron migration" type="GO"/>
+    <entity charOffset="69-75" id="28802167.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28802167.s1.e0" e2="28802167.s1.e1" id="28802167.s1.p0" relation="false"/>
+  </sentence>
+</document>

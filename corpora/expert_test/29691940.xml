@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29691940">
+  <sentence id="29691940.s0" text="Mutations in negative regulation of keratinocyte proliferation cause a wide spectrum of phenotypes in humans ranging from mild X-linked intellectual disability to a severe microcephaly (MC) and pontocerebellar hypoplasia syndrome.">
+    <entity charOffset="13-62" id="29691940.s0.e0" ontology_id="GO_0010839" text="negative regulation of keratinocyte proliferation" type="GO"/>
+    <entity charOffset="136-159" id="29691940.s0.e1" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <pair e1="29691940.s0.e0" e2="29691940.s0.e1" id="29691940.s0.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="29973584">
+  <sentence id="29973584.s0" text="Large-scale tumor sequencing has revolutionized the identification of somatic driver alterations but has had limited negative regulation of transcription by RNA polymerase II on the identification of cancer predisposition genes (CPGs).">
+    <entity charOffset="12-17" id="29973584.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="117-174" id="29973584.s0.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+  </sentence>
+  <sentence id="29973584.s1" text="Applied to ~10,000 tumor exomes the approach identifies known and putative CPGs - including the chromatin modifier positive regulation of transcription, DNA-templated - that contribute to cancer through a combination of rare germline variants and somatic loss-of-heterozygosity (LOH).">
+    <entity charOffset="19-24" id="29973584.s1.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="115-166" id="29973584.s1.e1" ontology_id="GO_0045893" text="positive regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="188-194" id="29973584.s1.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29973584.s1.e0" e2="29973584.s1.e1" id="29973584.s1.p0" relation="true"/>
+    <pair e1="29973584.s1.e1" e2="29973584.s1.e2" id="29973584.s1.p1" relation="true"/>
+  </sentence>
+</document>

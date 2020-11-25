@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29380913">
+  <sentence id="29380913.s0" text="In recent years, genetically determined forms of microangiopathy (e.g. transcription initiation from RNA polymerase II promoter, CARASIL, Trex1-related microangiopathies, CARASAL, familial forms of cerebral amyloid angiopathy or CAA) have provided interesting cellular and molecular clues to the pathogenesis of sporadic microvascular disease such as arteriolosclerosis and AD-related CAA">
+    <entity charOffset="71-127" id="29380913.s0.e0" ontology_id="GO_0006367" text="transcription initiation from RNA polymerase II promoter" type="GO"/>
+    <entity charOffset="312-320" id="29380913.s0.e1" ontology_id="HP_0003745" text="sporadic" type="HP"/>
+    <pair e1="29380913.s0.e0" e2="29380913.s0.e1" id="29380913.s0.p0" relation="false"/>
+  </sentence>
+</document>

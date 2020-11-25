@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="27889060">
+  <sentence id="27889060.s0" text="Reverse phenotyping of 12 affected individuals from eight families revealed a homogeneous EOEE phenomuscle organ development characterized by severe developmental delay, poor visual contact with optic atrophy, and postnatal microcephaly.">
+    <entity charOffset="100-124" id="27889060.s0.e0" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="149-168" id="27889060.s0.e1" ontology_id="HP_0001263" text="developmental delay" type="HP"/>
+  </sentence>
+</document>

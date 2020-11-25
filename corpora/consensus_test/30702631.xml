@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<document id="30702631">
+  <sentence id="30702631.s0" text="A risk score of 4, 4, 6, 6, 7, or 6 was assigned to diabetes, baseline estimated small GTPase mediated signal transduction &amp;lt; 45 mL/min/1.73 m, hypertension, repeated contrast exposure, congestive heart failure, and persistent renal injury (defined as an elevation of serum creatinine ≥25% at 3 months), respectively.">
+    <entity charOffset="81-122" id="30702631.s0.e0" ontology_id="GO_0007264" text="small GTPase mediated signal transduction" type="GO"/>
+    <entity charOffset="146-158" id="30702631.s0.e1" ontology_id="HP_0000822" text="hypertension" type="HP"/>
+    <entity charOffset="188-212" id="30702631.s0.e2" ontology_id="HP_0001635" text="congestive heart failure" type="HP"/>
+    <pair e1="30702631.s0.e0" e2="30702631.s0.e1" id="30702631.s0.p0" relation="false"/>
+  </sentence>
+</document>

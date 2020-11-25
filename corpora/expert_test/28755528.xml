@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<document id="28755528">
+  <sentence id="28755528.s0" text="Human kallikrein-related peptidases biological_process-15 provide a rich source of serine protease-type biomarkers associated with tumor growth and cancer progression for a variety of malignant diseases.">
+    <entity charOffset="36-54" id="28755528.s0.e0" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="131-136" id="28755528.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="148-154" id="28755528.s0.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28755528.s0.e0" e2="28755528.s0.e1" id="28755528.s0.p0" relation="true"/>
+    <pair e1="28755528.s0.e0" e2="28755528.s0.e2" id="28755528.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="28755528.s1" text="For this, amelogenesis protein expression was assessed by immunohistochemistry in primary tumor tissue sections (tissue microarrays) of 188 TNBC patients, mainly treated with anthracycline- or CMF-based polychemotherapy.">
+    <entity charOffset="10-22" id="28755528.s1.e0" ontology_id="GO_0097186" text="amelogenesis" type="GO"/>
+    <entity charOffset="90-95" id="28755528.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28755528.s1.e0" e2="28755528.s1.e1" id="28755528.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="28755528.s2" text="In this study, recombinant amelogenesis protein was generated and affinity-purified KLK4-directed polyclonal antibody pAb587 established to allow localization of KLK4 protein expression in tumor cell lines and archived formalin-fixed, paraffin-embedded TNBC tumor tissue specimens.">
+    <entity charOffset="27-39" id="28755528.s2.e0" ontology_id="GO_0097186" text="amelogenesis" type="GO"/>
+    <entity charOffset="189-194" id="28755528.s2.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28755528.s2.e0" e2="28755528.s2.e1" id="28755528.s2.p0" relation="true"/>
+  </sentence>
+</document>

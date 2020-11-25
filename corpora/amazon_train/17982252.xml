@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<document id="17982252">
+  <sentence id="17982252.s0" text="The dopamine hypothesis of schizophrenia is based on the nucleosome disassembly that all common treatments involve antidopaminergic mechanisms and genes such as adenylate cyclase-inhibiting dopamine receptor signaling pathway, G protein-coupled receptor internalization, negative regulation of phosphoprotein phosphatase activity, synapse assembly or catecholamine catabolic process are closely related to dopaminergic system functioning.">
+    <entity charOffset="27-40" id="17982252.s0.e0" ontology_id="HP_0100753" text="schizophrenia" type="HP"/>
+    <entity charOffset="57-79" id="17982252.s0.e1" ontology_id="GO_0006337" text="nucleosome disassembly" type="GO"/>
+    <entity charOffset="161-225" id="17982252.s0.e2" ontology_id="GO_0007195" text="adenylate cyclase-inhibiting dopamine receptor signaling pathway" type="GO"/>
+    <entity charOffset="227-269" id="17982252.s0.e3" ontology_id="GO_0002031" text="G protein-coupled receptor internalization" type="GO"/>
+    <entity charOffset="271-329" id="17982252.s0.e4" ontology_id="GO_0032515" text="negative regulation of phosphoprotein phosphatase activity" type="GO"/>
+    <entity charOffset="331-347" id="17982252.s0.e5" ontology_id="GO_0007416" text="synapse assembly" type="GO"/>
+    <entity charOffset="351-382" id="17982252.s0.e6" ontology_id="GO_0042424" text="catecholamine catabolic process" type="GO"/>
+    <pair e1="17982252.s0.e0" e2="17982252.s0.e1" id="17982252.s0.p0" relation="true"/>
+    <pair e1="17982252.s0.e0" e2="17982252.s0.e2" id="17982252.s0.p1" relation="true"/>
+    <pair e1="17982252.s0.e0" e2="17982252.s0.e3" id="17982252.s0.p2" relation="true"/>
+    <pair e1="17982252.s0.e0" e2="17982252.s0.e4" id="17982252.s0.p3" relation="true"/>
+    <pair e1="17982252.s0.e0" e2="17982252.s0.e5" id="17982252.s0.p4" relation="true"/>
+    <pair e1="17982252.s0.e0" e2="17982252.s0.e6" id="17982252.s0.p5" relation="true"/>
+  </sentence>
+  <sentence id="17982252.s1" text="The glutamatergic hypothesis of schizophrenia lead recently to a first successful mGlu2/3 receptor agonistic drug and is underpinned by significant findings in genes regulating the glutamatergic system (neurotransmitter uptake, L-glutamate transmembrane transport biological_process, response to ethanol, ER to Golgi vesicle-mediated transport, NRG1, ErbB4, neuron projection development, DAAO, G72/30, G protein-coupled receptor signaling pathway).">
+    <entity charOffset="32-45" id="17982252.s1.e0" ontology_id="HP_0100753" text="schizophrenia" type="HP"/>
+    <entity charOffset="203-226" id="17982252.s1.e1" ontology_id="GO_0001504" text="neurotransmitter uptake" type="GO"/>
+    <entity charOffset="228-263" id="17982252.s1.e2" ontology_id="GO_0015813" text="L-glutamate transmembrane transport" type="GO"/>
+    <entity charOffset="264-282" id="17982252.s1.e3" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="284-303" id="17982252.s1.e4" ontology_id="GO_0045471" text="response to ethanol" type="GO"/>
+    <entity charOffset="305-343" id="17982252.s1.e5" ontology_id="GO_0006888" text="ER to Golgi vesicle-mediated transport" type="GO"/>
+    <entity charOffset="358-387" id="17982252.s1.e6" ontology_id="GO_0031175" text="neuron projection development" type="GO"/>
+    <entity charOffset="403-447" id="17982252.s1.e7" ontology_id="GO_0007186" text="G protein-coupled receptor signaling pathway" type="GO"/>
+    <pair e1="17982252.s1.e0" e2="17982252.s1.e1" id="17982252.s1.p0" relation="true"/>
+    <pair e1="17982252.s1.e0" e2="17982252.s1.e2" id="17982252.s1.p1" relation="true"/>
+    <pair e1="17982252.s1.e0" e2="17982252.s1.e3" id="17982252.s1.p2" relation="true"/>
+    <pair e1="17982252.s1.e0" e2="17982252.s1.e4" id="17982252.s1.p3" relation="true"/>
+    <pair e1="17982252.s1.e0" e2="17982252.s1.e5" id="17982252.s1.p4" relation="true"/>
+    <pair e1="17982252.s1.e0" e2="17982252.s1.e6" id="17982252.s1.p5" relation="true"/>
+    <pair e1="17982252.s1.e0" e2="17982252.s1.e7" id="17982252.s1.p6" relation="true"/>
+  </sentence>
+</document>

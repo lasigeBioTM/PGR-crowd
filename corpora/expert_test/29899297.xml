@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29899297">
+  <sentence id="29899297.s0" text="Pre-treatment testing of the localized cutaneous tumor lesion on a lymphoid amplicon panel demonstrated an &lt;i&gt;3'-UTR-mediated mRNA stabilization&lt;/i&gt; p.L265P mutation.">
+    <entity charOffset="49-54" id="29899297.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="110-144" id="29899297.s0.e1" ontology_id="GO_0070935" text="3'-UTR-mediated mRNA stabilization" type="GO"/>
+    <pair e1="29899297.s0.e0" e2="29899297.s0.e1" id="29899297.s0.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<document id="28892570">
+  <sentence id="28892570.s0" text="Biallelic biological_process mutations were described in children with hyperphenylalaninemia, neurodevelopmental delay, and dystonia.">
+    <entity charOffset="10-28" id="28892570.s0.e0" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="71-92" id="28892570.s0.e1" ontology_id="HP_0004923" text="hyperphenylalaninemia" type="HP"/>
+    <entity charOffset="94-118" id="28892570.s0.e2" ontology_id="HP_0012758" text="neurodevelopmental delay" type="HP"/>
+    <entity charOffset="124-132" id="28892570.s0.e3" ontology_id="HP_0001332" text="dystonia" type="HP"/>
+    <pair e1="28892570.s0.e0" e2="28892570.s0.e1" id="28892570.s0.p0" relation="false"/>
+    <pair e1="28892570.s0.e0" e2="28892570.s0.e2" id="28892570.s0.p1" relation="true"/>
+    <pair e1="28892570.s0.e0" e2="28892570.s0.e3" id="28892570.s0.p2" relation="true"/>
+  </sentence>
+  <sentence id="28892570.s1" text="We identified biological_process homozygous null variants (c.187A&amp;gt;T;p.K63* and c.79-2A&amp;gt;G;p.V27Wfs*14) in two kindreds with early-onset parkinsonism.">
+    <entity charOffset="14-32" id="28892570.s1.e0" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="141-153" id="28892570.s1.e1" ontology_id="HP_0001300" text="parkinsonism" type="HP"/>
+    <pair e1="28892570.s1.e0" e2="28892570.s1.e1" id="28892570.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="28892570.s2" text="Our results suggest that biological_process mutations (absent in 500 early-onset patients with Parkinson's disease) rarely cause dopa-responsive nonprogressive parkinsonism in adulthood, but broaden the clinical spectrum of DNAJC12 deficiency.">
+    <entity charOffset="25-43" id="28892570.s2.e0" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="145-159" id="28892570.s2.e1" ontology_id="HP_0003680" text="nonprogressive" type="HP"/>
+    <entity charOffset="160-172" id="28892570.s2.e2" ontology_id="HP_0001300" text="parkinsonism" type="HP"/>
+    <pair e1="28892570.s2.e0" e2="28892570.s2.e2" id="28892570.s2.p0" relation="true"/>
+    <pair e1="28892570.s2.e0" e2="28892570.s2.e1" id="28892570.s2.p1" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<document id="28587924">
+  <sentence id="28587924.s0" text="histone methylation plays important roles in the regulation of gene expression, splicing, DNA cellular protein catabolic process, paternal imprinting, cancer and metastasis.">
+    <entity charOffset="0-19" id="28587924.s0.e0" ontology_id="GO_0016571" text="histone methylation" type="GO"/>
+    <entity charOffset="94-128" id="28587924.s0.e1" ontology_id="GO_0044257" text="cellular protein catabolic process" type="GO"/>
+    <entity charOffset="151-157" id="28587924.s0.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28587924.s0.e0" e2="28587924.s0.e2" id="28587924.s0.p0" relation="true"/>
+  </sentence>
+</document>

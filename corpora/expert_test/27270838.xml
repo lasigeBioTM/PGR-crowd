@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27270838">
+  <sentence id="27270838.s0" text="Our study demonstrated that protein phosphorylation rs1047972 TT and (CC + CT) genotypes were significantly associated with an increased risk of gastric cancer.">
+    <entity charOffset="28-51" id="27270838.s0.e0" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <entity charOffset="153-159" id="27270838.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27270838.s0.e0" e2="27270838.s0.e1" id="27270838.s0.p0" relation="true"/>
+  </sentence>
+</document>

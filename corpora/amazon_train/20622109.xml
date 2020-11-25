@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="20622109">
+  <sentence id="20622109.s0" text="In this study, we examine the role of proton-sensing ovarian cancer G protein-coupled receptor 1 (OGR1) in extracellular acidification-induced regulation of cyclooxygenase (generation of precursor metabolites and energy)-2 induction, PGI(2) production, MAPK phosphatase (MKP)-1 expression, and plasminogen activator inhibitor (PAI)-1 expression and proliferation in human aortic smooth muscle cells (AoSMCs).">
+    <entity charOffset="61-67" id="20622109.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="173-219" id="20622109.s0.e1" ontology_id="GO_0006091" text="generation of precursor metabolites and energy" type="GO"/>
+    <pair e1="20622109.s0.e0" e2="20622109.s0.e1" id="20622109.s0.p0" relation="true"/>
+  </sentence>
+</document>

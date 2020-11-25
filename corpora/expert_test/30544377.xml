@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30544377">
+  <sentence id="30544377.s0" text="The Gene Expression Profiling Interactive Analyses application (GEPIA) was used to analysis the expression of regulation of ion transport in breast cancer tissues and normal samples.The polymorphism of rs1325774 was significantly associated with an increased risk of breast cancer (T/G vs T/T: OR = 2.073, 95% CI = 1.095-3.927, P = .025).">
+    <entity charOffset="110-137" id="30544377.s0.e0" ontology_id="GO_0043269" text="regulation of ion transport" type="GO"/>
+    <entity charOffset="148-154" id="30544377.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30544377.s0.e0" e2="30544377.s0.e1" id="30544377.s0.p0" relation="true"/>
+  </sentence>
+</document>

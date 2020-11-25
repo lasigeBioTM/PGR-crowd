@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<document id="29408595">
+  <sentence id="29408595.s0" text="Therefore, STX3 promotes the growth of breast cancer cells by regulating the PTEN-PI3K-positive regulation of protein phosphorylation-regulation of cell growth signaling">
+    <entity charOffset="46-52" id="29408595.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="87-133" id="29408595.s0.e1" ontology_id="GO_0001934" text="positive regulation of protein phosphorylation" type="GO"/>
+    <entity charOffset="134-159" id="29408595.s0.e2" ontology_id="GO_0001558" text="regulation of cell growth" type="GO"/>
+    <pair e1="29408595.s0.e0" e2="29408595.s0.e1" id="29408595.s0.p0" relation="false"/>
+    <pair e1="29408595.s0.e0" e2="29408595.s0.e2" id="29408595.s0.p1" relation="false"/>
+  </sentence>
+  <sentence id="29408595.s1" text="We find that STX3 promotes the proliferation of breast cancer cells by increasing the activation of the positive regulation of protein phosphorylation-mTOR signaling, and Akt inhibitor Ipatasertib or MK-2206 represses STX3 effects on the growth of breast cancer cells.">
+    <entity charOffset="55-61" id="29408595.s1.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="104-150" id="29408595.s1.e1" ontology_id="GO_0001934" text="positive regulation of protein phosphorylation" type="GO"/>
+    <pair e1="29408595.s1.e0" e2="29408595.s1.e1" id="29408595.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="29408595.s2" text="The up-regulation of positive regulation of cell proliferation is correlated with high disease stage and predicts overall and disease-free survival in patients with breast cancer.">
+    <entity charOffset="21-62" id="29408595.s2.e0" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <entity charOffset="172-178" id="29408595.s2.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29408595.s2.e0" e2="29408595.s2.e1" id="29408595.s2.p0" relation="true"/>
+  </sentence>
+</document>

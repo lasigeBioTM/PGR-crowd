@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<document id="29635281">
+  <sentence id="29635281.s0" text="Genome-wide association studies (GWAS) have identified 13 susceptibility loci for renal cell carcinoma (response to hydroperoxide).">
+    <entity charOffset="82-102" id="29635281.s0.e0" ontology_id="HP_0005584" text="renal cell carcinoma" type="HP"/>
+    <entity charOffset="104-129" id="29635281.s0.e1" ontology_id="GO_0033194" text="response to hydroperoxide" type="GO"/>
+  </sentence>
+  <sentence id="29635281.s1" text="Cis-eQTL was observed for several SNPs in blood/transformed fibroblasts but not in response to hydroperoxide tumor tissues.">
+    <entity charOffset="83-108" id="29635281.s1.e0" ontology_id="GO_0033194" text="response to hydroperoxide" type="GO"/>
+    <entity charOffset="109-114" id="29635281.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+  </sentence>
+</document>

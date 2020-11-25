@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29112861">
+  <sentence id="29112861.s0" text="Although disruption of the G1/S transition of mitotic cell cycle (INK4A/ARF) locus has been reported in end-stage disease, information is lacking on the status of this key tumor suppressor gene in pleural lesions preceding mesothelioma.">
+    <entity charOffset="27-64" id="29112861.s0.e0" ontology_id="GO_0000082" text="G1/S transition of mitotic cell cycle" type="GO"/>
+    <entity charOffset="172-177" id="29112861.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29112861.s0.e0" e2="29112861.s0.e1" id="29112861.s0.p0" relation="true"/>
+  </sentence>
+</document>

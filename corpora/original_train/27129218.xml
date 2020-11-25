@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27129218">
+  <sentence id="27129218.s0" text="The interaction required the tumor necrosis factor receptor-associated factor domain of USP7 and the central region of transcription-coupled nucleotide-excision repair and was disrupted by an amino acid substitution in the tumor necrosis factor receptor-associated factor-binding motif of UVSSA.">
+    <entity charOffset="29-34" id="27129218.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="119-167" id="27129218.s0.e1" ontology_id="GO_0006283" text="transcription-coupled nucleotide-excision repair" type="GO"/>
+    <pair e1="27129218.s0.e0" e2="27129218.s0.e1" id="27129218.s0.p0" relation="false"/>
+  </sentence>
+</document>

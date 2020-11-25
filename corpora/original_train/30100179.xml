@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30100179">
+  <sentence id="30100179.s0" text="In 2003, a new syndrome was described in the Sephardi Jewish population, named progressive cerebello-cerebral atrophy (biotin metabolic process) based on the typical neuroradiological findings.">
+    <entity charOffset="101-117" id="30100179.s0.e0" ontology_id="HP_0002059" text="cerebral atrophy" type="HP"/>
+    <entity charOffset="119-143" id="30100179.s0.e1" ontology_id="GO_0006768" text="biotin metabolic process" type="GO"/>
+    <pair e1="30100179.s0.e0" e2="30100179.s0.e1" id="30100179.s0.p0" relation="true"/>
+  </sentence>
+</document>

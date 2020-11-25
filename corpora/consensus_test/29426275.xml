@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<document id="29426275">
+  <sentence id="29426275.s0" text="In the largest study of hybrid LGFMS-MAPK cascade tumors to date, all cases exhibited FUS rearrangements, a similar genetic profile to LGFMS.">
+    <entity charOffset="37-49" id="29426275.s0.e0" ontology_id="GO_0000165" text="MAPK cascade" type="GO"/>
+    <entity charOffset="50-56" id="29426275.s0.e1" ontology_id="HP_0002664" text="tumors" type="HP"/>
+  </sentence>
+  <sentence id="29426275.s1" text="Low-grade fibromyxoid sarcoma (LGFMS) and sclerosing epithelioid fibrosarcoma (MAPK cascade) are rare tumors with distinct sets of morphological features, both characterized by maintenance of gastrointestinal epithelium immunoreactivity.">
+    <entity charOffset="22-29" id="29426275.s1.e0" ontology_id="HP_0100242" text="sarcoma" type="HP"/>
+    <entity charOffset="79-91" id="29426275.s1.e1" ontology_id="GO_0000165" text="MAPK cascade" type="GO"/>
+    <entity charOffset="102-108" id="29426275.s1.e2" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <entity charOffset="177-219" id="29426275.s1.e3" ontology_id="GO_0030277" text="maintenance of gastrointestinal epithelium" type="GO"/>
+    <pair e1="29426275.s1.e0" e2="29426275.s1.e1" id="29426275.s1.p0" relation="false"/>
+    <pair e1="29426275.s1.e1" e2="29426275.s1.e2" id="29426275.s1.p1" relation="false"/>
+    <pair e1="29426275.s1.e2" e2="29426275.s1.e3" id="29426275.s1.p2" relation="true"/>
+  </sentence>
+</document>

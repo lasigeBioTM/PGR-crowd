@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<document id="26446763">
+  <sentence id="26446763.s0" text="Indeed, patients with L-phenylalanine catabolic process mutations were shown to suffer hypomagnesemia and kidney development-like diabetes.">
+    <entity charOffset="22-55" id="26446763.s0.e0" ontology_id="GO_0006559" text="L-phenylalanine catabolic process" type="GO"/>
+    <entity charOffset="87-101" id="26446763.s0.e1" ontology_id="HP_0002917" text="hypomagnesemia" type="HP"/>
+    <entity charOffset="106-124" id="26446763.s0.e2" ontology_id="GO_0001822" text="kidney development" type="GO"/>
+    <pair e1="26446763.s0.e0" e2="26446763.s0.e1" id="26446763.s0.p0" relation="true"/>
+    <pair e1="26446763.s0.e1" e2="26446763.s0.e2" id="26446763.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="26446763.s1" text="Mutations in magnesium ion homeostasis were shown to cause hypomagnesemia, seizures and intellectual disability.">
+    <entity charOffset="13-38" id="26446763.s1.e0" ontology_id="GO_0010960" text="magnesium ion homeostasis" type="GO"/>
+    <entity charOffset="59-73" id="26446763.s1.e1" ontology_id="HP_0002917" text="hypomagnesemia" type="HP"/>
+    <entity charOffset="88-111" id="26446763.s1.e2" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <pair e1="26446763.s1.e0" e2="26446763.s1.e1" id="26446763.s1.p0" relation="true"/>
+    <pair e1="26446763.s1.e0" e2="26446763.s1.e2" id="26446763.s1.p1" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="15073121">
+  <sentence id="15073121.s0" text="Our studies show that seven of the ADAMTS genes (ADAMTS1, 3, 5, 8, 9, 10, and 18) are consistently down-regulated in breast carcinomas with respect to nonneoplastic mammary tissue, irrespective of the heterogeneity of the samples and the tumor muscle organ development or grade (Mann-Whitney U test, P &amp;lt; 0.0001 for each gene).">
+    <entity charOffset="117-133" id="15073121.s0.e0" ontology_id="HP_0003002" text="breast carcinoma" type="HP"/>
+    <entity charOffset="244-268" id="15073121.s0.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+  </sentence>
+  <sentence id="15073121.s1" text="Conversely, skeletal system development, 6, 14, and 20 are consistently up-regulated in breast carcinomas (P = 0.005, P &amp;lt; 0.0001, P = 0.003, and P = 0.001, respectively).">
+    <entity charOffset="12-39" id="15073121.s1.e0" ontology_id="GO_0001501" text="skeletal system development" type="GO"/>
+    <entity charOffset="88-104" id="15073121.s1.e1" ontology_id="HP_0003002" text="breast carcinoma" type="HP"/>
+    <pair e1="15073121.s1.e0" e2="15073121.s1.e1" id="15073121.s1.p0" relation="false"/>
+  </sentence>
+</document>

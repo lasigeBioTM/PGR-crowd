@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29909407">
+  <sentence id="29909407.s0" text="Weight gain and growth failure, the hallmarks of hypercortisolism in pediatrics, may be inconsistent, especially in negative regulation of tumor necrosis factor production-independent forms of CS.">
+    <entity charOffset="49-65" id="29909407.s0.e0" ontology_id="HP_0003118" text="hypercortisolism" type="HP"/>
+    <entity charOffset="116-171" id="29909407.s0.e1" ontology_id="GO_0032720" text="negative regulation of tumor necrosis factor production" type="GO"/>
+    <pair e1="29909407.s0.e0" e2="29909407.s0.e1" id="29909407.s0.p0" relation="true"/>
+  </sentence>
+</document>

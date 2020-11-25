@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="28901453">
+  <sentence id="28901453.s0" text="Evidence for association with endometriosis was also found for the AC genotype of the rs10859871 of cell-cell adhesion.">
+    <entity charOffset="30-43" id="28901453.s0.e0" ontology_id="HP_0030127" text="endometriosis" type="HP"/>
+    <entity charOffset="100-118" id="28901453.s0.e1" ontology_id="GO_0098609" text="cell-cell adhesion" type="GO"/>
+    <pair e1="28901453.s0.e0" e2="28901453.s0.e1" id="28901453.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="28901453.s1" text="In this study, we investigated whether single nucleotide polymorphisms (SNPs) rs7521902, rs10859871 and rs11031006, mapping to negative regulation of gene expression, VEZT and FSHB genetic loci, respectively, are associated with risk for endometriosis in a Greek population.">
+    <entity charOffset="127-165" id="28901453.s1.e0" ontology_id="GO_0010629" text="negative regulation of gene expression" type="GO"/>
+    <entity charOffset="238-251" id="28901453.s1.e1" ontology_id="HP_0030127" text="endometriosis" type="HP"/>
+    <pair e1="28901453.s1.e0" e2="28901453.s1.e1" id="28901453.s1.p0" relation="false"/>
+  </sentence>
+</document>

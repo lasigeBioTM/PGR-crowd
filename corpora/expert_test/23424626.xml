@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="23424626">
+  <sentence id="23424626.s0" text="Our most significant AM association was upstream of nucleosome assembly, a gene implicated in ovarian and breast cancers (rs11604207, p = 1.6×10⁻⁰⁶).">
+    <entity charOffset="52-71" id="23424626.s0.e0" ontology_id="GO_0006334" text="nucleosome assembly" type="GO"/>
+    <entity charOffset="113-119" id="23424626.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="23424626.s0.e0" e2="23424626.s0.e1" id="23424626.s0.p0" relation="true"/>
+  </sentence>
+</document>

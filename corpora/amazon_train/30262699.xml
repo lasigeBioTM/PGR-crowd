@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="30262699">
+  <sentence id="30262699.s0" text="Review of exome sequencing data of the proband and her unaffected son for 40 known genes causing congenital nonsyndromic cataracts revealed two variants, namely c.139G&amp;gt;A (p.Asp47Asn; D47N) in the &lt;i&gt;gap junction-mediated intercellular transport&lt;/i&gt; gene and c.2036C&amp;gt;T in the &lt;i&gt;FYCO1&lt;/i&gt; gene to be potentially pathogenic.">
+    <entity charOffset="121-129" id="30262699.s0.e0" ontology_id="HP_0000518" text="cataract" type="HP"/>
+    <entity charOffset="202-247" id="30262699.s0.e1" ontology_id="GO_1990349" text="gap junction-mediated intercellular transport" type="GO"/>
+    <pair e1="30262699.s0.e0" e2="30262699.s0.e1" id="30262699.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="30262699.s1" text="The mutation c.139G&amp;gt;A in the &lt;i&gt;gap junction-mediated intercellular transport&lt;/i&gt; gene detected in the present study was also previously reported in Caucasian and Chinese families but with different phenotypes, i.e. nuclear and nuclear pulverulent cataracts.">
+    <entity charOffset="35-80" id="30262699.s1.e0" ontology_id="GO_1990349" text="gap junction-mediated intercellular transport" type="GO"/>
+    <entity charOffset="251-259" id="30262699.s1.e1" ontology_id="HP_0000518" text="cataract" type="HP"/>
+    <pair e1="30262699.s1.e0" e2="30262699.s1.e1" id="30262699.s1.p0" relation="true"/>
+  </sentence>
+</document>

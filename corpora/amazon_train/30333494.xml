@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<document id="30333494">
+  <sentence id="30333494.s0" text="Chemotherapy and radiation not only trigger cancer cell apoptosis but also cellular protein catabolic process stromal cells in the tumour microenvironment (TME), inducing a senescence-associated secretory phenomuscle organ development (SASP) characterized by chronic secretion of diverse soluble factors.">
+    <entity charOffset="44-50" id="30333494.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="75-109" id="30333494.s0.e1" ontology_id="GO_0044257" text="cellular protein catabolic process" type="GO"/>
+    <entity charOffset="210-234" id="30333494.s0.e2" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+  </sentence>
+  <sentence id="30333494.s1" text="DNA cellular protein catabolic process causes negative regulation of nitric oxide mediated signal transduction expression by engaging peripheral nervous system development-κB and C/EBP, while paracrine SPINK1 promotes cancer cell aggressiveness particularly chemoresistance.">
+    <entity charOffset="4-38" id="30333494.s1.e0" ontology_id="GO_0044257" text="cellular protein catabolic process" type="GO"/>
+    <entity charOffset="46-110" id="30333494.s1.e1" ontology_id="GO_0010751" text="negative regulation of nitric oxide mediated signal transduction" type="GO"/>
+    <entity charOffset="134-171" id="30333494.s1.e2" ontology_id="GO_0007422" text="peripheral nervous system development" type="GO"/>
+    <entity charOffset="218-224" id="30333494.s1.e3" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30333494.s1.e0" e2="30333494.s1.e3" id="30333494.s1.p0" relation="true"/>
+    <pair e1="30333494.s1.e1" e2="30333494.s1.e3" id="30333494.s1.p1" relation="true"/>
+    <pair e1="30333494.s1.e2" e2="30333494.s1.e3" id="30333494.s1.p2" relation="true"/>
+  </sentence>
+  <sentence id="30333494.s2" text="Strikingly, SPINK1 reprograms the expression profile of cancer cells, causing prominent epithelial-endothelial transition (EET), a phenotypic switch mediated by positive regulation of protein phosphorylation signaling but hitherto rarely reported for a SASP factor.">
+    <entity charOffset="56-62" id="30333494.s2.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="161-207" id="30333494.s2.e1" ontology_id="GO_0001934" text="positive regulation of protein phosphorylation" type="GO"/>
+    <pair e1="30333494.s2.e0" e2="30333494.s2.e1" id="30333494.s2.p0" relation="true"/>
+  </sentence>
+  <sentence id="30333494.s3" text="In vivo, negative regulation of nitric oxide mediated signal transduction is expressed in the stroma of solid tumours and is routinely detectable in peripheral blood of cancer patients after chemotherapy.">
+    <entity charOffset="9-73" id="30333494.s3.e0" ontology_id="GO_0010751" text="negative regulation of nitric oxide mediated signal transduction" type="GO"/>
+    <entity charOffset="169-175" id="30333494.s3.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30333494.s3.e0" e2="30333494.s3.e1" id="30333494.s3.p0" relation="true"/>
+  </sentence>
+</document>

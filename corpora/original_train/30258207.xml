@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="30258207">
+  <sentence id="30258207.s0" text="Biallelic mutations in heme biosynthetic process cause a mitochondrial disorder with a broad phenotypic spectrum that ranges from severe intellectual disability to adolescent-onset spastic paraplegia.">
+    <entity charOffset="23-48" id="30258207.s0.e0" ontology_id="GO_0006783" text="heme biosynthetic process" type="GO"/>
+    <entity charOffset="137-160" id="30258207.s0.e1" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <entity charOffset="181-199" id="30258207.s0.e2" ontology_id="HP_0001258" text="spastic paraplegia" type="HP"/>
+    <pair e1="30258207.s0.e0" e2="30258207.s0.e1" id="30258207.s0.p0" relation="false"/>
+    <pair e1="30258207.s0.e0" e2="30258207.s0.e2" id="30258207.s0.p1" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="29339485">
+  <sentence id="29339485.s0" text="The colonic expression of response to manganese ion is decreased in ulcerative colitis (UC) patients at baseline who progress to cancer.">
+    <entity charOffset="26-51" id="29339485.s0.e0" ontology_id="GO_0010042" text="response to manganese ion" type="GO"/>
+    <entity charOffset="129-135" id="29339485.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29339485.s0.e0" e2="29339485.s0.e1" id="29339485.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29339485.s1" text="Our study identifies urine D2HG and tissue response to manganese ion expression as biomarkers to identify patients at risk for progressing from colitis to cancer.">
+    <entity charOffset="43-68" id="29339485.s1.e0" ontology_id="GO_0010042" text="response to manganese ion" type="GO"/>
+    <entity charOffset="155-161" id="29339485.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29339485.s1.e0" e2="29339485.s1.e1" id="29339485.s1.p0" relation="true"/>
+  </sentence>
+</document>

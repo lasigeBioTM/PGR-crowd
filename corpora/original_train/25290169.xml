@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="25290169">
+  <sentence id="25290169.s0" text="Promoter CpG island hypermethylation is an important mechanism for inactivating key cellular enzymes that mediate epigenetic processes in hepatitis-related hepatocellular carcinoma (phosphatidylinositol phosphorylation).">
+    <entity charOffset="156-180" id="25290169.s0.e0" ontology_id="HP_0001402" text="hepatocellular carcinoma" type="HP"/>
+    <entity charOffset="182-218" id="25290169.s0.e1" ontology_id="GO_0046854" text="phosphatidylinositol phosphorylation" type="GO"/>
+    <pair e1="25290169.s0.e0" e2="25290169.s0.e1" id="25290169.s0.p0" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<document id="24120487">
+  <sentence id="24120487.s0" text="Mutations in POMT1, protein O-linked mannosylation, POMGNT1, FKTN, protein O-linked mannosylation, LARGE, GDP-mannose biosynthetic process, TMEM5 and COL4A1 and protein O-linked mannosylation lead to a wide spectrum of phenomuscle organ developments of congenital muscular dystrophies with or without eye and brain abnormalities.">
+    <entity charOffset="20-50" id="24120487.s0.e0" ontology_id="GO_0035269" text="protein O-linked mannosylation" type="GO"/>
+    <entity charOffset="67-97" id="24120487.s0.e1" ontology_id="GO_0035269" text="protein O-linked mannosylation" type="GO"/>
+    <entity charOffset="106-138" id="24120487.s0.e2" ontology_id="GO_0009298" text="GDP-mannose biosynthetic process" type="GO"/>
+    <entity charOffset="161-191" id="24120487.s0.e3" ontology_id="GO_0035269" text="protein O-linked mannosylation" type="GO"/>
+    <entity charOffset="224-248" id="24120487.s0.e4" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="264-284" id="24120487.s0.e5" ontology_id="HP_0003560" text="muscular dystrophies" type="HP"/>
+    <pair e1="24120487.s0.e0" e2="24120487.s0.e5" id="24120487.s0.p0" relation="true"/>
+    <pair e1="24120487.s0.e1" e2="24120487.s0.e5" id="24120487.s0.p1" relation="true"/>
+    <pair e1="24120487.s0.e2" e2="24120487.s0.e5" id="24120487.s0.p2" relation="true"/>
+    <pair e1="24120487.s0.e3" e2="24120487.s0.e5" id="24120487.s0.p3" relation="true"/>
+  </sentence>
+  <sentence id="24120487.s1" text="Patients with nervous system development frequently demonstrate a complete lack of psychomotor development, severe eye malformations, cobblestone lissencephaly and a hypoplastic cerebellum and brainstem, seizures, hydrocephalus and poor prognosis.">
+    <entity charOffset="14-40" id="24120487.s1.e0" ontology_id="GO_0007399" text="nervous system development" type="GO"/>
+    <entity charOffset="166-188" id="24120487.s1.e1" ontology_id="HP_0001321" text="hypoplastic cerebellum" type="HP"/>
+  </sentence>
+</document>

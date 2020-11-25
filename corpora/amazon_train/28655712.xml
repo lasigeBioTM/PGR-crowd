@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="28655712">
+  <sentence id="28655712.s0" text="Alterations in &lt;i&gt;MEK1/2&lt;/i&gt; occur in cancers, both in the treatment-naïve state and following targeted therapies, most notably protein phosphorylation and MEK inhibitors in &lt;i&gt;BRAF&lt;/i&gt;-V600E-mutant melanoma and colorectal cancer.">
+    <entity charOffset="38-44" id="28655712.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="128-151" id="28655712.s0.e1" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <pair e1="28655712.s0.e0" e2="28655712.s0.e1" id="28655712.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28655712.s1" text="This work highlights the importance of classifying mutations based on structural and phenotypic consequences, both in terms of pathway signaling output and response to pharmacologic inhibition.&lt;b&gt;Implications:&lt;/b&gt; This study suggests that alternate modes of target inhibition, such as angiogenesis inhibition, will be required to effectively treat tumors harboring these MEK1/2-resistant alleles.">
+    <entity charOffset="285-297" id="28655712.s1.e0" ontology_id="GO_0001525" text="angiogenesis" type="GO"/>
+    <entity charOffset="348-354" id="28655712.s1.e1" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <pair e1="28655712.s1.e0" e2="28655712.s1.e1" id="28655712.s1.p0" relation="true"/>
+  </sentence>
+</document>

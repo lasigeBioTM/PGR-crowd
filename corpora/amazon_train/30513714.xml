@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="30513714">
+  <sentence id="30513714.s0" text="Participants were assessed for cognitive performance (Cogstate battery), dietary selenium intake (two 24-h food recalls), plasma selenium concentration, inflammatory markers (interleukin (IL)-6, -8, -10, tumor necrosis factor-alpha and positive regulation of protein phosphorylation) and neurotrophic factors (brain-derived neurotrophic factor, vascular endothelial growth factor and insulin-like growth factor 1).">
+    <entity charOffset="204-209" id="30513714.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="236-282" id="30513714.s0.e1" ontology_id="GO_0001934" text="positive regulation of protein phosphorylation" type="GO"/>
+  </sentence>
+</document>

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<document id="24239381">
+  <sentence id="24239381.s0" text="Phenotypically, bs epidermis development exhibit nuclear cataracts and male infertility; genetic analyses assigned the bs locus to mouse chromosome 2.">
+    <entity charOffset="19-40" id="24239381.s0.e0" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="57-66" id="24239381.s0.e1" ontology_id="HP_0000518" text="cataracts" type="HP"/>
+    <pair e1="24239381.s0.e0" e2="24239381.s0.e1" id="24239381.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="24239381.s1" text="Based on the function of ER to Golgi vesicle-mediated transport as a RABnegative regulation of cell-matrix adhesion and the bs cataract and testicular phenotypes, we hypothesized that mutations in TBC1D20 may contribute to Warburg micro syndrome (WARBM); WARBM constitutes a spectrum of disorders characterized by eye, brain, and endocrine abnormalities caused by mutations in RAB3GAP1, RAB3GAP2, and autophagosome assembly8.">
+    <entity charOffset="25-63" id="24239381.s1.e0" ontology_id="GO_0006888" text="ER to Golgi vesicle-mediated transport" type="GO"/>
+    <entity charOffset="72-115" id="24239381.s1.e1" ontology_id="GO_0001953" text="negative regulation of cell-matrix adhesion" type="GO"/>
+    <entity charOffset="127-135" id="24239381.s1.e2" ontology_id="HP_0000518" text="cataract" type="HP"/>
+    <entity charOffset="401-423" id="24239381.s1.e3" ontology_id="GO_0000045" text="autophagosome assembly" type="GO"/>
+    <pair e1="24239381.s1.e0" e2="24239381.s1.e2" id="24239381.s1.p0" relation="true"/>
+    <pair e1="24239381.s1.e1" e2="24239381.s1.e2" id="24239381.s1.p1" relation="false"/>
+    <pair e1="24239381.s1.e2" e2="24239381.s1.e3" id="24239381.s1.p2" relation="false"/>
+  </sentence>
+</document>

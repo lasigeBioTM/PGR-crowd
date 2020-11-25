@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30564368">
+  <sentence id="30564368.s0" text="Murine double minute 2 (negative regulation of transcription by RNA polymerase II) is the E3 ubiquitin ligase of the tumor suppressor gene, p53, and inhibition of MDM2 can suppress tumor cell growth.">
+    <entity charOffset="24-81" id="30564368.s0.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="117-122" id="30564368.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="30564368.s0.e0" e2="30564368.s0.e1" id="30564368.s0.p0" relation="true"/>
+  </sentence>
+</document>

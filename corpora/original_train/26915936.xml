@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="26915936">
+  <sentence id="26915936.s0" text="Dominantly inherited digitotalar dysmorphism (regulation of cellular amino acid metabolic process), which is characterised by flexion contractures of digits and 'rocker-bottom' feet due to a vertical talus, was first described in a South African family of European stock in 1972.">
+    <entity charOffset="46-97" id="26915936.s0.e0" ontology_id="GO_0006521" text="regulation of cellular amino acid metabolic process" type="GO"/>
+    <entity charOffset="134-146" id="26915936.s0.e1" ontology_id="HP_0001371" text="contractures" type="HP"/>
+    <entity charOffset="191-205" id="26915936.s0.e2" ontology_id="HP_0001838" text="vertical talus" type="HP"/>
+    <pair e1="26915936.s0.e0" e2="26915936.s0.e1" id="26915936.s0.p0" relation="false"/>
+    <pair e1="26915936.s0.e0" e2="26915936.s0.e2" id="26915936.s0.p1" relation="false"/>
+  </sentence>
+</document>

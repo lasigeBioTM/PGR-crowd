@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<document id="30482341">
+  <sentence id="30482341.s0" text="Identifying the central and peripheral vestibular mechanisms responsible for pathology can somatic diversification of immunoglobulins in management of SRC.">
+    <entity charOffset="28-38" id="30482341.s0.e0" ontology_id="HP_0030646" text="peripheral" type="HP"/>
+    <entity charOffset="91-133" id="30482341.s0.e1" ontology_id="GO_0016445" text="somatic diversification of immunoglobulins" type="GO"/>
+  </sentence>
+  <sentence id="30482341.s1" text="The most common vestibular disturbances after peptidyl-tyrosine phosphorylation include benign paroxysmal positional vertigo, vestibulo-ocular reflex impairment, visual motion sensitivity, and balance impairment.">
+    <entity charOffset="46-79" id="30482341.s1.e0" ontology_id="GO_0018108" text="peptidyl-tyrosine phosphorylation" type="GO"/>
+    <entity charOffset="117-124" id="30482341.s1.e1" ontology_id="HP_0002321" text="vertigo" type="HP"/>
+  </sentence>
+</document>

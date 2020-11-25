@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<document id="29254845">
+  <sentence id="29254845.s0" text="Conversely, Th17 cells and their effector molecules interleukin 17A (IL-17A), IL-17F, interferon (IFN)γ, tumor necrosis factor (negative regulation of transcription by RNA polymerase II)α, and granulocyte-macrophage colony-stimulating factor (positive regulation of cell proliferation) are implicated in the pathology of rheumatoid arthritis (RA).">
+    <entity charOffset="105-110" id="29254845.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="128-185" id="29254845.s0.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="243-284" id="29254845.s0.e2" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <pair e1="29254845.s0.e0" e2="29254845.s0.e1" id="29254845.s0.p0" relation="true"/>
+  </sentence>
+</document>

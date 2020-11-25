@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30633201">
+  <sentence id="30633201.s0" text="The high levels of response to wounding expression in gastric GISTs was significantly associated with tumor size (P &amp;lt; .001), multivisceral resection (P = .006), metastasis at initial diagnosis (P = .006), mitotic count (P = .002) and NIH risk classification (P = .015).">
+    <entity charOffset="19-39" id="30633201.s0.e0" ontology_id="GO_0009611" text="response to wounding" type="GO"/>
+    <entity charOffset="102-107" id="30633201.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="30633201.s0.e0" e2="30633201.s0.e1" id="30633201.s0.p0" relation="true"/>
+  </sentence>
+</document>

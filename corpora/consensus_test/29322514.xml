@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<document id="29322514">
+  <sentence id="29322514.s0" text="On the other hand, tumor suppressor roles of YY1 appear to involve YY1 stimulation of tumor suppressor BRCA1, increased Bax transcription and apoptosis involving cytochrome c release and caspase-3/-7 cleavage, induction of heme oxygenase-1, inhibition of pRb phosphorylation and p21 binding to cyclin D1 and protein phosphorylation, reduced expression of long noncoding RNA of SOX2 overlapping transcript, and MUC4/ErbB2/p38/MEF2C-dependent downregulation of MMP-10.">
+    <entity charOffset="19-24" id="29322514.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="308-331" id="29322514.s0.e1" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <pair e1="29322514.s0.e0" e2="29322514.s0.e1" id="29322514.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29322514.s1" text="For example, YY1's roles in tumor growth involve stabilization of hypoxia-inducible factor HIF-1α in a p53 independent manner, negative regulation of miR-9 transcription, control of biological_process transcription, a novel miR-193a-5p-YY1-APC axis, intracellular ROS and mitochondrial superoxide generation, p53 reduction and positive regulation of protein phosphorylation activation, control of genes associated with mitochondrial energy metabolism and miRNA regulatory networks involving miR-7, miR-9, miR-34a, miR-186, miR-381, miR-584-3p and miR-635.">
+    <entity charOffset="28-33" id="29322514.s1.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="182-200" id="29322514.s1.e1" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="327-373" id="29322514.s1.e2" ontology_id="GO_0001934" text="positive regulation of protein phosphorylation" type="GO"/>
+    <pair e1="29322514.s1.e0" e2="29322514.s1.e2" id="29322514.s1.p0" relation="true"/>
+    <pair e1="29322514.s1.e0" e2="29322514.s1.e1" id="29322514.s1.p1" relation="true"/>
+  </sentence>
+  <sentence id="29322514.s2" text="YY1 expression is associated with that of cancer stem cell markers SOX2, BMI1 and negative regulation of transcription by RNA polymerase II across many cancers suggesting multidynamic regulatory control and groups of cancers with distinct molecular signatures.">
+    <entity charOffset="42-48" id="29322514.s2.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="82-139" id="29322514.s2.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="29322514.s2.e0" e2="29322514.s2.e1" id="29322514.s2.p0" relation="true"/>
+  </sentence>
+</document>

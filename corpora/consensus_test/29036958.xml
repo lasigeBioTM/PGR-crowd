@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29036958">
+  <sentence id="29036958.s0" text="Here we presented a case (BS muscle organ development Ⅱ) of a 17 years old female presented with polyhydramnios, polyuria, nephrocalcinosis and hypokalemia, which was alleviated after treatment with celecoxib and vitamin D(3).">
+    <entity charOffset="29-53" id="29036958.s0.e0" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="123-139" id="29036958.s0.e1" ontology_id="HP_0000121" text="nephrocalcinosis" type="HP"/>
+    <entity charOffset="144-155" id="29036958.s0.e2" ontology_id="HP_0002900" text="hypokalemia" type="HP"/>
+  </sentence>
+</document>

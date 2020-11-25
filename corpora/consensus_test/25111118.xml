@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<document id="25111118">
+  <sentence id="25111118.s0" text="The created databases include ACAD8 (isobutyryl-CoA dehydrogenase deficiency (IBD)), branched-chain amino acid catabolic process (short-chain acyl-CoA dehydrogenase (fatty acid beta-oxidation using acyl-CoA dehydrogenase) deficiency), branched-chain amino acid catabolic process (3-methylglutaconic aciduria (3-MGCA)), DHCR7 (Smith-Lemli-Opitz syndrome), regulation of lipid metabolic process (3-hydroxy-3-methylglutaryl-CoA synthase 2 deficiency), protein homotetramerization (17-beta-hydroxysteroid dehydrogenase X deficiency), FKBP14 (Ehlers-Danlos syndrome with progressive kyphoscoliosis, myopathy, and hearing loss; EDSKMH) and brain development (Kohlschütter-Tönz syndrome).">
+    <entity charOffset="85-128" id="25111118.s0.e0" ontology_id="GO_0009083" text="branched-chain amino acid catabolic process" type="GO"/>
+    <entity charOffset="166-220" id="25111118.s0.e1" ontology_id="GO_0033539" text="fatty acid beta-oxidation using acyl-CoA dehydrogenase" type="GO"/>
+    <entity charOffset="235-278" id="25111118.s0.e2" ontology_id="GO_0009083" text="branched-chain amino acid catabolic process" type="GO"/>
+    <entity charOffset="355-392" id="25111118.s0.e3" ontology_id="GO_0019216" text="regulation of lipid metabolic process" type="GO"/>
+    <entity charOffset="449-476" id="25111118.s0.e4" ontology_id="GO_0051289" text="protein homotetramerization" type="GO"/>
+    <entity charOffset="578-592" id="25111118.s0.e5" ontology_id="HP_0002751" text="kyphoscoliosis" type="HP"/>
+    <entity charOffset="594-602" id="25111118.s0.e6" ontology_id="HP_0003198" text="myopathy" type="HP"/>
+    <entity charOffset="608-620" id="25111118.s0.e7" ontology_id="HP_0000365" text="hearing loss" type="HP"/>
+    <entity charOffset="634-651" id="25111118.s0.e8" ontology_id="GO_0007420" text="brain development" type="GO"/>
+    <pair e1="25111118.s0.e0" e2="25111118.s0.e5" id="25111118.s0.p0" relation="true"/>
+    <pair e1="25111118.s0.e1" e2="25111118.s0.e5" id="25111118.s0.p1" relation="false"/>
+    <pair e1="25111118.s0.e2" e2="25111118.s0.e6" id="25111118.s0.p2" relation="false"/>
+    <pair e1="25111118.s0.e3" e2="25111118.s0.e5" id="25111118.s0.p3" relation="false"/>
+    <pair e1="25111118.s0.e4" e2="25111118.s0.e6" id="25111118.s0.p4" relation="false"/>
+    <pair e1="25111118.s0.e4" e2="25111118.s0.e7" id="25111118.s0.p5" relation="false"/>
+    <pair e1="25111118.s0.e5" e2="25111118.s0.e8" id="25111118.s0.p6" relation="false"/>
+    <pair e1="25111118.s0.e7" e2="25111118.s0.e8" id="25111118.s0.p7" relation="false"/>
+  </sentence>
+</document>

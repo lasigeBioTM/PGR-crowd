@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="26818569">
+  <sentence id="26818569.s0" text="Ellis-van Creveld (endochondral bone growth) syndrome is a rare autosomal recessive disorder characterized by hypoplastic nails, polydactyly, and achondroplasia.">
+    <entity charOffset="19-43" id="26818569.s0.e0" ontology_id="GO_0003416" text="endochondral bone growth" type="GO"/>
+    <entity charOffset="110-127" id="26818569.s0.e1" ontology_id="HP_0001792" text="hypoplastic nails" type="HP"/>
+    <entity charOffset="129-140" id="26818569.s0.e2" ontology_id="HP_0010442" text="polydactyly" type="HP"/>
+    <pair e1="26818569.s0.e0" e2="26818569.s0.e1" id="26818569.s0.p0" relation="true"/>
+    <pair e1="26818569.s0.e0" e2="26818569.s0.e2" id="26818569.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="26818569.s1" text="This is, to our knowledge, a most severe phenotype of endochondral bone growth syndrome, illustrating that the specific pattern of EVC2 compound heterozygous mutations may cause severe developmental delay and intestinal malfunction.">
+    <entity charOffset="54-78" id="26818569.s1.e0" ontology_id="GO_0003416" text="endochondral bone growth" type="GO"/>
+    <entity charOffset="185-204" id="26818569.s1.e1" ontology_id="HP_0001263" text="developmental delay" type="HP"/>
+    <pair e1="26818569.s1.e0" e2="26818569.s1.e1" id="26818569.s1.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28121444">
+  <sentence id="28121444.s0" text="The presented workflow employed three different peptide microarray formats to discover and resolve the epitopes of human autoantibodies and revealed two potentially new autoantigens: MAP3K7 in multiple sclerosis and learning in narcolepsy.">
+    <entity charOffset="216-224" id="28121444.s0.e0" ontology_id="GO_0007612" text="learning" type="GO"/>
+    <entity charOffset="228-238" id="28121444.s0.e1" ontology_id="HP_0030050" text="narcolepsy" type="HP"/>
+    <pair e1="28121444.s0.e0" e2="28121444.s0.e1" id="28121444.s0.p0" relation="true"/>
+  </sentence>
+</document>

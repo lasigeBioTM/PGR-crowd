@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="30177815">
+  <sentence id="30177815.s0" text="As proof of concept, we applied CRAFT to epilepsy and predicted the tyrosine kinase receptor peptidyl-tyrosine phosphorylation as a potential therapeutic target.">
+    <entity charOffset="41-49" id="30177815.s0.e0" ontology_id="HP_0001250" text="epilepsy" type="HP"/>
+    <entity charOffset="93-126" id="30177815.s0.e1" ontology_id="GO_0018108" text="peptidyl-tyrosine phosphorylation" type="GO"/>
+    <pair e1="30177815.s0.e0" e2="30177815.s0.e1" id="30177815.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="30177815.s1" text="The predicted effect of peptidyl-tyrosine phosphorylation blockade in attenuating epilepsy seizures was validated in three pre-clinical models of epilepsy.">
+    <entity charOffset="24-57" id="30177815.s1.e0" ontology_id="GO_0018108" text="peptidyl-tyrosine phosphorylation" type="GO"/>
+    <entity charOffset="82-90" id="30177815.s1.e1" ontology_id="HP_0001250" text="epilepsy" type="HP"/>
+    <entity charOffset="91-99" id="30177815.s1.e2" ontology_id="HP_0001250" text="seizures" type="HP"/>
+    <pair e1="30177815.s1.e0" e2="30177815.s1.e1" id="30177815.s1.p0" relation="true"/>
+    <pair e1="30177815.s1.e0" e2="30177815.s1.e2" id="30177815.s1.p1" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="26076463">
+  <sentence id="26076463.s0" text="In humans and mice hair follicle development mutations or loss of function result in a number of skeletal and organ malformations, including polydactyly, tibial hemimelia, omphalocele, biparietal foramina, impaired mammary epithelial morphogenesis, alopecia, coronal craniosynostosis, hypertelorism, depressed nasal bridge and ridge, bifid nasal tip, hypogonadism, and body agenesis.">
+    <entity charOffset="19-44" id="26076463.s0.e0" ontology_id="GO_0001942" text="hair follicle development" type="GO"/>
+    <entity charOffset="351-363" id="26076463.s0.e1" ontology_id="HP_0000135" text="hypogonadism" type="HP"/>
+    <pair e1="26076463.s0.e0" e2="26076463.s0.e1" id="26076463.s0.p0" relation="true"/>
+  </sentence>
+</document>

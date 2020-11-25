@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="26147992">
+  <sentence id="26147992.s0" text="Leber congenital amaurosis (clathrin coat assembly) and retinitis pigmentosa (RP) are retinal degenerative diseases which cause severe retinal dystrophy affecting the photoreceptors.">
+    <entity charOffset="28-50" id="26147992.s0.e0" ontology_id="GO_0048268" text="clathrin coat assembly" type="GO"/>
+    <entity charOffset="135-152" id="26147992.s0.e1" ontology_id="HP_0000556" text="retinal dystrophy" type="HP"/>
+  </sentence>
+</document>

@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<document id="29660846">
+  <sentence id="29660846.s0" text="The classical mammalian isoforms of PLD are N-glycan processing and PLD2, and the levels of both mRNA were higher at the primary tumor sites than in normal kidney tissues.">
+    <entity charOffset="44-63" id="29660846.s0.e0" ontology_id="GO_0006491" text="N-glycan processing" type="GO"/>
+    <entity charOffset="129-134" id="29660846.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29660846.s0.e0" e2="29660846.s0.e1" id="29660846.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="29660846.s1" text="Notably, shRNA-mediated knockdown of PLD2 suppressed the growth and invasion of tumors in establishment of mitotic spindle orientation mouse xenograft models.">
+    <entity charOffset="80-85" id="29660846.s1.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="90-134" id="29660846.s1.e1" ontology_id="GO_0000132" text="establishment of mitotic spindle orientation" type="GO"/>
+    <pair e1="29660846.s1.e0" e2="29660846.s1.e1" id="29660846.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="29660846.s2" text="As for genes relating to the tumor invasion of phosphatidic acid biosynthetic process, we found that angiogenin (ANG) was positively regulated by PLD2.">
+    <entity charOffset="29-34" id="29660846.s2.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="47-85" id="29660846.s2.e1" ontology_id="GO_0006654" text="phosphatidic acid biosynthetic process" type="GO"/>
+    <pair e1="29660846.s2.e0" e2="29660846.s2.e1" id="29660846.s2.p0" relation="false"/>
+  </sentence>
+  <sentence id="29660846.s3" text="In nucleosome disassembly, the expression levels of angiogenesis were elevated in tumor tissues as compared with normal kidney and the inhibition of ANG activity with a neutralizing antibody significantly suppressed tumor invasion.">
+    <entity charOffset="3-25" id="29660846.s3.e0" ontology_id="GO_0006337" text="nucleosome disassembly" type="GO"/>
+    <entity charOffset="52-64" id="29660846.s3.e1" ontology_id="GO_0001525" text="angiogenesis" type="GO"/>
+    <entity charOffset="82-87" id="29660846.s3.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29660846.s3.e0" e2="29660846.s3.e2" id="29660846.s3.p0" relation="false"/>
+    <pair e1="29660846.s3.e1" e2="29660846.s3.e2" id="29660846.s3.p1" relation="false"/>
+  </sentence>
+</document>

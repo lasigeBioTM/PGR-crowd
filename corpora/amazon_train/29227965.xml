@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="29227965">
+  <sentence id="29227965.s0" text="For combined mothers' and fathers' attained age, 10 loci were associated (p&amp;lt;5*10&lt;sup&gt;-8&lt;/sup&gt;), including 8 previously identified for negative regulation of transcription by RNA polymerase II including survival, Alzheimer's and cardiovascular disease.">
+    <entity charOffset="137-194" id="29227965.s0.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="231-253" id="29227965.s0.e1" ontology_id="HP_0001626" text="cardiovascular disease" type="HP"/>
+  </sentence>
+</document>

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<document id="26164209">
+  <sentence id="26164209.s0" text="To investigate this mechanism, we developed a novel uterine sarcoma tissue-derived orthotopic and metastatic model in KSN nude epidermis development using a green fluorescent protein stably expressed uterine sarcoma cell line, MES-SA.">
+    <entity charOffset="60-67" id="26164209.s0.e0" ontology_id="HP_0100242" text="sarcoma" type="HP"/>
+    <entity charOffset="127-148" id="26164209.s0.e1" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <pair e1="26164209.s0.e0" e2="26164209.s0.e1" id="26164209.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="26164209.s1" text="Microarray analysis between orthotopic tumors with high and low metastatic potentials revealed differential expression of genes related to cell proliferation and migration (negative regulation of muscle contraction, transforming growth factor beta receptor signaling pathway, and brain development).">
+    <entity charOffset="39-45" id="26164209.s1.e0" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <entity charOffset="173-214" id="26164209.s1.e1" ontology_id="GO_0045932" text="negative regulation of muscle contraction" type="GO"/>
+    <entity charOffset="216-274" id="26164209.s1.e2" ontology_id="GO_0007179" text="transforming growth factor beta receptor signaling pathway" type="GO"/>
+    <entity charOffset="280-297" id="26164209.s1.e3" ontology_id="GO_0007420" text="brain development" type="GO"/>
+    <pair e1="26164209.s1.e0" e2="26164209.s1.e1" id="26164209.s1.p0" relation="false"/>
+    <pair e1="26164209.s1.e0" e2="26164209.s1.e2" id="26164209.s1.p1" relation="false"/>
+    <pair e1="26164209.s1.e0" e2="26164209.s1.e3" id="26164209.s1.p2" relation="false"/>
+  </sentence>
+</document>

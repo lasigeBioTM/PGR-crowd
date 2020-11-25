@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="26578640">
+  <sentence id="26578640.s0" text="Disorders of signalling of various paracrine factors (FGFs, BMPs, WNTs, PTHrP/IHH, and CNP/negative regulation of kinase activity) or genetic defects affecting cartilage extracellular matrix usually cause disproportionate short stature.">
+    <entity charOffset="91-129" id="26578640.s0.e0" ontology_id="GO_0033673" text="negative regulation of kinase activity" type="GO"/>
+    <entity charOffset="222-235" id="26578640.s0.e1" ontology_id="HP_0004322" text="short stature" type="HP"/>
+    <pair e1="26578640.s0.e0" e2="26578640.s0.e1" id="26578640.s0.p0" relation="false"/>
+  </sentence>
+</document>

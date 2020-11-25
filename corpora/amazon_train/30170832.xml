@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<document id="30170832">
+  <sentence id="30170832.s0" text="Mutations in cellular response to DNA damage stimulus cause premature ageing and liver cancer in humans and epidermis development; thus, defective DPC repair has great clinical ramifications.">
+    <entity charOffset="13-53" id="30170832.s0.e0" ontology_id="GO_0006974" text="cellular response to DNA damage stimulus" type="GO"/>
+    <entity charOffset="87-93" id="30170832.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="108-129" id="30170832.s0.e2" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <pair e1="30170832.s0.e0" e2="30170832.s0.e1" id="30170832.s0.p0" relation="true"/>
+  </sentence>
+</document>

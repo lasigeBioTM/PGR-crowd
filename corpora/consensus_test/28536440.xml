@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28536440">
+  <sentence id="28536440.s0" text="However, the relationship between homotypic cell-cell adhesion and autism remains poorly understood.">
+    <entity charOffset="34-62" id="28536440.s0.e0" ontology_id="GO_0034109" text="homotypic cell-cell adhesion" type="GO"/>
+    <entity charOffset="67-73" id="28536440.s0.e1" ontology_id="HP_0000717" text="autism" type="HP"/>
+    <pair e1="28536440.s0.e0" e2="28536440.s0.e1" id="28536440.s0.p0" relation="true"/>
+  </sentence>
+</document>

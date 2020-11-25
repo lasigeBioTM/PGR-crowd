@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<document id="26991507">
+  <sentence id="26991507.s0" text="The newly reported myoclonus-dystonia gene, cell morphogenesis involved in differentiation, plays also a role in the formation of brain structures.">
+    <entity charOffset="29-37" id="26991507.s0.e0" ontology_id="HP_0001332" text="dystonia" type="HP"/>
+    <entity charOffset="44-90" id="26991507.s0.e1" ontology_id="GO_0000904" text="cell morphogenesis involved in differentiation" type="GO"/>
+    <pair e1="26991507.s0.e0" e2="26991507.s0.e1" id="26991507.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="26991507.s1" text="Defects in neurodevelopment likewise seem to be a recurrent scheme underpinning mainly complex dystonias, for example those attributable to biallelic mutations in tetrahydrobiopterin biosynthetic process, TH, SPR, or to heterozygous TUBB4A mutations.">
+    <entity charOffset="95-103" id="26991507.s1.e0" ontology_id="HP_0001332" text="dystonia" type="HP"/>
+    <entity charOffset="163-203" id="26991507.s1.e1" ontology_id="GO_0006729" text="tetrahydrobiopterin biosynthetic process" type="GO"/>
+    <pair e1="26991507.s1.e0" e2="26991507.s1.e1" id="26991507.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="26991507.s2" text="The novel myoclonus-dystonia genes endoplasmic reticulum calcium ion homeostasis and CACNA1B also implicate abnormal calcium signaling in dystonia.">
+    <entity charOffset="20-28" id="26991507.s2.e0" ontology_id="HP_0001332" text="dystonia" type="HP"/>
+    <entity charOffset="35-80" id="26991507.s2.e1" ontology_id="GO_0032469" text="endoplasmic reticulum calcium ion homeostasis" type="GO"/>
+    <pair e1="26991507.s2.e0" e2="26991507.s2.e1" id="26991507.s2.p0" relation="false"/>
+  </sentence>
+  <sentence id="26991507.s3" text="This includes the first two genes linked to recessively inherited isolated dystonia, that is, HPCA (hippocalcin) and muscle organ development (collagen VI alpha 3).">
+    <entity charOffset="75-83" id="26991507.s3.e0" ontology_id="HP_0001332" text="dystonia" type="HP"/>
+    <entity charOffset="117-141" id="26991507.s3.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <pair e1="26991507.s3.e0" e2="26991507.s3.e1" id="26991507.s3.p0" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<document id="28901453">
+  <sentence id="28901453.s0" text="In this study, we investigated whether single nucleotide polymorphisms (SNPs) rs7521902, rs10859871 and rs11031006, mapping to WNT4, cell-cell adhesion and G protein-coupled receptor signaling pathway genetic loci, respectively, are associated with risk for endometriosis in a Greek population.">
+    <entity charOffset="133-151" id="28901453.s0.e0" ontology_id="GO_0098609" text="cell-cell adhesion" type="GO"/>
+    <entity charOffset="156-200" id="28901453.s0.e1" ontology_id="GO_0007186" text="G protein-coupled receptor signaling pathway" type="GO"/>
+    <entity charOffset="258-271" id="28901453.s0.e2" ontology_id="HP_0030127" text="endometriosis" type="HP"/>
+    <pair e1="28901453.s0.e0" e2="28901453.s0.e2" id="28901453.s0.p0" relation="true"/>
+    <pair e1="28901453.s0.e1" e2="28901453.s0.e2" id="28901453.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="28901453.s1" text="Notably, a significant difference in the distribution of the AG genotype and the positive regulation of glucose transmembrane transport allele A of G protein-coupled receptor signaling pathway rs11031006 SNP was found between the endometriosis patients and controls.">
+    <entity charOffset="81-135" id="28901453.s1.e0" ontology_id="GO_0010828" text="positive regulation of glucose transmembrane transport" type="GO"/>
+    <entity charOffset="148-192" id="28901453.s1.e1" ontology_id="GO_0007186" text="G protein-coupled receptor signaling pathway" type="GO"/>
+    <entity charOffset="230-243" id="28901453.s1.e2" ontology_id="HP_0030127" text="endometriosis" type="HP"/>
+    <pair e1="28901453.s1.e1" e2="28901453.s1.e2" id="28901453.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="28901453.s2" text="We found a genetic association between rs11031006 (G protein-coupled receptor signaling pathway) SNP and endometriosis.">
+    <entity charOffset="51-95" id="28901453.s2.e0" ontology_id="GO_0007186" text="G protein-coupled receptor signaling pathway" type="GO"/>
+    <entity charOffset="105-118" id="28901453.s2.e1" ontology_id="HP_0030127" text="endometriosis" type="HP"/>
+    <pair e1="28901453.s2.e0" e2="28901453.s2.e1" id="28901453.s2.p0" relation="true"/>
+  </sentence>
+  <sentence id="28901453.s3" text="negative regulation of gene expression and cell-cell adhesion genes constitute the most consistently associated genes with endometriosis.">
+    <entity charOffset="0-38" id="28901453.s3.e0" ontology_id="GO_0010629" text="negative regulation of gene expression" type="GO"/>
+    <entity charOffset="43-61" id="28901453.s3.e1" ontology_id="GO_0098609" text="cell-cell adhesion" type="GO"/>
+    <entity charOffset="123-136" id="28901453.s3.e2" ontology_id="HP_0030127" text="endometriosis" type="HP"/>
+    <pair e1="28901453.s3.e0" e2="28901453.s3.e2" id="28901453.s3.p0" relation="true"/>
+    <pair e1="28901453.s3.e1" e2="28901453.s3.e2" id="28901453.s3.p1" relation="true"/>
+  </sentence>
+  <sentence id="28901453.s4" text="In the present study, an association of rs7521902 (negative regulation of gene expression) and rs10859871 (cell-cell adhesion) was confirmed in women with endometriosis at the genotypic but not the allelic level">
+    <entity charOffset="51-89" id="28901453.s4.e0" ontology_id="GO_0010629" text="negative regulation of gene expression" type="GO"/>
+    <entity charOffset="107-125" id="28901453.s4.e1" ontology_id="GO_0098609" text="cell-cell adhesion" type="GO"/>
+    <entity charOffset="155-168" id="28901453.s4.e2" ontology_id="HP_0030127" text="endometriosis" type="HP"/>
+    <pair e1="28901453.s4.e0" e2="28901453.s4.e2" id="28901453.s4.p0" relation="true"/>
+    <pair e1="28901453.s4.e1" e2="28901453.s4.e2" id="28901453.s4.p1" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28778786">
+  <sentence id="28778786.s0" text="microtubule cytoskeleton organization gene encodes a centrosomal protein, highly expressed in fetal brain and essentially indispensable for its normal development, as biallelic mutations in it lead to primary microcephaly (MCPH).">
+    <entity charOffset="0-37" id="28778786.s0.e0" ontology_id="GO_0000226" text="microtubule cytoskeleton organization" type="GO"/>
+    <entity charOffset="209-221" id="28778786.s0.e1" ontology_id="HP_0000252" text="microcephaly" type="HP"/>
+    <pair e1="28778786.s0.e0" e2="28778786.s0.e1" id="28778786.s0.p0" relation="true"/>
+  </sentence>
+</document>

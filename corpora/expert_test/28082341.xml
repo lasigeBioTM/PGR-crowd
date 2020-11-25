@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28082341">
+  <sentence id="28082341.s0" text="Though using the term gray platelets for negative regulation of transcription by RNA polymerase II deficiency has been debated, a reduced number of α-granules has been described for macrothrombocytopenia due to &lt;i&gt;GATA1&lt;/i&gt; mutations.">
+    <entity charOffset="41-98" id="28082341.s0.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="182-203" id="28082341.s0.e1" ontology_id="HP_0040185" text="macrothrombocytopenia" type="HP"/>
+    <pair e1="28082341.s0.e0" e2="28082341.s0.e1" id="28082341.s0.p0" relation="true"/>
+  </sentence>
+</document>

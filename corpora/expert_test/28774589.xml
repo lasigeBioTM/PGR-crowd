@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28774589">
+  <sentence id="28774589.s0" text="Using whole-exome sequencing in four probands with undiagnosed skin hyperkeratosis/ichthyosis, we identified compound heterozygosity for mutations in 3-keto-sphinganine metabolic process, encoding an enzyme in the de novo synthesis pathway of ceramides.">
+    <entity charOffset="68-82" id="28774589.s0.e0" ontology_id="HP_0000962" text="hyperkeratosis" type="HP"/>
+    <entity charOffset="150-186" id="28774589.s0.e1" ontology_id="GO_0006666" text="3-keto-sphinganine metabolic process" type="GO"/>
+    <pair e1="28774589.s0.e0" e2="28774589.s0.e1" id="28774589.s0.p0" relation="true"/>
+  </sentence>
+</document>

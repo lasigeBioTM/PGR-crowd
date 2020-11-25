@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="29402277">
+  <sentence id="29402277.s0" text="Here, with a comprehensive literature review, we report a couple with an infertility history of 9 years and three unsuccessful IVF treatments, where male partner has Kartagener's Syndrome, a subtype of motile cilium assembly, displaying recurrent respiratory infections, dextrocardia and total asthenozoospermia.">
+    <entity charOffset="202-224" id="29402277.s0.e0" ontology_id="GO_0044458" text="motile cilium assembly" type="GO"/>
+    <entity charOffset="271-283" id="29402277.s0.e1" ontology_id="HP_0001651" text="dextrocardia" type="HP"/>
+  </sentence>
+</document>

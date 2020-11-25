@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29058484">
+  <sentence id="29058484.s0" text="In recent years, it has been demonstrated that dolichyl diphosphate biosynthetic process plays an important role in human pathophysiological processes, including lipid metabolism, angiogenesis, N-glycosylation, cell apoptosis, chemoresistance in human hepatocellular carcinoma, and epithelial-mesenchymal transition.">
+    <entity charOffset="47-88" id="29058484.s0.e0" ontology_id="GO_0006489" text="dolichyl diphosphate biosynthetic process" type="GO"/>
+    <entity charOffset="252-276" id="29058484.s0.e1" ontology_id="HP_0001402" text="hepatocellular carcinoma" type="HP"/>
+    <pair e1="29058484.s0.e0" e2="29058484.s0.e1" id="29058484.s0.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<document id="30086807">
+  <sentence id="30086807.s0" text="Eighteen MCPH loci (MCPH1-MCPH18) have been mapped to date from various populations around the world and contain the following genes: Microcephalin, mitotic spindle organization, CDK5RAP2, CASC5, ASPM, CENPJ, STIL, centriole replication, CEP152, brain development, histone ubiquitination, positive regulation of cell-matrix adhesion, CENPE, centriole replication, lysophospholipid transport, ANKLE2, CIT and WDFY3, clarifying our understanding about the molecular basis of microcephaly genetic disorder.">
+    <entity charOffset="149-177" id="30086807.s0.e0" ontology_id="GO_0007052" text="mitotic spindle organization" type="GO"/>
+    <entity charOffset="215-236" id="30086807.s0.e1" ontology_id="GO_0007099" text="centriole replication" type="GO"/>
+    <entity charOffset="246-263" id="30086807.s0.e2" ontology_id="GO_0007420" text="brain development" type="GO"/>
+    <entity charOffset="265-287" id="30086807.s0.e3" ontology_id="GO_0016574" text="histone ubiquitination" type="GO"/>
+    <entity charOffset="289-332" id="30086807.s0.e4" ontology_id="GO_0001954" text="positive regulation of cell-matrix adhesion" type="GO"/>
+    <entity charOffset="341-362" id="30086807.s0.e5" ontology_id="GO_0007099" text="centriole replication" type="GO"/>
+    <entity charOffset="364-390" id="30086807.s0.e6" ontology_id="GO_0051977" text="lysophospholipid transport" type="GO"/>
+    <entity charOffset="473-485" id="30086807.s0.e7" ontology_id="HP_0000252" text="microcephaly" type="HP"/>
+    <pair e1="30086807.s0.e0" e2="30086807.s0.e7" id="30086807.s0.p0" relation="true"/>
+    <pair e1="30086807.s0.e1" e2="30086807.s0.e7" id="30086807.s0.p1" relation="true"/>
+    <pair e1="30086807.s0.e2" e2="30086807.s0.e7" id="30086807.s0.p2" relation="true"/>
+    <pair e1="30086807.s0.e3" e2="30086807.s0.e7" id="30086807.s0.p3" relation="true"/>
+    <pair e1="30086807.s0.e4" e2="30086807.s0.e7" id="30086807.s0.p4" relation="true"/>
+    <pair e1="30086807.s0.e5" e2="30086807.s0.e7" id="30086807.s0.p5" relation="true"/>
+    <pair e1="30086807.s0.e6" e2="30086807.s0.e7" id="30086807.s0.p6" relation="true"/>
+  </sentence>
+</document>

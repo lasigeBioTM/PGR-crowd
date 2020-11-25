@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<document id="29391579">
+  <sentence id="29391579.s0" text="Mutations have previously been reported in several members of the TRAPP complex of proteins, including regulation of transcription, DNA-templated, cerebral cortex development and protein complex oligomerization, resulting in disorders involving skeletal abnormalities, intellectual disability, speech impairment and developmental delay.">
+    <entity charOffset="103-145" id="29391579.s0.e0" ontology_id="GO_0006355" text="regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="147-174" id="29391579.s0.e1" ontology_id="GO_0021987" text="cerebral cortex development" type="GO"/>
+    <entity charOffset="179-210" id="29391579.s0.e2" ontology_id="GO_0051259" text="protein complex oligomerization" type="GO"/>
+    <entity charOffset="245-267" id="29391579.s0.e3" ontology_id="HP_0000924" text="skeletal abnormalities" type="HP"/>
+    <entity charOffset="269-292" id="29391579.s0.e4" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <entity charOffset="294-311" id="29391579.s0.e5" ontology_id="HP_0002167" text="speech impairment" type="HP"/>
+    <entity charOffset="316-335" id="29391579.s0.e6" ontology_id="HP_0001263" text="developmental delay" type="HP"/>
+    <pair e1="29391579.s0.e0" e2="29391579.s0.e3" id="29391579.s0.p0" relation="true"/>
+    <pair e1="29391579.s0.e1" e2="29391579.s0.e4" id="29391579.s0.p1" relation="true"/>
+    <pair e1="29391579.s0.e1" e2="29391579.s0.e3" id="29391579.s0.p2" relation="true"/>
+    <pair e1="29391579.s0.e1" e2="29391579.s0.e5" id="29391579.s0.p3" relation="true"/>
+    <pair e1="29391579.s0.e1" e2="29391579.s0.e6" id="29391579.s0.p4" relation="true"/>
+    <pair e1="29391579.s0.e2" e2="29391579.s0.e4" id="29391579.s0.p5" relation="true"/>
+    <pair e1="29391579.s0.e2" e2="29391579.s0.e5" id="29391579.s0.p6" relation="true"/>
+    <pair e1="29391579.s0.e2" e2="29391579.s0.e6" id="29391579.s0.p7" relation="true"/>
+  </sentence>
+</document>

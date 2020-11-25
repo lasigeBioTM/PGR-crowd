@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28361972">
+  <sentence id="28361972.s0" text="Oculopharyngeal muscular dystrophy (poly(A)+ mRNA export from nucleus) is an autosomal dominant, late-onset muscle disorder characterized by ptosis, swallowing difficulties, proximal limb weakness and nuclear aggregates in skeletal muscles.">
+    <entity charOffset="36-69" id="28361972.s0.e0" ontology_id="GO_0016973" text="poly(A)+ mRNA export from nucleus" type="GO"/>
+    <entity charOffset="141-147" id="28361972.s0.e1" ontology_id="HP_0000508" text="ptosis" type="HP"/>
+    <entity charOffset="149-172" id="28361972.s0.e2" ontology_id="HP_0002015" text="swallowing difficulties" type="HP"/>
+  </sentence>
+</document>

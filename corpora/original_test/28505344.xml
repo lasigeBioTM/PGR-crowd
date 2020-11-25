@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28505344">
+  <sentence id="28505344.s0" text="Recent studies have suggested possible therapeutic targets for some patients with early-onset glaucoma based on the molecular and cellular events caused by MYOC, OPTN and protein phosphorylation mutations.">
+    <entity charOffset="94-102" id="28505344.s0.e0" ontology_id="HP_0000501" text="glaucoma" type="HP"/>
+    <entity charOffset="171-194" id="28505344.s0.e1" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <pair e1="28505344.s0.e0" e2="28505344.s0.e1" id="28505344.s0.p0" relation="true"/>
+  </sentence>
+</document>

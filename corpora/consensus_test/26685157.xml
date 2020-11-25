@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="26685157">
+  <sentence id="26685157.s0" text="In a patient with Leigh-like syndrome presenting with leukodystrophy and severe epilepsy, we identified a homozygous splice site mutation in COX8A, which codes for the ubiquitously expressed isoform of subunit generation of precursor metabolites and energy, the smallest nuclear-encoded subunit of complex IV.">
+    <entity charOffset="80-88" id="26685157.s0.e0" ontology_id="HP_0001250" text="epilepsy" type="HP"/>
+    <entity charOffset="210-256" id="26685157.s0.e1" ontology_id="GO_0006091" text="generation of precursor metabolites and energy" type="GO"/>
+  </sentence>
+</document>

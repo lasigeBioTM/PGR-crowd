@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<document id="24597975">
+  <sentence id="24597975.s0" text="Recently, loss-of-function mutations in positive regulation of retrograde protein transport, ER to cytosol were reported in association with severe developmental delay, deafness and dystonia.">
+    <entity charOffset="40-106" id="24597975.s0.e0" ontology_id="GO_1904154" text="positive regulation of retrograde protein transport, ER to cytosol" type="GO"/>
+    <entity charOffset="148-167" id="24597975.s0.e1" ontology_id="HP_0001263" text="developmental delay" type="HP"/>
+    <entity charOffset="169-177" id="24597975.s0.e2" ontology_id="HP_0000365" text="deafness" type="HP"/>
+    <pair e1="24597975.s0.e0" e2="24597975.s0.e1" id="24597975.s0.p0" relation="true"/>
+    <pair e1="24597975.s0.e0" e2="24597975.s0.e2" id="24597975.s0.p1" relation="false"/>
+  </sentence>
+  <sentence id="24597975.s1" text="Remarkably, a patient with an isolated deletion at the 3'-end of creatine transmembrane transport had a similar severe phenotype as seen in positive regulation of retrograde protein transport, ER to cytosol deficiency but without deafness.">
+    <entity charOffset="65-97" id="24597975.s1.e0" ontology_id="GO_0015881" text="creatine transmembrane transport" type="GO"/>
+    <entity charOffset="140-206" id="24597975.s1.e1" ontology_id="GO_1904154" text="positive regulation of retrograde protein transport, ER to cytosol" type="GO"/>
+    <entity charOffset="230-238" id="24597975.s1.e2" ontology_id="HP_0000365" text="deafness" type="HP"/>
+    <pair e1="24597975.s1.e0" e2="24597975.s1.e2" id="24597975.s1.p0" relation="true"/>
+    <pair e1="24597975.s1.e1" e2="24597975.s1.e2" id="24597975.s1.p1" relation="true"/>
+  </sentence>
+</document>

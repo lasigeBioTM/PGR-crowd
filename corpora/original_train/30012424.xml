@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30012424">
+  <sentence id="30012424.s0" text="By combining meta-analysis results and identification of two unrelated HCM patients with homozygous cardiac muscle hypertrophy truncating variants, we suggest that the association of CSRP3 as a validated HCM-causing gene require additional studies and those CSRP3 variants could result in HCM with an autosomal recessive inheritance rather than with an autosomal dominant transmission as usually reported on HCM (OMIM 612124)">
+    <entity charOffset="100-126" id="30012424.s0.e0" ontology_id="GO_0003300" text="cardiac muscle hypertrophy" type="GO"/>
+    <entity charOffset="321-332" id="30012424.s0.e1" ontology_id="HP_0000005" text="inheritance" type="HP"/>
+    <pair e1="30012424.s0.e0" e2="30012424.s0.e1" id="30012424.s0.p0" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="30055288">
+  <sentence id="30055288.s0" text="This review reflects the existing positive regulation of cell-matrix adhesion/ephrin littranscription by RNA polymerase IIture while focusing on breast cancer heterogeneity.">
+    <entity charOffset="34-77" id="30055288.s0.e0" ontology_id="GO_0001954" text="positive regulation of cell-matrix adhesion" type="GO"/>
+    <entity charOffset="88-122" id="30055288.s0.e1" ontology_id="GO_0006366" text="transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="152-158" id="30055288.s0.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="159-172" id="30055288.s0.e3" ontology_id="HP_0001425" text="heterogeneity" type="HP"/>
+    <pair e1="30055288.s0.e0" e2="30055288.s0.e2" id="30055288.s0.p0" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="27737959">
+  <sentence id="27737959.s0" text="Here, we report that biallelic mutations in mitotic chromosome condensation, mitotic chromosome condensation, or mitotic chromosome condensation, encoding subunits of these complexes, cause microcephaly.">
+    <entity charOffset="44-75" id="27737959.s0.e0" ontology_id="GO_0007076" text="mitotic chromosome condensation" type="GO"/>
+    <entity charOffset="77-108" id="27737959.s0.e1" ontology_id="GO_0007076" text="mitotic chromosome condensation" type="GO"/>
+    <entity charOffset="113-144" id="27737959.s0.e2" ontology_id="GO_0007076" text="mitotic chromosome condensation" type="GO"/>
+    <entity charOffset="190-202" id="27737959.s0.e3" ontology_id="HP_0000252" text="microcephaly" type="HP"/>
+    <pair e1="27737959.s0.e0" e2="27737959.s0.e3" id="27737959.s0.p0" relation="true"/>
+    <pair e1="27737959.s0.e1" e2="27737959.s0.e3" id="27737959.s0.p1" relation="true"/>
+    <pair e1="27737959.s0.e2" e2="27737959.s0.e3" id="27737959.s0.p2" relation="true"/>
+  </sentence>
+</document>

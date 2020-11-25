@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<document id="23918659">
+  <sentence id="23918659.s0" text="Mutations in Vps33 isoforms cause pigment dilution in mice (Vps33a, buff) and Drosophila (heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules) and the neurogenic arthrogryposis, renal dysfunction and cholestasis syndrome in humans (mRNA splice site selection1, VPS33B).">
+    <entity charOffset="90-165" id="23918659.s0.e0" ontology_id="GO_0007157" text="heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules" type="GO"/>
+    <entity charOffset="186-200" id="23918659.s0.e1" ontology_id="HP_0002804" text="arthrogryposis" type="HP"/>
+    <entity charOffset="256-282" id="23918659.s0.e2" ontology_id="GO_0006376" text="mRNA splice site selection" type="GO"/>
+    <pair e1="23918659.s0.e1" e2="23918659.s0.e2" id="23918659.s0.p0" relation="true"/>
+  </sentence>
+</document>

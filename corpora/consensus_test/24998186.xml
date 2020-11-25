@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<document id="24998186">
+  <sentence id="24998186.s0" text="We evaluated whether methylation of tumor-suppressor genes (negative regulation of cytokine productions) would classify non-muscle-invasive (inflammatory response) bladder cancer subgroups and predict outcome.">
+    <entity charOffset="36-41" id="24998186.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="60-102" id="24998186.s0.e1" ontology_id="GO_0001818" text="negative regulation of cytokine production" type="GO"/>
+    <entity charOffset="141-162" id="24998186.s0.e2" ontology_id="GO_0006954" text="inflammatory response" type="GO"/>
+    <entity charOffset="172-178" id="24998186.s0.e3" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="24998186.s0.e0" e2="24998186.s0.e2" id="24998186.s0.p0" relation="false"/>
+    <pair e1="24998186.s0.e0" e2="24998186.s0.e1" id="24998186.s0.p1" relation="false"/>
+    <pair e1="24998186.s0.e1" e2="24998186.s0.e3" id="24998186.s0.p2" relation="false"/>
+  </sentence>
+  <sentence id="24998186.s1" text="Methylation of embryonic digestive tract development, CD44, PAX5A, negative regulation of protein kinase activity, IGSF4 (T cell mediated cytotoxicity), PYCARD, CDH13, TP53, and GATA5 classified pTa versus pT1 tumors whereas RARB, CD44, GSTP1, IGSF4, CHFR, PYCARD, TP53, STK11, and GATA5 distinguished LG versus HG tumors.">
+    <entity charOffset="15-52" id="24998186.s1.e0" ontology_id="GO_0048566" text="embryonic digestive tract development" type="GO"/>
+    <entity charOffset="67-113" id="24998186.s1.e1" ontology_id="GO_0006469" text="negative regulation of protein kinase activity" type="GO"/>
+    <entity charOffset="122-150" id="24998186.s1.e2" ontology_id="GO_0001913" text="T cell mediated cytotoxicity" type="GO"/>
+    <entity charOffset="210-215" id="24998186.s1.e3" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="24998186.s1.e0" e2="24998186.s1.e3" id="24998186.s1.p0" relation="false"/>
+    <pair e1="24998186.s1.e1" e2="24998186.s1.e3" id="24998186.s1.p1" relation="true"/>
+    <pair e1="24998186.s1.e2" e2="24998186.s1.e3" id="24998186.s1.p2" relation="true"/>
+  </sentence>
+</document>

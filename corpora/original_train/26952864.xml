@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="26952864">
+  <sentence id="26952864.s0" text="We observed odds ratios (ORs) of 1.7-2.3 for lung cancer (LC; P=4.0 × 10(-4)), chronic obstructive pulmonary disease (intracellular protein transport; P=9.3 × 10(-4)), peripheral artery disease (biological_process; P=0.090) and abdominal aortic aneurysms (AAAs; P=0.12), and the variant associates strongly with the early-onset forms of LC (OR=4.49, P=2.2 × 10(-4)), COPD (OR=3.22, P=2.9 × 10(-4)), PAD (OR=3.47, P=9.2 × 10(-3)) and AAA (OR=6.44, P=6.3 × 10(-3)).">
+    <entity charOffset="50-56" id="26952864.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="118-149" id="26952864.s0.e1" ontology_id="GO_0006886" text="intracellular protein transport" type="GO"/>
+    <entity charOffset="195-213" id="26952864.s0.e2" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="238-254" id="26952864.s0.e3" ontology_id="HP_0004942" text="aortic aneurysms" type="HP"/>
+    <pair e1="26952864.s0.e0" e2="26952864.s0.e1" id="26952864.s0.p0" relation="false"/>
+    <pair e1="26952864.s0.e0" e2="26952864.s0.e2" id="26952864.s0.p1" relation="false"/>
+    <pair e1="26952864.s0.e1" e2="26952864.s0.e3" id="26952864.s0.p2" relation="false"/>
+  </sentence>
+</document>

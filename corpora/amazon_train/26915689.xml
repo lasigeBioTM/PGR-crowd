@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<document id="26915689">
+  <sentence id="26915689.s0" text="Deafness genes, which harbor pathogenic mutations that have been identified in families with hereditary hearing loss, are commonly expressed in the auditory positive regulation of protein phosphorylation organ or the cochlea and may contribute to normal hearing function, yet some of the mouse models carrying these mutations fail to recapitulate the hearing loss phenotype.">
+    <entity charOffset="104-116" id="26915689.s0.e0" ontology_id="HP_0000365" text="hearing loss" type="HP"/>
+    <entity charOffset="157-203" id="26915689.s0.e1" ontology_id="GO_0001934" text="positive regulation of protein phosphorylation" type="GO"/>
+  </sentence>
+  <sentence id="26915689.s1" text="In this study, we cellular response to interleukin-4 that distinct expression patterns of those deafness genes in the cochlea of a non-human primate, the common marmoset (Callithrix jacchus).">
+    <entity charOffset="18-52" id="26915689.s1.e0" ontology_id="GO_0071353" text="cellular response to interleukin-4" type="GO"/>
+    <entity charOffset="96-104" id="26915689.s1.e1" ontology_id="HP_0000365" text="deafness" type="HP"/>
+  </sentence>
+  <sentence id="26915689.s2" text="The deafness genes in utero embryonic development, CRYM, epidermis development, DFNA5, and ossification were expressed in marmoset cochleae in patterns different from those in mouse cochleae.">
+    <entity charOffset="4-12" id="26915689.s2.e0" ontology_id="HP_0000365" text="deafness" type="HP"/>
+    <entity charOffset="19-49" id="26915689.s2.e1" ontology_id="GO_0001701" text="in utero embryonic development" type="GO"/>
+    <entity charOffset="57-78" id="26915689.s2.e2" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="91-103" id="26915689.s2.e3" ontology_id="GO_0001503" text="ossification" type="GO"/>
+    <pair e1="26915689.s2.e0" e2="26915689.s2.e1" id="26915689.s2.p0" relation="true"/>
+    <pair e1="26915689.s2.e0" e2="26915689.s2.e2" id="26915689.s2.p1" relation="true"/>
+    <pair e1="26915689.s2.e0" e2="26915689.s2.e3" id="26915689.s2.p2" relation="true"/>
+  </sentence>
+</document>

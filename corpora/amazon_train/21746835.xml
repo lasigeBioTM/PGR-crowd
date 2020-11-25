@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="21746835">
+  <sentence id="21746835.s0" text="The authors report here a brief summary of findings from 12 lines of genetically engineered epidermis development that presented with autosomal recessive congenital hydrocephalus.">
+    <entity charOffset="92-113" id="21746835.s0.e0" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="134-153" id="21746835.s0.e1" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="165-178" id="21746835.s0.e2" ontology_id="HP_0000238" text="hydrocephalus" type="HP"/>
+    <pair e1="21746835.s0.e0" e2="21746835.s0.e2" id="21746835.s0.p0" relation="true"/>
+    <pair e1="21746835.s0.e0" e2="21746835.s0.e1" id="21746835.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="21746835.s1" text="Even though the direct relevance of mouse models to hydrocephalus in humans remains uncertain, the high prevalence of familial patterns of inheritance for congenital hydrocephalus in humans suggests that identification of genes responsible for development of hydrocephalus in epidermis development may lead to the identification of homologous modifier genes and susceptibility alleles in humans.">
+    <entity charOffset="52-65" id="21746835.s1.e0" ontology_id="HP_0000238" text="hydrocephalus" type="HP"/>
+    <entity charOffset="276-297" id="21746835.s1.e1" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+  </sentence>
+</document>

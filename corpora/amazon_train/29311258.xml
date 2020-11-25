@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="29311258">
+  <sentence id="29311258.s0" text="cDNA-encoded FLAG-tagged human wildtype cellular iron ion homeostasis (&lt;i&gt;a&lt;/i&gt;2) and ossification (&lt;i&gt;a&lt;/i&gt;4) subunits and their mutants, &lt;i&gt;a&lt;/i&gt;2&lt;sup&gt;P405L&lt;/sup&gt; (causing cutis laxa), and &lt;i&gt;a&lt;/i&gt;4&lt;sup&gt;R449H&lt;/sup&gt; and &lt;i&gt;a&lt;/i&gt;4&lt;sup&gt;G820R&lt;/sup&gt; (causing renal tubular acidosis, dRTA), were transiently expressed in peptidyl-tyrosine phosphorylation 293 cells.">
+    <entity charOffset="40-69" id="29311258.s0.e0" ontology_id="GO_0006879" text="cellular iron ion homeostasis" type="GO"/>
+    <entity charOffset="86-98" id="29311258.s0.e1" ontology_id="GO_0001503" text="ossification" type="GO"/>
+    <entity charOffset="256-278" id="29311258.s0.e2" ontology_id="HP_0001947" text="renal tubular acidosis" type="HP"/>
+    <entity charOffset="317-350" id="29311258.s0.e3" ontology_id="GO_0018108" text="peptidyl-tyrosine phosphorylation" type="GO"/>
+    <pair e1="29311258.s0.e0" e2="29311258.s0.e2" id="29311258.s0.p0" relation="true"/>
+    <pair e1="29311258.s0.e1" e2="29311258.s0.e2" id="29311258.s0.p1" relation="true"/>
+    <pair e1="29311258.s0.e2" e2="29311258.s0.e3" id="29311258.s0.p2" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<document id="30126206">
+  <sentence id="30126206.s0" text="We here report that (-)-epigallocatechin gallate (EGCG) inhibited programmed cell death ligand 1 (PD-L1) expression in non⁻small-cell lung cancer cells, induced by both interferon (IFN)-γ and epidermal growth factor (angiogenesis).">
+    <entity charOffset="139-145" id="30126206.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="217-229" id="30126206.s0.e1" ontology_id="GO_0001525" text="angiogenesis" type="GO"/>
+    <pair e1="30126206.s0.e0" e2="30126206.s0.e1" id="30126206.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="30126206.s1" text="Furthermore, 0.3% GTE in drinking water reduced the average number of tumors per mouse from 4.1 ± 0.5 to 2.6 ± 0.4 and the percentage of PD-L1 positive cells from 9.6% to 2.9%, a decrease of 70%, in lung tumors of A/J epidermis development given a single intraperitoneal injection of 4-(methylnitrosamino)-1-(3-pyridyl)-1-butanone (NNK).">
+    <entity charOffset="70-76" id="30126206.s1.e0" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <entity charOffset="218-239" id="30126206.s1.e1" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <pair e1="30126206.s1.e0" e2="30126206.s1.e1" id="30126206.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="30126206.s2" text="In co-culture exGPI anchor metabolic processiments using F10-OVA melanoma cells and tumor-specific CD3+ T cells, EGCG reduced &lt;i&gt;PD-L1&lt;/i&gt; mRNA expression about 30% in F10-OVA cells and restored &lt;i&gt;interleukin-2&lt;/i&gt; mRNA expression in tumor-specific CD3+ T cells.">
+    <entity charOffset="16-44" id="30126206.s2.e0" ontology_id="GO_0006505" text="GPI anchor metabolic process" type="GO"/>
+    <entity charOffset="84-89" id="30126206.s2.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+  </sentence>
+</document>

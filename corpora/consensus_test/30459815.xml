@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30459815">
+  <sentence id="30459815.s0" text="Analysis of clinical samples of oral cancer found a strong correlation of these genes with short survival, especially transforming growth factor beta receptor signaling pathway expression associated with metastasis.">
+    <entity charOffset="37-43" id="30459815.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="118-176" id="30459815.s0.e1" ontology_id="GO_0007179" text="transforming growth factor beta receptor signaling pathway" type="GO"/>
+    <pair e1="30459815.s0.e0" e2="30459815.s0.e1" id="30459815.s0.p0" relation="true"/>
+  </sentence>
+</document>

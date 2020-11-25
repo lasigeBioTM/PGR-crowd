@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<document id="19526372">
+  <sentence id="19526372.s0" text="The membrane-type frizzled-related protein (embryo development ending in birth or egg hatching) is the only gene so far reported implicated in autosomal recessive, non-syndromic and syndromic forms of PM.">
+    <entity charOffset="44-94" id="19526372.s0.e0" ontology_id="GO_0009792" text="embryo development ending in birth or egg hatching" type="GO"/>
+    <entity charOffset="143-162" id="19526372.s0.e1" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <pair e1="19526372.s0.e0" e2="19526372.s0.e1" id="19526372.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="19526372.s1" text="To identify the disease-causing defect in these families, we first analysed MFRP gene, then some candidate genes (regulation of transcription by RNA polymerase II, transcription initiation from RNA polymerase II promoter, positive regulation of gene expression, SOX2, visual perception-3 and visual perception) and loci (MCOP1, NNO1 and NNO2) previously implicated in different forms of microphthalmia.">
+    <entity charOffset="114-162" id="19526372.s1.e0" ontology_id="GO_0006357" text="regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="164-220" id="19526372.s1.e1" ontology_id="GO_0006367" text="transcription initiation from RNA polymerase II promoter" type="GO"/>
+    <entity charOffset="222-260" id="19526372.s1.e2" ontology_id="GO_0010628" text="positive regulation of gene expression" type="GO"/>
+    <entity charOffset="268-285" id="19526372.s1.e3" ontology_id="GO_0007601" text="visual perception" type="GO"/>
+    <entity charOffset="292-309" id="19526372.s1.e4" ontology_id="GO_0007601" text="visual perception" type="GO"/>
+    <entity charOffset="387-401" id="19526372.s1.e5" ontology_id="HP_0000568" text="microphthalmia" type="HP"/>
+    <pair e1="19526372.s1.e0" e2="19526372.s1.e5" id="19526372.s1.p0" relation="true"/>
+    <pair e1="19526372.s1.e1" e2="19526372.s1.e5" id="19526372.s1.p1" relation="false"/>
+    <pair e1="19526372.s1.e2" e2="19526372.s1.e5" id="19526372.s1.p2" relation="true"/>
+    <pair e1="19526372.s1.e3" e2="19526372.s1.e5" id="19526372.s1.p3" relation="false"/>
+    <pair e1="19526372.s1.e4" e2="19526372.s1.e5" id="19526372.s1.p4" relation="false"/>
+  </sentence>
+</document>

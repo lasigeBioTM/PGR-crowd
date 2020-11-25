@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="23379998">
+  <sentence id="23379998.s0" text="Recent advances in whole exome sequencing technology show promise for further elucidation of disease causing variants as in the recent identification of rare variants within regulation of transcription by RNA polymerase II segregating with pathological myopia.">
+    <entity charOffset="174-222" id="23379998.s0.e0" ontology_id="GO_0006357" text="regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="253-259" id="23379998.s0.e1" ontology_id="HP_0000545" text="myopia" type="HP"/>
+    <pair e1="23379998.s0.e0" e2="23379998.s0.e1" id="23379998.s0.p0" relation="true"/>
+  </sentence>
+</document>

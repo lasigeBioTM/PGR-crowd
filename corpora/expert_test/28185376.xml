@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28185376">
+  <sentence id="28185376.s0" text="Individuals had microcephaly, developmental delay, epilepsy, and recessive mutations in mitochondrial tRNA modification.">
+    <entity charOffset="51-59" id="28185376.s0.e0" ontology_id="HP_0001250" text="epilepsy" type="HP"/>
+    <entity charOffset="88-119" id="28185376.s0.e1" ontology_id="GO_0070900" text="mitochondrial tRNA modification" type="GO"/>
+    <pair e1="28185376.s0.e0" e2="28185376.s0.e1" id="28185376.s0.p0" relation="true"/>
+  </sentence>
+</document>

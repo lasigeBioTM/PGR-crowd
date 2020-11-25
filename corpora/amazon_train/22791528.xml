@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="22791528">
+  <sentence id="22791528.s0" text="In the last 10 years, the primary cilia machinery has been implicated in more than a dozen disorders united as ciliopathies, including skeletal dysplasias, such as Jeune syndrome and short rib-polydactyly muscle organ development III.">
+    <entity charOffset="135-154" id="22791528.s0.e0" ontology_id="HP_0002652" text="skeletal dysplasias" type="HP"/>
+    <entity charOffset="205-229" id="22791528.s0.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+  </sentence>
+  <sentence id="22791528.s1" text="In this review, we focus on skeletal conditions belonging to the ciliopathy group: the short rib-polydactyly group (muscle contractions) that includes Verma-Naumoff syndrome (SRP muscle organ development III), Majewski syndrome (SRP type II), Jeune syndrome (ATD), as well as Ellis-van Creveld syndrome (endochondral bone growth), the Sensenbrenner syndrome, and, finally, Weyers acrofacial dysostosis.">
+    <entity charOffset="97-108" id="22791528.s1.e0" ontology_id="HP_0010442" text="polydactyly" type="HP"/>
+    <entity charOffset="116-134" id="22791528.s1.e1" ontology_id="GO_0006936" text="muscle contraction" type="GO"/>
+    <entity charOffset="179-203" id="22791528.s1.e2" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="304-328" id="22791528.s1.e3" ontology_id="GO_0003416" text="endochondral bone growth" type="GO"/>
+    <pair e1="22791528.s1.e0" e2="22791528.s1.e1" id="22791528.s1.p0" relation="true"/>
+  </sentence>
+</document>

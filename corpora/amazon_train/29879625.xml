@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<document id="29879625">
+  <sentence id="29879625.s0" text="MicroRNAs (protein polyubiquitinationNAs) are identified as key regulators in cancer initiation, progression and metastasis including gastric cancer (GC).">
+    <entity charOffset="11-37" id="29879625.s0.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="78-84" id="29879625.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+  </sentence>
+  <sentence id="29879625.s1" text="Furthermore, lower protein polyubiquitination-129-5p expression closely associated with tumor size and lymph node invasion and poor prognosis of GC patients.">
+    <entity charOffset="19-45" id="29879625.s1.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="88-93" id="29879625.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+  </sentence>
+  <sentence id="29879625.s2" text="In vivo, upregulation of protein polyubiquitination-129-5p also inhibited tumor growth.">
+    <entity charOffset="25-51" id="29879625.s2.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="74-79" id="29879625.s2.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+  </sentence>
+  <sentence id="29879625.s3" text="Therefore, these results indicated that protein polyubiquitination-129-5p functioned as a tumor suppressor in GC and may be a potential target of GC treatment">
+    <entity charOffset="40-66" id="29879625.s3.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="90-95" id="29879625.s3.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29879625.s3.e0" e2="29879625.s3.e1" id="29879625.s3.p0" relation="true"/>
+  </sentence>
+</document>

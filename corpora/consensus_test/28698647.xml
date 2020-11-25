@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<document id="28698647">
+  <sentence id="28698647.s0" text="protein polyubiquitination potentially controls cancer metastasis through regulation of negative regulation of retrograde protein transport, ER to cytosol levels.">
+    <entity charOffset="0-26" id="28698647.s0.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="48-54" id="28698647.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="88-154" id="28698647.s0.e2" ontology_id="GO_1904153" text="negative regulation of retrograde protein transport, ER to cytosol" type="GO"/>
+    <pair e1="28698647.s0.e0" e2="28698647.s0.e1" id="28698647.s0.p0" relation="true"/>
+    <pair e1="28698647.s0.e1" e2="28698647.s0.e2" id="28698647.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="28698647.s1" text="Loss of protein polyubiquitination was also detected in primary tumours and it was highly associated with prognostic factors including high Gleason score, clinical stage, prostate-specific antigen (plasminogen activation) and extent of disease, as well as poor patient survival, suggesting that FBXL4 loss contributes to prostate cancer progression.">
+    <entity charOffset="8-34" id="28698647.s1.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="198-220" id="28698647.s1.e1" ontology_id="GO_0031639" text="plasminogen activation" type="GO"/>
+    <entity charOffset="330-336" id="28698647.s1.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28698647.s1.e0" e2="28698647.s1.e2" id="28698647.s1.p0" relation="true"/>
+    <pair e1="28698647.s1.e1" e2="28698647.s1.e2" id="28698647.s1.p1" relation="false"/>
+  </sentence>
+</document>

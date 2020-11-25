@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="29777712">
+  <sentence id="29777712.s0" text="In the present study, our results indicated that proteasome-mediated ubiquitin-dependent protein catabolic process expression was significantly downregulated in phosphatidylinositol phosphorylation and was associated with tumor size, differentiation and metastasis.">
+    <entity charOffset="49-114" id="29777712.s0.e0" ontology_id="GO_0043161" text="proteasome-mediated ubiquitin-dependent protein catabolic process" type="GO"/>
+    <entity charOffset="161-197" id="29777712.s0.e1" ontology_id="GO_0046854" text="phosphatidylinositol phosphorylation" type="GO"/>
+    <entity charOffset="222-227" id="29777712.s0.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29777712.s0.e0" e2="29777712.s0.e2" id="29777712.s0.p0" relation="false"/>
+    <pair e1="29777712.s0.e1" e2="29777712.s0.e2" id="29777712.s0.p1" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<document id="29659569">
+  <sentence id="29659569.s0" text="We found monoallelic truncating/functionally deleterious mutations in seven genes, including protein phosphorylation and regulation of transcription, DNA-templated, which have previously been associated with PrCa predisposition, and five new candidate PrCa associated genes involved in cancer predisposing recessive disorders, namely DNA repair, response to gamma radiation, positive regulation of protein ubiquitination, fibroblast growth factor receptor signaling pathway and RECQL4.">
+    <entity charOffset="93-116" id="29659569.s0.e0" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <entity charOffset="121-163" id="29659569.s0.e1" ontology_id="GO_0006355" text="regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="286-292" id="29659569.s0.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="334-344" id="29659569.s0.e3" ontology_id="GO_0006281" text="DNA repair" type="GO"/>
+    <entity charOffset="346-373" id="29659569.s0.e4" ontology_id="GO_0010332" text="response to gamma radiation" type="GO"/>
+    <entity charOffset="375-420" id="29659569.s0.e5" ontology_id="GO_0031398" text="positive regulation of protein ubiquitination" type="GO"/>
+    <entity charOffset="422-473" id="29659569.s0.e6" ontology_id="GO_0008543" text="fibroblast growth factor receptor signaling pathway" type="GO"/>
+    <pair e1="29659569.s0.e0" e2="29659569.s0.e2" id="29659569.s0.p0" relation="true"/>
+    <pair e1="29659569.s0.e1" e2="29659569.s0.e2" id="29659569.s0.p1" relation="true"/>
+    <pair e1="29659569.s0.e2" e2="29659569.s0.e3" id="29659569.s0.p2" relation="true"/>
+    <pair e1="29659569.s0.e2" e2="29659569.s0.e4" id="29659569.s0.p3" relation="true"/>
+    <pair e1="29659569.s0.e2" e2="29659569.s0.e5" id="29659569.s0.p4" relation="true"/>
+    <pair e1="29659569.s0.e2" e2="29659569.s0.e6" id="29659569.s0.p5" relation="true"/>
+  </sentence>
+  <sentence id="29659569.s1" text="Furthermore, using in silico pathogenicity prediction of missense variants among 18 genes associated with breast/ovarian cancer and/or Lynch syndrome, followed by KASP genotyping in 710 healthy controls, we identified &amp;quot;likely pathogenic&amp;quot; missense variants in protein phosphorylation, mitochondrial translational elongation, regulation of transcription, DNA-templated and TP53.">
+    <entity charOffset="121-127" id="29659569.s1.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="269-292" id="29659569.s1.e1" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <entity charOffset="294-332" id="29659569.s1.e2" ontology_id="GO_0070125" text="mitochondrial translational elongation" type="GO"/>
+    <entity charOffset="334-376" id="29659569.s1.e3" ontology_id="GO_0006355" text="regulation of transcription, DNA-templated" type="GO"/>
+    <pair e1="29659569.s1.e0" e2="29659569.s1.e1" id="29659569.s1.p0" relation="true"/>
+    <pair e1="29659569.s1.e0" e2="29659569.s1.e3" id="29659569.s1.p1" relation="true"/>
+    <pair e1="29659569.s1.e0" e2="29659569.s1.e2" id="29659569.s1.p2" relation="true"/>
+  </sentence>
+</document>

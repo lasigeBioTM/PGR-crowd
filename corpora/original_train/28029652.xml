@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="28029652">
+  <sentence id="28029652.s0" text="A putative tumor suppressor outer dynein arm assembly mapped on the chromosomal 3p21 region, is frequently lost in human tumors including nasopharyngeal carcinoma (NPC).">
+    <entity charOffset="11-16" id="28029652.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="28-53" id="28029652.s0.e1" ontology_id="GO_0036158" text="outer dynein arm assembly" type="GO"/>
+    <pair e1="28029652.s0.e0" e2="28029652.s0.e1" id="28029652.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="28029652.s1" text="To explore the underlying mechanism of tumor suppression by BLU, its potential to promote apoptosis induced by positive regulation of apoptotic process, an effector molecule elaborated by natural killer-T (NKT) cells was investigated.">
+    <entity charOffset="39-44" id="28029652.s1.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="111-151" id="28029652.s1.e1" ontology_id="GO_0043065" text="positive regulation of apoptotic process" type="GO"/>
+    <pair e1="28029652.s1.e0" e2="28029652.s1.e1" id="28029652.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="28029652.s2" text="In conclusion, outer dynein arm assembly suppressed tumor formation by strengthening the antitumor immunity">
+    <entity charOffset="15-40" id="28029652.s2.e0" ontology_id="GO_0036158" text="outer dynein arm assembly" type="GO"/>
+    <entity charOffset="52-57" id="28029652.s2.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28029652.s2.e0" e2="28029652.s2.e1" id="28029652.s2.p0" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="21855232">
+  <sentence id="21855232.s0" text="This finding expands the lists of the phosphorylation-positive tumors, and ALK-positive extramedullary plasmacytoma may benefit from the treatment of ALK inhibitor in the future">
+    <entity charOffset="38-53" id="21855232.s0.e0" ontology_id="GO_0016310" text="phosphorylation" type="GO"/>
+    <entity charOffset="63-69" id="21855232.s0.e1" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <entity charOffset="103-115" id="21855232.s0.e2" ontology_id="HP_0011857" text="plasmacytoma" type="HP"/>
+    <pair e1="21855232.s0.e0" e2="21855232.s0.e1" id="21855232.s0.p0" relation="true"/>
+    <pair e1="21855232.s0.e0" e2="21855232.s0.e2" id="21855232.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="21855232.s1" text="We studied 46 cases of extramedullary plasmacytoma by immunostaining with anti-phosphorylation antibody and fluorescence in situ hybridization (FISH) analysis using an ALK break-apart probe and found one case to be ALK protein-positive and demonstrated the disruption of the ALK gene in this case.">
+    <entity charOffset="38-50" id="21855232.s1.e0" ontology_id="HP_0011857" text="plasmacytoma" type="HP"/>
+    <entity charOffset="79-94" id="21855232.s1.e1" ontology_id="GO_0016310" text="phosphorylation" type="GO"/>
+    <pair e1="21855232.s1.e0" e2="21855232.s1.e1" id="21855232.s1.p0" relation="false"/>
+  </sentence>
+</document>

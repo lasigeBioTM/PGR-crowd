@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27666346">
+  <sentence id="27666346.s0" text="positive regulation of protein secretion antibodies were used to probe 78 paraffin-embedded specimens of tongue squamous cell carcinoma and 15 normal tongue tissues, which served as controls.">
+    <entity charOffset="0-40" id="27666346.s0.e0" ontology_id="GO_0050714" text="positive regulation of protein secretion" type="GO"/>
+    <entity charOffset="112-135" id="27666346.s0.e1" ontology_id="HP_0002860" text="squamous cell carcinoma" type="HP"/>
+    <pair e1="27666346.s0.e0" e2="27666346.s0.e1" id="27666346.s0.p0" relation="false"/>
+  </sentence>
+</document>

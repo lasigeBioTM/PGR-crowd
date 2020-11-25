@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="21412954">
+  <sentence id="21412954.s0" text="Hereditary hypotrichosis simplex (protein O-linked glycosylation via serine) is a form of nonsyndromic inherited hair loss disorders without characteristic hair shaft changes, which has marked genetic and clinical heterogeneity.">
+    <entity charOffset="11-24" id="21412954.s0.e0" ontology_id="HP_0001006" text="hypotrichosis" type="HP"/>
+    <entity charOffset="34-75" id="21412954.s0.e1" ontology_id="GO_0018242" text="protein O-linked glycosylation via serine" type="GO"/>
+    <entity charOffset="214-227" id="21412954.s0.e2" ontology_id="HP_0001425" text="heterogeneity" type="HP"/>
+    <pair e1="21412954.s0.e0" e2="21412954.s0.e1" id="21412954.s0.p0" relation="false"/>
+    <pair e1="21412954.s0.e1" e2="21412954.s0.e2" id="21412954.s0.p1" relation="false"/>
+  </sentence>
+</document>

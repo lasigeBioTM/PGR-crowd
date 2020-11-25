@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="29899443">
+  <sentence id="29899443.s0" text="We obtained cryo-electron microscopy structures of an activated filament that is allosterically induced by citrate (ACC-citrate), and an inactivated filament form that results from binding of the BRCT domains of the breast cancer muscle organ development 1 susceptibility protein (BRCA1).">
+    <entity charOffset="223-229" id="29899443.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="230-254" id="29899443.s0.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+  </sentence>
+</document>

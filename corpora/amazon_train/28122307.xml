@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<document id="28122307">
+  <sentence id="28122307.s0" text="Hepatocellular carcinoma related protein 1 (ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway), which is essential for internalization and degradation of ubiquitinated membrane receptors, is downregulated in several tumors and strongly affects the outcomes of cancer patients.">
+    <entity charOffset="44-133" id="28122307.s0.e0" ontology_id="GO_0043162" text="ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway" type="GO"/>
+    <entity charOffset="256-262" id="28122307.s0.e1" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <entity charOffset="300-306" id="28122307.s0.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28122307.s0.e0" e2="28122307.s0.e1" id="28122307.s0.p0" relation="true"/>
+    <pair e1="28122307.s0.e0" e2="28122307.s0.e2" id="28122307.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="28122307.s1" text="It is reported the expression of ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway is inversely related to epidermal growth factor receptor (EGFR) in breast cancer and lead to resistance to cetuximab in ovarian cancer.">
+    <entity charOffset="33-122" id="28122307.s1.e0" ontology_id="GO_0043162" text="ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway" type="GO"/>
+    <entity charOffset="197-203" id="28122307.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28122307.s1.e0" e2="28122307.s1.e1" id="28122307.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="28122307.s2" text="ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway expression was significantly related to age (P=0.017), pathological grade (P=0.003), tumor encapsulation (P=0.037), recurrence (P=0.039) and death (P=0.015), but unrelated to cirrhosis (P=0.216), tumor size (P=0.273), and distant metastasis (P=0.554).">
+    <entity charOffset="0-89" id="28122307.s2.e0" ontology_id="GO_0043162" text="ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway" type="GO"/>
+    <entity charOffset="175-180" id="28122307.s2.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28122307.s2.e0" e2="28122307.s2.e1" id="28122307.s2.p0" relation="true"/>
+  </sentence>
+</document>

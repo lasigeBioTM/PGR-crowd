@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="26310313">
+  <sentence id="26310313.s0" text="Genome-wide association studies have identified loci at 15q25 (iron ion transport) and 4q22 (regulation of small GTPase mediated signal transduction), associated with lung cancer (LC) and chronic obstructive pulmonary disease (intracellular protein transport).">
+    <entity charOffset="63-81" id="26310313.s0.e0" ontology_id="GO_0006826" text="iron ion transport" type="GO"/>
+    <entity charOffset="93-148" id="26310313.s0.e1" ontology_id="GO_0051056" text="regulation of small GTPase mediated signal transduction" type="GO"/>
+    <entity charOffset="172-178" id="26310313.s0.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="227-258" id="26310313.s0.e3" ontology_id="GO_0006886" text="intracellular protein transport" type="GO"/>
+    <pair e1="26310313.s0.e0" e2="26310313.s0.e2" id="26310313.s0.p0" relation="false"/>
+    <pair e1="26310313.s0.e1" e2="26310313.s0.e2" id="26310313.s0.p1" relation="false"/>
+    <pair e1="26310313.s0.e2" e2="26310313.s0.e3" id="26310313.s0.p2" relation="false"/>
+  </sentence>
+</document>

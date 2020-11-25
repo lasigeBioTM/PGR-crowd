@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<document id="21746835">
+  <sentence id="21746835.s0" text="For example, the cerebellar malformations observed in RIKEN 4930444A02 knockout epidermis development show similarities to a number of developmental disorders, such as Joubert, Meckel-Gruber, and Bardet-Biedl syndromes, which involve mutations in cilia-related genes.">
+    <entity charOffset="17-41" id="21746835.s0.e0" ontology_id="HP_0002438" text="cerebellar malformations" type="HP"/>
+    <entity charOffset="80-101" id="21746835.s0.e1" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+  </sentence>
+  <sentence id="21746835.s1" text="This study illustrates the value of knockout epidermis development in identifying genetic factors involved in the development of congenital hydrocephalus.">
+    <entity charOffset="45-66" id="21746835.s1.e0" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="140-153" id="21746835.s1.e1" ontology_id="HP_0000238" text="hydrocephalus" type="HP"/>
+  </sentence>
+</document>

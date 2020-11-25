@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="24027063">
+  <sentence id="24027063.s0" text="PHARC (polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataracts) is a recently described autosomal-recessive neurodegenerative disease caused by mutations in the α-β-hydrolase domain-containing 12 gene (phosphatidylserine catabolic process).">
+    <entity charOffset="23-35" id="24027063.s0.e0" ontology_id="HP_0000365" text="hearing loss" type="HP"/>
+    <entity charOffset="37-43" id="24027063.s0.e1" ontology_id="HP_0001251" text="ataxia" type="HP"/>
+    <entity charOffset="71-80" id="24027063.s0.e2" ontology_id="HP_0000518" text="cataracts" type="HP"/>
+    <entity charOffset="126-151" id="24027063.s0.e3" ontology_id="HP_0002180" text="neurodegenerative disease" type="HP"/>
+    <entity charOffset="220-256" id="24027063.s0.e4" ontology_id="GO_0006660" text="phosphatidylserine catabolic process" type="GO"/>
+    <pair e1="24027063.s0.e0" e2="24027063.s0.e4" id="24027063.s0.p0" relation="true"/>
+    <pair e1="24027063.s0.e1" e2="24027063.s0.e4" id="24027063.s0.p1" relation="true"/>
+    <pair e1="24027063.s0.e2" e2="24027063.s0.e4" id="24027063.s0.p2" relation="true"/>
+    <pair e1="24027063.s0.e3" e2="24027063.s0.e4" id="24027063.s0.p3" relation="true"/>
+  </sentence>
+</document>

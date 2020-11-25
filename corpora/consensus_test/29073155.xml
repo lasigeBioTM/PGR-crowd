@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="29073155">
+  <sentence id="29073155.s0" text="DNA was extracted from paraffin-embedded tumor specimens from the patients and peripheral blood lymphocytes from the controls and used for regulation of cysteine-type endopeptidase activity/fat cell differentiation genotyping.">
+    <entity charOffset="41-46" id="29073155.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="139-189" id="29073155.s0.e1" ontology_id="GO_2000116" text="regulation of cysteine-type endopeptidase activity" type="GO"/>
+    <entity charOffset="190-214" id="29073155.s0.e2" ontology_id="GO_0045444" text="fat cell differentiation" type="GO"/>
+    <pair e1="29073155.s0.e0" e2="29073155.s0.e1" id="29073155.s0.p0" relation="true"/>
+    <pair e1="29073155.s0.e0" e2="29073155.s0.e2" id="29073155.s0.p1" relation="true"/>
+  </sentence>
+</document>

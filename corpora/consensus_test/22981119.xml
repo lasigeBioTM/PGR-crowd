@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="22981119">
+  <sentence id="22981119.s0" text="We show that genetic defects in visual perception cause moderate-to-severe sensorineural hearing impairment.">
+    <entity charOffset="32-49" id="22981119.s0.e0" ontology_id="GO_0007601" text="visual perception" type="GO"/>
+    <entity charOffset="89-107" id="22981119.s0.e1" ontology_id="HP_0000365" text="hearing impairment" type="HP"/>
+    <pair e1="22981119.s0.e0" e2="22981119.s0.e1" id="22981119.s0.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30257380">
+  <sentence id="30257380.s0" text="Our present study confirmed radiation can promote the in vitro migration and invasion of triple negative breast cancer (TNBC) cells and increase the expression of epithelial-mesenchymal transition (EMT) related transcription factor ZEB1, while had no effect on Snail, negative regulation of transcription by RNA polymerase II or Twist.">
+    <entity charOffset="112-118" id="30257380.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="268-325" id="30257380.s0.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="30257380.s0.e0" e2="30257380.s0.e1" id="30257380.s0.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="22753417">
+  <sentence id="22753417.s0" text="Hyperekplexia or startle disease is characterized by an exaggerated startle response, evoked by cell-matrix adhesion or auditory stimuli, producing hypertonia and apnea episodes.">
+    <entity charOffset="96-116" id="22753417.s0.e0" ontology_id="GO_0007160" text="cell-matrix adhesion" type="GO"/>
+    <entity charOffset="148-158" id="22753417.s0.e1" ontology_id="HP_0001276" text="hypertonia" type="HP"/>
+  </sentence>
+</document>

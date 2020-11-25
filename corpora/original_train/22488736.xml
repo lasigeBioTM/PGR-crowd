@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="22488736">
+  <sentence id="22488736.s0" text="He has similar clinical findings, including mild facial dysmorphisms and intellectual disability, as other individuals with much larger deletions of the terminus of the long cilium assembly of chromosome 14.">
+    <entity charOffset="73-96" id="22488736.s0.e0" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <entity charOffset="174-189" id="22488736.s0.e1" ontology_id="GO_0060271" text="cilium assembly" type="GO"/>
+    <pair e1="22488736.s0.e0" e2="22488736.s0.e1" id="22488736.s0.p0" relation="true"/>
+  </sentence>
+</document>

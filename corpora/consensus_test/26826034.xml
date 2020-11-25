@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="26826034">
+  <sentence id="26826034.s0" text="This is especially relevant in the context of the aerobic glycolysis, also known as the Warburg effect, which is a hallmark in many muscle organ developments of cancer, and MPC loss of function promotes cancer growth.">
+    <entity charOffset="132-156" id="26826034.s0.e0" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="161-167" id="26826034.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+  </sentence>
+</document>

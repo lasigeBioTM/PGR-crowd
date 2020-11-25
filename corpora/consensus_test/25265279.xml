@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="25265279">
+  <sentence id="25265279.s0" text="Downregulation of osteoblast differentiation, Gli2, Gli3 and negative regulation of smoothened signaling pathway was demonstrated in clinical samples of choriocarcinoma and hydatidiform moles as well as choriocarcinoma cell lines when compared with normal placentas.">
+    <entity charOffset="18-44" id="25265279.s0.e0" ontology_id="GO_0001649" text="osteoblast differentiation" type="GO"/>
+    <entity charOffset="61-112" id="25265279.s0.e1" ontology_id="GO_0045879" text="negative regulation of smoothened signaling pathway" type="GO"/>
+    <entity charOffset="153-168" id="25265279.s0.e2" ontology_id="HP_0100768" text="choriocarcinoma" type="HP"/>
+    <pair e1="25265279.s0.e0" e2="25265279.s0.e2" id="25265279.s0.p0" relation="true"/>
+    <pair e1="25265279.s0.e1" e2="25265279.s0.e2" id="25265279.s0.p1" relation="true"/>
+  </sentence>
+</document>

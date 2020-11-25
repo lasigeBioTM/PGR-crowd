@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29339498">
+  <sentence id="29339498.s0" text="This mutation was also found in a second unrelated family with the same clinical phenotype, while no germline or somatic &lt;i&gt;inflammatory response&lt;/i&gt; mutations were identified in nine patients with sporadic insulinomatosis.">
+    <entity charOffset="124-145" id="29339498.s0.e0" ontology_id="GO_0006954" text="inflammatory response" type="GO"/>
+    <entity charOffset="198-206" id="29339498.s0.e1" ontology_id="HP_0003745" text="sporadic" type="HP"/>
+    <pair e1="29339498.s0.e0" e2="29339498.s0.e1" id="29339498.s0.p0" relation="true"/>
+  </sentence>
+</document>

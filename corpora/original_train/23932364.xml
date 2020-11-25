@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<document id="23932364">
+  <sentence id="23932364.s0" text="The Rb tumor suppressor gene performs a critical role in controlling cell proliferation and tumorigenesis; it recruits negative regulation of transcription by RNA polymerase II protein into the E2F complexes to repress transcription.">
+    <entity charOffset="7-12" id="23932364.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="119-176" id="23932364.s0.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="23932364.s0.e0" e2="23932364.s0.e1" id="23932364.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="23932364.s1" text="In this study, we demonstrate that mRNA splicing, via spliceosome, RB and negative regulation of transcription by RNA polymerase II were significantly expressed in same lung cancer tissues in a tissue microarray (TMA) containing 300 non-small cell lung cancers (NSCLC).">
+    <entity charOffset="35-65" id="23932364.s1.e0" ontology_id="GO_0000398" text="mRNA splicing, via spliceosome" type="GO"/>
+    <entity charOffset="74-131" id="23932364.s1.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="174-180" id="23932364.s1.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="23932364.s1.e0" e2="23932364.s1.e2" id="23932364.s1.p0" relation="false"/>
+    <pair e1="23932364.s1.e1" e2="23932364.s1.e2" id="23932364.s1.p1" relation="false"/>
+  </sentence>
+  <sentence id="23932364.s2" text="High expression level of mRNA splicing, via spliceosome in tumor patients was significantly correlated with poor prognosis in NSCLC (log-rank P for OS = 0.01, log-rank P for DFS = 0.001).">
+    <entity charOffset="25-55" id="23932364.s2.e0" ontology_id="GO_0000398" text="mRNA splicing, via spliceosome" type="GO"/>
+    <entity charOffset="59-64" id="23932364.s2.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="23932364.s2.e0" e2="23932364.s2.e1" id="23932364.s2.p0" relation="false"/>
+  </sentence>
+  <sentence id="23932364.s3" text="Knockdown of mRNA splicing, via spliceosome reduced colony formation ability of lung cancer cells.">
+    <entity charOffset="13-43" id="23932364.s3.e0" ontology_id="GO_0000398" text="mRNA splicing, via spliceosome" type="GO"/>
+    <entity charOffset="85-91" id="23932364.s3.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="23932364.s3.e0" e2="23932364.s3.e1" id="23932364.s3.p0" relation="false"/>
+  </sentence>
+  <sentence id="23932364.s4" text="These findings may indicate the involvement of mRNA splicing, via spliceosome in progression of lung cancer by regulating the RB/negative regulation of transcription by RNA polymerase II interaction">
+    <entity charOffset="47-77" id="23932364.s4.e0" ontology_id="GO_0000398" text="mRNA splicing, via spliceosome" type="GO"/>
+    <entity charOffset="101-107" id="23932364.s4.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="129-186" id="23932364.s4.e2" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="23932364.s4.e0" e2="23932364.s4.e1" id="23932364.s4.p0" relation="false"/>
+    <pair e1="23932364.s4.e1" e2="23932364.s4.e2" id="23932364.s4.p1" relation="false"/>
+  </sentence>
+</document>

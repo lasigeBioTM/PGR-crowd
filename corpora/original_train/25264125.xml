@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="25264125">
+  <sentence id="25264125.s0" text="The genes HLA complex P5 (HCP5), spermatogenesis associated 2 (regulation of tumor necrosis factor-mediated signaling pathway), tumour necrosis factor alpha-induced protein 3 (response to molecule of bacterial origin), TNFAIP3-interacting protein 1 (glycoprotein biosynthetic process) and the component of oligomeric Golgi complex 6 (COG6) were reported to be associated with psoriasis in western populations by genome-wide association studies.">
+    <entity charOffset="63-125" id="25264125.s0.e0" ontology_id="GO_0010803" text="regulation of tumor necrosis factor-mediated signaling pathway" type="GO"/>
+    <entity charOffset="128-134" id="25264125.s0.e1" ontology_id="HP_0002664" text="tumour" type="HP"/>
+    <entity charOffset="176-216" id="25264125.s0.e2" ontology_id="GO_0002237" text="response to molecule of bacterial origin" type="GO"/>
+    <entity charOffset="250-283" id="25264125.s0.e3" ontology_id="GO_0009101" text="glycoprotein biosynthetic process" type="GO"/>
+    <pair e1="25264125.s0.e0" e2="25264125.s0.e1" id="25264125.s0.p0" relation="false"/>
+    <pair e1="25264125.s0.e1" e2="25264125.s0.e2" id="25264125.s0.p1" relation="false"/>
+    <pair e1="25264125.s0.e1" e2="25264125.s0.e3" id="25264125.s0.p2" relation="false"/>
+  </sentence>
+</document>

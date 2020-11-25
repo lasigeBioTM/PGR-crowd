@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28657129">
+  <sentence id="28657129.s0" text="However, Pdha1&lt;sup&gt;f/Y;&lt;/sup&gt; Cnp&lt;sup&gt;Cre/+&lt;/sup&gt; epidermis development showed reduced fiber density and signs of axonal degeneration in both sciatic and optic nerves from 6 months of age.">
+    <entity charOffset="50-71" id="28657129.s0.e0" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="114-133" id="28657129.s0.e1" ontology_id="HP_0040078" text="axonal degeneration" type="HP"/>
+    <pair e1="28657129.s0.e0" e2="28657129.s0.e1" id="28657129.s0.p0" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="27749845">
+  <sentence id="27749845.s0" text="Oropharyngeal cancer associations were limited to the human leukocyte antigen (HLA) region, and classical HLA allele imputation showed a protective association with the class II haplotype HLA-DRB1*1301-HLA-DQA1*0103-immunoglobulin production involved in immunoglobulin mediated immune response*0603 (odds ratio (OR) = 0.59, P = 2.7 × 10&lt;sup&gt;-9&lt;/sup&gt;).">
+    <entity charOffset="14-20" id="27749845.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="216-293" id="27749845.s0.e1" ontology_id="GO_0002381" text="immunoglobulin production involved in immunoglobulin mediated immune response" type="GO"/>
+    <pair e1="27749845.s0.e0" e2="27749845.s0.e1" id="27749845.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="27749845.s1" text="Oral and pharyngeal cancers combined were associated with loci at 6p21.32 (rs3828805, HLA-DQB1), 10q26.13 (rs201982221, phosphate-containing compound metabolic process) and 11p15.4 (rs1453414, OR52N2-TRIM5).">
+    <entity charOffset="20-26" id="27749845.s1.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="120-167" id="27749845.s1.e1" ontology_id="GO_0006796" text="phosphate-containing compound metabolic process" type="GO"/>
+    <pair e1="27749845.s1.e0" e2="27749845.s1.e1" id="27749845.s1.p0" relation="false"/>
+  </sentence>
+</document>

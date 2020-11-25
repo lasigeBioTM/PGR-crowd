@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="30252186">
+  <sentence id="30252186.s0" text="Mutations in the activation of MAPK activity gene, which encodes both the cytosolic and mitochondrial isoform of lysyl-tRNA synthetase, cause predominantly neurological diseases that often involve deafness, but have also been linked to cardiomyopathy, developmental delay, and lactic acidosis.">
+    <entity charOffset="17-44" id="30252186.s0.e0" ontology_id="GO_0000187" text="activation of MAPK activity" type="GO"/>
+    <entity charOffset="197-205" id="30252186.s0.e1" ontology_id="HP_0000365" text="deafness" type="HP"/>
+    <entity charOffset="252-271" id="30252186.s0.e2" ontology_id="HP_0001263" text="developmental delay" type="HP"/>
+    <entity charOffset="277-292" id="30252186.s0.e3" ontology_id="HP_0003128" text="lactic acidosis" type="HP"/>
+    <pair e1="30252186.s0.e0" e2="30252186.s0.e1" id="30252186.s0.p0" relation="true"/>
+    <pair e1="30252186.s0.e0" e2="30252186.s0.e2" id="30252186.s0.p1" relation="true"/>
+    <pair e1="30252186.s0.e0" e2="30252186.s0.e3" id="30252186.s0.p2" relation="true"/>
+  </sentence>
+</document>

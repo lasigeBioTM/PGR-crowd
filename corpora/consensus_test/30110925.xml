@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="30110925">
+  <sentence id="30110925.s0" text="Charcot-Marie-Tooth disease muscle organ development 1A (CMT1A) is the most common inherited motor and sensory neuropathy, and is caused by duplication of &lt;i&gt;PMP22&lt;/i&gt;, alterations of which are a characteristic feature of demyelination.">
+    <entity charOffset="28-52" id="30110925.s0.e0" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="111-121" id="30110925.s0.e1" ontology_id="HP_0009830" text="neuropathy" type="HP"/>
+  </sentence>
+</document>

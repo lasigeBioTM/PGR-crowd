@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30411605">
+  <sentence id="30411605.s0" text="Intravascular lithotripsy (response to UV-B) with the Shockwave™ system has recently been evaluated as a familiar angioplasty-balloon-based but effective technique for the management of arterial calcification.">
+    <entity charOffset="27-43" id="30411605.s0.e0" ontology_id="GO_0010224" text="response to UV-B" type="GO"/>
+    <entity charOffset="186-208" id="30411605.s0.e1" ontology_id="HP_0003207" text="arterial calcification" type="HP"/>
+    <pair e1="30411605.s0.e0" e2="30411605.s0.e1" id="30411605.s0.p0" relation="false"/>
+  </sentence>
+</document>

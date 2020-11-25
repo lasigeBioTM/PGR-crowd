@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30177815">
+  <sentence id="30177815.s0" text="These results highlight CRAFT as a systems-level framework for target discovery and suggest peptidyl-tyrosine phosphorylation blockade as a novel therapeutic strategy in epilepsy.">
+    <entity charOffset="92-125" id="30177815.s0.e0" ontology_id="GO_0018108" text="peptidyl-tyrosine phosphorylation" type="GO"/>
+    <entity charOffset="170-178" id="30177815.s0.e1" ontology_id="HP_0001250" text="epilepsy" type="HP"/>
+    <pair e1="30177815.s0.e0" e2="30177815.s0.e1" id="30177815.s0.p0" relation="true"/>
+  </sentence>
+</document>

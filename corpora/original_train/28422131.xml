@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<document id="28422131">
+  <sentence id="28422131.s0" text="The encoded protein, complexin 1, is crucially involved in neuronal synaptic regulation, and homozygous exocytosis knockout epidermis development have the earliest known onset of ataxia seen in a mouse model.">
+    <entity charOffset="104-114" id="28422131.s0.e0" ontology_id="GO_0006887" text="exocytosis" type="GO"/>
+    <entity charOffset="124-145" id="28422131.s0.e1" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="179-185" id="28422131.s0.e2" ontology_id="HP_0001251" text="ataxia" type="HP"/>
+    <pair e1="28422131.s0.e0" e2="28422131.s0.e2" id="28422131.s0.p0" relation="false"/>
+    <pair e1="28422131.s0.e1" e2="28422131.s0.e2" id="28422131.s0.p1" relation="false"/>
+  </sentence>
+  <sentence id="28422131.s1" text="Recently, a homozygous truncating variant in exocytosis was suggested to be causative for migrating epilepsy and structural brain abnormalities.">
+    <entity charOffset="45-55" id="28422131.s1.e0" ontology_id="GO_0006887" text="exocytosis" type="GO"/>
+    <entity charOffset="100-108" id="28422131.s1.e1" ontology_id="HP_0001250" text="epilepsy" type="HP"/>
+    <pair e1="28422131.s1.e0" e2="28422131.s1.e1" id="28422131.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="28422131.s2" text="However, the currently limited knowledge on exocytosis suggests that loss of complexin 1 function may lead to a complex but variable clinical phenotype, and our findings encourage further investigations of CPLX1 in patients with ID, developmental delay and myoclonic epilepsy to unravel the phenotypic spectrum of carriers of CPLX1 variants">
+    <entity charOffset="44-54" id="28422131.s2.e0" ontology_id="GO_0006887" text="exocytosis" type="GO"/>
+    <entity charOffset="233-252" id="28422131.s2.e1" ontology_id="HP_0001263" text="developmental delay" type="HP"/>
+    <entity charOffset="267-275" id="28422131.s2.e2" ontology_id="HP_0001250" text="epilepsy" type="HP"/>
+    <pair e1="28422131.s2.e0" e2="28422131.s2.e1" id="28422131.s2.p0" relation="true"/>
+    <pair e1="28422131.s2.e0" e2="28422131.s2.e2" id="28422131.s2.p1" relation="true"/>
+  </sentence>
+</document>

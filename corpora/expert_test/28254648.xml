@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28254648">
+  <sentence id="28254648.s0" text="Here we report a consanguineous Arab family from Qatar with three children having an early lethal form of arthrogryposis multiplex congenita and a novel frameshift mutation in central nervous system myelination.">
+    <entity charOffset="106-120" id="28254648.s0.e0" ontology_id="HP_0002804" text="arthrogryposis" type="HP"/>
+    <entity charOffset="176-210" id="28254648.s0.e1" ontology_id="GO_0022010" text="central nervous system myelination" type="GO"/>
+    <pair e1="28254648.s0.e0" e2="28254648.s0.e1" id="28254648.s0.p0" relation="true"/>
+  </sentence>
+</document>

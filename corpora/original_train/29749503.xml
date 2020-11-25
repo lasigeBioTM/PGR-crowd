@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<document id="29749503">
+  <sentence id="29749503.s0" text="The present study intended to identify the association between three severe muscle organ developments of gynecological cancer, specifically ovarian cancer, cervical cancer and endometrial cancer, and to identify the connective driver genes, microRNAs (miRNAs) and biological processes associated with these types of gynecological cancer.">
+    <entity charOffset="76-100" id="29749503.s0.e0" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="119-125" id="29749503.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29749503.s0.e0" e2="29749503.s0.e1" id="29749503.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="29749503.s1" text="In the present study, individual driver genes for each muscle organ development of cancer were identified using integrated analysis of multiple microarray data.">
+    <entity charOffset="55-79" id="29749503.s1.e0" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="83-89" id="29749503.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29749503.s1.e0" e2="29749503.s1.e1" id="29749503.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="29749503.s2" text="Survival analysis revealed that the expression of cellular response to DNA damage stimulus, proteolysis, positive regulation of epithelial to mesenchymal transition and transforming growth factor beta receptor signaling pathway was associated with the prognosis of the aforementioned gynecological cancer muscle organ developments.">
+    <entity charOffset="50-90" id="29749503.s2.e0" ontology_id="GO_0006974" text="cellular response to DNA damage stimulus" type="GO"/>
+    <entity charOffset="92-103" id="29749503.s2.e1" ontology_id="GO_0006508" text="proteolysis" type="GO"/>
+    <entity charOffset="105-164" id="29749503.s2.e2" ontology_id="GO_0010718" text="positive regulation of epithelial to mesenchymal transition" type="GO"/>
+    <entity charOffset="169-227" id="29749503.s2.e3" ontology_id="GO_0007179" text="transforming growth factor beta receptor signaling pathway" type="GO"/>
+    <entity charOffset="298-304" id="29749503.s2.e4" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="305-329" id="29749503.s2.e5" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <pair e1="29749503.s2.e0" e2="29749503.s2.e4" id="29749503.s2.p0" relation="false"/>
+    <pair e1="29749503.s2.e1" e2="29749503.s2.e4" id="29749503.s2.p1" relation="false"/>
+    <pair e1="29749503.s2.e2" e2="29749503.s2.e4" id="29749503.s2.p2" relation="true"/>
+    <pair e1="29749503.s2.e3" e2="29749503.s2.e4" id="29749503.s2.p3" relation="false"/>
+    <pair e1="29749503.s2.e4" e2="29749503.s2.e5" id="29749503.s2.p4" relation="false"/>
+  </sentence>
+  <sentence id="29749503.s3" text="In conclusion, the present study demonstrated a connection model across three muscle organ developments of gynecological cancer, which was useful in identifying potential diagnostic markers and novel therapeutic targets, in addition to in aiding the prediction of the development of cancer as it progresses">
+    <entity charOffset="78-102" id="29749503.s3.e0" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="121-127" id="29749503.s3.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29749503.s3.e0" e2="29749503.s3.e1" id="29749503.s3.p0" relation="false"/>
+  </sentence>
+</document>

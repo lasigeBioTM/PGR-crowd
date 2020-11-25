@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27108097">
+  <sentence id="27108097.s0" text="Overall, our results suggest that PQQ neuroprotection may be mediated by the inhibition of mitochondrial dysfunction and oxidative stress as well as by the gene modulation of apoptotic mitochondrial changes and Ndufs4">
+    <entity charOffset="91-116" id="27108097.s0.e0" ontology_id="HP_0003287" text="mitochondrial dysfunction" type="HP"/>
+    <entity charOffset="175-206" id="27108097.s0.e1" ontology_id="GO_0008637" text="apoptotic mitochondrial changes" type="GO"/>
+    <pair e1="27108097.s0.e0" e2="27108097.s0.e1" id="27108097.s0.p0" relation="false"/>
+  </sentence>
+</document>

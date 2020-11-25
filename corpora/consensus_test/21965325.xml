@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="21965325">
+  <sentence id="21965325.s0" text="Consistent with our description of this pathway and the phenotype of patients with actin cytoskeleton organization mutations, mice with a targeted deletion of Mlk3 displayed multiple skeletal defects, including dental abnormalities, deficient calvarial mineralization, and reduced bone mass.">
+    <entity charOffset="83-114" id="21965325.s0.e0" ontology_id="GO_0030036" text="actin cytoskeleton organization" type="GO"/>
+    <entity charOffset="211-231" id="21965325.s0.e1" ontology_id="HP_0000164" text="dental abnormalities" type="HP"/>
+    <pair e1="21965325.s0.e0" e2="21965325.s0.e1" id="21965325.s0.p0" relation="true"/>
+  </sentence>
+</document>

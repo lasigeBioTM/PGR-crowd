@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="26841241">
+  <sentence id="26841241.s0" text="In a family with post-lingual progressive non-syndromic deafness, whole-exome sequencing of genomic DNA from five hearing-impaired relatives revealed a single variant, p.Gly488Glu (rs145970949:G&amp;gt;A) in protein autophosphorylation, co-segregating with HL as an autosomal dominant trait.">
+    <entity charOffset="56-64" id="26841241.s0.e0" ontology_id="HP_0000365" text="deafness" type="HP"/>
+    <entity charOffset="204-231" id="26841241.s0.e1" ontology_id="GO_0046777" text="protein autophosphorylation" type="GO"/>
+    <pair e1="26841241.s0.e0" e2="26841241.s0.e1" id="26841241.s0.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="25608039">
+  <sentence id="25608039.s0" text="In the present study, we characterize negative regulation of transcription by RNA polymerase II inhibition activity of the brain-permeable compound AK7 and examine the efficacy of this small molecule in models of Parkinson's disease, amyotrophic lateral sclerosis and cerebral ischemia.">
+    <entity charOffset="38-95" id="25608039.s0.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="268-285" id="25608039.s0.e1" ontology_id="HP_0002637" text="cerebral ischemia" type="HP"/>
+    <pair e1="25608039.s0.e0" e2="25608039.s0.e1" id="25608039.s0.p0" relation="true"/>
+  </sentence>
+</document>

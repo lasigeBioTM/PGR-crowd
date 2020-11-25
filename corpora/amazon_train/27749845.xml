@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<document id="27749845">
+  <sentence id="27749845.s0" text="Oral and pharyngeal cancers combined were associated with loci at 6p21.32 (rs3828805, immunoglobulin production involved in immunoglobulin mediated immune response), 10q26.13 (rs201982221, LHPP) and 11p15.4 (rs1453414, G protein-coupled receptor signaling pathway-TRIM5).">
+    <entity charOffset="20-26" id="27749845.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="86-163" id="27749845.s0.e1" ontology_id="GO_0002381" text="immunoglobulin production involved in immunoglobulin mediated immune response" type="GO"/>
+    <entity charOffset="219-263" id="27749845.s0.e2" ontology_id="GO_0007186" text="G protein-coupled receptor signaling pathway" type="GO"/>
+    <pair e1="27749845.s0.e0" e2="27749845.s0.e1" id="27749845.s0.p0" relation="true"/>
+    <pair e1="27749845.s0.e0" e2="27749845.s0.e2" id="27749845.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="27749845.s1" text="Oral cancer was associated with two new regions, 2p23.3 (rs6547741, biological_process) and 9q34.12 (rs928674, extracellular matrix organization), and with known cancer-related loci-9p21.3 (rs8181047, regulation of cyclin-dependent protein serine/threonine kinase activity-AS1) and 5p15.33 (rs10462706, apoptotic process).">
+    <entity charOffset="5-11" id="27749845.s1.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="68-86" id="27749845.s1.e1" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="111-144" id="27749845.s1.e2" ontology_id="GO_0030198" text="extracellular matrix organization" type="GO"/>
+    <entity charOffset="201-272" id="27749845.s1.e3" ontology_id="GO_0000079" text="regulation of cyclin-dependent protein serine/threonine kinase activity" type="GO"/>
+    <entity charOffset="303-320" id="27749845.s1.e4" ontology_id="GO_0006915" text="apoptotic process" type="GO"/>
+    <pair e1="27749845.s1.e0" e2="27749845.s1.e1" id="27749845.s1.p0" relation="true"/>
+    <pair e1="27749845.s1.e0" e2="27749845.s1.e2" id="27749845.s1.p1" relation="true"/>
+    <pair e1="27749845.s1.e0" e2="27749845.s1.e3" id="27749845.s1.p2" relation="true"/>
+    <pair e1="27749845.s1.e0" e2="27749845.s1.e4" id="27749845.s1.p3" relation="true"/>
+  </sentence>
+</document>

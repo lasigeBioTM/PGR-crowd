@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30572178">
+  <sentence id="30572178.s0" text="We conducted further optimization of dual enzymatic inhibitions towards FGFR1 and peptidyl-tyrosine phosphorylation, two important kinases in lung squamous cell carcinoma.">
+    <entity charOffset="82-115" id="30572178.s0.e0" ontology_id="GO_0018108" text="peptidyl-tyrosine phosphorylation" type="GO"/>
+    <entity charOffset="147-170" id="30572178.s0.e1" ontology_id="HP_0002860" text="squamous cell carcinoma" type="HP"/>
+    <pair e1="30572178.s0.e0" e2="30572178.s0.e1" id="30572178.s0.p0" relation="true"/>
+  </sentence>
+</document>

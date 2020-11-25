@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="25997889">
+  <sentence id="25997889.s0" text="Broad adenylate cyclase-activating G protein-coupled receptor signaling pathway methylation abnormalities are also observed in most sporadic PHP1B (sporPHP1B) cases.">
+    <entity charOffset="6-79" id="25997889.s0.e0" ontology_id="GO_0007189" text="adenylate cyclase-activating G protein-coupled receptor signaling pathway" type="GO"/>
+    <entity charOffset="132-140" id="25997889.s0.e1" ontology_id="HP_0003745" text="sporadic" type="HP"/>
+    <pair e1="25997889.s0.e0" e2="25997889.s0.e1" id="25997889.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="25997889.s1" text="We now investigated 23 Japanese sporPHP1B cases, who presented with hypocalcemia, hyperphosphatemia, elevated negative regulation of transcription by RNA polymerase II levels, and occasionally with TSH elevations and mild AHO features.">
+    <entity charOffset="68-80" id="25997889.s1.e0" ontology_id="HP_0002901" text="hypocalcemia" type="HP"/>
+    <entity charOffset="82-99" id="25997889.s1.e1" ontology_id="HP_0002905" text="hyperphosphatemia" type="HP"/>
+    <entity charOffset="110-167" id="25997889.s1.e2" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="25997889.s1.e0" e2="25997889.s1.e2" id="25997889.s1.p0" relation="true"/>
+  </sentence>
+</document>

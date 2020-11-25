@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<document id="30478051">
+  <sentence id="30478051.s0" text="Here, we sought to find lncRNAs differentially regulated in cancer cells resistant to either TNF-related apoptosis-inducing ligand (positive regulation of apoptotic process) or the response to cytokine inhibitor UMI-77, agents that act through the extrinsic and intrinsic apoptotic pathways, respectively.">
+    <entity charOffset="60-66" id="30478051.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="132-172" id="30478051.s0.e1" ontology_id="GO_0043065" text="positive regulation of apoptotic process" type="GO"/>
+    <entity charOffset="181-201" id="30478051.s0.e2" ontology_id="GO_0034097" text="response to cytokine" type="GO"/>
+    <pair e1="30478051.s0.e0" e2="30478051.s0.e1" id="30478051.s0.p0" relation="true"/>
+    <pair e1="30478051.s0.e0" e2="30478051.s0.e2" id="30478051.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="30478051.s1" text="Additionally, negative regulation of transcription by RNA polymerase II was demonstrated to drive OVAAL transcription, indicating a positive feedback loop between c-Myc and OVAAL in controlling tumor growth.">
+    <entity charOffset="14-71" id="30478051.s1.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="194-199" id="30478051.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="30478051.s1.e0" e2="30478051.s1.e1" id="30478051.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="30478051.s2" text="Taken together, these results reveal that OVAAL contributes to the survival of cancer cells through dual mechanisms controlling RAF/MEK/ERK signaling and proteasome regulatory particle assembly-mediated cell senescence">
+    <entity charOffset="79-85" id="30478051.s2.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="154-193" id="30478051.s2.e1" ontology_id="GO_0070682" text="proteasome regulatory particle assembly" type="GO"/>
+    <pair e1="30478051.s2.e0" e2="30478051.s2.e1" id="30478051.s2.p0" relation="true"/>
+  </sentence>
+</document>

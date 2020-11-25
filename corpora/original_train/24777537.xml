@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="24777537">
+  <sentence id="24777537.s0" text="Mutations in inflammatory response have been identified that result in a variant form of nonketotic hyperglycinemia with early-onset convulsions combined with a defect in mitochondrial energy metabolism with encephalopathy and cardiomyopathy.">
+    <entity charOffset="13-34" id="24777537.s0.e0" ontology_id="GO_0006954" text="inflammatory response" type="GO"/>
+    <entity charOffset="208-222" id="24777537.s0.e1" ontology_id="HP_0001298" text="encephalopathy" type="HP"/>
+    <entity charOffset="227-241" id="24777537.s0.e2" ontology_id="HP_0001638" text="cardiomyopathy" type="HP"/>
+    <pair e1="24777537.s0.e0" e2="24777537.s0.e1" id="24777537.s0.p0" relation="true"/>
+    <pair e1="24777537.s0.e0" e2="24777537.s0.e2" id="24777537.s0.p1" relation="true"/>
+  </sentence>
+</document>

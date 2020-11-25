@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="27068579">
+  <sentence id="27068579.s0" text="Although there are nearly 100 different causative genes identified for nonsyndromic hearing loss (NSHL), Sanger sequencing-based DNA diagnostics usually only analyses three, namely, gap junction-mediated intercellular transport, regulation of pH, and OTOF.">
+    <entity charOffset="84-96" id="27068579.s0.e0" ontology_id="HP_0000365" text="hearing loss" type="HP"/>
+    <entity charOffset="182-227" id="27068579.s0.e1" ontology_id="GO_1990349" text="gap junction-mediated intercellular transport" type="GO"/>
+    <entity charOffset="229-245" id="27068579.s0.e2" ontology_id="GO_0006885" text="regulation of pH" type="GO"/>
+    <pair e1="27068579.s0.e0" e2="27068579.s0.e1" id="27068579.s0.p0" relation="true"/>
+    <pair e1="27068579.s0.e0" e2="27068579.s0.e2" id="27068579.s0.p1" relation="true"/>
+  </sentence>
+</document>

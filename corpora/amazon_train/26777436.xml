@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<document id="26777436">
+  <sentence id="26777436.s0" text="To dissect the genetic architecture of sporadic ALS, we undertook a large sequencing study in 755 apparently sporadic ALS cases and 959 controls, analyzing 10 ALS genes: response to superoxide, C9orf72, RNA splicing, regulation of transcription, DNA-templated, ANG, viral budding via host ESCRT complex, negative regulation of receptor internalization, transmembrane transport, spliceosomal snRNP assembly, and UNC13A.">
+    <entity charOffset="39-47" id="26777436.s0.e0" ontology_id="HP_0003745" text="sporadic" type="HP"/>
+    <entity charOffset="170-192" id="26777436.s0.e1" ontology_id="GO_0000303" text="response to superoxide" type="GO"/>
+    <entity charOffset="203-215" id="26777436.s0.e2" ontology_id="GO_0008380" text="RNA splicing" type="GO"/>
+    <entity charOffset="217-259" id="26777436.s0.e3" ontology_id="GO_0006355" text="regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="266-302" id="26777436.s0.e4" ontology_id="GO_0039702" text="viral budding via host ESCRT complex" type="GO"/>
+    <entity charOffset="304-351" id="26777436.s0.e5" ontology_id="GO_0002091" text="negative regulation of receptor internalization" type="GO"/>
+    <entity charOffset="353-376" id="26777436.s0.e6" ontology_id="GO_0055085" text="transmembrane transport" type="GO"/>
+    <entity charOffset="378-405" id="26777436.s0.e7" ontology_id="GO_0000387" text="spliceosomal snRNP assembly" type="GO"/>
+    <pair e1="26777436.s0.e0" e2="26777436.s0.e1" id="26777436.s0.p0" relation="true"/>
+    <pair e1="26777436.s0.e0" e2="26777436.s0.e2" id="26777436.s0.p1" relation="true"/>
+    <pair e1="26777436.s0.e0" e2="26777436.s0.e3" id="26777436.s0.p2" relation="true"/>
+    <pair e1="26777436.s0.e0" e2="26777436.s0.e4" id="26777436.s0.p3" relation="true"/>
+    <pair e1="26777436.s0.e0" e2="26777436.s0.e5" id="26777436.s0.p4" relation="true"/>
+    <pair e1="26777436.s0.e0" e2="26777436.s0.e6" id="26777436.s0.p5" relation="true"/>
+    <pair e1="26777436.s0.e0" e2="26777436.s0.e7" id="26777436.s0.p6" relation="true"/>
+  </sentence>
+</document>

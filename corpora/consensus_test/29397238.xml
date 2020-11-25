@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<document id="29397238">
+  <sentence id="29397238.s0" text="However, more recently, inherited SWI/SNF-deficiency has been linked to several benign syndromic tumors including a subset of familial schwannomatosis (linked to SMARCB1) and multiple meningiomas (linked to nucleosome disassembly) as well as others.">
+    <entity charOffset="184-195" id="29397238.s0.e0" ontology_id="HP_0002858" text="meningiomas" type="HP"/>
+    <entity charOffset="207-229" id="29397238.s0.e1" ontology_id="GO_0006337" text="nucleosome disassembly" type="GO"/>
+    <pair e1="29397238.s0.e0" e2="29397238.s0.e1" id="29397238.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29397238.s1" text="Approximately one-third of pediatric malignant rhabdoid tumors are linked to germline SWI/SNF alterations (nucleosome disassembly/INI1, rarely nucleosome disassembly) resulting in occasional familial clustering of these highly aggressive malignancies (so-called rhabdoid tumor predisposition syndrome, RTPS, muscle organ developments 1 and 2, respectively).">
+    <entity charOffset="56-62" id="29397238.s1.e0" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <entity charOffset="107-129" id="29397238.s1.e1" ontology_id="GO_0006337" text="nucleosome disassembly" type="GO"/>
+    <entity charOffset="143-165" id="29397238.s1.e2" ontology_id="GO_0006337" text="nucleosome disassembly" type="GO"/>
+    <entity charOffset="271-276" id="29397238.s1.e3" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="308-332" id="29397238.s1.e4" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <pair e1="29397238.s1.e0" e2="29397238.s1.e1" id="29397238.s1.p0" relation="true"/>
+    <pair e1="29397238.s1.e0" e2="29397238.s1.e2" id="29397238.s1.p1" relation="true"/>
+    <pair e1="29397238.s1.e1" e2="29397238.s1.e3" id="29397238.s1.p2" relation="true"/>
+  </sentence>
+  <sentence id="29397238.s2" text="Atypical teratoid/rhabdoid tumors (AT/RT) and renal/extrarenal malignant rhabdoid tumors of childhood, epithelioid sarcoma and small cell carcinoma of the ovary, hypercalcemic muscle organ development (SCCOHT) represent the most commonly recognized SWI/SNF-driven neoplasms.">
+    <entity charOffset="115-122" id="29397238.s2.e0" ontology_id="HP_0100242" text="sarcoma" type="HP"/>
+    <entity charOffset="176-200" id="29397238.s2.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+  </sentence>
+</document>

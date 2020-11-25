@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28632965">
+  <sentence id="28632965.s0" text="Familial microscopic hematuria (FMH) is associated with a genetically heterogeneous group of conditions including the collagen-IV nephropathies, the heritable C3/negative regulation of protein binding nephropathy and the glomerulopathy with fibronectin deposits.">
+    <entity charOffset="70-83" id="28632965.s0.e0" ontology_id="HP_0001425" text="heterogeneous" type="HP"/>
+    <entity charOffset="162-200" id="28632965.s0.e1" ontology_id="GO_0032091" text="negative regulation of protein binding" type="GO"/>
+    <pair e1="28632965.s0.e0" e2="28632965.s0.e1" id="28632965.s0.p0" relation="true"/>
+  </sentence>
+</document>

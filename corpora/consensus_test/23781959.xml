@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<document id="23781959">
+  <sentence id="23781959.s0" text="Autosomal recessive CMT cases are generally characterized by earlier onset, usually before the age of 2 or 3 years, and rapid clinical progression that results in severe polyneuropathy and more marked distal limb deformities such as maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA) equino-varus, claw-like hands, and often major spinal deformities.">
+    <entity charOffset="233-321" id="23781959.s0.e0" ontology_id="GO_0000463" text="maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)" type="GO"/>
+    <entity charOffset="369-387" id="23781959.s0.e1" ontology_id="HP_0008443" text="spinal deformities" type="HP"/>
+  </sentence>
+  <sentence id="23781959.s1" text="Recent clinical, morphological and molecular investigations of CMT families with autosomal recessive inheritance allowed the identification of many genes such as GDAP1, MTMR2, myelination, NDRG1, positive regulation of transcription by RNA polymerase II, SH3TC2, PRX, cytoskeleton organization, and phosphatidylinositol biosynthetic process, implicated in demyelinating forms (ARCMT1 or mitochondrial fission), and positive regulation of cell aging, regulation of transcription by RNA polymerase II, HINT1, GDAP1, LRSAM1, neurofilament bundle assembly, regulation of protein phosphorylation and MFN2 in axonal forms (ARCMT2).">
+    <entity charOffset="81-100" id="23781959.s1.e0" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="101-112" id="23781959.s1.e1" ontology_id="HP_0000005" text="inheritance" type="HP"/>
+    <entity charOffset="176-187" id="23781959.s1.e2" ontology_id="GO_0042552" text="myelination" type="GO"/>
+    <entity charOffset="196-253" id="23781959.s1.e3" ontology_id="GO_0045944" text="positive regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="268-293" id="23781959.s1.e4" ontology_id="GO_0007010" text="cytoskeleton organization" type="GO"/>
+    <entity charOffset="299-340" id="23781959.s1.e5" ontology_id="GO_0006661" text="phosphatidylinositol biosynthetic process" type="GO"/>
+    <entity charOffset="387-408" id="23781959.s1.e6" ontology_id="GO_0000266" text="mitochondrial fission" type="GO"/>
+    <entity charOffset="415-448" id="23781959.s1.e7" ontology_id="GO_0090343" text="positive regulation of cell aging" type="GO"/>
+    <entity charOffset="450-498" id="23781959.s1.e8" ontology_id="GO_0006357" text="regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="522-551" id="23781959.s1.e9" ontology_id="GO_0033693" text="neurofilament bundle assembly" type="GO"/>
+    <entity charOffset="553-590" id="23781959.s1.e10" ontology_id="GO_0001932" text="regulation of protein phosphorylation" type="GO"/>
+    <pair e1="23781959.s1.e0" e2="23781959.s1.e3" id="23781959.s1.p0" relation="true"/>
+    <pair e1="23781959.s1.e0" e2="23781959.s1.e8" id="23781959.s1.p1" relation="false"/>
+    <pair e1="23781959.s1.e0" e2="23781959.s1.e9" id="23781959.s1.p2" relation="false"/>
+    <pair e1="23781959.s1.e0" e2="23781959.s1.e6" id="23781959.s1.p3" relation="false"/>
+    <pair e1="23781959.s1.e1" e2="23781959.s1.e10" id="23781959.s1.p4" relation="false"/>
+    <pair e1="23781959.s1.e1" e2="23781959.s1.e5" id="23781959.s1.p5" relation="false"/>
+    <pair e1="23781959.s1.e1" e2="23781959.s1.e2" id="23781959.s1.p6" relation="false"/>
+    <pair e1="23781959.s1.e1" e2="23781959.s1.e3" id="23781959.s1.p7" relation="false"/>
+    <pair e1="23781959.s1.e1" e2="23781959.s1.e4" id="23781959.s1.p8" relation="false"/>
+    <pair e1="23781959.s1.e1" e2="23781959.s1.e7" id="23781959.s1.p9" relation="false"/>
+  </sentence>
+</document>

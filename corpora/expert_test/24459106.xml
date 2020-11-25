@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="24459106">
+  <sentence id="24459106.s0" text="protein homooligomerization is a paralogue of ATL1, a membrane curvature-generating molecule that is involved in spastic paraplegia and hereditary sensory neuropathy.">
+    <entity charOffset="0-27" id="24459106.s0.e0" ontology_id="GO_0051260" text="protein homooligomerization" type="GO"/>
+    <entity charOffset="155-165" id="24459106.s0.e1" ontology_id="HP_0009830" text="neuropathy" type="HP"/>
+    <pair e1="24459106.s0.e0" e2="24459106.s0.e1" id="24459106.s0.p0" relation="true"/>
+  </sentence>
+</document>

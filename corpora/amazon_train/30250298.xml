@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<document id="30250298">
+  <sentence id="30250298.s0" text="Moreover, we demonstrated that pharmacological inhibition of 15-L-serine biosynthetic process enhanced CYP26A1 expression, leading to depletion of all-trans retinoic acid (ATRA) and expansion of the oxidation-reduction process-positive subset in both human PDAC cells and tumor cells of Kras&lt;sup&gt;LSL-G12D/+&lt;/sup&gt;; Ptf1a&lt;sup&gt;Cre/+&lt;/sup&gt; (KC) mice.">
+    <entity charOffset="64-93" id="30250298.s0.e0" ontology_id="GO_0006564" text="L-serine biosynthetic process" type="GO"/>
+    <entity charOffset="199-226" id="30250298.s0.e1" ontology_id="GO_0055114" text="oxidation-reduction process" type="GO"/>
+    <entity charOffset="272-277" id="30250298.s0.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="30250298.s0.e0" e2="30250298.s0.e2" id="30250298.s0.p0" relation="true"/>
+    <pair e1="30250298.s0.e1" e2="30250298.s0.e2" id="30250298.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="30250298.s1" text="Finally, ATRA replacement suppressed 15-L-serine biosynthetic process inhibition-induced tumor progression in KC mice, and ATRA treatment attenuated oxidation-reduction process activity in tumor cells isolated from the pancreas of 15-L-serine biosynthetic process&lt;sup&gt;-/-&lt;/sup&gt; KC mice.">
+    <entity charOffset="40-69" id="30250298.s1.e0" ontology_id="GO_0006564" text="L-serine biosynthetic process" type="GO"/>
+    <entity charOffset="89-94" id="30250298.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="149-176" id="30250298.s1.e2" ontology_id="GO_0055114" text="oxidation-reduction process" type="GO"/>
+    <entity charOffset="234-263" id="30250298.s1.e3" ontology_id="GO_0006564" text="L-serine biosynthetic process" type="GO"/>
+    <pair e1="30250298.s1.e0" e2="30250298.s1.e1" id="30250298.s1.p0" relation="true"/>
+    <pair e1="30250298.s1.e1" e2="30250298.s1.e3" id="30250298.s1.p1" relation="true"/>
+    <pair e1="30250298.s1.e1" e2="30250298.s1.e2" id="30250298.s1.p2" relation="true"/>
+  </sentence>
+  <sentence id="30250298.s2" text="These findings provide evidence that 15-L-serine biosynthetic process inhibition enhances positive regulation of protein phosphorylation-driven tumor progression via ATRA depletion in the pancreas.">
+    <entity charOffset="40-69" id="30250298.s2.e0" ontology_id="GO_0006564" text="L-serine biosynthetic process" type="GO"/>
+    <entity charOffset="90-136" id="30250298.s2.e1" ontology_id="GO_0001934" text="positive regulation of protein phosphorylation" type="GO"/>
+    <entity charOffset="144-149" id="30250298.s2.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="30250298.s2.e0" e2="30250298.s2.e2" id="30250298.s2.p0" relation="true"/>
+    <pair e1="30250298.s2.e1" e2="30250298.s2.e2" id="30250298.s2.p1" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="29636477">
+  <sentence id="29636477.s0" text="A high proportion of tumors harbors multiple mutations, especially phosphorylation plus phosphatidylinositol 3-kinase signaling mutations (9.0%).">
+    <entity charOffset="21-27" id="29636477.s0.e0" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <entity charOffset="67-82" id="29636477.s0.e1" ontology_id="GO_0016310" text="phosphorylation" type="GO"/>
+    <entity charOffset="88-127" id="29636477.s0.e2" ontology_id="GO_0014065" text="phosphatidylinositol 3-kinase signaling" type="GO"/>
+    <pair e1="29636477.s0.e0" e2="29636477.s0.e2" id="29636477.s0.p0" relation="true"/>
+    <pair e1="29636477.s0.e0" e2="29636477.s0.e1" id="29636477.s0.p1" relation="true"/>
+  </sentence>
+</document>

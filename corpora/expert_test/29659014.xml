@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29659014">
+  <sentence id="29659014.s0" text="To evaluate the role of constitutive epigenetic changes in normal body cells of BRCA1/BRCA2-mutation negative patients, we have developed a deep bisulfite sequencing assay targeting the promoter regions of 8 tumor suppressor (TS) genes (BRCA1, BRCA2, RAD51C, ATM, negative regulation of protein phosphorylation, TP53, MLH1, RB1) and the estrogene receptor gene (ESR1), which plays a role in tumor progression.">
+    <entity charOffset="208-213" id="29659014.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="264-310" id="29659014.s0.e1" ontology_id="GO_0001933" text="negative regulation of protein phosphorylation" type="GO"/>
+    <pair e1="29659014.s0.e0" e2="29659014.s0.e1" id="29659014.s0.p0" relation="true"/>
+  </sentence>
+</document>

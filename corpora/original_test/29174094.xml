@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="29174094">
+  <sentence id="29174094.s0" text="We expand the knowledge about protein localization to plasma membrane deficiency, describing a patient with the mild phenotype of TTC7A deficiency but presenting overlapping features of SD/THE and regulation of signaling receptor activity-CID: intestinal atresia and inflammatory bowel disease evocative of MIA-CID, but also dental abnormalities, huge forehead, liver abnormalities, autoimmune thyroiditis and hypogammaglobulinemia, evocative of SD/THE">
+    <entity charOffset="30-69" id="29174094.s0.e0" ontology_id="GO_0072659" text="protein localization to plasma membrane" type="GO"/>
+    <entity charOffset="197-238" id="29174094.s0.e1" ontology_id="GO_0010469" text="regulation of signaling receptor activity" type="GO"/>
+    <entity charOffset="325-345" id="29174094.s0.e2" ontology_id="HP_0000164" text="dental abnormalities" type="HP"/>
+    <pair e1="29174094.s0.e0" e2="29174094.s0.e2" id="29174094.s0.p0" relation="true"/>
+    <pair e1="29174094.s0.e1" e2="29174094.s0.e2" id="29174094.s0.p1" relation="false"/>
+  </sentence>
+  <sentence id="29174094.s1" text="Tricho-hepato-enteric syndrome (negative regulation of protein export from nucleus/THE) and Multiple intestinal atresia with combined immune deficiency (MIA-CID) are autosomal recessive disorders that present immunological and gastrointestinal features.">
+    <entity charOffset="32-82" id="29174094.s1.e0" ontology_id="GO_0046826" text="negative regulation of protein export from nucleus" type="GO"/>
+    <entity charOffset="101-119" id="29174094.s1.e1" ontology_id="HP_0011100" text="intestinal atresia" type="HP"/>
+    <pair e1="29174094.s1.e0" e2="29174094.s1.e1" id="29174094.s1.p0" relation="false"/>
+  </sentence>
+</document>

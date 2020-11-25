@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30531685">
+  <sentence id="30531685.s0" text="CONCLUSIONS Our findings indicate that resveratrol induces apoptosis via HIF-1α/regulation of cell growth/p53 signaling in prostate cancer cells and may be a useful therapeutic agent against prostate cancer">
+    <entity charOffset="80-105" id="30531685.s0.e0" ontology_id="GO_0001558" text="regulation of cell growth" type="GO"/>
+    <entity charOffset="132-138" id="30531685.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30531685.s0.e0" e2="30531685.s0.e1" id="30531685.s0.p0" relation="false"/>
+  </sentence>
+</document>

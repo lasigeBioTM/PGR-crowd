@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="28479227">
+  <sentence id="28479227.s0" text="Limb girdle muscular dystrophy type 2I (LGMD2I) is a progressive disorder caused by mutations in the FuKutin-Related Protein gene (protein O-linked mannosylation).">
+    <entity charOffset="12-30" id="28479227.s0.e0" ontology_id="HP_0003560" text="muscular dystrophy" type="HP"/>
+    <entity charOffset="131-161" id="28479227.s0.e1" ontology_id="GO_0035269" text="protein O-linked mannosylation" type="GO"/>
+    <pair e1="28479227.s0.e0" e2="28479227.s0.e1" id="28479227.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28479227.s1" text="protein O-linked mannosylation displays clinical heterogeneity with onset of severe symptoms in early childhood to mild calf and thigh hypertrophy in the second or third decade.">
+    <entity charOffset="0-30" id="28479227.s1.e0" ontology_id="GO_0035269" text="protein O-linked mannosylation" type="GO"/>
+    <entity charOffset="49-62" id="28479227.s1.e1" ontology_id="HP_0001425" text="heterogeneity" type="HP"/>
+    <pair e1="28479227.s1.e0" e2="28479227.s1.e1" id="28479227.s1.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="28906593">
+  <sentence id="28906593.s0" text="Genetic mutations to a specific subset of mitochondrial transcription by RNA polymerase II/S cluster delivery proteins are broadly categorized as disease-related under multiple mitochondrial dysfunction syndrome (MMDS), with symptoms indicative of a general failure of the metabolic system.">
+    <entity charOffset="56-90" id="28906593.s0.e0" ontology_id="GO_0006366" text="transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="177-202" id="28906593.s0.e1" ontology_id="HP_0003287" text="mitochondrial dysfunction" type="HP"/>
+  </sentence>
+  <sentence id="28906593.s1" text="Multiple mitochondrial dysfunction syndrome 1 (MMDS1) arises as a result of the missense mutation in NFU1, an transcription by RNA polymerase II/S cluster scaffold protein, which substitutes a glycine near the Fe/S cluster-binding pocket to a cysteine (p.Gly208Cys).">
+    <entity charOffset="9-34" id="28906593.s1.e0" ontology_id="HP_0003287" text="mitochondrial dysfunction" type="HP"/>
+    <entity charOffset="110-144" id="28906593.s1.e1" ontology_id="GO_0006366" text="transcription by RNA polymerase II" type="GO"/>
+    <pair e1="28906593.s1.e0" e2="28906593.s1.e1" id="28906593.s1.p0" relation="true"/>
+  </sentence>
+</document>

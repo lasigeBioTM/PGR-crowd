@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<document id="23053991">
+  <sentence id="23053991.s0" text="Recently, it has been demonstrated that, mutations of sensory perception of sound are associated with profound nonsyndromic hearing impairment at the sensory perception of sound locus.">
+    <entity charOffset="54-81" id="23053991.s0.e0" ontology_id="GO_0007605" text="sensory perception of sound" type="GO"/>
+    <entity charOffset="102-110" id="23053991.s0.e1" ontology_id="HP_0012829" text="profound" type="HP"/>
+    <entity charOffset="124-142" id="23053991.s0.e2" ontology_id="HP_0000365" text="hearing impairment" type="HP"/>
+    <entity charOffset="150-177" id="23053991.s0.e3" ontology_id="GO_0007605" text="sensory perception of sound" type="GO"/>
+    <pair e1="23053991.s0.e0" e2="23053991.s0.e2" id="23053991.s0.p0" relation="true"/>
+    <pair e1="23053991.s0.e1" e2="23053991.s0.e3" id="23053991.s0.p1" relation="false"/>
+  </sentence>
+  <sentence id="23053991.s1" text="The objective of this study is to evaluate the carrier frequency of c.242G&amp;gt;A mutation in sensory perception of sound gene and define the contribution of this gene in the etiology of deafness in Moroccan population.">
+    <entity charOffset="92-119" id="23053991.s1.e0" ontology_id="GO_0007605" text="sensory perception of sound" type="GO"/>
+    <entity charOffset="185-193" id="23053991.s1.e1" ontology_id="HP_0000365" text="deafness" type="HP"/>
+    <pair e1="23053991.s1.e0" e2="23053991.s1.e1" id="23053991.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="23053991.s2" text="Our results show that after the gap junction-mediated intercellular transport gene mutation in sensory perception of sound gene is the second cause of congenital hearing impairment in Moroccan patients.">
+    <entity charOffset="32-77" id="23053991.s2.e0" ontology_id="GO_1990349" text="gap junction-mediated intercellular transport" type="GO"/>
+    <entity charOffset="95-122" id="23053991.s2.e1" ontology_id="GO_0007605" text="sensory perception of sound" type="GO"/>
+    <entity charOffset="162-180" id="23053991.s2.e2" ontology_id="HP_0000365" text="hearing impairment" type="HP"/>
+    <pair e1="23053991.s2.e0" e2="23053991.s2.e2" id="23053991.s2.p0" relation="true"/>
+    <pair e1="23053991.s2.e1" e2="23053991.s2.e2" id="23053991.s2.p1" relation="true"/>
+  </sentence>
+</document>

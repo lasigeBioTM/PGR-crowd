@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="27851961">
+  <sentence id="27851961.s0" text="This close biochemical relationship indicates an oncogenic role for Fc-gamma receptor signaling pathway involved in phagocytosis in the physiology of cancer pathology by increasing YAP/TAZ stability">
+    <entity charOffset="68-128" id="27851961.s0.e0" ontology_id="GO_0038096" text="Fc-gamma receptor signaling pathway involved in phagocytosis" type="GO"/>
+    <entity charOffset="150-156" id="27851961.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27851961.s0.e0" e2="27851961.s0.e1" id="27851961.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="27851961.s1" text="We find that Fc-gamma receptor signaling pathway involved in phagocytosis controls tumor growth by boosting signals that stabilize the YAP/TAZ complex via a mechanism mediated by the endocytic/endosomal system.">
+    <entity charOffset="13-73" id="27851961.s1.e0" ontology_id="GO_0038096" text="Fc-gamma receptor signaling pathway involved in phagocytosis" type="GO"/>
+    <entity charOffset="83-88" id="27851961.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="27851961.s1.e0" e2="27851961.s1.e1" id="27851961.s1.p0" relation="true"/>
+  </sentence>
+</document>

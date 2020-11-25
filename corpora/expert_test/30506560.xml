@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="30506560">
+  <sentence id="30506560.s0" text="CGD is a genetically heterogeneous disease with an X-linked recessive (XR-CGD) form caused by mutations in the superoxide metabolic process (OMIM #300481) gene encoding the gp91(phox) protein, and an autosomal recessive (AR-CGD) form caused by mutations in the cytochrome complex assembly (OMIM #608508), protein targeting to membrane (OMIM #608512), NCF2 (OMIM #608515) and NCF4 (OMIM #601488) genes encoding p22(phox), p47(phox), p67(phox) and p40(phox), respectively.">
+    <entity charOffset="21-34" id="30506560.s0.e0" ontology_id="HP_0001425" text="heterogeneous" type="HP"/>
+    <entity charOffset="111-139" id="30506560.s0.e1" ontology_id="GO_0006801" text="superoxide metabolic process" type="GO"/>
+    <entity charOffset="200-219" id="30506560.s0.e2" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="261-288" id="30506560.s0.e3" ontology_id="GO_0017004" text="cytochrome complex assembly" type="GO"/>
+    <entity charOffset="305-334" id="30506560.s0.e4" ontology_id="GO_0006612" text="protein targeting to membrane" type="GO"/>
+    <pair e1="30506560.s0.e0" e2="30506560.s0.e1" id="30506560.s0.p0" relation="true"/>
+    <pair e1="30506560.s0.e0" e2="30506560.s0.e4" id="30506560.s0.p1" relation="true"/>
+    <pair e1="30506560.s0.e2" e2="30506560.s0.e3" id="30506560.s0.p2" relation="true"/>
+    <pair e1="30506560.s0.e2" e2="30506560.s0.e4" id="30506560.s0.p3" relation="true"/>
+  </sentence>
+</document>

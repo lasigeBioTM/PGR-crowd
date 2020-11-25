@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="30544479">
+  <sentence id="30544479.s0" text="To retrospectively analyze and quantitatively correlate UGT1A1 (bilirubin UDP- glucuronosyltransferase gene) genomuscle organ developments and unconjugated hyperbilirubinemia (UCH) phenotypes among Chinese children.We retrospectively reviewed UCH patients, quantitatively analyzed genotype-phenotype correlation by comparing with healthy controls.">
+    <entity charOffset="113-137" id="30544479.s0.e0" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="156-174" id="30544479.s0.e1" ontology_id="HP_0002904" text="hyperbilirubinemia" type="HP"/>
+  </sentence>
+</document>

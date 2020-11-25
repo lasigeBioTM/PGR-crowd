@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27908734">
+  <sentence id="27908734.s0" text="In this study, we have found that glyceraldehyde-3-phosphate biosynthetic process expression was greatly decreased in clinical HCC samples, positively correlated with overall survival, and negatively associated with histological differentiation, tumor size and organ metastasis.">
+    <entity charOffset="34-81" id="27908734.s0.e0" ontology_id="GO_0046166" text="glyceraldehyde-3-phosphate biosynthetic process" type="GO"/>
+    <entity charOffset="246-251" id="27908734.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="27908734.s0.e0" e2="27908734.s0.e1" id="27908734.s0.p0" relation="true"/>
+  </sentence>
+</document>

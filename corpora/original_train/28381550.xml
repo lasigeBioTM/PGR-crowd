@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<document id="28381550">
+  <sentence id="28381550.s0" text="Bartter syndrome muscle organ development 3 is a clinically heterogeneous hereditary salt-losing tubulopathy caused by mutations of the chloride voltage-gated channel Kb gene (&lt;i&gt;excretion&lt;/i&gt;), which encodes the positive regulation of cell proliferation-Kb chloride channel involved in NaCl reabsorption in the renal tubule.">
+    <entity charOffset="17-41" id="28381550.s0.e0" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="60-73" id="28381550.s0.e1" ontology_id="HP_0001425" text="heterogeneous" type="HP"/>
+    <entity charOffset="179-188" id="28381550.s0.e2" ontology_id="GO_0007588" text="excretion" type="GO"/>
+    <entity charOffset="213-254" id="28381550.s0.e3" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <pair e1="28381550.s0.e0" e2="28381550.s0.e1" id="28381550.s0.p0" relation="false"/>
+    <pair e1="28381550.s0.e1" e2="28381550.s0.e2" id="28381550.s0.p1" relation="true"/>
+    <pair e1="28381550.s0.e1" e2="28381550.s0.e3" id="28381550.s0.p2" relation="false"/>
+  </sentence>
+  <sentence id="28381550.s1" text="Among patients, 29.5% had a phenomuscle organ development of ante/neonatal Bartter syndrome (polyhydramnios or diagnosis in the first month of life), 44.5% had classic Bartter syndrome (diagnosis during childhood, hypercalciuria, and/or polyuria), and 26.0% had Gitelman-like syndrome (fortuitous discovery of hypokalemia with hypomagnesemia and/or hypocalciuria in childhood or adulthood).">
+    <entity charOffset="33-57" id="28381550.s1.e0" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="214-228" id="28381550.s1.e1" ontology_id="HP_0002150" text="hypercalciuria" type="HP"/>
+    <entity charOffset="310-321" id="28381550.s1.e2" ontology_id="HP_0002900" text="hypokalemia" type="HP"/>
+    <entity charOffset="327-341" id="28381550.s1.e3" ontology_id="HP_0002917" text="hypomagnesemia" type="HP"/>
+    <entity charOffset="349-362" id="28381550.s1.e4" ontology_id="HP_0003127" text="hypocalciuria" type="HP"/>
+    <pair e1="28381550.s1.e0" e2="28381550.s1.e1" id="28381550.s1.p0" relation="false"/>
+    <pair e1="28381550.s1.e0" e2="28381550.s1.e2" id="28381550.s1.p1" relation="false"/>
+    <pair e1="28381550.s1.e0" e2="28381550.s1.e3" id="28381550.s1.p2" relation="false"/>
+    <pair e1="28381550.s1.e0" e2="28381550.s1.e4" id="28381550.s1.p3" relation="false"/>
+  </sentence>
+</document>

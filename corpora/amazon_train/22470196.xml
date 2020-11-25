@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<document id="22470196">
+  <sentence id="22470196.s0" text="Somatic defects at five loci, WT1, protein polyubiquitination, positive regulation of protein ubiquitination, TP53 and the imprinted 11p15 region, are implicated in Wilms tumor, the commonest childhood kidney cancer.">
+    <entity charOffset="35-61" id="22470196.s0.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="63-108" id="22470196.s0.e1" ontology_id="GO_0031398" text="positive regulation of protein ubiquitination" type="GO"/>
+    <entity charOffset="171-176" id="22470196.s0.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="209-215" id="22470196.s0.e3" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="22470196.s0.e0" e2="22470196.s0.e2" id="22470196.s0.p0" relation="true"/>
+    <pair e1="22470196.s0.e0" e2="22470196.s0.e3" id="22470196.s0.p1" relation="true"/>
+    <pair e1="22470196.s0.e1" e2="22470196.s0.e2" id="22470196.s0.p2" relation="true"/>
+    <pair e1="22470196.s0.e1" e2="22470196.s0.e3" id="22470196.s0.p3" relation="true"/>
+  </sentence>
+  <sentence id="22470196.s1" text="We identified mutations of WTX in 32%, protein polyubiquitination in 15%, WT1 in 12% and TP53 in 5% of tumors.">
+    <entity charOffset="39-65" id="22470196.s1.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="103-108" id="22470196.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="22470196.s1.e0" e2="22470196.s1.e1" id="22470196.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="22470196.s2" text="Group 1 tumors (63%) were defined as 11p15-mutant and WT1-normal; a third also had positive regulation of protein ubiquitination mutations.">
+    <entity charOffset="8-13" id="22470196.s2.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="83-128" id="22470196.s2.e1" ontology_id="GO_0031398" text="positive regulation of protein ubiquitination" type="GO"/>
+    <pair e1="22470196.s2.e0" e2="22470196.s2.e1" id="22470196.s2.p0" relation="false"/>
+  </sentence>
+</document>

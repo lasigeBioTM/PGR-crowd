@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="28481869">
+  <sentence id="28481869.s0" text="negative regulation of mammary gland epithelial cell proliferation, a critical transcription factor involved in the development of the mammary gland, also plays important roles in mammary tumorigenesis by regulating transcription in coordination with two essential DNA repair factors, PARP1 and BRCA1.">
+    <entity charOffset="0-66" id="28481869.s0.e0" ontology_id="GO_0033600" text="negative regulation of mammary gland epithelial cell proliferation" type="GO"/>
+    <entity charOffset="188-193" id="28481869.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28481869.s0.e0" e2="28481869.s0.e1" id="28481869.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28481869.s1" text="In addition, through data mining analysis, we observed an extremely strong correlation between the expression levels of GATA3 and double-strand break repair via homologous recombination in paratumors, but the correlation turned insignificant in mammary tumors.">
+    <entity charOffset="130-185" id="28481869.s1.e0" ontology_id="GO_0000724" text="double-strand break repair via homologous recombination" type="GO"/>
+    <entity charOffset="193-199" id="28481869.s1.e1" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <pair e1="28481869.s1.e0" e2="28481869.s1.e1" id="28481869.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="28481869.s2" text="Using vectors encoding negative regulation of mammary gland epithelial cell proliferation with mutations frequently occurring in mammary tumors, we found that several mutations on GATA3 led to a dysregulation of CtIP, and therefore HR repair.">
+    <entity charOffset="23-89" id="28481869.s2.e0" ontology_id="GO_0033600" text="negative regulation of mammary gland epithelial cell proliferation" type="GO"/>
+    <entity charOffset="137-143" id="28481869.s2.e1" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <pair e1="28481869.s2.e0" e2="28481869.s2.e1" id="28481869.s2.p0" relation="true"/>
+  </sentence>
+</document>

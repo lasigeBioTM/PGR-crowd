@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="29348788">
+  <sentence id="29348788.s0" text="Pre-NACT core needle biopsies and postoperative tumor samples were immunohistochemically stained for nuclear factor erythroid 2-related factor 2 (positive regulation of transcription by RNA polymerase II), Kelch-like ECH-associated protein 1 (proteasomal ubiquitin-independent protein catabolic process), thioredoxin (Trx), and peroxiredoxin I (Prx I).">
+    <entity charOffset="48-53" id="29348788.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="146-203" id="29348788.s0.e1" ontology_id="GO_0045944" text="positive regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="243-302" id="29348788.s0.e2" ontology_id="GO_0010499" text="proteasomal ubiquitin-independent protein catabolic process" type="GO"/>
+    <pair e1="29348788.s0.e0" e2="29348788.s0.e1" id="29348788.s0.p0" relation="true"/>
+    <pair e1="29348788.s0.e0" e2="29348788.s0.e2" id="29348788.s0.p1" relation="true"/>
+  </sentence>
+</document>

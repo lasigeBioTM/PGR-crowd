@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="26336158">
+  <sentence id="26336158.s0" text="We describe a female proband with primordial dwarfism, skeletal dysplasia, facial dysmorphism, extreme dyslipidaemic insulin resistance and fatty liver associated with a novel homozygous frameshift mutation in growth plate cartilage chondrocyte development, predicted to affect two of the three protein products of the gene.">
+    <entity charOffset="55-73" id="26336158.s0.e0" ontology_id="HP_0002652" text="skeletal dysplasia" type="HP"/>
+    <entity charOffset="210-256" id="26336158.s0.e1" ontology_id="GO_0003431" text="growth plate cartilage chondrocyte development" type="GO"/>
+    <pair e1="26336158.s0.e0" e2="26336158.s0.e1" id="26336158.s0.p0" relation="true"/>
+  </sentence>
+</document>

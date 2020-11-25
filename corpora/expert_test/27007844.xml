@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="27007844">
+  <sentence id="27007844.s0" text="Global smoothened signaling pathway deletion recapitulates learning impairment, hyper-aggression, and motor defects, all of which are insensitive to SK pharmacological targeting and not found in the protein import into nucleus-restricted deletion mouse.">
+    <entity charOffset="7-35" id="27007844.s0.e0" ontology_id="GO_0007224" text="smoothened signaling pathway" type="GO"/>
+    <entity charOffset="86-96" id="27007844.s0.e1" ontology_id="HP_0000718" text="aggression" type="HP"/>
+    <entity charOffset="199-226" id="27007844.s0.e2" ontology_id="GO_0006606" text="protein import into nucleus" type="GO"/>
+    <pair e1="27007844.s0.e0" e2="27007844.s0.e1" id="27007844.s0.p0" relation="true"/>
+    <pair e1="27007844.s0.e1" e2="27007844.s0.e2" id="27007844.s0.p1" relation="true"/>
+  </sentence>
+</document>

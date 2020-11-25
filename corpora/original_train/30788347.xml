@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30788347">
+  <sentence id="30788347.s0" text="Necropsy revealed extensive granulomatous pneumonia, from which inner cell mass cell proliferation was isolated and identified as a member of LAM3/F11 lineage; a common lineage found in humans in South Africa.">
+    <entity charOffset="42-51" id="30788347.s0.e0" ontology_id="HP_0002090" text="pneumonia" type="HP"/>
+    <entity charOffset="64-98" id="30788347.s0.e1" ontology_id="GO_0001833" text="inner cell mass cell proliferation" type="GO"/>
+    <pair e1="30788347.s0.e0" e2="30788347.s0.e1" id="30788347.s0.p0" relation="false"/>
+  </sentence>
+</document>

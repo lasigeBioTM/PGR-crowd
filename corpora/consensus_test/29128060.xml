@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="29128060">
+  <sentence id="29128060.s0" text="This trend is, in part, secondary, to the growing incidence of obesity, muscle organ development 2 diabetes, and metabolic syndrome.">
+    <entity charOffset="63-70" id="29128060.s0.e0" ontology_id="HP_0001513" text="obesity" type="HP"/>
+    <entity charOffset="72-96" id="29128060.s0.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+  </sentence>
+</document>

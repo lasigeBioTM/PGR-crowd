@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29694336">
+  <sentence id="29694336.s0" text="Additionally, despite mitochondrial fission affecting mitochondrial functionality, and hence being of great importance to cellular function, the GDAP1‑associated Charcot-Marie-Tooth disease is mainly characterized by axonal degeneration.">
+    <entity charOffset="22-43" id="29694336.s0.e0" ontology_id="GO_0000266" text="mitochondrial fission" type="GO"/>
+    <entity charOffset="217-236" id="29694336.s0.e1" ontology_id="HP_0040078" text="axonal degeneration" type="HP"/>
+    <pair e1="29694336.s0.e0" e2="29694336.s0.e1" id="29694336.s0.p0" relation="true"/>
+  </sentence>
+</document>

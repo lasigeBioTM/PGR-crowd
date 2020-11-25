@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="23408445">
+  <sentence id="23408445.s0" text="The most significant association with childhood brain tumor risk was for IVS1-401G&amp;gt;C in the AICDA gene [odds ratio (OR) = 2.8; 95% confidence interval (95%CI) = 1.25-6.46]; the polymorphism *9276A&amp;gt;C of epidermis development was associated with decreased brain tumor risk (OR = 0.4; 95%CI = 0.19-0.95).">
+    <entity charOffset="54-59" id="23408445.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="208-229" id="23408445.s0.e1" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <pair e1="23408445.s0.e0" e2="23408445.s0.e1" id="23408445.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="23408445.s1" text="We concluded that genetic polymorphisms in AICDA and epidermis development are associated with risk for brain tumor in Korean children.">
+    <entity charOffset="53-74" id="23408445.s1.e0" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="110-115" id="23408445.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="23408445.s1.e0" e2="23408445.s1.e1" id="23408445.s1.p0" relation="true"/>
+  </sentence>
+</document>

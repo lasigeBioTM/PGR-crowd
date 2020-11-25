@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="28577975">
+  <sentence id="28577975.s0" text="visual perception overexpression promoted, whereas Zic2 knockdown inhibited, cell proliferation and migration in vitro as well as tumor growth and metastasis in vivo.">
+    <entity charOffset="0-17" id="28577975.s0.e0" ontology_id="GO_0007601" text="visual perception" type="GO"/>
+    <entity charOffset="130-135" id="28577975.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28577975.s0.e0" e2="28577975.s0.e1" id="28577975.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28577975.s1" text="visual perception has been shown to be crucial to the progression of human cancers.">
+    <entity charOffset="0-17" id="28577975.s1.e0" ontology_id="GO_0007601" text="visual perception" type="GO"/>
+    <entity charOffset="75-81" id="28577975.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28577975.s1.e0" e2="28577975.s1.e1" id="28577975.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="28577975.s2" text="Our data showed that visual perception expression gradually increased from normal to cancer to metastatic tissues.">
+    <entity charOffset="21-38" id="28577975.s2.e0" ontology_id="GO_0007601" text="visual perception" type="GO"/>
+    <entity charOffset="85-91" id="28577975.s2.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28577975.s2.e0" e2="28577975.s2.e1" id="28577975.s2.p0" relation="true"/>
+  </sentence>
+</document>

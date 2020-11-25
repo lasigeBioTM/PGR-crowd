@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28327662">
+  <sentence id="28327662.s0" text="Mice lacking positive regulation of glycolytic process in the liver exhibit hypolipidemia and reduced levels of liver triglycerides, along with impaired hepatic lipogenesis.">
+    <entity charOffset="13-54" id="28327662.s0.e0" ontology_id="GO_0045821" text="positive regulation of glycolytic process" type="GO"/>
+    <entity charOffset="76-89" id="28327662.s0.e1" ontology_id="HP_0045014" text="hypolipidemia" type="HP"/>
+    <pair e1="28327662.s0.e0" e2="28327662.s0.e1" id="28327662.s0.p0" relation="false"/>
+  </sentence>
+</document>

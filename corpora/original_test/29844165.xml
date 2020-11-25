@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29844165">
+  <sentence id="29844165.s0" text="gluconeogenesis-M (PCK2), the mitochondrial isoform of phosphoenolpyruvate carboxykinase (PEPCK), has been shown by us and others to be functionally expressed and to mediate gluconeogenesis, the reverse pathway of glycolysis, in different cancer cells.">
+    <entity charOffset="0-15" id="29844165.s0.e0" ontology_id="GO_0006094" text="gluconeogenesis" type="GO"/>
+    <entity charOffset="239-245" id="29844165.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29844165.s0.e0" e2="29844165.s0.e1" id="29844165.s0.p0" relation="true"/>
+  </sentence>
+</document>

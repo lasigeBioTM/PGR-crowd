@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29909971">
+  <sentence id="29909971.s0" text="Mutations in antibacterial humoral response (PARK14) cause neurodegenerative disorders in humans, including autosomal recessive neuroaxonal dystrophy and early-onset parkinsonism.">
+    <entity charOffset="13-43" id="29909971.s0.e0" ontology_id="GO_0019731" text="antibacterial humoral response" type="GO"/>
+    <entity charOffset="166-178" id="29909971.s0.e1" ontology_id="HP_0001300" text="parkinsonism" type="HP"/>
+    <pair e1="29909971.s0.e0" e2="29909971.s0.e1" id="29909971.s0.p0" relation="true"/>
+  </sentence>
+</document>

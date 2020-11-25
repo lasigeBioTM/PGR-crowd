@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="16752389">
+  <sentence id="16752389.s0" text="In two large Turkish consanguineous families, a locus for autosomal recessive nonsyndromic hearing loss (ARNSHL) was mapped to chromosome 6p21.3 by genome-wide linkage analysis in an interval overlapping with the loci collagen fibril organization (COL11A2), DFNB66, and DFNB67.">
+    <entity charOffset="58-77" id="16752389.s0.e0" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="91-103" id="16752389.s0.e1" ontology_id="HP_0000365" text="hearing loss" type="HP"/>
+    <entity charOffset="218-246" id="16752389.s0.e2" ontology_id="GO_0030199" text="collagen fibril organization" type="GO"/>
+    <pair e1="16752389.s0.e0" e2="16752389.s0.e2" id="16752389.s0.p0" relation="true"/>
+    <pair e1="16752389.s0.e1" e2="16752389.s0.e2" id="16752389.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="16752389.s1" text="Fine mapping excluded DFNB53 and subsequently homozygous mutations were identified in the lipoma HMGIC fusion partner-like 5 (ion transport) gene, also named tetraspan membrane protein of hair cell stereocilia (TMHS) gene, which was recently shown to be mutated in the &amp;quot;hurry scurry&amp;quot; mouse and in two DFNB67-linked families from Pakistan.">
+    <entity charOffset="90-96" id="16752389.s1.e0" ontology_id="HP_0012032" text="lipoma" type="HP"/>
+    <entity charOffset="126-139" id="16752389.s1.e1" ontology_id="GO_0006811" text="ion transport" type="GO"/>
+    <pair e1="16752389.s1.e0" e2="16752389.s1.e1" id="16752389.s1.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30115683">
+  <sentence id="30115683.s0" text="Both RPE65 isomerase of the visual cycle and the rhodopsin visual pigment have recently been identified as critical players in mediating T cell costimulation-induced retinal degeneration.">
+    <entity charOffset="137-157" id="30115683.s0.e0" ontology_id="GO_0031295" text="T cell costimulation" type="GO"/>
+    <entity charOffset="166-186" id="30115683.s0.e1" ontology_id="HP_0000546" text="retinal degeneration" type="HP"/>
+    <pair e1="30115683.s0.e0" e2="30115683.s0.e1" id="30115683.s0.p0" relation="false"/>
+  </sentence>
+</document>

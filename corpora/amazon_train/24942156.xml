@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<document id="24942156">
+  <sentence id="24942156.s0" text="Patients with physical findings suggestive of Treacher Collins syndrome (regulation of translation) or mandibulofacial dysostosis (MFD) and macrocytic anemia diagnostic of Diamond-Blackfan anemia (monocyte chemotaxis) have been reported.">
+    <entity charOffset="73-98" id="24942156.s0.e0" ontology_id="GO_0006417" text="regulation of translation" type="GO"/>
+    <entity charOffset="103-129" id="24942156.s0.e1" ontology_id="HP_0005321" text="mandibulofacial dysostosis" type="HP"/>
+    <entity charOffset="197-216" id="24942156.s0.e2" ontology_id="GO_0002548" text="monocyte chemotaxis" type="GO"/>
+    <pair e1="24942156.s0.e0" e2="24942156.s0.e1" id="24942156.s0.p0" relation="true"/>
+    <pair e1="24942156.s0.e1" e2="24942156.s0.e2" id="24942156.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="24942156.s1" text="We conclude that the phenotype combining features of regulation of translation with monocyte chemotaxis is genetically heterogeneous.">
+    <entity charOffset="53-78" id="24942156.s1.e0" ontology_id="GO_0006417" text="regulation of translation" type="GO"/>
+    <entity charOffset="84-103" id="24942156.s1.e1" ontology_id="GO_0002548" text="monocyte chemotaxis" type="GO"/>
+    <entity charOffset="119-132" id="24942156.s1.e2" ontology_id="HP_0001425" text="heterogeneous" type="HP"/>
+    <pair e1="24942156.s1.e0" e2="24942156.s1.e2" id="24942156.s1.p0" relation="true"/>
+    <pair e1="24942156.s1.e1" e2="24942156.s1.e2" id="24942156.s1.p1" relation="true"/>
+  </sentence>
+</document>

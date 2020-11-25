@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="30327840">
+  <sentence id="30327840.s0" text="Low-density lipoprotein receptor-related protein 4 (LRP4) is a multi-functional protein implicated in bone, kidney and neurological diseases including Cenani-Lenz syndactyly (negative regulation of cysteine-type endopeptidase activity involved in apoptotic process), sclerosteosis, osteoporosis, congenital myasthenic syndrome and myasthenia gravis.">
+    <entity charOffset="163-173" id="30327840.s0.e0" ontology_id="HP_0001159" text="syndactyly" type="HP"/>
+    <entity charOffset="175-264" id="30327840.s0.e1" ontology_id="GO_0043154" text="negative regulation of cysteine-type endopeptidase activity involved in apoptotic process" type="GO"/>
+  </sentence>
+</document>

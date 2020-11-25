@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<document id="21292309">
+  <sentence id="21292309.s0" text="We have previously identified a novel zinc finger protein, glial cell line-derived neurotrophic factor-inducible zinc finger protein 1 (negative regulation of transcription by RNA polymerase II), whose expression was induced in the human neuroblastoma cell line TGW expressing regulation of cell adhesion by neural crest cell migration stimulation and was also detected in mouse metanephric kidney.">
+    <entity charOffset="136-193" id="21292309.s0.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="238-251" id="21292309.s0.e1" ontology_id="HP_0003006" text="neuroblastoma" type="HP"/>
+    <entity charOffset="277-304" id="21292309.s0.e2" ontology_id="GO_0030155" text="regulation of cell adhesion" type="GO"/>
+    <entity charOffset="308-335" id="21292309.s0.e3" ontology_id="GO_0001755" text="neural crest cell migration" type="GO"/>
+    <pair e1="21292309.s0.e0" e2="21292309.s0.e1" id="21292309.s0.p0" relation="false"/>
+    <pair e1="21292309.s0.e1" e2="21292309.s0.e3" id="21292309.s0.p1" relation="true"/>
+    <pair e1="21292309.s0.e1" e2="21292309.s0.e2" id="21292309.s0.p2" relation="true"/>
+  </sentence>
+  <sentence id="21292309.s1" text="In addition, negative regulation of transcription by RNA polymerase II expression was undetectable or very low in most cases of renal cell carcinomas and Wilms tumors.">
+    <entity charOffset="13-70" id="21292309.s1.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="128-149" id="21292309.s1.e1" ontology_id="HP_0005584" text="renal cell carcinomas" type="HP"/>
+    <entity charOffset="160-166" id="21292309.s1.e2" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <pair e1="21292309.s1.e0" e2="21292309.s1.e1" id="21292309.s1.p0" relation="false"/>
+    <pair e1="21292309.s1.e0" e2="21292309.s1.e2" id="21292309.s1.p1" relation="false"/>
+  </sentence>
+</document>

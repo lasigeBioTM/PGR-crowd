@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<document id="28577571">
+  <sentence id="28577571.s0" text="Mutations in four genes (intestinal cholesterol absorption, positive regulation of macrophage derived foam cell differentiation, negative regulation of receptor recycling and LDLRAP1) account for the majority of cases with familial hypercholesterolemia.">
+    <entity charOffset="25-58" id="28577571.s0.e0" ontology_id="GO_0030299" text="intestinal cholesterol absorption" type="GO"/>
+    <entity charOffset="60-127" id="28577571.s0.e1" ontology_id="GO_0010744" text="positive regulation of macrophage derived foam cell differentiation" type="GO"/>
+    <entity charOffset="129-170" id="28577571.s0.e2" ontology_id="GO_0001920" text="negative regulation of receptor recycling" type="GO"/>
+    <entity charOffset="232-252" id="28577571.s0.e3" ontology_id="HP_0003124" text="hypercholesterolemia" type="HP"/>
+    <pair e1="28577571.s0.e0" e2="28577571.s0.e3" id="28577571.s0.p0" relation="true"/>
+    <pair e1="28577571.s0.e1" e2="28577571.s0.e3" id="28577571.s0.p1" relation="true"/>
+    <pair e1="28577571.s0.e2" e2="28577571.s0.e3" id="28577571.s0.p2" relation="true"/>
+  </sentence>
+  <sentence id="28577571.s1" text="Nearly 80 genes involved in lipid metabolism (encoding structural components of lipoproteins, lipoprotein receptors and related proteins, enzymes, lipid transporters, lipid transfer proteins, and activators or inhibitors of protein function and gene transcription) with single nucleotide variants (SNVs) that are recognized to be associated with hypercholesterolemia and serum lipid negative regulation of transcription by RNA polymerase II in genome-wide association studies and candidate gene studies were identified.">
+    <entity charOffset="346-366" id="28577571.s1.e0" ontology_id="HP_0003124" text="hypercholesterolemia" type="HP"/>
+    <entity charOffset="383-440" id="28577571.s1.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="28577571.s1.e0" e2="28577571.s1.e1" id="28577571.s1.p0" relation="false"/>
+  </sentence>
+</document>

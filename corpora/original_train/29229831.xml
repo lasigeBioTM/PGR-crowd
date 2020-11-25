@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29229831">
+  <sentence id="29229831.s0" text="Having used a similar strategy for the in silico evaluation of 150 mutations of &lt;i&gt;CYP21A2&lt;/i&gt;, the disease-causing gene in congenital adrenal hyperplasia, we now provide a full structural explanation for the clinical severity of AME resulting from each known &lt;i&gt;glucocorticoid biosynthetic process&lt;/i&gt; missense mutation.">
+    <entity charOffset="135-154" id="29229831.s0.e0" ontology_id="HP_0008221" text="adrenal hyperplasia" type="HP"/>
+    <entity charOffset="263-298" id="29229831.s0.e1" ontology_id="GO_0006704" text="glucocorticoid biosynthetic process" type="GO"/>
+    <pair e1="29229831.s0.e0" e2="29229831.s0.e1" id="29229831.s0.p0" relation="false"/>
+  </sentence>
+</document>

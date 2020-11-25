@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29267478">
+  <sentence id="29267478.s0" text="Mutations in GJB2 or apoptotic process and the mitochondrial A7445G mutation, known to be the major causes of diverse Inherited Palmoplantar Keratodermas -hearing loss syndromes were not detected by Sanger sequencing.">
+    <entity charOffset="21-38" id="29267478.s0.e0" ontology_id="GO_0006915" text="apoptotic process" type="GO"/>
+    <entity charOffset="155-167" id="29267478.s0.e1" ontology_id="HP_0000365" text="hearing loss" type="HP"/>
+    <pair e1="29267478.s0.e0" e2="29267478.s0.e1" id="29267478.s0.p0" relation="true"/>
+  </sentence>
+</document>

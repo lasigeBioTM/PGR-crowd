@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="29259009">
+  <sentence id="29259009.s0" text="Overall, our findings establish RASSF4 as a tumor-suppressive mRNA splicing, via spliceosome in MM and provide a mechanistic rationale for combining trametinib with negative regulation of transcription by RNA polymerase II inhibitors or bortezomib to treat patients with tumors exhibiting low RASSF4 expression.&lt;b&gt;Significance:&lt;/b&gt; These findings provide a mechanistic rationale for combining trametinib with HDAC inhibitors or bortezomib in patients with multiple myeloma whose tumors exhibit low RASSF4 expression.">
+    <entity charOffset="44-49" id="29259009.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="62-92" id="29259009.s0.e1" ontology_id="GO_0000398" text="mRNA splicing, via spliceosome" type="GO"/>
+    <entity charOffset="165-222" id="29259009.s0.e2" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="29259009.s0.e0" e2="29259009.s0.e1" id="29259009.s0.p0" relation="true"/>
+    <pair e1="29259009.s0.e0" e2="29259009.s0.e2" id="29259009.s0.p1" relation="true"/>
+  </sentence>
+</document>

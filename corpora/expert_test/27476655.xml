@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27476655">
+  <sentence id="27476655.s0" text="In this article, we report a clinically recognizable craniofacial disorder characterized by facial dysmorphisms, severe micrognathia, rhizomelic shortening, microcephalic dwarfism, and mild developmental delay due to loss-of-function heterozygous mutations in intracellular protein transport, which encodes the coatomer subunit delta of COPI.">
+    <entity charOffset="171-179" id="27476655.s0.e0" ontology_id="HP_0003510" text="dwarfism" type="HP"/>
+    <entity charOffset="260-291" id="27476655.s0.e1" ontology_id="GO_0006886" text="intracellular protein transport" type="GO"/>
+    <pair e1="27476655.s0.e0" e2="27476655.s0.e1" id="27476655.s0.p0" relation="true"/>
+  </sentence>
+</document>

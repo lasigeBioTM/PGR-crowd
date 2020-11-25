@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<document id="30219970">
+  <sentence id="30219970.s0" text="Small intestine neuroendocrine tumors (melanosome organization-epidermal cell differentiation) represent the most common histomuscle organ development among small intestine neoplasms, and metastatic disease is usually present at diagnosis.">
+    <entity charOffset="31-37" id="30219970.s0.e0" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <entity charOffset="39-62" id="30219970.s0.e1" ontology_id="GO_0032438" text="melanosome organization" type="GO"/>
+    <entity charOffset="63-93" id="30219970.s0.e2" ontology_id="GO_0009913" text="epidermal cell differentiation" type="GO"/>
+    <entity charOffset="126-150" id="30219970.s0.e3" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="173-182" id="30219970.s0.e4" ontology_id="HP_0002664" text="neoplasms" type="HP"/>
+    <pair e1="30219970.s0.e0" e2="30219970.s0.e1" id="30219970.s0.p0" relation="false"/>
+    <pair e1="30219970.s0.e0" e2="30219970.s0.e2" id="30219970.s0.p1" relation="false"/>
+    <pair e1="30219970.s0.e0" e2="30219970.s0.e3" id="30219970.s0.p2" relation="false"/>
+    <pair e1="30219970.s0.e1" e2="30219970.s0.e4" id="30219970.s0.p3" relation="false"/>
+    <pair e1="30219970.s0.e2" e2="30219970.s0.e4" id="30219970.s0.p4" relation="false"/>
+    <pair e1="30219970.s0.e3" e2="30219970.s0.e4" id="30219970.s0.p5" relation="false"/>
+  </sentence>
+  <sentence id="30219970.s1" text="A retrospective series of 52 sporadic primary surgically resected melanosome organization-NETs, which were metastatic at diagnosis, was analyzed by high-coverage target sequencing (HCTS) for the mutational status of 57 genes and copy number status of 40 genes selected from recently published genome sequencing data.">
+    <entity charOffset="29-37" id="30219970.s1.e0" ontology_id="HP_0003745" text="sporadic" type="HP"/>
+    <entity charOffset="66-89" id="30219970.s1.e1" ontology_id="GO_0032438" text="melanosome organization" type="GO"/>
+    <pair e1="30219970.s1.e0" e2="30219970.s1.e1" id="30219970.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="30219970.s2" text="Recurrent copy number variations are important events in melanosome organization-negative regulation of transcription, DNA-templated and peptidyl-tyrosine phosphorylation may represent a novel prognostic biomarker for this tumor type">
+    <entity charOffset="57-80" id="30219970.s2.e0" ontology_id="GO_0032438" text="melanosome organization" type="GO"/>
+    <entity charOffset="81-132" id="30219970.s2.e1" ontology_id="GO_0045892" text="negative regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="137-170" id="30219970.s2.e2" ontology_id="GO_0018108" text="peptidyl-tyrosine phosphorylation" type="GO"/>
+    <entity charOffset="223-228" id="30219970.s2.e3" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="30219970.s2.e0" e2="30219970.s2.e3" id="30219970.s2.p0" relation="false"/>
+    <pair e1="30219970.s2.e1" e2="30219970.s2.e3" id="30219970.s2.p1" relation="false"/>
+    <pair e1="30219970.s2.e2" e2="30219970.s2.e3" id="30219970.s2.p2" relation="true"/>
+  </sentence>
+</document>

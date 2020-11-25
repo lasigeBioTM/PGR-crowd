@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29735674">
+  <sentence id="29735674.s0" text="Like other macular degenerations, pathogenesis within the retinal pigment epithelium (carbohydrate metabolic process) appears to contribute to the loss of photoreceptors from the central retina.">
+    <entity charOffset="11-32" id="29735674.s0.e0" ontology_id="HP_0000608" text="macular degenerations" type="HP"/>
+    <entity charOffset="86-116" id="29735674.s0.e1" ontology_id="GO_0005975" text="carbohydrate metabolic process" type="GO"/>
+    <pair e1="29735674.s0.e0" e2="29735674.s0.e1" id="29735674.s0.p0" relation="false"/>
+  </sentence>
+</document>

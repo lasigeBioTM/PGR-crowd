@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<document id="27481395">
+  <sentence id="27481395.s0" text="Glycine cleavage system (cysteine metabolic process) catalyzes the degradation of glycine and disruption of its components encoded by glycine catabolic process, glycine decarboxylation via glycine cleavage system and GCSH are the only known causes of glycine encephalopathy, also known as non-ketotic hyperglycinemia (glycine decarboxylation via glycine cleavage system).">
+    <entity charOffset="25-51" id="27481395.s0.e0" ontology_id="GO_0006534" text="cysteine metabolic process" type="GO"/>
+    <entity charOffset="134-159" id="27481395.s0.e1" ontology_id="GO_0006546" text="glycine catabolic process" type="GO"/>
+    <entity charOffset="161-212" id="27481395.s0.e2" ontology_id="GO_0019464" text="glycine decarboxylation via glycine cleavage system" type="GO"/>
+    <entity charOffset="259-273" id="27481395.s0.e3" ontology_id="HP_0001298" text="encephalopathy" type="HP"/>
+    <entity charOffset="301-316" id="27481395.s0.e4" ontology_id="HP_0002154" text="hyperglycinemia" type="HP"/>
+    <entity charOffset="318-369" id="27481395.s0.e5" ontology_id="GO_0019464" text="glycine decarboxylation via glycine cleavage system" type="GO"/>
+    <pair e1="27481395.s0.e0" e2="27481395.s0.e4" id="27481395.s0.p0" relation="true"/>
+    <pair e1="27481395.s0.e1" e2="27481395.s0.e3" id="27481395.s0.p1" relation="true"/>
+    <pair e1="27481395.s0.e2" e2="27481395.s0.e3" id="27481395.s0.p2" relation="true"/>
+    <pair e1="27481395.s0.e2" e2="27481395.s0.e4" id="27481395.s0.p3" relation="true"/>
+    <pair e1="27481395.s0.e3" e2="27481395.s0.e5" id="27481395.s0.p4" relation="true"/>
+  </sentence>
+</document>

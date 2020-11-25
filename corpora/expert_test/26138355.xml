@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="26138355">
+  <sentence id="26138355.s0" text="Missense mutations in SCN2A (p.Leu1342Pro) and potassium ion transmembrane transport (p.Ala306Thr) were found in two patients with no history of epilepsy before the onset of ISs.">
+    <entity charOffset="47-84" id="26138355.s0.e0" ontology_id="GO_0071805" text="potassium ion transmembrane transport" type="GO"/>
+    <entity charOffset="145-153" id="26138355.s0.e1" ontology_id="HP_0001250" text="epilepsy" type="HP"/>
+    <pair e1="26138355.s0.e0" e2="26138355.s0.e1" id="26138355.s0.p0" relation="true"/>
+  </sentence>
+</document>

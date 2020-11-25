@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27893709">
+  <sentence id="27893709.s0" text="We found that protein acetylation was amplified in 11% and/or overexpressed in 15% of breast tumors, and overexpression of MYST3 correlated with worse clinical outcome in estrogen receptor+ (ER+) breast cancers.">
+    <entity charOffset="14-33" id="27893709.s0.e0" ontology_id="GO_0006473" text="protein acetylation" type="GO"/>
+    <entity charOffset="203-209" id="27893709.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27893709.s0.e0" e2="27893709.s0.e1" id="27893709.s0.p0" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<document id="28211977">
+  <sentence id="28211977.s0" text="Loss-of-function mutations of ATP-dependent chromatin remodeling have recently been defined to cause a recognizable syndrome with intellectual disability (ID).">
+    <entity charOffset="30-64" id="28211977.s0.e0" ontology_id="GO_0043044" text="ATP-dependent chromatin remodeling" type="GO"/>
+    <entity charOffset="130-153" id="28211977.s0.e1" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <pair e1="28211977.s0.e0" e2="28211977.s0.e1" id="28211977.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28211977.s1" text="We herein report an infant with feeding difficulty, developmental delay, hypotonia, and dysmorphic features including small palpebral fissures, telecanthus, sparse hair and eyebrow, cup-shaped prolyl-tRNA aminoacylation, and clinodactyly.">
+    <entity charOffset="52-71" id="28211977.s1.e0" ontology_id="HP_0001263" text="developmental delay" type="HP"/>
+    <entity charOffset="118-142" id="28211977.s1.e1" ontology_id="HP_0045025" text="small palpebral fissures" type="HP"/>
+    <entity charOffset="193-219" id="28211977.s1.e2" ontology_id="GO_0006433" text="prolyl-tRNA aminoacylation" type="GO"/>
+    <entity charOffset="225-237" id="28211977.s1.e3" ontology_id="HP_0030084" text="clinodactyly" type="HP"/>
+    <pair e1="28211977.s1.e1" e2="28211977.s1.e2" id="28211977.s1.p0" relation="true"/>
+    <pair e1="28211977.s1.e2" e2="28211977.s1.e3" id="28211977.s1.p1" relation="true"/>
+  </sentence>
+</document>

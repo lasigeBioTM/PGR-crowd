@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="30298137">
+  <sentence id="30298137.s0" text="Our data demonstrate that G211 mutation in the UGT1A1 gene, carbohydrate metabolic process incompatibility, G6PD deficiency, and the SS genotype of the repeats in the promoter region of the HO-1 gene are risk factors for neonatal hyperbilirubinemia in Fujian, Southeastern China">
+    <entity charOffset="60-90" id="30298137.s0.e0" ontology_id="GO_0005975" text="carbohydrate metabolic process" type="GO"/>
+    <entity charOffset="230-248" id="30298137.s0.e1" ontology_id="HP_0002904" text="hyperbilirubinemia" type="HP"/>
+  </sentence>
+</document>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="29768408">
+  <sentence id="29768408.s0" text="Here, we identified three families with mutations in transmembrane transport, encoding for adducin-γ, with intellectual disability, microcephaly, cataracts and skeletal defects.">
+    <entity charOffset="53-76" id="29768408.s0.e0" ontology_id="GO_0055085" text="transmembrane transport" type="GO"/>
+    <entity charOffset="146-155" id="29768408.s0.e1" ontology_id="HP_0000518" text="cataracts" type="HP"/>
+    <pair e1="29768408.s0.e0" e2="29768408.s0.e1" id="29768408.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29768408.s1" text="In one of the families with additional cardiomyopathy and steroid-resistant nephrotic syndrome (SRNS), we found a homozygous variant in chromatin remodeling, encoding the lysine acetyltransferase 2B, with negative regulation of transcription by RNA polymerase II on KAT2B protein levels in patient fibroblasts, suggesting that this second mutation might contribute to the increased disease spectrum.">
+    <entity charOffset="39-53" id="29768408.s1.e0" ontology_id="HP_0001638" text="cardiomyopathy" type="HP"/>
+    <entity charOffset="136-156" id="29768408.s1.e1" ontology_id="GO_0006338" text="chromatin remodeling" type="GO"/>
+    <entity charOffset="205-262" id="29768408.s1.e2" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="29768408.s1.e0" e2="29768408.s1.e1" id="29768408.s1.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="26251042">
+  <sentence id="26251042.s0" text="Ectopic expression of Cx31 in mouse skin results in skin abnormalities resembling human in utero embryonic development.">
+    <entity charOffset="52-70" id="26251042.s0.e0" ontology_id="HP_0000951" text="skin abnormalities" type="HP"/>
+    <entity charOffset="88-118" id="26251042.s0.e1" ontology_id="GO_0001701" text="in utero embryonic development" type="GO"/>
+    <pair e1="26251042.s0.e0" e2="26251042.s0.e1" id="26251042.s0.p0" relation="false"/>
+  </sentence>
+</document>

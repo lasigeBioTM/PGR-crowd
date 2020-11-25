@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="29302927">
+  <sentence id="29302927.s0" text="It is characterized by hyperkeratotic follicular papules coalescing into orange-protein phosphorylation scaly plaques, islands of sparing, and palmoplantar keratoderma.">
+    <entity charOffset="80-103" id="29302927.s0.e0" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <entity charOffset="143-167" id="29302927.s0.e1" ontology_id="HP_0000982" text="palmoplantar keratoderma" type="HP"/>
+  </sentence>
+</document>

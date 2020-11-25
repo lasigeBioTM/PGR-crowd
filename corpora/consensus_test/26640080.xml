@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="26640080">
+  <sentence id="26640080.s0" text="We extend the negative regulation of microtubule depolymerization associated phenotype by describing a syndrome characterized by primordial dwarfism, lissencephaly, polysyndactyly, and dental anomalies, which is caused by a homozygous truncating KATNB1 mutation">
+    <entity charOffset="14-65" id="26640080.s0.e0" ontology_id="GO_0007026" text="negative regulation of microtubule depolymerization" type="GO"/>
+    <entity charOffset="140-148" id="26640080.s0.e1" ontology_id="HP_0003510" text="dwarfism" type="HP"/>
+    <entity charOffset="150-163" id="26640080.s0.e2" ontology_id="HP_0001339" text="lissencephaly" type="HP"/>
+    <entity charOffset="185-201" id="26640080.s0.e3" ontology_id="HP_0000164" text="dental anomalies" type="HP"/>
+    <pair e1="26640080.s0.e0" e2="26640080.s0.e1" id="26640080.s0.p0" relation="true"/>
+    <pair e1="26640080.s0.e0" e2="26640080.s0.e2" id="26640080.s0.p1" relation="true"/>
+    <pair e1="26640080.s0.e0" e2="26640080.s0.e3" id="26640080.s0.p2" relation="true"/>
+  </sentence>
+</document>

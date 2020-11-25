@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="30104180">
+  <sentence id="30104180.s0" text="Owing to the lack of universal and specific tumor markers for neuroblastoma (NB), in this prospective study, we adopted an EpCAM-independent method to detect CTCs in the GPI anchor metabolic processipheral blood of NB patients.">
+    <entity charOffset="62-75" id="30104180.s0.e0" ontology_id="HP_0003006" text="neuroblastoma" type="HP"/>
+    <entity charOffset="170-198" id="30104180.s0.e1" ontology_id="GO_0006505" text="GPI anchor metabolic process" type="GO"/>
+  </sentence>
+</document>

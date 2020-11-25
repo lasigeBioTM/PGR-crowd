@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="26683626">
+  <sentence id="26683626.s0" text="While control subjects with high PGC-1α expression exhibited high PV and neurofilament bundle assembly expression, schizophrenia subjects with high PGC-1α expression did not, suggesting dissociation between PGC-1α expression and these targets in schizophrenia.">
+    <entity charOffset="73-102" id="26683626.s0.e0" ontology_id="GO_0033693" text="neurofilament bundle assembly" type="GO"/>
+    <entity charOffset="115-128" id="26683626.s0.e1" ontology_id="HP_0100753" text="schizophrenia" type="HP"/>
+    <pair e1="26683626.s0.e0" e2="26683626.s0.e1" id="26683626.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="26683626.s1" text="Interestingly, the positive correlation between PGC-1α and PV, positive regulation of dendrite extension, or Cplx1 expression was lost in schizophrenia patients with low NRF-1 expression, suggesting that NRF-1 is a critical predictor of these genes in disease.">
+    <entity charOffset="63-104" id="26683626.s1.e0" ontology_id="GO_1903861" text="positive regulation of dendrite extension" type="GO"/>
+    <entity charOffset="138-151" id="26683626.s1.e1" ontology_id="HP_0100753" text="schizophrenia" type="HP"/>
+    <pair e1="26683626.s1.e0" e2="26683626.s1.e1" id="26683626.s1.p0" relation="true"/>
+  </sentence>
+</document>

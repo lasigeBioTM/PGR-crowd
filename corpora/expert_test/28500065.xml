@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="28500065">
+  <sentence id="28500065.s0" text="Global &lt;i&gt;ubiquitin-dependent protein catabolic process&lt;/i&gt; gene deletion or conditional inactivation in Nestin-positive cells led to formation of supratentorial hydrocephalus in the early postnatal period.">
+    <entity charOffset="10-55" id="28500065.s0.e0" ontology_id="GO_0006511" text="ubiquitin-dependent protein catabolic process" type="GO"/>
+    <entity charOffset="162-175" id="28500065.s0.e1" ontology_id="HP_0000238" text="hydrocephalus" type="HP"/>
+    <pair e1="28500065.s0.e0" e2="28500065.s0.e1" id="28500065.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28500065.s1" text="&lt;i&gt;LCAM1&lt;/i&gt; and &lt;i&gt;ubiquitin-dependent protein catabolic process&lt;/i&gt; (&lt;i&gt;MUPP1&lt;/i&gt;) are the only known human gene loci associated with non-syndromic hydrocephalus.">
+    <entity charOffset="20-65" id="28500065.s1.e0" ontology_id="GO_0006511" text="ubiquitin-dependent protein catabolic process" type="GO"/>
+    <entity charOffset="150-163" id="28500065.s1.e1" ontology_id="HP_0000238" text="hydrocephalus" type="HP"/>
+    <pair e1="28500065.s1.e0" e2="28500065.s1.e1" id="28500065.s1.p0" relation="true"/>
+  </sentence>
+</document>

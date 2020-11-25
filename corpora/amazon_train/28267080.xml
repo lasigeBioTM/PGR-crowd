@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<document id="28267080">
+  <sentence id="28267080.s0" text="Blood and tissue samples from 48 osteosarcoma patients were obtained, and the following polymorphisms were analyzed; SLC19A1 80G&amp;gt;A, negative regulation of translation 829C&amp;gt;T, regulation of histone methylation 677C&amp;gt;T, MTHFR 1298A&amp;gt;C, and nucleobase-containing compound metabolic process 347C&amp;gt;G.">
+    <entity charOffset="33-45" id="28267080.s0.e0" ontology_id="HP_0002669" text="osteosarcoma" type="HP"/>
+    <entity charOffset="135-169" id="28267080.s0.e1" ontology_id="GO_0017148" text="negative regulation of translation" type="GO"/>
+    <entity charOffset="181-214" id="28267080.s0.e2" ontology_id="GO_0031060" text="regulation of histone methylation" type="GO"/>
+    <entity charOffset="248-296" id="28267080.s0.e3" ontology_id="GO_0006139" text="nucleobase-containing compound metabolic process" type="GO"/>
+    <pair e1="28267080.s0.e0" e2="28267080.s0.e1" id="28267080.s0.p0" relation="true"/>
+    <pair e1="28267080.s0.e0" e2="28267080.s0.e2" id="28267080.s0.p1" relation="true"/>
+    <pair e1="28267080.s0.e0" e2="28267080.s0.e3" id="28267080.s0.p2" relation="true"/>
+  </sentence>
+  <sentence id="28267080.s1" text="Even though the role of single nucleotide polymorphisms of nucleobase-containing compound metabolic process in chemotherapy-induced tumor necrosis has not been investigated yet, the ATIC 347C&amp;gt;G polymorphism may influence the levels of adenosine after lactation treatment, which may affect the histologic response of osteosarcoma.">
+    <entity charOffset="59-107" id="28267080.s1.e0" ontology_id="GO_0006139" text="nucleobase-containing compound metabolic process" type="GO"/>
+    <entity charOffset="132-137" id="28267080.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="254-263" id="28267080.s1.e2" ontology_id="GO_0007595" text="lactation" type="GO"/>
+    <entity charOffset="319-331" id="28267080.s1.e3" ontology_id="HP_0002669" text="osteosarcoma" type="HP"/>
+    <pair e1="28267080.s1.e0" e2="28267080.s1.e3" id="28267080.s1.p0" relation="true"/>
+    <pair e1="28267080.s1.e0" e2="28267080.s1.e1" id="28267080.s1.p1" relation="true"/>
+    <pair e1="28267080.s1.e1" e2="28267080.s1.e2" id="28267080.s1.p2" relation="true"/>
+  </sentence>
+</document>

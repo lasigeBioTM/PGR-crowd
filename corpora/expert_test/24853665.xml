@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="24853665">
+  <sentence id="24853665.s0" text="To evaluate the effectiveness of peptide cross-linking and MPS on screening sporadic NSHL patients, we recruited 63 unrelated sporadic NSHL probands, who had various levels of HL and were excluded for mutations in GJB2, fatty acid biosynthetic process-transcription, DNA-templated, and SLC26A4 genes.">
+    <entity charOffset="33-54" id="24853665.s0.e0" ontology_id="GO_0018149" text="peptide cross-linking" type="GO"/>
+    <entity charOffset="76-84" id="24853665.s0.e1" ontology_id="HP_0003745" text="sporadic" type="HP"/>
+    <entity charOffset="220-251" id="24853665.s0.e2" ontology_id="GO_0006633" text="fatty acid biosynthetic process" type="GO"/>
+    <entity charOffset="252-280" id="24853665.s0.e3" ontology_id="GO_0006351" text="transcription, DNA-templated" type="GO"/>
+    <pair e1="24853665.s0.e0" e2="24853665.s0.e1" id="24853665.s0.p0" relation="true"/>
+    <pair e1="24853665.s0.e1" e2="24853665.s0.e2" id="24853665.s0.p1" relation="false"/>
+    <pair e1="24853665.s0.e1" e2="24853665.s0.e3" id="24853665.s0.p2" relation="false"/>
+  </sentence>
+</document>

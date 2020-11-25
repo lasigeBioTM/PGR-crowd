@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30111766">
+  <sentence id="30111766.s0" text="RESULTS Circ-complement activation expression was significantly upregulated in glioma tissue and was correlated with tumor grade.">
+    <entity charOffset="13-34" id="30111766.s0.e0" ontology_id="GO_0006956" text="complement activation" type="GO"/>
+    <entity charOffset="117-122" id="30111766.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="30111766.s0.e0" e2="30111766.s0.e1" id="30111766.s0.p0" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<document id="30290678">
+  <sentence id="30290678.s0" text="The study was carried out to explore the risk stratification of the poor prognosis for patients underwent surgical treatment.60 patients diagnosed with neuroblastoma were primarily enrolled in the study from nucleosome assembly 2008 to April 2016.">
+    <entity charOffset="152-165" id="30290678.s0.e0" ontology_id="HP_0003006" text="neuroblastoma" type="HP"/>
+    <entity charOffset="208-227" id="30290678.s0.e1" ontology_id="GO_0006334" text="nucleosome assembly" type="GO"/>
+    <pair e1="30290678.s0.e0" e2="30290678.s0.e1" id="30290678.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="30290678.s1" text="Clinical variables, including age, International Neuroblastoma Staging System (INSS) stage, tumor size and site, histology, and positive regulation of gene expression status were retrospectively analyzed, and intracellular signal transduction was chosen as the endpoint.The median age of patients was 8.2 months and average follow-up period was 40.2 ± 8.6 months.">
+    <entity charOffset="92-97" id="30290678.s1.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="128-166" id="30290678.s1.e1" ontology_id="GO_0010628" text="positive regulation of gene expression" type="GO"/>
+    <entity charOffset="209-242" id="30290678.s1.e2" ontology_id="GO_0035556" text="intracellular signal transduction" type="GO"/>
+    <pair e1="30290678.s1.e0" e2="30290678.s1.e1" id="30290678.s1.p0" relation="true"/>
+    <pair e1="30290678.s1.e0" e2="30290678.s1.e2" id="30290678.s1.p1" relation="false"/>
+  </sentence>
+  <sentence id="30290678.s2" text="Cox multifactor regression analysis revealed that age, histology and positive regulation of gene expression status had significant prognostic effect on event-free survival (intracellular signal transduction) rate for neuroblastoma patients underwent surgical treatment.In our study, we identified a series of prognostic factors including age, histology, and MYCN status predicting the prognosis of neuroblastoma patients after surgical treatment">
+    <entity charOffset="69-107" id="30290678.s2.e0" ontology_id="GO_0010628" text="positive regulation of gene expression" type="GO"/>
+    <entity charOffset="173-206" id="30290678.s2.e1" ontology_id="GO_0035556" text="intracellular signal transduction" type="GO"/>
+    <entity charOffset="217-230" id="30290678.s2.e2" ontology_id="HP_0003006" text="neuroblastoma" type="HP"/>
+    <pair e1="30290678.s2.e0" e2="30290678.s2.e2" id="30290678.s2.p0" relation="false"/>
+    <pair e1="30290678.s2.e1" e2="30290678.s2.e2" id="30290678.s2.p1" relation="false"/>
+  </sentence>
+</document>

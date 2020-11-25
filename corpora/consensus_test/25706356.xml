@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="25706356">
+  <sentence id="25706356.s0" text="Mabry syndrome, hyperphosphatasia mental retardation syndrome (HPMRS), is an autosomal recessive disease characterized by increased serum levels of alkaline phosphatase (asparagine catabolic process via L-aspartate), severe developmental delay, intellectual disability, and seizures.">
+    <entity charOffset="170-214" id="25706356.s0.e0" ontology_id="GO_0033345" text="asparagine catabolic process via L-aspartate" type="GO"/>
+    <entity charOffset="224-243" id="25706356.s0.e1" ontology_id="HP_0001263" text="developmental delay" type="HP"/>
+    <entity charOffset="274-282" id="25706356.s0.e2" ontology_id="HP_0001250" text="seizures" type="HP"/>
+    <pair e1="25706356.s0.e0" e2="25706356.s0.e1" id="25706356.s0.p0" relation="false"/>
+    <pair e1="25706356.s0.e0" e2="25706356.s0.e2" id="25706356.s0.p1" relation="false"/>
+  </sentence>
+  <sentence id="25706356.s1" text="We performed whole-exome sequencing of a patient with severe intellectual disability, distinctive facial appearance, fragile nails, and persistent increased serum levels of asparagine catabolic process via L-aspartate.">
+    <entity charOffset="61-84" id="25706356.s1.e0" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <entity charOffset="173-217" id="25706356.s1.e1" ontology_id="GO_0033345" text="asparagine catabolic process via L-aspartate" type="GO"/>
+  </sentence>
+</document>

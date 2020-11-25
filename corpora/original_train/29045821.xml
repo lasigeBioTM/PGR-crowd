@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<document id="29045821">
+  <sentence id="29045821.s0" text="MiR-93-5p has been previously found to be associated with gastric cancer (vitamin D metabolic process) tumorigenesis; however, the current understanding of its function in this context remains largely incomplete.">
+    <entity charOffset="66-72" id="29045821.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="74-101" id="29045821.s0.e1" ontology_id="GO_0042359" text="vitamin D metabolic process" type="GO"/>
+    <entity charOffset="103-108" id="29045821.s0.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29045821.s0.e0" e2="29045821.s0.e1" id="29045821.s0.p0" relation="false"/>
+    <pair e1="29045821.s0.e1" e2="29045821.s0.e2" id="29045821.s0.p1" relation="false"/>
+  </sentence>
+  <sentence id="29045821.s1" text="MiR-93-5p upregulation was also shown to inhibit the expression of two well-characterized Hippo pathway regulators, protocadherin positive regulation of cell-matrix adhesion 4 (heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules), and large tumor suppressors 2 (G1/S transition of mitotic cell cycle), at both the mRNA and protein level.">
+    <entity charOffset="130-173" id="29045821.s1.e0" ontology_id="GO_0001954" text="positive regulation of cell-matrix adhesion" type="GO"/>
+    <entity charOffset="177-252" id="29045821.s1.e1" ontology_id="GO_0007157" text="heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules" type="GO"/>
+    <entity charOffset="265-270" id="29045821.s1.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="286-323" id="29045821.s1.e3" ontology_id="GO_0000082" text="G1/S transition of mitotic cell cycle" type="GO"/>
+    <pair e1="29045821.s1.e0" e2="29045821.s1.e2" id="29045821.s1.p0" relation="false"/>
+    <pair e1="29045821.s1.e1" e2="29045821.s1.e2" id="29045821.s1.p1" relation="true"/>
+    <pair e1="29045821.s1.e2" e2="29045821.s1.e3" id="29045821.s1.p2" relation="false"/>
+  </sentence>
+</document>

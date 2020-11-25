@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29909407">
+  <sentence id="29909407.s0" text="Primary pigmented nodular adrenocortical disease (PPNAD) is the rarest form of negative regulation of tumor necrosis factor production-independent CS, and can be associated with endocrine and nonendocrine tumors, forming the Carney complex (CNC).">
+    <entity charOffset="79-134" id="29909407.s0.e0" ontology_id="GO_0032720" text="negative regulation of tumor necrosis factor production" type="GO"/>
+    <entity charOffset="205-211" id="29909407.s0.e1" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <pair e1="29909407.s0.e0" e2="29909407.s0.e1" id="29909407.s0.p0" relation="false"/>
+  </sentence>
+</document>

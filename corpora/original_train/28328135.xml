@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<document id="28328135">
+  <sentence id="28328135.s0" text="Since the original description of the tRNA aminoacylation for protein translation-related cataracts, growth hormone deficiency, sensory neuropathy, sensorineural hearing loss, skeletal dysplasia syndrome (CAGSSS; OMIM 616007) in an extended consanguineous family of French-Canadian descent, no further patients have been reported.">
+    <entity charOffset="38-81" id="28328135.s0.e0" ontology_id="GO_0006418" text="tRNA aminoacylation for protein translation" type="GO"/>
+    <entity charOffset="90-99" id="28328135.s0.e1" ontology_id="HP_0000518" text="cataracts" type="HP"/>
+    <entity charOffset="162-174" id="28328135.s0.e2" ontology_id="HP_0000365" text="hearing loss" type="HP"/>
+    <entity charOffset="176-194" id="28328135.s0.e3" ontology_id="HP_0002652" text="skeletal dysplasia" type="HP"/>
+    <pair e1="28328135.s0.e0" e2="28328135.s0.e1" id="28328135.s0.p0" relation="true"/>
+    <pair e1="28328135.s0.e0" e2="28328135.s0.e2" id="28328135.s0.p1" relation="true"/>
+    <pair e1="28328135.s0.e0" e2="28328135.s0.e3" id="28328135.s0.p2" relation="true"/>
+  </sentence>
+  <sentence id="28328135.s1" text="Here, we report on a female Danish patient with a novel homozygous tRNA aminoacylation for protein translation mutation, p.Gly874Arg, who presented at birth with bilateral negative regulation of signal transduction dislocation and short stature.">
+    <entity charOffset="67-110" id="28328135.s1.e0" ontology_id="GO_0006418" text="tRNA aminoacylation for protein translation" type="GO"/>
+    <entity charOffset="172-214" id="28328135.s1.e1" ontology_id="GO_0009968" text="negative regulation of signal transduction" type="GO"/>
+    <entity charOffset="231-244" id="28328135.s1.e2" ontology_id="HP_0004322" text="short stature" type="HP"/>
+    <pair e1="28328135.s1.e0" e2="28328135.s1.e2" id="28328135.s1.p0" relation="true"/>
+    <pair e1="28328135.s1.e1" e2="28328135.s1.e2" id="28328135.s1.p1" relation="false"/>
+  </sentence>
+  <sentence id="28328135.s2" text="At 3 months, additional dysmorphic features were noted and at 18 months her radiographic skeletal abnormalities were suggestive of an underlying spondyloepimetaphyseal dysplasia (regulation of axon extension involved in axon guidance).">
+    <entity charOffset="89-111" id="28328135.s2.e0" ontology_id="HP_0000924" text="skeletal abnormalities" type="HP"/>
+    <entity charOffset="145-177" id="28328135.s2.e1" ontology_id="HP_0002651" text="spondyloepimetaphyseal dysplasia" type="HP"/>
+    <entity charOffset="179-233" id="28328135.s2.e2" ontology_id="GO_0048841" text="regulation of axon extension involved in axon guidance" type="GO"/>
+    <pair e1="28328135.s2.e0" e2="28328135.s2.e2" id="28328135.s2.p0" relation="true"/>
+    <pair e1="28328135.s2.e1" e2="28328135.s2.e2" id="28328135.s2.p1" relation="false"/>
+  </sentence>
+  <sentence id="28328135.s3" text="We present her clinical features and particularly highlight her skeletal findings, which confirm the presence of a primary SEMD skeletal dysplasia in a growing list of mitochondrial-related disorders including CAGSSS, CODAS, EVEN-PLUS, and X-linked SEMD-positive regulation of NIK/NF-kappaB signaling syndromes">
+    <entity charOffset="128-146" id="28328135.s3.e0" ontology_id="HP_0002652" text="skeletal dysplasia" type="HP"/>
+    <entity charOffset="254-300" id="28328135.s3.e1" ontology_id="GO_1901224" text="positive regulation of NIK/NF-kappaB signaling" type="GO"/>
+    <pair e1="28328135.s3.e0" e2="28328135.s3.e1" id="28328135.s3.p0" relation="false"/>
+  </sentence>
+</document>

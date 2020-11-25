@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30486759">
+  <sentence id="30486759.s0" text="The negative regulation of transcription by RNA polymerase II gene FokI CT/TT genotype was associated with an increased papillary thyroid cancer risk (CT vs CC: odds ratio = 1.71, 95% confidence interval = 1.15-2.76, p = 0.028; TT vs CC: odds ratio = 2.44, 95% confidence interval = 1.29-4.62, p = 0.005; CT/TT vs CC: odds ratio = 1.88, 95% confidence interval = 1.20-2.96, p = 0.006; CT/CC vs TT: odds ratio = 1.80, 95% confidence interval = 1.05-3.20, p = 0.041).">
+    <entity charOffset="4-61" id="30486759.s0.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="138-144" id="30486759.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30486759.s0.e0" e2="30486759.s0.e1" id="30486759.s0.p0" relation="true"/>
+  </sentence>
+</document>

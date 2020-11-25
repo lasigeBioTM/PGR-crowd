@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="24078084">
+  <sentence id="24078084.s0" text="Patients with HCP show &amp;lt;50% of normal activity and those with the rare autosomal recessive harderoporphyria accumulate harderoporphyrinogen, an intermediate porphyrin of the heme biosynthetic process reaction.">
+    <entity charOffset="74-93" id="24078084.s0.e0" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="177-202" id="24078084.s0.e1" ontology_id="GO_0006783" text="heme biosynthetic process" type="GO"/>
+    <pair e1="24078084.s0.e0" e2="24078084.s0.e1" id="24078084.s0.p0" relation="true"/>
+  </sentence>
+</document>

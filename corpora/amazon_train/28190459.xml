@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="28190459">
+  <sentence id="28190459.s0" text="We show that morpholino-mediated negative regulation of protein kinase activity loss of function in the zebrafish results in shortened body axis, microphthalmia with disorganized lens, microcephaly, reduced touch-evoked motility, and highly disorganized myofibers.">
+    <entity charOffset="33-79" id="28190459.s0.e0" ontology_id="GO_0006469" text="negative regulation of protein kinase activity" type="GO"/>
+    <entity charOffset="146-160" id="28190459.s0.e1" ontology_id="HP_0000568" text="microphthalmia" type="HP"/>
+    <entity charOffset="185-197" id="28190459.s0.e2" ontology_id="HP_0000252" text="microcephaly" type="HP"/>
+    <pair e1="28190459.s0.e0" e2="28190459.s0.e1" id="28190459.s0.p0" relation="true"/>
+    <pair e1="28190459.s0.e0" e2="28190459.s0.e2" id="28190459.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="28190459.s1" text="Altogether these data demonstrate that mutations in negative regulation of protein kinase activity cause a congenital muscular dystrophy syndrome with short stature, cataracts, and intellectual disability">
+    <entity charOffset="52-98" id="28190459.s1.e0" ontology_id="GO_0006469" text="negative regulation of protein kinase activity" type="GO"/>
+    <entity charOffset="151-164" id="28190459.s1.e1" ontology_id="HP_0004322" text="short stature" type="HP"/>
+    <pair e1="28190459.s1.e0" e2="28190459.s1.e1" id="28190459.s1.p0" relation="true"/>
+  </sentence>
+</document>

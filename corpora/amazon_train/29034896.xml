@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="29034896">
+  <sentence id="29034896.s0" text="Pathogenic sequence variants in the Sorting negative regulation of blood coagulation 10 (SNX10) gene have been associated with autosomal recessive osteopetrosis (ARO) in human.">
+    <entity charOffset="44-84" id="29034896.s0.e0" ontology_id="GO_0030195" text="negative regulation of blood coagulation" type="GO"/>
+    <entity charOffset="127-146" id="29034896.s0.e1" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+  </sentence>
+</document>

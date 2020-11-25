@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<document id="26060908">
+  <sentence id="26060908.s0" text="Gentranscription by RNA polymerase IIlized epilepsies, particularly the idiopathic or genetic generalized epilepsies (GGEs), represent some of the most common epilepsies.">
+    <entity charOffset="3-37" id="26060908.s0.e0" ontology_id="GO_0006366" text="transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="43-53" id="26060908.s0.e1" ontology_id="HP_0001250" text="epilepsies" type="HP"/>
+  </sentence>
+  <sentence id="26060908.s1" text="The first decade of the 21st century was marked by progress in understanding the basic biology of gentranscription by RNA polymerase IIlized epilepsies including generalized/genetic epilepsies with febrile seizures plus (GEFS+) and GGE through studies of large families, discovering causative mutations in cardiac muscle cell action potential involved in contraction, SCN1B, inhibitory synapse assembly, and GABRA1.">
+    <entity charOffset="101-135" id="26060908.s1.e0" ontology_id="GO_0006366" text="transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="141-151" id="26060908.s1.e1" ontology_id="HP_0001250" text="epilepsies" type="HP"/>
+    <entity charOffset="306-366" id="26060908.s1.e2" ontology_id="GO_0086002" text="cardiac muscle cell action potential involved in contraction" type="GO"/>
+    <entity charOffset="375-402" id="26060908.s1.e3" ontology_id="GO_1904862" text="inhibitory synapse assembly" type="GO"/>
+    <pair e1="26060908.s1.e1" e2="26060908.s1.e2" id="26060908.s1.p0" relation="true"/>
+    <pair e1="26060908.s1.e1" e2="26060908.s1.e3" id="26060908.s1.p1" relation="true"/>
+  </sentence>
+  <sentence id="26060908.s2" text="Genes for epileptic encephalopathies such as protein-containing complex assembly were rediscovered in GGE, highlighting the biological continuum between different epilepsies.">
+    <entity charOffset="20-36" id="26060908.s2.e0" ontology_id="HP_0001298" text="encephalopathies" type="HP"/>
+    <entity charOffset="45-80" id="26060908.s2.e1" ontology_id="GO_0065003" text="protein-containing complex assembly" type="GO"/>
+    <entity charOffset="163-173" id="26060908.s2.e2" ontology_id="HP_0001250" text="epilepsies" type="HP"/>
+    <pair e1="26060908.s2.e1" e2="26060908.s2.e2" id="26060908.s2.p0" relation="true"/>
+  </sentence>
+</document>

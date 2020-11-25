@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30388513">
+  <sentence id="30388513.s0" text="Here we discuss the heterogeneity of T-central nervous system development expressing B cells and related cells">
+    <entity charOffset="20-33" id="30388513.s0.e0" ontology_id="HP_0001425" text="heterogeneity" type="HP"/>
+    <entity charOffset="39-73" id="30388513.s0.e1" ontology_id="GO_0007417" text="central nervous system development" type="GO"/>
+    <pair e1="30388513.s0.e0" e2="30388513.s0.e1" id="30388513.s0.p0" relation="true"/>
+  </sentence>
+</document>

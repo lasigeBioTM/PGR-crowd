@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<document id="29338044">
+  <sentence id="29338044.s0" text="To investigate the mechanism by which the α-crystallin mutations negative regulation of intracellular transport-R49C and negative regulation of intracellular transport-R120G lead to cataract formation, we determined whether these mutations cause an altered expression of specific transcripts in the lens at an early postnatal age by RNA-seq analysis.">
+    <entity charOffset="65-111" id="29338044.s0.e0" ontology_id="GO_0032387" text="negative regulation of intracellular transport" type="GO"/>
+    <entity charOffset="121-167" id="29338044.s0.e1" ontology_id="GO_0032387" text="negative regulation of intracellular transport" type="GO"/>
+    <entity charOffset="182-190" id="29338044.s0.e2" ontology_id="HP_0000518" text="cataract" type="HP"/>
+    <pair e1="29338044.s0.e1" e2="29338044.s0.e2" id="29338044.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29338044.s1" text="Taken together, these findings offer additional insight into the early transcriptional changes caused by negative regulation of intracellular transport and negative regulation of intracellular transport mutations associated with autosomal dominant human cataracts, and indicate that the transcript levels of certain genes are affected by the expression of mutant α-crystallin in vivo">
+    <entity charOffset="105-151" id="29338044.s1.e0" ontology_id="GO_0032387" text="negative regulation of intracellular transport" type="GO"/>
+    <entity charOffset="156-202" id="29338044.s1.e1" ontology_id="GO_0032387" text="negative regulation of intracellular transport" type="GO"/>
+    <entity charOffset="254-263" id="29338044.s1.e2" ontology_id="HP_0000518" text="cataracts" type="HP"/>
+    <pair e1="29338044.s1.e0" e2="29338044.s1.e2" id="29338044.s1.p0" relation="true"/>
+    <pair e1="29338044.s1.e1" e2="29338044.s1.e2" id="29338044.s1.p1" relation="true"/>
+  </sentence>
+</document>

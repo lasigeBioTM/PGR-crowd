@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="24252256">
+  <sentence id="24252256.s0" text="We present a young boy whose mild ataxia and abnormal eye movements repeatedly deteriorated with fever, making him unable to smoothened signaling pathway or walk during fever episodes.">
+    <entity charOffset="34-40" id="24252256.s0.e0" ontology_id="HP_0001251" text="ataxia" type="HP"/>
+    <entity charOffset="45-67" id="24252256.s0.e1" ontology_id="HP_0000496" text="abnormal eye movements" type="HP"/>
+    <entity charOffset="125-153" id="24252256.s0.e2" ontology_id="GO_0007224" text="smoothened signaling pathway" type="GO"/>
+    <pair e1="24252256.s0.e1" e2="24252256.s0.e2" id="24252256.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="24252256.s1" text="This family demonstrates phenotypic variability of signal transduction deletions (SCA 27), fever sensmoothened signaling pathwayivity of ataxia and the added value of SNP-array analysis in making a diagnosis">
+    <entity charOffset="51-70" id="24252256.s1.e0" ontology_id="GO_0007165" text="signal transduction" type="GO"/>
+    <entity charOffset="100-128" id="24252256.s1.e1" ontology_id="GO_0007224" text="smoothened signaling pathway" type="GO"/>
+    <entity charOffset="137-143" id="24252256.s1.e2" ontology_id="HP_0001251" text="ataxia" type="HP"/>
+    <pair e1="24252256.s1.e0" e2="24252256.s1.e2" id="24252256.s1.p0" relation="true"/>
+  </sentence>
+</document>

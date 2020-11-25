@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29453204">
+  <sentence id="29453204.s0" text="We investigated plasma microRNA (protein polyubiquitinationNA) profiles associated with variation of hyperglycemia, measured as hemoglobin A1c (HbA1c), in two panels of patients with type 1 diabetes (T1D).">
+    <entity charOffset="33-59" id="29453204.s0.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="101-114" id="29453204.s0.e1" ontology_id="HP_0003074" text="hyperglycemia" type="HP"/>
+    <pair e1="29453204.s0.e0" e2="29453204.s0.e1" id="29453204.s0.p0" relation="true"/>
+  </sentence>
+</document>

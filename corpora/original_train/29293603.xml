@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<document id="29293603">
+  <sentence id="29293603.s0" text="Mutations in the elongation of very long chain fatty acid 4 (fatty acid elongation, saturated fatty acid) gene cause Stargardt macular dystrophy 3 (fatty acid elongation, saturated fatty acid), a rare, juvenile-onset, autosomal dominant form of macular degeneration.">
+    <entity charOffset="61-104" id="29293603.s0.e0" ontology_id="GO_0019367" text="fatty acid elongation, saturated fatty acid" type="GO"/>
+    <entity charOffset="127-144" id="29293603.s0.e1" ontology_id="HP_0007754" text="macular dystrophy" type="HP"/>
+    <entity charOffset="148-191" id="29293603.s0.e2" ontology_id="GO_0019367" text="fatty acid elongation, saturated fatty acid" type="GO"/>
+    <entity charOffset="245-265" id="29293603.s0.e3" ontology_id="HP_0000608" text="macular degeneration" type="HP"/>
+    <pair e1="29293603.s0.e0" e2="29293603.s0.e1" id="29293603.s0.p0" relation="true"/>
+    <pair e1="29293603.s0.e0" e2="29293603.s0.e3" id="29293603.s0.p1" relation="true"/>
+    <pair e1="29293603.s0.e1" e2="29293603.s0.e2" id="29293603.s0.p2" relation="true"/>
+    <pair e1="29293603.s0.e2" e2="29293603.s0.e3" id="29293603.s0.p3" relation="true"/>
+  </sentence>
+  <sentence id="29293603.s1" text="However, this reduction in positive regulation of cell migration-VLC-PUFA content in the all-cone retina had no negative regulation of transcription by RNA polymerase II on morphology or function and did not accelerate retinal degeneration in the R91W;Nrl-/-;fatty acid elongation, saturated fatty acid epidermis development.">
+    <entity charOffset="27-64" id="29293603.s1.e0" ontology_id="GO_0030335" text="positive regulation of cell migration" type="GO"/>
+    <entity charOffset="112-169" id="29293603.s1.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="219-239" id="29293603.s1.e2" ontology_id="HP_0000546" text="retinal degeneration" type="HP"/>
+    <entity charOffset="259-302" id="29293603.s1.e3" ontology_id="GO_0019367" text="fatty acid elongation, saturated fatty acid" type="GO"/>
+    <entity charOffset="303-324" id="29293603.s1.e4" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <pair e1="29293603.s1.e0" e2="29293603.s1.e2" id="29293603.s1.p0" relation="false"/>
+    <pair e1="29293603.s1.e1" e2="29293603.s1.e2" id="29293603.s1.p1" relation="false"/>
+    <pair e1="29293603.s1.e2" e2="29293603.s1.e4" id="29293603.s1.p2" relation="false"/>
+    <pair e1="29293603.s1.e2" e2="29293603.s1.e3" id="29293603.s1.p3" relation="true"/>
+  </sentence>
+</document>

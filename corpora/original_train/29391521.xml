@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29391521">
+  <sentence id="29391521.s0" text="To date, over 150 disease-associated variants in establishment or maintenance of cell polarity have been described, resulting in a range of retinal disease phenotypes including Leber congenital amaurosis and retinitis pigmentosa.">
+    <entity charOffset="49-94" id="29391521.s0.e0" ontology_id="GO_0007163" text="establishment or maintenance of cell polarity" type="GO"/>
+    <entity charOffset="140-155" id="29391521.s0.e1" ontology_id="HP_0000479" text="retinal disease" type="HP"/>
+    <pair e1="29391521.s0.e0" e2="29391521.s0.e1" id="29391521.s0.p0" relation="true"/>
+  </sentence>
+</document>

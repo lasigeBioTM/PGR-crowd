@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="30690883">
+  <sentence id="30690883.s0" text="Increasing evidence has shown that WT1-interacting protein (response to hypoxia) plays important roles both physiologically and pathologically in humans; however, the role of WTIP in cancer is unknown.">
+    <entity charOffset="60-79" id="30690883.s0.e0" ontology_id="GO_0001666" text="response to hypoxia" type="GO"/>
+    <entity charOffset="183-189" id="30690883.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30690883.s0.e0" e2="30690883.s0.e1" id="30690883.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="30690883.s1" text="Here, we investigated the role and mechanism of response to hypoxia in cell proliferation and tumorigenesis of non-small-cell lung cancer (NSCLC).">
+    <entity charOffset="48-67" id="30690883.s1.e0" ontology_id="GO_0001666" text="response to hypoxia" type="GO"/>
+    <entity charOffset="131-137" id="30690883.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30690883.s1.e0" e2="30690883.s1.e1" id="30690883.s1.p0" relation="true"/>
+  </sentence>
+</document>

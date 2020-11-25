@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<document id="30007115">
+  <sentence id="30007115.s0" text="In vitro and in vivo (a subcutaneous BALB/c establishment of mitotic spindle orientation mouse model) studies showed that exosomal cellular response to zinc ion starvation can significantly promote pancreatic cancer growth.">
+    <entity charOffset="44-88" id="30007115.s0.e0" ontology_id="GO_0000132" text="establishment of mitotic spindle orientation" type="GO"/>
+    <entity charOffset="131-171" id="30007115.s0.e1" ontology_id="GO_0034224" text="cellular response to zinc ion starvation" type="GO"/>
+    <entity charOffset="209-215" id="30007115.s0.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30007115.s0.e1" e2="30007115.s0.e2" id="30007115.s0.p0" relation="true"/>
+  </sentence>
+</document>

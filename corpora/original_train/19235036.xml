@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="19235036">
+  <sentence id="19235036.s0" text="We evaluated the association between dietary and supplemental zinc and prostate cancer within the VITamins And Lifestyle (VITAL) cohort, a study specifically designed to evaluate the negative regulation of transcription by RNA polymerase II of dietary supplements and cancer risk.">
+    <entity charOffset="80-86" id="19235036.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="183-240" id="19235036.s0.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="19235036.s0.e0" e2="19235036.s0.e1" id="19235036.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="19235036.s1" text="Of 35,242 negative regulation of phosphatase activity who completed the baseline dietary and supplemental questionnaire, 832 men developed invasive prostate cancers between October 2000 and December 2004.">
+    <entity charOffset="10-53" id="19235036.s1.e0" ontology_id="GO_0010923" text="negative regulation of phosphatase activity" type="GO"/>
+    <entity charOffset="157-163" id="19235036.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="19235036.s1.e0" e2="19235036.s1.e1" id="19235036.s1.p0" relation="false"/>
+  </sentence>
+</document>

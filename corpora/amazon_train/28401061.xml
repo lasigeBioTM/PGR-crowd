@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<document id="28401061">
+  <sentence id="28401061.s0" text="Transcription nucleosome disassemblyors (TFs) are major cell fate regulators frequently involved in cancer, particularly in leukemia.">
+    <entity charOffset="14-36" id="28401061.s0.e0" ontology_id="GO_0006337" text="nucleosome disassembly" type="GO"/>
+    <entity charOffset="100-106" id="28401061.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28401061.s0.e0" e2="28401061.s0.e1" id="28401061.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28401061.s1" text="In humans, &lt;i&gt;negative regulation of transcription by RNA polymerase II&lt;/i&gt; mutations are associated with severe congenital neutropenia.">
+    <entity charOffset="14-71" id="28401061.s1.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="124-135" id="28401061.s1.e1" ontology_id="HP_0001875" text="neutropenia" type="HP"/>
+    <pair e1="28401061.s1.e0" e2="28401061.s1.e1" id="28401061.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="28401061.s2" text="In keeping with this key role in cell negative regulation of apoptotic process, &lt;i&gt;negative regulation of transcription by RNA polymerase II&lt;/i&gt; is emerging as a gene involved in cancer, which also includes solid tumors.">
+    <entity charOffset="38-78" id="28401061.s2.e0" ontology_id="GO_0043066" text="negative regulation of apoptotic process" type="GO"/>
+    <entity charOffset="83-140" id="28401061.s2.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="179-185" id="28401061.s2.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="213-219" id="28401061.s2.e3" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <pair e1="28401061.s2.e0" e2="28401061.s2.e2" id="28401061.s2.p0" relation="true"/>
+    <pair e1="28401061.s2.e0" e2="28401061.s2.e3" id="28401061.s2.p1" relation="true"/>
+    <pair e1="28401061.s2.e1" e2="28401061.s2.e2" id="28401061.s2.p2" relation="true"/>
+    <pair e1="28401061.s2.e1" e2="28401061.s2.e3" id="28401061.s2.p3" relation="true"/>
+  </sentence>
+  <sentence id="28401061.s3" text="In nucleosome disassembly, abnormal activation of &lt;i&gt;negative regulation of transcription by RNA polymerase II&lt;/i&gt; and &lt;i&gt;negative regulation of transcription by RNA polymerase II&lt;/i&gt; has been related to human medulloblastoma and is also likely to be relevant in blood malignancies.">
+    <entity charOffset="3-25" id="28401061.s3.e0" ontology_id="GO_0006337" text="nucleosome disassembly" type="GO"/>
+    <entity charOffset="53-110" id="28401061.s3.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="122-179" id="28401061.s3.e2" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="210-225" id="28401061.s3.e3" ontology_id="HP_0002885" text="medulloblastoma" type="HP"/>
+    <pair e1="28401061.s3.e1" e2="28401061.s3.e3" id="28401061.s3.p0" relation="true"/>
+    <pair e1="28401061.s3.e2" e2="28401061.s3.e3" id="28401061.s3.p1" relation="true"/>
+  </sentence>
+</document>

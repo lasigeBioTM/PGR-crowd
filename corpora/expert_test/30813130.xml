@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30813130">
+  <sentence id="30813130.s0" text="The heterogeneity test, sensitivity analysis, and publication bias test was performed by Review Manager 5.3 software.Overall, 22 case-control studies with 5049 cases and 4157 controls were included in this meta-analysis, which contained 20 studies of MTHFR C677T polymorphism, 12 studies of MTHFR A1298C polymorphism and 4 studies of methionine biosynthetic process A66G polymorphism.">
+    <entity charOffset="4-17" id="30813130.s0.e0" ontology_id="HP_0001425" text="heterogeneity" type="HP"/>
+    <entity charOffset="334-365" id="30813130.s0.e1" ontology_id="GO_0009086" text="methionine biosynthetic process" type="GO"/>
+    <pair e1="30813130.s0.e0" e2="30813130.s0.e1" id="30813130.s0.p0" relation="false"/>
+  </sentence>
+</document>

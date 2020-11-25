@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="27662660">
+  <sentence id="27662660.s0" text="RHOA, transforming growth factor beta receptor signaling pathway, transforming growth factor beta receptor signaling pathway, SMAD5, negative regulation of SMAD protein complex assembly, BMPR1A, SMAD7 and negative regulation of transcription by RNA polymerase II-, which thereby emerge as candidate genes to play an important role in CRC tumor metastasis">
+    <entity charOffset="6-64" id="27662660.s0.e0" ontology_id="GO_0007179" text="transforming growth factor beta receptor signaling pathway" type="GO"/>
+    <entity charOffset="66-124" id="27662660.s0.e1" ontology_id="GO_0007179" text="transforming growth factor beta receptor signaling pathway" type="GO"/>
+    <entity charOffset="133-185" id="27662660.s0.e2" ontology_id="GO_0010991" text="negative regulation of SMAD protein complex assembly" type="GO"/>
+    <entity charOffset="205-262" id="27662660.s0.e3" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="338-343" id="27662660.s0.e4" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="27662660.s0.e0" e2="27662660.s0.e4" id="27662660.s0.p0" relation="true"/>
+    <pair e1="27662660.s0.e1" e2="27662660.s0.e4" id="27662660.s0.p1" relation="true"/>
+    <pair e1="27662660.s0.e2" e2="27662660.s0.e4" id="27662660.s0.p2" relation="true"/>
+    <pair e1="27662660.s0.e3" e2="27662660.s0.e4" id="27662660.s0.p3" relation="true"/>
+  </sentence>
+</document>

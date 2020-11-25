@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="29346610">
+  <sentence id="29346610.s0" text="The mutations in both lipid catabolic process and LPAR6/P2RY5 are responsible for autosomal recessive woolly hair with or without hypotrichosis (ARWH/HT).">
+    <entity charOffset="22-45" id="29346610.s0.e0" ontology_id="GO_0016042" text="lipid catabolic process" type="GO"/>
+    <entity charOffset="82-101" id="29346610.s0.e1" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="130-143" id="29346610.s0.e2" ontology_id="HP_0001006" text="hypotrichosis" type="HP"/>
+    <pair e1="29346610.s0.e0" e2="29346610.s0.e2" id="29346610.s0.p0" relation="true"/>
+    <pair e1="29346610.s0.e0" e2="29346610.s0.e1" id="29346610.s0.p1" relation="true"/>
+  </sentence>
+</document>

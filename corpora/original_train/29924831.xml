@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<document id="29924831">
+  <sentence id="29924831.s0" text="In a cohort of Australians of European descent, consisting of 385 keratoconus cases and 396 controls, we screened 21 keratoconus candidate genes: BANP, transcription initiation from RNA polymerase I promoter, activation of cysteine-type endopeptidase activity involved in apoptotic process, COL4A4, COL5A1, cellular response to starvation, biological_process, HGF, IL1A, IL1B, ILRN, protein processing involved in protein targeting to mitochondrion, ubiquitin-dependent protein catabolic process, positive regulation of transcription by RNA polymerase II, RAB3GAP1, double-strand break repair via homologous recombination, RXRA, SLC4A11, response to superoxide, TF and VSX1.">
+    <entity charOffset="66-77" id="29924831.s0.e0" ontology_id="HP_0000563" text="keratoconus" type="HP"/>
+    <entity charOffset="152-207" id="29924831.s0.e1" ontology_id="GO_0006361" text="transcription initiation from RNA polymerase I promoter" type="GO"/>
+    <entity charOffset="209-289" id="29924831.s0.e2" ontology_id="GO_0006919" text="activation of cysteine-type endopeptidase activity involved in apoptotic process" type="GO"/>
+    <entity charOffset="307-338" id="29924831.s0.e3" ontology_id="GO_0009267" text="cellular response to starvation" type="GO"/>
+    <entity charOffset="340-358" id="29924831.s0.e4" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="383-448" id="29924831.s0.e5" ontology_id="GO_0006627" text="protein processing involved in protein targeting to mitochondrion" type="GO"/>
+    <entity charOffset="450-495" id="29924831.s0.e6" ontology_id="GO_0006511" text="ubiquitin-dependent protein catabolic process" type="GO"/>
+    <entity charOffset="497-554" id="29924831.s0.e7" ontology_id="GO_0045944" text="positive regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="566-621" id="29924831.s0.e8" ontology_id="GO_0000724" text="double-strand break repair via homologous recombination" type="GO"/>
+    <entity charOffset="638-660" id="29924831.s0.e9" ontology_id="GO_0000303" text="response to superoxide" type="GO"/>
+    <pair e1="29924831.s0.e0" e2="29924831.s0.e9" id="29924831.s0.p0" relation="false"/>
+    <pair e1="29924831.s0.e0" e2="29924831.s0.e1" id="29924831.s0.p1" relation="false"/>
+    <pair e1="29924831.s0.e0" e2="29924831.s0.e2" id="29924831.s0.p2" relation="false"/>
+    <pair e1="29924831.s0.e0" e2="29924831.s0.e3" id="29924831.s0.p3" relation="false"/>
+    <pair e1="29924831.s0.e0" e2="29924831.s0.e4" id="29924831.s0.p4" relation="false"/>
+    <pair e1="29924831.s0.e0" e2="29924831.s0.e5" id="29924831.s0.p5" relation="false"/>
+    <pair e1="29924831.s0.e0" e2="29924831.s0.e6" id="29924831.s0.p6" relation="false"/>
+    <pair e1="29924831.s0.e0" e2="29924831.s0.e7" id="29924831.s0.p7" relation="false"/>
+    <pair e1="29924831.s0.e0" e2="29924831.s0.e8" id="29924831.s0.p8" relation="false"/>
+  </sentence>
+</document>

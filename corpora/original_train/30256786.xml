@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30256786">
+  <sentence id="30256786.s0" text="Mutations in the glucosylceramidase beta (glucosylceramide catabolic process) gene are strongly associated with neurodegenerative diseases marked by protein aggregation.">
+    <entity charOffset="42-76" id="30256786.s0.e0" ontology_id="GO_0006680" text="glucosylceramide catabolic process" type="GO"/>
+    <entity charOffset="112-137" id="30256786.s0.e1" ontology_id="HP_0002180" text="neurodegenerative disease" type="HP"/>
+    <pair e1="30256786.s0.e0" e2="30256786.s0.e1" id="30256786.s0.p0" relation="false"/>
+  </sentence>
+</document>

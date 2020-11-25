@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="28425625">
+  <sentence id="28425625.s0" text="Pedigree analysis in the Haflinger breed supports a simple recessive mode of inheritance and a genome-wide association study (N = 23) identified a 1.5 Mb locus on ECA12 significantly associated with limbal negative regulation of peptidase activity (P&lt;sub&gt;corrected&lt;/sub&gt; = 0.04).">
+    <entity charOffset="69-88" id="28425625.s0.e0" ontology_id="HP_0000005" text="mode of inheritance" type="HP"/>
+    <entity charOffset="206-247" id="28425625.s0.e1" ontology_id="GO_0010466" text="negative regulation of peptidase activity" type="GO"/>
+    <pair e1="28425625.s0.e0" e2="28425625.s0.e1" id="28425625.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28425625.s1" text="Furthermore, in humans xeroderma pigmentosum complementation group E, a disease characterized by sun sensitivity and increased risk of cutaneous negative regulation of peptidase activity and melanomas, is explained by mutations in DDB2.">
+    <entity charOffset="145-186" id="28425625.s1.e0" ontology_id="GO_0010466" text="negative regulation of peptidase activity" type="GO"/>
+    <entity charOffset="191-200" id="28425625.s1.e1" ontology_id="HP_0002861" text="melanomas" type="HP"/>
+    <pair e1="28425625.s1.e0" e2="28425625.s1.e1" id="28425625.s1.p0" relation="true"/>
+  </sentence>
+</document>

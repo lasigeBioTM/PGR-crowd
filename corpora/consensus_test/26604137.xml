@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<document id="26604137">
+  <sentence id="26604137.s0" text="Prostate cancer is the most common non-skin cancer in males, with a ∼1.5-2-fold higher incidence in African American negative regulation of phosphatase activity when compared with whites.">
+    <entity charOffset="9-15" id="26604137.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="117-160" id="26604137.s0.e1" ontology_id="GO_0010923" text="negative regulation of phosphatase activity" type="GO"/>
+  </sentence>
+  <sentence id="26604137.s1" text="In this first whole-exome sequencing study of prostate cancer, our findings do not provide strong support for the hypothesis that NS coding variants down to 0.5-1.0% frequency have large effects on prostate cancer risk in negative regulation of phosphatase activity of African ancestry.">
+    <entity charOffset="55-61" id="26604137.s1.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="222-265" id="26604137.s1.e1" ontology_id="GO_0010923" text="negative regulation of phosphatase activity" type="GO"/>
+  </sentence>
+</document>

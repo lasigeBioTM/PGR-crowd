@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<document id="30537159">
+  <sentence id="30537159.s0" text="In this study, we found that negative regulation of axon regeneration protein level was positively related to International Federation of Gynecology and Obstetrics (FIGO) stage and LASS2-negative tumors showed significant association with longer disease-free survival (DFS) and overall survival (OS) in ovarian cancer patients.">
+    <entity charOffset="29-69" id="30537159.s0.e0" ontology_id="GO_0048681" text="negative regulation of axon regeneration" type="GO"/>
+    <entity charOffset="196-202" id="30537159.s0.e1" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <entity charOffset="311-317" id="30537159.s0.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30537159.s0.e0" e2="30537159.s0.e1" id="30537159.s0.p0" relation="true"/>
+    <pair e1="30537159.s0.e0" e2="30537159.s0.e2" id="30537159.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="30537159.s1" text="The heterogeneous expression of negative regulation of axon regeneration had been exhibited in diverse ovarian cancer cells.">
+    <entity charOffset="4-17" id="30537159.s1.e0" ontology_id="HP_0001425" text="heterogeneous" type="HP"/>
+    <entity charOffset="32-72" id="30537159.s1.e1" ontology_id="GO_0048681" text="negative regulation of axon regeneration" type="GO"/>
+    <entity charOffset="111-117" id="30537159.s1.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30537159.s1.e0" e2="30537159.s1.e1" id="30537159.s1.p0" relation="true"/>
+    <pair e1="30537159.s1.e1" e2="30537159.s1.e2" id="30537159.s1.p1" relation="true"/>
+  </sentence>
+  <sentence id="30537159.s2" text="A significantly lower messenger RNA (mRNA) and protein level of negative regulation of axon regeneration was seen in 3AO cell compared with those in other types of ovarian cancer cells.">
+    <entity charOffset="64-104" id="30537159.s2.e0" ontology_id="GO_0048681" text="negative regulation of axon regeneration" type="GO"/>
+    <entity charOffset="172-178" id="30537159.s2.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30537159.s2.e0" e2="30537159.s2.e1" id="30537159.s2.p0" relation="true"/>
+  </sentence>
+  <sentence id="30537159.s3" text="The oncogenic capacity of negative regulation of axon regeneration in ovarian cancer may be mediated by increased expression of YAP/TAZ.">
+    <entity charOffset="26-66" id="30537159.s3.e0" ontology_id="GO_0048681" text="negative regulation of axon regeneration" type="GO"/>
+    <entity charOffset="78-84" id="30537159.s3.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30537159.s3.e0" e2="30537159.s3.e1" id="30537159.s3.p0" relation="true"/>
+  </sentence>
+</document>

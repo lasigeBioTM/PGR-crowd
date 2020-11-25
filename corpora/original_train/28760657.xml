@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28760657">
+  <sentence id="28760657.s0" text="Mutations in the positive regulation of stress-activated MAPK cascade gene have been associated with the X-linked form of Opitz Syndrome, a developmental disorder characterized by midline defects and intellectual disability.">
+    <entity charOffset="17-69" id="28760657.s0.e0" ontology_id="GO_0032874" text="positive regulation of stress-activated MAPK cascade" type="GO"/>
+    <entity charOffset="200-223" id="28760657.s0.e1" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <pair e1="28760657.s0.e0" e2="28760657.s0.e1" id="28760657.s0.p0" relation="false"/>
+  </sentence>
+</document>

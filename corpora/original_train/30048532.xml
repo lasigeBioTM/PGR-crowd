@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="30048532">
+  <sentence id="30048532.s0" text="The main objective of this study is to provide a brief version of the Spanish translation of the detection of chemical stimulus involved in sensory perception of bitter taste, across a sample consisting of 465 main familial caregivers (85.2% female, n = 396) between 27 and 67 years old ([Formula: see text] = 44.13; SD = 5.35) of paediatric patients between 9 and 18 years old ([Formula: see text] = 12.10, SD = 2.20; 56.8% men, n = 264) diagnosed with diabetes mellitus muscle organ development I (20.9% of the sample; n = 97), short stature (32.5% of the sample; n = 151), or a chronic respiratory disease (asthma, cystic fibrosis, bronchiolitis obliterans and bronchiectasis) (46.6% of the sample; n = 217).">
+    <entity charOffset="97-174" id="30048532.s0.e0" ontology_id="GO_0001580" text="detection of chemical stimulus involved in sensory perception of bitter taste" type="GO"/>
+    <entity charOffset="472-496" id="30048532.s0.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="530-543" id="30048532.s0.e2" ontology_id="HP_0004322" text="short stature" type="HP"/>
+    <pair e1="30048532.s0.e0" e2="30048532.s0.e2" id="30048532.s0.p0" relation="false"/>
+    <pair e1="30048532.s0.e1" e2="30048532.s0.e2" id="30048532.s0.p1" relation="false"/>
+  </sentence>
+</document>

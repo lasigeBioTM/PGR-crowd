@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="27809291">
+  <sentence id="27809291.s0" text="Metastatic bone disease has a major negative regulation of transcription by RNA polymerase II on morbidity of breast cancer (BC) patients.">
+    <entity charOffset="36-93" id="27809291.s0.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="117-123" id="27809291.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+  </sentence>
+</document>

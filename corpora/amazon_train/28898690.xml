@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="28898690">
+  <sentence id="28898690.s0" text="positive regulation of transcription by RNA polymerase II is a high-risk neuroblastoma susceptibility gene, but how LMO1 cooperates with MYCN in neuroblastoma tumorigenesis is unclear.">
+    <entity charOffset="0-57" id="28898690.s0.e0" ontology_id="GO_0045944" text="positive regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="73-86" id="28898690.s0.e1" ontology_id="HP_0003006" text="neuroblastoma" type="HP"/>
+    <pair e1="28898690.s0.e0" e2="28898690.s0.e1" id="28898690.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28898690.s1" text="develop a novel zebrafish model that elucidates a mechanism by which positive regulation of transcription by RNA polymerase II and positive regulation of gene expression synergistically initiate neuroblastoma and contribute to metastatic disease progression">
+    <entity charOffset="69-126" id="28898690.s1.e0" ontology_id="GO_0045944" text="positive regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="131-169" id="28898690.s1.e1" ontology_id="GO_0010628" text="positive regulation of gene expression" type="GO"/>
+    <entity charOffset="195-208" id="28898690.s1.e2" ontology_id="HP_0003006" text="neuroblastoma" type="HP"/>
+    <pair e1="28898690.s1.e0" e2="28898690.s1.e2" id="28898690.s1.p0" relation="true"/>
+    <pair e1="28898690.s1.e1" e2="28898690.s1.e2" id="28898690.s1.p1" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="30136158">
+  <sentence id="30136158.s0" text="Whole exome sequencing in triple negative breast cancer cases (n = 8) and targeted sequencing in healthy controls (n = 48) revealed BRIP1 rs552752779 (transcription by RNA polymerase II: 75% vs. 6.25%, OR 45.00, 95% CI 9.43-243.32), signal transduction rs527779103 (MAF: 62.5% vs. 7.29%, OR 21.19, 95% CI 5.11-94.32), ERCC2 rs121913016 (MAF: 56.25% vs. 7.29%, OR 16.34, 95% CI 4.02-70.41), DNA repair rs2020912 (MAF: 56.25% vs. 1.04%, OR 122.13, 95% CI 12.29-2985.48) as risk factors for triple negative breast cancer.">
+    <entity charOffset="49-55" id="30136158.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="151-185" id="30136158.s0.e1" ontology_id="GO_0006366" text="transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="233-252" id="30136158.s0.e2" ontology_id="GO_0007165" text="signal transduction" type="GO"/>
+    <entity charOffset="390-400" id="30136158.s0.e3" ontology_id="GO_0006281" text="DNA repair" type="GO"/>
+    <pair e1="30136158.s0.e0" e2="30136158.s0.e1" id="30136158.s0.p0" relation="true"/>
+    <pair e1="30136158.s0.e0" e2="30136158.s0.e2" id="30136158.s0.p1" relation="true"/>
+    <pair e1="30136158.s0.e0" e2="30136158.s0.e3" id="30136158.s0.p2" relation="true"/>
+  </sentence>
+</document>

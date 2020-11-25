@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<document id="30547349">
+  <sentence id="30547349.s0" text="Mutation in negative regulation of transcription by RNA polymerase I causes a wide spectrum of disease including skeletal dysplasia, neuronal migration abnormality, cardiovascular malformation, intellectual disability and intestinal obstruction.">
+    <entity charOffset="12-68" id="30547349.s0.e0" ontology_id="GO_0016479" text="negative regulation of transcription by RNA polymerase I" type="GO"/>
+    <entity charOffset="113-131" id="30547349.s0.e1" ontology_id="HP_0002652" text="skeletal dysplasia" type="HP"/>
+    <entity charOffset="194-217" id="30547349.s0.e2" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <entity charOffset="222-244" id="30547349.s0.e3" ontology_id="HP_0005214" text="intestinal obstruction" type="HP"/>
+    <pair e1="30547349.s0.e0" e2="30547349.s0.e1" id="30547349.s0.p0" relation="true"/>
+    <pair e1="30547349.s0.e0" e2="30547349.s0.e2" id="30547349.s0.p1" relation="true"/>
+    <pair e1="30547349.s0.e0" e2="30547349.s0.e3" id="30547349.s0.p2" relation="true"/>
+  </sentence>
+  <sentence id="30547349.s1" text="Reviewing the emerging dataset, we underline this unanticipated phenotypic consequence of pathogenic negative regulation of transcription by RNA polymerase I mutation-associated pulmonary disease.Conclusion: From the emerging data, we suggest that while reviewing complex cases with a sustained oxygen requirement against a clincial background of cardiac concerns or intestinal obstruction to have a high index of suspicion for FLNA related pathology and to instigate early MRI brain scan and FLNA mutation analysis.">
+    <entity charOffset="101-157" id="30547349.s1.e0" ontology_id="GO_0016479" text="negative regulation of transcription by RNA polymerase I" type="GO"/>
+    <entity charOffset="367-389" id="30547349.s1.e1" ontology_id="HP_0005214" text="intestinal obstruction" type="HP"/>
+    <pair e1="30547349.s1.e0" e2="30547349.s1.e1" id="30547349.s1.p0" relation="true"/>
+  </sentence>
+</document>

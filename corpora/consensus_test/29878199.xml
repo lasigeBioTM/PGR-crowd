@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="29878199">
+  <sentence id="29878199.s0" text="The patients' phenomuscle organ development consisted of amelogenesis imperfecta, skeletal dysplasia, and decreased bone mineral density compatible with osteoporosis.">
+    <entity charOffset="19-43" id="29878199.s0.e0" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="82-100" id="29878199.s0.e1" ontology_id="HP_0002652" text="skeletal dysplasia" type="HP"/>
+  </sentence>
+</document>

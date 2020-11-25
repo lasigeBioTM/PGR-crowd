@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<document id="27618552">
+  <sentence id="27618552.s0" text="Furthermore, we identified the activity of nitric oxide synthase 2 (NOS2, also known as inositol phosphate metabolic process) originating from the glioma cells as a driving stimulus in the control of microglial caspase-3 activity.">
+    <entity charOffset="88-124" id="27618552.s0.e0" ontology_id="GO_0043647" text="inositol phosphate metabolic process" type="GO"/>
+    <entity charOffset="147-153" id="27618552.s0.e1" ontology_id="HP_0009733" text="glioma" type="HP"/>
+    <pair e1="27618552.s0.e0" e2="27618552.s0.e1" id="27618552.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="27618552.s1" text="Repression of glioma negative regulation of translation expression in vivo led to a reduction in both microglia recruitment and tumor expansion, whereas depletion of microglial caspase-3 gene promoted tumor growth.">
+    <entity charOffset="14-20" id="27618552.s1.e0" ontology_id="HP_0009733" text="glioma" type="HP"/>
+    <entity charOffset="21-55" id="27618552.s1.e1" ontology_id="GO_0017148" text="negative regulation of translation" type="GO"/>
+    <entity charOffset="128-133" id="27618552.s1.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="27618552.s1.e0" e2="27618552.s1.e1" id="27618552.s1.p0" relation="false"/>
+    <pair e1="27618552.s1.e1" e2="27618552.s1.e2" id="27618552.s1.p1" relation="false"/>
+  </sentence>
+  <sentence id="27618552.s2" text="Our results provide evidence that inhibition of the denitrosylation of S-nitrosylated procaspase-3 mediated by the redox protein histone H3-K4 methylation is a part of the microglial pro-tumoral activation pathway initiated by glioma cancer cells">
+    <entity charOffset="129-154" id="27618552.s2.e0" ontology_id="GO_0051568" text="histone H3-K4 methylation" type="GO"/>
+    <entity charOffset="187-192" id="27618552.s2.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="227-233" id="27618552.s2.e2" ontology_id="HP_0009733" text="glioma" type="HP"/>
+    <pair e1="27618552.s2.e0" e2="27618552.s2.e1" id="27618552.s2.p0" relation="false"/>
+    <pair e1="27618552.s2.e0" e2="27618552.s2.e2" id="27618552.s2.p1" relation="false"/>
+  </sentence>
+</document>

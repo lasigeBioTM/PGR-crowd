@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="24697219">
+  <sentence id="24697219.s0" text="positive regulation of lipid kinase activity gene is highly expressed in the central nervous system and Eef1a2 knockout epidermis development show the neuronal degeneration.">
+    <entity charOffset="0-44" id="24697219.s0.e0" ontology_id="GO_0090218" text="positive regulation of lipid kinase activity" type="GO"/>
+    <entity charOffset="77-84" id="24697219.s0.e1" ontology_id="HP_0030645" text="central" type="HP"/>
+    <entity charOffset="120-141" id="24697219.s0.e2" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <pair e1="24697219.s0.e0" e2="24697219.s0.e1" id="24697219.s0.p0" relation="false"/>
+    <pair e1="24697219.s0.e1" e2="24697219.s0.e2" id="24697219.s0.p1" relation="false"/>
+  </sentence>
+</document>

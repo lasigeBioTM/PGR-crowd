@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<document id="29265763">
+  <sentence id="29265763.s0" text="Brain malformations described in association with 22q11.2 deletion syndrome include polymicrogyria, cerebellar hypoplasia, megacisterna magna, and agenesis of the corpus callosum (acetyl-CoA metabolic process), although these are rare.">
+    <entity charOffset="84-98" id="29265763.s0.e0" ontology_id="HP_0002126" text="polymicrogyria" type="HP"/>
+    <entity charOffset="100-121" id="29265763.s0.e1" ontology_id="HP_0001321" text="cerebellar hypoplasia" type="HP"/>
+    <entity charOffset="180-208" id="29265763.s0.e2" ontology_id="GO_0006084" text="acetyl-CoA metabolic process" type="GO"/>
+    <pair e1="29265763.s0.e0" e2="29265763.s0.e2" id="29265763.s0.p0" relation="false"/>
+  </sentence>
+</document>

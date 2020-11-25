@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28893434">
+  <sentence id="28893434.s0" text="This case suggested a broad phenotypic spectrum arises from corpus callosum morphogenesis mutations, forming a continuum from epileptic encephalopathy and severe developmental delay to mild intellectual disability without epilepsy.">
+    <entity charOffset="60-89" id="28893434.s0.e0" ontology_id="GO_0021540" text="corpus callosum morphogenesis" type="GO"/>
+    <entity charOffset="136-150" id="28893434.s0.e1" ontology_id="HP_0001298" text="encephalopathy" type="HP"/>
+    <pair e1="28893434.s0.e0" e2="28893434.s0.e1" id="28893434.s0.p0" relation="true"/>
+  </sentence>
+</document>

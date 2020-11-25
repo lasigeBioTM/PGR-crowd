@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="29311158">
+  <sentence id="29311158.s0" text="Overall, our results define an oncogenic role of &lt;i&gt;pancEts-1&lt;/i&gt; in neuroblastoma progression through regulation of low-density lipoprotein particle clearance-mediated β-catenin stabilization, with potential implications for the clinical therapeutics of neuroblastoma.&lt;b&gt;Significance:&lt;/b&gt; These findings reveal the oncogenic functions of a long noncoding RNA in neuroblastoma progression, offering a potential target for clinical therapeutics.">
+    <entity charOffset="69-82" id="29311158.s0.e0" ontology_id="HP_0003006" text="neuroblastoma" type="HP"/>
+    <entity charOffset="103-159" id="29311158.s0.e1" ontology_id="GO_0010988" text="regulation of low-density lipoprotein particle clearance" type="GO"/>
+    <pair e1="29311158.s0.e0" e2="29311158.s0.e1" id="29311158.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="29311158.s1" text="Both &lt;i&gt;pancEts-1&lt;/i&gt; and &lt;i&gt;regulation of low-density lipoprotein particle clearance&lt;/i&gt; were upregulated in clinical neuroblastoma tissues, and were associated with unfavorable outcome of patients.">
+    <entity charOffset="29-85" id="29311158.s1.e0" ontology_id="GO_0010988" text="regulation of low-density lipoprotein particle clearance" type="GO"/>
+    <entity charOffset="119-132" id="29311158.s1.e1" ontology_id="HP_0003006" text="neuroblastoma" type="HP"/>
+    <pair e1="29311158.s1.e0" e2="29311158.s1.e1" id="29311158.s1.p0" relation="true"/>
+  </sentence>
+</document>

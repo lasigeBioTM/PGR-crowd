@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="28111185">
+  <sentence id="28111185.s0" text="In this report, we describe a patient with a phenotype compatible with MOTA syndrome (aberrant anterior hair line, hypertelorism, unilateral anophthalmia, and bifid and broad nasal biological_process) in whom two novel craniofacial suture morphogenesis mutations (c.305 A &amp;gt; G, p.Asp102Gly; and c.2626delG, p.Val876Tyrfs*16) were identified in the compound heterozygous state, thus broadening the mutational spectrum of the disease.">
+    <entity charOffset="115-128" id="28111185.s0.e0" ontology_id="HP_0000316" text="hypertelorism" type="HP"/>
+    <entity charOffset="141-153" id="28111185.s0.e1" ontology_id="HP_0000528" text="anophthalmia" type="HP"/>
+    <entity charOffset="181-199" id="28111185.s0.e2" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="219-252" id="28111185.s0.e3" ontology_id="GO_0097094" text="craniofacial suture morphogenesis" type="GO"/>
+    <pair e1="28111185.s0.e0" e2="28111185.s0.e3" id="28111185.s0.p0" relation="true"/>
+    <pair e1="28111185.s0.e0" e2="28111185.s0.e2" id="28111185.s0.p1" relation="false"/>
+    <pair e1="28111185.s0.e1" e2="28111185.s0.e3" id="28111185.s0.p2" relation="true"/>
+    <pair e1="28111185.s0.e1" e2="28111185.s0.e2" id="28111185.s0.p3" relation="false"/>
+  </sentence>
+</document>

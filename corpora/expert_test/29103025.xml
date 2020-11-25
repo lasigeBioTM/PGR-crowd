@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<document id="29103025">
+  <sentence id="29103025.s0" text="We have identified nine genes of interest that appear to be involved in cervical cancer development: SPARCL1, synaptonemal complex assembly, mitotic cytokinesis, PRC1, TOP2A, LAMP3, KIF20A, cellular response to DNA damage stimulus, and APOBEC3B.">
+    <entity charOffset="81-87" id="29103025.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="110-139" id="29103025.s0.e1" ontology_id="GO_0007130" text="synaptonemal complex assembly" type="GO"/>
+    <entity charOffset="141-160" id="29103025.s0.e2" ontology_id="GO_0000281" text="mitotic cytokinesis" type="GO"/>
+    <entity charOffset="190-230" id="29103025.s0.e3" ontology_id="GO_0006974" text="cellular response to DNA damage stimulus" type="GO"/>
+    <pair e1="29103025.s0.e0" e2="29103025.s0.e2" id="29103025.s0.p0" relation="true"/>
+    <pair e1="29103025.s0.e0" e2="29103025.s0.e1" id="29103025.s0.p1" relation="true"/>
+    <pair e1="29103025.s0.e0" e2="29103025.s0.e3" id="29103025.s0.p2" relation="true"/>
+  </sentence>
+  <sentence id="29103025.s1" text="Further, we analyzed the expression of these nine genes during the progression of cervical cancer, and found that post-translational protein modification is also related to precancerous lesions and migration processes during cervical cancer pathogenesis.">
+    <entity charOffset="91-97" id="29103025.s1.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="114-153" id="29103025.s1.e1" ontology_id="GO_0043687" text="post-translational protein modification" type="GO"/>
+    <pair e1="29103025.s1.e0" e2="29103025.s1.e1" id="29103025.s1.p0" relation="false"/>
+  </sentence>
+</document>

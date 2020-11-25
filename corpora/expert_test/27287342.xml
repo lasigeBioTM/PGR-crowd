@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27287342">
+  <sentence id="27287342.s0" text="In case of DLEC1 and cell adhesion, expression levels were decreased in 71-78 % of tumor samples and significantly different between tumor and normal tissues (P = 0.0001).">
+    <entity charOffset="21-34" id="27287342.s0.e0" ontology_id="GO_0007155" text="cell adhesion" type="GO"/>
+    <entity charOffset="83-88" id="27287342.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="27287342.s0.e0" e2="27287342.s0.e1" id="27287342.s0.p0" relation="true"/>
+  </sentence>
+</document>

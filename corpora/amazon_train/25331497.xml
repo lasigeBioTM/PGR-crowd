@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="25331497">
+  <sentence id="25331497.s0" text="Excess accumulation of endogenous all-trans-retinal (atRAL) contributes to degeneration of the retinal pigment epithelium (carbohydrate metabolic process) and photoreceptor cells, and plays a role in the etiologies of age-related macular degeneration (AMD) and Stargardt's disease.">
+    <entity charOffset="123-153" id="25331497.s0.e0" ontology_id="GO_0005975" text="carbohydrate metabolic process" type="GO"/>
+    <entity charOffset="230-250" id="25331497.s0.e1" ontology_id="HP_0000608" text="macular degeneration" type="HP"/>
+    <pair e1="25331497.s0.e0" e2="25331497.s0.e1" id="25331497.s0.p0" relation="true"/>
+  </sentence>
+</document>

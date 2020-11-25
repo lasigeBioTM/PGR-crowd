@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="27485451">
+  <sentence id="27485451.s0" text="Somatic missense mutations in the Ser/Thr protein phosphatase 2A (PP2A) Aα scaffold subunit gene chromosome segregation are among the few genomic alterations that occur frequently in serous endometrial carcinoma (EC) and carcinosarcoma, two clinically aggressive subtypes of uterine cancer with few therapeutic options.">
+    <entity charOffset="97-119" id="27485451.s0.e0" ontology_id="GO_0007059" text="chromosome segregation" type="GO"/>
+    <entity charOffset="190-211" id="27485451.s0.e1" ontology_id="HP_0012114" text="endometrial carcinoma" type="HP"/>
+    <entity charOffset="283-289" id="27485451.s0.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27485451.s0.e0" e2="27485451.s0.e1" id="27485451.s0.p0" relation="true"/>
+    <pair e1="27485451.s0.e0" e2="27485451.s0.e2" id="27485451.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="27485451.s1" text="Accordingly, overexpression of the Aα mutants in EC cells harboring wild-type chromosome segregation increased anchorage-independent growth and tumor formation, and triggered hyperphosphorylation of oncogenic PP2A-B56/B' substrates in the GSK3β, Akt, and mTOR/p70S6K signaling pathways.">
+    <entity charOffset="78-100" id="27485451.s1.e0" ontology_id="GO_0007059" text="chromosome segregation" type="GO"/>
+    <entity charOffset="144-149" id="27485451.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="27485451.s1.e0" e2="27485451.s1.e1" id="27485451.s1.p0" relation="true"/>
+  </sentence>
+</document>

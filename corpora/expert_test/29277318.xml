@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29277318">
+  <sentence id="29277318.s0" text="Genetic rearrangements involving androgen-regulated transmembrane protease serine 2 (TMPRSS2) and genes from the ETS transcription factor family, most commonly positive regulation of transcription by RNA polymerase II and ETV1, result in alteration that responsible for oncogenic activity in prostate cancer (PC).">
+    <entity charOffset="160-217" id="29277318.s0.e0" ontology_id="GO_0045944" text="positive regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="301-307" id="29277318.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29277318.s0.e0" e2="29277318.s0.e1" id="29277318.s0.p0" relation="true"/>
+  </sentence>
+</document>

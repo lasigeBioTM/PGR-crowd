@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<document id="28792508">
+  <sentence id="28792508.s0" text="Here, we tested the positive regulation of microtubule polymerization protein-coding exons in 510 sporadic signal transduction patients in whom response to superoxide, RNA splicing, regulation of transcription, DNA-templated, and negative regulation of protein phosphorylation genes were screened before.">
+    <entity charOffset="20-69" id="28792508.s0.e0" ontology_id="GO_0031116" text="positive regulation of microtubule polymerization" type="GO"/>
+    <entity charOffset="98-106" id="28792508.s0.e1" ontology_id="HP_0003745" text="sporadic" type="HP"/>
+    <entity charOffset="107-126" id="28792508.s0.e2" ontology_id="GO_0007165" text="signal transduction" type="GO"/>
+    <entity charOffset="144-166" id="28792508.s0.e3" ontology_id="GO_0000303" text="response to superoxide" type="GO"/>
+    <entity charOffset="168-180" id="28792508.s0.e4" ontology_id="GO_0008380" text="RNA splicing" type="GO"/>
+    <entity charOffset="182-224" id="28792508.s0.e5" ontology_id="GO_0006355" text="regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="230-276" id="28792508.s0.e6" ontology_id="GO_0001933" text="negative regulation of protein phosphorylation" type="GO"/>
+    <pair e1="28792508.s0.e0" e2="28792508.s0.e1" id="28792508.s0.p0" relation="true"/>
+    <pair e1="28792508.s0.e1" e2="28792508.s0.e2" id="28792508.s0.p1" relation="true"/>
+    <pair e1="28792508.s0.e1" e2="28792508.s0.e3" id="28792508.s0.p2" relation="true"/>
+    <pair e1="28792508.s0.e1" e2="28792508.s0.e4" id="28792508.s0.p3" relation="true"/>
+    <pair e1="28792508.s0.e1" e2="28792508.s0.e5" id="28792508.s0.p4" relation="true"/>
+    <pair e1="28792508.s0.e1" e2="28792508.s0.e6" id="28792508.s0.p5" relation="true"/>
+  </sentence>
+  <sentence id="28792508.s1" text="Our results suggested that variants in DCTN1 are not common risk factors for Chinese sporadic signal transduction and that the frequency of variants of unknown significance in the cohort study was 0.39%">
+    <entity charOffset="85-93" id="28792508.s1.e0" ontology_id="HP_0003745" text="sporadic" type="HP"/>
+    <entity charOffset="94-113" id="28792508.s1.e1" ontology_id="GO_0007165" text="signal transduction" type="GO"/>
+  </sentence>
+</document>

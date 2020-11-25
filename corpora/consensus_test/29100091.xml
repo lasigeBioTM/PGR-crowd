@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="29100091">
+  <sentence id="29100091.s0" text="However, the pathophysiological mechanisms leading to bilateral kidney agenesis (rRNA processing) remain largely elusive.">
+    <entity charOffset="54-63" id="29100091.s0.e0" ontology_id="HP_0012832" text="bilateral" type="HP"/>
+    <entity charOffset="81-96" id="29100091.s0.e1" ontology_id="GO_0006364" text="rRNA processing" type="GO"/>
+  </sentence>
+</document>

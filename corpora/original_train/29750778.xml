@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29750778">
+  <sentence id="29750778.s0" text="BACKGROUND The aim of this study was to investigate the prognostic relevance of nucleus organization in lung cancer (LC).">
+    <entity charOffset="80-100" id="29750778.s0.e0" ontology_id="GO_0006997" text="nucleus organization" type="GO"/>
+    <entity charOffset="109-115" id="29750778.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29750778.s0.e0" e2="29750778.s0.e1" id="29750778.s0.p0" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="28669978">
+  <sentence id="28669978.s0" text="BACKGROUND Latent transforming growth factor b binding protein 2 (supramolecular fiber organization) is proven to be associated with platelet degranulation and involved in the advancement of several kinds of cancer.">
+    <entity charOffset="66-99" id="28669978.s0.e0" ontology_id="GO_0097435" text="supramolecular fiber organization" type="GO"/>
+    <entity charOffset="133-155" id="28669978.s0.e1" ontology_id="GO_0002576" text="platelet degranulation" type="GO"/>
+    <entity charOffset="208-214" id="28669978.s0.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28669978.s0.e0" e2="28669978.s0.e2" id="28669978.s0.p0" relation="true"/>
+    <pair e1="28669978.s0.e1" e2="28669978.s0.e2" id="28669978.s0.p1" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="24766809">
+  <sentence id="24766809.s0" text="Mice carrying kinase-dead tRNA splicing, via endonucleolytic cleavage and ligation also displayed microcephaly and reduced cortical brain volume due to the enhanced cell death of neuronal progenitors that is associated with reduced numbers of cortical neurons.">
+    <entity charOffset="26-82" id="24766809.s0.e0" ontology_id="GO_0006388" text="tRNA splicing, via endonucleolytic cleavage and ligation" type="GO"/>
+    <entity charOffset="98-110" id="24766809.s0.e1" ontology_id="HP_0000252" text="microcephaly" type="HP"/>
+    <pair e1="24766809.s0.e0" e2="24766809.s0.e1" id="24766809.s0.p0" relation="true"/>
+  </sentence>
+</document>

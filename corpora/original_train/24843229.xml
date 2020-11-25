@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<document id="24843229">
+  <sentence id="24843229.s0" text="Limb-girdle muscular dystrophies (LGMD) are a highly heterogeneous group of muscle disorders, which first affect the voluntary muscles of the negative regulation of signal transduction and shoulder areas.">
+    <entity charOffset="53-66" id="24843229.s0.e0" ontology_id="HP_0001425" text="heterogeneous" type="HP"/>
+    <entity charOffset="142-184" id="24843229.s0.e1" ontology_id="GO_0009968" text="negative regulation of signal transduction" type="GO"/>
+    <pair e1="24843229.s0.e0" e2="24843229.s0.e1" id="24843229.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="24843229.s1" text="The autosomal recessive forms (proteolysis) are: LGMD2A (calpain 3), LGMD2B (dysferlin), LGMD2C (γ sarcoglycan), LGMD2D (α sarcoglycan), LGMD2E (β sarcoglycan), LGMD2F (δ sarcoglycan), LGMD2G (telethonin), LGMD2H (protein polyubiquitination), LGMD2I (FKRP), LGMD2J (titin), LGMD2K (protein O-linked mannosylation), LGMD2L (anoctamin 5), LGMD2M (fukutin), LGMD2N (protein O-linked mannosylation), LGMD2O (POMTnG1), LGMD2P (dystroglycan), LGMD2Q (plectin), LGMD2R (desmin), LGMD2S (TRAPPC11), LGMD2T (GMPPB), LGMD2U (ISPD), LGMD2V (Glucosidase, alpha ), LGMD2W (PINCH2)">
+    <entity charOffset="4-23" id="24843229.s1.e0" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="31-42" id="24843229.s1.e1" ontology_id="GO_0006508" text="proteolysis" type="GO"/>
+    <entity charOffset="214-240" id="24843229.s1.e2" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="282-312" id="24843229.s1.e3" ontology_id="GO_0035269" text="protein O-linked mannosylation" type="GO"/>
+    <entity charOffset="363-393" id="24843229.s1.e4" ontology_id="GO_0035269" text="protein O-linked mannosylation" type="GO"/>
+    <pair e1="24843229.s1.e0" e2="24843229.s1.e1" id="24843229.s1.p0" relation="true"/>
+    <pair e1="24843229.s1.e0" e2="24843229.s1.e2" id="24843229.s1.p1" relation="true"/>
+    <pair e1="24843229.s1.e0" e2="24843229.s1.e3" id="24843229.s1.p2" relation="true"/>
+    <pair e1="24843229.s1.e0" e2="24843229.s1.e4" id="24843229.s1.p3" relation="true"/>
+  </sentence>
+</document>

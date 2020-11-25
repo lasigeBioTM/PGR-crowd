@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="29452408">
+  <sentence id="29452408.s0" text="The candidate genes located within the new loci were related to ocular development (LMX1B, HMGA2 and cellular response to mechanical stimulus) and glaucoma-related phenotypes (FNDC3B, LMX1B and protein deamination).">
+    <entity charOffset="101-141" id="29452408.s0.e0" ontology_id="GO_0071260" text="cellular response to mechanical stimulus" type="GO"/>
+    <entity charOffset="147-155" id="29452408.s0.e1" ontology_id="HP_0000501" text="glaucoma" type="HP"/>
+    <entity charOffset="194-213" id="29452408.s0.e2" ontology_id="GO_0018277" text="protein deamination" type="GO"/>
+    <pair e1="29452408.s0.e0" e2="29452408.s0.e1" id="29452408.s0.p0" relation="false"/>
+    <pair e1="29452408.s0.e1" e2="29452408.s0.e2" id="29452408.s0.p1" relation="true"/>
+  </sentence>
+</document>

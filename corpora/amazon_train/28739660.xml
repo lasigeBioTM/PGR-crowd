@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28739660">
+  <sentence id="28739660.s0" text="This study is the first to associate a component of the multi-organism toxin transport pathway with renal agenesis in humans">
+    <entity charOffset="56-86" id="28739660.s0.e0" ontology_id="GO_1990967" text="multi-organism toxin transport" type="GO"/>
+    <entity charOffset="100-114" id="28739660.s0.e1" ontology_id="HP_0000104" text="renal agenesis" type="HP"/>
+    <pair e1="28739660.s0.e0" e2="28739660.s0.e1" id="28739660.s0.p0" relation="true"/>
+  </sentence>
+</document>

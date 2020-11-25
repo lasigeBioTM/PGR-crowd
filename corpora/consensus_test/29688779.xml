@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29688779">
+  <sentence id="29688779.s0" text="RESULTS A nonsynonymous mutation at ovine Chr3:193,691,195, which generated a glycine-to-arginine amino acid change within the predicted organic anion transport protein, was significantly associated with hyperbilirubinemia and predicted to be deleterious.">
+    <entity charOffset="137-160" id="29688779.s0.e0" ontology_id="GO_0015711" text="organic anion transport" type="GO"/>
+    <entity charOffset="204-222" id="29688779.s0.e1" ontology_id="HP_0002904" text="hyperbilirubinemia" type="HP"/>
+    <pair e1="29688779.s0.e0" e2="29688779.s0.e1" id="29688779.s0.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<document id="26654129">
+  <sentence id="26654129.s0" text="The positive regulation of cysteine-type endopeptidase activity involved in apoptotic process co-receptor activation of MAPK activity is expressed transiently during normal germ cell development and is ectopically expressed in non-seminomas that arise from germ cell neoplasia in situ, suggesting that its aberrant expression may underlie germ cell dysregulation and hence germ cell cancer.">
+    <entity charOffset="4-93" id="26654129.s0.e0" ontology_id="GO_0043280" text="positive regulation of cysteine-type endopeptidase activity involved in apoptotic process" type="GO"/>
+    <entity charOffset="106-133" id="26654129.s0.e1" ontology_id="GO_0000187" text="activation of MAPK activity" type="GO"/>
+    <entity charOffset="267-276" id="26654129.s0.e2" ontology_id="HP_0002664" text="neoplasia" type="HP"/>
+    <entity charOffset="383-389" id="26654129.s0.e3" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="26654129.s0.e0" e2="26654129.s0.e3" id="26654129.s0.p0" relation="true"/>
+    <pair e1="26654129.s0.e1" e2="26654129.s0.e3" id="26654129.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="26654129.s1" text="Here we investigated methylation of the activation of MAPK activity promoter in mouse germ cells and human germ cell cancer and correlated this with the level of activation of MAPK activity protein expression.">
+    <entity charOffset="40-67" id="26654129.s1.e0" ontology_id="GO_0000187" text="activation of MAPK activity" type="GO"/>
+    <entity charOffset="117-123" id="26654129.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="162-189" id="26654129.s1.e2" ontology_id="GO_0000187" text="activation of MAPK activity" type="GO"/>
+    <pair e1="26654129.s1.e1" e2="26654129.s1.e2" id="26654129.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="26654129.s2" text="activation of MAPK activity protein was strongly expressed in germ cell neoplasia in situ along with embryonal carcinoma, yolk cAMP biosynthetic process tumor and seminomas.">
+    <entity charOffset="0-27" id="26654129.s2.e0" ontology_id="GO_0000187" text="activation of MAPK activity" type="GO"/>
+    <entity charOffset="72-81" id="26654129.s2.e1" ontology_id="HP_0002664" text="neoplasia" type="HP"/>
+    <entity charOffset="127-152" id="26654129.s2.e2" ontology_id="GO_0006171" text="cAMP biosynthetic process" type="GO"/>
+    <entity charOffset="153-158" id="26654129.s2.e3" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="26654129.s2.e0" e2="26654129.s2.e1" id="26654129.s2.p0" relation="true"/>
+    <pair e1="26654129.s2.e0" e2="26654129.s2.e3" id="26654129.s2.p1" relation="true"/>
+  </sentence>
+  <sentence id="26654129.s3" text="Further, cleaved activation of MAPK activity was detected in media from seminoma and embryonal carcinoma cell lines, suggesting that cleaved CRIPTO may provide diagnostic indication of germ cell cancer.">
+    <entity charOffset="17-44" id="26654129.s3.e0" ontology_id="GO_0000187" text="activation of MAPK activity" type="GO"/>
+    <entity charOffset="195-201" id="26654129.s3.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="26654129.s3.e0" e2="26654129.s3.e1" id="26654129.s3.p0" relation="true"/>
+  </sentence>
+  <sentence id="26654129.s4" text="Accordingly, activation of MAPK activity was detectable in serum from 6/15 patients with embryonal carcinoma, 5/15 patients with seminoma, 4/5 patients with germ cell neoplasia in situ cells only and in 1/15 control patients.">
+    <entity charOffset="13-40" id="26654129.s4.e0" ontology_id="GO_0000187" text="activation of MAPK activity" type="GO"/>
+    <entity charOffset="167-176" id="26654129.s4.e1" ontology_id="HP_0002664" text="neoplasia" type="HP"/>
+    <pair e1="26654129.s4.e0" e2="26654129.s4.e1" id="26654129.s4.p0" relation="true"/>
+  </sentence>
+  <sentence id="26654129.s5" text="These findings suggest that activation of MAPK activity expression may be a useful serological marker for diagnostic and/or prognostic purposes during germ cell cancer management.">
+    <entity charOffset="28-55" id="26654129.s5.e0" ontology_id="GO_0000187" text="activation of MAPK activity" type="GO"/>
+    <entity charOffset="161-167" id="26654129.s5.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="26654129.s5.e0" e2="26654129.s5.e1" id="26654129.s5.p0" relation="false"/>
+  </sentence>
+</document>

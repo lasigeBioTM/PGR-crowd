@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<document id="30092201">
+  <sentence id="30092201.s0" text="We show that signaling through herpes virus entry mediator (T cell costimulation), a member of the tumor necrosis factor (negative regulation of transcription by RNA polymerase II) receptor superfamily, in ILC3 is important for host defense against oral infection with the bacterial pathogen Yersinia enterocolitica.">
+    <entity charOffset="60-80" id="30092201.s0.e0" ontology_id="GO_0031295" text="T cell costimulation" type="GO"/>
+    <entity charOffset="99-104" id="30092201.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="122-179" id="30092201.s0.e2" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="30092201.s0.e0" e2="30092201.s0.e1" id="30092201.s0.p0" relation="true"/>
+  </sentence>
+</document>

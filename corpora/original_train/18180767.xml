@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="18180767">
+  <sentence id="18180767.s0" text="Association between autism and single-nucleotide polymorphisms in aspartate transmembrane transport has been reported in various studies.">
+    <entity charOffset="20-26" id="18180767.s0.e0" ontology_id="HP_0000717" text="autism" type="HP"/>
+    <entity charOffset="66-99" id="18180767.s0.e1" ontology_id="GO_0015810" text="aspartate transmembrane transport" type="GO"/>
+    <pair e1="18180767.s0.e0" e2="18180767.s0.e1" id="18180767.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="18180767.s1" text="Our findings suggest that aspartate transmembrane transport overexpression may be involved in the pathophysiology of autism, modifying neuronal networks in specific subregions, such as the dorsolateral prefrontal cortex and fusiform gyrus, at both pre- and postnatal stages">
+    <entity charOffset="26-59" id="18180767.s1.e0" ontology_id="GO_0015810" text="aspartate transmembrane transport" type="GO"/>
+    <entity charOffset="117-123" id="18180767.s1.e1" ontology_id="HP_0000717" text="autism" type="HP"/>
+    <pair e1="18180767.s1.e0" e2="18180767.s1.e1" id="18180767.s1.p0" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="29040572">
+  <sentence id="29040572.s0" text="Here, we conducted whole-exome sequencing of patients with optic atrophy and other neurological signs of mitochondriopathy and identified 17 individuals from 13 unrelated families with recessive mutations in generation of precursor metabolites and energy, encoding the mitochondrial membrane-associated flavoprotein ferrodoxin reductase required for electron transport from NADPH to cytochrome P450.">
+    <entity charOffset="59-72" id="29040572.s0.e0" ontology_id="HP_0000648" text="optic atrophy" type="HP"/>
+    <entity charOffset="208-254" id="29040572.s0.e1" ontology_id="GO_0006091" text="generation of precursor metabolites and energy" type="GO"/>
+    <pair e1="29040572.s0.e0" e2="29040572.s0.e1" id="29040572.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29040572.s1" text="Moreover, we found that epidermis development carrying a spontaneous mutation allelic to the most common mutation found in patients displayed progressive gait abnormalities and vision loss, in addition to biochemical defects consistent with the major clinical features of the disease.">
+    <entity charOffset="24-45" id="29040572.s1.e0" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="177-188" id="29040572.s1.e1" ontology_id="HP_0000572" text="vision loss" type="HP"/>
+    <pair e1="29040572.s1.e0" e2="29040572.s1.e1" id="29040572.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="29040572.s2" text="Taken together, these data provide the first demonstration that germline, hypomorphic mutations in generation of precursor metabolites and energy cause a novel mitochondriopathy and optic atrophy in humans">
+    <entity charOffset="99-145" id="29040572.s2.e0" ontology_id="GO_0006091" text="generation of precursor metabolites and energy" type="GO"/>
+    <entity charOffset="182-195" id="29040572.s2.e1" ontology_id="HP_0000648" text="optic atrophy" type="HP"/>
+    <pair e1="29040572.s2.e0" e2="29040572.s2.e1" id="29040572.s2.p0" relation="true"/>
+  </sentence>
+</document>

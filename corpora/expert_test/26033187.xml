@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="26033187">
+  <sentence id="26033187.s0" text="uPA may enhance the migratory and invasive capabilities of endometrial tumor cells by the phosphorylation of ERK1/2, positive regulation of protein phosphorylation and p38 molecules.">
+    <entity charOffset="71-76" id="26033187.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="117-163" id="26033187.s0.e1" ontology_id="GO_0001934" text="positive regulation of protein phosphorylation" type="GO"/>
+    <pair e1="26033187.s0.e0" e2="26033187.s0.e1" id="26033187.s0.p0" relation="true"/>
+  </sentence>
+</document>

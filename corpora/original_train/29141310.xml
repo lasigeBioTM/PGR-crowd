@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29141310">
+  <sentence id="29141310.s0" text="A case with cellular response to histamine (C.905A&amp;gt;G) had seizure controlled for 3 mouths.">
+    <entity charOffset="12-42" id="29141310.s0.e0" ontology_id="GO_0071420" text="cellular response to histamine" type="GO"/>
+    <entity charOffset="61-68" id="29141310.s0.e1" ontology_id="HP_0001250" text="seizure" type="HP"/>
+    <pair e1="29141310.s0.e0" e2="29141310.s0.e1" id="29141310.s0.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="30589983">
+  <sentence id="30589983.s0" text="negative regulation of transcription by RNA polymerase II, a major transcription factor in transforming growth factor-β (TGF-β) signaling, plays critical roles in both tumor-suppressive and pro-oncogenic functions.">
+    <entity charOffset="0-57" id="30589983.s0.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="168-173" id="30589983.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="30589983.s0.e0" e2="30589983.s0.e1" id="30589983.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="30589983.s1" text="However, recent discoveries of negative regulation of transcription by RNA polymerase II-interacting molecules that preferentially bind phosphorylated Smad3 linker serine/threonine residues have shown a multitude of signal transductions that either enhance or suppress TGF-β responses associated with Smad3 turnover or cancer progression.">
+    <entity charOffset="31-88" id="30589983.s1.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="319-325" id="30589983.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30589983.s1.e0" e2="30589983.s1.e1" id="30589983.s1.p0" relation="true"/>
+  </sentence>
+</document>

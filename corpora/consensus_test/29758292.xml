@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="29758292">
+  <sentence id="29758292.s0" text="Truncating mutations in the last and penultimate exons of the peptidyl-threonine dephosphorylation gene were recently described as a cause for mild to severe intellectual disability in fourteen patients.">
+    <entity charOffset="62-98" id="29758292.s0.e0" ontology_id="GO_0035970" text="peptidyl-threonine dephosphorylation" type="GO"/>
+    <entity charOffset="158-181" id="29758292.s0.e1" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <pair e1="29758292.s0.e0" e2="29758292.s0.e1" id="29758292.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29758292.s1" text="Feeding difficulties, periods of fever and vomiting as well as a high pain threshold were described as additional characteristic features and the disorder was subsequently termed &amp;quot;intellectual developmental disorder with gastrointestinal difficulties and high pain threshold (IDDGIP)&amp;quot; in the Onegative regulation of epithelial cell proliferation database (MIM # 617450).">
+    <entity charOffset="43-51" id="29758292.s1.e0" ontology_id="HP_0002013" text="vomiting" type="HP"/>
+    <entity charOffset="303-355" id="29758292.s1.e1" ontology_id="GO_0050680" text="negative regulation of epithelial cell proliferation" type="GO"/>
+  </sentence>
+</document>

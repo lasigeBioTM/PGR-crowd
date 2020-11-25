@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="30205301">
+  <sentence id="30205301.s0" text="The studied CVD biomarkers include positive regulation of cytokine-mediated signaling pathway receptor tyrosine kinase, apolipoproteins, cholesterol, C-reactive protein (positive regulation of gene expression), D-dimer, fibrinogen (histone glutamine methylation), glucose, insulin, interleukins, lipoproteins, myoglobin, N-terminal pro-B-type natriuretic peptide (BNP), tumor necrosis factor alpha (TNF-α) and troponins (Tns) on electrochemical transduction format.">
+    <entity charOffset="35-93" id="30205301.s0.e0" ontology_id="GO_0001961" text="positive regulation of cytokine-mediated signaling pathway" type="GO"/>
+    <entity charOffset="170-208" id="30205301.s0.e1" ontology_id="GO_0010628" text="positive regulation of gene expression" type="GO"/>
+    <entity charOffset="232-261" id="30205301.s0.e2" ontology_id="GO_1990258" text="histone glutamine methylation" type="GO"/>
+    <entity charOffset="370-375" id="30205301.s0.e3" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="30205301.s0.e0" e2="30205301.s0.e3" id="30205301.s0.p0" relation="false"/>
+    <pair e1="30205301.s0.e1" e2="30205301.s0.e3" id="30205301.s0.p1" relation="false"/>
+    <pair e1="30205301.s0.e2" e2="30205301.s0.e3" id="30205301.s0.p2" relation="false"/>
+  </sentence>
+</document>

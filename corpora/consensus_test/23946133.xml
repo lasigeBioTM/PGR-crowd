@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="23946133">
+  <sentence id="23946133.s0" text="Mutations in photoreceptor cell maintenance are a rare cause of childhood retinal dystrophy accounting for ∼2% of disease in this cohort, and the majority of LCA5 mutations are likely null.">
+    <entity charOffset="13-43" id="23946133.s0.e0" ontology_id="GO_0045494" text="photoreceptor cell maintenance" type="GO"/>
+    <entity charOffset="74-91" id="23946133.s0.e1" ontology_id="HP_0000556" text="retinal dystrophy" type="HP"/>
+    <pair e1="23946133.s0.e0" e2="23946133.s0.e1" id="23946133.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="23946133.s1" text="This study was undertaken to investigate the prevalence of sequence variants in LCA5 in patients with Leber congenital amaurosis (clathrin coat assembly), early-onset retinal dystrophy (EORD), and autosomal recessive retinitis pigmentosa (arRP); to delineate the ocular phenotypes; and to provide an overview of all published LCA5 variants in an online database.">
+    <entity charOffset="130-152" id="23946133.s1.e0" ontology_id="GO_0048268" text="clathrin coat assembly" type="GO"/>
+    <entity charOffset="197-216" id="23946133.s1.e1" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <pair e1="23946133.s1.e0" e2="23946133.s1.e1" id="23946133.s1.p0" relation="false"/>
+  </sentence>
+</document>

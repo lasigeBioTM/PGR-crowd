@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="26856603">
+  <sentence id="26856603.s0" text="Alzheimer's disease (AD) is a serious neurodegenerative disease, and microRNAs (protein polyubiquitinationNAs) have been linked to its pathogenesis.">
+    <entity charOffset="38-63" id="26856603.s0.e0" ontology_id="HP_0002180" text="neurodegenerative disease" type="HP"/>
+    <entity charOffset="80-106" id="26856603.s0.e1" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <pair e1="26856603.s0.e0" e2="26856603.s0.e1" id="26856603.s0.p0" relation="true"/>
+  </sentence>
+</document>

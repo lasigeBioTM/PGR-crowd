@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<document id="29449721">
+  <sentence id="29449721.s0" text="Pathogenic variant in regulation of cell shape are a known cause of regulation of cell shape autosomal dominant progressive hearing loss and vestibular dysfunction with adult onset.">
+    <entity charOffset="22-46" id="29449721.s0.e0" ontology_id="GO_0008360" text="regulation of cell shape" type="GO"/>
+    <entity charOffset="68-92" id="29449721.s0.e1" ontology_id="GO_0008360" text="regulation of cell shape" type="GO"/>
+    <entity charOffset="112-123" id="29449721.s0.e2" ontology_id="HP_0003676" text="progressive" type="HP"/>
+    <entity charOffset="124-136" id="29449721.s0.e3" ontology_id="HP_0000365" text="hearing loss" type="HP"/>
+    <entity charOffset="141-163" id="29449721.s0.e4" ontology_id="HP_0001751" text="vestibular dysfunction" type="HP"/>
+    <pair e1="29449721.s0.e0" e2="29449721.s0.e2" id="29449721.s0.p0" relation="true"/>
+    <pair e1="29449721.s0.e0" e2="29449721.s0.e3" id="29449721.s0.p1" relation="true"/>
+    <pair e1="29449721.s0.e0" e2="29449721.s0.e4" id="29449721.s0.p2" relation="true"/>
+    <pair e1="29449721.s0.e1" e2="29449721.s0.e2" id="29449721.s0.p3" relation="true"/>
+    <pair e1="29449721.s0.e1" e2="29449721.s0.e4" id="29449721.s0.p4" relation="true"/>
+  </sentence>
+  <sentence id="29449721.s1" text="Here, we describe two brothers with congenital prelingual deafness and a homozygous nonsense c.292C&amp;gt;T(p.Arg98*) regulation of cell shape variant, suggesting a loss-of-function effect.">
+    <entity charOffset="58-66" id="29449721.s1.e0" ontology_id="HP_0000365" text="deafness" type="HP"/>
+    <entity charOffset="115-139" id="29449721.s1.e1" ontology_id="GO_0008360" text="regulation of cell shape" type="GO"/>
+    <pair e1="29449721.s1.e0" e2="29449721.s1.e1" id="29449721.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="29449721.s2" text="This is the first report of autosomal recessive inheritance of cochlea-vestibular dysfunction caused by a pathogenic variant in the regulation of cell shape gene.">
+    <entity charOffset="28-59" id="29449721.s2.e0" ontology_id="HP_0000007" text="autosomal recessive inheritance" type="HP"/>
+    <entity charOffset="71-93" id="29449721.s2.e1" ontology_id="HP_0001751" text="vestibular dysfunction" type="HP"/>
+    <entity charOffset="132-156" id="29449721.s2.e2" ontology_id="GO_0008360" text="regulation of cell shape" type="GO"/>
+    <pair e1="29449721.s2.e0" e2="29449721.s2.e2" id="29449721.s2.p0" relation="false"/>
+    <pair e1="29449721.s2.e1" e2="29449721.s2.e2" id="29449721.s2.p1" relation="true"/>
+  </sentence>
+  <sentence id="29449721.s3" text="An earlier onset of hearing impairment and vestibular dysfunction compared to the dominant hearing loss causing regulation of cell shape variants is observed">
+    <entity charOffset="91-103" id="29449721.s3.e0" ontology_id="HP_0000365" text="hearing loss" type="HP"/>
+    <entity charOffset="112-136" id="29449721.s3.e1" ontology_id="GO_0008360" text="regulation of cell shape" type="GO"/>
+    <pair e1="29449721.s3.e0" e2="29449721.s3.e1" id="29449721.s3.p0" relation="true"/>
+  </sentence>
+</document>

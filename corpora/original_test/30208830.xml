@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30208830">
+  <sentence id="30208830.s0" text="In recent years, high-throughput sequencing has been used to analyze exomes of virtually all human tumors, which allowed to construct phylogenetic trees of clonal cancer evolution with special emphasis on driver mutations in positive regulation of cell proliferation-4 genes.">
+    <entity charOffset="163-169" id="30208830.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="225-266" id="30208830.s0.e1" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <pair e1="30208830.s0.e0" e2="30208830.s0.e1" id="30208830.s0.p0" relation="true"/>
+  </sentence>
+</document>

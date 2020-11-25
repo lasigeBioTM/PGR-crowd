@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<document id="28941661">
+  <sentence id="28941661.s0" text="A plethora of human diseases are associated with mutations in the genes encoding human SLC26 transporters, including chondrodysplasias with varying severity in sulfate transmembrane transport (~50 mutations, 27 point mutations), congenital chloride-losing diarrhea in sperm capacitation (~70 mutations, 31 point mutations) and Pendred Syndrome or deafness autosomal recessive muscle organ development 4 in regulation of pH (~500 mutations, 203 point mutations).">
+    <entity charOffset="160-191" id="28941661.s0.e0" ontology_id="GO_1902358" text="sulfate transmembrane transport" type="GO"/>
+    <entity charOffset="268-286" id="28941661.s0.e1" ontology_id="GO_0048240" text="sperm capacitation" type="GO"/>
+    <entity charOffset="347-355" id="28941661.s0.e2" ontology_id="HP_0000365" text="deafness" type="HP"/>
+    <entity charOffset="356-375" id="28941661.s0.e3" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="376-400" id="28941661.s0.e4" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="406-422" id="28941661.s0.e5" ontology_id="GO_0006885" text="regulation of pH" type="GO"/>
+    <pair e1="28941661.s0.e0" e2="28941661.s0.e3" id="28941661.s0.p0" relation="true"/>
+    <pair e1="28941661.s0.e1" e2="28941661.s0.e2" id="28941661.s0.p1" relation="false"/>
+    <pair e1="28941661.s0.e1" e2="28941661.s0.e3" id="28941661.s0.p2" relation="true"/>
+    <pair e1="28941661.s0.e2" e2="28941661.s0.e5" id="28941661.s0.p3" relation="true"/>
+    <pair e1="28941661.s0.e3" e2="28941661.s0.e4" id="28941661.s0.p4" relation="true"/>
+    <pair e1="28941661.s0.e3" e2="28941661.s0.e5" id="28941661.s0.p5" relation="true"/>
+  </sentence>
+</document>

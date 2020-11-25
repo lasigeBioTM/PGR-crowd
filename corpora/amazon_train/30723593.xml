@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="30723593">
+  <sentence id="30723593.s0" text="Indeed, we have previously reported that a vaccine comprises allogeneic murine embryonic stem cells (ESCs) and murine fibroblasts expressing positive regulation of cell proliferation (to amplify immune responses) successfully blocks the outgrowth of an implantable cancer (Lewis lung carcinoma; LLC) and lung tumors generated in epidermis development using a combination of a mutagen followed by chronic pulmonary inflammation.">
+    <entity charOffset="141-182" id="30723593.s0.e0" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <entity charOffset="265-271" id="30723593.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="309-315" id="30723593.s0.e2" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <entity charOffset="329-350" id="30723593.s0.e3" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <pair e1="30723593.s0.e0" e2="30723593.s0.e1" id="30723593.s0.p0" relation="true"/>
+    <pair e1="30723593.s0.e1" e2="30723593.s0.e3" id="30723593.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="30723593.s1" text="Examination of tumor-infiltrating immune cells from epidermis development vaccinated with the positive regulation of cell proliferation-expressing exosomes showed robust tumor-reactive CD8&lt;sup&gt;+&lt;/sup&gt; T effector responses, Th1 cytokine responses, and higher CD8&lt;sup&gt;+&lt;/sup&gt; T effector/CD4&lt;sup&gt;+&lt;/sup&gt;CD25&lt;sup&gt;+&lt;/sup&gt;Foxp3&lt;sup&gt;+&lt;/sup&gt; T regulatory cell ratio in the tumors.">
+    <entity charOffset="15-20" id="30723593.s1.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="52-73" id="30723593.s1.e1" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="94-135" id="30723593.s1.e2" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <entity charOffset="365-371" id="30723593.s1.e3" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <pair e1="30723593.s1.e2" e2="30723593.s1.e3" id="30723593.s1.p0" relation="true"/>
+  </sentence>
+</document>

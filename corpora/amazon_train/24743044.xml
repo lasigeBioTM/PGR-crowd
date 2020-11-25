@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<document id="24743044">
+  <sentence id="24743044.s0" text="We recently demonstrated that negative regulation of transcription by RNA polymerase II is upregulated in melanoma and its inhibition by a small-molecule, tenovin-1, inhibits cell proliferation and clonogenic survival of melanoma cells, possibly via activating p53.">
+    <entity charOffset="30-87" id="24743044.s0.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="106-114" id="24743044.s0.e1" ontology_id="HP_0002861" text="melanoma" type="HP"/>
+    <pair e1="24743044.s0.e0" e2="24743044.s0.e1" id="24743044.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="24743044.s1" text="Here, we employed a gel free quantitative proteomics approach to identify the downstream effectors and targets of negative regulation of transcription by RNA polymerase II in melanoma.">
+    <entity charOffset="114-171" id="24743044.s1.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="175-183" id="24743044.s1.e1" ontology_id="HP_0002861" text="melanoma" type="HP"/>
+    <pair e1="24743044.s1.e0" e2="24743044.s1.e1" id="24743044.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="24743044.s2" text="The qRT-PCR and immunoblot analyses showed that tenovin-1 inhibition of negative regulation of transcription by RNA polymerase II resulted in a downregulation of attachment of spindle microtubules to kinetochore, regulation of sister chromatid cohesion and ubiquitin-dependent protein catabolic process in multiple melanoma cell lines.">
+    <entity charOffset="72-129" id="24743044.s2.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="162-211" id="24743044.s2.e1" ontology_id="GO_0008608" text="attachment of spindle microtubules to kinetochore" type="GO"/>
+    <entity charOffset="213-252" id="24743044.s2.e2" ontology_id="GO_0007063" text="regulation of sister chromatid cohesion" type="GO"/>
+    <entity charOffset="257-302" id="24743044.s2.e3" ontology_id="GO_0006511" text="ubiquitin-dependent protein catabolic process" type="GO"/>
+    <entity charOffset="315-323" id="24743044.s2.e4" ontology_id="HP_0002861" text="melanoma" type="HP"/>
+    <pair e1="24743044.s2.e0" e2="24743044.s2.e4" id="24743044.s2.p0" relation="true"/>
+    <pair e1="24743044.s2.e1" e2="24743044.s2.e4" id="24743044.s2.p1" relation="true"/>
+    <pair e1="24743044.s2.e2" e2="24743044.s2.e4" id="24743044.s2.p2" relation="false"/>
+    <pair e1="24743044.s2.e3" e2="24743044.s2.e4" id="24743044.s2.p3" relation="true"/>
+  </sentence>
+</document>

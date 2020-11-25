@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<document id="28487959">
+  <sentence id="28487959.s0" text="In this study, we performed exome-wide association studies (EWASs) to identify genetic variants that confer susceptibility to ischemic stroke, intracerebral hemorrhage (ICH), or subarachnoid hemorrhage (regulation of blood pressure).">
+    <entity charOffset="143-167" id="28487959.s0.e0" ontology_id="HP_0001342" text="intracerebral hemorrhage" type="HP"/>
+    <entity charOffset="203-231" id="28487959.s0.e1" ontology_id="GO_0008217" text="regulation of blood pressure" type="GO"/>
+    <pair e1="28487959.s0.e0" e2="28487959.s0.e1" id="28487959.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="28487959.s1" text="Multivariable logistic regression analysis with adjustment for age, multicellular organism development and the prevalence of hypertension and diabetes mellitus revealed that 4 of these SNPs [rs3212335 of GABRB3 (P=0.0036; odds ratio, 1.29), rs147783135 of proteolysis (P=0.0024; odds ratio, 0.37), rs2292661 of protein folding (P=0.0054; odds ratio, 0.35) and rs191885206 of very long-chain fatty acid metabolic process (P=0.0082; odds ratio, 2.60)] were related (P&amp;lt;0.01) to ischemic stroke.">
+    <entity charOffset="68-102" id="28487959.s1.e0" ontology_id="GO_0007275" text="multicellular organism development" type="GO"/>
+    <entity charOffset="125-137" id="28487959.s1.e1" ontology_id="HP_0000822" text="hypertension" type="HP"/>
+    <entity charOffset="256-267" id="28487959.s1.e2" ontology_id="GO_0006508" text="proteolysis" type="GO"/>
+    <entity charOffset="311-326" id="28487959.s1.e3" ontology_id="GO_0006457" text="protein folding" type="GO"/>
+    <entity charOffset="375-419" id="28487959.s1.e4" ontology_id="GO_0000038" text="very long-chain fatty acid metabolic process" type="GO"/>
+    <pair e1="28487959.s1.e0" e2="28487959.s1.e1" id="28487959.s1.p0" relation="false"/>
+    <pair e1="28487959.s1.e1" e2="28487959.s1.e2" id="28487959.s1.p1" relation="false"/>
+    <pair e1="28487959.s1.e1" e2="28487959.s1.e3" id="28487959.s1.p2" relation="false"/>
+    <pair e1="28487959.s1.e1" e2="28487959.s1.e4" id="28487959.s1.p3" relation="false"/>
+  </sentence>
+  <sentence id="28487959.s2" text="Multivariable logistic regression analysis with adjustment for age, multicellular organism development and the prevalence of hypertension revealed that rs138533962 of peptidyl-tyrosine phosphorylation (P&amp;lt;1.0x10-23; odds ratio, 111.3) was significantly (P&amp;lt;2.60x10-4) associated with ICH and that rs117564807 of hemidesmosome assembly (P=0.0009; odds ratio, 2.23x10-8) was significantly (P&amp;lt;0.0010) associated with regulation of blood pressure.">
+    <entity charOffset="68-102" id="28487959.s2.e0" ontology_id="GO_0007275" text="multicellular organism development" type="GO"/>
+    <entity charOffset="125-137" id="28487959.s2.e1" ontology_id="HP_0000822" text="hypertension" type="HP"/>
+    <entity charOffset="167-200" id="28487959.s2.e2" ontology_id="GO_0018108" text="peptidyl-tyrosine phosphorylation" type="GO"/>
+    <entity charOffset="316-338" id="28487959.s2.e3" ontology_id="GO_0031581" text="hemidesmosome assembly" type="GO"/>
+    <entity charOffset="421-449" id="28487959.s2.e4" ontology_id="GO_0008217" text="regulation of blood pressure" type="GO"/>
+    <pair e1="28487959.s2.e0" e2="28487959.s2.e1" id="28487959.s2.p0" relation="false"/>
+    <pair e1="28487959.s2.e1" e2="28487959.s2.e4" id="28487959.s2.p1" relation="false"/>
+    <pair e1="28487959.s2.e1" e2="28487959.s2.e2" id="28487959.s2.p2" relation="false"/>
+    <pair e1="28487959.s2.e1" e2="28487959.s2.e3" id="28487959.s2.p3" relation="false"/>
+  </sentence>
+</document>

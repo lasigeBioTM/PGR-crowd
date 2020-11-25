@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="27993705">
+  <sentence id="27993705.s0" text="Patients with mutations in positive regulation of transcription, DNA-templated all present with mild to moderate ID and poor speech accompanied by additional features in some patients, including autistic features and mild facial dysmorphisms, suggesting that ZNF711 mutations cause non-syndromic ID">
+    <entity charOffset="27-78" id="27993705.s0.e0" ontology_id="GO_0045893" text="positive regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="96-100" id="27993705.s0.e1" ontology_id="HP_0012825" text="mild" type="HP"/>
+    <entity charOffset="222-241" id="27993705.s0.e2" ontology_id="HP_0001999" text="facial dysmorphisms" type="HP"/>
+    <pair e1="27993705.s0.e0" e2="27993705.s0.e1" id="27993705.s0.p0" relation="true"/>
+    <pair e1="27993705.s0.e0" e2="27993705.s0.e2" id="27993705.s0.p1" relation="true"/>
+  </sentence>
+</document>

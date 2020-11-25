@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="25964267">
+  <sentence id="25964267.s0" text="Erythrokeratodermia variabilis et progressiva (EKVP) is a genodermatosis with clinical and genetic heterogeneity, most often transmitted in an autosomal dominant manner, caused by mutations in in utero embryonic development and GJB4 genes encoding connexins (Cx)31 and 30.3, respectively.">
+    <entity charOffset="99-112" id="25964267.s0.e0" ontology_id="HP_0001425" text="heterogeneity" type="HP"/>
+    <entity charOffset="193-223" id="25964267.s0.e1" ontology_id="GO_0001701" text="in utero embryonic development" type="GO"/>
+    <pair e1="25964267.s0.e0" e2="25964267.s0.e1" id="25964267.s0.p0" relation="false"/>
+  </sentence>
+</document>

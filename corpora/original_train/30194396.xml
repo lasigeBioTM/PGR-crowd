@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<document id="30194396">
+  <sentence id="30194396.s0" text="Five variants were previously reported to confer risk of various malignant or benign tumors (rs78378222 in TP53, rs10069690 in transcription, RNA-templated, rs1800057 and rs1801516 in protein phosphorylation, and rs7907606 at OBFC1) and four signals are located at established risk loci for hormone-related negative regulation of transcription by RNA polymerase II (endometriosis and breast cancer) at 1q36.12 (CDC42/WNT4), 2p25.1 (biological_process), 20p12.3 (cellular response to DNA damage stimulus), and 6q26.2 (SYNE1/ESR1).">
+    <entity charOffset="85-91" id="30194396.s0.e0" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <entity charOffset="127-155" id="30194396.s0.e1" ontology_id="GO_0001172" text="transcription, RNA-templated" type="GO"/>
+    <entity charOffset="184-207" id="30194396.s0.e2" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <entity charOffset="307-364" id="30194396.s0.e3" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="391-397" id="30194396.s0.e4" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="432-450" id="30194396.s0.e5" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="462-502" id="30194396.s0.e6" ontology_id="GO_0006974" text="cellular response to DNA damage stimulus" type="GO"/>
+    <pair e1="30194396.s0.e0" e2="30194396.s0.e1" id="30194396.s0.p0" relation="true"/>
+    <pair e1="30194396.s0.e0" e2="30194396.s0.e2" id="30194396.s0.p1" relation="true"/>
+    <pair e1="30194396.s0.e0" e2="30194396.s0.e3" id="30194396.s0.p2" relation="false"/>
+    <pair e1="30194396.s0.e0" e2="30194396.s0.e5" id="30194396.s0.p3" relation="false"/>
+    <pair e1="30194396.s0.e0" e2="30194396.s0.e6" id="30194396.s0.p4" relation="false"/>
+    <pair e1="30194396.s0.e2" e2="30194396.s0.e4" id="30194396.s0.p5" relation="true"/>
+    <pair e1="30194396.s0.e4" e2="30194396.s0.e5" id="30194396.s0.p6" relation="false"/>
+    <pair e1="30194396.s0.e4" e2="30194396.s0.e6" id="30194396.s0.p7" relation="false"/>
+  </sentence>
+</document>

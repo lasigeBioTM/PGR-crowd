@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="29454536">
+  <sentence id="29454536.s0" text="This review highlights recent advances in understanding how the negative regulation of transcription by RNA polymerase II-positive regulation of gene expression axis modulates cell differentiation and proliferation in human keratinocytes, hair follicles, and benign or malignant skin tumors including squamous cell carcinoma and malignant melanoma.">
+    <entity charOffset="64-121" id="29454536.s0.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="122-160" id="29454536.s0.e1" ontology_id="GO_0010628" text="positive regulation of gene expression" type="GO"/>
+    <entity charOffset="284-290" id="29454536.s0.e2" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <entity charOffset="301-324" id="29454536.s0.e3" ontology_id="HP_0002860" text="squamous cell carcinoma" type="HP"/>
+    <entity charOffset="329-347" id="29454536.s0.e4" ontology_id="HP_0002861" text="malignant melanoma" type="HP"/>
+    <pair e1="29454536.s0.e0" e2="29454536.s0.e2" id="29454536.s0.p0" relation="false"/>
+    <pair e1="29454536.s0.e0" e2="29454536.s0.e3" id="29454536.s0.p1" relation="false"/>
+    <pair e1="29454536.s0.e1" e2="29454536.s0.e2" id="29454536.s0.p2" relation="false"/>
+    <pair e1="29454536.s0.e1" e2="29454536.s0.e4" id="29454536.s0.p3" relation="false"/>
+  </sentence>
+</document>

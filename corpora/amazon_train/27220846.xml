@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="27220846">
+  <sentence id="27220846.s0" text="Mutation in the negative regulation of canonical Wnt signaling pathippo signalingay gene causes nephronophthisis muscle organ development II (negative regulation of canonical Wnt signaling pathway), an autosomal recessive chronic tubulointerstitial nephropathy.">
+    <entity charOffset="16-70" id="27220846.s0.e0" ontology_id="GO_0090090" text="negative regulation of canonical Wnt signaling pathway" type="GO"/>
+    <entity charOffset="66-81" id="27220846.s0.e1" ontology_id="GO_0035329" text="hippo signaling" type="GO"/>
+    <entity charOffset="113-137" id="27220846.s0.e2" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="142-196" id="27220846.s0.e3" ontology_id="GO_0090090" text="negative regulation of canonical Wnt signaling pathway" type="GO"/>
+    <entity charOffset="202-221" id="27220846.s0.e4" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="222-229" id="27220846.s0.e5" ontology_id="HP_0011010" text="chronic" type="HP"/>
+    <entity charOffset="249-260" id="27220846.s0.e6" ontology_id="HP_0000112" text="nephropathy" type="HP"/>
+    <pair e1="27220846.s0.e0" e2="27220846.s0.e4" id="27220846.s0.p0" relation="true"/>
+    <pair e1="27220846.s0.e0" e2="27220846.s0.e5" id="27220846.s0.p1" relation="true"/>
+    <pair e1="27220846.s0.e1" e2="27220846.s0.e5" id="27220846.s0.p2" relation="true"/>
+    <pair e1="27220846.s0.e0" e2="27220846.s0.e6" id="27220846.s0.p3" relation="true"/>
+    <pair e1="27220846.s0.e2" e2="27220846.s0.e6" id="27220846.s0.p4" relation="true"/>
+    <pair e1="27220846.s0.e3" e2="27220846.s0.e5" id="27220846.s0.p5" relation="true"/>
+  </sentence>
+</document>

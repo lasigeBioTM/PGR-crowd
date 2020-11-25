@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="27449031">
+  <sentence id="27449031.s0" text="Hypermethylated in cancer 1 (negative regulation of transcription by RNA polymerase II) is frequently deleted or epigenetically silenced in various human cancers.">
+    <entity charOffset="19-25" id="27449031.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="29-86" id="27449031.s0.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="27449031.s0.e0" e2="27449031.s0.e1" id="27449031.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="27449031.s1" text="The results provide evidence that lncRNA-numb is a newly proposed tumor suppressor that is involved in negative regulation of transcription by RNA polymerase II-induced phenotypes.">
+    <entity charOffset="66-71" id="27449031.s1.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="103-160" id="27449031.s1.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="27449031.s1.e0" e2="27449031.s1.e1" id="27449031.s1.p0" relation="false"/>
+  </sentence>
+</document>

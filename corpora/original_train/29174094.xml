@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<document id="29174094">
+  <sentence id="29174094.s0" text="Tricho-hepato-enteric syndrome (SD/THE) and Multiple intestinal atresia with combined immune deficiency (regulation of signaling receptor activity-CID) are autosomal recessive disorders that present immunological and gastrointestinal features.">
+    <entity charOffset="105-146" id="29174094.s0.e0" ontology_id="GO_0010469" text="regulation of signaling receptor activity" type="GO"/>
+    <entity charOffset="156-175" id="29174094.s0.e1" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <pair e1="29174094.s0.e0" e2="29174094.s0.e1" id="29174094.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="29174094.s1" text="There are two different phenotypes of patients with TTC7A mutations: the severe form, caused by null mutations and leading to the classical regulation of signaling receptor activity-CID; and the mild form, caused by missense mutations and leading to predominant features of VEO-IBD, less severe immunological involvement and hair abnormalities.">
+    <entity charOffset="140-181" id="29174094.s1.e0" ontology_id="GO_0010469" text="regulation of signaling receptor activity" type="GO"/>
+    <entity charOffset="325-343" id="29174094.s1.e1" ontology_id="HP_0001595" text="hair abnormalities" type="HP"/>
+    <pair e1="29174094.s1.e0" e2="29174094.s1.e1" id="29174094.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="29174094.s2" text="We expand the knowledge about protein localization to plasma membrane deficiency, describing a patient with the mild phenotype of TTC7A deficiency but presenting overlapping features of SD/THE and regulation of signaling receptor activity-CID: intestinal atresia and inflammatory bowel disease evocative of MIA-CID, but also dental abnormalities, huge forehead, liver abnormalities, autoimmune thyroiditis and hypogammaglobulinemia, evocative of SD/THE">
+    <entity charOffset="30-69" id="29174094.s2.e0" ontology_id="GO_0072659" text="protein localization to plasma membrane" type="GO"/>
+    <entity charOffset="197-238" id="29174094.s2.e1" ontology_id="GO_0010469" text="regulation of signaling receptor activity" type="GO"/>
+    <entity charOffset="244-262" id="29174094.s2.e2" ontology_id="HP_0011100" text="intestinal atresia" type="HP"/>
+    <entity charOffset="362-381" id="29174094.s2.e3" ontology_id="HP_0001392" text="liver abnormalities" type="HP"/>
+    <entity charOffset="410-431" id="29174094.s2.e4" ontology_id="HP_0004313" text="hypogammaglobulinemia" type="HP"/>
+    <pair e1="29174094.s2.e0" e2="29174094.s2.e2" id="29174094.s2.p0" relation="true"/>
+    <pair e1="29174094.s2.e0" e2="29174094.s2.e3" id="29174094.s2.p1" relation="true"/>
+    <pair e1="29174094.s2.e0" e2="29174094.s2.e4" id="29174094.s2.p2" relation="false"/>
+    <pair e1="29174094.s2.e1" e2="29174094.s2.e2" id="29174094.s2.p3" relation="false"/>
+    <pair e1="29174094.s2.e1" e2="29174094.s2.e3" id="29174094.s2.p4" relation="false"/>
+    <pair e1="29174094.s2.e1" e2="29174094.s2.e4" id="29174094.s2.p5" relation="false"/>
+  </sentence>
+</document>

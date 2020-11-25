@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29668584">
+  <sentence id="29668584.s0" text="This similarity was revealed by the same number of passages, the same germ cell clusters formation and similar level of genes expression of spermatogonial markers including ubiquitin carboxyl-terminal esterase L1 (UCHL1), zinc finger and BTB domain containing 16 (ZBTB16) and glial cell line-derived neurotrophic factor family receptor alpha 1 (GFRA1), as well as germ cell differentiation markers including signal transducer and activator of transcription 3 (STAT3), spermatogenesis and oogenesis specific basic helix-loophelix 2 (SOHLH2), v-activation of MAPK activity Hardy-Zuckerman 4 feline sarcoma viral oncogene homolog (KIT) and synaptonemal complex protein 3 (SYCP3).">
+    <entity charOffset="543-570" id="29668584.s0.e0" ontology_id="GO_0000187" text="activation of MAPK activity" type="GO"/>
+    <entity charOffset="596-603" id="29668584.s0.e1" ontology_id="HP_0100242" text="sarcoma" type="HP"/>
+    <pair e1="29668584.s0.e0" e2="29668584.s0.e1" id="29668584.s0.p0" relation="true"/>
+  </sentence>
+</document>

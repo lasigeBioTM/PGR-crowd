@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<document id="27618447">
+  <sentence id="27618447.s0" text="We identified 30 new blood pressure- or hypertension-associated genetic regions in the general population, including 3 rare missense variants in hematopoietic progenitor cell differentiation, biological_process and leukocyte differentiation with larger effects (&amp;gt;1.5 mm Hg/allele) than common variants.">
+    <entity charOffset="40-52" id="27618447.s0.e0" ontology_id="HP_0000822" text="hypertension" type="HP"/>
+    <entity charOffset="145-190" id="27618447.s0.e1" ontology_id="GO_0002244" text="hematopoietic progenitor cell differentiation" type="GO"/>
+    <entity charOffset="192-210" id="27618447.s0.e2" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="215-240" id="27618447.s0.e3" ontology_id="GO_0002521" text="leukocyte differentiation" type="GO"/>
+    <pair e1="27618447.s0.e0" e2="27618447.s0.e1" id="27618447.s0.p0" relation="false"/>
+    <pair e1="27618447.s0.e0" e2="27618447.s0.e2" id="27618447.s0.p1" relation="false"/>
+    <pair e1="27618447.s0.e0" e2="27618447.s0.e3" id="27618447.s0.p2" relation="false"/>
+  </sentence>
+  <sentence id="27618447.s1" text="Our data extend the spectrum of allelic variation underlying blood pressure negative regulation of transcription by RNA polymerase II and hypertension, provide new insights into the pathophysiology of hypertension and indicate new targets for clinical intervention">
+    <entity charOffset="76-133" id="27618447.s1.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="138-150" id="27618447.s1.e1" ontology_id="HP_0000822" text="hypertension" type="HP"/>
+    <pair e1="27618447.s1.e0" e2="27618447.s1.e1" id="27618447.s1.p0" relation="false"/>
+  </sentence>
+</document>

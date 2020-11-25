@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="27767175">
+  <sentence id="27767175.s0" text="When stratified by tumor histology, three SNPs (negative regulation of transcription by RNA polymerase II rs2274971A &amp;gt; G, fructose 6-phosphate metabolic process rs11168417C &amp;gt; T, and PDK2 rs3785921G &amp;gt; A) were significantly associated with OS and/or DFS only in squamous cell carcinoma, whereas canonical glycolysis rs1132173C &amp;gt; T exhibited a significant association with survival outcomes only in adenocarcinoma.">
+    <entity charOffset="19-24" id="27767175.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="48-105" id="27767175.s0.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="125-163" id="27767175.s0.e2" ontology_id="GO_0006002" text="fructose 6-phosphate metabolic process" type="GO"/>
+    <entity charOffset="269-292" id="27767175.s0.e3" ontology_id="HP_0002860" text="squamous cell carcinoma" type="HP"/>
+    <entity charOffset="302-322" id="27767175.s0.e4" ontology_id="GO_0061621" text="canonical glycolysis" type="GO"/>
+    <pair e1="27767175.s0.e0" e2="27767175.s0.e1" id="27767175.s0.p0" relation="true"/>
+    <pair e1="27767175.s0.e0" e2="27767175.s0.e2" id="27767175.s0.p1" relation="true"/>
+    <pair e1="27767175.s0.e1" e2="27767175.s0.e3" id="27767175.s0.p2" relation="true"/>
+    <pair e1="27767175.s0.e2" e2="27767175.s0.e3" id="27767175.s0.p3" relation="true"/>
+    <pair e1="27767175.s0.e3" e2="27767175.s0.e4" id="27767175.s0.p4" relation="false"/>
+  </sentence>
+</document>

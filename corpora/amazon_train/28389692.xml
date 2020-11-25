@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28389692">
+  <sentence id="28389692.s0" text="Multisystem proteinopathy (MSP), a newly proposed syndrome including inclusion body myopathy (IBM), PDB, frontotemporal dementia (FTD), and amyotrophic lateral sclerosis (ALS), is mainly caused by mutation in double-strand break repair gene.">
+    <entity charOffset="105-128" id="28389692.s0.e0" ontology_id="HP_0002145" text="frontotemporal dementia" type="HP"/>
+    <entity charOffset="209-235" id="28389692.s0.e1" ontology_id="GO_0006302" text="double-strand break repair" type="GO"/>
+    <pair e1="28389692.s0.e0" e2="28389692.s0.e1" id="28389692.s0.p0" relation="true"/>
+  </sentence>
+</document>

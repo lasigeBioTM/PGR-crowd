@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28155967">
+  <sentence id="28155967.s0" text="Diabetes is a metabolic disorder characterized by hyperglycemia and associated with microvascular and macrovascular syndromes mediated by antigen receptor-mediated signaling pathway cells.">
+    <entity charOffset="50-63" id="28155967.s0.e0" ontology_id="HP_0003074" text="hyperglycemia" type="HP"/>
+    <entity charOffset="138-181" id="28155967.s0.e1" ontology_id="GO_0050851" text="antigen receptor-mediated signaling pathway" type="GO"/>
+    <pair e1="28155967.s0.e0" e2="28155967.s0.e1" id="28155967.s0.p0" relation="false"/>
+  </sentence>
+</document>

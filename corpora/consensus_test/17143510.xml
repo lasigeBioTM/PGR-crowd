@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="17143510">
+  <sentence id="17143510.s0" text="Numerous genes found in this study were also differentially expressed in human phosphatidylinositol phosphorylation and many other human cancers including breast, prostate and lung cancers, etc., serving as tumor suppressors, promoters, prognostic markers or chemotherapy targets.">
+    <entity charOffset="79-115" id="17143510.s0.e0" ontology_id="GO_0046854" text="phosphatidylinositol phosphorylation" type="GO"/>
+    <entity charOffset="207-212" id="17143510.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+  </sentence>
+</document>

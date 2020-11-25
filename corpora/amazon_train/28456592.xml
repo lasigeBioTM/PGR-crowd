@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28456592">
+  <sentence id="28456592.s0" text="The aim of this study was to look for genetic causes of Currarino Syndrome in sporadic patients after ruling out other causes, like chromosome aberrations, disease-causing variants in possible regulation of transcription by RNA polymerase II cooperating transcription factors and aberrant methylation in the promoter of the MNX1 gene.">
+    <entity charOffset="78-86" id="28456592.s0.e0" ontology_id="HP_0003745" text="sporadic" type="HP"/>
+    <entity charOffset="193-241" id="28456592.s0.e1" ontology_id="GO_0006357" text="regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="28456592.s0.e0" e2="28456592.s0.e1" id="28456592.s0.p0" relation="true"/>
+  </sentence>
+</document>

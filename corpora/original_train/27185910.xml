@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27185910">
+  <sentence id="27185910.s0" text="Here we demonstrate that the prostate cancer cell lines LNCaP and LAPC4 display markedly different sensitivity to docetaxel with AR activation, and RNA-seq analysis of these cell lines identified histone H3-K4 demethylation (lysine-specific demethylase 5D) encoded on the Y chromosome as a potential mediator of this sensitivity.">
+    <entity charOffset="38-44" id="27185910.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="196-223" id="27185910.s0.e1" ontology_id="GO_0034720" text="histone H3-K4 demethylation" type="GO"/>
+    <pair e1="27185910.s0.e0" e2="27185910.s0.e1" id="27185910.s0.p0" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="29246092">
+  <sentence id="29246092.s0" text="positive regulation of GTPase activity-related intellectual disability is caused by mutations in the gene encoding the p21-activated kinase (PAK) protein.">
+    <entity charOffset="0-38" id="29246092.s0.e0" ontology_id="GO_0043547" text="positive regulation of GTPase activity" type="GO"/>
+    <entity charOffset="47-70" id="29246092.s0.e1" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <pair e1="29246092.s0.e0" e2="29246092.s0.e1" id="29246092.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="29246092.s1" text="The authors report a patient with a novel positive regulation of GTPase activity mutation, who presented with intellectual disability, severe automutilation, and epilepsy.">
+    <entity charOffset="42-80" id="29246092.s1.e0" ontology_id="GO_0043547" text="positive regulation of GTPase activity" type="GO"/>
+    <entity charOffset="162-170" id="29246092.s1.e1" ontology_id="HP_0001250" text="epilepsy" type="HP"/>
+    <pair e1="29246092.s1.e0" e2="29246092.s1.e1" id="29246092.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="29246092.s2" text="This is the first case of positive regulation of GTPase activity-related intellectual disability presenting with severe self-injury with improvement following treatment.">
+    <entity charOffset="26-64" id="29246092.s2.e0" ontology_id="GO_0043547" text="positive regulation of GTPase activity" type="GO"/>
+    <entity charOffset="73-96" id="29246092.s2.e1" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <pair e1="29246092.s2.e0" e2="29246092.s2.e1" id="29246092.s2.p0" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="27520484">
+  <sentence id="27520484.s0" text="Further, exposure to the Notch signaling inhibitor and gene silencing studies showed that Notch signaling inhibition or silencing Nothc4/Dll3 decreased endothelial markers and function of tumor-derived endothelial cells under chemotherapy treatment, which may be through negative regulation of transcription by RNA polymerase IIR3.">
+    <entity charOffset="188-193" id="27520484.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="271-328" id="27520484.s0.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="27520484.s0.e0" e2="27520484.s0.e1" id="27520484.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="27520484.s1" text="Thus, our findings demonstrate that chemotherapy induces functional tumor-derived endothelial microvessels by mediating Notch signaling and negative regulation of transcription by RNA polymerase II signaling, and may provide new targets for anti-angiogenesis therapy in breast cancer">
+    <entity charOffset="68-73" id="27520484.s1.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="140-197" id="27520484.s1.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="27520484.s1.e0" e2="27520484.s1.e1" id="27520484.s1.p0" relation="true"/>
+  </sentence>
+</document>

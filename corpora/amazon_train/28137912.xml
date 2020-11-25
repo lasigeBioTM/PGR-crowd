@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="28137912">
+  <sentence id="28137912.s0" text="Our data provide &lt;i&gt;in vivo&lt;/i&gt; evidence that &lt;i&gt;L2hgdh&lt;/i&gt; mutation leads to L-2-HG accumulation, leukoencephalopathy, and neurodegeneration in epidermis development, thereby offering new insights into the pathophysiology of L-2-HGA in humans">
+    <entity charOffset="99-118" id="28137912.s0.e0" ontology_id="HP_0002352" text="leukoencephalopathy" type="HP"/>
+    <entity charOffset="145-166" id="28137912.s0.e1" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+  </sentence>
+</document>

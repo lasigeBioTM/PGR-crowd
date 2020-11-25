@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<document id="28884119">
+  <sentence id="28884119.s0" text="This study investigated the role of potassium channel gene &lt;i&gt;(potassium ion transmembrane transport)&lt;/i&gt; polymorphisms in high myopia.">
+    <entity charOffset="63-100" id="28884119.s0.e0" ontology_id="GO_0071805" text="potassium ion transmembrane transport" type="GO"/>
+    <entity charOffset="128-134" id="28884119.s0.e1" ontology_id="HP_0000545" text="myopia" type="HP"/>
+    <pair e1="28884119.s0.e0" e2="28884119.s0.e1" id="28884119.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="28884119.s1" text="Five tag single-nucleotide polymorphisms (SNPs) of &lt;i&gt;potassium ion transmembrane transport&lt;/i&gt; were genotyped, and association testing with high myopia was conducted using logistic regression analysis adjusted for multicellular organism development and age to give &lt;i&gt;P&lt;/i&gt;&lt;sub&gt;asym&lt;/sub&gt; values, and multiple comparisons were corrected by permutation test to give &lt;i&gt;P&lt;/i&gt;&lt;sub&gt;emp&lt;/sub&gt; values.">
+    <entity charOffset="54-91" id="28884119.s1.e0" ontology_id="GO_0071805" text="potassium ion transmembrane transport" type="GO"/>
+    <entity charOffset="146-152" id="28884119.s1.e1" ontology_id="HP_0000545" text="myopia" type="HP"/>
+    <entity charOffset="215-249" id="28884119.s1.e2" ontology_id="GO_0007275" text="multicellular organism development" type="GO"/>
+    <pair e1="28884119.s1.e0" e2="28884119.s1.e1" id="28884119.s1.p0" relation="false"/>
+    <pair e1="28884119.s1.e1" e2="28884119.s1.e2" id="28884119.s1.p1" relation="false"/>
+  </sentence>
+  <sentence id="28884119.s2" text="The SNP rs7744813, previously shown to be associated with refractive error and myopia in two GWAS, showed an odds ratio of 0.75 (95% CI 0.63-0.90; &lt;i&gt;P&lt;/i&gt;&lt;sub&gt;emp&lt;/sub&gt; = 0.0058) for the positive regulation of glucose transmembrane transport allele.">
+    <entity charOffset="79-85" id="28884119.s2.e0" ontology_id="HP_0000545" text="myopia" type="HP"/>
+    <entity charOffset="188-242" id="28884119.s2.e1" ontology_id="GO_0010828" text="positive regulation of glucose transmembrane transport" type="GO"/>
+    <pair e1="28884119.s2.e0" e2="28884119.s2.e1" id="28884119.s2.p0" relation="false"/>
+  </sentence>
+  <sentence id="28884119.s3" text="Our data support the involvement of &lt;i&gt;potassium ion transmembrane transport&lt;/i&gt; gene polymorphisms in the genetic susceptibility to high myopia and further exploration of &lt;i&gt;KCNQ5&lt;/i&gt; as a risk factor for high myopia">
+    <entity charOffset="39-76" id="28884119.s3.e0" ontology_id="GO_0071805" text="potassium ion transmembrane transport" type="GO"/>
+    <entity charOffset="138-144" id="28884119.s3.e1" ontology_id="HP_0000545" text="myopia" type="HP"/>
+    <pair e1="28884119.s3.e0" e2="28884119.s3.e1" id="28884119.s3.p0" relation="false"/>
+  </sentence>
+</document>

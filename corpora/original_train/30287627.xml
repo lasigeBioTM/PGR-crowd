@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="30287627">
+  <sentence id="30287627.s0" text="Hereditary angioedema (HAE), due to cytoskeleton organization-inhibitor deficiency, is a rare autosomal dominant and potentially life-threatening disease characterised by recurrent oedema attacks of skin, mucosa and viscera.">
+    <entity charOffset="11-21" id="30287627.s0.e0" ontology_id="HP_0100665" text="angioedema" type="HP"/>
+    <entity charOffset="36-61" id="30287627.s0.e1" ontology_id="GO_0007010" text="cytoskeleton organization" type="GO"/>
+    <pair e1="30287627.s0.e0" e2="30287627.s0.e1" id="30287627.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="30287627.s1" text="Due to the rarity and the nucleosome disassembly that symptoms of HAE imitate other forms of angioedema and other conditions, HAE may be misdiagnosed, especially in emergency settings.">
+    <entity charOffset="26-48" id="30287627.s1.e0" ontology_id="GO_0006337" text="nucleosome disassembly" type="GO"/>
+    <entity charOffset="93-103" id="30287627.s1.e1" ontology_id="HP_0100665" text="angioedema" type="HP"/>
+    <pair e1="30287627.s1.e0" e2="30287627.s1.e1" id="30287627.s1.p0" relation="false"/>
+  </sentence>
+</document>

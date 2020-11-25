@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29052317">
+  <sentence id="29052317.s0" text="Joubert syndrome exhibits genetic heterogeneity, with mutations identified in more than 30 genes, including protein processing involved in protein targeting to mitochondrion, a gene encoding inositol polyphosphate 5-phosphatase E, which is important in the development and stability of the primary cilium.">
+    <entity charOffset="34-47" id="29052317.s0.e0" ontology_id="HP_0001425" text="heterogeneity" type="HP"/>
+    <entity charOffset="108-173" id="29052317.s0.e1" ontology_id="GO_0006627" text="protein processing involved in protein targeting to mitochondrion" type="GO"/>
+    <pair e1="29052317.s0.e0" e2="29052317.s0.e1" id="29052317.s0.p0" relation="false"/>
+  </sentence>
+</document>

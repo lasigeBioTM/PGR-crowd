@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29891935">
+  <sentence id="29891935.s0" text="Functional studies support intraocular pressure-related influences of cytoskeleton organization and LMX1B, with certain Lmx1b mutations causing high IOP and glaucoma resembling POAG in mice.">
+    <entity charOffset="70-95" id="29891935.s0.e0" ontology_id="GO_0007010" text="cytoskeleton organization" type="GO"/>
+    <entity charOffset="157-165" id="29891935.s0.e1" ontology_id="HP_0000501" text="glaucoma" type="HP"/>
+    <pair e1="29891935.s0.e0" e2="29891935.s0.e1" id="29891935.s0.p0" relation="false"/>
+  </sentence>
+</document>

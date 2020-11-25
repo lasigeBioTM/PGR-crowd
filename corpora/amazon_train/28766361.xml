@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<document id="28766361">
+  <sentence id="28766361.s0" text="Introduction Despite some new treatment possibilities, the improvement in survival rate for hepatocellular carcinoma (phosphatidylinositol phosphorylation) patients is still poor due to late diagnosis.">
+    <entity charOffset="92-116" id="28766361.s0.e0" ontology_id="HP_0001402" text="hepatocellular carcinoma" type="HP"/>
+    <entity charOffset="118-154" id="28766361.s0.e1" ontology_id="GO_0046854" text="phosphatidylinositol phosphorylation" type="GO"/>
+    <pair e1="28766361.s0.e0" e2="28766361.s0.e1" id="28766361.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28766361.s1" text="The aim of this study was to investigate the diagnostic sensitivity and specificity of protein induced by vitamin K absence or antagonist-II (PIVKAII), heparan sulfate proteoglycan catabolic process-3 (GP3), Cystatin B (negative regulation of peptidase activity), squamous cell carcinoma antigen 1 (negative regulation of peptidase activity) and hepatocyte growth factor (neutrophil apoptotic process) as potential tumour markers for phosphatidylinositol phosphorylation in patients with alcoholic liver cirrhosis (biological_process) using imaging techniques (MSCT and MRI) as reference standards.">
+    <entity charOffset="152-198" id="28766361.s1.e0" ontology_id="GO_0030200" text="heparan sulfate proteoglycan catabolic process" type="GO"/>
+    <entity charOffset="220-261" id="28766361.s1.e1" ontology_id="GO_0010466" text="negative regulation of peptidase activity" type="GO"/>
+    <entity charOffset="264-287" id="28766361.s1.e2" ontology_id="HP_0002860" text="squamous cell carcinoma" type="HP"/>
+    <entity charOffset="299-340" id="28766361.s1.e3" ontology_id="GO_0010466" text="negative regulation of peptidase activity" type="GO"/>
+    <entity charOffset="372-400" id="28766361.s1.e4" ontology_id="GO_0001781" text="neutrophil apoptotic process" type="GO"/>
+    <entity charOffset="415-421" id="28766361.s1.e5" ontology_id="HP_0002664" text="tumour" type="HP"/>
+    <entity charOffset="434-470" id="28766361.s1.e6" ontology_id="GO_0046854" text="phosphatidylinositol phosphorylation" type="GO"/>
+    <entity charOffset="515-533" id="28766361.s1.e7" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <pair e1="28766361.s1.e0" e2="28766361.s1.e2" id="28766361.s1.p0" relation="false"/>
+    <pair e1="28766361.s1.e1" e2="28766361.s1.e2" id="28766361.s1.p1" relation="true"/>
+    <pair e1="28766361.s1.e2" e2="28766361.s1.e4" id="28766361.s1.p2" relation="true"/>
+    <pair e1="28766361.s1.e3" e2="28766361.s1.e5" id="28766361.s1.p3" relation="true"/>
+    <pair e1="28766361.s1.e5" e2="28766361.s1.e6" id="28766361.s1.p4" relation="true"/>
+  </sentence>
+  <sentence id="28766361.s2" text="The 'chloride transport' combination of tumour markers in our study includes all tested markers with AUC of 0.967.">
+    <entity charOffset="5-23" id="28766361.s2.e0" ontology_id="GO_0006821" text="chloride transport" type="GO"/>
+    <entity charOffset="40-46" id="28766361.s2.e1" ontology_id="HP_0002664" text="tumour" type="HP"/>
+  </sentence>
+  <sentence id="28766361.s3" text="Conclusion While novel diagnostic tumour markers are urgently needed, the examined potential tumour markers, with the exception of PIVKAII seem to be inadequate for diagnosing phosphatidylinositol phosphorylation in biological_process.">
+    <entity charOffset="34-40" id="28766361.s3.e0" ontology_id="HP_0002664" text="tumour" type="HP"/>
+    <entity charOffset="176-212" id="28766361.s3.e1" ontology_id="GO_0046854" text="phosphatidylinositol phosphorylation" type="GO"/>
+    <entity charOffset="216-234" id="28766361.s3.e2" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+  </sentence>
+  <sentence id="28766361.s4" text="Furthermore, probably the future is in finding the chloride transport optimal combination of tumour markers for diagnosing phosphatidylinositol phosphorylation based on cost-effectiveness">
+    <entity charOffset="51-69" id="28766361.s4.e0" ontology_id="GO_0006821" text="chloride transport" type="GO"/>
+    <entity charOffset="93-99" id="28766361.s4.e1" ontology_id="HP_0002664" text="tumour" type="HP"/>
+    <entity charOffset="123-159" id="28766361.s4.e2" ontology_id="GO_0046854" text="phosphatidylinositol phosphorylation" type="GO"/>
+  </sentence>
+</document>

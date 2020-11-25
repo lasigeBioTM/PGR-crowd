@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29058484">
+  <sentence id="29058484.s0" text="negative regulation of axon extension-A and Nogo-C are potent Nogos that are predominantly expressed in the central nervous system.">
+    <entity charOffset="0-37" id="29058484.s0.e0" ontology_id="GO_0030517" text="negative regulation of axon extension" type="GO"/>
+    <entity charOffset="108-115" id="29058484.s0.e1" ontology_id="HP_0030645" text="central" type="HP"/>
+    <pair e1="29058484.s0.e0" e2="29058484.s0.e1" id="29058484.s0.p0" relation="false"/>
+  </sentence>
+</document>

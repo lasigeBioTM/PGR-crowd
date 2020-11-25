@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="27567740">
+  <sentence id="27567740.s0" text="Recently, a missense mutation (R7S) in yet another member of this family, HSPB3, was found to cause an axonal motor neuropathy (distal hereditary motor neuropathy muscle organ development 2C, dHMN2C).">
+    <entity charOffset="116-126" id="27567740.s0.e0" ontology_id="HP_0009830" text="neuropathy" type="HP"/>
+    <entity charOffset="163-187" id="27567740.s0.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+  </sentence>
+</document>

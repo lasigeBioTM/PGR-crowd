@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<document id="29317515">
+  <sentence id="29317515.s0" text="There is a G protein-coupled receptor signaling pathway need to develop novel RCC sampling strategies to overcome tumour heterogeneity prior to define precision oncology strategies">
+    <entity charOffset="11-55" id="29317515.s0.e0" ontology_id="GO_0007186" text="G protein-coupled receptor signaling pathway" type="GO"/>
+    <entity charOffset="114-120" id="29317515.s0.e1" ontology_id="HP_0002664" text="tumour" type="HP"/>
+  </sentence>
+  <sentence id="29317515.s1" text="Clear cell renal cell carcinoma (ccRCC) is an heterogeneous tumour at architectural, cellular and molecular level, a reason why the 2014 International Society of Urological Pathology consensus recommended wide sampling of RCC masses to include at least 1 block/cm of tumour together with perpendicular sections of the tumour/perinephric positive regulation of cell-matrix adhesion interface and the tumour/renal sinus interface.">
+    <entity charOffset="60-66" id="29317515.s1.e0" ontology_id="HP_0002664" text="tumour" type="HP"/>
+    <entity charOffset="337-380" id="29317515.s1.e1" ontology_id="GO_0001954" text="positive regulation of cell-matrix adhesion" type="GO"/>
+  </sentence>
+</document>

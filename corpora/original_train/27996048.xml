@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<document id="27996048">
+  <sentence id="27996048.s0" text="The aberrant glucose metabolism is one of the hallmarks of cancer cells, and as a branch of glucose metabolism, hexosamine biosynthesis pathway (proteolysis) has been reported to play a critical role in the insulin resistance and progression of cancer.">
+    <entity charOffset="59-65" id="27996048.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="145-156" id="27996048.s0.e1" ontology_id="GO_0006508" text="proteolysis" type="GO"/>
+    <pair e1="27996048.s0.e0" e2="27996048.s0.e1" id="27996048.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="27996048.s1" text="Glutamine:fructose-6-phosphate amidotransferase (circadian regulation of gene expression) is the rate-limiting enzyme of the proteolysis; nevertheless, the prognostic value of GFAT1 in pancreatic cancer remains elusive.">
+    <entity charOffset="49-88" id="27996048.s1.e0" ontology_id="GO_0032922" text="circadian regulation of gene expression" type="GO"/>
+    <entity charOffset="125-136" id="27996048.s1.e1" ontology_id="GO_0006508" text="proteolysis" type="GO"/>
+    <entity charOffset="196-202" id="27996048.s1.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27996048.s1.e0" e2="27996048.s1.e2" id="27996048.s1.p0" relation="false"/>
+    <pair e1="27996048.s1.e1" e2="27996048.s1.e2" id="27996048.s1.p1" relation="false"/>
+  </sentence>
+  <sentence id="27996048.s2" text="In this study, we found that the expression of circadian regulation of gene expression was increased in pancreatic cancer samples compared to peri-tumor tissues.">
+    <entity charOffset="47-86" id="27996048.s2.e0" ontology_id="GO_0032922" text="circadian regulation of gene expression" type="GO"/>
+    <entity charOffset="147-152" id="27996048.s2.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="27996048.s2.e0" e2="27996048.s2.e1" id="27996048.s2.p0" relation="false"/>
+  </sentence>
+  <sentence id="27996048.s3" text="circadian regulation of gene expression was identified as an independent prognosticator for OS, and combining GFAT1 expression with pTNM stage generated a predictive nomogram, which showed better prognostic efficiency for OS in patients with pancreatic cancer.">
+    <entity charOffset="0-39" id="27996048.s3.e0" ontology_id="GO_0032922" text="circadian regulation of gene expression" type="GO"/>
+    <entity charOffset="253-259" id="27996048.s3.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27996048.s3.e0" e2="27996048.s3.e1" id="27996048.s3.p0" relation="false"/>
+  </sentence>
+  <sentence id="27996048.s4" text="In summary, high circadian regulation of gene expression expression is identified as an independent predictor of adverse clinical outcome in our small number of pancreatic cancer patients, and the practical prognostic nomogram model may help clinicians in decision making and the design of clinical studies">
+    <entity charOffset="17-56" id="27996048.s4.e0" ontology_id="GO_0032922" text="circadian regulation of gene expression" type="GO"/>
+    <entity charOffset="172-178" id="27996048.s4.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27996048.s4.e0" e2="27996048.s4.e1" id="27996048.s4.p0" relation="false"/>
+  </sentence>
+</document>

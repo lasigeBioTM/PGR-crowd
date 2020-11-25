@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<document id="30396386">
+  <sentence id="30396386.s0" text="&lt;i&gt;Background:&lt;/i&gt; regulation of cell cycle/positive regulation of cell proliferation have been reported to be highly expressed in malignant tumors.">
+    <entity charOffset="19-43" id="30396386.s0.e0" ontology_id="GO_0051726" text="regulation of cell cycle" type="GO"/>
+    <entity charOffset="44-85" id="30396386.s0.e1" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <entity charOffset="141-147" id="30396386.s0.e2" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <pair e1="30396386.s0.e0" e2="30396386.s0.e2" id="30396386.s0.p0" relation="false"/>
+    <pair e1="30396386.s0.e1" e2="30396386.s0.e2" id="30396386.s0.p1" relation="false"/>
+  </sentence>
+  <sentence id="30396386.s1" text="This research was aimed to study the expression of positive regulation of cell proliferation/regulation of cell cycle protein in malignant melanoma and to investigate its relationship to the clinicopathology and prognosis of patients with malignant melanoma.">
+    <entity charOffset="51-92" id="30396386.s1.e0" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <entity charOffset="93-117" id="30396386.s1.e1" ontology_id="GO_0051726" text="regulation of cell cycle" type="GO"/>
+    <entity charOffset="129-147" id="30396386.s1.e2" ontology_id="HP_0002861" text="malignant melanoma" type="HP"/>
+    <pair e1="30396386.s1.e0" e2="30396386.s1.e2" id="30396386.s1.p0" relation="false"/>
+    <pair e1="30396386.s1.e1" e2="30396386.s1.e2" id="30396386.s1.p1" relation="false"/>
+  </sentence>
+  <sentence id="30396386.s2" text="Relationship between positive regulation of cell proliferation/regulation of cell cycle and clinical data of malignant melanoma were analyzed.">
+    <entity charOffset="21-62" id="30396386.s2.e0" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <entity charOffset="63-87" id="30396386.s2.e1" ontology_id="GO_0051726" text="regulation of cell cycle" type="GO"/>
+    <entity charOffset="109-127" id="30396386.s2.e2" ontology_id="HP_0002861" text="malignant melanoma" type="HP"/>
+    <pair e1="30396386.s2.e0" e2="30396386.s2.e2" id="30396386.s2.p0" relation="false"/>
+    <pair e1="30396386.s2.e1" e2="30396386.s2.e2" id="30396386.s2.p1" relation="false"/>
+  </sentence>
+  <sentence id="30396386.s3" text="&lt;i&gt;Results:&lt;/i&gt; The number of positive cells of positive regulation of cell proliferation and regulation of cell cycle in malignant melanoma tumor tissues was significantly higher than that in melanocytic nevi tissues, and the expression of both proteins was positively correlated with malignant melanoma (r = 0.687, P &amp;lt;0.01); TAZ and YAP protein expression in malignant melanoma tissue was significantly correlated with tumor thickness, invasive depth grade, lymph node metastasis and regulation of transcription by RNA polymerase III stages (P &amp;lt;0.05), and increased with TNM staging.">
+    <entity charOffset="48-89" id="30396386.s3.e0" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <entity charOffset="94-118" id="30396386.s3.e1" ontology_id="GO_0051726" text="regulation of cell cycle" type="GO"/>
+    <entity charOffset="122-140" id="30396386.s3.e2" ontology_id="HP_0002861" text="malignant melanoma" type="HP"/>
+    <entity charOffset="141-146" id="30396386.s3.e3" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="489-538" id="30396386.s3.e4" ontology_id="GO_0006359" text="regulation of transcription by RNA polymerase III" type="GO"/>
+    <pair e1="30396386.s3.e0" e2="30396386.s3.e2" id="30396386.s3.p0" relation="false"/>
+    <pair e1="30396386.s3.e1" e2="30396386.s3.e2" id="30396386.s3.p1" relation="false"/>
+    <pair e1="30396386.s3.e2" e2="30396386.s3.e4" id="30396386.s3.p2" relation="false"/>
+    <pair e1="30396386.s3.e3" e2="30396386.s3.e4" id="30396386.s3.p3" relation="false"/>
+  </sentence>
+  <sentence id="30396386.s4" text="High expression of positive regulation of cell proliferation/regulation of cell cycle significantly reduced the postoperative survival rate in patients with malignant melanoma.">
+    <entity charOffset="19-60" id="30396386.s4.e0" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <entity charOffset="61-85" id="30396386.s4.e1" ontology_id="GO_0051726" text="regulation of cell cycle" type="GO"/>
+    <entity charOffset="157-175" id="30396386.s4.e2" ontology_id="HP_0002861" text="malignant melanoma" type="HP"/>
+    <pair e1="30396386.s4.e0" e2="30396386.s4.e2" id="30396386.s4.p0" relation="false"/>
+    <pair e1="30396386.s4.e1" e2="30396386.s4.e2" id="30396386.s4.p1" relation="false"/>
+  </sentence>
+  <sentence id="30396386.s5" text="&lt;i&gt;Conclusion:&lt;/i&gt; positive regulation of cell proliferation/regulation of cell cycle is highly expressed in malignant melanoma tumor tissues.">
+    <entity charOffset="19-60" id="30396386.s5.e0" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <entity charOffset="61-85" id="30396386.s5.e1" ontology_id="GO_0051726" text="regulation of cell cycle" type="GO"/>
+    <entity charOffset="109-127" id="30396386.s5.e2" ontology_id="HP_0002861" text="malignant melanoma" type="HP"/>
+    <entity charOffset="128-133" id="30396386.s5.e3" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="30396386.s5.e0" e2="30396386.s5.e2" id="30396386.s5.p0" relation="false"/>
+    <pair e1="30396386.s5.e0" e2="30396386.s5.e3" id="30396386.s5.p1" relation="false"/>
+    <pair e1="30396386.s5.e1" e2="30396386.s5.e2" id="30396386.s5.p2" relation="false"/>
+    <pair e1="30396386.s5.e1" e2="30396386.s5.e3" id="30396386.s5.p3" relation="false"/>
+  </sentence>
+  <sentence id="30396386.s6" text="The high expression of positive regulation of cell proliferation/regulation of cell cycle promotes the progression of malignant melanoma and affects the postoperative survival of patients">
+    <entity charOffset="23-64" id="30396386.s6.e0" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <entity charOffset="65-89" id="30396386.s6.e1" ontology_id="GO_0051726" text="regulation of cell cycle" type="GO"/>
+    <entity charOffset="118-136" id="30396386.s6.e2" ontology_id="HP_0002861" text="malignant melanoma" type="HP"/>
+    <pair e1="30396386.s6.e0" e2="30396386.s6.e2" id="30396386.s6.p0" relation="false"/>
+    <pair e1="30396386.s6.e1" e2="30396386.s6.e2" id="30396386.s6.p1" relation="false"/>
+  </sentence>
+</document>

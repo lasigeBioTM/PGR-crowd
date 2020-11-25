@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30424007">
+  <sentence id="30424007.s0" text="Here, we hypothesize that repression of transcriptional activity of forkhead box O1 (cellular response to starvation) via histone deacetylase inhibitors (HDACi) ameliorates hyperglycemia in T2DM rats">
+    <entity charOffset="85-116" id="30424007.s0.e0" ontology_id="GO_0009267" text="cellular response to starvation" type="GO"/>
+    <entity charOffset="173-186" id="30424007.s0.e1" ontology_id="HP_0003074" text="hyperglycemia" type="HP"/>
+    <pair e1="30424007.s0.e0" e2="30424007.s0.e1" id="30424007.s0.p0" relation="true"/>
+  </sentence>
+</document>

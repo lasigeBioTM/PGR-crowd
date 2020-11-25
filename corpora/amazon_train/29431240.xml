@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<document id="29431240">
+  <sentence id="29431240.s0" text="It has been reported that N-myc downstream regulated gene 1 (NDRG1) is related to the prognosis of non-small cell lung cancer (NSCLC), and associated with negative regulation of transcription by RNA polymerase II degradation in NSCLC cell lines.">
+    <entity charOffset="119-125" id="29431240.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="155-212" id="29431240.s0.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="29431240.s0.e0" e2="29431240.s0.e1" id="29431240.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29431240.s1" text="However, the relationship of DNA damage response, signal transduction by p53 class mediator to prognosis or negative regulation of transcription by RNA polymerase II expression in lung adenocarcinoma has not been well clarified.">
+    <entity charOffset="29-91" id="29431240.s1.e0" ontology_id="GO_0030330" text="DNA damage response, signal transduction by p53 class mediator" type="GO"/>
+    <entity charOffset="108-165" id="29431240.s1.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="180-199" id="29431240.s1.e2" ontology_id="HP_0030078" text="lung adenocarcinoma" type="HP"/>
+    <pair e1="29431240.s1.e0" e2="29431240.s1.e2" id="29431240.s1.p0" relation="true"/>
+    <pair e1="29431240.s1.e1" e2="29431240.s1.e2" id="29431240.s1.p1" relation="true"/>
+  </sentence>
+  <sentence id="29431240.s2" text="The present study was designed to investigate the prognostic significance of DNA damage response, signal transduction by p53 class mediator and/or negative regulation of transcription by RNA polymerase II expression in lung adenocarcinoma using immunohistochemistry with a tissue microarray.">
+    <entity charOffset="77-139" id="29431240.s2.e0" ontology_id="GO_0030330" text="DNA damage response, signal transduction by p53 class mediator" type="GO"/>
+    <entity charOffset="147-204" id="29431240.s2.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="219-238" id="29431240.s2.e2" ontology_id="HP_0030078" text="lung adenocarcinoma" type="HP"/>
+    <pair e1="29431240.s2.e0" e2="29431240.s2.e2" id="29431240.s2.p0" relation="true"/>
+    <pair e1="29431240.s2.e1" e2="29431240.s2.e2" id="29431240.s2.p1" relation="true"/>
+  </sentence>
+  <sentence id="29431240.s3" text="We examined 184 lung adenocarcinomas and observed low expression of DNA damage response, signal transduction by p53 class mediator in adenocarcinoma in situ (oxidation-reduction process) and minimally invasive adenocarcinoma (MIA), whereas high expression of NDRG1 was seen in invasive adenocarcinoma.">
+    <entity charOffset="16-35" id="29431240.s3.e0" ontology_id="HP_0030078" text="lung adenocarcinoma" type="HP"/>
+    <entity charOffset="68-130" id="29431240.s3.e1" ontology_id="GO_0030330" text="DNA damage response, signal transduction by p53 class mediator" type="GO"/>
+    <entity charOffset="158-185" id="29431240.s3.e2" ontology_id="GO_0055114" text="oxidation-reduction process" type="GO"/>
+    <pair e1="29431240.s3.e0" e2="29431240.s3.e1" id="29431240.s3.p0" relation="true"/>
+    <pair e1="29431240.s3.e0" e2="29431240.s3.e2" id="29431240.s3.p1" relation="true"/>
+  </sentence>
+</document>

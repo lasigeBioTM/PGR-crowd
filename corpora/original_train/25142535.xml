@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<document id="25142535">
+  <sentence id="25142535.s0" text="We report on the case of a 77-year-old male with genetically proven spinocerebellar ataxia muscle organ development 31 (biological_process) who had dystonia.">
+    <entity charOffset="84-90" id="25142535.s0.e0" ontology_id="HP_0001251" text="ataxia" type="HP"/>
+    <entity charOffset="91-115" id="25142535.s0.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="120-138" id="25142535.s0.e2" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="148-156" id="25142535.s0.e3" ontology_id="HP_0001332" text="dystonia" type="HP"/>
+    <pair e1="25142535.s0.e0" e2="25142535.s0.e1" id="25142535.s0.p0" relation="false"/>
+    <pair e1="25142535.s0.e0" e2="25142535.s0.e2" id="25142535.s0.p1" relation="true"/>
+    <pair e1="25142535.s0.e1" e2="25142535.s0.e3" id="25142535.s0.p2" relation="false"/>
+  </sentence>
+  <sentence id="25142535.s1" text="On the basis of his symptoms, we diagnosed him as spinocerebellar degeneration (quaternary ammonium group transport), and prescribed taltirelin hydrate.">
+    <entity charOffset="50-78" id="25142535.s1.e0" ontology_id="HP_0002503" text="spinocerebellar degeneration" type="HP"/>
+    <entity charOffset="80-115" id="25142535.s1.e1" ontology_id="GO_0015697" text="quaternary ammonium group transport" type="GO"/>
+    <pair e1="25142535.s1.e0" e2="25142535.s1.e1" id="25142535.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="25142535.s2" text="And left hallux moved involuntarily toward the top surface of the foot at negative regulation of transcription by RNA polymerase II, that is dystonia.">
+    <entity charOffset="74-131" id="25142535.s2.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="141-149" id="25142535.s2.e1" ontology_id="HP_0001332" text="dystonia" type="HP"/>
+    <pair e1="25142535.s2.e0" e2="25142535.s2.e1" id="25142535.s2.p0" relation="false"/>
+  </sentence>
+  <sentence id="25142535.s3" text="Our case report support clinical heterogeneity of biological_process, and highlight the importance of considering this muscle organ development in patients with dystonia and ataxia.">
+    <entity charOffset="33-46" id="25142535.s3.e0" ontology_id="HP_0001425" text="heterogeneity" type="HP"/>
+    <entity charOffset="50-68" id="25142535.s3.e1" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="119-143" id="25142535.s3.e2" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="161-169" id="25142535.s3.e3" ontology_id="HP_0001332" text="dystonia" type="HP"/>
+    <entity charOffset="174-180" id="25142535.s3.e4" ontology_id="HP_0001251" text="ataxia" type="HP"/>
+    <pair e1="25142535.s3.e0" e2="25142535.s3.e2" id="25142535.s3.p0" relation="false"/>
+    <pair e1="25142535.s3.e0" e2="25142535.s3.e1" id="25142535.s3.p1" relation="false"/>
+    <pair e1="25142535.s3.e1" e2="25142535.s3.e4" id="25142535.s3.p2" relation="true"/>
+    <pair e1="25142535.s3.e1" e2="25142535.s3.e3" id="25142535.s3.p3" relation="false"/>
+    <pair e1="25142535.s3.e2" e2="25142535.s3.e4" id="25142535.s3.p4" relation="false"/>
+    <pair e1="25142535.s3.e2" e2="25142535.s3.e3" id="25142535.s3.p5" relation="false"/>
+  </sentence>
+  <sentence id="25142535.s4" text="Patients with the combination of dystonia and ataxia and a family history of a neurodegenerative disorder should be tested for biological_process.">
+    <entity charOffset="33-41" id="25142535.s4.e0" ontology_id="HP_0001332" text="dystonia" type="HP"/>
+    <entity charOffset="127-145" id="25142535.s4.e1" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <pair e1="25142535.s4.e0" e2="25142535.s4.e1" id="25142535.s4.p0" relation="false"/>
+  </sentence>
+</document>

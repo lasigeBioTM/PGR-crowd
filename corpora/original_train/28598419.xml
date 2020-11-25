@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="28598419">
+  <sentence id="28598419.s0" text="We show that maternal biological_process variants have a significant genome-wide interaction with maternal pre-pregnancy overweight/obesity on regulation of alternative mRNA splicing, via spliceosome risk, with rs11161721 (P&lt;sub&gt;G × E&lt;/sub&gt;=1.8 × 10&lt;sup&gt;-8&lt;/sup&gt;; empirical P&lt;sub&gt;G × E&lt;/sub&gt;=1.2 × 10&lt;sup&gt;-8&lt;/sup&gt;) as the top hit.">
+    <entity charOffset="22-40" id="28598419.s0.e0" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="132-139" id="28598419.s0.e1" ontology_id="HP_0001513" text="obesity" type="HP"/>
+    <entity charOffset="143-199" id="28598419.s0.e2" ontology_id="GO_0000381" text="regulation of alternative mRNA splicing, via spliceosome" type="GO"/>
+    <pair e1="28598419.s0.e0" e2="28598419.s0.e1" id="28598419.s0.p0" relation="false"/>
+    <pair e1="28598419.s0.e1" e2="28598419.s0.e2" id="28598419.s0.p1" relation="false"/>
+  </sentence>
+</document>

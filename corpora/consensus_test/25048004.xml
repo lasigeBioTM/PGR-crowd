@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<document id="25048004">
+  <sentence id="25048004.s0" text="Both single-gene and gene-set enrichment analyses in genome-wide association data from the largest schizophrenia sample to date of 13,689 cases and 18,226 controls show significant association of HIST1H1E and protein phosphorylation, and enrichment of our signal transduction proteome.">
+    <entity charOffset="99-112" id="25048004.s0.e0" ontology_id="HP_0100753" text="schizophrenia" type="HP"/>
+    <entity charOffset="209-232" id="25048004.s0.e1" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <entity charOffset="256-275" id="25048004.s0.e2" ontology_id="GO_0007165" text="signal transduction" type="GO"/>
+    <pair e1="25048004.s0.e0" e2="25048004.s0.e2" id="25048004.s0.p0" relation="false"/>
+    <pair e1="25048004.s0.e0" e2="25048004.s0.e1" id="25048004.s0.p1" relation="false"/>
+  </sentence>
+  <sentence id="25048004.s1" text="The postsynaptic density (signal transduction) contains a complex set of proteins of known relevance to neuropsychiatric disorders, and schizophrenia specifically.">
+    <entity charOffset="26-45" id="25048004.s1.e0" ontology_id="GO_0007165" text="signal transduction" type="GO"/>
+    <entity charOffset="136-149" id="25048004.s1.e1" ontology_id="HP_0100753" text="schizophrenia" type="HP"/>
+  </sentence>
+  <sentence id="25048004.s2" text="Taken together, our data provide robust evidence implicating signal transduction-associated proteins and genes in schizophrenia, and suggest that within the PSD, NMDA-interacting and endocytosis-related proteins contribute to disease pathophysiology">
+    <entity charOffset="61-80" id="25048004.s2.e0" ontology_id="GO_0007165" text="signal transduction" type="GO"/>
+    <entity charOffset="114-127" id="25048004.s2.e1" ontology_id="HP_0100753" text="schizophrenia" type="HP"/>
+    <pair e1="25048004.s2.e0" e2="25048004.s2.e1" id="25048004.s2.p0" relation="true"/>
+  </sentence>
+</document>

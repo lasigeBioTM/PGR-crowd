@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="25142862">
+  <sentence id="25142862.s0" text="Our current study found that phosphoserine aminotransferase 1 (L-serine biosynthetic process), an enzyme catalyzing serine biosynthesis, was significantly up-regulated in non-small cell lung cancer (NSCLC) and was involved in the regulation of E2F activity.">
+    <entity charOffset="63-92" id="25142862.s0.e0" ontology_id="GO_0006564" text="L-serine biosynthetic process" type="GO"/>
+    <entity charOffset="191-197" id="25142862.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="25142862.s0.e0" e2="25142862.s0.e1" id="25142862.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="25142862.s1" text="Loss- and gain-of-function experiments demonstrated that L-serine biosynthetic process promoted cell cycle progression, cell proliferation and tumorigenesis.">
+    <entity charOffset="57-86" id="25142862.s1.e0" ontology_id="GO_0006564" text="L-serine biosynthetic process" type="GO"/>
+    <entity charOffset="143-148" id="25142862.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="25142862.s1.e0" e2="25142862.s1.e1" id="25142862.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="25142862.s2" text="Correlation analysis showed that L-serine biosynthetic process expression positively correlated with the levels of phosphorylated GSK-3β, cyclin D1 and phosphorylated Rb in NSCLC primary tumors.">
+    <entity charOffset="33-62" id="25142862.s2.e0" ontology_id="GO_0006564" text="L-serine biosynthetic process" type="GO"/>
+    <entity charOffset="187-192" id="25142862.s2.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="25142862.s2.e0" e2="25142862.s2.e1" id="25142862.s2.p0" relation="false"/>
+  </sentence>
+</document>

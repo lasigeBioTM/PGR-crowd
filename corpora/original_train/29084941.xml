@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="29084941">
+  <sentence id="29084941.s0" text="epithelial to mesenchymal transition-positive regulation of transcription by RNA polymerase II promotes a tumorigenic phenotype in vitro, and is absent in 723 other salivary gland tumors.">
+    <entity charOffset="0-36" id="29084941.s0.e0" ontology_id="GO_0001837" text="epithelial to mesenchymal transition" type="GO"/>
+    <entity charOffset="37-94" id="29084941.s0.e1" ontology_id="GO_0045944" text="positive regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="106-111" id="29084941.s0.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="180-186" id="29084941.s0.e3" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <pair e1="29084941.s0.e0" e2="29084941.s0.e2" id="29084941.s0.p0" relation="false"/>
+    <pair e1="29084941.s0.e1" e2="29084941.s0.e3" id="29084941.s0.p1" relation="true"/>
+    <pair e1="29084941.s0.e1" e2="29084941.s0.e2" id="29084941.s0.p2" relation="true"/>
+  </sentence>
+</document>

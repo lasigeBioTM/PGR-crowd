@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="30333494">
+  <sentence id="30333494.s0" text="Chemotherapy and radiation not only trigger cancer cell apoptosis but also cellular protein catabolic process stromal cells in the tumour microenvironment (TME), inducing a senescence-associated secretory phenomuscle organ development (SASP) characterized by chronic secretion of diverse soluble factors.">
+    <entity charOffset="75-109" id="30333494.s0.e0" ontology_id="GO_0044257" text="cellular protein catabolic process" type="GO"/>
+    <entity charOffset="131-137" id="30333494.s0.e1" ontology_id="HP_0002664" text="tumour" type="HP"/>
+    <entity charOffset="210-234" id="30333494.s0.e2" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+  </sentence>
+  <sentence id="30333494.s1" text="In vivo, negative regulation of nitric oxide mediated signal transduction is expressed in the stroma of solid tumours and is routinely detectable in peripheral blood of cancer patients after chemotherapy.">
+    <entity charOffset="9-73" id="30333494.s1.e0" ontology_id="GO_0010751" text="negative regulation of nitric oxide mediated signal transduction" type="GO"/>
+    <entity charOffset="110-116" id="30333494.s1.e1" ontology_id="HP_0002664" text="tumour" type="HP"/>
+    <pair e1="30333494.s1.e0" e2="30333494.s1.e1" id="30333494.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="30333494.s2" text="Strikingly, negative regulation of nitric oxide mediated signal transduction reprograms the expression profile of cancer cells, causing prominent epithelial-endothelial transition (EET), a phenotypic switch mediated by EGFR signaling but hitherto rarely reported for a SASP factor.">
+    <entity charOffset="12-76" id="30333494.s2.e0" ontology_id="GO_0010751" text="negative regulation of nitric oxide mediated signal transduction" type="GO"/>
+    <entity charOffset="114-120" id="30333494.s2.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30333494.s2.e0" e2="30333494.s2.e1" id="30333494.s2.p0" relation="true"/>
+  </sentence>
+</document>

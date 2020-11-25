@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="29227583">
+  <sentence id="29227583.s0" text="The dystrobrevin-binding protein 1 (neuron projection development) gene is a candidate risk factor for schizophrenia and has been associated with cognitive ability in both patient populations and healthy controls.">
+    <entity charOffset="36-65" id="29227583.s0.e0" ontology_id="GO_0031175" text="neuron projection development" type="GO"/>
+    <entity charOffset="103-116" id="29227583.s0.e1" ontology_id="HP_0100753" text="schizophrenia" type="HP"/>
+    <pair e1="29227583.s0.e0" e2="29227583.s0.e1" id="29227583.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="29227583.s1" text="neuron projection development encodes neuron projection development protein, which is localized to synaptic sites and is reduced in the prefrontal cortex and hippocampus of patients with schizophrenia, indicating a potential role in schizophrenia etiology.">
+    <entity charOffset="0-29" id="29227583.s1.e0" ontology_id="GO_0031175" text="neuron projection development" type="GO"/>
+    <entity charOffset="38-67" id="29227583.s1.e1" ontology_id="GO_0031175" text="neuron projection development" type="GO"/>
+    <entity charOffset="187-200" id="29227583.s1.e2" ontology_id="HP_0100753" text="schizophrenia" type="HP"/>
+    <pair e1="29227583.s1.e0" e2="29227583.s1.e2" id="29227583.s1.p0" relation="false"/>
+    <pair e1="29227583.s1.e1" e2="29227583.s1.e2" id="29227583.s1.p1" relation="false"/>
+  </sentence>
+</document>

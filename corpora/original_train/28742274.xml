@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<document id="28742274">
+  <sentence id="28742274.s0" text="Hemangioblastomas (HBs) are uncommon tumors characterized by the presence of inactivating alterations in the von Hippel-Lindau (protein ubiquitination) gene in inherited cases and by infrequent somatic mutation in sporadic entities.">
+    <entity charOffset="37-43" id="28742274.s0.e0" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <entity charOffset="128-150" id="28742274.s0.e1" ontology_id="GO_0016567" text="protein ubiquitination" type="GO"/>
+    <entity charOffset="194-210" id="28742274.s0.e2" ontology_id="HP_0001428" text="somatic mutation" type="HP"/>
+    <entity charOffset="214-222" id="28742274.s0.e3" ontology_id="HP_0003745" text="sporadic" type="HP"/>
+    <pair e1="28742274.s0.e0" e2="28742274.s0.e1" id="28742274.s0.p0" relation="true"/>
+    <pair e1="28742274.s0.e1" e2="28742274.s0.e2" id="28742274.s0.p1" relation="false"/>
+    <pair e1="28742274.s0.e1" e2="28742274.s0.e3" id="28742274.s0.p2" relation="true"/>
+  </sentence>
+  <sentence id="28742274.s1" text="Genes harboring the most significant mutations include PCDH9, KLHL12, biological_process, and protein ubiquitination in sporadic HBs, and regulation of transcription by RNA polymerase II, DLG2, RIMS1, cell adhesion, and killing of cells of other organism in familial HBs.">
+    <entity charOffset="70-88" id="28742274.s1.e0" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="94-116" id="28742274.s1.e1" ontology_id="GO_0016567" text="protein ubiquitination" type="GO"/>
+    <entity charOffset="120-128" id="28742274.s1.e2" ontology_id="HP_0003745" text="sporadic" type="HP"/>
+    <entity charOffset="138-186" id="28742274.s1.e3" ontology_id="GO_0006357" text="regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="201-214" id="28742274.s1.e4" ontology_id="GO_0007155" text="cell adhesion" type="GO"/>
+    <entity charOffset="220-254" id="28742274.s1.e5" ontology_id="GO_0031640" text="killing of cells of other organism" type="GO"/>
+    <pair e1="28742274.s1.e0" e2="28742274.s1.e2" id="28742274.s1.p0" relation="false"/>
+    <pair e1="28742274.s1.e1" e2="28742274.s1.e2" id="28742274.s1.p1" relation="true"/>
+    <pair e1="28742274.s1.e2" e2="28742274.s1.e3" id="28742274.s1.p2" relation="false"/>
+    <pair e1="28742274.s1.e2" e2="28742274.s1.e4" id="28742274.s1.p3" relation="false"/>
+    <pair e1="28742274.s1.e2" e2="28742274.s1.e5" id="28742274.s1.p4" relation="false"/>
+  </sentence>
+  <sentence id="28742274.s2" text="Five genes, including sensory perception of sound, G protein-coupled receptor signaling pathway, keratinocyte differentiation, proteolysis, and WWOX, have CNVs in the six patients with sporadic HBs, and three genes, including transmembrane transport, CWC27, and muscle organ development, have CNVs in the five patients with familial HBs.">
+    <entity charOffset="22-49" id="28742274.s2.e0" ontology_id="GO_0007605" text="sensory perception of sound" type="GO"/>
+    <entity charOffset="51-95" id="28742274.s2.e1" ontology_id="GO_0007186" text="G protein-coupled receptor signaling pathway" type="GO"/>
+    <entity charOffset="97-125" id="28742274.s2.e2" ontology_id="GO_0030216" text="keratinocyte differentiation" type="GO"/>
+    <entity charOffset="127-138" id="28742274.s2.e3" ontology_id="GO_0006508" text="proteolysis" type="GO"/>
+    <entity charOffset="185-193" id="28742274.s2.e4" ontology_id="HP_0003745" text="sporadic" type="HP"/>
+    <entity charOffset="226-249" id="28742274.s2.e5" ontology_id="GO_0055085" text="transmembrane transport" type="GO"/>
+    <entity charOffset="262-286" id="28742274.s2.e6" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <pair e1="28742274.s2.e0" e2="28742274.s2.e4" id="28742274.s2.p0" relation="false"/>
+    <pair e1="28742274.s2.e1" e2="28742274.s2.e4" id="28742274.s2.p1" relation="false"/>
+    <pair e1="28742274.s2.e2" e2="28742274.s2.e4" id="28742274.s2.p2" relation="false"/>
+    <pair e1="28742274.s2.e3" e2="28742274.s2.e4" id="28742274.s2.p3" relation="false"/>
+    <pair e1="28742274.s2.e4" e2="28742274.s2.e5" id="28742274.s2.p4" relation="false"/>
+    <pair e1="28742274.s2.e4" e2="28742274.s2.e6" id="28742274.s2.p5" relation="false"/>
+  </sentence>
+</document>

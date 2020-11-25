@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="26053550">
+  <sentence id="26053550.s0" text="No significant associations were detected between these SNPs and schizophrenia in Han Chinese and the positive regulation of antibacterial peptide production data set.">
+    <entity charOffset="65-78" id="26053550.s0.e0" ontology_id="HP_0100753" text="schizophrenia" type="HP"/>
+    <entity charOffset="102-157" id="26053550.s0.e1" ontology_id="GO_0002803" text="positive regulation of antibacterial peptide production" type="GO"/>
+    <pair e1="26053550.s0.e0" e2="26053550.s0.e1" id="26053550.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="26053550.s1" text="However, we observed nominal significant associations of 2 SNPs in the apoptotic mitochondrial changes gene and 4 SNPs in the response to oxidative stress gene with early onset schizophrenia (EOS), but none of these associations survived the Bonferroni correction.">
+    <entity charOffset="71-102" id="26053550.s1.e0" ontology_id="GO_0008637" text="apoptotic mitochondrial changes" type="GO"/>
+    <entity charOffset="126-154" id="26053550.s1.e1" ontology_id="GO_0006979" text="response to oxidative stress" type="GO"/>
+    <entity charOffset="177-190" id="26053550.s1.e2" ontology_id="HP_0100753" text="schizophrenia" type="HP"/>
+    <pair e1="26053550.s1.e0" e2="26053550.s1.e2" id="26053550.s1.p0" relation="true"/>
+    <pair e1="26053550.s1.e1" e2="26053550.s1.e2" id="26053550.s1.p1" relation="true"/>
+  </sentence>
+</document>

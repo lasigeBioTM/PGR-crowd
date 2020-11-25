@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="24024198">
+  <sentence id="24024198.s0" text="Here, we report two novel GUCA1A (the gene for guanylate cyclase activating protein 1) mutations identified in unrelated Spanish families affected by autosomal dominant retinal degeneration (adRD) with cone and mitotic cell cycle checkpoint involvement.">
+    <entity charOffset="169-189" id="24024198.s0.e0" ontology_id="HP_0000546" text="retinal degeneration" type="HP"/>
+    <entity charOffset="211-240" id="24024198.s0.e1" ontology_id="GO_0007093" text="mitotic cell cycle checkpoint" type="GO"/>
+  </sentence>
+</document>

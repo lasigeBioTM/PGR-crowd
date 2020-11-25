@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29141310">
+  <sentence id="29141310.s0" text="A case with protein sumoylation (C.700G&amp;gt;A) had seizure controlled for 6 mouths.">
+    <entity charOffset="12-31" id="29141310.s0.e0" ontology_id="GO_0016925" text="protein sumoylation" type="GO"/>
+    <entity charOffset="50-57" id="29141310.s0.e1" ontology_id="HP_0001250" text="seizure" type="HP"/>
+    <pair e1="29141310.s0.e0" e2="29141310.s0.e1" id="29141310.s0.p0" relation="true"/>
+  </sentence>
+</document>

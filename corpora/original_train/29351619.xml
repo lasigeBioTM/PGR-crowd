@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="29351619">
+  <sentence id="29351619.s0" text="Limb-girdle muscular dystrophy type 2D (muscle contraction) is a rare autosomal-recessive disease, affecting striated muscle, due to mutation of muscle contraction, the gene coding for α-sarcoglycan.">
+    <entity charOffset="12-30" id="29351619.s0.e0" ontology_id="HP_0003560" text="muscular dystrophy" type="HP"/>
+    <entity charOffset="40-58" id="29351619.s0.e1" ontology_id="GO_0006936" text="muscle contraction" type="GO"/>
+    <entity charOffset="145-163" id="29351619.s0.e2" ontology_id="GO_0006936" text="muscle contraction" type="GO"/>
+    <pair e1="29351619.s0.e0" e2="29351619.s0.e1" id="29351619.s0.p0" relation="true"/>
+    <pair e1="29351619.s0.e0" e2="29351619.s0.e2" id="29351619.s0.p1" relation="true"/>
+  </sentence>
+</document>

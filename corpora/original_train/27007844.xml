@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="27007844">
+  <sentence id="27007844.s0" text="Individuals with smoothened signaling pathway deletion show symptoms of ADHD, sleep disruption, hypotonia, aggression, ASD, and ID.">
+    <entity charOffset="17-45" id="27007844.s0.e0" ontology_id="GO_0007224" text="smoothened signaling pathway" type="GO"/>
+    <entity charOffset="107-117" id="27007844.s0.e1" ontology_id="HP_0000718" text="aggression" type="HP"/>
+    <pair e1="27007844.s0.e0" e2="27007844.s0.e1" id="27007844.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="27007844.s1" text="protein import into nucleus-restricted deletion of smoothened signaling pathway leads to attention deficits and hyperactivity, both of which are rescued by pharmacological augmentation of SK channel activity.">
+    <entity charOffset="0-27" id="27007844.s1.e0" ontology_id="GO_0006606" text="protein import into nucleus" type="GO"/>
+    <entity charOffset="51-79" id="27007844.s1.e1" ontology_id="GO_0007224" text="smoothened signaling pathway" type="GO"/>
+    <entity charOffset="112-125" id="27007844.s1.e2" ontology_id="HP_0000752" text="hyperactivity" type="HP"/>
+    <pair e1="27007844.s1.e0" e2="27007844.s1.e2" id="27007844.s1.p0" relation="false"/>
+    <pair e1="27007844.s1.e1" e2="27007844.s1.e2" id="27007844.s1.p1" relation="false"/>
+  </sentence>
+</document>

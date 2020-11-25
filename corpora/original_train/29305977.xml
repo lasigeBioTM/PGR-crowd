@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29305977">
+  <sentence id="29305977.s0" text="Typical protein phosphorylation clinical features are mucocutaneous telangiectases, arteriovenous malformations, spontaneous and recurrent epistaxis, as well as gastrointestinal bleedings.">
+    <entity charOffset="8-31" id="29305977.s0.e0" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <entity charOffset="84-111" id="29305977.s0.e1" ontology_id="HP_0100026" text="arteriovenous malformations" type="HP"/>
+    <pair e1="29305977.s0.e0" e2="29305977.s0.e1" id="29305977.s0.p0" relation="true"/>
+  </sentence>
+</document>

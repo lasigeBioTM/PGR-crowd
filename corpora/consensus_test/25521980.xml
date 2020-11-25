@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<document id="25521980">
+  <sentence id="25521980.s0" text="X-linked spondylo-epiphyseal dysplasia tarda (regulation of transcription, DNA-templated) is an X-linked recessive, late-onset, progressive skeletal disorder characterized by mild-to-moderate short-trunked short stature.">
+    <entity charOffset="18-38" id="25521980.s0.e0" ontology_id="HP_0002656" text="epiphyseal dysplasia" type="HP"/>
+    <entity charOffset="46-88" id="25521980.s0.e1" ontology_id="GO_0006355" text="regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="206-219" id="25521980.s0.e2" ontology_id="HP_0004322" text="short stature" type="HP"/>
+    <pair e1="25521980.s0.e1" e2="25521980.s0.e2" id="25521980.s0.p0" relation="false"/>
+  </sentence>
+</document>

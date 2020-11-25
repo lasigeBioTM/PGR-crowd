@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<document id="30226615">
+  <sentence id="30226615.s0" text="The expression of positive regulation of gene expression in non‑small cell lung cancer (NSCLC) remains unclear.">
+    <entity charOffset="18-56" id="30226615.s0.e0" ontology_id="GO_0010628" text="positive regulation of gene expression" type="GO"/>
+    <entity charOffset="80-86" id="30226615.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30226615.s0.e0" e2="30226615.s0.e1" id="30226615.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="30226615.s1" text="Therefore, positive regulation of gene expression expression was detected in clinical specimens using quantum dots (QDs)‑immunohistochemistry (IHC) and lung cancer cell lines by quantitative real‑time polymerase chain reaction.">
+    <entity charOffset="11-49" id="30226615.s1.e0" ontology_id="GO_0010628" text="positive regulation of gene expression" type="GO"/>
+    <entity charOffset="157-163" id="30226615.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30226615.s1.e0" e2="30226615.s1.e1" id="30226615.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="30226615.s2" text="The protein levels of positive regulation of gene expression were decreased in the tumor tissues of NSCLC patients and lung cancer cell lines.">
+    <entity charOffset="22-60" id="30226615.s2.e0" ontology_id="GO_0010628" text="positive regulation of gene expression" type="GO"/>
+    <entity charOffset="83-88" id="30226615.s2.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="124-130" id="30226615.s2.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30226615.s2.e0" e2="30226615.s2.e2" id="30226615.s2.p0" relation="true"/>
+    <pair e1="30226615.s2.e0" e2="30226615.s2.e1" id="30226615.s2.p1" relation="true"/>
+  </sentence>
+</document>

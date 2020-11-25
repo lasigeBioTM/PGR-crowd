@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<document id="30222780">
+  <sentence id="30222780.s0" text="monoubiquitinated histone H2A deubiquitination (additional multicellular organism development combs like 1) is a gene that is mutated in a number of hematological neoplasms.">
+    <entity charOffset="0-46" id="30222780.s0.e0" ontology_id="GO_0035522" text="monoubiquitinated histone H2A deubiquitination" type="GO"/>
+    <entity charOffset="59-93" id="30222780.s0.e1" ontology_id="GO_0007275" text="multicellular organism development" type="GO"/>
+    <entity charOffset="163-172" id="30222780.s0.e2" ontology_id="HP_0002664" text="neoplasms" type="HP"/>
+    <pair e1="30222780.s0.e0" e2="30222780.s0.e2" id="30222780.s0.p0" relation="true"/>
+    <pair e1="30222780.s0.e1" e2="30222780.s0.e2" id="30222780.s0.p1" relation="false"/>
+  </sentence>
+  <sentence id="30222780.s1" text="In addition, we investigated the impact of proofreading capabilities of different DNA polymerases on monoubiquitinated histone H2A deubiquitination c.1934dupG somatic mutation using conventional Sanger sequencing, another common method for ASXL1 genotyping.">
+    <entity charOffset="101-147" id="30222780.s1.e0" ontology_id="GO_0035522" text="monoubiquitinated histone H2A deubiquitination" type="GO"/>
+    <entity charOffset="159-175" id="30222780.s1.e1" ontology_id="HP_0001428" text="somatic mutation" type="HP"/>
+    <pair e1="30222780.s1.e0" e2="30222780.s1.e1" id="30222780.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="30222780.s2" text="A systematic study of serial samples from 30 patients show that monoubiquitinated histone H2A deubiquitination c.1934dupG is a somatic mutation in haematological neoplasms including microtubule-based process, AML, proteolysis and MDS/MPN and often is associated with somatic mutations of 5-methylcytosine catabolic process, negative regulation of transcription by RNA polymerase II, isocitrate metabolic process, hemopoiesis, Ras protein signal transduction and DNMT3A.">
+    <entity charOffset="64-110" id="30222780.s2.e0" ontology_id="GO_0035522" text="monoubiquitinated histone H2A deubiquitination" type="GO"/>
+    <entity charOffset="127-143" id="30222780.s2.e1" ontology_id="HP_0001428" text="somatic mutation" type="HP"/>
+    <entity charOffset="162-171" id="30222780.s2.e2" ontology_id="HP_0002664" text="neoplasms" type="HP"/>
+    <entity charOffset="182-207" id="30222780.s2.e3" ontology_id="GO_0007017" text="microtubule-based process" type="GO"/>
+    <entity charOffset="214-225" id="30222780.s2.e4" ontology_id="GO_0006508" text="proteolysis" type="GO"/>
+    <entity charOffset="288-322" id="30222780.s2.e5" ontology_id="GO_0006211" text="5-methylcytosine catabolic process" type="GO"/>
+    <entity charOffset="324-381" id="30222780.s2.e6" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="383-411" id="30222780.s2.e7" ontology_id="GO_0006102" text="isocitrate metabolic process" type="GO"/>
+    <entity charOffset="413-424" id="30222780.s2.e8" ontology_id="GO_0030097" text="hemopoiesis" type="GO"/>
+    <entity charOffset="426-457" id="30222780.s2.e9" ontology_id="GO_0007265" text="Ras protein signal transduction" type="GO"/>
+    <pair e1="30222780.s2.e0" e2="30222780.s2.e2" id="30222780.s2.p0" relation="true"/>
+    <pair e1="30222780.s2.e0" e2="30222780.s2.e1" id="30222780.s2.p1" relation="true"/>
+    <pair e1="30222780.s2.e1" e2="30222780.s2.e3" id="30222780.s2.p2" relation="false"/>
+    <pair e1="30222780.s2.e1" e2="30222780.s2.e4" id="30222780.s2.p3" relation="false"/>
+    <pair e1="30222780.s2.e1" e2="30222780.s2.e6" id="30222780.s2.p4" relation="false"/>
+    <pair e1="30222780.s2.e1" e2="30222780.s2.e7" id="30222780.s2.p5" relation="false"/>
+    <pair e1="30222780.s2.e2" e2="30222780.s2.e4" id="30222780.s2.p6" relation="false"/>
+    <pair e1="30222780.s2.e2" e2="30222780.s2.e5" id="30222780.s2.p7" relation="true"/>
+    <pair e1="30222780.s2.e2" e2="30222780.s2.e7" id="30222780.s2.p8" relation="true"/>
+    <pair e1="30222780.s2.e2" e2="30222780.s2.e8" id="30222780.s2.p9" relation="true"/>
+    <pair e1="30222780.s2.e2" e2="30222780.s2.e9" id="30222780.s2.p10" relation="true"/>
+  </sentence>
+</document>

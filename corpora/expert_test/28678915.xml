@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28678915">
+  <sentence id="28678915.s0" text="The ID2 gene expression was increased in the most advanced stage of endometriosis and in ovarian endometriomas, the skeletal system development was more expressed in peritoneal lesions, and the SMOC2 was highly expressed in both peritoneal and endometrioma lesions.">
+    <entity charOffset="68-81" id="28678915.s0.e0" ontology_id="HP_0030127" text="endometriosis" type="HP"/>
+    <entity charOffset="116-143" id="28678915.s0.e1" ontology_id="GO_0001501" text="skeletal system development" type="GO"/>
+    <pair e1="28678915.s0.e0" e2="28678915.s0.e1" id="28678915.s0.p0" relation="false"/>
+  </sentence>
+</document>

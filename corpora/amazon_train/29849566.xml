@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29849566">
+  <sentence id="29849566.s0" text="Our study showed that targeted NGS is an effective tool for diagnosis of genetic deafness and that p.G141R in &lt;i&gt;ILDR1&lt;/i&gt; may be a relatively frequent mutation for protein homooligomerization in Chinese Hans">
+    <entity charOffset="81-89" id="29849566.s0.e0" ontology_id="HP_0000365" text="deafness" type="HP"/>
+    <entity charOffset="165-192" id="29849566.s0.e1" ontology_id="GO_0051260" text="protein homooligomerization" type="GO"/>
+    <pair e1="29849566.s0.e0" e2="29849566.s0.e1" id="29849566.s0.p0" relation="true"/>
+  </sentence>
+</document>

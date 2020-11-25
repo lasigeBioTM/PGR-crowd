@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<document id="29452776">
+  <sentence id="29452776.s0" text="Several studies have shown that reproductive factors, such as age at natural negative regulation of phosphatase activityopause, parity and polycystic ovarian syndrome (PCOS), may play a role in the development of heart failure.">
+    <entity charOffset="77-120" id="29452776.s0.e0" ontology_id="GO_0010923" text="negative regulation of phosphatase activity" type="GO"/>
+    <entity charOffset="213-226" id="29452776.s0.e1" ontology_id="HP_0001635" text="heart failure" type="HP"/>
+  </sentence>
+  <sentence id="29452776.s1" text="However, age at negative regulation of phosphatase activityarche, gestational diabetes and PCOS were found to be genetically linked to risk factors for heart failure, such as atrial fibrillation, diabetes and smoking.">
+    <entity charOffset="16-59" id="29452776.s1.e0" ontology_id="GO_0010923" text="negative regulation of phosphatase activity" type="GO"/>
+    <entity charOffset="152-165" id="29452776.s1.e1" ontology_id="HP_0001635" text="heart failure" type="HP"/>
+  </sentence>
+  <sentence id="29452776.s2" text="Corresponding implicated genes, such as protein phosphorylation, ErbB3, MKL2, glucose homeostasis and protein phosphorylation, may explain the associations between reproductive factors and heart failure.">
+    <entity charOffset="40-63" id="29452776.s2.e0" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <entity charOffset="78-97" id="29452776.s2.e1" ontology_id="GO_0042593" text="glucose homeostasis" type="GO"/>
+    <entity charOffset="102-125" id="29452776.s2.e2" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <entity charOffset="189-202" id="29452776.s2.e3" ontology_id="HP_0001635" text="heart failure" type="HP"/>
+    <pair e1="29452776.s2.e0" e2="29452776.s2.e3" id="29452776.s2.p0" relation="true"/>
+    <pair e1="29452776.s2.e1" e2="29452776.s2.e3" id="29452776.s2.p1" relation="true"/>
+    <pair e1="29452776.s2.e2" e2="29452776.s2.e3" id="29452776.s2.p2" relation="true"/>
+  </sentence>
+</document>

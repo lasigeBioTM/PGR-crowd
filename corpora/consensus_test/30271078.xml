@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30271078">
+  <sentence id="30271078.s0" text="detection of calcium ion expression is lost in colonic malignancies, indicating that the CaSR is a biomarker for colonic cancer progression.">
+    <entity charOffset="0-24" id="30271078.s0.e0" ontology_id="GO_0005513" text="detection of calcium ion" type="GO"/>
+    <entity charOffset="121-127" id="30271078.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30271078.s0.e0" e2="30271078.s0.e1" id="30271078.s0.p0" relation="true"/>
+  </sentence>
+</document>

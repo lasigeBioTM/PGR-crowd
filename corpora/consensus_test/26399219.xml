@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="26399219">
+  <sentence id="26399219.s0" text="Prior studies that explored the hypothesis that cytokine production gene variants contribute to epithelial ovarian carcinoma (EOC) risk have been based on small sample sizes and none have sought replication in an independent population.">
+    <entity charOffset="48-67" id="26399219.s0.e0" ontology_id="GO_0001816" text="cytokine production" type="GO"/>
+    <entity charOffset="107-124" id="26399219.s0.e1" ontology_id="HP_0025318" text="ovarian carcinoma" type="HP"/>
+    <pair e1="26399219.s0.e0" e2="26399219.s0.e1" id="26399219.s0.p0" relation="true"/>
+  </sentence>
+</document>

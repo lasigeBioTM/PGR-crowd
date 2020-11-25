@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="24078084">
+  <sentence id="24078084.s0" text="Patients with receptor-mediated endocytosis show &amp;lt;50% of normal activity and those with the rare autosomal recessive harderoporphyria accumulate harderoporphyrinogen, an intermediate porphyrin of the CPOX reaction.">
+    <entity charOffset="14-43" id="24078084.s0.e0" ontology_id="GO_0006898" text="receptor-mediated endocytosis" type="GO"/>
+    <entity charOffset="100-119" id="24078084.s0.e1" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <pair e1="24078084.s0.e0" e2="24078084.s0.e1" id="24078084.s0.p0" relation="true"/>
+  </sentence>
+</document>

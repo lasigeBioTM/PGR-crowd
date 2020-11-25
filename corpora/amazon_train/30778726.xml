@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="30778726">
+  <sentence id="30778726.s0" text="Very recently, negative regulation of translation mutations were reported to cause intellectual disability with growth retardation.">
+    <entity charOffset="15-49" id="30778726.s0.e0" ontology_id="GO_0017148" text="negative regulation of translation" type="GO"/>
+    <entity charOffset="83-106" id="30778726.s0.e1" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <pair e1="30778726.s0.e0" e2="30778726.s0.e1" id="30778726.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="30778726.s1" text="We describe two families in which two different homozygous negative regulation of translation mutations (missense and frameshift deletion) segregate with a phenotype comprising intellectual disability and progressive microcephaly.">
+    <entity charOffset="59-93" id="30778726.s1.e0" ontology_id="GO_0017148" text="negative regulation of translation" type="GO"/>
+    <entity charOffset="177-200" id="30778726.s1.e1" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <pair e1="30778726.s1.e0" e2="30778726.s1.e1" id="30778726.s1.p0" relation="true"/>
+  </sentence>
+</document>

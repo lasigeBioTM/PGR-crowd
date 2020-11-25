@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="30262699">
+  <sentence id="30262699.s0" text="Review of exome sequencing data of the proband and her unaffected mRNA processing for 40 known genes causing congenital nonsyndromic cataracts revealed two variants, namely c.139G&amp;gt;A (p.Asp47Asn; D47N) in the &lt;i&gt;GJA8&lt;/i&gt; gene and c.2036C&amp;gt;T in the &lt;i&gt;FYCO1&lt;/i&gt; gene to be potentially pathogenic.">
+    <entity charOffset="66-81" id="30262699.s0.e0" ontology_id="GO_0006397" text="mRNA processing" type="GO"/>
+    <entity charOffset="133-141" id="30262699.s0.e1" ontology_id="HP_0000518" text="cataract" type="HP"/>
+  </sentence>
+</document>

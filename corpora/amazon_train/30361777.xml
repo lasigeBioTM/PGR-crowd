@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="30361777">
+  <sentence id="30361777.s0" text="Malfunctioning of nucleoporins is well known in human malignancies, such as gene fusions of mRNA export from nucleus and DNA replication in hematological neoplasms and overexpression of NUP88 in a variety of human cancers.">
+    <entity charOffset="92-116" id="30361777.s0.e0" ontology_id="GO_0006406" text="mRNA export from nucleus" type="GO"/>
+    <entity charOffset="121-136" id="30361777.s0.e1" ontology_id="GO_0006260" text="DNA replication" type="GO"/>
+    <entity charOffset="154-163" id="30361777.s0.e2" ontology_id="HP_0002664" text="neoplasms" type="HP"/>
+    <pair e1="30361777.s0.e0" e2="30361777.s0.e2" id="30361777.s0.p0" relation="true"/>
+    <pair e1="30361777.s0.e1" e2="30361777.s0.e2" id="30361777.s0.p1" relation="true"/>
+  </sentence>
+</document>

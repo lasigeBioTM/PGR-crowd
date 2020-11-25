@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="30690791">
+  <sentence id="30690791.s0" text="Targeted deletion of positive regulation of cell proliferation in mesenchymal progenitors led to spontaneous fractures due to impaired osteoblast function and increased bone resorption, mimicking the severe OI phenotype in humans with homozygous positive regulation of cell proliferation mutations.">
+    <entity charOffset="21-62" id="30690791.s0.e0" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <entity charOffset="159-184" id="30690791.s0.e1" ontology_id="HP_0002797" text="increased bone resorption" type="HP"/>
+    <entity charOffset="246-287" id="30690791.s0.e2" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <pair e1="30690791.s0.e0" e2="30690791.s0.e1" id="30690791.s0.p0" relation="true"/>
+    <pair e1="30690791.s0.e1" e2="30690791.s0.e2" id="30690791.s0.p1" relation="false"/>
+  </sentence>
+</document>

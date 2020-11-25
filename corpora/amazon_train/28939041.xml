@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="28939041">
+  <sentence id="28939041.s0" text="The overexpression of negative regulation of transcription by RNA polymerase II selectively leads to the loss of dopaminergic neurons (DN) and mitochondrial abnormalities in the substantia nigra (MAPK cascade) of Parkinson's disease (PD) models.">
+    <entity charOffset="22-79" id="28939041.s0.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="143-156" id="28939041.s0.e1" ontology_id="HP_0001427" text="mitochondrial" type="HP"/>
+    <entity charOffset="196-208" id="28939041.s0.e2" ontology_id="GO_0000165" text="MAPK cascade" type="GO"/>
+    <pair e1="28939041.s0.e0" e2="28939041.s0.e1" id="28939041.s0.p0" relation="true"/>
+    <pair e1="28939041.s0.e1" e2="28939041.s0.e2" id="28939041.s0.p1" relation="true"/>
+  </sentence>
+</document>

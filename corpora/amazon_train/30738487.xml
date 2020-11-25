@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30738487">
+  <sentence id="30738487.s0" text="As a potential target for cancer treatment, the negative regulation of transcription by RNA polymerase II high expresses abnormally in a variety of solid tumors and hematological malignancies in humans.">
+    <entity charOffset="48-105" id="30738487.s0.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="154-160" id="30738487.s0.e1" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <pair e1="30738487.s0.e0" e2="30738487.s0.e1" id="30738487.s0.p0" relation="true"/>
+  </sentence>
+</document>

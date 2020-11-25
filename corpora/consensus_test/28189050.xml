@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28189050">
+  <sentence id="28189050.s0" text="In this study, the correlation between H19 and vitamin D receptor (negative regulation of transcription by RNA polymerase II) signaling and the underlying mechanisms in colon cancer were investigated both in vitro and in vivo.">
+    <entity charOffset="67-124" id="28189050.s0.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="175-181" id="28189050.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28189050.s0.e0" e2="28189050.s0.e1" id="28189050.s0.p0" relation="true"/>
+  </sentence>
+</document>

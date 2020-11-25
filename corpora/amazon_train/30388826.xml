@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="30388826">
+  <sentence id="30388826.s0" text="Fungal immunomodulatory protein from &lt;i&gt;Nectria haematococca&lt;/i&gt; (positive regulation of transcription from RNA polymerase II promoter by glucose-nha) has potential as a lung cancer therapeutic; as such, illuminating its anti-tumor mechanism is expected to facilitate novel treatment options.">
+    <entity charOffset="66-145" id="30388826.s0.e0" ontology_id="GO_0000432" text="positive regulation of transcription from RNA polymerase II promoter by glucose" type="GO"/>
+    <entity charOffset="175-181" id="30388826.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30388826.s0.e0" e2="30388826.s0.e1" id="30388826.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="30388826.s1" text="Thus, we comprehensively revealed the anti-tumor mechanism of positive regulation of transcription from RNA polymerase II promoter by glucose-nha, which inhibits tumor growth by modulating PI3K/positive regulation of protein phosphorylation-regulated cell cycle arrest, autophagy, and apoptosis, and provided the basis for further application of fungal immunomodulatory proteins, especially FIP-nha">
+    <entity charOffset="43-48" id="30388826.s1.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="62-141" id="30388826.s1.e1" ontology_id="GO_0000432" text="positive regulation of transcription from RNA polymerase II promoter by glucose" type="GO"/>
+    <entity charOffset="194-240" id="30388826.s1.e2" ontology_id="GO_0001934" text="positive regulation of protein phosphorylation" type="GO"/>
+    <pair e1="30388826.s1.e0" e2="30388826.s1.e1" id="30388826.s1.p0" relation="true"/>
+    <pair e1="30388826.s1.e0" e2="30388826.s1.e2" id="30388826.s1.p1" relation="true"/>
+  </sentence>
+</document>

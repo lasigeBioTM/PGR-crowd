@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<document id="28612833">
+  <sentence id="28612833.s0" text="The majority of causative genetic variants identified thus far are inherited in an autosomal recessive manner and impact key cellular pathways such as mitosis, DNA cellular protein catabolic process response and repair, apoptosis and splicing.">
+    <entity charOffset="83-102" id="28612833.s0.e0" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="164-198" id="28612833.s0.e1" ontology_id="GO_0044257" text="cellular protein catabolic process" type="GO"/>
+  </sentence>
+  <sentence id="28612833.s1" text="Here, we report a novel donor splice site variant in the G-patch domain and KOW motifs (mRNA splicing, via spliceosome) gene (NG_021310.2:g.6126G&amp;gt;A, NM_015698.4:c.331+5G&amp;gt;A) that segregates with affected and carrier status in a multigenerational family with an X-linked perinatal lethal condition characterized by severe microcephaly and intrauterine growth restriction (IUGR).">
+    <entity charOffset="88-118" id="28612833.s1.e0" ontology_id="GO_0000398" text="mRNA splicing, via spliceosome" type="GO"/>
+    <entity charOffset="326-338" id="28612833.s1.e1" ontology_id="HP_0000252" text="microcephaly" type="HP"/>
+    <entity charOffset="343-374" id="28612833.s1.e2" ontology_id="HP_0001511" text="intrauterine growth restriction" type="HP"/>
+    <pair e1="28612833.s1.e0" e2="28612833.s1.e1" id="28612833.s1.p0" relation="true"/>
+    <pair e1="28612833.s1.e0" e2="28612833.s1.e2" id="28612833.s1.p1" relation="true"/>
+  </sentence>
+  <sentence id="28612833.s2" text="Based on our and published data we propose that the mRNA splicing, via spliceosome gene is essential for fetal development and when disrupted, leads to a severe, male-lethal phenomuscle organ development characterised by microcephaly and IUGR">
+    <entity charOffset="52-82" id="28612833.s2.e0" ontology_id="GO_0000398" text="mRNA splicing, via spliceosome" type="GO"/>
+    <entity charOffset="179-203" id="28612833.s2.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="221-233" id="28612833.s2.e2" ontology_id="HP_0000252" text="microcephaly" type="HP"/>
+    <pair e1="28612833.s2.e0" e2="28612833.s2.e2" id="28612833.s2.p0" relation="true"/>
+    <pair e1="28612833.s2.e1" e2="28612833.s2.e2" id="28612833.s2.p1" relation="false"/>
+  </sentence>
+</document>

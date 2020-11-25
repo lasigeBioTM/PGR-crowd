@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="30089113">
+  <sentence id="30089113.s0" text="The enriched genes included MMP9, negative regulation of blood coagulation, CAV1, KRT14, and MAPK cascade in basal tumors, and negative regulation of transcription by RNA polymerase II, LY6E, proteolysis, CDK3, and TBX2 in luminal tumors.">
+    <entity charOffset="34-74" id="30089113.s0.e0" ontology_id="GO_0030195" text="negative regulation of blood coagulation" type="GO"/>
+    <entity charOffset="93-105" id="30089113.s0.e1" ontology_id="GO_0000165" text="MAPK cascade" type="GO"/>
+    <entity charOffset="115-120" id="30089113.s0.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="127-184" id="30089113.s0.e3" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="192-203" id="30089113.s0.e4" ontology_id="GO_0006508" text="proteolysis" type="GO"/>
+    <pair e1="30089113.s0.e0" e2="30089113.s0.e2" id="30089113.s0.p0" relation="true"/>
+    <pair e1="30089113.s0.e1" e2="30089113.s0.e2" id="30089113.s0.p1" relation="true"/>
+    <pair e1="30089113.s0.e2" e2="30089113.s0.e3" id="30089113.s0.p2" relation="true"/>
+    <pair e1="30089113.s0.e2" e2="30089113.s0.e4" id="30089113.s0.p3" relation="true"/>
+  </sentence>
+</document>

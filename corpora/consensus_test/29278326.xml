@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="29278326">
+  <sentence id="29278326.s0" text="We recently found that DDHD2 is a principal triglyceride hydrolase in the central nervous system (CNS) and that genetic deletion of this enzyme in epidermis development leads to ectopic lipid droplet (LD) accumulation in neurons throughout the brain.">
+    <entity charOffset="74-81" id="29278326.s0.e0" ontology_id="HP_0030645" text="central" type="HP"/>
+    <entity charOffset="147-168" id="29278326.s0.e1" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+  </sentence>
+</document>

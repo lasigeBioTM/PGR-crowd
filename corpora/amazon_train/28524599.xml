@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="28524599">
+  <sentence id="28524599.s0" text="As ∆E&lt;sub&gt;3&lt;/sub&gt; is modulated by cellular signalling and linked to various types of cancer, we anticipate that ∆E&lt;sub&gt;3&lt;/sub&gt; contributes to environmentally tuned negative regulation of transcription by RNA polymerase II function and may have a broad range of clinical implications">
+    <entity charOffset="85-91" id="28524599.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="164-221" id="28524599.s0.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+  </sentence>
+</document>

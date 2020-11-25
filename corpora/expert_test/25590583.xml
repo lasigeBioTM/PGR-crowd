@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="25590583">
+  <sentence id="25590583.s0" text="Based on the generated interaction network, we examine several apoptotic markers to determine the effect of PSMC3IP and biological_process gene expression modulation in two different human breast cancer cell lines to suggest potential molecular mechanisms to unveil their role in the disease.">
+    <entity charOffset="120-138" id="25590583.s0.e0" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="196-202" id="25590583.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="25590583.s0.e0" e2="25590583.s0.e1" id="25590583.s0.p0" relation="true"/>
+  </sentence>
+</document>

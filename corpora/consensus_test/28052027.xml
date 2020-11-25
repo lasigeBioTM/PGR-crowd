@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="28052027">
+  <sentence id="28052027.s0" text="After ERβ activation, both DRAM2 and protein 1 T cell costimulation chain 3 (LC3), a key actor in the autophagosome formation, strictly interacted each other and localized at mitochondrial level.Altogether these results suggest that targeting ERβ with selective agonists might affect HL cell proliferation and tumor growth via a mechanism that brings into play DRAM2-dependent autophagic cascade">
+    <entity charOffset="47-67" id="28052027.s0.e0" ontology_id="GO_0031295" text="T cell costimulation" type="GO"/>
+    <entity charOffset="310-315" id="28052027.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+  </sentence>
+</document>

@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="24736721">
+  <sentence id="24736721.s0" text="Schizophrenia (SZ) and autism spectrum disorders (ASD) are highly heritable neuropsychiatric disorders, although environmental nucleosome disassemblyors, such as maternal immune activation (MIA), play a role as well.">
+    <entity charOffset="23-29" id="24736721.s0.e0" ontology_id="HP_0000717" text="autism" type="HP"/>
+    <entity charOffset="127-149" id="24736721.s0.e1" ontology_id="GO_0006337" text="nucleosome disassembly" type="GO"/>
+  </sentence>
+</document>

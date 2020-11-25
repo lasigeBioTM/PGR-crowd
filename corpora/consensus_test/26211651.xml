@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="26211651">
+  <sentence id="26211651.s0" text="In addition, polymorphisms in apoptosis-related genes such as protein neddylation, TULP1, and MERTK are associated with fibrosis progression, and DEPDC5 and T cell mediated cytotoxicity variants are associated with HCV-related hepatocellular carcinoma.">
+    <entity charOffset="62-81" id="26211651.s0.e0" ontology_id="GO_0045116" text="protein neddylation" type="GO"/>
+    <entity charOffset="157-185" id="26211651.s0.e1" ontology_id="GO_0001913" text="T cell mediated cytotoxicity" type="GO"/>
+    <entity charOffset="227-251" id="26211651.s0.e2" ontology_id="HP_0001402" text="hepatocellular carcinoma" type="HP"/>
+    <pair e1="26211651.s0.e0" e2="26211651.s0.e2" id="26211651.s0.p0" relation="true"/>
+    <pair e1="26211651.s0.e1" e2="26211651.s0.e2" id="26211651.s0.p1" relation="true"/>
+  </sentence>
+</document>

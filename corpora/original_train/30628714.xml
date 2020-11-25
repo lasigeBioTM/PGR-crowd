@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30628714">
+  <sentence id="30628714.s0" text="The tumorigenesis and metastasis of tumors are associated with human collagen triple helix repeats containing 1 (cell migration).">
+    <entity charOffset="36-42" id="30628714.s0.e0" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <entity charOffset="113-127" id="30628714.s0.e1" ontology_id="GO_0016477" text="cell migration" type="GO"/>
+    <pair e1="30628714.s0.e0" e2="30628714.s0.e1" id="30628714.s0.p0" relation="true"/>
+  </sentence>
+</document>

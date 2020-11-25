@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="28766361">
+  <sentence id="28766361.s0" text="The aim of this study was to investigate the diagnostic sensitivity and specificity of protein induced by vitamin K absence or antagonist-II (PIVKAII), heparan sulfate proteoglycan catabolic process-3 (GP3), Cystatin B (negative regulation of peptidase activity), squamous cell carcinoma antigen 1 (SCCA1) and hepatocyte growth factor (HGF) as potential tumour markers for HCC in patients with alcoholic liver cirrhosis (biological_process) using imaging techniques (MSCT and MRI) as reference standards.">
+    <entity charOffset="152-198" id="28766361.s0.e0" ontology_id="GO_0030200" text="heparan sulfate proteoglycan catabolic process" type="GO"/>
+    <entity charOffset="220-261" id="28766361.s0.e1" ontology_id="GO_0010466" text="negative regulation of peptidase activity" type="GO"/>
+    <entity charOffset="264-287" id="28766361.s0.e2" ontology_id="HP_0002860" text="squamous cell carcinoma" type="HP"/>
+    <entity charOffset="354-360" id="28766361.s0.e3" ontology_id="HP_0002664" text="tumour" type="HP"/>
+    <entity charOffset="421-439" id="28766361.s0.e4" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <pair e1="28766361.s0.e0" e2="28766361.s0.e3" id="28766361.s0.p0" relation="true"/>
+    <pair e1="28766361.s0.e1" e2="28766361.s0.e3" id="28766361.s0.p1" relation="true"/>
+    <pair e1="28766361.s0.e2" e2="28766361.s0.e4" id="28766361.s0.p2" relation="false"/>
+  </sentence>
+</document>

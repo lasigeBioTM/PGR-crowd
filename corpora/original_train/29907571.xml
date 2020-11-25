@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29907571">
+  <sentence id="29907571.s0" text="Here, we investigated whether synonymous changes could affect expression of the potassium voltage-gated channel subfamily H member 2 (&lt;i&gt;KCNH2&lt;/i&gt;) gene, encoding the human ether-a-go-go-related gene (cellular response to drug) ion channel, which is linked to hereditary cardiac arrhythmia.">
+    <entity charOffset="201-226" id="29907571.s0.e0" ontology_id="GO_0035690" text="cellular response to drug" type="GO"/>
+    <entity charOffset="271-289" id="29907571.s0.e1" ontology_id="HP_0011675" text="cardiac arrhythmia" type="HP"/>
+    <pair e1="29907571.s0.e0" e2="29907571.s0.e1" id="29907571.s0.p0" relation="true"/>
+  </sentence>
+</document>

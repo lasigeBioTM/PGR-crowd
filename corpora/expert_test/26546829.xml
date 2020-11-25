@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="26546829">
+  <sentence id="26546829.s0" text="Monogenic hypertriglyceridemia is the result of mutations in genes that regulate the metabolism of triglyceride rich lipoproteins (eg fatty acid metabolic process, APOC2, triglyceride metabolic process, triglyceride metabolic process, positive regulation of lipoprotein lipase activity).">
+    <entity charOffset="10-30" id="26546829.s0.e0" ontology_id="HP_0002155" text="hypertriglyceridemia" type="HP"/>
+    <entity charOffset="134-162" id="26546829.s0.e1" ontology_id="GO_0006631" text="fatty acid metabolic process" type="GO"/>
+    <entity charOffset="171-201" id="26546829.s0.e2" ontology_id="GO_0006641" text="triglyceride metabolic process" type="GO"/>
+    <entity charOffset="203-233" id="26546829.s0.e3" ontology_id="GO_0006641" text="triglyceride metabolic process" type="GO"/>
+    <entity charOffset="235-285" id="26546829.s0.e4" ontology_id="GO_0051006" text="positive regulation of lipoprotein lipase activity" type="GO"/>
+    <pair e1="26546829.s0.e0" e2="26546829.s0.e4" id="26546829.s0.p0" relation="true"/>
+    <pair e1="26546829.s0.e0" e2="26546829.s0.e1" id="26546829.s0.p1" relation="true"/>
+    <pair e1="26546829.s0.e0" e2="26546829.s0.e2" id="26546829.s0.p2" relation="true"/>
+    <pair e1="26546829.s0.e0" e2="26546829.s0.e3" id="26546829.s0.p3" relation="true"/>
+  </sentence>
+</document>

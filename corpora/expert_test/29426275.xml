@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29426275">
+  <sentence id="29426275.s0" text="Low-grade fibromyxoid sarcoma (LGFMS) and sclerosing epithelioid fibrosarcoma (SEF) are rare tumors with distinct sets of morphological features, both characterized by maintenance of gastrointestinal epithelium immunoreactivity.">
+    <entity charOffset="93-99" id="29426275.s0.e0" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <entity charOffset="168-210" id="29426275.s0.e1" ontology_id="GO_0030277" text="maintenance of gastrointestinal epithelium" type="GO"/>
+    <pair e1="29426275.s0.e0" e2="29426275.s0.e1" id="29426275.s0.p0" relation="true"/>
+  </sentence>
+</document>

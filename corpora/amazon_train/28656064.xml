@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="28656064">
+  <sentence id="28656064.s0" text="Through epigenomic study of a colon cancer cell line pair (HCT116 and DKO), we identified &lt;i&gt;JPH3&lt;/i&gt; as a methylated novel tumor suppressor gene (negative regulation of cytokine production) candidate at 16q24.">
+    <entity charOffset="36-42" id="28656064.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="124-129" id="28656064.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="147-189" id="28656064.s0.e2" ontology_id="GO_0001818" text="negative regulation of cytokine production" type="GO"/>
+    <pair e1="28656064.s0.e1" e2="28656064.s0.e2" id="28656064.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28656064.s1" text="Thus, &lt;i&gt;JPH3&lt;/i&gt; was identified as a novel negative regulation of cytokine production methylated in colorectal and gastric tumors which promotes mitochondrial-mediated apoptosis, also as a potential metastasis and survival biomarker for digestive cancers">
+    <entity charOffset="44-86" id="28656064.s1.e0" ontology_id="GO_0001818" text="negative regulation of cytokine production" type="GO"/>
+    <entity charOffset="124-129" id="28656064.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28656064.s1.e0" e2="28656064.s1.e1" id="28656064.s1.p0" relation="true"/>
+  </sentence>
+</document>

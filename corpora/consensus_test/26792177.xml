@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="26792177">
+  <sentence id="26792177.s0" text="The mutation (p.Trp211Arg), which segregates with a disease phenotype characterized by either isolated IIP/IPF, or IPF associated with lung adenocarcinoma, is located in the carbohydrate recognition domain (positive regulation of transcription by RNA polymerase II) of SP-A1 and involves a residue invariant throughout evolution, not only in SP-A1, but also in its close paralog SP-A2 and other CRD-containing proteins.">
+    <entity charOffset="135-154" id="26792177.s0.e0" ontology_id="HP_0030078" text="lung adenocarcinoma" type="HP"/>
+    <entity charOffset="207-264" id="26792177.s0.e1" ontology_id="GO_0045944" text="positive regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="26792177.s0.e0" e2="26792177.s0.e1" id="26792177.s0.p0" relation="false"/>
+  </sentence>
+</document>

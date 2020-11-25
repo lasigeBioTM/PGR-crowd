@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="27151206">
+  <sentence id="27151206.s0" text="Patients with potassium ion transport imprinting syndrome demonstrate congenital hypotonia, variable cleft palate, normal MRIs and EEGs, delayed development, and feeding problems.">
+    <entity charOffset="14-37" id="27151206.s0.e0" ontology_id="GO_0006813" text="potassium ion transport" type="GO"/>
+    <entity charOffset="101-113" id="27151206.s0.e1" ontology_id="HP_0000175" text="cleft palate" type="HP"/>
+    <pair e1="27151206.s0.e0" e2="27151206.s0.e1" id="27151206.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="27151206.s1" text="Associated facial dysmorphic features include dolichocephaly with bitemporal narrowing, short philtrum, tented upper nuclear-transcribed mRNA catabolic process, nonsense-mediated decay, palatal abnormalities, and small mandible.">
+    <entity charOffset="66-86" id="27151206.s1.e0" ontology_id="HP_0000341" text="bitemporal narrowing" type="HP"/>
+    <entity charOffset="88-102" id="27151206.s1.e1" ontology_id="HP_0000322" text="short philtrum" type="HP"/>
+    <entity charOffset="117-184" id="27151206.s1.e2" ontology_id="GO_0000184" text="nuclear-transcribed mRNA catabolic process, nonsense-mediated decay" type="GO"/>
+    <entity charOffset="213-227" id="27151206.s1.e3" ontology_id="HP_0000347" text="small mandible" type="HP"/>
+  </sentence>
+</document>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<document id="28691927">
+  <sentence id="28691927.s0" text="Promyelocytic leukemia (response to hypoxia) is a pleiotropic tumor suppressor, but its role in tumor microenvironment regulation is poorly characterized.">
+    <entity charOffset="24-43" id="28691927.s0.e0" ontology_id="GO_0001666" text="response to hypoxia" type="GO"/>
+    <entity charOffset="62-67" id="28691927.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28691927.s0.e0" e2="28691927.s0.e1" id="28691927.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28691927.s1" text="response to hypoxia is frequently downregulated in many cancer types, including lung cancer.">
+    <entity charOffset="0-19" id="28691927.s1.e0" ontology_id="GO_0001666" text="response to hypoxia" type="GO"/>
+    <entity charOffset="56-62" id="28691927.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28691927.s1.e0" e2="28691927.s1.e1" id="28691927.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="28691927.s2" text="Clinically, this response to hypoxia degradation pathway is hyperactivated in lung cancer and correlates with poor prognosis.">
+    <entity charOffset="17-36" id="28691927.s2.e0" ontology_id="GO_0001666" text="response to hypoxia" type="GO"/>
+    <entity charOffset="83-89" id="28691927.s2.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+  </sentence>
+  <sentence id="28691927.s3" text="The tRNA modification/response to hypoxia axis induces a negative regulation of transcription, DNA-templated of cell-surface or secreted factors, including CD73, urokinase-type plasminogen activator receptor (positive regulation of DNA binding), and serum amyloid A2 (SAA2), which elicit paracrine effects to stimulate migration, invasion, and metastasis in multiple lung cancer models.">
+    <entity charOffset="4-21" id="28691927.s3.e0" ontology_id="GO_0006400" text="tRNA modification" type="GO"/>
+    <entity charOffset="22-41" id="28691927.s3.e1" ontology_id="GO_0001666" text="response to hypoxia" type="GO"/>
+    <entity charOffset="57-108" id="28691927.s3.e2" ontology_id="GO_0045892" text="negative regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="209-243" id="28691927.s3.e3" ontology_id="GO_0043388" text="positive regulation of DNA binding" type="GO"/>
+    <entity charOffset="372-378" id="28691927.s3.e4" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28691927.s3.e0" e2="28691927.s3.e4" id="28691927.s3.p0" relation="true"/>
+    <pair e1="28691927.s3.e1" e2="28691927.s3.e4" id="28691927.s3.p1" relation="true"/>
+    <pair e1="28691927.s3.e2" e2="28691927.s3.e4" id="28691927.s3.p2" relation="false"/>
+  </sentence>
+  <sentence id="28691927.s4" text="In xenograft and genetically engineered mouse models, the tRNA modification/PML axis elevates intratumoral Tregs and M2-like macrophages and reduces CD8+ T cells to promote lung tumor growth.">
+    <entity charOffset="58-75" id="28691927.s4.e0" ontology_id="GO_0006400" text="tRNA modification" type="GO"/>
+    <entity charOffset="99-104" id="28691927.s4.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+  </sentence>
+  <sentence id="28691927.s5" text="Our study identifies tRNA modification as an oncoprotein that negatively regulates response to hypoxia via ubiquitination to promote lung cancer progression by fostering an immunosuppressive and prometastatic tumor microenvironment, suggesting the potential of immune-modulatory approaches for treating lung cancer with aberrant PML degradation">
+    <entity charOffset="21-38" id="28691927.s5.e0" ontology_id="GO_0006400" text="tRNA modification" type="GO"/>
+    <entity charOffset="83-102" id="28691927.s5.e1" ontology_id="GO_0001666" text="response to hypoxia" type="GO"/>
+    <entity charOffset="138-144" id="28691927.s5.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="209-214" id="28691927.s5.e3" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28691927.s5.e0" e2="28691927.s5.e3" id="28691927.s5.p0" relation="true"/>
+    <pair e1="28691927.s5.e0" e2="28691927.s5.e2" id="28691927.s5.p1" relation="true"/>
+    <pair e1="28691927.s5.e1" e2="28691927.s5.e2" id="28691927.s5.p2" relation="true"/>
+  </sentence>
+</document>

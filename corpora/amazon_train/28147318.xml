@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<document id="28147318">
+  <sentence id="28147318.s0" text="epidermis development and KRT6 (KRT6A, KRT6B &amp;amp; KRT6C) gene expression was assessed in publically available serous ovarian cancer data sets, ovarian cancer cell lines and primary serous ovarian cancer cells.">
+    <entity charOffset="0-21" id="28147318.s0.e0" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="126-132" id="28147318.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28147318.s0.e0" e2="28147318.s0.e1" id="28147318.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28147318.s1" text="Survival analyses showed that high epidermis development mRNA in stage III/IV serous ovarian cancers was significantly associated with reduced progression-free (HR 1.38, P &amp;lt; 0.0001) and overall survival (HR 1.28, P = 0.013) whilst high keratinization mRNA was only associated with reduced progression-free survival (HR 1.2, P = 0.031).">
+    <entity charOffset="35-56" id="28147318.s1.e0" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="93-99" id="28147318.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="239-253" id="28147318.s1.e2" ontology_id="GO_0031424" text="keratinization" type="GO"/>
+    <pair e1="28147318.s1.e0" e2="28147318.s1.e1" id="28147318.s1.p0" relation="true"/>
+    <pair e1="28147318.s1.e1" e2="28147318.s1.e2" id="28147318.s1.p1" relation="true"/>
+  </sentence>
+  <sentence id="28147318.s2" text="KRT5 but not keratinizationC mRNA expression was increased in chemotherapy resistant primary serous ovarian cancer cells compared to chemotherapy sensitive cells.">
+    <entity charOffset="13-27" id="28147318.s2.e0" ontology_id="GO_0031424" text="keratinization" type="GO"/>
+    <entity charOffset="108-114" id="28147318.s2.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28147318.s2.e0" e2="28147318.s2.e1" id="28147318.s2.p0" relation="false"/>
+  </sentence>
+</document>

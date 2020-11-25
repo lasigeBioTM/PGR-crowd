@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<document id="23387289">
+  <sentence id="23387289.s0" text="VSX1 remains as the chloride transport characterised keratoconus gene but only accounts for rare cases.">
+    <entity charOffset="20-38" id="23387289.s0.e0" ontology_id="GO_0006821" text="chloride transport" type="GO"/>
+    <entity charOffset="53-64" id="23387289.s0.e1" ontology_id="HP_0000563" text="keratoconus" type="HP"/>
+    <pair e1="23387289.s0.e0" e2="23387289.s0.e1" id="23387289.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="23387289.s1" text="Family-based studies have recently led to the identification of the MIR184 gene for keratoconus with cataract and to the positive regulation of GTPase activity gene in a family with isolated keratoconus.">
+    <entity charOffset="84-95" id="23387289.s1.e0" ontology_id="HP_0000563" text="keratoconus" type="HP"/>
+    <entity charOffset="101-109" id="23387289.s1.e1" ontology_id="HP_0000518" text="cataract" type="HP"/>
+    <entity charOffset="121-159" id="23387289.s1.e2" ontology_id="GO_0043547" text="positive regulation of GTPase activity" type="GO"/>
+    <pair e1="23387289.s1.e0" e2="23387289.s1.e2" id="23387289.s1.p0" relation="false"/>
+    <pair e1="23387289.s1.e1" e2="23387289.s1.e2" id="23387289.s1.p1" relation="false"/>
+  </sentence>
+  <sentence id="23387289.s2" text="Numerous other linkages have been reported and new sequencing technologies are negative regulation of transcription, DNA-templated to rapidly expand the number of identified keratoconus genes in these regions.">
+    <entity charOffset="79-130" id="23387289.s2.e0" ontology_id="GO_0045892" text="negative regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="174-185" id="23387289.s2.e1" ontology_id="HP_0000563" text="keratoconus" type="HP"/>
+    <pair e1="23387289.s2.e0" e2="23387289.s2.e1" id="23387289.s2.p0" relation="false"/>
+  </sentence>
+  <sentence id="23387289.s3" text="Similarly, recent genome-wide association studies in case-controlled cohorts have identified common variations in and around neutrophil apoptotic process, regulation of GTPase activity and blood vessel morphogenesis as candidate risk factors for keratoconus.">
+    <entity charOffset="125-153" id="23387289.s3.e0" ontology_id="GO_0001781" text="neutrophil apoptotic process" type="GO"/>
+    <entity charOffset="155-184" id="23387289.s3.e1" ontology_id="GO_0043087" text="regulation of GTPase activity" type="GO"/>
+    <entity charOffset="189-215" id="23387289.s3.e2" ontology_id="GO_0048514" text="blood vessel morphogenesis" type="GO"/>
+    <entity charOffset="246-257" id="23387289.s3.e3" ontology_id="HP_0000563" text="keratoconus" type="HP"/>
+    <pair e1="23387289.s3.e0" e2="23387289.s3.e3" id="23387289.s3.p0" relation="false"/>
+    <pair e1="23387289.s3.e1" e2="23387289.s3.e3" id="23387289.s3.p1" relation="false"/>
+    <pair e1="23387289.s3.e2" e2="23387289.s3.e3" id="23387289.s3.p2" relation="false"/>
+  </sentence>
+</document>

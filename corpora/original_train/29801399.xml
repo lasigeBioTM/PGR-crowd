@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="29801399">
+  <sentence id="29801399.s0" text="of dorsal root ganglion development gene (one of the netrin-1 receptors) in colorectal cancer patients of Kashmiri population (North India).">
+    <entity charOffset="3-35" id="29801399.s0.e0" ontology_id="GO_1990791" text="dorsal root ganglion development" type="GO"/>
+    <entity charOffset="87-93" id="29801399.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29801399.s0.e0" e2="29801399.s0.e1" id="29801399.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="29801399.s1" text="Results: dorsal root ganglion development promoter hypermethylation was significantly found to be associated with colorectal cancer cases">
+    <entity charOffset="9-41" id="29801399.s1.e0" ontology_id="GO_1990791" text="dorsal root ganglion development" type="GO"/>
+    <entity charOffset="125-131" id="29801399.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29801399.s1.e0" e2="29801399.s1.e1" id="29801399.s1.p0" relation="false"/>
+  </sentence>
+</document>

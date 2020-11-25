@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28726664">
+  <sentence id="28726664.s0" text="Here we present a case of a 3-year-old boy with compound heterozygous missense mutations in the negative regulation of centrosome duplication gene manifesting features of both JBTS and NPHP syndromes, with neonatal onset of end-stage renal disease (ESRD) and associated microcephaly.">
+    <entity charOffset="96-141" id="28726664.s0.e0" ontology_id="GO_0010826" text="negative regulation of centrosome duplication" type="GO"/>
+    <entity charOffset="270-282" id="28726664.s0.e1" ontology_id="HP_0000252" text="microcephaly" type="HP"/>
+    <pair e1="28726664.s0.e0" e2="28726664.s0.e1" id="28726664.s0.p0" relation="true"/>
+  </sentence>
+</document>

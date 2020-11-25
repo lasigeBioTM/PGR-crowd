@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28384236">
+  <sentence id="28384236.s0" text="Complete identification of genes related to one muscle organ development of cancer facilitates earlier diagnosis and effective treatments.">
+    <entity charOffset="48-72" id="28384236.s0.e0" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="76-82" id="28384236.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28384236.s0.e0" e2="28384236.s0.e1" id="28384236.s0.p0" relation="false"/>
+  </sentence>
+</document>

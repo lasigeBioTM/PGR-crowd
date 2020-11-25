@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28662356">
+  <sentence id="28662356.s0" text="A protective effect was observed for the fetal regulation of cyclin-dependent protein serine/threonine kinase activity SNP on cleft palate only, opposite in direction to the effect on CLO.">
+    <entity charOffset="47-118" id="28662356.s0.e0" ontology_id="GO_0000079" text="regulation of cyclin-dependent protein serine/threonine kinase activity" type="GO"/>
+    <entity charOffset="126-138" id="28662356.s0.e1" ontology_id="HP_0000175" text="cleft palate" type="HP"/>
+    <pair e1="28662356.s0.e0" e2="28662356.s0.e1" id="28662356.s0.p0" relation="false"/>
+  </sentence>
+</document>

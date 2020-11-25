@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30478051">
+  <sentence id="30478051.s0" text="Here, we sought to find lncRNAs differentially regulated in cancer cells resistant to either negative regulation of transcription by RNA polymerase II-related apoptosis-inducing ligand (TRAIL) or the Mcl-1 inhibitor UMI-77, agents that act through the extrinsic and intrinsic apoptotic pathways, respectively.">
+    <entity charOffset="60-66" id="30478051.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="93-150" id="30478051.s0.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="30478051.s0.e0" e2="30478051.s0.e1" id="30478051.s0.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27541164">
+  <sentence id="27541164.s0" text="Here, we present a familial case of a lethal early-onset epileptic encephalopathy, associated with two novel compound heterozygous missense variants on the neuron projection development gene, which were detected by exome sequencing.">
+    <entity charOffset="67-81" id="27541164.s0.e0" ontology_id="HP_0001298" text="encephalopathy" type="HP"/>
+    <entity charOffset="156-185" id="27541164.s0.e1" ontology_id="GO_0031175" text="neuron projection development" type="GO"/>
+    <pair e1="27541164.s0.e0" e2="27541164.s0.e1" id="27541164.s0.p0" relation="true"/>
+  </sentence>
+</document>

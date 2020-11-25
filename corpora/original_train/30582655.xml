@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="30582655">
+  <sentence id="30582655.s0" text="To decipher a mechanism for this, we previously generated a mathematical model of how estrogen-mediated upregulation of the transcription factor, E2F6, upregulates the ovarian cancer stem/initiating cell marker, activation of MAPK activity, by epigenetic silencing the tumor suppressor miR-193a, and a competing endogenous (ceRNA) mechanism.">
+    <entity charOffset="176-182" id="30582655.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="212-239" id="30582655.s0.e1" ontology_id="GO_0000187" text="activation of MAPK activity" type="GO"/>
+    <pair e1="30582655.s0.e0" e2="30582655.s0.e1" id="30582655.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="30582655.s1" text="Interestingly, ChIP-PCR and bisulphite pyrosequencing showed that E2F6 also epigenetically suppresses miR-193a, through recruitment of negative regulation of transcription by RNA polymerase II, and by a complex ceRNA mechanism in ovarian cancer cell lines.">
+    <entity charOffset="135-192" id="30582655.s1.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="238-244" id="30582655.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30582655.s1.e0" e2="30582655.s1.e1" id="30582655.s1.p0" relation="false"/>
+  </sentence>
+</document>

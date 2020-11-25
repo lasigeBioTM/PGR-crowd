@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="17245537">
+  <sentence id="17245537.s0" text="Corticosteroid-binding globulin (glucocorticoid metabolic process) deficiency is an extremely rare hereditary disorder characterized by reduced corticosteroid-binding capacity with normal or low plasma corticosteroid-binding globulin concentration, and normal or low basal cortisol levels associated with hypo-/hypertension and muscle fatigue.">
+    <entity charOffset="33-65" id="17245537.s0.e0" ontology_id="GO_0008211" text="glucocorticoid metabolic process" type="GO"/>
+    <entity charOffset="311-323" id="17245537.s0.e1" ontology_id="HP_0000822" text="hypertension" type="HP"/>
+    <pair e1="17245537.s0.e0" e2="17245537.s0.e1" id="17245537.s0.p0" relation="true"/>
+  </sentence>
+</document>

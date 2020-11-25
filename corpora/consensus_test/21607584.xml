@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="21607584">
+  <sentence id="21607584.s0" text="In gene-level analyses, G2/M transition of mitotic cell cycle, SCC1/RAD21, TLK2, and SMC6L1 were associated (P &amp;lt; 0.05) with overall breast cancer risk, CDC6, CDC27, SUMO3, RASSF1, KIF2, and CDC14A were associated with high grade breast cancer risk, and EIF3S10 and CDC25A were associated with both.">
+    <entity charOffset="24-61" id="21607584.s0.e0" ontology_id="GO_0000086" text="G2/M transition of mitotic cell cycle" type="GO"/>
+    <entity charOffset="142-148" id="21607584.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="21607584.s0.e0" e2="21607584.s0.e1" id="21607584.s0.p0" relation="true"/>
+  </sentence>
+</document>

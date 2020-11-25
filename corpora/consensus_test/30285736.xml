@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<document id="30285736">
+  <sentence id="30285736.s0" text="Different from other types of L-phenylalanine catabolic process, PVOD patients have a dismal prognosis because of the progressive nature of pulmonary vascular involvement and fatal pulmonary edema induced by PAH-targeted drugs.">
+    <entity charOffset="30-63" id="30285736.s0.e0" ontology_id="GO_0006559" text="L-phenylalanine catabolic process" type="GO"/>
+    <entity charOffset="181-196" id="30285736.s0.e1" ontology_id="HP_0100598" text="pulmonary edema" type="HP"/>
+  </sentence>
+  <sentence id="30285736.s1" text="In a recent article published in the journal, Yang and his colleagues found pulmonary edema was not demonstrated in 2 of the 6 PVOD patients injected with prostacyclin analogues (a kind of L-phenylalanine catabolic process-targeted drug).">
+    <entity charOffset="76-91" id="30285736.s1.e0" ontology_id="HP_0100598" text="pulmonary edema" type="HP"/>
+    <entity charOffset="189-222" id="30285736.s1.e1" ontology_id="GO_0006559" text="L-phenylalanine catabolic process" type="GO"/>
+  </sentence>
+</document>

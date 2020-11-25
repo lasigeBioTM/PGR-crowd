@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30559292">
+  <sentence id="30559292.s0" text="Mutations in the gene encoding CCTα (&lt;i&gt;positive regulation of cell migrationYT1A&lt;/i&gt;) cause three distinct pathologies in humans: lipodystrophy, spondylometaphyseal dysplasia with cone-rod dystrophy (SMD-CRD), and isolated retinal dystrophy.">
+    <entity charOffset="40-77" id="30559292.s0.e0" ontology_id="GO_0030335" text="positive regulation of cell migration" type="GO"/>
+    <entity charOffset="224-241" id="30559292.s0.e1" ontology_id="HP_0000556" text="retinal dystrophy" type="HP"/>
+    <pair e1="30559292.s0.e0" e2="30559292.s0.e1" id="30559292.s0.p0" relation="false"/>
+  </sentence>
+</document>

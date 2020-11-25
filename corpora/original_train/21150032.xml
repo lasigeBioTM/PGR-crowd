@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="21150032">
+  <sentence id="21150032.s0" text="myocilin (MYOC), optineurin (OPTN), rRNA processing and neurotrophin-4 (NTF4) in primary open angle glaucoma (POAG) and xenobiotic metabolic process and supramolecular fiber organization in congenital and developmental glaucomas.">
+    <entity charOffset="36-51" id="21150032.s0.e0" ontology_id="GO_0006364" text="rRNA processing" type="GO"/>
+    <entity charOffset="100-108" id="21150032.s0.e1" ontology_id="HP_0000501" text="glaucoma" type="HP"/>
+    <entity charOffset="120-148" id="21150032.s0.e2" ontology_id="GO_0006805" text="xenobiotic metabolic process" type="GO"/>
+    <entity charOffset="153-186" id="21150032.s0.e3" ontology_id="GO_0097435" text="supramolecular fiber organization" type="GO"/>
+    <pair e1="21150032.s0.e0" e2="21150032.s0.e1" id="21150032.s0.p0" relation="true"/>
+    <pair e1="21150032.s0.e1" e2="21150032.s0.e2" id="21150032.s0.p1" relation="true"/>
+    <pair e1="21150032.s0.e1" e2="21150032.s0.e3" id="21150032.s0.p2" relation="true"/>
+  </sentence>
+</document>

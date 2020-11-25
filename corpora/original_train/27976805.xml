@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="27976805">
+  <sentence id="27976805.s0" text="Mutations in positive regulation of cell proliferation have been associated with autosomal recessive Crisponi or cold-induced sweating syndrome muscle organ development 1 (CS/CISS1), which among other symptoms also manifests with early onset feeding difficulties.">
+    <entity charOffset="13-54" id="27976805.s0.e0" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <entity charOffset="81-100" id="27976805.s0.e1" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="144-168" id="27976805.s0.e2" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="242-262" id="27976805.s0.e3" ontology_id="HP_0011968" text="feeding difficulties" type="HP"/>
+    <pair e1="27976805.s0.e0" e2="27976805.s0.e1" id="27976805.s0.p0" relation="true"/>
+    <pair e1="27976805.s0.e0" e2="27976805.s0.e3" id="27976805.s0.p1" relation="true"/>
+    <pair e1="27976805.s0.e1" e2="27976805.s0.e2" id="27976805.s0.p2" relation="true"/>
+    <pair e1="27976805.s0.e2" e2="27976805.s0.e3" id="27976805.s0.p3" relation="false"/>
+  </sentence>
+</document>

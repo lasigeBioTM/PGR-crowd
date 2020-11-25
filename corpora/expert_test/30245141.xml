@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="30245141">
+  <sentence id="30245141.s0" text="We summarize genetic, clinical and neuropathological findings related to the 27 genes reported in the literature since 1997, associated either with autosomal dominant (AD): LRRK2, SNCA, VPS35, GCH1, ATXN2, DNAJC13, TMEM230, posttranscriptional gene silencing, HTRA2, RIC3, EIF4G1, protein deubiquitination, CHCHD2, and GBA; or autosomal recessive (AR) inheritance: PRKN, PINK1, DJ1, ATP13A2, antibacterial humoral response, FBXO7, DNAJC6, SYNJ1, chemical synaptic transmission, VPS13C, PODXL, and PTRHD1; or an X-linked transmission: RAB39B.">
+    <entity charOffset="224-258" id="30245141.s0.e0" ontology_id="GO_0016441" text="posttranscriptional gene silencing" type="GO"/>
+    <entity charOffset="281-305" id="30245141.s0.e1" ontology_id="GO_0016579" text="protein deubiquitination" type="GO"/>
+    <entity charOffset="327-346" id="30245141.s0.e2" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="392-422" id="30245141.s0.e3" ontology_id="GO_0019731" text="antibacterial humoral response" type="GO"/>
+    <entity charOffset="446-476" id="30245141.s0.e4" ontology_id="GO_0007268" text="chemical synaptic transmission" type="GO"/>
+    <pair e1="30245141.s0.e0" e2="30245141.s0.e2" id="30245141.s0.p0" relation="false"/>
+    <pair e1="30245141.s0.e1" e2="30245141.s0.e2" id="30245141.s0.p1" relation="false"/>
+    <pair e1="30245141.s0.e2" e2="30245141.s0.e4" id="30245141.s0.p2" relation="true"/>
+    <pair e1="30245141.s0.e2" e2="30245141.s0.e3" id="30245141.s0.p3" relation="true"/>
+  </sentence>
+</document>

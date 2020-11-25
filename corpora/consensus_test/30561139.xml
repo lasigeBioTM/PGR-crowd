@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="30561139">
+  <sentence id="30561139.s0" text="A 9-month-old intact crossbred female hydrogen peroxide catabolic process was presented with jaundice, intermittent anorexia and lethargy, increased hepatic enzyme activities, and hyperammonemia.">
+    <entity charOffset="38-73" id="30561139.s0.e0" ontology_id="GO_0042744" text="hydrogen peroxide catabolic process" type="GO"/>
+    <entity charOffset="180-194" id="30561139.s0.e1" ontology_id="HP_0001987" text="hyperammonemia" type="HP"/>
+  </sentence>
+</document>

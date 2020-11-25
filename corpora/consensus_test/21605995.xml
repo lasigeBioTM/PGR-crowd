@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="21605995">
+  <sentence id="21605995.s0" text="Carnitine-acylcarnitine translocase (carnitine shuttle) deficiency is a rare autosomal recessive disease of fatty acid oxidation, mainly affecting long chain fatty acid utilization.">
+    <entity charOffset="37-54" id="21605995.s0.e0" ontology_id="GO_0006853" text="carnitine shuttle" type="GO"/>
+    <entity charOffset="77-96" id="21605995.s0.e1" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+  </sentence>
+</document>

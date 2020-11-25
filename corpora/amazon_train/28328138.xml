@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<document id="28328138">
+  <sentence id="28328138.s0" text="Global developmental delay associated with microcephaly, growth retardation, progressive ataxia, distal muscle weakness with ankle contractures, demyelinating sensorimotor neuropathy, and sensorineural hearing loss were present in all patients, while facial dysmorphism with widely spaced eyes, exotropia, thin upper nuclear-transcribed mRNA catabolic process, nonsense-mediated decay, proximally placed thumbs, and deformities of the fingers and toes were present in some individuals.">
+    <entity charOffset="7-26" id="28328138.s0.e0" ontology_id="HP_0001263" text="developmental delay" type="HP"/>
+    <entity charOffset="43-55" id="28328138.s0.e1" ontology_id="HP_0000252" text="microcephaly" type="HP"/>
+    <entity charOffset="77-88" id="28328138.s0.e2" ontology_id="HP_0003676" text="progressive" type="HP"/>
+    <entity charOffset="89-95" id="28328138.s0.e3" ontology_id="HP_0001251" text="ataxia" type="HP"/>
+    <entity charOffset="97-103" id="28328138.s0.e4" ontology_id="HP_0012839" text="distal" type="HP"/>
+    <entity charOffset="131-143" id="28328138.s0.e5" ontology_id="HP_0001371" text="contractures" type="HP"/>
+    <entity charOffset="172-182" id="28328138.s0.e6" ontology_id="HP_0009830" text="neuropathy" type="HP"/>
+    <entity charOffset="202-214" id="28328138.s0.e7" ontology_id="HP_0000365" text="hearing loss" type="HP"/>
+    <entity charOffset="251-269" id="28328138.s0.e8" ontology_id="HP_0001999" text="facial dysmorphism" type="HP"/>
+    <entity charOffset="275-293" id="28328138.s0.e9" ontology_id="HP_0000316" text="widely spaced eyes" type="HP"/>
+    <entity charOffset="295-304" id="28328138.s0.e10" ontology_id="HP_0000577" text="exotropia" type="HP"/>
+    <entity charOffset="317-384" id="28328138.s0.e11" ontology_id="GO_0000184" text="nuclear-transcribed mRNA catabolic process, nonsense-mediated decay" type="GO"/>
+    <pair e1="28328138.s0.e1" e2="28328138.s0.e11" id="28328138.s0.p0" relation="true"/>
+    <pair e1="28328138.s0.e4" e2="28328138.s0.e11" id="28328138.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="28328138.s1" text="Our findings expand the clinical phenotype and further demonstrate the clinical heterogeneity related to negative regulation of gene expression variants">
+    <entity charOffset="80-93" id="28328138.s1.e0" ontology_id="HP_0001425" text="heterogeneity" type="HP"/>
+    <entity charOffset="105-143" id="28328138.s1.e1" ontology_id="GO_0010629" text="negative regulation of gene expression" type="GO"/>
+    <pair e1="28328138.s1.e0" e2="28328138.s1.e1" id="28328138.s1.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="28232469">
+  <sentence id="28232469.s0" text="Despite the identification of several oncogenic driver mutations leading to constitutive JAK-STAT activation, the cellular and molecular biology of myeloproliferative neoplasms (proteolysis) remains incompletely understood.">
+    <entity charOffset="167-176" id="28232469.s0.e0" ontology_id="HP_0002664" text="neoplasms" type="HP"/>
+    <entity charOffset="178-189" id="28232469.s0.e1" ontology_id="GO_0006508" text="proteolysis" type="GO"/>
+    <pair e1="28232469.s0.e0" e2="28232469.s0.e1" id="28232469.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="28232469.s1" text="Our results reveal a novel genetic regulation of lipid kinase activity-like mouse model and identify a tumor suppressor role for &lt;i&gt;NOL3&lt;/i&gt; in the pathogenesis of myeloid malignancies">
+    <entity charOffset="35-70" id="28232469.s1.e0" ontology_id="GO_0043550" text="regulation of lipid kinase activity" type="GO"/>
+    <entity charOffset="103-108" id="28232469.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28232469.s1.e0" e2="28232469.s1.e1" id="28232469.s1.p0" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29467311">
+  <sentence id="29467311.s0" text="These data suggest a previously unrecognized mechanism by which EBNALP coactivates transcription through subverting of negative regulation of transcription by RNA polymerase II and thus affects the expression of LCL genes regulated by a broad range of host TFs.&lt;b&gt;IMPORTANCE&lt;/b&gt; Epstein-Barr virus was the first human DNA tumor virus discovered over 50 years ago.">
+    <entity charOffset="119-176" id="29467311.s0.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="322-327" id="29467311.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29467311.s0.e0" e2="29467311.s0.e1" id="29467311.s0.p0" relation="true"/>
+  </sentence>
+</document>

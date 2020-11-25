@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="29233839">
+  <sentence id="29233839.s0" text="The Wnt/beta-catenin pathway can be activated in both benign and malignant tumors by &lt;i&gt;CTNNB1&lt;/i&gt; mutations and by &lt;i&gt;ZNRF3&lt;/i&gt; inactivation in adrenal cancer (acetyl-CoA metabolic process).">
+    <entity charOffset="75-81" id="29233839.s0.e0" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <entity charOffset="153-159" id="29233839.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="161-189" id="29233839.s0.e2" ontology_id="GO_0006084" text="acetyl-CoA metabolic process" type="GO"/>
+    <pair e1="29233839.s0.e0" e2="29233839.s0.e2" id="29233839.s0.p0" relation="true"/>
+    <pair e1="29233839.s0.e1" e2="29233839.s0.e2" id="29233839.s0.p1" relation="true"/>
+  </sentence>
+</document>

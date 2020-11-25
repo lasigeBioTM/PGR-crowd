@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="29478595">
+  <sentence id="29478595.s0" text="Heritability-based analyses are demonstrating strong links between migraine and other neuropsychiatric disorders and brain phenotypes, highT cell costimulationing genetic links between migraine and major depressive disorder and attention-deficit hyperactivity disorder, among others.">
+    <entity charOffset="139-159" id="29478595.s0.e0" ontology_id="GO_0031295" text="T cell costimulation" type="GO"/>
+    <entity charOffset="246-259" id="29478595.s0.e1" ontology_id="HP_0000752" text="hyperactivity" type="HP"/>
+  </sentence>
+</document>

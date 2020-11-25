@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27422265">
+  <sentence id="27422265.s0" text="Peripheral neuropathy (G protein-coupled receptor signaling pathway) remains one of the most frequent side-effects experienced by patients who receive these novel agents.">
+    <entity charOffset="11-21" id="27422265.s0.e0" ontology_id="HP_0009830" text="neuropathy" type="HP"/>
+    <entity charOffset="23-67" id="27422265.s0.e1" ontology_id="GO_0007186" text="G protein-coupled receptor signaling pathway" type="GO"/>
+    <pair e1="27422265.s0.e0" e2="27422265.s0.e1" id="27422265.s0.p0" relation="false"/>
+  </sentence>
+</document>

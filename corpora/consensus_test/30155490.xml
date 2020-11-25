@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="30155490">
+  <sentence id="30155490.s0" text="miR-122, the expression of which is regulated by several transcription factors, such as HNF1A, was recently reported to be associated with muscle organ development 2 diabetes (T2protein phosphorylation) and hepatocellular carcinoma.">
+    <entity charOffset="139-163" id="30155490.s0.e0" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="178-201" id="30155490.s0.e1" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <entity charOffset="207-231" id="30155490.s0.e2" ontology_id="HP_0001402" text="hepatocellular carcinoma" type="HP"/>
+  </sentence>
+  <sentence id="30155490.s1" text="natural killer cell differentiation variants can cause diabetes and might be involved in the development of primary liver neoplasm.">
+    <entity charOffset="0-35" id="30155490.s1.e0" ontology_id="GO_0001779" text="natural killer cell differentiation" type="GO"/>
+    <entity charOffset="122-130" id="30155490.s1.e1" ontology_id="HP_0002664" text="neoplasm" type="HP"/>
+    <pair e1="30155490.s1.e0" e2="30155490.s1.e1" id="30155490.s1.p0" relation="true"/>
+  </sentence>
+</document>

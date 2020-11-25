@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="24831815">
+  <sentence id="24831815.s0" text="In an unrelated sporadic case of CGHT, we identified a 1.3 Mb nodal signaling pathway deletion of chr17q24.2-q24.3 encompassing negative regulation of macrophage derived foam cell differentiation and found that ABCA5 levels are dramatically reduced throughout patient hair follicles.">
+    <entity charOffset="16-24" id="24831815.s0.e0" ontology_id="HP_0003745" text="sporadic" type="HP"/>
+    <entity charOffset="62-85" id="24831815.s0.e1" ontology_id="GO_0038092" text="nodal signaling pathway" type="GO"/>
+    <entity charOffset="128-195" id="24831815.s0.e2" ontology_id="GO_0010745" text="negative regulation of macrophage derived foam cell differentiation" type="GO"/>
+    <pair e1="24831815.s0.e0" e2="24831815.s0.e2" id="24831815.s0.p0" relation="false"/>
+    <pair e1="24831815.s0.e0" e2="24831815.s0.e1" id="24831815.s0.p1" relation="false"/>
+  </sentence>
+</document>

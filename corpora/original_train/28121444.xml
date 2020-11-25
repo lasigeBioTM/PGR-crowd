@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="28121444">
+  <sentence id="28121444.s0" text="A negative regulation of transcription, DNA-templated of ten plasma and serum samples from subjects with multiple sclerosis, narcolepsy, and without any disease diagnosis were profiled on a peptide array representing the whole proteome, hosting 2.2 million 12-mer peptides with a six amino acid lateral shift.">
+    <entity charOffset="2-53" id="28121444.s0.e0" ontology_id="GO_0045892" text="negative regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="125-135" id="28121444.s0.e1" ontology_id="HP_0030050" text="narcolepsy" type="HP"/>
+    <pair e1="28121444.s0.e0" e2="28121444.s0.e1" id="28121444.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="28121444.s1" text="The presented workflow employed three different peptide microarray formats to discover and resolve the epitopes of human autoantibodies and revealed two potentially new autoantigens: activation of MAPKK activity in multiple sclerosis and NRXN1 in narcolepsy.">
+    <entity charOffset="183-211" id="28121444.s1.e0" ontology_id="GO_0000186" text="activation of MAPKK activity" type="GO"/>
+    <entity charOffset="247-257" id="28121444.s1.e1" ontology_id="HP_0030050" text="narcolepsy" type="HP"/>
+    <pair e1="28121444.s1.e0" e2="28121444.s1.e1" id="28121444.s1.p0" relation="false"/>
+  </sentence>
+</document>

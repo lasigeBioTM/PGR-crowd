@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="27650626">
+  <sentence id="27650626.s0" text="A case with creatine biosynthetic process deficiency (homozygous c.64dupG mutation) presented with neurodevelopmental delay, rare seizures, behavioral disturbances, and mild hypotonia, posing diagnostic challenges.">
+    <entity charOffset="12-41" id="27650626.s0.e0" ontology_id="GO_0006601" text="creatine biosynthetic process" type="GO"/>
+    <entity charOffset="99-123" id="27650626.s0.e1" ontology_id="HP_0012758" text="neurodevelopmental delay" type="HP"/>
+    <entity charOffset="140-163" id="27650626.s0.e2" ontology_id="HP_0000708" text="behavioral disturbances" type="HP"/>
+    <entity charOffset="169-173" id="27650626.s0.e3" ontology_id="HP_0012825" text="mild" type="HP"/>
+    <pair e1="27650626.s0.e0" e2="27650626.s0.e1" id="27650626.s0.p0" relation="true"/>
+    <pair e1="27650626.s0.e0" e2="27650626.s0.e2" id="27650626.s0.p1" relation="false"/>
+    <pair e1="27650626.s0.e0" e2="27650626.s0.e3" id="27650626.s0.p2" relation="false"/>
+  </sentence>
+</document>

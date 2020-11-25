@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27442376">
+  <sentence id="27442376.s0" text="regulation of transcription, DNA-templated is a primary, chronic tubulointerstitial nephritis characterized with chronic anemia, absence of edema, xantoderma, normal blood pressure and normal findings on the fundus oculi.">
+    <entity charOffset="0-42" id="27442376.s0.e0" ontology_id="GO_0006355" text="regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="65-93" id="27442376.s0.e1" ontology_id="HP_0001970" text="tubulointerstitial nephritis" type="HP"/>
+    <pair e1="27442376.s0.e0" e2="27442376.s0.e1" id="27442376.s0.p0" relation="true"/>
+  </sentence>
+</document>

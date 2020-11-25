@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<document id="24843229">
+  <sentence id="24843229.s0" text="The autosomal recessive forms (LGMD2) are: LGMD2A (calpain 3), LGMD2B (dysferlin), LGMD2C (γ sarcoglycan), LGMD2D (α sarcoglycan), LGMD2E (β sarcoglycan), LGMD2F (δ sarcoglycan), LGMD2G (cardiac muscle hypertrophy), LGMD2H (TRIM32), LGMD2I (protein O-linked mannosylation), LGMD2J (titin), LGMD2K (POMT1), LGMD2L (anoctamin 5), LGMD2M (fukutin), LGMD2N (POMT2), LGMD2O (POMTnG1), LGMD2P (dystroglycan), LGMD2Q (plectin), LGMD2R (desmin), LGMD2S (protein complex oligomerization), LGMD2T (GDP-mannose biosynthetic process), LGMD2U (protein O-linked mannosylation), LGMD2V (Glucosidase, alpha ), LGMD2W (PINCH2)">
+    <entity charOffset="4-23" id="24843229.s0.e0" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="187-213" id="24843229.s0.e1" ontology_id="GO_0003300" text="cardiac muscle hypertrophy" type="GO"/>
+    <entity charOffset="241-271" id="24843229.s0.e2" ontology_id="GO_0035269" text="protein O-linked mannosylation" type="GO"/>
+    <entity charOffset="446-477" id="24843229.s0.e3" ontology_id="GO_0051259" text="protein complex oligomerization" type="GO"/>
+    <entity charOffset="488-520" id="24843229.s0.e4" ontology_id="GO_0009298" text="GDP-mannose biosynthetic process" type="GO"/>
+    <entity charOffset="531-561" id="24843229.s0.e5" ontology_id="GO_0035269" text="protein O-linked mannosylation" type="GO"/>
+    <pair e1="24843229.s0.e0" e2="24843229.s0.e1" id="24843229.s0.p0" relation="true"/>
+    <pair e1="24843229.s0.e0" e2="24843229.s0.e4" id="24843229.s0.p1" relation="true"/>
+    <pair e1="24843229.s0.e0" e2="24843229.s0.e3" id="24843229.s0.p2" relation="true"/>
+    <pair e1="24843229.s0.e0" e2="24843229.s0.e2" id="24843229.s0.p3" relation="true"/>
+    <pair e1="24843229.s0.e0" e2="24843229.s0.e5" id="24843229.s0.p4" relation="true"/>
+  </sentence>
+</document>

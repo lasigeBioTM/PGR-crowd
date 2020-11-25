@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="22527681">
+  <sentence id="22527681.s0" text="Exome and targeted sequencing has recently identified four new genes causing ataxia: TGM6, cation transport, biological_process, and rundataxin.">
+    <entity charOffset="77-83" id="22527681.s0.e0" ontology_id="HP_0001251" text="ataxia" type="HP"/>
+    <entity charOffset="91-107" id="22527681.s0.e1" ontology_id="GO_0006812" text="cation transport" type="GO"/>
+    <entity charOffset="109-127" id="22527681.s0.e2" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <pair e1="22527681.s0.e0" e2="22527681.s0.e1" id="22527681.s0.p0" relation="true"/>
+    <pair e1="22527681.s0.e0" e2="22527681.s0.e2" id="22527681.s0.p1" relation="true"/>
+  </sentence>
+</document>

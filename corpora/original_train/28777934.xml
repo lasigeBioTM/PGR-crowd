@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28777934">
+  <sentence id="28777934.s0" text="Here, we report that variants in protein complex oligomerization result in progressive childhood encephalopathy.">
+    <entity charOffset="33-64" id="28777934.s0.e0" ontology_id="GO_0051259" text="protein complex oligomerization" type="GO"/>
+    <entity charOffset="97-111" id="28777934.s0.e1" ontology_id="HP_0001298" text="encephalopathy" type="HP"/>
+    <pair e1="28777934.s0.e0" e2="28777934.s0.e1" id="28777934.s0.p0" relation="true"/>
+  </sentence>
+</document>

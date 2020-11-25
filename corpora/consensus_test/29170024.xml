@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29170024">
+  <sentence id="29170024.s0" text="Finally, we report that 9 retained cytotoxicity against several pediatric cancer cell lines with EC&lt;sub&gt;50&lt;/sub&gt; values comparable to central nervous system development inhibitor (BETi) clinical candidates">
+    <entity charOffset="74-80" id="29170024.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="134-168" id="29170024.s0.e1" ontology_id="GO_0007417" text="central nervous system development" type="GO"/>
+    <pair e1="29170024.s0.e0" e2="29170024.s0.e1" id="29170024.s0.p0" relation="true"/>
+  </sentence>
+</document>

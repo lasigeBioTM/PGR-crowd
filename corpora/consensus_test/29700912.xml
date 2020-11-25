@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<document id="29700912">
+  <sentence id="29700912.s0" text="In addition, the coexistence of high MACC1 and low NM23-negative regulation of cell migration expression and tumor budding was associated with short OS (p &amp;lt; 0.001).">
+    <entity charOffset="56-93" id="29700912.s0.e0" ontology_id="GO_0030336" text="negative regulation of cell migration" type="GO"/>
+    <entity charOffset="109-114" id="29700912.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29700912.s0.e0" e2="29700912.s0.e1" id="29700912.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="29700912.s1" text="We suggest that the combination of reduced positive regulation of DNA binding-H1, induced positive regulation of transcription by RNA polymerase II, and the presence of tumor budding are promising biomarkers for the prediction of recurrence and may aid the stratification of patients with stage II colon cancer for adjuvant chemotherapy">
+    <entity charOffset="43-77" id="29700912.s1.e0" ontology_id="GO_0043388" text="positive regulation of DNA binding" type="GO"/>
+    <entity charOffset="90-147" id="29700912.s1.e1" ontology_id="GO_0045944" text="positive regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="169-174" id="29700912.s1.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="304-310" id="29700912.s1.e3" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29700912.s1.e0" e2="29700912.s1.e2" id="29700912.s1.p0" relation="true"/>
+    <pair e1="29700912.s1.e0" e2="29700912.s1.e3" id="29700912.s1.p1" relation="true"/>
+    <pair e1="29700912.s1.e1" e2="29700912.s1.e3" id="29700912.s1.p2" relation="true"/>
+    <pair e1="29700912.s1.e1" e2="29700912.s1.e2" id="29700912.s1.p3" relation="true"/>
+  </sentence>
+  <sentence id="29700912.s2" text="The aims of the present study were to evaluate the relation of dysregulated MACC1, c-MET, and NM23-negative regulation of cell migration expression with the histopathological features of tumors in recurrence formation in eCC cases.">
+    <entity charOffset="99-136" id="29700912.s2.e0" ontology_id="GO_0030336" text="negative regulation of cell migration" type="GO"/>
+    <entity charOffset="187-192" id="29700912.s2.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29700912.s2.e0" e2="29700912.s2.e1" id="29700912.s2.p0" relation="false"/>
+  </sentence>
+</document>

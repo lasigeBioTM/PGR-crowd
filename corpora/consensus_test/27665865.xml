@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27665865">
+  <sentence id="27665865.s0" text="In this study, we enrolled 16 individuals affected by tooth agenesis, prevalently hypodontia, and we carried out direct Sanger sequencing of paired box 9 (PAX9) and Msh homeobox 1 (cell morphogenesis) genes in 9 subjects.">
+    <entity charOffset="82-92" id="27665865.s0.e0" ontology_id="HP_0000668" text="hypodontia" type="HP"/>
+    <entity charOffset="181-199" id="27665865.s0.e1" ontology_id="GO_0000902" text="cell morphogenesis" type="GO"/>
+    <pair e1="27665865.s0.e0" e2="27665865.s0.e1" id="27665865.s0.p0" relation="true"/>
+  </sentence>
+</document>

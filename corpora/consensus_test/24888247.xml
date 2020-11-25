@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="24888247">
+  <sentence id="24888247.s0" text="In conclusion, steroid biosynthetic process 4217C&amp;gt;A polymorphism may not be associated with the development of hyperammonemia in Japanese population">
+    <entity charOffset="15-43" id="24888247.s0.e0" ontology_id="GO_0006694" text="steroid biosynthetic process" type="GO"/>
+    <entity charOffset="114-128" id="24888247.s0.e1" ontology_id="HP_0001987" text="hyperammonemia" type="HP"/>
+    <pair e1="24888247.s0.e0" e2="24888247.s0.e1" id="24888247.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="24888247.s1" text="Polymorphisms in the genes encoding carbamoyl-phosphate synthase 1 (steroid biosynthetic process) and N-acetylglutamate synthase (NAGS) were recently reported to be risk factors for the development of hyperammonemia during valproic acid-based therapy.">
+    <entity charOffset="68-96" id="24888247.s1.e0" ontology_id="GO_0006694" text="steroid biosynthetic process" type="GO"/>
+    <entity charOffset="201-215" id="24888247.s1.e1" ontology_id="HP_0001987" text="hyperammonemia" type="HP"/>
+    <pair e1="24888247.s1.e0" e2="24888247.s1.e1" id="24888247.s1.p0" relation="false"/>
+  </sentence>
+</document>

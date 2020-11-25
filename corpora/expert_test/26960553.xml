@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<document id="26960553">
+  <sentence id="26960553.s0" text="The third subject was an infant with growth deficiency, microcephaly, ichthyotic skin lesions, anemia, hypertonia, distinctive facial features, low serine and glycine in plasma and CSF, and a novel homozygous mutation in L-serine biosynthetic process gene.">
+    <entity charOffset="56-68" id="26960553.s0.e0" ontology_id="HP_0000252" text="microcephaly" type="HP"/>
+    <entity charOffset="95-101" id="26960553.s0.e1" ontology_id="HP_0001903" text="anemia" type="HP"/>
+    <entity charOffset="103-113" id="26960553.s0.e2" ontology_id="HP_0001276" text="hypertonia" type="HP"/>
+    <entity charOffset="221-250" id="26960553.s0.e3" ontology_id="GO_0006564" text="L-serine biosynthetic process" type="GO"/>
+    <pair e1="26960553.s0.e0" e2="26960553.s0.e3" id="26960553.s0.p0" relation="false"/>
+    <pair e1="26960553.s0.e1" e2="26960553.s0.e3" id="26960553.s0.p1" relation="false"/>
+    <pair e1="26960553.s0.e2" e2="26960553.s0.e3" id="26960553.s0.p2" relation="false"/>
+  </sentence>
+  <sentence id="26960553.s1" text="The second was a neonate with growth deficiency, microcephaly, ichthyotic skin lesions, seizures, contractures, hypertonia, distinctive facial features, and a homozygous mutation in L-serine biosynthetic process.">
+    <entity charOffset="98-110" id="26960553.s1.e0" ontology_id="HP_0001371" text="contractures" type="HP"/>
+    <entity charOffset="182-211" id="26960553.s1.e1" ontology_id="GO_0006564" text="L-serine biosynthetic process" type="GO"/>
+    <pair e1="26960553.s1.e0" e2="26960553.s1.e1" id="26960553.s1.p0" relation="false"/>
+  </sentence>
+</document>

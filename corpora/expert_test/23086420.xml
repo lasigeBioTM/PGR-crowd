@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="23086420">
+  <sentence id="23086420.s0" text="Several myotubularins have been genetically linked to human diseases: protein dephosphorylation is mutated in the congenital myopathy X-linked centronuclear or myotubular myopathy (XLCNM) and MTMR14 (JUMPY) has been linked to an autosomal form of such disease, while phosphatidylinositol dephosphorylation and myelination are mutated in Charcot-Marie-Tooth (CMT) neuropathies.">
+    <entity charOffset="70-95" id="23086420.s0.e0" ontology_id="GO_0006470" text="protein dephosphorylation" type="GO"/>
+    <entity charOffset="125-133" id="23086420.s0.e1" ontology_id="HP_0003198" text="myopathy" type="HP"/>
+    <entity charOffset="267-305" id="23086420.s0.e2" ontology_id="GO_0046856" text="phosphatidylinositol dephosphorylation" type="GO"/>
+    <entity charOffset="310-321" id="23086420.s0.e3" ontology_id="GO_0042552" text="myelination" type="GO"/>
+    <pair e1="23086420.s0.e0" e2="23086420.s0.e1" id="23086420.s0.p0" relation="true"/>
+    <pair e1="23086420.s0.e1" e2="23086420.s0.e2" id="23086420.s0.p1" relation="false"/>
+    <pair e1="23086420.s0.e1" e2="23086420.s0.e3" id="23086420.s0.p2" relation="false"/>
+  </sentence>
+</document>

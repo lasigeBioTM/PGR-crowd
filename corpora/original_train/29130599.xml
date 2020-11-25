@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="29130599">
+  <sentence id="29130599.s0" text="Of these five genes, the brain expressed peptidyl-serine phosphorylation gene constitutes a good candidate for the developmental delay, while the cellular homeostasis gene, involved in mitochondrial trafficking, might underlie the hypotonia and the excessive fatigue">
+    <entity charOffset="41-72" id="29130599.s0.e0" ontology_id="GO_0018105" text="peptidyl-serine phosphorylation" type="GO"/>
+    <entity charOffset="115-134" id="29130599.s0.e1" ontology_id="HP_0001263" text="developmental delay" type="HP"/>
+    <entity charOffset="146-166" id="29130599.s0.e2" ontology_id="GO_0019725" text="cellular homeostasis" type="GO"/>
+    <pair e1="29130599.s0.e0" e2="29130599.s0.e1" id="29130599.s0.p0" relation="false"/>
+    <pair e1="29130599.s0.e1" e2="29130599.s0.e2" id="29130599.s0.p1" relation="false"/>
+  </sentence>
+</document>

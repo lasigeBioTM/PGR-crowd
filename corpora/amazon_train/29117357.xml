@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<document id="29117357">
+  <sentence id="29117357.s0" text="To investigate genetic predispositions for positive regulation of gene expression-amplified neuroblastoma, we performed a meta-analysis of three genome-wide association studies totaling 615 MYCN-amplified high-risk neuroblastoma cases and 1869 MYCN-nonamplified non-high-risk neuroblastoma cases as controls using a fixed-effects model with inverse variance weighting.">
+    <entity charOffset="43-81" id="29117357.s0.e0" ontology_id="GO_0010628" text="positive regulation of gene expression" type="GO"/>
+    <entity charOffset="92-105" id="29117357.s0.e1" ontology_id="HP_0003006" text="neuroblastoma" type="HP"/>
+    <pair e1="29117357.s0.e0" e2="29117357.s0.e1" id="29117357.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29117357.s1" text="We identified a novel locus at 3p21.31 indexed by the single nucleotide polymorphism (SNP) rs80059929 (odds ratio [OR] = 2.95, 95% confidence interval [CI] = 2.17 to 4.02, Pmeta = 6.47 × 10-12) associated with positive regulation of gene expression-amplified neuroblastoma, which was replicated in 127 MYCN-amplified cases and 254 non-high-risk controls (OR = 2.30, 95% CI = 1.12 to 4.69, Preplication = .02).">
+    <entity charOffset="210-248" id="29117357.s1.e0" ontology_id="GO_0010628" text="positive regulation of gene expression" type="GO"/>
+    <entity charOffset="259-272" id="29117357.s1.e1" ontology_id="HP_0003006" text="neuroblastoma" type="HP"/>
+    <pair e1="29117357.s1.e0" e2="29117357.s1.e1" id="29117357.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="29117357.s2" text="To confirm this signal is exclusive to positive regulation of gene expression-amplified tumors, we performed a second meta-analysis comparing 728 MYCN-nonamplified high-risk patients to identical controls.">
+    <entity charOffset="39-77" id="29117357.s2.e0" ontology_id="GO_0010628" text="positive regulation of gene expression" type="GO"/>
+    <entity charOffset="88-94" id="29117357.s2.e1" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <pair e1="29117357.s2.e0" e2="29117357.s2.e1" id="29117357.s2.p0" relation="true"/>
+  </sentence>
+  <sentence id="29117357.s3" text="Additionally, the previously reported positive regulation of transcription by RNA polymerase II neuroblastoma risk locus was statistically significant only in patients with positive regulation of gene expression-nonamplified high-risk tumors (OR = 0.63, 95% CI = 0.53 to 0.75, Pmeta = 1.51 × 10-8; Pmeta = .95).">
+    <entity charOffset="38-95" id="29117357.s3.e0" ontology_id="GO_0045944" text="positive regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="96-109" id="29117357.s3.e1" ontology_id="HP_0003006" text="neuroblastoma" type="HP"/>
+    <entity charOffset="173-211" id="29117357.s3.e2" ontology_id="GO_0010628" text="positive regulation of gene expression" type="GO"/>
+    <entity charOffset="235-241" id="29117357.s3.e3" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <pair e1="29117357.s3.e0" e2="29117357.s3.e1" id="29117357.s3.p0" relation="true"/>
+    <pair e1="29117357.s3.e0" e2="29117357.s3.e3" id="29117357.s3.p1" relation="true"/>
+    <pair e1="29117357.s3.e1" e2="29117357.s3.e2" id="29117357.s3.p2" relation="true"/>
+    <pair e1="29117357.s3.e2" e2="29117357.s3.e3" id="29117357.s3.p3" relation="true"/>
+  </sentence>
+  <sentence id="29117357.s4" text="Our results indicate that common genetic variation predisposes to different neuroblastoma genotypes, including the likelihood of somatic positive regulation of gene expression-amplification">
+    <entity charOffset="76-89" id="29117357.s4.e0" ontology_id="HP_0003006" text="neuroblastoma" type="HP"/>
+    <entity charOffset="137-175" id="29117357.s4.e1" ontology_id="GO_0010628" text="positive regulation of gene expression" type="GO"/>
+    <pair e1="29117357.s4.e0" e2="29117357.s4.e1" id="29117357.s4.p0" relation="true"/>
+  </sentence>
+</document>

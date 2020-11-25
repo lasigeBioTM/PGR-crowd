@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="29562234">
+  <sentence id="29562234.s0" text="Proteomic analysis of 12 tumours from an regulation of cell growth-driven hepatocellular carcinoma mouse model revealed that NME1 and nucleoside diphosphate phosphorylation, the only known mammalian histidine kinases, were upregulated.">
+    <entity charOffset="41-66" id="29562234.s0.e0" ontology_id="GO_0001558" text="regulation of cell growth" type="GO"/>
+    <entity charOffset="74-98" id="29562234.s0.e1" ontology_id="HP_0001402" text="hepatocellular carcinoma" type="HP"/>
+    <entity charOffset="134-172" id="29562234.s0.e2" ontology_id="GO_0006165" text="nucleoside diphosphate phosphorylation" type="GO"/>
+    <pair e1="29562234.s0.e0" e2="29562234.s0.e1" id="29562234.s0.p0" relation="true"/>
+    <pair e1="29562234.s0.e1" e2="29562234.s0.e2" id="29562234.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="29562234.s1" text="Finally, in patients with hepatocellular carcinoma, low expression of phosphate-containing compound metabolic process correlated with increased tumour severity and reduced overall survival.">
+    <entity charOffset="26-50" id="29562234.s1.e0" ontology_id="HP_0001402" text="hepatocellular carcinoma" type="HP"/>
+    <entity charOffset="70-117" id="29562234.s1.e1" ontology_id="GO_0006796" text="phosphate-containing compound metabolic process" type="GO"/>
+    <pair e1="29562234.s1.e0" e2="29562234.s1.e1" id="29562234.s1.p0" relation="true"/>
+  </sentence>
+</document>

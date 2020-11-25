@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<document id="30442880">
+  <sentence id="30442880.s0" text="BACKGROUND The distribution of fat cell adhesion mediated by integrin and obesity-associated gene (FTO) genes rs9939609 and rs1421085 in obese and normal ethnic Mongolians was analyzed to investigate the association of FTO gene polymorphisms with obesity and metabolic syndrome in ethnic Mongolians.">
+    <entity charOffset="35-69" id="30442880.s0.e0" ontology_id="GO_0033627" text="cell adhesion mediated by integrin" type="GO"/>
+    <entity charOffset="74-81" id="30442880.s0.e1" ontology_id="HP_0001513" text="obesity" type="HP"/>
+    <pair e1="30442880.s0.e0" e2="30442880.s0.e1" id="30442880.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="30442880.s1" text="RESULTS Body cell adhesion mediated by integrin, body mass index (BMI), waist circumference (WC), negative regulation of signal transduction circumference (HC), waist-hip ratio (WHR), SBP, vitamin D metabolic process, FPG, triglyceride (TG), total cholesterol (TC), and low-density lipoprotein cholesterol (LDL-C) were higher, while HDL-C was lower in the obesity group compared with controls.">
+    <entity charOffset="13-47" id="30442880.s1.e0" ontology_id="GO_0033627" text="cell adhesion mediated by integrin" type="GO"/>
+    <entity charOffset="98-140" id="30442880.s1.e1" ontology_id="GO_0009968" text="negative regulation of signal transduction" type="GO"/>
+    <entity charOffset="189-216" id="30442880.s1.e2" ontology_id="GO_0042359" text="vitamin D metabolic process" type="GO"/>
+    <entity charOffset="356-363" id="30442880.s1.e3" ontology_id="HP_0001513" text="obesity" type="HP"/>
+    <pair e1="30442880.s1.e0" e2="30442880.s1.e3" id="30442880.s1.p0" relation="true"/>
+    <pair e1="30442880.s1.e2" e2="30442880.s1.e3" id="30442880.s1.p1" relation="true"/>
+  </sentence>
+</document>

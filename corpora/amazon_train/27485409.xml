@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="27485409">
+  <sentence id="27485409.s0" text="3-Methylglutaconic aciduria is associated with variants in genes encoding mitochondrial inner membrane organizing determinants, including positive regulation of cell proliferation, visual perception, intracellular cholesterol transport and QIL1/MIC13">
+    <entity charOffset="74-87" id="27485409.s0.e0" ontology_id="HP_0001427" text="mitochondrial" type="HP"/>
+    <entity charOffset="138-179" id="27485409.s0.e1" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <entity charOffset="181-198" id="27485409.s0.e2" ontology_id="GO_0007601" text="visual perception" type="GO"/>
+    <entity charOffset="200-235" id="27485409.s0.e3" ontology_id="GO_0032367" text="intracellular cholesterol transport" type="GO"/>
+    <pair e1="27485409.s0.e0" e2="27485409.s0.e1" id="27485409.s0.p0" relation="true"/>
+    <pair e1="27485409.s0.e0" e2="27485409.s0.e2" id="27485409.s0.p1" relation="true"/>
+    <pair e1="27485409.s0.e0" e2="27485409.s0.e3" id="27485409.s0.p2" relation="true"/>
+  </sentence>
+</document>

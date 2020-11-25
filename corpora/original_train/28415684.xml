@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28415684">
+  <sentence id="28415684.s0" text="Here we show that linc-NeD125, which we previously characterized as a neuronal-induced lncRNA, is significantly overexpressed in Group 4 medulloblastomas (G4 regulation of cell adhesion), the largest and least well characterized molecular MB subgroup.">
+    <entity charOffset="137-153" id="28415684.s0.e0" ontology_id="HP_0002885" text="medulloblastomas" type="HP"/>
+    <entity charOffset="158-185" id="28415684.s0.e1" ontology_id="GO_0030155" text="regulation of cell adhesion" type="GO"/>
+    <pair e1="28415684.s0.e0" e2="28415684.s0.e1" id="28415684.s0.p0" relation="false"/>
+  </sentence>
+</document>

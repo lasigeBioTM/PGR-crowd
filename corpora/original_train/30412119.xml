@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<document id="30412119">
+  <sentence id="30412119.s0" text="Clinicopathologic features such as menarche age, body cell adhesion mediated by integrin index, personal cancer history, grade, and histologic muscle organ development were compared between the 2 groups.">
+    <entity charOffset="54-88" id="30412119.s0.e0" ontology_id="GO_0033627" text="cell adhesion mediated by integrin" type="GO"/>
+    <entity charOffset="105-111" id="30412119.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="143-167" id="30412119.s0.e2" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <pair e1="30412119.s0.e0" e2="30412119.s0.e1" id="30412119.s0.p0" relation="false"/>
+    <pair e1="30412119.s0.e1" e2="30412119.s0.e2" id="30412119.s0.p1" relation="false"/>
+  </sentence>
+  <sentence id="30412119.s1" text="Univariate (Pearson Chi-squared test, Fisher exact test, T test, Wilcoxon positive regulation of DNA-binding transcription factor activity sum test, logistic regression) statistics and stepwise multivariate logistic regression were used to identify factors associated with PFH in the analysis.Among young patients with EC, the PFH group had younger age-of-onset age of endometrial cancer (≤40 years) (odds ratio [OR] = 2.21, 95% confidence interval [95% CI]: 1.01-4.82) than the NFH group.">
+    <entity charOffset="74-138" id="30412119.s1.e0" ontology_id="GO_0051091" text="positive regulation of DNA-binding transcription factor activity" type="GO"/>
+    <entity charOffset="381-387" id="30412119.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30412119.s1.e0" e2="30412119.s1.e1" id="30412119.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="30412119.s2" text="Colorectal, lung, endometrial, breast, and hepatocellular carcinoma accounted for 58.6% of all cancer muscle organ developments among 1st- and 2nd-degree relatives.">
+    <entity charOffset="43-67" id="30412119.s2.e0" ontology_id="HP_0001402" text="hepatocellular carcinoma" type="HP"/>
+    <entity charOffset="95-101" id="30412119.s2.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="102-126" id="30412119.s2.e2" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <pair e1="30412119.s2.e0" e2="30412119.s2.e2" id="30412119.s2.p0" relation="false"/>
+    <pair e1="30412119.s2.e1" e2="30412119.s2.e2" id="30412119.s2.p1" relation="false"/>
+  </sentence>
+</document>

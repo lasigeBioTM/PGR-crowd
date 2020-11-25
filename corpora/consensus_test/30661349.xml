@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="30661349">
+  <sentence id="30661349.s0" text="The results showed that the concentration of inflammatory cytokines [interleukin 1β (IL1β) and tumor necrosis factor α (Tperipheral nervous system development-α)], myeloperoxidase (low-density lipoprotein particle remodeling) activity in the lung tissue and blood, protein abundance of toll-like receptor 4 (TLR4), nuclear factor κB (NF-κB, p65), phosphorylated p65 (p-p65), inhibitor κBα (IκBα), and phosphorylated IκBα (p-IκBα), and relative mRNA expression of genes associated with inflammation, such as TLR4, NF-κB, IL1β, interleukin 6 (IL6), and TNF-α, were significantly upregulated in the LPS group compared to the PBS group.">
+    <entity charOffset="95-100" id="30661349.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="121-158" id="30661349.s0.e1" ontology_id="GO_0007422" text="peripheral nervous system development" type="GO"/>
+    <entity charOffset="181-224" id="30661349.s0.e2" ontology_id="GO_0034374" text="low-density lipoprotein particle remodeling" type="GO"/>
+    <pair e1="30661349.s0.e0" e2="30661349.s0.e2" id="30661349.s0.p0" relation="true"/>
+    <pair e1="30661349.s0.e0" e2="30661349.s0.e1" id="30661349.s0.p1" relation="false"/>
+  </sentence>
+</document>

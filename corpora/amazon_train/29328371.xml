@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="29328371">
+  <sentence id="29328371.s0" text="The expression of CD133, oxidation-reduction process and positive regulation of canonical Wnt signaling pathway was found to be positive in 55.6, 47.2 and 78.9% of the primary tumour samples, respectively.">
+    <entity charOffset="25-52" id="29328371.s0.e0" ontology_id="GO_0055114" text="oxidation-reduction process" type="GO"/>
+    <entity charOffset="57-111" id="29328371.s0.e1" ontology_id="GO_0090263" text="positive regulation of canonical Wnt signaling pathway" type="GO"/>
+    <entity charOffset="176-182" id="29328371.s0.e2" ontology_id="HP_0002664" text="tumour" type="HP"/>
+    <pair e1="29328371.s0.e0" e2="29328371.s0.e2" id="29328371.s0.p0" relation="true"/>
+    <pair e1="29328371.s0.e1" e2="29328371.s0.e2" id="29328371.s0.p1" relation="true"/>
+  </sentence>
+</document>

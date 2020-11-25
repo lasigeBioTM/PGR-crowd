@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="28935222">
+  <sentence id="28935222.s0" text="We evaluated the genetic negative regulation of transcription by RNA polymerase II of the amyotrophic lateral sclerosis (signal transduction) risk gene never in mitosis gene a-related kinase 1 (protein phosphorylation) in a Belgian cohort of 278 patients with ALS (n = 245) or ALS with frontotemporal dementia (ALS-FTD, n = 33) and 609 control individuals.">
+    <entity charOffset="25-82" id="28935222.s0.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="121-140" id="28935222.s0.e1" ontology_id="GO_0007165" text="signal transduction" type="GO"/>
+    <entity charOffset="194-217" id="28935222.s0.e2" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <entity charOffset="286-309" id="28935222.s0.e3" ontology_id="HP_0002145" text="frontotemporal dementia" type="HP"/>
+    <pair e1="28935222.s0.e2" e2="28935222.s0.e3" id="28935222.s0.p0" relation="true"/>
+  </sentence>
+</document>

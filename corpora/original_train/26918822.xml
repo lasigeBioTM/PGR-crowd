@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="26918822">
+  <sentence id="26918822.s0" text="Heterotaxy, a birth defect involving left-right patterning defects, and primary ciliary dyskinesia (motile cilium assembly), a sinopulmonary disease with dyskinetic/immotile cilia in the airway are seemingly disparate diseases.">
+    <entity charOffset="80-98" id="26918822.s0.e0" ontology_id="HP_0012265" text="ciliary dyskinesia" type="HP"/>
+    <entity charOffset="100-122" id="26918822.s0.e1" ontology_id="GO_0044458" text="motile cilium assembly" type="GO"/>
+    <pair e1="26918822.s0.e0" e2="26918822.s0.e1" id="26918822.s0.p0" relation="true"/>
+  </sentence>
+</document>

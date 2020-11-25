@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="29758293">
+  <sentence id="29758293.s0" text="We studied a consanguineous Pakistani family with postnatal microcephaly, orofacial dyskinesia, spastic quadriplegia and, on MRI, cortical atrophy with myelination delay, suggestive of a negative regulation of transcription, DNA-templated-like presentation.">
+    <entity charOffset="60-72" id="29758293.s0.e0" ontology_id="HP_0000252" text="microcephaly" type="HP"/>
+    <entity charOffset="130-146" id="29758293.s0.e1" ontology_id="HP_0002120" text="cortical atrophy" type="HP"/>
+    <entity charOffset="187-238" id="29758293.s0.e2" ontology_id="GO_0045892" text="negative regulation of transcription, DNA-templated" type="GO"/>
+    <pair e1="29758293.s0.e0" e2="29758293.s0.e2" id="29758293.s0.p0" relation="true"/>
+    <pair e1="29758293.s0.e1" e2="29758293.s0.e2" id="29758293.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="29758293.s1" text="The regulation of the post-mitotic neural survival activity of negative regulation of I-kappaB kinase/NF-kappaB signaling depends critically on an interaction with FOXG1, a gene shown to be involved in a postnatal microcephaly syndrome.">
+    <entity charOffset="63-121" id="29758293.s1.e0" ontology_id="GO_0043124" text="negative regulation of I-kappaB kinase/NF-kappaB signaling" type="GO"/>
+    <entity charOffset="214-226" id="29758293.s1.e1" ontology_id="HP_0000252" text="microcephaly" type="HP"/>
+    <pair e1="29758293.s1.e0" e2="29758293.s1.e1" id="29758293.s1.p0" relation="false"/>
+  </sentence>
+</document>

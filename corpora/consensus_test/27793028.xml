@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<document id="27793028">
+  <sentence id="27793028.s0" text="PDT is a promising new modality in the treatment of cancers, which employs the interaction between a tumor-localizing photosensitizer and T cell costimulation of an appropriate wavelength to bring about ROS-induced cell death.">
+    <entity charOffset="101-106" id="27793028.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="138-158" id="27793028.s0.e1" ontology_id="GO_0031295" text="T cell costimulation" type="GO"/>
+  </sentence>
+  <sentence id="27793028.s1" text="A combination of both EGFP-EGF1 modification and PDT provided a positive feed-back target effect to tumor vessels and might have a G protein-coupled receptor signaling pathway potential for tumor therapy">
+    <entity charOffset="100-105" id="27793028.s1.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="131-175" id="27793028.s1.e1" ontology_id="GO_0007186" text="G protein-coupled receptor signaling pathway" type="GO"/>
+  </sentence>
+  <sentence id="27793028.s2" text="In vivo imaging, ex vivo imaging and tumor tissue slides showed that PDT further contribute EGFP-mitochondrial translational elongation-nucleobase-containing compound metabolic process accumulation in tumor.">
+    <entity charOffset="37-42" id="27793028.s2.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="97-135" id="27793028.s2.e1" ontology_id="GO_0070125" text="mitochondrial translational elongation" type="GO"/>
+    <entity charOffset="136-184" id="27793028.s2.e2" ontology_id="GO_0006139" text="nucleobase-containing compound metabolic process" type="GO"/>
+    <pair e1="27793028.s2.e0" e2="27793028.s2.e1" id="27793028.s2.p0" relation="true"/>
+    <pair e1="27793028.s2.e0" e2="27793028.s2.e2" id="27793028.s2.p1" relation="true"/>
+  </sentence>
+  <sentence id="27793028.s3" text="In this study, a positive regulation of receptor-mediated endocytosis-cascade-targeted strategy aiming to disrupt tumor blood vessels was developed by combination of TF-targeted HMME-loaded drug delivery system and PDT.">
+    <entity charOffset="17-69" id="27793028.s3.e0" ontology_id="GO_0048260" text="positive regulation of receptor-mediated endocytosis" type="GO"/>
+    <entity charOffset="114-119" id="27793028.s3.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="27793028.s3.e0" e2="27793028.s3.e1" id="27793028.s3.p0" relation="false"/>
+  </sentence>
+</document>

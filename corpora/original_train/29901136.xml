@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29901136">
+  <sentence id="29901136.s0" text="The present study aimed to identify novel intervertebral disc degeneration (extracellular matrix organization)‑associated long noncoding (lnc)RNAs and genes.">
+    <entity charOffset="42-74" id="29901136.s0.e0" ontology_id="HP_0008419" text="intervertebral disc degeneration" type="HP"/>
+    <entity charOffset="76-109" id="29901136.s0.e1" ontology_id="GO_0030198" text="extracellular matrix organization" type="GO"/>
+    <pair e1="29901136.s0.e0" e2="29901136.s0.e1" id="29901136.s0.p0" relation="false"/>
+  </sentence>
+</document>

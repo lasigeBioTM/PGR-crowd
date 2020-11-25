@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="29643508">
+  <sentence id="29643508.s0" text="Although genes that are essential for cortical developmental expansion have been identified from the genetics of human primary microcephaly (a disorder associated with reduced brain size and intellectual disability) &lt;sup&gt;1&lt;/sup&gt; , studies of these genes in epidermis development, which have a smooth cortex that is one thousand times smaller than the cortex of humans, have provided limited insight.">
+    <entity charOffset="191-214" id="29643508.s0.e0" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <entity charOffset="257-278" id="29643508.s0.e1" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <pair e1="29643508.s0.e0" e2="29643508.s0.e1" id="29643508.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="29643508.s1" text="Mutations in abnormal spindle-like microcephaly-associated (spindle organization), the most common recessive microcephaly gene, reduce cortical volume by at least 50% in humans&lt;sup&gt;2-4&lt;/sup&gt;, but have little effect on the brains of mice&lt;sup&gt;5-9&lt;/sup&gt;; this probably reflects evolutionarily divergent functions of ASPM&lt;sup&gt;10,11&lt;/sup&gt;.">
+    <entity charOffset="35-47" id="29643508.s1.e0" ontology_id="HP_0000252" text="microcephaly" type="HP"/>
+    <entity charOffset="60-80" id="29643508.s1.e1" ontology_id="GO_0007051" text="spindle organization" type="GO"/>
+    <pair e1="29643508.s1.e0" e2="29643508.s1.e1" id="29643508.s1.p0" relation="true"/>
+  </sentence>
+</document>

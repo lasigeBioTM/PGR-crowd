@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<document id="30222780">
+  <sentence id="30222780.s0" text="A systematic study of serial samples from 30 patients show that ASXL1 c.1934dupG is a somatic mutation in haematological neoplasms including microtubule-based process, AML, MPN and MDS/MPN and often is associated with somatic mutations of 5-methylcytosine catabolic process, negative regulation of transcription by RNA polymerase II, IDH2, hemopoiesis, Ras protein signal transduction and DNMT3A.">
+    <entity charOffset="86-102" id="30222780.s0.e0" ontology_id="HP_0001428" text="somatic mutation" type="HP"/>
+    <entity charOffset="121-130" id="30222780.s0.e1" ontology_id="HP_0002664" text="neoplasms" type="HP"/>
+    <entity charOffset="141-166" id="30222780.s0.e2" ontology_id="GO_0007017" text="microtubule-based process" type="GO"/>
+    <entity charOffset="239-273" id="30222780.s0.e3" ontology_id="GO_0006211" text="5-methylcytosine catabolic process" type="GO"/>
+    <entity charOffset="275-332" id="30222780.s0.e4" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="340-351" id="30222780.s0.e5" ontology_id="GO_0030097" text="hemopoiesis" type="GO"/>
+    <entity charOffset="353-384" id="30222780.s0.e6" ontology_id="GO_0007265" text="Ras protein signal transduction" type="GO"/>
+    <pair e1="30222780.s0.e0" e2="30222780.s0.e6" id="30222780.s0.p0" relation="true"/>
+    <pair e1="30222780.s0.e0" e2="30222780.s0.e3" id="30222780.s0.p1" relation="true"/>
+    <pair e1="30222780.s0.e0" e2="30222780.s0.e5" id="30222780.s0.p2" relation="false"/>
+    <pair e1="30222780.s0.e1" e2="30222780.s0.e2" id="30222780.s0.p3" relation="true"/>
+    <pair e1="30222780.s0.e1" e2="30222780.s0.e4" id="30222780.s0.p4" relation="false"/>
+  </sentence>
+  <sentence id="30222780.s1" text="In addition, we investigated the negative regulation of transcription by RNA polymerase II of proofreading capabilities of different DNA polymerases on ASXL1 c.1934dupG somatic mutation using conventional Sanger sequencing, another common method for ASXL1 genotyping.">
+    <entity charOffset="33-90" id="30222780.s1.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="169-185" id="30222780.s1.e1" ontology_id="HP_0001428" text="somatic mutation" type="HP"/>
+  </sentence>
+</document>

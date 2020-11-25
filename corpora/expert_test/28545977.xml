@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="28545977">
+  <sentence id="28545977.s0" text="Glutaric aciduria type I (GA-I) is a rare organic aciduria caused by the autosomal recessive inherited deficiency of glutaryl-CoA dehydrogenase (fatty acid beta-oxidation using acyl-CoA dehydrogenase).">
+    <entity charOffset="42-58" id="28545977.s0.e0" ontology_id="HP_0001992" text="organic aciduria" type="HP"/>
+    <entity charOffset="73-92" id="28545977.s0.e1" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="145-199" id="28545977.s0.e2" ontology_id="GO_0033539" text="fatty acid beta-oxidation using acyl-CoA dehydrogenase" type="GO"/>
+    <pair e1="28545977.s0.e0" e2="28545977.s0.e2" id="28545977.s0.p0" relation="true"/>
+    <pair e1="28545977.s0.e1" e2="28545977.s0.e2" id="28545977.s0.p1" relation="true"/>
+  </sentence>
+</document>

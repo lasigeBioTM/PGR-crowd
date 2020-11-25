@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<document id="24325915">
+  <sentence id="24325915.s0" text="Further, two SNPs independent of previously reported signals in transcription by RNA polymerase II [rs12525163 odds ratio (OR) = 1.15, P = 4.9 × 10(-) (4)] and 19p13.1 (rs1864112 OR = 0.84, P = 1.8 × 10(-) (9)) were associated with TN breast cancer.">
+    <entity charOffset="64-98" id="24325915.s0.e0" ontology_id="GO_0006366" text="transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="242-248" id="24325915.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="24325915.s0.e0" e2="24325915.s0.e1" id="24325915.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="24325915.s1" text="Associations with TN breast cancer were confirmed for 10 loci (LGR6, MDM4, CASP8, 2q35, 2p24.1, TERT-rs10069690, transcription by RNA polymerase II, TOX3, 19p13.1, cholesterol homeostasis), and we identified associations with TN breast cancer for 15 additional breast cancer loci (P &amp;lt; 0.05: PEX14, 2q24.1, 2q31.1, ADAM29, multicellular organism development, negative regulation of transcription by RNA polymerase II, 11q13.1, 11q24.3, 12p13.1, skeletal system development, biological_process, 12q24, BRCA2, RAD51L1-rs2588809, MKL1).">
+    <entity charOffset="28-34" id="24325915.s1.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="113-147" id="24325915.s1.e1" ontology_id="GO_0006366" text="transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="164-187" id="24325915.s1.e2" ontology_id="GO_0042632" text="cholesterol homeostasis" type="GO"/>
+    <entity charOffset="325-359" id="24325915.s1.e3" ontology_id="GO_0007275" text="multicellular organism development" type="GO"/>
+    <entity charOffset="361-418" id="24325915.s1.e4" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="447-474" id="24325915.s1.e5" ontology_id="GO_0001501" text="skeletal system development" type="GO"/>
+    <entity charOffset="476-494" id="24325915.s1.e6" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <pair e1="24325915.s1.e0" e2="24325915.s1.e1" id="24325915.s1.p0" relation="true"/>
+    <pair e1="24325915.s1.e0" e2="24325915.s1.e3" id="24325915.s1.p1" relation="false"/>
+    <pair e1="24325915.s1.e0" e2="24325915.s1.e4" id="24325915.s1.p2" relation="true"/>
+    <pair e1="24325915.s1.e0" e2="24325915.s1.e6" id="24325915.s1.p3" relation="true"/>
+    <pair e1="24325915.s1.e0" e2="24325915.s1.e2" id="24325915.s1.p4" relation="true"/>
+    <pair e1="24325915.s1.e0" e2="24325915.s1.e5" id="24325915.s1.p5" relation="true"/>
+  </sentence>
+  <sentence id="24325915.s2" text="Triple-negative (TN) breast cancer is an aggressive subtype of breast cancer associated with a unique negative regulation of transcription, DNA-templated of epidemiologic and genetic risk factors.">
+    <entity charOffset="28-34" id="24325915.s2.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="102-153" id="24325915.s2.e1" ontology_id="GO_0045892" text="negative regulation of transcription, DNA-templated" type="GO"/>
+  </sentence>
+</document>

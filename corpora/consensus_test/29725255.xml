@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<document id="29725255">
+  <sentence id="29725255.s0" text="&lt;b&gt;Results&lt;/b&gt;: bile acid metabolic process overexpression was significantly associated with advanced tumor status (&lt;i&gt;P&lt;/i&gt;=0.001), advanced positive regulation of cysteine-type endopeptidase activity involved in apoptotic process status (&lt;i&gt;P&lt;/i&gt;=0.036), increased vascular invasion (&lt;i&gt;P&lt;/i&gt;=0.026) and increased perineural invasion (&lt;i&gt;P&lt;/i&gt;=0.004).">
+    <entity charOffset="16-43" id="29725255.s0.e0" ontology_id="GO_0008206" text="bile acid metabolic process" type="GO"/>
+    <entity charOffset="102-107" id="29725255.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="142-231" id="29725255.s0.e2" ontology_id="GO_0043280" text="positive regulation of cysteine-type endopeptidase activity involved in apoptotic process" type="GO"/>
+    <pair e1="29725255.s0.e0" e2="29725255.s0.e1" id="29725255.s0.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<document id="30626716">
+  <sentence id="30626716.s0" text="Here, we report a reduction of histone deacetylase 3 (negative regulation of transcription by RNA polymerase II) protein amounts in eutopic endometrium of infertile women with endometriosis compared to a control group.">
+    <entity charOffset="54-111" id="30626716.s0.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="176-189" id="30626716.s0.e1" ontology_id="HP_0030127" text="endometriosis" type="HP"/>
+    <pair e1="30626716.s0.e0" e2="30626716.s0.e1" id="30626716.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="30626716.s1" text="Reduction of &lt;i&gt;negative regulation of transcription by RNA polymerase II&lt;/i&gt; abrogated decidualization in a primary culture of human endometrial stromal cells (hESCs) similar to that observed in infertile patients with endometriosis.">
+    <entity charOffset="16-73" id="30626716.s1.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="220-233" id="30626716.s1.e1" ontology_id="HP_0030127" text="endometriosis" type="HP"/>
+    <pair e1="30626716.s1.e0" e2="30626716.s1.e1" id="30626716.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="30626716.s2" text="Collectively, we found attenuation of negative regulation of transcription by RNA polymerase II and overexpression of collagen muscle organ development I in the eutopic endometrium of infertile patients with endometriosis.">
+    <entity charOffset="38-95" id="30626716.s2.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="127-151" id="30626716.s2.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="208-221" id="30626716.s2.e2" ontology_id="HP_0030127" text="endometriosis" type="HP"/>
+    <pair e1="30626716.s2.e0" e2="30626716.s2.e2" id="30626716.s2.p0" relation="false"/>
+    <pair e1="30626716.s2.e1" e2="30626716.s2.e2" id="30626716.s2.p1" relation="false"/>
+  </sentence>
+</document>

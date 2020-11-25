@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="26947510">
+  <sentence id="26947510.s0" text="Peroxisome biogenesis disorders (PBD) are a heterogeneous group of disorders due to proteolysis genes mutations, with a broad clinical spectrum comprising severe neonatal disease to mild presentation.">
+    <entity charOffset="44-57" id="26947510.s0.e0" ontology_id="HP_0001425" text="heterogeneous" type="HP"/>
+    <entity charOffset="84-95" id="26947510.s0.e1" ontology_id="GO_0006508" text="proteolysis" type="GO"/>
+    <pair e1="26947510.s0.e0" e2="26947510.s0.e1" id="26947510.s0.p0" relation="false"/>
+  </sentence>
+</document>

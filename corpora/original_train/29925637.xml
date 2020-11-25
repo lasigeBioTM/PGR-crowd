@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29925637">
+  <sentence id="29925637.s0" text="We demonstrated that &lt;i&gt;linc-ADAL&lt;/i&gt; interacts with heterogeneous nuclear ribonucleoprotein U (hnRNPU) and insulin-like growth factor 2 mRNA binding protein 2 (negative regulation of translation) at distinct subcellular locations to regulate adipocyte differentiation and lipogenesis">
+    <entity charOffset="53-66" id="29925637.s0.e0" ontology_id="HP_0001425" text="heterogeneous" type="HP"/>
+    <entity charOffset="161-195" id="29925637.s0.e1" ontology_id="GO_0017148" text="negative regulation of translation" type="GO"/>
+    <pair e1="29925637.s0.e0" e2="29925637.s0.e1" id="29925637.s0.p0" relation="false"/>
+  </sentence>
+</document>

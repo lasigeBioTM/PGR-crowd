@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="30362319">
+  <sentence id="30362319.s0" text="the Partner and localizer of BRCA2 (double-strand break repair via homologous recombination) gene and risk of breast cancer.">
+    <entity charOffset="36-91" id="30362319.s0.e0" ontology_id="GO_0000724" text="double-strand break repair via homologous recombination" type="GO"/>
+    <entity charOffset="117-123" id="30362319.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30362319.s0.e0" e2="30362319.s0.e1" id="30362319.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="30362319.s1" text="the association between SNPs in the double-strand break repair via homologous recombination gene and the susceptibility to breast cancer.">
+    <entity charOffset="36-91" id="30362319.s1.e0" ontology_id="GO_0000724" text="double-strand break repair via homologous recombination" type="GO"/>
+    <entity charOffset="130-136" id="30362319.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30362319.s1.e0" e2="30362319.s1.e1" id="30362319.s1.p0" relation="true"/>
+  </sentence>
+</document>

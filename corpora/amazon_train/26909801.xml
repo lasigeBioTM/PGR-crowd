@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="26909801">
+  <sentence id="26909801.s0" text="Primary ciliary dyskinesia (motile cilium assembly) is a recessively inherited disease that leads to chronic respiratory disorders owing to impaired mucociliary clearance.">
+    <entity charOffset="8-26" id="26909801.s0.e0" ontology_id="HP_0012265" text="ciliary dyskinesia" type="HP"/>
+    <entity charOffset="28-50" id="26909801.s0.e1" ontology_id="GO_0044458" text="motile cilium assembly" type="GO"/>
+  </sentence>
+</document>

@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="22179838">
+  <sentence id="22179838.s0" text="To investigate cell proliferation-associated proteins that might participate in the responses of breast cancer cells to altered levels of SCRIB, we used mass spectrometry and confocal microscopy.">
+    <entity charOffset="15-33" id="22179838.s0.e0" ontology_id="GO_0008283" text="cell proliferation" type="GO"/>
+    <entity charOffset="104-110" id="22179838.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="22179838.s0.e0" e2="22179838.s0.e1" id="22179838.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="22179838.s1" text="Focusing on NOS1AP, we observed that NOS1AP colocalizes with both SCRIB and Wnt signaling pathway, planar cell polarity pathway along cellular protrusions in metastatic breast cancer cells, but does not colocalize with either SCRIB or VANGL1 at cell junctions in normal breast cells.">
+    <entity charOffset="76-127" id="22179838.s1.e0" ontology_id="GO_0060071" text="Wnt signaling pathway, planar cell polarity pathway" type="GO"/>
+    <entity charOffset="176-182" id="22179838.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="22179838.s1.e0" e2="22179838.s1.e1" id="22179838.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="22179838.s2" text="Experimentally, we found that reducing expression of cell proliferation by short-hairpin RNAs (shRNAs) reduces the growth of human breast cancer cells in xenograft assays.">
+    <entity charOffset="53-71" id="22179838.s2.e0" ontology_id="GO_0008283" text="cell proliferation" type="GO"/>
+    <entity charOffset="138-144" id="22179838.s2.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="22179838.s2.e0" e2="22179838.s2.e1" id="22179838.s2.p0" relation="true"/>
+  </sentence>
+</document>

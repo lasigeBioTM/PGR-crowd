@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="29724721">
+  <sentence id="29724721.s0" text="The second most frequently mutated gene, histone methyltransferase &lt;i&gt;regulation of double-strand break repair via homologous recombination&lt;/i&gt;, has known roles in multiple cancers, but has not previously been strongly implicated in osteosarcoma.">
+    <entity charOffset="70-139" id="29724721.s0.e0" ontology_id="GO_0010569" text="regulation of double-strand break repair via homologous recombination" type="GO"/>
+    <entity charOffset="173-179" id="29724721.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="233-245" id="29724721.s0.e2" ontology_id="HP_0002669" text="osteosarcoma" type="HP"/>
+    <pair e1="29724721.s0.e0" e2="29724721.s0.e2" id="29724721.s0.p0" relation="true"/>
+    <pair e1="29724721.s0.e0" e2="29724721.s0.e1" id="29724721.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="29724721.s1" text="This study points to the likely importance of histone modifications in osteosarcoma and highlights the strong genetic similarities between human and dog osteosarcoma, suggesting that canine osteosarcoma may serve as an excellent model for developing treatment strategies in both species.&lt;b&gt;Significance:&lt;/b&gt; Canine osteosarcoma genomics identify regulation of double-strand break repair via homologous recombination as a possible oncogenic driver of osteosarcoma, and findings establish the canine model as a useful comparative model for the corresponding human disease.">
+    <entity charOffset="71-83" id="29724721.s1.e0" ontology_id="HP_0002669" text="osteosarcoma" type="HP"/>
+    <entity charOffset="346-415" id="29724721.s1.e1" ontology_id="GO_0010569" text="regulation of double-strand break repair via homologous recombination" type="GO"/>
+    <pair e1="29724721.s1.e0" e2="29724721.s1.e1" id="29724721.s1.p0" relation="true"/>
+  </sentence>
+</document>

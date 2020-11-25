@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29775614">
+  <sentence id="29775614.s0" text="The correlation between the tumor size and the amount of sister chromatid cohesion secretion could be examined in this study, and showed a significant positive correlation in a tumor size-dependent manner.">
+    <entity charOffset="28-33" id="29775614.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="57-82" id="29775614.s0.e1" ontology_id="GO_0007062" text="sister chromatid cohesion" type="GO"/>
+    <pair e1="29775614.s0.e0" e2="29775614.s0.e1" id="29775614.s0.p0" relation="true"/>
+  </sentence>
+</document>

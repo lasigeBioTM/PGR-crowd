@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<document id="27103084">
+  <sentence id="27103084.s0" text="In a recent study combining autozygome and exome analysis, a homozygous loss of function mutation in camera-type eye morphogenesis (previously named regulation of transcription by RNA polymerase III) was reported in two siblings with isolated bilateral colobomatous microphthalmia from a consanguineous Saudi family.">
+    <entity charOffset="101-130" id="27103084.s0.e0" ontology_id="GO_0048593" text="camera-type eye morphogenesis" type="GO"/>
+    <entity charOffset="149-198" id="27103084.s0.e1" ontology_id="GO_0006359" text="regulation of transcription by RNA polymerase III" type="GO"/>
+    <entity charOffset="243-252" id="27103084.s0.e2" ontology_id="HP_0012832" text="bilateral" type="HP"/>
+    <entity charOffset="266-280" id="27103084.s0.e3" ontology_id="HP_0000568" text="microphthalmia" type="HP"/>
+    <pair e1="27103084.s0.e0" e2="27103084.s0.e2" id="27103084.s0.p0" relation="true"/>
+    <pair e1="27103084.s0.e1" e2="27103084.s0.e3" id="27103084.s0.p1" relation="true"/>
+    <pair e1="27103084.s0.e1" e2="27103084.s0.e2" id="27103084.s0.p2" relation="true"/>
+  </sentence>
+  <sentence id="27103084.s1" text="Herein, we report a third patient (not related to the previously reported family) with bilateral colobomatous microphthalmia and developmental delay in whom genetic studies identified a homozygous camera-type eye morphogenesis splicing mutation c.2968-2A&amp;gt;T (p.Val990Cysfs*13).">
+    <entity charOffset="87-96" id="27103084.s1.e0" ontology_id="HP_0012832" text="bilateral" type="HP"/>
+    <entity charOffset="197-226" id="27103084.s1.e1" ontology_id="GO_0048593" text="camera-type eye morphogenesis" type="GO"/>
+    <pair e1="27103084.s1.e0" e2="27103084.s1.e1" id="27103084.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="27103084.s2" text="This report supports the association of camera-type eye morphogenesis mutations with colobomatous microphthalmia and expands the phenotypic spectrum associated with mutations in this gene.">
+    <entity charOffset="40-69" id="27103084.s2.e0" ontology_id="GO_0048593" text="camera-type eye morphogenesis" type="GO"/>
+    <entity charOffset="98-112" id="27103084.s2.e1" ontology_id="HP_0000568" text="microphthalmia" type="HP"/>
+    <pair e1="27103084.s2.e0" e2="27103084.s2.e1" id="27103084.s2.p0" relation="true"/>
+  </sentence>
+</document>

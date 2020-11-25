@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="22907430">
+  <sentence id="22907430.s0" text="Motif analysis of tumor-specific methylated regions identified enrichment of binding sites for several neural cell negative regulation of apoptotic process-specifying transcription factors including nitric oxide mediated signal transduction, negative regulation of transcription by RNA polymerase II, negative regulation of transcription, DNA-templated and REST.">
+    <entity charOffset="18-23" id="22907430.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="115-155" id="22907430.s0.e1" ontology_id="GO_0043066" text="negative regulation of apoptotic process" type="GO"/>
+    <entity charOffset="199-240" id="22907430.s0.e2" ontology_id="GO_0007263" text="nitric oxide mediated signal transduction" type="GO"/>
+    <entity charOffset="242-299" id="22907430.s0.e3" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="301-352" id="22907430.s0.e4" ontology_id="GO_0045892" text="negative regulation of transcription, DNA-templated" type="GO"/>
+    <pair e1="22907430.s0.e0" e2="22907430.s0.e1" id="22907430.s0.p0" relation="false"/>
+    <pair e1="22907430.s0.e0" e2="22907430.s0.e2" id="22907430.s0.p1" relation="false"/>
+    <pair e1="22907430.s0.e0" e2="22907430.s0.e3" id="22907430.s0.p2" relation="false"/>
+    <pair e1="22907430.s0.e0" e2="22907430.s0.e4" id="22907430.s0.p3" relation="false"/>
+  </sentence>
+</document>

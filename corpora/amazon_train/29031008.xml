@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="29031008">
+  <sentence id="29031008.s0" text="cerebral cortex development gene mutations have been linked recently to autosomal recessive mental retardation 13 (MRT13; MIM#613192) with only eight families reported world-wide.">
+    <entity charOffset="0-27" id="29031008.s0.e0" ontology_id="GO_0021987" text="cerebral cortex development" type="GO"/>
+    <entity charOffset="72-91" id="29031008.s0.e1" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <pair e1="29031008.s0.e0" e2="29031008.s0.e1" id="29031008.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29031008.s1" text="Mutations in cerebral cortex development should be considered in non-syndromic autosomal recessive intellectual disability with severe speech disorder">
+    <entity charOffset="13-40" id="29031008.s1.e0" ontology_id="GO_0021987" text="cerebral cortex development" type="GO"/>
+    <entity charOffset="79-98" id="29031008.s1.e1" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="99-122" id="29031008.s1.e2" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <pair e1="29031008.s1.e0" e2="29031008.s1.e1" id="29031008.s1.p0" relation="true"/>
+    <pair e1="29031008.s1.e0" e2="29031008.s1.e2" id="29031008.s1.p1" relation="true"/>
+  </sentence>
+</document>

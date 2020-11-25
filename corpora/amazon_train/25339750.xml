@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<document id="25339750">
+  <sentence id="25339750.s0" text="To identify other possible transcriptional targets of positive regulation of antibacterial peptide production-1α in neural tissue, we conducted a microarray on neuroblastoma cells overexpressing PGC-1α, mined results for genes with physiological relevance to interneurons, and measured cortical gene and protein expression of these genes in epidermis development with underexpression and overexpression of PGC-1α.">
+    <entity charOffset="54-109" id="25339750.s0.e0" ontology_id="GO_0002803" text="positive regulation of antibacterial peptide production" type="GO"/>
+    <entity charOffset="160-173" id="25339750.s0.e1" ontology_id="HP_0003006" text="neuroblastoma" type="HP"/>
+    <entity charOffset="341-362" id="25339750.s0.e2" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <pair e1="25339750.s0.e0" e2="25339750.s0.e1" id="25339750.s0.p0" relation="true"/>
+  </sentence>
+</document>

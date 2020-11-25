@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<document id="29330474">
+  <sentence id="29330474.s0" text="De novo negative regulation of B cell apoptotic process mutations have been associated with intellectual disability (ID), motor delay, autistic features and a wide spectrum of speech difficulties.">
+    <entity charOffset="8-55" id="29330474.s0.e0" ontology_id="GO_0002903" text="negative regulation of B cell apoptotic process" type="GO"/>
+    <entity charOffset="92-115" id="29330474.s0.e1" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <entity charOffset="122-133" id="29330474.s0.e2" ontology_id="HP_0001270" text="motor delay" type="HP"/>
+    <entity charOffset="176-195" id="29330474.s0.e3" ontology_id="HP_0000750" text="speech difficulties" type="HP"/>
+    <pair e1="29330474.s0.e0" e2="29330474.s0.e1" id="29330474.s0.p0" relation="true"/>
+    <pair e1="29330474.s0.e0" e2="29330474.s0.e2" id="29330474.s0.p1" relation="true"/>
+    <pair e1="29330474.s0.e0" e2="29330474.s0.e3" id="29330474.s0.p2" relation="true"/>
+  </sentence>
+  <sentence id="29330474.s1" text="By whole exome sequencing we identified a de novo splicing mutation in negative regulation of B cell apoptotic process in a patient, initially diagnosed as C syndrome, who suffers from syndromic intellectual disability with trigonocephaly.">
+    <entity charOffset="71-118" id="29330474.s1.e0" ontology_id="GO_0002903" text="negative regulation of B cell apoptotic process" type="GO"/>
+    <entity charOffset="224-238" id="29330474.s1.e1" ontology_id="HP_0000243" text="trigonocephaly" type="HP"/>
+    <pair e1="29330474.s1.e0" e2="29330474.s1.e1" id="29330474.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="29330474.s2" text="The patient reported here shares speech difficulties, intellectual disability and autistic features with other negative regulation of B cell apoptotic process syndrome patients, and thus the diagnosis for this patient should be changed.">
+    <entity charOffset="33-52" id="29330474.s2.e0" ontology_id="HP_0000750" text="speech difficulties" type="HP"/>
+    <entity charOffset="54-77" id="29330474.s2.e1" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <entity charOffset="111-158" id="29330474.s2.e2" ontology_id="GO_0002903" text="negative regulation of B cell apoptotic process" type="GO"/>
+    <pair e1="29330474.s2.e0" e2="29330474.s2.e2" id="29330474.s2.p0" relation="true"/>
+    <pair e1="29330474.s2.e1" e2="29330474.s2.e2" id="29330474.s2.p1" relation="true"/>
+  </sentence>
+  <sentence id="29330474.s3" text="Finally, since trigonocephaly has not been previously reported in negative regulation of B cell apoptotic process syndrome, it remains to be proved whether it may be associated with the FOXP1 mutation">
+    <entity charOffset="15-29" id="29330474.s3.e0" ontology_id="HP_0000243" text="trigonocephaly" type="HP"/>
+    <entity charOffset="66-113" id="29330474.s3.e1" ontology_id="GO_0002903" text="negative regulation of B cell apoptotic process" type="GO"/>
+    <pair e1="29330474.s3.e0" e2="29330474.s3.e1" id="29330474.s3.p0" relation="true"/>
+  </sentence>
+</document>

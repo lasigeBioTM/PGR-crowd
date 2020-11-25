@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<document id="28690234">
+  <sentence id="28690234.s0" text="Epilepsy with mental retardation limited to females (homophilic cell adhesion via plasma membrane adhesion molecules) is a syndrome characterized by early onset heat-sensitive epilepsy of infancy or early childhood and generally limited to females, which previously reported that the integrin-mediated signaling pathway gene superfamily subtype protocadherin 19 (PCDH19) gene is its pathogenic gene.">
+    <entity charOffset="53-116" id="28690234.s0.e0" ontology_id="GO_0007156" text="homophilic cell adhesion via plasma membrane adhesion molecules" type="GO"/>
+    <entity charOffset="176-184" id="28690234.s0.e1" ontology_id="HP_0001250" text="epilepsy" type="HP"/>
+    <entity charOffset="284-319" id="28690234.s0.e2" ontology_id="GO_0007229" text="integrin-mediated signaling pathway" type="GO"/>
+    <pair e1="28690234.s0.e0" e2="28690234.s0.e1" id="28690234.s0.p0" relation="true"/>
+    <pair e1="28690234.s0.e1" e2="28690234.s0.e2" id="28690234.s0.p1" relation="false"/>
+  </sentence>
+  <sentence id="28690234.s1" text="Cognitive impairment or autism-like performance were often identified in these patients, hematuria metabolic diseases screening was normal, no abnormal MRI imaging of the head, and de novo homophilic cell adhesion via plasma membrane adhesion molecules gene mutations were found in their epilepsy gene protein polyubiquitination sequencing.">
+    <entity charOffset="24-30" id="28690234.s1.e0" ontology_id="HP_0000717" text="autism" type="HP"/>
+    <entity charOffset="189-252" id="28690234.s1.e1" ontology_id="GO_0007156" text="homophilic cell adhesion via plasma membrane adhesion molecules" type="GO"/>
+    <entity charOffset="302-328" id="28690234.s1.e2" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <pair e1="28690234.s1.e0" e2="28690234.s1.e1" id="28690234.s1.p0" relation="false"/>
+    <pair e1="28690234.s1.e0" e2="28690234.s1.e2" id="28690234.s1.p1" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28646536">
+  <sentence id="28646536.s0" text="Cystinuria is a heterogeneous, rare but important cause of inherited kidney stone disease due to mutations in 2 genes: cellular amino acid metabolic process and SLC7A9.">
+    <entity charOffset="16-29" id="28646536.s0.e0" ontology_id="HP_0001425" text="heterogeneous" type="HP"/>
+    <entity charOffset="119-156" id="28646536.s0.e1" ontology_id="GO_0006520" text="cellular amino acid metabolic process" type="GO"/>
+    <pair e1="28646536.s0.e0" e2="28646536.s0.e1" id="28646536.s0.p0" relation="true"/>
+  </sentence>
+</document>

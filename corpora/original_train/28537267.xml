@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<document id="28537267">
+  <sentence id="28537267.s0" text="In addition to replicating previously reported loci, we identify five novel loci significantly associated with endometriosis risk (P&amp;lt;5 × 10&lt;sup&gt;-8&lt;/sup&gt;), implicating genes involved in multicellular organism development steroid hormone pathways (FN1, CCDC170, transcription by RNA polymerase II, Golgi organization and G protein-coupled receptor signaling pathway).">
+    <entity charOffset="111-124" id="28537267.s0.e0" ontology_id="HP_0030127" text="endometriosis" type="HP"/>
+    <entity charOffset="188-222" id="28537267.s0.e1" ontology_id="GO_0007275" text="multicellular organism development" type="GO"/>
+    <entity charOffset="263-297" id="28537267.s0.e2" ontology_id="GO_0006366" text="transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="299-317" id="28537267.s0.e3" ontology_id="GO_0007030" text="Golgi organization" type="GO"/>
+    <entity charOffset="322-366" id="28537267.s0.e4" ontology_id="GO_0007186" text="G protein-coupled receptor signaling pathway" type="GO"/>
+    <pair e1="28537267.s0.e0" e2="28537267.s0.e1" id="28537267.s0.p0" relation="false"/>
+    <pair e1="28537267.s0.e0" e2="28537267.s0.e2" id="28537267.s0.p1" relation="false"/>
+    <pair e1="28537267.s0.e0" e2="28537267.s0.e3" id="28537267.s0.p2" relation="false"/>
+    <pair e1="28537267.s0.e0" e2="28537267.s0.e4" id="28537267.s0.p3" relation="false"/>
+  </sentence>
+  <sentence id="28537267.s1" text="Conditional analysis identified five secondary association signals, including two at the transcription by RNA polymerase II locus, resulting in 19 independent single nucleotide polymorphisms (SNPs) robustly associated with endometriosis, which together explain up to 5.19% of variance in endometriosis.">
+    <entity charOffset="89-123" id="28537267.s1.e0" ontology_id="GO_0006366" text="transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="223-236" id="28537267.s1.e1" ontology_id="HP_0030127" text="endometriosis" type="HP"/>
+    <pair e1="28537267.s1.e0" e2="28537267.s1.e1" id="28537267.s1.p0" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28232469">
+  <sentence id="28232469.s0" text="Despite the identification of several oncogenic driver mutations leading to constitutive JAK-cholesterol metabolic process activation, the cellular and molecular biology of myeloproliferative neoplasms (MPN) remains incompletely understood.">
+    <entity charOffset="93-122" id="28232469.s0.e0" ontology_id="GO_0008203" text="cholesterol metabolic process" type="GO"/>
+    <entity charOffset="192-201" id="28232469.s0.e1" ontology_id="HP_0002664" text="neoplasms" type="HP"/>
+    <pair e1="28232469.s0.e0" e2="28232469.s0.e1" id="28232469.s0.p0" relation="true"/>
+  </sentence>
+</document>

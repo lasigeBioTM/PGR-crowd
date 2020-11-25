@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="28442722">
+  <sentence id="28442722.s0" text="In order to expand the mutation spectrum of the causative genes in Chinese adult population, we investigated three genes, eye development, negative regulation of cell proliferation and negative regulation of very-low-density lipoprotein particle clearance, in a cohort of 187 independent Chinese patients with high myopia.">
+    <entity charOffset="122-137" id="28442722.s0.e0" ontology_id="GO_0001654" text="eye development" type="GO"/>
+    <entity charOffset="139-180" id="28442722.s0.e1" ontology_id="GO_0008285" text="negative regulation of cell proliferation" type="GO"/>
+    <entity charOffset="185-255" id="28442722.s0.e2" ontology_id="GO_0010916" text="negative regulation of very-low-density lipoprotein particle clearance" type="GO"/>
+    <entity charOffset="315-321" id="28442722.s0.e3" ontology_id="HP_0000545" text="myopia" type="HP"/>
+    <pair e1="28442722.s0.e0" e2="28442722.s0.e3" id="28442722.s0.p0" relation="true"/>
+    <pair e1="28442722.s0.e1" e2="28442722.s0.e3" id="28442722.s0.p1" relation="true"/>
+    <pair e1="28442722.s0.e2" e2="28442722.s0.e3" id="28442722.s0.p2" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<document id="24120487">
+  <sentence id="24120487.s0" text="Walker-Warburg syndrome (nervous system development) is a severe muscular dystrophy with eye and brain malformations.">
+    <entity charOffset="25-51" id="24120487.s0.e0" ontology_id="GO_0007399" text="nervous system development" type="GO"/>
+    <entity charOffset="65-83" id="24120487.s0.e1" ontology_id="HP_0003560" text="muscular dystrophy" type="HP"/>
+    <pair e1="24120487.s0.e0" e2="24120487.s0.e1" id="24120487.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="24120487.s1" text="The disease family of muscular dystrophy-dystroglycanopathy (MDDG) contains a spectrum of severe to mild disorders, designated as MDDG muscle organ development A to C.">
+    <entity charOffset="22-40" id="24120487.s1.e0" ontology_id="HP_0003560" text="muscular dystrophy" type="HP"/>
+    <entity charOffset="135-159" id="24120487.s1.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <pair e1="24120487.s1.e0" e2="24120487.s1.e1" id="24120487.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="24120487.s2" text="Mutations in protein O-linked mannosylation, POMT2, protein O-linked glycosylation, protein O-linked glycosylation, FKRP, LARGE, GMPPB, TMEM5 and branching involved in blood vessel morphogenesis and ISPD lead to a wide spectrum of phenotypes of congenital muscular dystrophies with or without eye and brain abnormalities.">
+    <entity charOffset="13-43" id="24120487.s2.e0" ontology_id="GO_0035269" text="protein O-linked mannosylation" type="GO"/>
+    <entity charOffset="52-82" id="24120487.s2.e1" ontology_id="GO_0006493" text="protein O-linked glycosylation" type="GO"/>
+    <entity charOffset="84-114" id="24120487.s2.e2" ontology_id="GO_0006493" text="protein O-linked glycosylation" type="GO"/>
+    <entity charOffset="146-194" id="24120487.s2.e3" ontology_id="GO_0001569" text="branching involved in blood vessel morphogenesis" type="GO"/>
+    <entity charOffset="256-276" id="24120487.s2.e4" ontology_id="HP_0003560" text="muscular dystrophies" type="HP"/>
+    <pair e1="24120487.s2.e0" e2="24120487.s2.e4" id="24120487.s2.p0" relation="true"/>
+    <pair e1="24120487.s2.e1" e2="24120487.s2.e4" id="24120487.s2.p1" relation="true"/>
+    <pair e1="24120487.s2.e2" e2="24120487.s2.e4" id="24120487.s2.p2" relation="true"/>
+    <pair e1="24120487.s2.e3" e2="24120487.s2.e4" id="24120487.s2.p3" relation="true"/>
+  </sentence>
+  <sentence id="24120487.s3" text="Patients with nervous system development frequently demonstrate a complete lack of psychomotor development, severe eye malformations, cobblestone lissencephaly and a hypoplastic cerebellum and brainstem, seizures, hydrocephalus and poor prognosis.">
+    <entity charOffset="14-40" id="24120487.s3.e0" ontology_id="GO_0007399" text="nervous system development" type="GO"/>
+    <entity charOffset="204-212" id="24120487.s3.e1" ontology_id="HP_0001250" text="seizures" type="HP"/>
+    <entity charOffset="214-227" id="24120487.s3.e2" ontology_id="HP_0000238" text="hydrocephalus" type="HP"/>
+    <pair e1="24120487.s3.e0" e2="24120487.s3.e1" id="24120487.s3.p0" relation="true"/>
+    <pair e1="24120487.s3.e0" e2="24120487.s3.e2" id="24120487.s3.p1" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="28391287">
+  <sentence id="28391287.s0" text="Biallelic pathogenic variant in morphogenesis of a polarized epithelium gene can cause Joubert syndrome-related disorders with oculomotor apraxia characteristics.">
+    <entity charOffset="32-71" id="28391287.s0.e0" ontology_id="GO_0001738" text="morphogenesis of a polarized epithelium" type="GO"/>
+    <entity charOffset="127-145" id="28391287.s0.e1" ontology_id="HP_0000657" text="oculomotor apraxia" type="HP"/>
+    <pair e1="28391287.s0.e0" e2="28391287.s0.e1" id="28391287.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28391287.s1" text="Therefore, we concluded that morphogenesis of a polarized epithelium c.3257A&amp;gt;G and muscle organ development c.914 A&amp;gt;G were potential causal variants in this strabismus pedigree.">
+    <entity charOffset="29-68" id="28391287.s1.e0" ontology_id="GO_0001738" text="morphogenesis of a polarized epithelium" type="GO"/>
+    <entity charOffset="86-110" id="28391287.s1.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="163-173" id="28391287.s1.e2" ontology_id="HP_0000486" text="strabismus" type="HP"/>
+    <pair e1="28391287.s1.e0" e2="28391287.s1.e2" id="28391287.s1.p0" relation="true"/>
+    <pair e1="28391287.s1.e1" e2="28391287.s1.e2" id="28391287.s1.p1" relation="false"/>
+  </sentence>
+</document>

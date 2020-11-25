@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30205301">
+  <sentence id="30205301.s0" text="The studied CVD biomarkers include AXL receptor tyrosine kinase, apolipoproteins, cholesterol, C-reactive protein (CRP), D-dimer, fibrinogen (Fib), glucose, insulin, interleukins, lipoproteins, myoglobin, N-terminal pro-B-type natriuretic peptide (BNP), tumor necrosis factor alpha (TNF-α) and troponins (cell-substrate junction assembly) on electrochemical transduction format.">
+    <entity charOffset="254-259" id="30205301.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="305-337" id="30205301.s0.e1" ontology_id="GO_0007044" text="cell-substrate junction assembly" type="GO"/>
+    <pair e1="30205301.s0.e0" e2="30205301.s0.e1" id="30205301.s0.p0" relation="false"/>
+  </sentence>
+</document>

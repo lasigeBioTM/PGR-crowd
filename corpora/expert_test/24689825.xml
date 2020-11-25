@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="24689825">
+  <sentence id="24689825.s0" text="Few studies have examined the roles of endocardial cushion development and GATA4 in cardiac abnormalities or their association with pulmonary artery histopathology.">
+    <entity charOffset="39-70" id="24689825.s0.e0" ontology_id="GO_0003197" text="endocardial cushion development" type="GO"/>
+    <entity charOffset="84-105" id="24689825.s0.e1" ontology_id="HP_0001627" text="cardiac abnormalities" type="HP"/>
+    <pair e1="24689825.s0.e0" e2="24689825.s0.e1" id="24689825.s0.p0" relation="true"/>
+  </sentence>
+</document>

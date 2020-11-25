@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29945973">
+  <sentence id="29945973.s0" text="Autosomal recessive spastic ataxia of Charlevoix-Saguenay (negative regulation of inclusion body assembly) is a neurodegenerative disease that is caused by mutations in the &lt;i&gt;SACS&lt;/i&gt; gene.">
+    <entity charOffset="28-34" id="29945973.s0.e0" ontology_id="HP_0001251" text="ataxia" type="HP"/>
+    <entity charOffset="59-105" id="29945973.s0.e1" ontology_id="GO_0090084" text="negative regulation of inclusion body assembly" type="GO"/>
+    <pair e1="29945973.s0.e0" e2="29945973.s0.e1" id="29945973.s0.p0" relation="true"/>
+  </sentence>
+</document>

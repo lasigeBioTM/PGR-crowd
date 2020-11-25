@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="28752484">
+  <sentence id="28752484.s0" text="Small series of cases have documented the co-occurrence of ganglioneuroma with a pheochromocytoma (Pheo)/paraganglioma (tricarboxylic acid cycle) component.">
+    <entity charOffset="81-97" id="28752484.s0.e0" ontology_id="HP_0002666" text="pheochromocytoma" type="HP"/>
+    <entity charOffset="105-118" id="28752484.s0.e1" ontology_id="HP_0002668" text="paraganglioma" type="HP"/>
+    <entity charOffset="120-144" id="28752484.s0.e2" ontology_id="GO_0006099" text="tricarboxylic acid cycle" type="GO"/>
+    <pair e1="28752484.s0.e1" e2="28752484.s0.e2" id="28752484.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28752484.s1" text="One patient had a retroperitoneal composite tricarboxylic acid cycle-ganglioneuroma in the setting of neurofibromatosis muscle organ development 1.">
+    <entity charOffset="44-68" id="28752484.s1.e0" ontology_id="GO_0006099" text="tricarboxylic acid cycle" type="GO"/>
+    <entity charOffset="102-119" id="28752484.s1.e1" ontology_id="HP_0001067" text="neurofibromatosis" type="HP"/>
+    <entity charOffset="120-144" id="28752484.s1.e2" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <pair e1="28752484.s1.e0" e2="28752484.s1.e1" id="28752484.s1.p0" relation="true"/>
+  </sentence>
+</document>

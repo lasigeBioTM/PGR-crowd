@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<document id="28505344">
+  <sentence id="28505344.s0" text="Recent GWAS completed for three types of common adult-onset glaucoma have identified novel loci for POAG (primary-open-angle glaucoma) (ABCA1, AFAP1, GMDS, PMM2, epithelial to mesenchymal transition, FNDC3B, G protein-coupled receptor signaling pathway, cell cycle arrest, FOXC1, ATXN2, cell redox homeostasis); PACG (primary angle-closure glaucoma (EPDR1, phosphatidylcholine biosynthetic process, negative regulation of transcription by RNA polymerase II, FERMT2, DPM2-FAM102); and exfoliation syndrome (XFS) glaucoma (CACNA1A).">
+    <entity charOffset="60-68" id="28505344.s0.e0" ontology_id="HP_0000501" text="glaucoma" type="HP"/>
+    <entity charOffset="162-198" id="28505344.s0.e1" ontology_id="GO_0001837" text="epithelial to mesenchymal transition" type="GO"/>
+    <entity charOffset="208-252" id="28505344.s0.e2" ontology_id="GO_0007186" text="G protein-coupled receptor signaling pathway" type="GO"/>
+    <entity charOffset="254-271" id="28505344.s0.e3" ontology_id="GO_0007050" text="cell cycle arrest" type="GO"/>
+    <entity charOffset="287-309" id="28505344.s0.e4" ontology_id="GO_0045454" text="cell redox homeostasis" type="GO"/>
+    <entity charOffset="357-397" id="28505344.s0.e5" ontology_id="GO_0006656" text="phosphatidylcholine biosynthetic process" type="GO"/>
+    <entity charOffset="399-456" id="28505344.s0.e6" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="28505344.s0.e0" e2="28505344.s0.e6" id="28505344.s0.p0" relation="true"/>
+    <pair e1="28505344.s0.e0" e2="28505344.s0.e5" id="28505344.s0.p1" relation="false"/>
+    <pair e1="28505344.s0.e0" e2="28505344.s0.e1" id="28505344.s0.p2" relation="false"/>
+    <pair e1="28505344.s0.e0" e2="28505344.s0.e3" id="28505344.s0.p3" relation="false"/>
+    <pair e1="28505344.s0.e0" e2="28505344.s0.e4" id="28505344.s0.p4" relation="false"/>
+    <pair e1="28505344.s0.e0" e2="28505344.s0.e2" id="28505344.s0.p5" relation="true"/>
+  </sentence>
+  <sentence id="28505344.s1" text="Recent studies have suggested possible therapeutic targets for some patients with early-onset glaucoma based on the molecular and cellular events caused by MYOC, positive regulation of autophagy and TBK1 mutations.">
+    <entity charOffset="94-102" id="28505344.s1.e0" ontology_id="HP_0000501" text="glaucoma" type="HP"/>
+    <entity charOffset="162-194" id="28505344.s1.e1" ontology_id="GO_0010508" text="positive regulation of autophagy" type="GO"/>
+    <pair e1="28505344.s1.e0" e2="28505344.s1.e1" id="28505344.s1.p0" relation="true"/>
+  </sentence>
+</document>

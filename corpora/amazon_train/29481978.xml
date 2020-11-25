@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29481978">
+  <sentence id="29481978.s0" text="Patients carrying homozygous positive regulation of cell proliferation mutations have more frequent fractures while heterozygous carriers of the mutation in WNT1 gene are also found to have early onset osteoporosis.">
+    <entity charOffset="29-70" id="29481978.s0.e0" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <entity charOffset="202-214" id="29481978.s0.e1" ontology_id="HP_0000939" text="osteoporosis" type="HP"/>
+    <pair e1="29481978.s0.e0" e2="29481978.s0.e1" id="29481978.s0.p0" relation="true"/>
+  </sentence>
+</document>

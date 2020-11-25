@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30521857">
+  <sentence id="30521857.s0" text="Biological activities of compounds 3-7 towards human cancer cells, COX-2, leukocyte cell-cell adhesion, and JAK3 were evaluated">
+    <entity charOffset="53-59" id="30521857.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="74-102" id="30521857.s0.e1" ontology_id="GO_0007159" text="leukocyte cell-cell adhesion" type="GO"/>
+    <pair e1="30521857.s0.e0" e2="30521857.s0.e1" id="30521857.s0.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29252925">
+  <sentence id="29252925.s0" text="This includes unaffected women who have completed their family and have RAD51C, strand invasion, or BRIP1 gene mutations; first-degree relatives of women with invasive epithelial ovarian cancer; BRCA mutation-negative women from high-risk breast-and-ovarian cancer or ovarian-cancer-only families.">
+    <entity charOffset="80-95" id="29252925.s0.e0" ontology_id="GO_0042148" text="strand invasion" type="GO"/>
+    <entity charOffset="187-193" id="29252925.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29252925.s0.e0" e2="29252925.s0.e1" id="29252925.s0.p0" relation="false"/>
+  </sentence>
+</document>

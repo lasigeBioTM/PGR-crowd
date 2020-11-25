@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="30700638">
+  <sentence id="30700638.s0" text="Imatinib is a tyrosine kinase inhibitor specific for platelet-derived growth factor receptor and is expected as a treatment option for pulmonary arterial hypertension (L-phenylalanine catabolic process).">
+    <entity charOffset="135-166" id="30700638.s0.e0" ontology_id="HP_0002092" text="pulmonary arterial hypertension" type="HP"/>
+    <entity charOffset="168-201" id="30700638.s0.e1" ontology_id="GO_0006559" text="L-phenylalanine catabolic process" type="GO"/>
+  </sentence>
+</document>

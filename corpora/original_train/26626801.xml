@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<document id="26626801">
+  <sentence id="26626801.s0" text="The 21 genes comprised 8 tumor suppressor candidates (protein phosphorylation, MSH2, phosphatidylinositol 3-kinase signaling, positive regulation of cholesterol efflux, negative regulation of protein phosphorylation, 5-methylcytosine catabolic process, TP53, and TSC1) and 13 oncogene candidates (ALK, BCL9, protein polyubiquitination, signal transduction, FGFR2, FLT3, HNF1A, KIT, regulation of cell growth, positive regulation of cell proliferation, PPP2R1A, peptidyl-tyrosine dephosphorylation, and SF3B1).">
+    <entity charOffset="25-30" id="26626801.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="54-77" id="26626801.s0.e1" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <entity charOffset="85-124" id="26626801.s0.e2" ontology_id="GO_0014065" text="phosphatidylinositol 3-kinase signaling" type="GO"/>
+    <entity charOffset="126-167" id="26626801.s0.e3" ontology_id="GO_0010875" text="positive regulation of cholesterol efflux" type="GO"/>
+    <entity charOffset="169-215" id="26626801.s0.e4" ontology_id="GO_0001933" text="negative regulation of protein phosphorylation" type="GO"/>
+    <entity charOffset="217-251" id="26626801.s0.e5" ontology_id="GO_0006211" text="5-methylcytosine catabolic process" type="GO"/>
+    <entity charOffset="308-334" id="26626801.s0.e6" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="336-355" id="26626801.s0.e7" ontology_id="GO_0007165" text="signal transduction" type="GO"/>
+    <entity charOffset="382-407" id="26626801.s0.e8" ontology_id="GO_0001558" text="regulation of cell growth" type="GO"/>
+    <entity charOffset="409-450" id="26626801.s0.e9" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <entity charOffset="461-496" id="26626801.s0.e10" ontology_id="GO_0035335" text="peptidyl-tyrosine dephosphorylation" type="GO"/>
+    <pair e1="26626801.s0.e0" e2="26626801.s0.e1" id="26626801.s0.p0" relation="true"/>
+    <pair e1="26626801.s0.e0" e2="26626801.s0.e2" id="26626801.s0.p1" relation="true"/>
+    <pair e1="26626801.s0.e0" e2="26626801.s0.e3" id="26626801.s0.p2" relation="true"/>
+    <pair e1="26626801.s0.e0" e2="26626801.s0.e4" id="26626801.s0.p3" relation="true"/>
+    <pair e1="26626801.s0.e0" e2="26626801.s0.e5" id="26626801.s0.p4" relation="true"/>
+    <pair e1="26626801.s0.e0" e2="26626801.s0.e6" id="26626801.s0.p5" relation="true"/>
+    <pair e1="26626801.s0.e0" e2="26626801.s0.e7" id="26626801.s0.p6" relation="true"/>
+    <pair e1="26626801.s0.e0" e2="26626801.s0.e8" id="26626801.s0.p7" relation="false"/>
+    <pair e1="26626801.s0.e0" e2="26626801.s0.e9" id="26626801.s0.p8" relation="true"/>
+    <pair e1="26626801.s0.e0" e2="26626801.s0.e10" id="26626801.s0.p9" relation="true"/>
+  </sentence>
+  <sentence id="26626801.s1" text="We believe that this study will shed new T cell costimulation on fundamental aspects for understanding the molecular pathogenesis of endometrial cancer and may aid in the development of new targeted therapies.">
+    <entity charOffset="41-61" id="26626801.s1.e0" ontology_id="GO_0031295" text="T cell costimulation" type="GO"/>
+    <entity charOffset="145-151" id="26626801.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="26626801.s1.e0" e2="26626801.s1.e1" id="26626801.s1.p0" relation="false"/>
+  </sentence>
+</document>

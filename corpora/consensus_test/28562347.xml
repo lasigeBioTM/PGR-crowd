@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<document id="28562347">
+  <sentence id="28562347.s0" text="Our results demonstrated pairwise epistatic interactions between response to oxidative stress and protein polyubiquitination SNPs that ERCC6 rs1917799-ERCC8 rs158572 combination was associated with decreased risk of chronic atrophic gastritis and increased risk of gastric cancer.">
+    <entity charOffset="65-93" id="28562347.s0.e0" ontology_id="GO_0006979" text="response to oxidative stress" type="GO"/>
+    <entity charOffset="98-124" id="28562347.s0.e1" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="273-279" id="28562347.s0.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28562347.s0.e0" e2="28562347.s0.e2" id="28562347.s0.p0" relation="true"/>
+    <pair e1="28562347.s0.e1" e2="28562347.s0.e2" id="28562347.s0.p1" relation="false"/>
+  </sentence>
+  <sentence id="28562347.s1" text="In conclusion, response to oxidative stress rs1917799, protein polyubiquitination rs158572 and rs158916 demonstrated pairwise epistatic interactions to associate with chronic atrophic gastritis and gastric cancer risk.">
+    <entity charOffset="15-43" id="28562347.s1.e0" ontology_id="GO_0006979" text="response to oxidative stress" type="GO"/>
+    <entity charOffset="55-81" id="28562347.s1.e1" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="206-212" id="28562347.s1.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28562347.s1.e0" e2="28562347.s1.e2" id="28562347.s1.p0" relation="true"/>
+    <pair e1="28562347.s1.e1" e2="28562347.s1.e2" id="28562347.s1.p1" relation="true"/>
+  </sentence>
+  <sentence id="28562347.s2" text="In situ response to oxidative stress and protein polyubiquitination protein expression were detected by immunohistochemistry in 109 chronic superficial gastritis, 109 chronic atrophic gastritis and 109 gastric cancer cases.">
+    <entity charOffset="8-36" id="28562347.s2.e0" ontology_id="GO_0006979" text="response to oxidative stress" type="GO"/>
+    <entity charOffset="41-67" id="28562347.s2.e1" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="210-216" id="28562347.s2.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28562347.s2.e0" e2="28562347.s2.e2" id="28562347.s2.p0" relation="true"/>
+    <pair e1="28562347.s2.e1" e2="28562347.s2.e2" id="28562347.s2.p1" relation="true"/>
+  </sentence>
+  <sentence id="28562347.s3" text="ERCC6 rs1917799 also showed a significant interaction with protein polyubiquitination rs158916 to reduce gastric cancer risk.">
+    <entity charOffset="59-85" id="28562347.s3.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="113-119" id="28562347.s3.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28562347.s3.e0" e2="28562347.s3.e1" id="28562347.s3.p0" relation="true"/>
+  </sentence>
+</document>

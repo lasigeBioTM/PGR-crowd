@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="28318499">
+  <sentence id="28318499.s0" text="Through genetic mapping of disease loci and whole-exome sequencing in four unrelated multiplex families presenting with severe AMC, we identified biallelic loss-of-function mutations in regulation of myelination (leucine-rich glioma-inactivated 4).">
+    <entity charOffset="186-211" id="28318499.s0.e0" ontology_id="GO_0031641" text="regulation of myelination" type="GO"/>
+    <entity charOffset="226-232" id="28318499.s0.e1" ontology_id="HP_0009733" text="glioma" type="HP"/>
+    <pair e1="28318499.s0.e0" e2="28318499.s0.e1" id="28318499.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28318499.s1" text="This is consistent with previous studies reporting arthrogryposis in regulation of myelination-deficient mice due to peripheral hypomyelination.">
+    <entity charOffset="51-65" id="28318499.s1.e0" ontology_id="HP_0002804" text="arthrogryposis" type="HP"/>
+    <entity charOffset="69-94" id="28318499.s1.e1" ontology_id="GO_0031641" text="regulation of myelination" type="GO"/>
+    <pair e1="28318499.s1.e0" e2="28318499.s1.e1" id="28318499.s1.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<document id="29314551">
+  <sentence id="29314551.s0" text="Sheldon-Hall syndrome (activation of innate immune response) is the most common of the distal arthrogryposes (DAs), a group of disorders characterized by congenital non-progressive contractures.">
+    <entity charOffset="23-59" id="29314551.s0.e0" ontology_id="GO_0002218" text="activation of innate immune response" type="GO"/>
+    <entity charOffset="87-93" id="29314551.s0.e1" ontology_id="HP_0012839" text="distal" type="HP"/>
+    <entity charOffset="181-193" id="29314551.s0.e2" ontology_id="HP_0001371" text="contractures" type="HP"/>
+    <pair e1="29314551.s0.e0" e2="29314551.s0.e2" id="29314551.s0.p0" relation="true"/>
+    <pair e1="29314551.s0.e0" e2="29314551.s0.e1" id="29314551.s0.p1" relation="false"/>
+  </sentence>
+  <sentence id="29314551.s1" text="Patients with activation of innate immune response present with contractures of the limbs and a distinctive triangular facies with prominent nasolabial folds.">
+    <entity charOffset="14-50" id="29314551.s1.e0" ontology_id="GO_0002218" text="activation of innate immune response" type="GO"/>
+    <entity charOffset="64-76" id="29314551.s1.e1" ontology_id="HP_0001371" text="contractures" type="HP"/>
+    <entity charOffset="108-125" id="29314551.s1.e2" ontology_id="HP_0000325" text="triangular facies" type="HP"/>
+    <pair e1="29314551.s1.e0" e2="29314551.s1.e1" id="29314551.s1.p0" relation="true"/>
+    <pair e1="29314551.s1.e0" e2="29314551.s1.e2" id="29314551.s1.p1" relation="true"/>
+  </sentence>
+  <sentence id="29314551.s2" text="skeletal muscle contraction plays a pivotal role in fetal muscle development and mutations in this gene are associated with Freeman-Sheldon syndrome, distal arthrogryposis 8 (DA8), and autosomal dominant spondylocarpotarsal synostosis.">
+    <entity charOffset="0-27" id="29314551.s2.e0" ontology_id="GO_0003009" text="skeletal muscle contraction" type="GO"/>
+    <entity charOffset="150-156" id="29314551.s2.e1" ontology_id="HP_0012839" text="distal" type="HP"/>
+    <entity charOffset="157-171" id="29314551.s2.e2" ontology_id="HP_0002804" text="arthrogryposis" type="HP"/>
+    <pair e1="29314551.s2.e0" e2="29314551.s2.e1" id="29314551.s2.p0" relation="false"/>
+    <pair e1="29314551.s2.e0" e2="29314551.s2.e2" id="29314551.s2.p1" relation="true"/>
+  </sentence>
+  <sentence id="29314551.s3" text="We report the case of a boy with a novel pathogenic skeletal muscle contraction mutation, presenting with the classical clinical features of SHS in association with unilateral carpal bone fusion and multiple vertebral fusions.">
+    <entity charOffset="52-79" id="29314551.s3.e0" ontology_id="GO_0003009" text="skeletal muscle contraction" type="GO"/>
+    <entity charOffset="208-225" id="29314551.s3.e1" ontology_id="HP_0002948" text="vertebral fusions" type="HP"/>
+    <pair e1="29314551.s3.e0" e2="29314551.s3.e1" id="29314551.s3.p0" relation="true"/>
+  </sentence>
+</document>

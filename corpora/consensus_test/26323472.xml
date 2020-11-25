@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="26323472">
+  <sentence id="26323472.s0" text="In infants and children, it can lead to serious and permanent cellular protein catabolic process to the central nervous system, which leads to the manifesting mental retardation.">
+    <entity charOffset="62-96" id="26323472.s0.e0" ontology_id="GO_0044257" text="cellular protein catabolic process" type="GO"/>
+    <entity charOffset="104-111" id="26323472.s0.e1" ontology_id="HP_0030645" text="central" type="HP"/>
+  </sentence>
+</document>

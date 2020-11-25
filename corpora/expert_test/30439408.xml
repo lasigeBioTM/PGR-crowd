@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30439408">
+  <sentence id="30439408.s0" text="We found that NTS inhibits monocyte chemotaxis- or cancer cell-mediated osteoclastogenesis via blockade of TRAF6 and NF-κB activation.">
+    <entity charOffset="27-46" id="30439408.s0.e0" ontology_id="GO_0002548" text="monocyte chemotaxis" type="GO"/>
+    <entity charOffset="51-57" id="30439408.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30439408.s0.e0" e2="30439408.s0.e1" id="30439408.s0.p0" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="30139743">
+  <sentence id="30139743.s0" text="Up to 15% of the population have mild to moderate chronic hypomagnesemia, which is associated with muscle organ development 2 diabetes mellitus, hypertension, metabolic syndrome, and chronic kidney disease.">
+    <entity charOffset="99-123" id="30139743.s0.e0" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="145-157" id="30139743.s0.e1" ontology_id="HP_0000822" text="hypertension" type="HP"/>
+  </sentence>
+</document>

@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="28303930">
+  <sentence id="28303930.s0" text="Glioblastoma (GBM) is the most prevalent and lethal muscle organ development of primary malignant brain tumour.">
+    <entity charOffset="52-76" id="28303930.s0.e0" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="104-110" id="28303930.s0.e1" ontology_id="HP_0002664" text="tumour" type="HP"/>
+  </sentence>
+  <sentence id="28303930.s1" text="We found that protein polyubiquitination-UL112-3p expression was significantly elevated in GBM, and its expression levels were highly associated with glioma size, differentiation, WHO stage and the overall and disease-free survival of patients.">
+    <entity charOffset="14-40" id="28303930.s1.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="150-156" id="28303930.s1.e1" ontology_id="HP_0009733" text="glioma" type="HP"/>
+    <pair e1="28303930.s1.e0" e2="28303930.s1.e1" id="28303930.s1.p0" relation="true"/>
+  </sentence>
+</document>

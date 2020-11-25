@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<document id="29844572">
+  <sentence id="29844572.s0" text="Here we report that positive regulation of DNA-binding transcription factor activity-c transcript is expressed in 3.2% of cases in The Cancer Genome Atlas breast cancer cohort evenly between ER-positive and ER-negative cases.">
+    <entity charOffset="20-84" id="29844572.s0.e0" ontology_id="GO_0051091" text="positive regulation of DNA-binding transcription factor activity" type="GO"/>
+    <entity charOffset="162-168" id="29844572.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29844572.s0.e0" e2="29844572.s0.e1" id="29844572.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29844572.s1" text="Nevertheless, the ratio of positive regulation of DNA-binding transcription factor activity to RANK-c (RANK/RANK-c) is increased in ER-negative breast cancer cell lines compared to ER-positive breast cancer cell lines.">
+    <entity charOffset="27-91" id="29844572.s1.e0" ontology_id="GO_0051091" text="positive regulation of DNA-binding transcription factor activity" type="GO"/>
+    <entity charOffset="151-157" id="29844572.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29844572.s1.e0" e2="29844572.s1.e1" id="29844572.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="29844572.s2" text="The positive regulation of DNA-binding transcription factor activity-c-mediated inhibition of cancer cell aggressiveness and nuclear factor-κB (peripheral nervous system development-κB) activation in breast cancer cells seems to rely on a RANK-c/TNF receptor-associated factor-2 (cellular response to DNA damage stimulus) protein interaction.">
+    <entity charOffset="4-68" id="29844572.s2.e0" ontology_id="GO_0051091" text="positive regulation of DNA-binding transcription factor activity" type="GO"/>
+    <entity charOffset="94-100" id="29844572.s2.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="106-120" id="29844572.s2.e2" ontology_id="HP_0000718" text="aggressiveness" type="HP"/>
+    <entity charOffset="144-181" id="29844572.s2.e3" ontology_id="GO_0007422" text="peripheral nervous system development" type="GO"/>
+    <entity charOffset="280-320" id="29844572.s2.e4" ontology_id="GO_0006974" text="cellular response to DNA damage stimulus" type="GO"/>
+    <pair e1="29844572.s2.e0" e2="29844572.s2.e2" id="29844572.s2.p0" relation="true"/>
+    <pair e1="29844572.s2.e1" e2="29844572.s2.e3" id="29844572.s2.p1" relation="true"/>
+    <pair e1="29844572.s2.e1" e2="29844572.s2.e4" id="29844572.s2.p2" relation="true"/>
+    <pair e1="29844572.s2.e2" e2="29844572.s2.e3" id="29844572.s2.p3" relation="true"/>
+  </sentence>
+  <sentence id="29844572.s3" text="Additional protein interaction characterization revealed epidermal growth factor receptor (positive regulation of protein phosphorylation) as a novel interacting partner for positive regulation of DNA-binding transcription factor activity-c in breast cancer cells with a negative effect on EGFR phosphorylation and EGF-dependent downstream signaling pathway activation.">
+    <entity charOffset="91-137" id="29844572.s3.e0" ontology_id="GO_0001934" text="positive regulation of protein phosphorylation" type="GO"/>
+    <entity charOffset="174-238" id="29844572.s3.e1" ontology_id="GO_0051091" text="positive regulation of DNA-binding transcription factor activity" type="GO"/>
+    <entity charOffset="251-257" id="29844572.s3.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29844572.s3.e0" e2="29844572.s3.e2" id="29844572.s3.p0" relation="true"/>
+  </sentence>
+  <sentence id="29844572.s4" text="Our findings further elucidate the complex molecular biology of the positive regulation of DNA-binding transcription factor activityL/RANK system in breast cancer and provide preliminary data for RANK-c as a possible marker for disease progression and aggressiveness">
+    <entity charOffset="68-132" id="29844572.s4.e0" ontology_id="GO_0051091" text="positive regulation of DNA-binding transcription factor activity" type="GO"/>
+    <entity charOffset="156-162" id="29844572.s4.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29844572.s4.e0" e2="29844572.s4.e1" id="29844572.s4.p0" relation="true"/>
+  </sentence>
+</document>

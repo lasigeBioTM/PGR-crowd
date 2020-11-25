@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<document id="29600549">
+  <sentence id="29600549.s0" text="Routine gene testing is not necessary to guide treatment for typical forms of paroxysmal kinesigenic dyskinesia (protein phosphorylation), paroxysmal nonkinesigenic dyskinesia (negative regulation of neurotransmitter secretion), and episodic ataxia muscle organ development 1 or 2.">
+    <entity charOffset="113-136" id="29600549.s0.e0" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <entity charOffset="177-226" id="29600549.s0.e1" ontology_id="GO_0046929" text="negative regulation of neurotransmitter secretion" type="GO"/>
+    <entity charOffset="233-241" id="29600549.s0.e2" ontology_id="HP_0025303" text="episodic" type="HP"/>
+    <entity charOffset="242-248" id="29600549.s0.e3" ontology_id="HP_0001251" text="ataxia" type="HP"/>
+    <entity charOffset="249-273" id="29600549.s0.e4" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <pair e1="29600549.s0.e0" e2="29600549.s0.e2" id="29600549.s0.p0" relation="false"/>
+    <pair e1="29600549.s0.e0" e2="29600549.s0.e3" id="29600549.s0.p1" relation="false"/>
+    <pair e1="29600549.s0.e1" e2="29600549.s0.e2" id="29600549.s0.p2" relation="false"/>
+    <pair e1="29600549.s0.e1" e2="29600549.s0.e3" id="29600549.s0.p3" relation="false"/>
+    <pair e1="29600549.s0.e2" e2="29600549.s0.e4" id="29600549.s0.p4" relation="false"/>
+    <pair e1="29600549.s0.e3" e2="29600549.s0.e4" id="29600549.s0.p5" relation="false"/>
+  </sentence>
+  <sentence id="29600549.s1" text="Antiepileptic drugs remain the treatment of choice for protein phosphorylation and episodic ataxia muscle organ development 1, benzodiazepines are often useful for negative regulation of neurotransmitter secretion, and episodic ataxia type 2 benefits from acetazolamide regardless of the genetic etiology">
+    <entity charOffset="55-78" id="29600549.s1.e0" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <entity charOffset="83-91" id="29600549.s1.e1" ontology_id="HP_0025303" text="episodic" type="HP"/>
+    <entity charOffset="92-98" id="29600549.s1.e2" ontology_id="HP_0001251" text="ataxia" type="HP"/>
+    <entity charOffset="99-123" id="29600549.s1.e3" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="164-213" id="29600549.s1.e4" ontology_id="GO_0046929" text="negative regulation of neurotransmitter secretion" type="GO"/>
+    <pair e1="29600549.s1.e0" e2="29600549.s1.e1" id="29600549.s1.p0" relation="false"/>
+    <pair e1="29600549.s1.e0" e2="29600549.s1.e2" id="29600549.s1.p1" relation="false"/>
+    <pair e1="29600549.s1.e1" e2="29600549.s1.e4" id="29600549.s1.p2" relation="false"/>
+    <pair e1="29600549.s1.e1" e2="29600549.s1.e3" id="29600549.s1.p3" relation="false"/>
+    <pair e1="29600549.s1.e2" e2="29600549.s1.e3" id="29600549.s1.p4" relation="false"/>
+  </sentence>
+</document>

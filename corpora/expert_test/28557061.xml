@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28557061">
+  <sentence id="28557061.s0" text="In dogs, myotonia is associated with mutations in muscle contraction.">
+    <entity charOffset="9-17" id="28557061.s0.e0" ontology_id="HP_0002486" text="myotonia" type="HP"/>
+    <entity charOffset="50-68" id="28557061.s0.e1" ontology_id="GO_0006936" text="muscle contraction" type="GO"/>
+    <pair e1="28557061.s0.e0" e2="28557061.s0.e1" id="28557061.s0.p0" relation="true"/>
+  </sentence>
+</document>

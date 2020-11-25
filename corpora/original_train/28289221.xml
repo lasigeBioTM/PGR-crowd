@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="28289221">
+  <sentence id="28289221.s0" text="B1 induced readthrough at all three nonsense codons in cultured cancer cells with &lt;i&gt;TP53&lt;/i&gt; (tumor protein p53) mutations, in cells from patients with nonsense mutations in the &lt;i&gt;TPP1&lt;/i&gt; (tripeptidyl peptidase 1), &lt;i&gt;DMD&lt;/i&gt; (dystrophin), &lt;i&gt;SMARCAL1&lt;/i&gt; (SWI/SNF-related, matrix-associated, actin-dependent regulator of chromatin, subfamily a-like 1), and &lt;i&gt;COL7A1&lt;/i&gt; (collagen muscle organ development VII alpha 1 chain) genes, and in an in vivo tumor xenograft model.">
+    <entity charOffset="64-70" id="28289221.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="95-100" id="28289221.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="385-409" id="28289221.s0.e2" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <pair e1="28289221.s0.e0" e2="28289221.s0.e2" id="28289221.s0.p0" relation="false"/>
+    <pair e1="28289221.s0.e1" e2="28289221.s0.e2" id="28289221.s0.p1" relation="false"/>
+  </sentence>
+</document>

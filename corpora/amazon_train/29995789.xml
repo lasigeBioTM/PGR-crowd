@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="29995789">
+  <sentence id="29995789.s0" text="This case-control study was aimed to evaluate the influence of cytochrome P450 family 17 subfamily A member 1 (steroid metabolic process) gene rs743572 polymorphism for the susceptibility to endometriosis.Polymerase chain reaction-restriction fragment length polymorphism (PCR-RFLP) was used to genotype rs743572 polymorphism in 143 endometriosis patients and 148 healthy controls.">
+    <entity charOffset="111-136" id="29995789.s0.e0" ontology_id="GO_0008202" text="steroid metabolic process" type="GO"/>
+    <entity charOffset="191-204" id="29995789.s0.e1" ontology_id="HP_0030127" text="endometriosis" type="HP"/>
+    <pair e1="29995789.s0.e0" e2="29995789.s0.e1" id="29995789.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29995789.s1" text="But we failed to cellular response to interleukin-4 any obvious association of rs743572 genotypes with endometriosis stages and characteristics.T allele of rs743572 polymorphism might act as a risk factor for endometriosis, although it had no effects on the disease stages and basic features">
+    <entity charOffset="17-51" id="29995789.s1.e0" ontology_id="GO_0071353" text="cellular response to interleukin-4" type="GO"/>
+    <entity charOffset="103-116" id="29995789.s1.e1" ontology_id="HP_0030127" text="endometriosis" type="HP"/>
+  </sentence>
+</document>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="25198130">
+  <sentence id="25198130.s0" text="Here we used an integrative strategy to examine the hypothesis that genetic variants at FOXA1/2 binding elements may be associated with multicellular organism developmentual dimorphism of hepatocellular carcinoma (phosphatidylinositol phosphorylation) risk.">
+    <entity charOffset="136-170" id="25198130.s0.e0" ontology_id="GO_0007275" text="multicellular organism development" type="GO"/>
+    <entity charOffset="188-212" id="25198130.s0.e1" ontology_id="HP_0001402" text="hepatocellular carcinoma" type="HP"/>
+    <entity charOffset="214-250" id="25198130.s0.e2" ontology_id="GO_0046854" text="phosphatidylinositol phosphorylation" type="GO"/>
+  </sentence>
+  <sentence id="25198130.s1" text="Moreover, results from our real-time quantitative polymerase chain reaction (qPCR) using 72 normal liver tissues adjacent to the tumors showed that glucocorticoid metabolic process expression was significantly different among different genotypes of this variant (GG versus CC: P = 0.032; Group test: P = 0.060).">
+    <entity charOffset="129-135" id="25198130.s1.e0" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <entity charOffset="148-180" id="25198130.s1.e1" ontology_id="GO_0008211" text="glucocorticoid metabolic process" type="GO"/>
+    <pair e1="25198130.s1.e0" e2="25198130.s1.e1" id="25198130.s1.p0" relation="true"/>
+  </sentence>
+</document>

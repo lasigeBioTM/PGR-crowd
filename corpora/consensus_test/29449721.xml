@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="29449721">
+  <sentence id="29449721.s0" text="Pathogenic variant in COCH are a known cause of regulation of cell shape autosomal dominant progressive hearing loss and vestibular dysfunction with adult onset.">
+    <entity charOffset="48-72" id="29449721.s0.e0" ontology_id="GO_0008360" text="regulation of cell shape" type="GO"/>
+    <entity charOffset="104-116" id="29449721.s0.e1" ontology_id="HP_0000365" text="hearing loss" type="HP"/>
+    <pair e1="29449721.s0.e0" e2="29449721.s0.e1" id="29449721.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="29449721.s1" text="An earlier onset of hearing impairment and vestibular dysfunction compared to the dominant hearing loss causing regulation of cell shape variants is observed">
+    <entity charOffset="43-65" id="29449721.s1.e0" ontology_id="HP_0001751" text="vestibular dysfunction" type="HP"/>
+    <entity charOffset="112-136" id="29449721.s1.e1" ontology_id="GO_0008360" text="regulation of cell shape" type="GO"/>
+    <pair e1="29449721.s1.e0" e2="29449721.s1.e1" id="29449721.s1.p0" relation="true"/>
+  </sentence>
+</document>

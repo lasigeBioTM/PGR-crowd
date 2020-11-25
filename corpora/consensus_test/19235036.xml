@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<document id="19235036">
+  <sentence id="19235036.s0" text="We evaluated the association between dietary and supplenegative regulation of phosphatase activitytal zinc and prostate cancer within the VITamins And Lifestyle (VITAL) cohort, a study specifically designed to evaluate the impact of dietary supplements and cancer risk.">
+    <entity charOffset="55-98" id="19235036.s0.e0" ontology_id="GO_0010923" text="negative regulation of phosphatase activity" type="GO"/>
+    <entity charOffset="120-126" id="19235036.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+  </sentence>
+  <sentence id="19235036.s1" text="Ten-year average intake of supplenegative regulation of phosphatase activitytal zinc was not associated with a reduced prostate cancer risk overall (adjusted hazard ratio (HR) = 0.82 (95% confidence interval (CI) 0.58-1.14) for &amp;gt;15 mg/day vs. nonuse, P for trend = 0.44); however, risk of advanced prostate cancer (regionally invasive or distant metastatic, n = 123) decreased with greater intake of supplemental zinc (adjusted HR = 0.34, 95% CI = 0.13-1.09 for 10-yr average intake &amp;gt; 15 mg/day vs. nonuse, P for trend = 0.04).">
+    <entity charOffset="33-76" id="19235036.s1.e0" ontology_id="GO_0010923" text="negative regulation of phosphatase activity" type="GO"/>
+    <entity charOffset="128-134" id="19235036.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+  </sentence>
+</document>

@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="28173120">
+  <sentence id="28173120.s0" text="To better understand the biological role of this factor, we generated Tmem70-deficient epidermis development and found that the homozygous Tmem70-/- knockouts exhibited profound growth retardation and embryonic lethality at ∼9.5 days post coitum.">
+    <entity charOffset="87-108" id="28173120.s0.e0" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="169-177" id="28173120.s0.e1" ontology_id="HP_0012829" text="profound" type="HP"/>
+  </sentence>
+</document>

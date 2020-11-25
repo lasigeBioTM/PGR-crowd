@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="30327925">
+  <sentence id="30327925.s0" text="Renal manifestations of multiple myeloma (MM) including transcription initiation from RNA polymerase I promoter nephropathy, amyloidosis, and renal calcification have been widely recognized.">
+    <entity charOffset="24-40" id="30327925.s0.e0" ontology_id="HP_0006775" text="multiple myeloma" type="HP"/>
+    <entity charOffset="56-111" id="30327925.s0.e1" ontology_id="GO_0006361" text="transcription initiation from RNA polymerase I promoter" type="GO"/>
+  </sentence>
+</document>

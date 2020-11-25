@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<document id="29957841">
+  <sentence id="29957841.s0" text="Our previous studies reported gastric cancer cells are insensitive to positive regulation of apoptotic process.">
+    <entity charOffset="38-44" id="29957841.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="70-110" id="29957841.s0.e1" ontology_id="GO_0043065" text="positive regulation of apoptotic process" type="GO"/>
+    <pair e1="29957841.s0.e0" e2="29957841.s0.e1" id="29957841.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="29957841.s1" text="However, whether β-elemene could enhance anti-cancer effects of positive regulation of apoptotic process on gastric cancer cells is unknown.">
+    <entity charOffset="46-52" id="29957841.s1.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="64-104" id="29957841.s1.e1" ontology_id="GO_0043065" text="positive regulation of apoptotic process" type="GO"/>
+    <pair e1="29957841.s1.e0" e2="29957841.s1.e1" id="29957841.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="29957841.s2" text="In our present study, β-elemene prevented gastric cancer cell viability in dose-dependent manner, and when combined with positive regulation of apoptotic process, obviously inhibited proliferation and promoted apoptosis in gastric cancer cells.">
+    <entity charOffset="50-56" id="29957841.s2.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="121-161" id="29957841.s2.e1" ontology_id="GO_0043065" text="positive regulation of apoptotic process" type="GO"/>
+    <pair e1="29957841.s2.e0" e2="29957841.s2.e1" id="29957841.s2.p0" relation="false"/>
+  </sentence>
+  <sentence id="29957841.s3" text="Our results suggest that β-elemene increases the sensitivity of gastric cancer cells to positive regulation of apoptotic process partially by promoting the formation of DISC in lipid rafts">
+    <entity charOffset="72-78" id="29957841.s3.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="88-128" id="29957841.s3.e1" ontology_id="GO_0043065" text="positive regulation of apoptotic process" type="GO"/>
+    <pair e1="29957841.s3.e0" e2="29957841.s3.e1" id="29957841.s3.p0" relation="false"/>
+  </sentence>
+</document>

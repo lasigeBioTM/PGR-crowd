@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="30504766">
+  <sentence id="30504766.s0" text="Pharmacological manipulation of peripheral CB1 signaling regulates hyperphagia in an adipocyte regulation of glycolytic process-dependent manner.">
+    <entity charOffset="67-78" id="30504766.s0.e0" ontology_id="HP_0002591" text="hyperphagia" type="HP"/>
+    <entity charOffset="95-127" id="30504766.s0.e1" ontology_id="GO_0006110" text="regulation of glycolytic process" type="GO"/>
+    <pair e1="30504766.s0.e0" e2="30504766.s0.e1" id="30504766.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="30504766.s1" text="Here we show that adipocyte OGT is essential for high positive regulation of cell-matrix adhesion diet-induced hyperphagia, but is dispensable for baseline food intake.">
+    <entity charOffset="54-97" id="30504766.s1.e0" ontology_id="GO_0001954" text="positive regulation of cell-matrix adhesion" type="GO"/>
+    <entity charOffset="111-122" id="30504766.s1.e1" ontology_id="HP_0002591" text="hyperphagia" type="HP"/>
+  </sentence>
+</document>

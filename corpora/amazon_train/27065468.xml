@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="27065468">
+  <sentence id="27065468.s0" text="The resulting loss of cellular respiration ultimately induces mitochondrial genetic diseases, including mtDNA depletion syndromes (microtubule-based process) such as Alpers or early infantile hepatocerebral syndromes, and mtDNA deletion disorders such as progressive external ophthalmoplegia, ataxia-neuropathy, or mitochondrial neurogastrointestinal encephalomyopathy.">
+    <entity charOffset="62-75" id="27065468.s0.e0" ontology_id="HP_0001427" text="mitochondrial" type="HP"/>
+    <entity charOffset="131-156" id="27065468.s0.e1" ontology_id="GO_0007017" text="microtubule-based process" type="GO"/>
+    <entity charOffset="255-266" id="27065468.s0.e2" ontology_id="HP_0003676" text="progressive" type="HP"/>
+    <entity charOffset="276-291" id="27065468.s0.e3" ontology_id="HP_0000602" text="ophthalmoplegia" type="HP"/>
+    <entity charOffset="293-299" id="27065468.s0.e4" ontology_id="HP_0001251" text="ataxia" type="HP"/>
+    <entity charOffset="300-310" id="27065468.s0.e5" ontology_id="HP_0009830" text="neuropathy" type="HP"/>
+    <pair e1="27065468.s0.e0" e2="27065468.s0.e1" id="27065468.s0.p0" relation="true"/>
+    <pair e1="27065468.s0.e1" e2="27065468.s0.e3" id="27065468.s0.p1" relation="true"/>
+    <pair e1="27065468.s0.e1" e2="27065468.s0.e5" id="27065468.s0.p2" relation="true"/>
+  </sentence>
+</document>

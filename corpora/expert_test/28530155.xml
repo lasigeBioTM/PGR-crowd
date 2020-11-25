@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="28530155">
+  <sentence id="28530155.s0" text="Compared to normal tissues, decorin expression was reduced in CRC patients' tumors, while there were increased endothelial cell morphogenesis and VEGFA levels.">
+    <entity charOffset="76-82" id="28530155.s0.e0" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <entity charOffset="111-141" id="28530155.s0.e1" ontology_id="GO_0001886" text="endothelial cell morphogenesis" type="GO"/>
+    <pair e1="28530155.s0.e0" e2="28530155.s0.e1" id="28530155.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28530155.s1" text="Several therapeutic strategies expressing positive regulation of cell proliferation have been employed in clinical trials for treating metastatic colorectal cancer.">
+    <entity charOffset="42-83" id="28530155.s1.e0" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <entity charOffset="157-163" id="28530155.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28530155.s1.e0" e2="28530155.s1.e1" id="28530155.s1.p0" relation="true"/>
+  </sentence>
+</document>

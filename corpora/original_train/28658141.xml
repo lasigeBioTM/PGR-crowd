@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="28658141">
+  <sentence id="28658141.s0" text="In our study, we aim to investigate whether variants of magnesium ion homeostasis, potassium ion transmembrane transport, and KCNV2 genes influence susceptibility to genetic generalized epilepsies (GGEs) and the efficacy of AEDs.">
+    <entity charOffset="56-81" id="28658141.s0.e0" ontology_id="GO_0010960" text="magnesium ion homeostasis" type="GO"/>
+    <entity charOffset="83-120" id="28658141.s0.e1" ontology_id="GO_0071805" text="potassium ion transmembrane transport" type="GO"/>
+    <entity charOffset="186-196" id="28658141.s0.e2" ontology_id="HP_0001250" text="epilepsies" type="HP"/>
+    <pair e1="28658141.s0.e0" e2="28658141.s0.e2" id="28658141.s0.p0" relation="true"/>
+    <pair e1="28658141.s0.e1" e2="28658141.s0.e2" id="28658141.s0.p1" relation="true"/>
+  </sentence>
+</document>

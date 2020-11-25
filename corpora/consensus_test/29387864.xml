@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29387864">
+  <sentence id="29387864.s0" text="RNA sequencing transcriptome analysis revealed that inflammatory mediators such as tumor necrosis factor (negative regulation of transcription by RNA polymerase II)-α suppressed expression of R-spondin-1 (Rspo1, a critical growth factor for intestinal epithelial cells) in Sirt6-silenced YAMC cells &lt;i&gt;in vitro&lt;/i&gt;.">
+    <entity charOffset="83-88" id="29387864.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="106-163" id="29387864.s0.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="29387864.s0.e0" e2="29387864.s0.e1" id="29387864.s0.p0" relation="false"/>
+  </sentence>
+</document>

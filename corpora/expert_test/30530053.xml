@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30530053">
+  <sentence id="30530053.s0" text="Next, we show that biological_process functions as a tumor suppressor in GBM.">
+    <entity charOffset="19-37" id="30530053.s0.e0" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="53-58" id="30530053.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="30530053.s0.e0" e2="30530053.s0.e1" id="30530053.s0.p0" relation="true"/>
+  </sentence>
+</document>

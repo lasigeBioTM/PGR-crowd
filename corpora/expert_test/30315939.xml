@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30315939">
+  <sentence id="30315939.s0" text="In this study, we aimed to clarify the phenotypic spectrum of branching involved in blood vessel morphogenesis/A2 mutations in the context of cortical malformations that include schizencephaly, polymicrogyria and/or heterotopia">
+    <entity charOffset="62-110" id="30315939.s0.e0" ontology_id="GO_0001569" text="branching involved in blood vessel morphogenesis" type="GO"/>
+    <entity charOffset="178-192" id="30315939.s0.e1" ontology_id="HP_0010636" text="schizencephaly" type="HP"/>
+    <pair e1="30315939.s0.e0" e2="30315939.s0.e1" id="30315939.s0.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29157486">
+  <sentence id="29157486.s0" text="The genetic diagnosis is difficult owing to the large genetic heterogeneity of the 6p21.3 region, which contains the steroid biosynthetic process gene, especially with respect to the use of new-generation techniques of sequencing.">
+    <entity charOffset="62-75" id="29157486.s0.e0" ontology_id="HP_0001425" text="heterogeneity" type="HP"/>
+    <entity charOffset="117-145" id="29157486.s0.e1" ontology_id="GO_0006694" text="steroid biosynthetic process" type="GO"/>
+    <pair e1="29157486.s0.e0" e2="29157486.s0.e1" id="29157486.s0.p0" relation="true"/>
+  </sentence>
+</document>

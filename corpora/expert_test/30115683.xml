@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30115683">
+  <sentence id="30115683.s0" text="Both carbohydrate metabolic process65 isomerase of the visual cycle and the rhodopsin visual pigment have recently been identified as critical players in mediating light-induced retinal degeneration.">
+    <entity charOffset="5-35" id="30115683.s0.e0" ontology_id="GO_0005975" text="carbohydrate metabolic process" type="GO"/>
+    <entity charOffset="178-198" id="30115683.s0.e1" ontology_id="HP_0000546" text="retinal degeneration" type="HP"/>
+    <pair e1="30115683.s0.e0" e2="30115683.s0.e1" id="30115683.s0.p0" relation="true"/>
+  </sentence>
+</document>

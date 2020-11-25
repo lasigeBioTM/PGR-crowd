@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="26357016">
+  <sentence id="26357016.s0" text="A GARP complex mutation analogous to a VPS53 allele causing progressive cerebello-cerebral atrophy muscle organ development 2 (PCCA2) in humans exhibits similar, albeit weaker, phenotypes in yeast, providing mechanistic insights into disease pathogenesis.">
+    <entity charOffset="82-98" id="26357016.s0.e0" ontology_id="HP_0002059" text="cerebral atrophy" type="HP"/>
+    <entity charOffset="99-123" id="26357016.s0.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <pair e1="26357016.s0.e0" e2="26357016.s0.e1" id="26357016.s0.p0" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="27928161">
+  <sentence id="27928161.s0" text="Using whole-exome sequencing, we identified a novel de novo missense (c.1132G&amp;gt;C, p.V378L) action potential mutation in a patient with global developmental delay, intellectual disability, severe speech impairment, but no episode of epilepsy until the lastly examined age of 6 years old.">
+    <entity charOffset="93-109" id="27928161.s0.e0" ontology_id="GO_0001508" text="action potential" type="GO"/>
+    <entity charOffset="197-214" id="27928161.s0.e1" ontology_id="HP_0002167" text="speech impairment" type="HP"/>
+    <entity charOffset="234-242" id="27928161.s0.e2" ontology_id="HP_0001250" text="epilepsy" type="HP"/>
+    <pair e1="27928161.s0.e0" e2="27928161.s0.e1" id="27928161.s0.p0" relation="true"/>
+    <pair e1="27928161.s0.e0" e2="27928161.s0.e2" id="27928161.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="27928161.s1" text="action potential mutations are known to cause early-onset infantile epilepsy.">
+    <entity charOffset="0-16" id="27928161.s1.e0" ontology_id="GO_0001508" text="action potential" type="GO"/>
+    <entity charOffset="68-76" id="27928161.s1.e1" ontology_id="HP_0001250" text="epilepsy" type="HP"/>
+    <pair e1="27928161.s1.e0" e2="27928161.s1.e1" id="27928161.s1.p0" relation="true"/>
+  </sentence>
+</document>

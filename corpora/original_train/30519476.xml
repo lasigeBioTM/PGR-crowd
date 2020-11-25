@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30519476">
+  <sentence id="30519476.s0" text="Risdiplam (RG7916; RO7034067) is an orally administered, small-molecule &lt;i&gt;mRNA splicing, via spliceosome2&lt;/i&gt; pre-mRNA splicing modifier that distributes into the central nervous system (CNS) and peripheral tissues.">
+    <entity charOffset="75-105" id="30519476.s0.e0" ontology_id="GO_0000398" text="mRNA splicing, via spliceosome" type="GO"/>
+    <entity charOffset="164-171" id="30519476.s0.e1" ontology_id="HP_0030645" text="central" type="HP"/>
+    <pair e1="30519476.s0.e0" e2="30519476.s0.e1" id="30519476.s0.p0" relation="false"/>
+  </sentence>
+</document>

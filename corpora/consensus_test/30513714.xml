@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30513714">
+  <sentence id="30513714.s0" text="Multiple linear regression analysis revealed that plasma selenium was not associated with cognitive performance, inflammatory markers nor neurotrophic factors, independent of age, multicellular organism development, body cell adhesion mediated by integrin index (BMI), habitual physical activity, &lt;i&gt;APOE&lt;/i&gt; status, education, and history of cardiovascular disease.">
+    <entity charOffset="180-214" id="30513714.s0.e0" ontology_id="GO_0007275" text="multicellular organism development" type="GO"/>
+    <entity charOffset="221-255" id="30513714.s0.e1" ontology_id="GO_0033627" text="cell adhesion mediated by integrin" type="GO"/>
+    <entity charOffset="343-365" id="30513714.s0.e2" ontology_id="HP_0001626" text="cardiovascular disease" type="HP"/>
+  </sentence>
+</document>

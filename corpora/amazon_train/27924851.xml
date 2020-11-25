@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="27924851">
+  <sentence id="27924851.s0" text="blood vessel development mutations have been found to be responsible for Tricho-Dento-Osseous (TDO) syndrome, characterized by kinky hair, thin-pitted enamel and increased bone density.">
+    <entity charOffset="0-24" id="27924851.s0.e0" ontology_id="GO_0001568" text="blood vessel development" type="GO"/>
+    <entity charOffset="162-184" id="27924851.s0.e1" ontology_id="HP_0011001" text="increased bone density" type="HP"/>
+    <pair e1="27924851.s0.e0" e2="27924851.s0.e1" id="27924851.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="27924851.s1" text="Here we show that the blood vessel development mutation (c.533 A&amp;gt;G; Q178R) attenuates osteogenic potential and senescence of bone mesenchymal stem cells (BMSCs) isolated from a tryptophan catabolic process to kynurenine patient, providing a molecular explanation for abnormal increased bone density.">
+    <entity charOffset="22-46" id="27924851.s1.e0" ontology_id="GO_0001568" text="blood vessel development" type="GO"/>
+    <entity charOffset="180-222" id="27924851.s1.e1" ontology_id="GO_0019441" text="tryptophan catabolic process to kynurenine" type="GO"/>
+    <entity charOffset="279-301" id="27924851.s1.e2" ontology_id="HP_0011001" text="increased bone density" type="HP"/>
+    <pair e1="27924851.s1.e0" e2="27924851.s1.e2" id="27924851.s1.p0" relation="true"/>
+  </sentence>
+</document>

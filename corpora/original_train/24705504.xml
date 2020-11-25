@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="24705504">
+  <sentence id="24705504.s0" text="Friedreich ataxia (FRDA) is the most frequent progressive autosomal recessive disorder associated with unstable expansion of glycogen catabolic process trinucleotide repeats in the first intron of the regulation of ferrochelatase activity gene, which encodes for the mitochondrial frataxin protein.">
+    <entity charOffset="11-17" id="24705504.s0.e0" ontology_id="HP_0001251" text="ataxia" type="HP"/>
+    <entity charOffset="125-151" id="24705504.s0.e1" ontology_id="GO_0005980" text="glycogen catabolic process" type="GO"/>
+    <entity charOffset="201-238" id="24705504.s0.e2" ontology_id="GO_0010722" text="regulation of ferrochelatase activity" type="GO"/>
+    <pair e1="24705504.s0.e0" e2="24705504.s0.e1" id="24705504.s0.p0" relation="false"/>
+    <pair e1="24705504.s0.e0" e2="24705504.s0.e2" id="24705504.s0.p1" relation="true"/>
+  </sentence>
+</document>

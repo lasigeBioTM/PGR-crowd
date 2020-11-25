@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="24655110">
+  <sentence id="24655110.s0" text="GRACILE syndrome is a rare autosomal recessive disease characterized by fetal growth retardation, Fanconi muscle organ development aminoaciduria, cholestasis, iron overload, profound lactic acidosis, and early death.">
+    <entity charOffset="27-46" id="24655110.s0.e0" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="106-130" id="24655110.s0.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="183-198" id="24655110.s0.e2" ontology_id="HP_0003128" text="lactic acidosis" type="HP"/>
+  </sentence>
+  <sentence id="24655110.s1" text="Mitochondrial disorders are an extremely heterogeneous group of diseases sharing, in common, the nucleosome disassembly that they all ultimately impair the function of the mitochondrial respiratory chain.">
+    <entity charOffset="41-54" id="24655110.s1.e0" ontology_id="HP_0001425" text="heterogeneous" type="HP"/>
+    <entity charOffset="97-119" id="24655110.s1.e1" ontology_id="GO_0006337" text="nucleosome disassembly" type="GO"/>
+  </sentence>
+</document>

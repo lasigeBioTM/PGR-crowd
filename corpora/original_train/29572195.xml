@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<document id="29572195">
+  <sentence id="29572195.s0" text="Biallelic ion transmembrane transport mutations cause infantile hypotonia with psychomotor retardation and characteristic facies 2 (IHPRF2), which is characterized by hypotonia, developmental delay (DD)/intellectual disability (ID), intrauterine growth retardation, postnatal growth retardation and characteristic facial features.">
+    <entity charOffset="10-37" id="29572195.s0.e0" ontology_id="GO_0034220" text="ion transmembrane transport" type="GO"/>
+    <entity charOffset="178-197" id="29572195.s0.e1" ontology_id="HP_0001263" text="developmental delay" type="HP"/>
+    <pair e1="29572195.s0.e0" e2="29572195.s0.e1" id="29572195.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29572195.s1" text="Furthermore, we herein summarize the genotypes and phenotypes of patients with ion transmembrane transport mutations reported in the literature, revealing that IHPRF2 is a phenotypically heterogeneous disease.">
+    <entity charOffset="79-106" id="29572195.s1.e0" ontology_id="GO_0034220" text="ion transmembrane transport" type="GO"/>
+    <entity charOffset="187-200" id="29572195.s1.e1" ontology_id="HP_0001425" text="heterogeneous" type="HP"/>
+    <pair e1="29572195.s1.e0" e2="29572195.s1.e1" id="29572195.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="29572195.s2" text="Common facial dysmorphisms include a thin upper nuclear-transcribed mRNA catabolic process, nonsense-mediated decay, a tented upper lip, a triangular face, strabismus and microcephaly.">
+    <entity charOffset="48-115" id="29572195.s2.e0" ontology_id="GO_0000184" text="nuclear-transcribed mRNA catabolic process, nonsense-mediated decay" type="GO"/>
+    <entity charOffset="139-154" id="29572195.s2.e1" ontology_id="HP_0000325" text="triangular face" type="HP"/>
+    <entity charOffset="171-183" id="29572195.s2.e2" ontology_id="HP_0000252" text="microcephaly" type="HP"/>
+    <pair e1="29572195.s2.e0" e2="29572195.s2.e1" id="29572195.s2.p0" relation="false"/>
+    <pair e1="29572195.s2.e0" e2="29572195.s2.e2" id="29572195.s2.p1" relation="false"/>
+  </sentence>
+</document>

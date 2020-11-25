@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="28942965">
+  <sentence id="28942965.s0" text="negative regulation of transcription by RNA polymerase II deficiency represents an important mitochondrial disorder associated with a clinical spectrum ranging from infantile lactic acidosis to childhood (cardio)myopathy and late-onset progressive external ophthalmoplegia">
+    <entity charOffset="0-57" id="28942965.s0.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="212-220" id="28942965.s0.e1" ontology_id="HP_0003198" text="myopathy" type="HP"/>
+    <entity charOffset="236-247" id="28942965.s0.e2" ontology_id="HP_0003676" text="progressive" type="HP"/>
+    <pair e1="28942965.s0.e0" e2="28942965.s0.e1" id="28942965.s0.p0" relation="true"/>
+    <pair e1="28942965.s0.e0" e2="28942965.s0.e2" id="28942965.s0.p1" relation="false"/>
+  </sentence>
+</document>

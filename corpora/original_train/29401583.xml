@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<document id="29401583">
+  <sentence id="29401583.s0" text="The oncogenic potential of circadian rhythm in terms of prognosis and cancer metastasis in arginine prototrophic gastric cancer (GC) remains unclear at present.">
+    <entity charOffset="27-43" id="29401583.s0.e0" ontology_id="GO_0007623" text="circadian rhythm" type="GO"/>
+    <entity charOffset="70-76" id="29401583.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29401583.s0.e0" e2="29401583.s0.e1" id="29401583.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="29401583.s1" text="circadian rhythm was highly expressed in GC and positively correlated with GC aggressiveness and poor outcome.">
+    <entity charOffset="0-16" id="29401583.s1.e0" ontology_id="GO_0007623" text="circadian rhythm" type="GO"/>
+    <entity charOffset="78-92" id="29401583.s1.e1" ontology_id="HP_0000718" text="aggressiveness" type="HP"/>
+    <pair e1="29401583.s1.e0" e2="29401583.s1.e1" id="29401583.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="29401583.s2" text="Depletion of circadian rhythm led to inhibition of tumor growth and decreased cell invasion via induction of autophagy-lysosome machinery, resulting in degradation of active β-catenin, Snail, and Twist.">
+    <entity charOffset="13-29" id="29401583.s2.e0" ontology_id="GO_0007623" text="circadian rhythm" type="GO"/>
+    <entity charOffset="51-56" id="29401583.s2.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29401583.s2.e0" e2="29401583.s2.e1" id="29401583.s2.p0" relation="false"/>
+  </sentence>
+  <sentence id="29401583.s3" text="Ectopic expression of circadian rhythm in GC cells reversed these effects and protected cancer cells from chemotherapy drug-induced apoptosis via activation of the positive regulation of protein phosphorylation-mammalian target of rapamycin signaling pathway.">
+    <entity charOffset="22-38" id="29401583.s3.e0" ontology_id="GO_0007623" text="circadian rhythm" type="GO"/>
+    <entity charOffset="88-94" id="29401583.s3.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="164-210" id="29401583.s3.e2" ontology_id="GO_0001934" text="positive regulation of protein phosphorylation" type="GO"/>
+    <pair e1="29401583.s3.e0" e2="29401583.s3.e1" id="29401583.s3.p0" relation="false"/>
+    <pair e1="29401583.s3.e1" e2="29401583.s3.e2" id="29401583.s3.p1" relation="true"/>
+  </sentence>
+</document>

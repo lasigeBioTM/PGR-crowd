@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28890319">
+  <sentence id="28890319.s0" text="Using human neuroblastoma SH-SY5Y cells, we found that the neuroprotective function of activation of MAPK activity is blocked by CHRNA7 knockdown using RNA interference.">
+    <entity charOffset="12-25" id="28890319.s0.e0" ontology_id="HP_0003006" text="neuroblastoma" type="HP"/>
+    <entity charOffset="87-114" id="28890319.s0.e1" ontology_id="GO_0000187" text="activation of MAPK activity" type="GO"/>
+    <pair e1="28890319.s0.e0" e2="28890319.s0.e1" id="28890319.s0.p0" relation="true"/>
+  </sentence>
+</document>

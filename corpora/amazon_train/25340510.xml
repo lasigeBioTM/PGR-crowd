@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<document id="25340510">
+  <sentence id="25340510.s0" text="We recently reported that centrosomal protein 164 (cilium assembly) regulates both cilia and the DNA cellular protein catabolic process response in the autosomal recessive polycystic kidney disease nephronophthisis.">
+    <entity charOffset="51-66" id="25340510.s0.e0" ontology_id="GO_0060271" text="cilium assembly" type="GO"/>
+    <entity charOffset="101-135" id="25340510.s0.e1" ontology_id="GO_0044257" text="cellular protein catabolic process" type="GO"/>
+    <entity charOffset="152-171" id="25340510.s0.e2" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <pair e1="25340510.s0.e0" e2="25340510.s0.e2" id="25340510.s0.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="29196733">
+  <sentence id="29196733.s0" text="Our recent determination of a microRNA (protein polyubiquitinationNA) expresmelanosome organizationon signature in prostate cancer (mitochondrial transport) revealed that miR-205-5p was significantly reduced in PCa tissues and that it acted as an antitumor miRNA.">
+    <entity charOffset="40-66" id="29196733.s0.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="76-99" id="29196733.s0.e1" ontology_id="GO_0032438" text="melanosome organization" type="GO"/>
+    <entity charOffset="124-130" id="29196733.s0.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="132-155" id="29196733.s0.e3" ontology_id="GO_0006839" text="mitochondrial transport" type="GO"/>
+    <pair e1="29196733.s0.e0" e2="29196733.s0.e2" id="29196733.s0.p0" relation="false"/>
+    <pair e1="29196733.s0.e1" e2="29196733.s0.e2" id="29196733.s0.p1" relation="false"/>
+    <pair e1="29196733.s0.e2" e2="29196733.s0.e3" id="29196733.s0.p2" relation="false"/>
+  </sentence>
+</document>

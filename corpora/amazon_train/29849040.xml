@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29849040">
+  <sentence id="29849040.s0" text="In addition, p-BS/GS can occur as a result of other inherited diseases such as cystic fibrosis, autosomal dominant hypocalcemia, Dent disease, or congenital chloride diarrhea (negative regulation of transcription, DNA-templated).">
+    <entity charOffset="115-127" id="29849040.s0.e0" ontology_id="HP_0002901" text="hypocalcemia" type="HP"/>
+    <entity charOffset="176-227" id="29849040.s0.e1" ontology_id="GO_0045892" text="negative regulation of transcription, DNA-templated" type="GO"/>
+    <pair e1="29849040.s0.e0" e2="29849040.s0.e1" id="29849040.s0.p0" relation="true"/>
+  </sentence>
+</document>

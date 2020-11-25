@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="30209139">
+  <sentence id="30209139.s0" text="We describe a child with motile cilium assembly who presented at term with severe neonatal respiratory distress, persistent right upper lobe collapse and failure to thrive who underwent lobectomy prior to the diagnosis of PCD at the age of 3 years.">
+    <entity charOffset="25-47" id="30209139.s0.e0" ontology_id="GO_0044458" text="motile cilium assembly" type="GO"/>
+    <entity charOffset="154-171" id="30209139.s0.e1" ontology_id="HP_0001508" text="failure to thrive" type="HP"/>
+  </sentence>
+</document>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="27698189">
+  <sentence id="27698189.s0" text="In clinical specimens, elevated LAMB3 expression correlated with poorer survival in lung cancer patients with an oncogenic positive regulation of protein phosphorylation gene signature, suggesting a novel candidate biomarker in this disease setting.">
+    <entity charOffset="89-95" id="27698189.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="123-169" id="27698189.s0.e1" ontology_id="GO_0001934" text="positive regulation of protein phosphorylation" type="GO"/>
+    <pair e1="27698189.s0.e0" e2="27698189.s0.e1" id="27698189.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="27698189.s1" text="Silencing of FAK or endodermal cell differentiation recapitulated the synthetic lethal effects of miR-1298 expression in KRAS-driven cancer cells, whereas coexpression of both proteins was critical to rescue miR-1298-induced cell death.">
+    <entity charOffset="20-51" id="27698189.s1.e0" ontology_id="GO_0035987" text="endodermal cell differentiation" type="GO"/>
+    <entity charOffset="133-139" id="27698189.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27698189.s1.e0" e2="27698189.s1.e1" id="27698189.s1.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29239044">
+  <sentence id="29239044.s0" text="Phaeochromocytoma and paraganglioma (PHEO/PGL) are rare tumours with an estimated annual incidence of 3 GPI anchor metabolic process million.">
+    <entity charOffset="22-35" id="29239044.s0.e0" ontology_id="HP_0002668" text="paraganglioma" type="HP"/>
+    <entity charOffset="56-63" id="29239044.s0.e1" ontology_id="HP_0002664" text="tumours" type="HP"/>
+    <entity charOffset="104-132" id="29239044.s0.e2" ontology_id="GO_0006505" text="GPI anchor metabolic process" type="GO"/>
+  </sentence>
+</document>

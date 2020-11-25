@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28941661">
+  <sentence id="28941661.s0" text="A plethora of human diseases are associated with mutations in the genes encoding human SLC26 transporters, including chondrodysplasias with varying severity in sulfate transmembrane transport (~50 mutations, 27 point mutations), congenital chloride-losing diarrhea in SLC26A3 (~70 mutations, 31 point mutations) and Pendred Syndrome or deafness autosomal recessive type 4 in SLC26A4 (~500 mutations, 203 point mutations).">
+    <entity charOffset="160-191" id="28941661.s0.e0" ontology_id="GO_1902358" text="sulfate transmembrane transport" type="GO"/>
+    <entity charOffset="336-344" id="28941661.s0.e1" ontology_id="HP_0000365" text="deafness" type="HP"/>
+    <pair e1="28941661.s0.e0" e2="28941661.s0.e1" id="28941661.s0.p0" relation="false"/>
+  </sentence>
+</document>

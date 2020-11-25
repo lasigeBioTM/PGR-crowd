@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27835880">
+  <sentence id="27835880.s0" text="In tumors with high PIK3R2 expression, and independently of PIK3CA, KRAS, or negative regulation of protein phosphorylation mutations, PIK3R2 depletion induced lung SQCC xenograft regression without triggering PI3K/AKT pathway rebound.">
+    <entity charOffset="3-8" id="27835880.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="77-123" id="27835880.s0.e1" ontology_id="GO_0001933" text="negative regulation of protein phosphorylation" type="GO"/>
+    <pair e1="27835880.s0.e0" e2="27835880.s0.e1" id="27835880.s0.p0" relation="false"/>
+  </sentence>
+</document>

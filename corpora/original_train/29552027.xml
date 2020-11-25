@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="29552027">
+  <sentence id="29552027.s0" text="In parallel, we recently reported that &lt;i&gt;Cc2d1a&lt;/i&gt;-deficient epidermis development present with cognitive and social deficits, hyperactivity and anxiety.">
+    <entity charOffset="63-84" id="29552027.s0.e0" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="129-142" id="29552027.s0.e1" ontology_id="HP_0000752" text="hyperactivity" type="HP"/>
+    <pair e1="29552027.s0.e0" e2="29552027.s0.e1" id="29552027.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="29552027.s1" text="We generated &lt;i&gt;Cc2d1b&lt;/i&gt; knockout (KO), &lt;i&gt;Cc2d1a/1b&lt;/i&gt; double heterozygous and double KO epidermis development, then performed behavioral studies to analyze learning and memory, social interactions, anxiety, and hyperactivity.">
+    <entity charOffset="93-114" id="29552027.s1.e0" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="216-229" id="29552027.s1.e1" ontology_id="HP_0000752" text="hyperactivity" type="HP"/>
+    <pair e1="29552027.s1.e0" e2="29552027.s1.e1" id="29552027.s1.p0" relation="false"/>
+  </sentence>
+</document>

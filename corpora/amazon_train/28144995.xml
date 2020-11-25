@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<document id="28144995">
+  <sentence id="28144995.s0" text="In this study, we describe the phenotypic spectrum of distal hereditary motor neuropathy caused by mutations in the small heat shock proteins regulation of protein phosphorylation and cellular response to unfolded protein and investigate the functional consequences of newly discovered variants.">
+    <entity charOffset="54-60" id="28144995.s0.e0" ontology_id="HP_0012839" text="distal" type="HP"/>
+    <entity charOffset="78-88" id="28144995.s0.e1" ontology_id="HP_0009830" text="neuropathy" type="HP"/>
+    <entity charOffset="142-179" id="28144995.s0.e2" ontology_id="GO_0001932" text="regulation of protein phosphorylation" type="GO"/>
+    <entity charOffset="184-221" id="28144995.s0.e3" ontology_id="GO_0034620" text="cellular response to unfolded protein" type="GO"/>
+    <pair e1="28144995.s0.e0" e2="28144995.s0.e2" id="28144995.s0.p0" relation="true"/>
+    <pair e1="28144995.s0.e1" e2="28144995.s0.e2" id="28144995.s0.p1" relation="true"/>
+    <pair e1="28144995.s0.e1" e2="28144995.s0.e3" id="28144995.s0.p2" relation="true"/>
+  </sentence>
+  <sentence id="28144995.s1" text="Among 510 unrelated patients with distal motor neuropathy, we identified mutations in regulation of protein phosphorylation (28 index patients/510; 5.5%) and HSPB8 (four index patients/510; 0.8%) genes.">
+    <entity charOffset="34-40" id="28144995.s1.e0" ontology_id="HP_0012839" text="distal" type="HP"/>
+    <entity charOffset="47-57" id="28144995.s1.e1" ontology_id="HP_0009830" text="neuropathy" type="HP"/>
+    <entity charOffset="86-123" id="28144995.s1.e2" ontology_id="GO_0001932" text="regulation of protein phosphorylation" type="GO"/>
+    <pair e1="28144995.s1.e0" e2="28144995.s1.e2" id="28144995.s1.p0" relation="true"/>
+    <pair e1="28144995.s1.e1" e2="28144995.s1.e2" id="28144995.s1.p1" relation="true"/>
+  </sentence>
+  <sentence id="28144995.s2" text="We demonstrate that regulation of protein phosphorylation and HSPB8 mutations are a major cause of inherited motor axonal neuropathy.">
+    <entity charOffset="20-57" id="28144995.s2.e0" ontology_id="GO_0001932" text="regulation of protein phosphorylation" type="GO"/>
+    <entity charOffset="122-132" id="28144995.s2.e1" ontology_id="HP_0009830" text="neuropathy" type="HP"/>
+    <pair e1="28144995.s2.e0" e2="28144995.s2.e1" id="28144995.s2.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<document id="29217762">
+  <sentence id="29217762.s0" text="Here we report that positive regulation of protein ubiquitination ubiquitylates and triggers degradation of the tumor-suppressive sirtuin regulation of double-strand break repair via homologous recombination in hepatocellular carcinoma.">
+    <entity charOffset="20-65" id="29217762.s0.e0" ontology_id="GO_0031398" text="positive regulation of protein ubiquitination" type="GO"/>
+    <entity charOffset="112-117" id="29217762.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="138-207" id="29217762.s0.e2" ontology_id="GO_0010569" text="regulation of double-strand break repair via homologous recombination" type="GO"/>
+    <entity charOffset="211-235" id="29217762.s0.e3" ontology_id="HP_0001402" text="hepatocellular carcinoma" type="HP"/>
+    <pair e1="29217762.s0.e0" e2="29217762.s0.e1" id="29217762.s0.p0" relation="false"/>
+    <pair e1="29217762.s0.e0" e2="29217762.s0.e3" id="29217762.s0.p1" relation="false"/>
+    <pair e1="29217762.s0.e1" e2="29217762.s0.e2" id="29217762.s0.p2" relation="false"/>
+    <pair e1="29217762.s0.e2" e2="29217762.s0.e3" id="29217762.s0.p3" relation="false"/>
+  </sentence>
+  <sentence id="29217762.s1" text="In mouse models of hepatocellular carcinoma, SIRT6 downregulation and consequent induction of positive regulation of receptor recycling were critical for positive regulation of protein ubiquitination-mediated tumorigenesis.">
+    <entity charOffset="19-43" id="29217762.s1.e0" ontology_id="HP_0001402" text="hepatocellular carcinoma" type="HP"/>
+    <entity charOffset="94-135" id="29217762.s1.e1" ontology_id="GO_0001921" text="positive regulation of receptor recycling" type="GO"/>
+    <entity charOffset="154-199" id="29217762.s1.e2" ontology_id="GO_0031398" text="positive regulation of protein ubiquitination" type="GO"/>
+    <entity charOffset="209-214" id="29217762.s1.e3" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29217762.s1.e0" e2="29217762.s1.e2" id="29217762.s1.p0" relation="false"/>
+    <pair e1="29217762.s1.e0" e2="29217762.s1.e1" id="29217762.s1.p1" relation="false"/>
+    <pair e1="29217762.s1.e1" e2="29217762.s1.e3" id="29217762.s1.p2" relation="false"/>
+    <pair e1="29217762.s1.e2" e2="29217762.s1.e3" id="29217762.s1.p3" relation="false"/>
+  </sentence>
+  <sentence id="29217762.s2" text="Furthermore, in clinical specimens, increased positive regulation of protein ubiquitination levels correlated with reduced regulation of double-strand break repair via homologous recombination levels and elevated positive regulation of receptor recycling levels in increasing tumor grades.">
+    <entity charOffset="46-91" id="29217762.s2.e0" ontology_id="GO_0031398" text="positive regulation of protein ubiquitination" type="GO"/>
+    <entity charOffset="123-192" id="29217762.s2.e1" ontology_id="GO_0010569" text="regulation of double-strand break repair via homologous recombination" type="GO"/>
+    <entity charOffset="213-254" id="29217762.s2.e2" ontology_id="GO_0001921" text="positive regulation of receptor recycling" type="GO"/>
+    <entity charOffset="276-281" id="29217762.s2.e3" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29217762.s2.e0" e2="29217762.s2.e3" id="29217762.s2.p0" relation="false"/>
+    <pair e1="29217762.s2.e1" e2="29217762.s2.e3" id="29217762.s2.p1" relation="false"/>
+    <pair e1="29217762.s2.e2" e2="29217762.s2.e3" id="29217762.s2.p2" relation="false"/>
+  </sentence>
+  <sentence id="29217762.s3" text="Overall, our findings show how the tumor suppressor regulation of double-strand break repair via homologous recombination is regulated in hepatocellular carcinoma and establish the mechanism underlying positive regulation of protein ubiquitination-mediated tumorigenesis in this disease.&lt;b&gt;Significance:&lt;/b&gt; These findings provide mechanistic insights into regulation of the tumor suppressive sirtuin SIRT6 and its implications for the development of hepatocellular carcinoma.">
+    <entity charOffset="35-40" id="29217762.s3.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="52-121" id="29217762.s3.e1" ontology_id="GO_0010569" text="regulation of double-strand break repair via homologous recombination" type="GO"/>
+    <entity charOffset="138-162" id="29217762.s3.e2" ontology_id="HP_0001402" text="hepatocellular carcinoma" type="HP"/>
+    <entity charOffset="202-247" id="29217762.s3.e3" ontology_id="GO_0031398" text="positive regulation of protein ubiquitination" type="GO"/>
+    <pair e1="29217762.s3.e0" e2="29217762.s3.e3" id="29217762.s3.p0" relation="false"/>
+    <pair e1="29217762.s3.e1" e2="29217762.s3.e2" id="29217762.s3.p1" relation="false"/>
+  </sentence>
+</document>

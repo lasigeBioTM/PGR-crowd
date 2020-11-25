@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="30181549">
+  <sentence id="30181549.s0" text="Further experiments demonstrated that the biological_process ceRNA sequestered miR-30c-2-3p from binding its targets protein phosphorylation and transforming growth factor beta receptor signaling pathway mRNAs, which in turn leading to constitutive activation of TGF-β signaling and tumor progression in NSCLC.">
+    <entity charOffset="42-60" id="30181549.s0.e0" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="117-140" id="30181549.s0.e1" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <entity charOffset="145-203" id="30181549.s0.e2" ontology_id="GO_0007179" text="transforming growth factor beta receptor signaling pathway" type="GO"/>
+    <entity charOffset="283-288" id="30181549.s0.e3" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="30181549.s0.e0" e2="30181549.s0.e3" id="30181549.s0.p0" relation="true"/>
+    <pair e1="30181549.s0.e1" e2="30181549.s0.e3" id="30181549.s0.p1" relation="true"/>
+    <pair e1="30181549.s0.e2" e2="30181549.s0.e3" id="30181549.s0.p2" relation="false"/>
+  </sentence>
+</document>

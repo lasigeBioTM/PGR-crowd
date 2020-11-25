@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27589347">
+  <sentence id="27589347.s0" text="Similarly, homozygous loss-of-function mutations in xenobiotic metabolic process, one of the major RA-metabolizing enzymes, cause advanced bone age, premature epiphyseal fusion, and craniosynostosis.">
+    <entity charOffset="52-80" id="27589347.s0.e0" ontology_id="GO_0006805" text="xenobiotic metabolic process" type="GO"/>
+    <entity charOffset="182-198" id="27589347.s0.e1" ontology_id="HP_0001363" text="craniosynostosis" type="HP"/>
+    <pair e1="27589347.s0.e0" e2="27589347.s0.e1" id="27589347.s0.p0" relation="true"/>
+  </sentence>
+</document>

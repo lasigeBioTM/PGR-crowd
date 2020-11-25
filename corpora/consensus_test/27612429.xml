@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="27612429">
+  <sentence id="27612429.s0" text="In this study, we identified prolyl-tRNA aminoacylation as upregulated in estrogen receptor positive (ER+) human breast tumors in the TCGA and METABRIC cohorts, with copy number gains in nearly 50% of samples in both datasets.">
+    <entity charOffset="29-55" id="27612429.s0.e0" ontology_id="GO_0006433" text="prolyl-tRNA aminoacylation" type="GO"/>
+    <entity charOffset="120-126" id="27612429.s0.e1" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <pair e1="27612429.s0.e0" e2="27612429.s0.e1" id="27612429.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="27612429.s1" text="prolyl-tRNA aminoacylation expression is associated with reduced overall survival in patients with ER+ tumors in TCGA and METABRIC datasets.">
+    <entity charOffset="0-26" id="27612429.s1.e0" ontology_id="GO_0006433" text="prolyl-tRNA aminoacylation" type="GO"/>
+    <entity charOffset="103-109" id="27612429.s1.e1" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <pair e1="27612429.s1.e0" e2="27612429.s1.e1" id="27612429.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="27612429.s2" text="We demonstrated the necessity of prolyl-tRNA aminoacylation for proliferation of tamoxifen-resistant ER+ breast cancer, but not ER- breast cancer cells.">
+    <entity charOffset="33-59" id="27612429.s2.e0" ontology_id="GO_0006433" text="prolyl-tRNA aminoacylation" type="GO"/>
+    <entity charOffset="112-118" id="27612429.s2.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27612429.s2.e0" e2="27612429.s2.e1" id="27612429.s2.p0" relation="true"/>
+  </sentence>
+</document>

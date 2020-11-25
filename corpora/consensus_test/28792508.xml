@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28792508">
+  <sentence id="28792508.s0" text="Our results suggested that variants in positive regulation of microtubule polymerization are not common risk factors for Chinese sporadic ALS and that the frequency of variants of unknown significance in the cohort study was 0.39%">
+    <entity charOffset="39-88" id="28792508.s0.e0" ontology_id="GO_0031116" text="positive regulation of microtubule polymerization" type="GO"/>
+    <entity charOffset="129-137" id="28792508.s0.e1" ontology_id="HP_0003745" text="sporadic" type="HP"/>
+    <pair e1="28792508.s0.e0" e2="28792508.s0.e1" id="28792508.s0.p0" relation="false"/>
+  </sentence>
+</document>

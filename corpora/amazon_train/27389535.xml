@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<document id="27389535">
+  <sentence id="27389535.s0" text="Using a proteomics screen, we now show that the mitochondrial unfoldase-peptidase complex ATP metabolic processP associates with the oncoprotein protein phosphorylation and the respiratory chain Complex II subunit succinate dehydrogenase B (tricarboxylic acid cycle) in mitochondria of tumor cells.">
+    <entity charOffset="90-111" id="27389535.s0.e0" ontology_id="GO_0046034" text="ATP metabolic process" type="GO"/>
+    <entity charOffset="145-168" id="27389535.s0.e1" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <entity charOffset="241-265" id="27389535.s0.e2" ontology_id="GO_0006099" text="tricarboxylic acid cycle" type="GO"/>
+    <entity charOffset="286-291" id="27389535.s0.e3" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="27389535.s0.e0" e2="27389535.s0.e3" id="27389535.s0.p0" relation="true"/>
+    <pair e1="27389535.s0.e1" e2="27389535.s0.e3" id="27389535.s0.p1" relation="true"/>
+    <pair e1="27389535.s0.e2" e2="27389535.s0.e3" id="27389535.s0.p2" relation="true"/>
+  </sentence>
+  <sentence id="27389535.s1" text="Deregulated mitochondrial respiration induced by ATP metabolic processP targeting causes oxidative stress, which in turn reduces tumor cell proliferation, suppresses cell motility, and abolishes metastatic dissemination in vivo.">
+    <entity charOffset="49-70" id="27389535.s1.e0" ontology_id="GO_0046034" text="ATP metabolic process" type="GO"/>
+    <entity charOffset="129-134" id="27389535.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="27389535.s1.e0" e2="27389535.s1.e1" id="27389535.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="27389535.s2" text="proteolysis involved in cellular protein catabolic process is universally overexpressed in primary and metastatic human cancer, correlating with shortened patient survival.">
+    <entity charOffset="0-58" id="27389535.s2.e0" ontology_id="GO_0051603" text="proteolysis involved in cellular protein catabolic process" type="GO"/>
+    <entity charOffset="120-126" id="27389535.s2.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27389535.s2.e0" e2="27389535.s2.e1" id="27389535.s2.p0" relation="true"/>
+  </sentence>
+  <sentence id="27389535.s3" text="Therefore, tumors exploit ATP metabolic processP-directed proteostasis to maintain mitochondrial bioenergetics, buffer oxidative stress, and enable metastatic competence.">
+    <entity charOffset="11-16" id="27389535.s3.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="26-47" id="27389535.s3.e1" ontology_id="GO_0046034" text="ATP metabolic process" type="GO"/>
+    <pair e1="27389535.s3.e0" e2="27389535.s3.e1" id="27389535.s3.p0" relation="true"/>
+  </sentence>
+</document>

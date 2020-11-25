@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<document id="23932106">
+  <sentence id="23932106.s0" text="Using whole-exome sequencing, we identified biallelic mutations in seizure threshold 2 (corpus callosum morphogenesis) in both affected children.">
+    <entity charOffset="67-74" id="23932106.s0.e0" ontology_id="HP_0001250" text="seizure" type="HP"/>
+    <entity charOffset="88-117" id="23932106.s0.e1" ontology_id="GO_0021540" text="corpus callosum morphogenesis" type="GO"/>
+    <pair e1="23932106.s0.e0" e2="23932106.s0.e1" id="23932106.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="23932106.s1" text="Although the molecular role of the peroxisomal protein corpus callosum morphogenesis in neuronal excitability and brain development remains to be defined, corpus callosum morphogenesis has been shown to influence seizure threshold and epileptogenesis in epidermis development, consistent with our findings in humans.">
+    <entity charOffset="55-84" id="23932106.s1.e0" ontology_id="GO_0021540" text="corpus callosum morphogenesis" type="GO"/>
+    <entity charOffset="155-184" id="23932106.s1.e1" ontology_id="GO_0021540" text="corpus callosum morphogenesis" type="GO"/>
+    <entity charOffset="213-220" id="23932106.s1.e2" ontology_id="HP_0001250" text="seizure" type="HP"/>
+    <entity charOffset="254-275" id="23932106.s1.e3" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <pair e1="23932106.s1.e0" e2="23932106.s1.e2" id="23932106.s1.p0" relation="true"/>
+    <pair e1="23932106.s1.e1" e2="23932106.s1.e2" id="23932106.s1.p1" relation="true"/>
+    <pair e1="23932106.s1.e2" e2="23932106.s1.e3" id="23932106.s1.p2" relation="false"/>
+  </sentence>
+  <sentence id="23932106.s2" text="We conclude that mutations in corpus callosum morphogenesis cause a severe muscle organ development of autosomal-recessive infantile encephalopathy with intractable seizures and distinct neuroradiological anomalies.">
+    <entity charOffset="30-59" id="23932106.s2.e0" ontology_id="GO_0021540" text="corpus callosum morphogenesis" type="GO"/>
+    <entity charOffset="75-99" id="23932106.s2.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="133-147" id="23932106.s2.e2" ontology_id="HP_0001298" text="encephalopathy" type="HP"/>
+    <entity charOffset="165-172" id="23932106.s2.e3" ontology_id="HP_0001250" text="seizure" type="HP"/>
+    <pair e1="23932106.s2.e0" e2="23932106.s2.e2" id="23932106.s2.p0" relation="true"/>
+    <pair e1="23932106.s2.e0" e2="23932106.s2.e3" id="23932106.s2.p1" relation="true"/>
+    <pair e1="23932106.s2.e1" e2="23932106.s2.e3" id="23932106.s2.p2" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<document id="29108267">
+  <sentence id="29108267.s0" text="While the down regulation of protein phosphorylation by DNA methylation in gastric cancer and by nuclear protein polyubiquitination in colon cancer has been shown, the regulatory mechanisms in other cancers are unknown.">
+    <entity charOffset="29-52" id="29108267.s0.e0" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <entity charOffset="83-89" id="29108267.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="105-131" id="29108267.s0.e2" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <pair e1="29108267.s0.e0" e2="29108267.s0.e1" id="29108267.s0.p0" relation="false"/>
+    <pair e1="29108267.s0.e1" e2="29108267.s0.e2" id="29108267.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="29108267.s1" text="Because we had demonstrated that PrKD1 is the only known kinase to phosphorylate threonine 120 (T120) of protein polyubiquitination in prostate cancer resulting in increased nuclear beta-catenin, we explored the role of beta-catenin in gene regulation of &lt;i&gt;PrKD1&lt;/i&gt;.">
+    <entity charOffset="105-131" id="29108267.s1.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="144-150" id="29108267.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29108267.s1.e0" e2="29108267.s1.e1" id="29108267.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="29108267.s2" text="&lt;i&gt;In silico&lt;/i&gt; human gene expression analysis confirmed the down regulation of protein phosphorylation in metastatic prostate cancer correlated inversely with the expression of negative regulation of transcription by RNA polymerase II, but not negative regulation of transcription by RNA polymerase II, and positively with MXD1, a competing heterodimer of MAX, suggesting that the dimerization of MAX with either MYC or MXD1 regulates &lt;i&gt;PrKD1&lt;/i&gt; gene expression.">
+    <entity charOffset="81-104" id="29108267.s2.e0" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <entity charOffset="128-134" id="29108267.s2.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="179-236" id="29108267.s2.e2" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="246-303" id="29108267.s2.e3" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="29108267.s2.e0" e2="29108267.s2.e1" id="29108267.s2.p0" relation="false"/>
+    <pair e1="29108267.s2.e1" e2="29108267.s2.e3" id="29108267.s2.p1" relation="true"/>
+    <pair e1="29108267.s2.e1" e2="29108267.s2.e2" id="29108267.s2.p2" relation="true"/>
+  </sentence>
+</document>

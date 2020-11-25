@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="26685052">
+  <sentence id="26685052.s0" text="We present a case of a patient with long-standing hyperpigmented macules and erythematous papules over his chest, abdomen, back and positive regulation of neuron projection development, suggestive of Dowling-Degos disease (DDD).">
+    <entity charOffset="50-72" id="26685052.s0.e0" ontology_id="HP_0001034" text="hyperpigmented macules" type="HP"/>
+    <entity charOffset="132-184" id="26685052.s0.e1" ontology_id="GO_0010976" text="positive regulation of neuron projection development" type="GO"/>
+    <pair e1="26685052.s0.e0" e2="26685052.s0.e1" id="26685052.s0.p0" relation="false"/>
+  </sentence>
+</document>

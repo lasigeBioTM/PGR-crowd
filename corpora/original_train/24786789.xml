@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="24786789">
+  <sentence id="24786789.s0" text="Substitution of endogenous glycolytic process with an acetylation mimetic mutant K100Q reduces cellular NADPH production and inhibits cell proliferation and tumor growth.">
+    <entity charOffset="27-45" id="24786789.s0.e0" ontology_id="GO_0006096" text="glycolytic process" type="GO"/>
+    <entity charOffset="157-162" id="24786789.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="24786789.s0.e0" e2="24786789.s0.e1" id="24786789.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="24786789.s1" text="These results reveal a mechanism of glycolytic process regulation and NADPH homeostasis in response to oxidative stress that impacts cell proliferation and tumor growth">
+    <entity charOffset="36-54" id="24786789.s1.e0" ontology_id="GO_0006096" text="glycolytic process" type="GO"/>
+    <entity charOffset="156-161" id="24786789.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="24786789.s1.e0" e2="24786789.s1.e1" id="24786789.s1.p0" relation="false"/>
+  </sentence>
+</document>

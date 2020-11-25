@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="26942284">
+  <sentence id="26942284.s0" text="mitochondrion organization mutations are associated with a distinct form of early-onset parkinsonism characterized by rapid and severe disease progression and early cognitive decline; the pathological features were striking and reminiscent of diffuse Lewy body disease.">
+    <entity charOffset="0-26" id="26942284.s0.e0" ontology_id="GO_0007005" text="mitochondrion organization" type="GO"/>
+    <entity charOffset="88-100" id="26942284.s0.e1" ontology_id="HP_0001300" text="parkinsonism" type="HP"/>
+    <pair e1="26942284.s0.e0" e2="26942284.s0.e1" id="26942284.s0.p0" relation="true"/>
+  </sentence>
+</document>

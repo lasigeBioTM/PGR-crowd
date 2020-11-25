@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="26148476">
+  <sentence id="26148476.s0" text="Here, we report the potential clinical implication and biological functions of morphogenesis of an epithelium in cervical squamous cell carcinoma (CSCC).">
+    <entity charOffset="79-109" id="26148476.s0.e0" ontology_id="GO_0002009" text="morphogenesis of an epithelium" type="GO"/>
+    <entity charOffset="122-145" id="26148476.s0.e1" ontology_id="HP_0002860" text="squamous cell carcinoma" type="HP"/>
+    <pair e1="26148476.s0.e0" e2="26148476.s0.e1" id="26148476.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="26148476.s1" text="Knockdown of RIPK4 reduced cell migration and invasion via inhibition of Vimentin, proteolysis and Fibronectin expression in cervical cancer cells.">
+    <entity charOffset="83-94" id="26148476.s1.e0" ontology_id="GO_0006508" text="proteolysis" type="GO"/>
+    <entity charOffset="134-140" id="26148476.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="26148476.s1.e0" e2="26148476.s1.e1" id="26148476.s1.p0" relation="true"/>
+  </sentence>
+</document>

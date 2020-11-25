@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="28386063">
+  <sentence id="28386063.s0" text="c.7253dupT in DNA repair, encoding a DDR factor important in meiosis, associated with hereditary breast cancer (p = 0.018) and likely represents a Northern Finnish founder mutation.">
+    <entity charOffset="14-24" id="28386063.s0.e0" ontology_id="GO_0006281" text="DNA repair" type="GO"/>
+    <entity charOffset="104-110" id="28386063.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28386063.s0.e0" e2="28386063.s0.e1" id="28386063.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="28386063.s1" text="A deletion (c.640_644del5) in double-strand break repair, causative for recessive RIDDLE syndrome, had high prevalence in majority of the analyzed cohorts, but did not associate with breast cancer.">
+    <entity charOffset="30-56" id="28386063.s1.e0" ontology_id="GO_0006302" text="double-strand break repair" type="GO"/>
+    <entity charOffset="190-196" id="28386063.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28386063.s1.e0" e2="28386063.s1.e1" id="28386063.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="28386063.s2" text="In conclusion, truncating variants in DNA repair and FANCD2 are potential breast cancer risk factors, warranting further investigations in other populations.">
+    <entity charOffset="38-48" id="28386063.s2.e0" ontology_id="GO_0006281" text="DNA repair" type="GO"/>
+    <entity charOffset="81-87" id="28386063.s2.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28386063.s2.e0" e2="28386063.s2.e1" id="28386063.s2.p0" relation="false"/>
+  </sentence>
+</document>

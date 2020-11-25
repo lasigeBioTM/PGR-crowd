@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="25666713">
+  <sentence id="25666713.s0" text="Here, we utilized the CRISPR-Cas9 system to gentranscription by RNA polymerase IIte potassium ion transport mutant mice by zygote injection to verify the pathogenic role of human potassium ion transport, mutations of which are thought to cause Leber congenital amaurosis (clathrin coat assembly), an early-onset form of blindness.">
+    <entity charOffset="47-81" id="25666713.s0.e0" ontology_id="GO_0006366" text="transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="84-107" id="25666713.s0.e1" ontology_id="GO_0006813" text="potassium ion transport" type="GO"/>
+    <entity charOffset="179-202" id="25666713.s0.e2" ontology_id="GO_0006813" text="potassium ion transport" type="GO"/>
+    <entity charOffset="272-294" id="25666713.s0.e3" ontology_id="GO_0048268" text="clathrin coat assembly" type="GO"/>
+    <entity charOffset="320-329" id="25666713.s0.e4" ontology_id="HP_0000618" text="blindness" type="HP"/>
+    <pair e1="25666713.s0.e0" e2="25666713.s0.e4" id="25666713.s0.p0" relation="false"/>
+    <pair e1="25666713.s0.e1" e2="25666713.s0.e4" id="25666713.s0.p1" relation="false"/>
+    <pair e1="25666713.s0.e2" e2="25666713.s0.e4" id="25666713.s0.p2" relation="false"/>
+    <pair e1="25666713.s0.e3" e2="25666713.s0.e4" id="25666713.s0.p3" relation="false"/>
+  </sentence>
+</document>

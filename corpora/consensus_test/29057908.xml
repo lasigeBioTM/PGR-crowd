@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29057908">
+  <sentence id="29057908.s0" text="Here, we show that ablating or silencing the transcription factor negative regulation of transcription by RNA polymerase II ameliorates pathology in several forms of muscular dystrophy.">
+    <entity charOffset="66-123" id="29057908.s0.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="166-184" id="29057908.s0.e1" ontology_id="HP_0003560" text="muscular dystrophy" type="HP"/>
+    <pair e1="29057908.s0.e0" e2="29057908.s0.e1" id="29057908.s0.p0" relation="false"/>
+  </sentence>
+</document>

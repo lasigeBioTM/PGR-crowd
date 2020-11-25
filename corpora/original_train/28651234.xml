@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<document id="28651234">
+  <sentence id="28651234.s0" text="Here, we report that the expression of microRNA-493 (protein polyubiquitination-493) is decreased in phosphatidylinositol phosphorylation cell lines and in tumor tissues.">
+    <entity charOffset="53-79" id="28651234.s0.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="101-137" id="28651234.s0.e1" ontology_id="GO_0046854" text="phosphatidylinositol phosphorylation" type="GO"/>
+    <entity charOffset="156-161" id="28651234.s0.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28651234.s0.e0" e2="28651234.s0.e2" id="28651234.s0.p0" relation="false"/>
+    <pair e1="28651234.s0.e1" e2="28651234.s0.e2" id="28651234.s0.p1" relation="false"/>
+  </sentence>
+  <sentence id="28651234.s1" text="Overexpression of protein polyubiquitination-493 in phosphatidylinositol phosphorylation cells dramatically inhibited cell proliferation and colony-formation in vitro and inhibited tumor formation of HCC cell xenografts in vivo.">
+    <entity charOffset="18-44" id="28651234.s1.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="52-88" id="28651234.s1.e1" ontology_id="GO_0046854" text="phosphatidylinositol phosphorylation" type="GO"/>
+    <entity charOffset="181-186" id="28651234.s1.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28651234.s1.e0" e2="28651234.s1.e2" id="28651234.s1.p0" relation="false"/>
+    <pair e1="28651234.s1.e1" e2="28651234.s1.e2" id="28651234.s1.p1" relation="false"/>
+  </sentence>
+  <sentence id="28651234.s2" text="Novel targets actin cytoskeleton reorganization and RSPO2 were confirmed to be suppressed by protein polyubiquitination-493 directly, and overexpression of ANTXR1 and RSPO2 could restore tumorigenesis in miR-493 treated HCC cell.">
+    <entity charOffset="14-47" id="28651234.s2.e0" ontology_id="GO_0031532" text="actin cytoskeleton reorganization" type="GO"/>
+    <entity charOffset="93-119" id="28651234.s2.e1" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="187-192" id="28651234.s2.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28651234.s2.e0" e2="28651234.s2.e2" id="28651234.s2.p0" relation="true"/>
+    <pair e1="28651234.s2.e1" e2="28651234.s2.e2" id="28651234.s2.p1" relation="false"/>
+  </sentence>
+  <sentence id="28651234.s3" text="Moreover, Wnt/β-catenin signaling pathway, which was reported to be activated by ANTXR1 and positive regulation of Wnt signaling pathway, was also inhibited by protein polyubiquitination-493 overexpression and might be involved in anti-tumor function of miR-493.">
+    <entity charOffset="92-136" id="28651234.s3.e0" ontology_id="GO_0030177" text="positive regulation of Wnt signaling pathway" type="GO"/>
+    <entity charOffset="160-186" id="28651234.s3.e1" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="236-241" id="28651234.s3.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28651234.s3.e0" e2="28651234.s3.e2" id="28651234.s3.p0" relation="false"/>
+    <pair e1="28651234.s3.e1" e2="28651234.s3.e2" id="28651234.s3.p1" relation="false"/>
+  </sentence>
+</document>

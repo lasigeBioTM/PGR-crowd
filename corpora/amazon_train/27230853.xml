@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27230853">
+  <sentence id="27230853.s0" text="The phenotypic spectrum related to protein targeting to peroxisome0 mutations includes slowly progressive, syndromic recessive ataxia.">
+    <entity charOffset="35-66" id="27230853.s0.e0" ontology_id="GO_0006625" text="protein targeting to peroxisome" type="GO"/>
+    <entity charOffset="127-133" id="27230853.s0.e1" ontology_id="HP_0001251" text="ataxia" type="HP"/>
+    <pair e1="27230853.s0.e0" e2="27230853.s0.e1" id="27230853.s0.p0" relation="true"/>
+  </sentence>
+</document>

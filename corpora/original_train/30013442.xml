@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<document id="30013442">
+  <sentence id="30013442.s0" text="To our knowledge, no study investigates the association of genetic variant distributions of WW domain-containing oxidoreductase (negative regulation of Wnt signaling pathway) gene with development of invasive cancer, clinicopathologic variables and patient survival in uterine cervical cancer for Taiwanese women.">
+    <entity charOffset="129-173" id="30013442.s0.e0" ontology_id="GO_0030178" text="negative regulation of Wnt signaling pathway" type="GO"/>
+    <entity charOffset="209-215" id="30013442.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30013442.s0.e0" e2="30013442.s0.e1" id="30013442.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="30013442.s1" text="We therefore conducted this study to explore the clinical involvements of negative regulation of Wnt signaling pathway single nucleotide polymorphisms (SNPs) in cervical cancer.">
+    <entity charOffset="74-118" id="30013442.s1.e0" ontology_id="GO_0030178" text="negative regulation of Wnt signaling pathway" type="GO"/>
+    <entity charOffset="170-176" id="30013442.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30013442.s1.e0" e2="30013442.s1.e1" id="30013442.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="30013442.s2" text="The results revealed that only negative regulation of Wnt signaling pathway SNP rs3764340 was associated between patients with cervical invasive cancer and normal controls among 5 WWOX genetic variants.">
+    <entity charOffset="31-75" id="30013442.s2.e0" ontology_id="GO_0030178" text="negative regulation of Wnt signaling pathway" type="GO"/>
+    <entity charOffset="145-151" id="30013442.s2.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30013442.s2.e0" e2="30013442.s2.e1" id="30013442.s2.p0" relation="true"/>
+  </sentence>
+  <sentence id="30013442.s3" text="In conclusion, Taiwanese women with CG/GG in negative regulation of Wnt signaling pathway SNP rs3764340 are susceptible to cervical invasive cancer.">
+    <entity charOffset="45-89" id="30013442.s3.e0" ontology_id="GO_0030178" text="negative regulation of Wnt signaling pathway" type="GO"/>
+    <entity charOffset="141-147" id="30013442.s3.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30013442.s3.e0" e2="30013442.s3.e1" id="30013442.s3.p0" relation="true"/>
+  </sentence>
+</document>

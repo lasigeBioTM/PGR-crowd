@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<document id="27476655">
+  <sentence id="27476655.s0" text="In this article, we report a clinically recognizable craniofacial disorder characterized by facial dysmorphisms, severe micrognathia, rhizomelic shortening, microcephalic dwarfism, and mild developmental delay due to loss-of-function heterozygous mutations in intracellular protein transport, which encodes the coatomer subunit MAPK cascade of COPI.">
+    <entity charOffset="92-111" id="27476655.s0.e0" ontology_id="HP_0001999" text="facial dysmorphisms" type="HP"/>
+    <entity charOffset="120-132" id="27476655.s0.e1" ontology_id="HP_0000347" text="micrognathia" type="HP"/>
+    <entity charOffset="134-155" id="27476655.s0.e2" ontology_id="HP_0008905" text="rhizomelic shortening" type="HP"/>
+    <entity charOffset="185-189" id="27476655.s0.e3" ontology_id="HP_0012825" text="mild" type="HP"/>
+    <entity charOffset="190-209" id="27476655.s0.e4" ontology_id="HP_0001263" text="developmental delay" type="HP"/>
+    <entity charOffset="260-291" id="27476655.s0.e5" ontology_id="GO_0006886" text="intracellular protein transport" type="GO"/>
+    <entity charOffset="328-340" id="27476655.s0.e6" ontology_id="GO_0000165" text="MAPK cascade" type="GO"/>
+    <pair e1="27476655.s0.e0" e2="27476655.s0.e5" id="27476655.s0.p0" relation="false"/>
+    <pair e1="27476655.s0.e1" e2="27476655.s0.e5" id="27476655.s0.p1" relation="true"/>
+    <pair e1="27476655.s0.e1" e2="27476655.s0.e6" id="27476655.s0.p2" relation="false"/>
+    <pair e1="27476655.s0.e2" e2="27476655.s0.e5" id="27476655.s0.p3" relation="true"/>
+    <pair e1="27476655.s0.e3" e2="27476655.s0.e5" id="27476655.s0.p4" relation="false"/>
+    <pair e1="27476655.s0.e3" e2="27476655.s0.e6" id="27476655.s0.p5" relation="false"/>
+    <pair e1="27476655.s0.e4" e2="27476655.s0.e5" id="27476655.s0.p6" relation="false"/>
+  </sentence>
+</document>

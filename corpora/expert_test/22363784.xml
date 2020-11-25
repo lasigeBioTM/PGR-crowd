@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="22363784">
+  <sentence id="22363784.s0" text="Biallelic biological_process mutations have recently been reported to cause autosomal recessive nonsyndromic sensorineural hearing loss.">
+    <entity charOffset="10-28" id="22363784.s0.e0" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="123-135" id="22363784.s0.e1" ontology_id="HP_0000365" text="hearing loss" type="HP"/>
+    <pair e1="22363784.s0.e0" e2="22363784.s0.e1" id="22363784.s0.p0" relation="true"/>
+  </sentence>
+</document>

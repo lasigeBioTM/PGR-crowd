@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28772236">
+  <sentence id="28772236.s0" text="These studies suggest that compound 4d behaves well in lowering body weight and maintaining energy expenditure without a chance of hyperglycaemia, 4d has strong clinical potential as an efficient biological_process-1/GCGR agonist in the prevention and treatment of obesity and dyslipidemia">
+    <entity charOffset="196-214" id="28772236.s0.e0" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="265-272" id="28772236.s0.e1" ontology_id="HP_0001513" text="obesity" type="HP"/>
+    <pair e1="28772236.s0.e0" e2="28772236.s0.e1" id="28772236.s0.p0" relation="true"/>
+  </sentence>
+</document>

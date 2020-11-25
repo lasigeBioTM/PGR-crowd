@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="29068691">
+  <sentence id="29068691.s0" text="Herein, we performed comparative quantitative proteomics on whole plasma sampled from patients with stable angina (inflammatory response), acute myocardial infarction (MI), and healthy control subjects (protein catabolic process).">
+    <entity charOffset="115-136" id="29068691.s0.e0" ontology_id="GO_0006954" text="inflammatory response" type="GO"/>
+    <entity charOffset="145-166" id="29068691.s0.e1" ontology_id="HP_0001658" text="myocardial infarction" type="HP"/>
+    <entity charOffset="203-228" id="29068691.s0.e2" ontology_id="GO_0030163" text="protein catabolic process" type="GO"/>
+    <pair e1="29068691.s0.e0" e2="29068691.s0.e1" id="29068691.s0.p0" relation="false"/>
+    <pair e1="29068691.s0.e1" e2="29068691.s0.e2" id="29068691.s0.p1" relation="false"/>
+  </sentence>
+</document>

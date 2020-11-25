@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<document id="29924831">
+  <sentence id="29924831.s0" text="In a cohort of Australians of European descent, consisting of 385 keratoconus cases and 396 controls, we screened 21 keratoconus candidate genes: regulation of signal transduction by p53 class mediator, CAST, COL4A3, glomerular basement membrane development, negative regulation of endodermal cell differentiation, FOXO1, FNDC3B, neutrophil apoptotic process, IL1A, IL1B, ILRN, IMMP2L, MPDZ, NFIB, regulation of GTPase activity, RAD51, negative regulation of transcription by RNA polymerase II, sodium ion transport, SOD1, TF and regulation of transcription by RNA polymerase II.">
+    <entity charOffset="66-77" id="29924831.s0.e0" ontology_id="HP_0000563" text="keratoconus" type="HP"/>
+    <entity charOffset="146-201" id="29924831.s0.e1" ontology_id="GO_1901796" text="regulation of signal transduction by p53 class mediator" type="GO"/>
+    <entity charOffset="217-257" id="29924831.s0.e2" ontology_id="GO_0032836" text="glomerular basement membrane development" type="GO"/>
+    <entity charOffset="259-313" id="29924831.s0.e3" ontology_id="GO_1903225" text="negative regulation of endodermal cell differentiation" type="GO"/>
+    <entity charOffset="330-358" id="29924831.s0.e4" ontology_id="GO_0001781" text="neutrophil apoptotic process" type="GO"/>
+    <entity charOffset="398-427" id="29924831.s0.e5" ontology_id="GO_0043087" text="regulation of GTPase activity" type="GO"/>
+    <entity charOffset="436-493" id="29924831.s0.e6" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="495-515" id="29924831.s0.e7" ontology_id="GO_0006814" text="sodium ion transport" type="GO"/>
+    <entity charOffset="530-578" id="29924831.s0.e8" ontology_id="GO_0006357" text="regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="29924831.s0.e0" e2="29924831.s0.e8" id="29924831.s0.p0" relation="true"/>
+    <pair e1="29924831.s0.e0" e2="29924831.s0.e6" id="29924831.s0.p1" relation="true"/>
+    <pair e1="29924831.s0.e0" e2="29924831.s0.e3" id="29924831.s0.p2" relation="true"/>
+    <pair e1="29924831.s0.e0" e2="29924831.s0.e7" id="29924831.s0.p3" relation="true"/>
+    <pair e1="29924831.s0.e0" e2="29924831.s0.e2" id="29924831.s0.p4" relation="true"/>
+    <pair e1="29924831.s0.e0" e2="29924831.s0.e4" id="29924831.s0.p5" relation="true"/>
+    <pair e1="29924831.s0.e0" e2="29924831.s0.e1" id="29924831.s0.p6" relation="true"/>
+    <pair e1="29924831.s0.e0" e2="29924831.s0.e5" id="29924831.s0.p7" relation="true"/>
+  </sentence>
+</document>

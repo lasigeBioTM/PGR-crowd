@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="29730826">
+  <sentence id="29730826.s0" text="A frequently reported cellular response to interleukin-4ing is that effects from common genetic variation are associated with a schizophrenia-related structural endophenotype.">
+    <entity charOffset="22-56" id="29730826.s0.e0" ontology_id="GO_0071353" text="cellular response to interleukin-4" type="GO"/>
+    <entity charOffset="128-141" id="29730826.s0.e1" ontology_id="HP_0100753" text="schizophrenia" type="HP"/>
+  </sentence>
+</document>

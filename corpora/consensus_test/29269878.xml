@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29269878">
+  <sentence id="29269878.s0" text="This contributes to the intrinsic aggressiveness of these cells by upregulating Rab27-dependent recycling of the transmembrane matrix metalloprotease, proteolysis to promote invasive behaviour leading to basement membrane disruption.">
+    <entity charOffset="34-48" id="29269878.s0.e0" ontology_id="HP_0000718" text="aggressiveness" type="HP"/>
+    <entity charOffset="151-162" id="29269878.s0.e1" ontology_id="GO_0006508" text="proteolysis" type="GO"/>
+    <pair e1="29269878.s0.e0" e2="29269878.s0.e1" id="29269878.s0.p0" relation="false"/>
+  </sentence>
+</document>

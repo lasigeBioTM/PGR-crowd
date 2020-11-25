@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29437892">
+  <sentence id="29437892.s0" text="Growth abnormalities, motor dysfunction, hindlimb paralysis, muscle wasting, neurogenic atrophy, motor neuron degeneration, and loss of large-caliber axons in peripheral nerves occurred at an earlier age in cytoskeleton organization/Scyl3 double-deficient mice than in Scyl1-deficient mice.">
+    <entity charOffset="61-75" id="29437892.s0.e0" ontology_id="HP_0003202" text="muscle wasting" type="HP"/>
+    <entity charOffset="207-232" id="29437892.s0.e1" ontology_id="GO_0007010" text="cytoskeleton organization" type="GO"/>
+    <pair e1="29437892.s0.e0" e2="29437892.s0.e1" id="29437892.s0.p0" relation="true"/>
+  </sentence>
+</document>

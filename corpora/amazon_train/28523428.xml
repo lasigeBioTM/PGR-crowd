@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="28523428">
+  <sentence id="28523428.s0" text="The negative regulation of transcription by RNA polymerase II mutant epidermis development have been characterized for their propensity to develop congenital hypothyroidism, polycystic kidney disease, and some types of cancer.">
+    <entity charOffset="4-61" id="28523428.s0.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="69-90" id="28523428.s0.e1" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="158-172" id="28523428.s0.e2" ontology_id="HP_0000821" text="hypothyroidism" type="HP"/>
+    <entity charOffset="219-225" id="28523428.s0.e3" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28523428.s0.e0" e2="28523428.s0.e2" id="28523428.s0.p0" relation="true"/>
+    <pair e1="28523428.s0.e0" e2="28523428.s0.e3" id="28523428.s0.p1" relation="true"/>
+    <pair e1="28523428.s0.e1" e2="28523428.s0.e2" id="28523428.s0.p2" relation="true"/>
+  </sentence>
+</document>

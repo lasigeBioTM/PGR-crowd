@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="28680084">
+  <sentence id="28680084.s0" text="Screening the regulation of fatty acid metabolic process gene in the patients as well as their unaffected family members revealed a functional single nucleotide variation, perfectly segregating in the patient's family in an autosomal recessive mode of inheritance.">
+    <entity charOffset="14-56" id="28680084.s0.e0" ontology_id="GO_0019217" text="regulation of fatty acid metabolic process" type="GO"/>
+    <entity charOffset="224-243" id="28680084.s0.e1" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="244-263" id="28680084.s0.e2" ontology_id="HP_0000005" text="mode of inheritance" type="HP"/>
+    <pair e1="28680084.s0.e0" e2="28680084.s0.e1" id="28680084.s0.p0" relation="true"/>
+    <pair e1="28680084.s0.e0" e2="28680084.s0.e2" id="28680084.s0.p1" relation="false"/>
+  </sentence>
+</document>

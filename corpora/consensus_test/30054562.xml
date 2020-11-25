@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<document id="30054562">
+  <sentence id="30054562.s0" text="Functional studies suggested that cell cycle arrest functions as a tumor suppressor, as overexpression of CAB39L elicited suppression of multiple cancer phenotypes both in GC cells and an orthotopic mouse model; whilst its knockdown promoted tumorigenesis.">
+    <entity charOffset="34-51" id="30054562.s0.e0" ontology_id="GO_0007050" text="cell cycle arrest" type="GO"/>
+    <entity charOffset="67-72" id="30054562.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="146-152" id="30054562.s0.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30054562.s0.e0" e2="30054562.s0.e1" id="30054562.s0.p0" relation="true"/>
+    <pair e1="30054562.s0.e0" e2="30054562.s0.e2" id="30054562.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="30054562.s1" text="Our data demonstrate that CAB39L is a novel tumor suppressor which suppresses tumorigenesis by promoting LKB1-lipid biosynthetic process-PGC1α axis, thereby preventing a metabolic shift that drives carcinogenesis.">
+    <entity charOffset="44-49" id="30054562.s1.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="110-136" id="30054562.s1.e1" ontology_id="GO_0008610" text="lipid biosynthetic process" type="GO"/>
+    <pair e1="30054562.s1.e0" e2="30054562.s1.e1" id="30054562.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="30054562.s2" text="Moreover, knockdown of LKB1 reversed growth inhibitory effect of cell cycle arrest, indicating that tumor suppression by CAB39L depended on LKB1-AMPK.">
+    <entity charOffset="65-82" id="30054562.s2.e0" ontology_id="GO_0007050" text="cell cycle arrest" type="GO"/>
+    <entity charOffset="100-105" id="30054562.s2.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="30054562.s2.e0" e2="30054562.s2.e1" id="30054562.s2.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="27541164">
+  <sentence id="27541164.s0" text="neuron projection development-related disorders include a wide phenotypic ranging from mild to lethal seizure disorders, non-syndromic deafness, and composite syndromes such as DOORS (deafness, onychodystrophy, osteodystrophy, mental retardation, and seizures).">
+    <entity charOffset="0-29" id="27541164.s0.e0" ontology_id="GO_0031175" text="neuron projection development" type="GO"/>
+    <entity charOffset="102-109" id="27541164.s0.e1" ontology_id="HP_0001250" text="seizure" type="HP"/>
+    <entity charOffset="135-143" id="27541164.s0.e2" ontology_id="HP_0000365" text="deafness" type="HP"/>
+    <pair e1="27541164.s0.e0" e2="27541164.s0.e1" id="27541164.s0.p0" relation="true"/>
+    <pair e1="27541164.s0.e0" e2="27541164.s0.e2" id="27541164.s0.p1" relation="true"/>
+  </sentence>
+</document>

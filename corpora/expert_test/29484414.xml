@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="29484414">
+  <sentence id="29484414.s0" text="Signiﬁcant associations between activation of MAPKK activity expression and invasion and metastasis capability in lung cancer A549 and H1299 cell lines were identiﬁed.">
+    <entity charOffset="32-60" id="29484414.s0.e0" ontology_id="GO_0000186" text="activation of MAPKK activity" type="GO"/>
+    <entity charOffset="119-125" id="29484414.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29484414.s0.e0" e2="29484414.s0.e1" id="29484414.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29484414.s1" text="However, few studies are available on the expression and clinical significance of activation of MAPKK activity in non‑small cell lung cancer (NSCLC).">
+    <entity charOffset="82-110" id="29484414.s1.e0" ontology_id="GO_0000186" text="activation of MAPKK activity" type="GO"/>
+    <entity charOffset="134-140" id="29484414.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29484414.s1.e0" e2="29484414.s1.e1" id="29484414.s1.p0" relation="true"/>
+  </sentence>
+</document>

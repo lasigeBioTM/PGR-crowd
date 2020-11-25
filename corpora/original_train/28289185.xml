@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28289185">
+  <sentence id="28289185.s0" text="Oral-facial-digital syndromes (OFDS) gather rare genetic disorders characterised by facial, oral and digital abnormalities associated with a wide range of additional features (polycystic kidney disease, cerebral malformations and several others) to delineate a growing list of OFDS submuscle organ developments.">
+    <entity charOffset="187-201" id="28289185.s0.e0" ontology_id="HP_0000077" text="kidney disease" type="HP"/>
+    <entity charOffset="285-309" id="28289185.s0.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <pair e1="28289185.s0.e0" e2="28289185.s0.e1" id="28289185.s0.p0" relation="false"/>
+  </sentence>
+</document>

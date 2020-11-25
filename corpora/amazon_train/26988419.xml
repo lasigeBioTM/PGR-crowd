@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="26988419">
+  <sentence id="26988419.s0" text="Finally, we show that inhibition of peptidyl-lysine monomethylation cooperates with standard chemotherapy to treat PDAC cells and tumors.">
+    <entity charOffset="36-67" id="26988419.s0.e0" ontology_id="GO_0018026" text="peptidyl-lysine monomethylation" type="GO"/>
+    <entity charOffset="130-136" id="26988419.s0.e1" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <pair e1="26988419.s0.e0" e2="26988419.s0.e1" id="26988419.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="26988419.s1" text="These findings uncover a pivotal role for peptidyl-lysine monomethylation in promoting pancreatic cancer.">
+    <entity charOffset="42-73" id="26988419.s1.e0" ontology_id="GO_0018026" text="peptidyl-lysine monomethylation" type="GO"/>
+    <entity charOffset="98-104" id="26988419.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="26988419.s1.e0" e2="26988419.s1.e1" id="26988419.s1.p0" relation="true"/>
+  </sentence>
+</document>

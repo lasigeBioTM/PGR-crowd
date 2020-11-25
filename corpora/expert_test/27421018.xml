@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="27421018">
+  <sentence id="27421018.s0" text="Previous genome-wide association studies have identified several genes associated with obesity, including LEP, LEPR, POMC, PCSK1, FTO, MC3R, MC4R, GNPDA2, TMEM18, QPCTL/GIPR, BDNF, ETV5, MAP2K5/SKOR1, endoplasmic reticulum organization, ureteric bud development, and TNKS/MSRA.">
+    <entity charOffset="87-94" id="27421018.s0.e0" ontology_id="HP_0001513" text="obesity" type="HP"/>
+    <entity charOffset="201-235" id="27421018.s0.e1" ontology_id="GO_0007029" text="endoplasmic reticulum organization" type="GO"/>
+    <entity charOffset="237-261" id="27421018.s0.e2" ontology_id="GO_0001657" text="ureteric bud development" type="GO"/>
+    <pair e1="27421018.s0.e0" e2="27421018.s0.e1" id="27421018.s0.p0" relation="true"/>
+    <pair e1="27421018.s0.e0" e2="27421018.s0.e2" id="27421018.s0.p1" relation="true"/>
+  </sentence>
+</document>

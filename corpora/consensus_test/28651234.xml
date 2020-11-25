@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<document id="28651234">
+  <sentence id="28651234.s0" text="Novel targets ANTXR1 and positive regulation of Wnt signaling pathway were confirmed to be suppressed by miR-493 directly, and overexpression of ANTXR1 and RSPO2 could restore tumorigenesis in miR-493 treated phosphatidylinositol phosphorylation cell.">
+    <entity charOffset="25-69" id="28651234.s0.e0" ontology_id="GO_0030177" text="positive regulation of Wnt signaling pathway" type="GO"/>
+    <entity charOffset="176-181" id="28651234.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="209-245" id="28651234.s0.e2" ontology_id="GO_0046854" text="phosphatidylinositol phosphorylation" type="GO"/>
+    <pair e1="28651234.s0.e0" e2="28651234.s0.e1" id="28651234.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="28651234.s1" text="Hepatocellular carcinoma (phosphatidylinositol phosphorylation) is known as a highly prevalent cancer with a poor prognosis and short survival time, despite intensive research and clinical efforts.">
+    <entity charOffset="26-62" id="28651234.s1.e0" ontology_id="GO_0046854" text="phosphatidylinositol phosphorylation" type="GO"/>
+    <entity charOffset="95-101" id="28651234.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+  </sentence>
+  <sentence id="28651234.s2" text="These findings suggest that protein polyubiquitination-493 acts as a negative regulator in hepatocellular carcinoma progression and may be a potential therapeutic target for HCC">
+    <entity charOffset="28-54" id="28651234.s2.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="91-115" id="28651234.s2.e1" ontology_id="HP_0001402" text="hepatocellular carcinoma" type="HP"/>
+  </sentence>
+  <sentence id="28651234.s3" text="Moreover, Wnt/β-catenin signaling pathway, which was reported to be activated by actin cytoskeleton reorganization and RSPO2, was also inhibited by miR-493 overexpression and might be involved in anti-tumor function of miR-493.">
+    <entity charOffset="81-114" id="28651234.s3.e0" ontology_id="GO_0031532" text="actin cytoskeleton reorganization" type="GO"/>
+    <entity charOffset="201-206" id="28651234.s3.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28651234.s3.e0" e2="28651234.s3.e1" id="28651234.s3.p0" relation="true"/>
+  </sentence>
+</document>

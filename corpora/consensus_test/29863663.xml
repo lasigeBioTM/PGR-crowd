@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29863663">
+  <sentence id="29863663.s0" text="We also provide an example of using the platform to screen compounds for their ability to lower Apolipoprotein B (positive regulation of macrophage derived foam cell differentiation) produced from iPSC-derived hepatocytes generated from a familial hypercholesterolemia patient.">
+    <entity charOffset="114-181" id="29863663.s0.e0" ontology_id="GO_0010744" text="positive regulation of macrophage derived foam cell differentiation" type="GO"/>
+    <entity charOffset="248-268" id="29863663.s0.e1" ontology_id="HP_0003124" text="hypercholesterolemia" type="HP"/>
+    <pair e1="29863663.s0.e0" e2="29863663.s0.e1" id="29863663.s0.p0" relation="false"/>
+  </sentence>
+</document>

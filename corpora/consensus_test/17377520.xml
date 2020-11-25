@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="17377520">
+  <sentence id="17377520.s0" text="phosphatidylinositol biosynthetic process, known as a human homologue of the Drosophila retinal degeneration B (rdgB), lacks the N-terminal PIT domain needed for transport of phospholipids, renewal of photoreceptors membrane and providing the electroretinogram (positive regulation of transcription by RNA polymerase II) response to light.">
+    <entity charOffset="0-41" id="17377520.s0.e0" ontology_id="GO_0006661" text="phosphatidylinositol biosynthetic process" type="GO"/>
+    <entity charOffset="88-108" id="17377520.s0.e1" ontology_id="HP_0000546" text="retinal degeneration" type="HP"/>
+    <entity charOffset="262-319" id="17377520.s0.e2" ontology_id="GO_0045944" text="positive regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="17377520.s0.e0" e2="17377520.s0.e1" id="17377520.s0.p0" relation="true"/>
+    <pair e1="17377520.s0.e1" e2="17377520.s0.e2" id="17377520.s0.p1" relation="false"/>
+  </sentence>
+</document>

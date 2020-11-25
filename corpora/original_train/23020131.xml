@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<document id="23020131">
+  <sentence id="23020131.s0" text="Based on screening results, five unique genes (ether lipid biosynthetic process, protein sumoylation, negative regulation of cell-cell adhesion, FLI1, and SSX1) significantly potentiated the growth inhibitory effects of CDDO-Me and induced apoptosis in A375, a protein phosphorylation mutated melanoma line (P &amp;lt; 0.001).">
+    <entity charOffset="47-79" id="23020131.s0.e0" ontology_id="GO_0008611" text="ether lipid biosynthetic process" type="GO"/>
+    <entity charOffset="81-100" id="23020131.s0.e1" ontology_id="GO_0016925" text="protein sumoylation" type="GO"/>
+    <entity charOffset="102-143" id="23020131.s0.e2" ontology_id="GO_0022408" text="negative regulation of cell-cell adhesion" type="GO"/>
+    <entity charOffset="261-284" id="23020131.s0.e3" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <entity charOffset="293-301" id="23020131.s0.e4" ontology_id="HP_0002861" text="melanoma" type="HP"/>
+    <pair e1="23020131.s0.e0" e2="23020131.s0.e4" id="23020131.s0.p0" relation="false"/>
+    <pair e1="23020131.s0.e1" e2="23020131.s0.e4" id="23020131.s0.p1" relation="false"/>
+    <pair e1="23020131.s0.e2" e2="23020131.s0.e4" id="23020131.s0.p2" relation="false"/>
+    <pair e1="23020131.s0.e3" e2="23020131.s0.e4" id="23020131.s0.p3" relation="true"/>
+  </sentence>
+  <sentence id="23020131.s1" text="Our findings indicate that GNPAT, protein sumoylation, negative regulation of cell-cell adhesion, FLI1, and regulation of transcription, DNA-templated play critical roles in synergy with inflammation pathways in modulating melanoma cell survival and could serve as sensitizing targets to enhance CDDO-Me efficacy in melanoma growth control">
+    <entity charOffset="34-53" id="23020131.s1.e0" ontology_id="GO_0016925" text="protein sumoylation" type="GO"/>
+    <entity charOffset="55-96" id="23020131.s1.e1" ontology_id="GO_0022408" text="negative regulation of cell-cell adhesion" type="GO"/>
+    <entity charOffset="108-150" id="23020131.s1.e2" ontology_id="GO_0006355" text="regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="223-231" id="23020131.s1.e3" ontology_id="HP_0002861" text="melanoma" type="HP"/>
+    <pair e1="23020131.s1.e0" e2="23020131.s1.e3" id="23020131.s1.p0" relation="false"/>
+    <pair e1="23020131.s1.e1" e2="23020131.s1.e3" id="23020131.s1.p1" relation="false"/>
+    <pair e1="23020131.s1.e2" e2="23020131.s1.e3" id="23020131.s1.p2" relation="false"/>
+  </sentence>
+</document>

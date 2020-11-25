@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="26002316">
+  <sentence id="26002316.s0" text="We found that activation of JUN kinase activity was markedly increased in TLE patients and a mouse model of epileptic seizures; mice underexpressing JIP3 through lentivirus bearing LV-Letm1-RNAi showed decreased susceptibility, delayed first seizure and decreased seizure duration response to the epileptogenic properties of KA.">
+    <entity charOffset="14-47" id="26002316.s0.e0" ontology_id="GO_0007257" text="activation of JUN kinase activity" type="GO"/>
+    <entity charOffset="118-126" id="26002316.s0.e1" ontology_id="HP_0001250" text="seizures" type="HP"/>
+    <pair e1="26002316.s0.e0" e2="26002316.s0.e1" id="26002316.s0.p0" relation="true"/>
+  </sentence>
+</document>

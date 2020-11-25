@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="26786290">
+  <sentence id="26786290.s0" text="The genes with the highest number of hypermethylated CpG sites in INRG M tumors are transcription, RNA-templated, PCDHGA4, DLX5, and skeletal system development-AS1.">
+    <entity charOffset="73-78" id="26786290.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="84-112" id="26786290.s0.e1" ontology_id="GO_0001172" text="transcription, RNA-templated" type="GO"/>
+    <entity charOffset="133-160" id="26786290.s0.e2" ontology_id="GO_0001501" text="skeletal system development" type="GO"/>
+    <pair e1="26786290.s0.e0" e2="26786290.s0.e1" id="26786290.s0.p0" relation="true"/>
+    <pair e1="26786290.s0.e0" e2="26786290.s0.e2" id="26786290.s0.p1" relation="false"/>
+  </sentence>
+  <sentence id="26786290.s1" text="For validation, we used a negative regulation of transcription, DNA-templated of independent tumors previously analyzed with the Illumina 27K methylation arrays, which confirmed the differentially methylated sites.">
+    <entity charOffset="26-77" id="26786290.s1.e0" ontology_id="GO_0045892" text="negative regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="93-98" id="26786290.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="26786290.s1.e0" e2="26786290.s1.e1" id="26786290.s1.p0" relation="true"/>
+  </sentence>
+</document>

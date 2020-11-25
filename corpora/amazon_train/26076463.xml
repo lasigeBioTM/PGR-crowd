@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<document id="26076463">
+  <sentence id="26076463.s0" text="In humans and epidermis development hair follicle development mutations or loss of function result in a number of skeletal and organ malformations, including polydactyly, tibial hemimelia, omphalocele, biparietal foramina, impaired mammary epithelial morphogenesis, alopecia, coronal craniosynostosis, hypertelorism, depressed nasal bridge and ridge, bifid nasal tip, hypogonadism, and body agenesis.">
+    <entity charOffset="14-35" id="26076463.s0.e0" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="36-61" id="26076463.s0.e1" ontology_id="GO_0001942" text="hair follicle development" type="GO"/>
+    <entity charOffset="158-169" id="26076463.s0.e2" ontology_id="HP_0010442" text="polydactyly" type="HP"/>
+    <entity charOffset="266-274" id="26076463.s0.e3" ontology_id="HP_0001596" text="alopecia" type="HP"/>
+    <entity charOffset="284-300" id="26076463.s0.e4" ontology_id="HP_0001363" text="craniosynostosis" type="HP"/>
+    <entity charOffset="302-315" id="26076463.s0.e5" ontology_id="HP_0000316" text="hypertelorism" type="HP"/>
+    <entity charOffset="368-380" id="26076463.s0.e6" ontology_id="HP_0000135" text="hypogonadism" type="HP"/>
+    <pair e1="26076463.s0.e0" e2="26076463.s0.e2" id="26076463.s0.p0" relation="true"/>
+    <pair e1="26076463.s0.e1" e2="26076463.s0.e2" id="26076463.s0.p1" relation="true"/>
+    <pair e1="26076463.s0.e1" e2="26076463.s0.e3" id="26076463.s0.p2" relation="true"/>
+    <pair e1="26076463.s0.e1" e2="26076463.s0.e4" id="26076463.s0.p3" relation="true"/>
+    <pair e1="26076463.s0.e1" e2="26076463.s0.e5" id="26076463.s0.p4" relation="true"/>
+  </sentence>
+</document>

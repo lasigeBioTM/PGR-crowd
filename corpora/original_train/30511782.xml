@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<document id="30511782">
+  <sentence id="30511782.s0" text="Intraepithelial neoplasia in FGPs, referred to as FGP with dysplasia, is often seen in patients with familial adenomatous polyposis (proteolysis).">
+    <entity charOffset="16-25" id="30511782.s0.e0" ontology_id="HP_0002664" text="neoplasia" type="HP"/>
+    <entity charOffset="133-144" id="30511782.s0.e1" ontology_id="GO_0006508" text="proteolysis" type="GO"/>
+    <pair e1="30511782.s0.e0" e2="30511782.s0.e1" id="30511782.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="30511782.s1" text="In sporadic FGPs, low-grade dysplasia (LGD) is rare, and high-grade dysplasia (L-phenylalanine catabolic process) or carcinoma arising from sporadic FGPs is extremely rare.">
+    <entity charOffset="79-112" id="30511782.s1.e0" ontology_id="GO_0006559" text="L-phenylalanine catabolic process" type="GO"/>
+    <entity charOffset="117-126" id="30511782.s1.e1" ontology_id="HP_0030731" text="carcinoma" type="HP"/>
+    <pair e1="30511782.s1.e0" e2="30511782.s1.e1" id="30511782.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="30511782.s2" text="In the present case, a sporadic FGP with LGD did not develop into invasive carcinoma, but contained foci of L-phenylalanine catabolic process 14 years after diagnosis.">
+    <entity charOffset="23-31" id="30511782.s2.e0" ontology_id="HP_0003745" text="sporadic" type="HP"/>
+    <entity charOffset="108-141" id="30511782.s2.e1" ontology_id="GO_0006559" text="L-phenylalanine catabolic process" type="GO"/>
+    <pair e1="30511782.s2.e0" e2="30511782.s2.e1" id="30511782.s2.p0" relation="false"/>
+  </sentence>
+  <sentence id="30511782.s3" text="The pathological diagnosis of the resected specimen was FGP with L-phenylalanine catabolic process mixed in LGD, with no invasive carcinoma.">
+    <entity charOffset="65-98" id="30511782.s3.e0" ontology_id="GO_0006559" text="L-phenylalanine catabolic process" type="GO"/>
+    <entity charOffset="130-139" id="30511782.s3.e1" ontology_id="HP_0030731" text="carcinoma" type="HP"/>
+    <pair e1="30511782.s3.e0" e2="30511782.s3.e1" id="30511782.s3.p0" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="24812430">
+  <sentence id="24812430.s0" text="Several candidate genes for obesity and T2D (e.g., insulin receptor signaling pathway and VEGFA) were differentially expressed in discordant twins.">
+    <entity charOffset="28-35" id="24812430.s0.e0" ontology_id="HP_0001513" text="obesity" type="HP"/>
+    <entity charOffset="51-85" id="24812430.s0.e1" ontology_id="GO_0008286" text="insulin receptor signaling pathway" type="GO"/>
+    <pair e1="24812430.s0.e0" e2="24812430.s0.e1" id="24812430.s0.p0" relation="false"/>
+  </sentence>
+</document>

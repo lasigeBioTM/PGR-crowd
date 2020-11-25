@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<document id="27480663">
+  <sentence id="27480663.s0" text="Recessive mutations in positive regulation of protein phosphorylation cause lethal neonatal rigidity and multifocal seizure syndrome, a phenotype characterized by neonatal microcephaly, hypertonia, and refractory epilepsy with premature death by age 2 years.">
+    <entity charOffset="23-69" id="27480663.s0.e0" ontology_id="GO_0001934" text="positive regulation of protein phosphorylation" type="GO"/>
+    <entity charOffset="92-100" id="27480663.s0.e1" ontology_id="HP_0002063" text="rigidity" type="HP"/>
+    <entity charOffset="105-115" id="27480663.s0.e2" ontology_id="HP_0030651" text="multifocal" type="HP"/>
+    <entity charOffset="116-123" id="27480663.s0.e3" ontology_id="HP_0001250" text="seizure" type="HP"/>
+    <entity charOffset="172-184" id="27480663.s0.e4" ontology_id="HP_0000252" text="microcephaly" type="HP"/>
+    <entity charOffset="186-196" id="27480663.s0.e5" ontology_id="HP_0001276" text="hypertonia" type="HP"/>
+    <pair e1="27480663.s0.e0" e2="27480663.s0.e1" id="27480663.s0.p0" relation="true"/>
+    <pair e1="27480663.s0.e0" e2="27480663.s0.e2" id="27480663.s0.p1" relation="true"/>
+    <pair e1="27480663.s0.e0" e2="27480663.s0.e3" id="27480663.s0.p2" relation="true"/>
+    <pair e1="27480663.s0.e0" e2="27480663.s0.e4" id="27480663.s0.p3" relation="true"/>
+    <pair e1="27480663.s0.e0" e2="27480663.s0.e5" id="27480663.s0.p4" relation="true"/>
+  </sentence>
+  <sentence id="27480663.s1" text="Mildly affected individuals with positive regulation of protein phosphorylation mutations show that BRAT1 must be considered as a cause in childhood refractory epilepsy and microcephaly with survival beyond infancy.">
+    <entity charOffset="33-79" id="27480663.s1.e0" ontology_id="GO_0001934" text="positive regulation of protein phosphorylation" type="GO"/>
+    <entity charOffset="160-168" id="27480663.s1.e1" ontology_id="HP_0001250" text="epilepsy" type="HP"/>
+    <entity charOffset="173-185" id="27480663.s1.e2" ontology_id="HP_0000252" text="microcephaly" type="HP"/>
+    <pair e1="27480663.s1.e0" e2="27480663.s1.e2" id="27480663.s1.p0" relation="true"/>
+    <pair e1="27480663.s1.e0" e2="27480663.s1.e1" id="27480663.s1.p1" relation="true"/>
+  </sentence>
+</document>

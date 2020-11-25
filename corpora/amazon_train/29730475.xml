@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29730475">
+  <sentence id="29730475.s0" text="In functional assays performed with RNA knockdown, loss of protein secretion attenuated aggressive phenotypes in glioma cells, including cell proliferation, invasion, and sphere formation in vitro and tumor growth in vivo.">
+    <entity charOffset="59-76" id="29730475.s0.e0" ontology_id="GO_0009306" text="protein secretion" type="GO"/>
+    <entity charOffset="201-206" id="29730475.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29730475.s0.e0" e2="29730475.s0.e1" id="29730475.s0.p0" relation="true"/>
+  </sentence>
+</document>

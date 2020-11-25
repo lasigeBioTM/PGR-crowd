@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<document id="29372391">
+  <sentence id="29372391.s0" text="Mutations in ganglioside-induced differentiation-associated-protein 1 (GDAP1) have been associated with both subtypes of Charcot-Marie-Tooth (CMT) disease, autosomal recessive (mitochondrial fission and oxidation-reduction process-CMT2K) and autosomal dominant (AD-CMT2K).">
+    <entity charOffset="156-175" id="29372391.s0.e0" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="177-198" id="29372391.s0.e1" ontology_id="GO_0000266" text="mitochondrial fission" type="GO"/>
+    <entity charOffset="203-230" id="29372391.s0.e2" ontology_id="GO_0055114" text="oxidation-reduction process" type="GO"/>
+    <pair e1="29372391.s0.e0" e2="29372391.s0.e1" id="29372391.s0.p0" relation="true"/>
+    <pair e1="29372391.s0.e0" e2="29372391.s0.e2" id="29372391.s0.p1" relation="false"/>
+  </sentence>
+  <sentence id="29372391.s1" text="Three families (families 1, 2 and 3) were found to have an autosomal recessive (oxidation-reduction process) pattern of inheritance while family 4 displayed an autosomal dominant (AD) mode of inheritance.">
+    <entity charOffset="59-78" id="29372391.s1.e0" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="80-107" id="29372391.s1.e1" ontology_id="GO_0055114" text="oxidation-reduction process" type="GO"/>
+    <entity charOffset="184-203" id="29372391.s1.e2" ontology_id="HP_0000005" text="mode of inheritance" type="HP"/>
+    <pair e1="29372391.s1.e0" e2="29372391.s1.e1" id="29372391.s1.p0" relation="false"/>
+    <pair e1="29372391.s1.e1" e2="29372391.s1.e2" id="29372391.s1.p1" relation="false"/>
+  </sentence>
+  <sentence id="29372391.s2" text="Electro-physiologic studies revealed an axonal type of neuropathy (oxidation-reduction process-CMT2K and AD-CMT2K) in all affected individuals.">
+    <entity charOffset="55-65" id="29372391.s2.e0" ontology_id="HP_0009830" text="neuropathy" type="HP"/>
+    <entity charOffset="67-94" id="29372391.s2.e1" ontology_id="GO_0055114" text="oxidation-reduction process" type="GO"/>
+    <pair e1="29372391.s2.e0" e2="29372391.s2.e1" id="29372391.s2.p0" relation="false"/>
+  </sentence>
+</document>

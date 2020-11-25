@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<document id="26677943">
+  <sentence id="26677943.s0" text="Although mutations in the gene encoding tricellulin are known to cause deafness in humans (sensory perception of sound) and mice, the influence of its systemic deletion in vivo remains unknown.">
+    <entity charOffset="71-79" id="26677943.s0.e0" ontology_id="HP_0000365" text="deafness" type="HP"/>
+    <entity charOffset="91-118" id="26677943.s0.e1" ontology_id="GO_0007605" text="sensory perception of sound" type="GO"/>
+    <pair e1="26677943.s0.e0" e2="26677943.s0.e1" id="26677943.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="26677943.s1" text="When we generated tricellulin-knockout mice (sensory perception of sound(-/-)), we found an early-onset rapidly progressive hearing loss associated with the degeneration of hair cells (mitochondrion organization); however, their body size and overall appearance were normal.">
+    <entity charOffset="45-72" id="26677943.s1.e0" ontology_id="GO_0007605" text="sensory perception of sound" type="GO"/>
+    <entity charOffset="112-123" id="26677943.s1.e1" ontology_id="HP_0003676" text="progressive" type="HP"/>
+    <entity charOffset="124-136" id="26677943.s1.e2" ontology_id="HP_0000365" text="hearing loss" type="HP"/>
+    <entity charOffset="185-211" id="26677943.s1.e3" ontology_id="GO_0007005" text="mitochondrion organization" type="GO"/>
+    <pair e1="26677943.s1.e0" e2="26677943.s1.e1" id="26677943.s1.p0" relation="false"/>
+    <pair e1="26677943.s1.e0" e2="26677943.s1.e2" id="26677943.s1.p1" relation="true"/>
+    <pair e1="26677943.s1.e1" e2="26677943.s1.e3" id="26677943.s1.p2" relation="false"/>
+  </sentence>
+</document>

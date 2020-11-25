@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="28391250">
+  <sentence id="28391250.s0" text="Vitamin-B&lt;sub&gt;6&lt;/sub&gt;-dependent epilepsies are a heterogenous group of treatable disorders due to mutations in several genes (&lt;i&gt;ALDH7A1, pyridoxal phosphate biosynthetic process, ALPL&lt;/i&gt; or &lt;i&gt;ALDH4A1&lt;/i&gt;).">
+    <entity charOffset="32-42" id="28391250.s0.e0" ontology_id="HP_0001250" text="epilepsies" type="HP"/>
+    <entity charOffset="138-178" id="28391250.s0.e1" ontology_id="GO_0042823" text="pyridoxal phosphate biosynthetic process" type="GO"/>
+    <pair e1="28391250.s0.e0" e2="28391250.s0.e1" id="28391250.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28391250.s1" text="In neonatal seizures, defects in &lt;i&gt;ALDH7A1 and pyridoxal phosphate biosynthetic process&lt;/i&gt; explain a major fraction of cases.">
+    <entity charOffset="12-20" id="28391250.s1.e0" ontology_id="HP_0001250" text="seizures" type="HP"/>
+    <entity charOffset="48-88" id="28391250.s1.e1" ontology_id="GO_0042823" text="pyridoxal phosphate biosynthetic process" type="GO"/>
+    <pair e1="28391250.s1.e0" e2="28391250.s1.e1" id="28391250.s1.p0" relation="true"/>
+  </sentence>
+</document>

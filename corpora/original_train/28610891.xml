@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="28610891">
+  <sentence id="28610891.s0" text="Mucolipidosis muscle organ development IV (protein homotetramerization) is a lysosomal storage disease exhibiting progressive intellectual disability, motor impairment, and premature death.">
+    <entity charOffset="14-38" id="28610891.s0.e0" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="43-70" id="28610891.s0.e1" ontology_id="GO_0051289" text="protein homotetramerization" type="GO"/>
+    <entity charOffset="126-149" id="28610891.s0.e2" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <pair e1="28610891.s0.e0" e2="28610891.s0.e2" id="28610891.s0.p0" relation="false"/>
+    <pair e1="28610891.s0.e1" e2="28610891.s0.e2" id="28610891.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="28610891.s1" text="Several studies have demonstrated that N-butyldeoxynojirimycin (NB-DNJ, also known as miglustat), an inhibitor of the enzyme glucosylceramide synthase (GCS), successfully delays the onset of motor deficits, improves longevity, and rescues some of the cerebellar abnormalities (e.g., Purkinje cell death) seen in another lysosomal disease known as Niemann-Pick muscle organ development C (NPC).">
+    <entity charOffset="251-275" id="28610891.s1.e0" ontology_id="HP_0001317" text="cerebellar abnormalities" type="HP"/>
+    <entity charOffset="360-384" id="28610891.s1.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <pair e1="28610891.s1.e0" e2="28610891.s1.e1" id="28610891.s1.p0" relation="false"/>
+  </sentence>
+</document>

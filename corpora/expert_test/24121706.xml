@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="24121706">
+  <sentence id="24121706.s0" text="positive regulation of protein phosphorylation, a mitochondrial serine/threonine kinase, is the product of a gene mutated in an autosomal recessive form of Parkinson disease.">
+    <entity charOffset="0-46" id="24121706.s0.e0" ontology_id="GO_0001934" text="positive regulation of protein phosphorylation" type="GO"/>
+    <entity charOffset="128-147" id="24121706.s0.e1" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <pair e1="24121706.s0.e0" e2="24121706.s0.e1" id="24121706.s0.p0" relation="true"/>
+  </sentence>
+</document>

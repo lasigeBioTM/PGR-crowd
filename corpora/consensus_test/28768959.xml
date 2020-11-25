@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="28768959">
+  <sentence id="28768959.s0" text="Unlike previously reported patients with keratan sulfate biosynthetic process mutations, our four patients with ACAN variants manifested non-specific short stature with age-appropriate or mildly delayed bone ages, and had parents of normal stature.">
+    <entity charOffset="41-77" id="28768959.s0.e0" ontology_id="GO_0018146" text="keratan sulfate biosynthetic process" type="GO"/>
+    <entity charOffset="150-163" id="28768959.s0.e1" ontology_id="HP_0004322" text="short stature" type="HP"/>
+    <pair e1="28768959.s0.e0" e2="28768959.s0.e1" id="28768959.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28768959.s1" text="Although mutations in ACAN, FGFR3, negative regulation of kinase activity, and SHOX typically lead to skeletal dysplasia, and mutations in adenylate cyclase-activating G protein-coupled receptor signaling pathway, GH1, GHR, response to estradiol, IGF1, IGFALS, and IGF1R usually underlie hormonal defects of the growth hormone (GH)-insulin-like growth factor 1 (IGF1) axis, such mutations have also been identified in patients with idiopathic short stature (ISS).">
+    <entity charOffset="35-73" id="28768959.s1.e0" ontology_id="GO_0033673" text="negative regulation of kinase activity" type="GO"/>
+    <entity charOffset="102-120" id="28768959.s1.e1" ontology_id="HP_0002652" text="skeletal dysplasia" type="HP"/>
+    <entity charOffset="139-212" id="28768959.s1.e2" ontology_id="GO_0007189" text="adenylate cyclase-activating G protein-coupled receptor signaling pathway" type="GO"/>
+    <entity charOffset="224-245" id="28768959.s1.e3" ontology_id="GO_0032355" text="response to estradiol" type="GO"/>
+    <entity charOffset="443-456" id="28768959.s1.e4" ontology_id="HP_0004322" text="short stature" type="HP"/>
+    <pair e1="28768959.s1.e0" e2="28768959.s1.e4" id="28768959.s1.p0" relation="false"/>
+    <pair e1="28768959.s1.e1" e2="28768959.s1.e3" id="28768959.s1.p1" relation="true"/>
+    <pair e1="28768959.s1.e2" e2="28768959.s1.e4" id="28768959.s1.p2" relation="false"/>
+  </sentence>
+</document>

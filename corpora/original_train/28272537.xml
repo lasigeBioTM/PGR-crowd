@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="28272537">
+  <sentence id="28272537.s0" text="Mutations in the phosphatidylcholine biosynthetic process gene have been recently linked to two different phenotypes: one characterized by spondylometaphyseal dysplasia and cone-rod dystrophy (SMD-CRD) and the other by congenital lipodystrophy, severe fatty liver disease, and reduced HDL cholesterol without any retinal or skeletal involvement.">
+    <entity charOffset="17-57" id="28272537.s0.e0" ontology_id="GO_0006656" text="phosphatidylcholine biosynthetic process" type="GO"/>
+    <entity charOffset="139-168" id="28272537.s0.e1" ontology_id="HP_0002657" text="spondylometaphyseal dysplasia" type="HP"/>
+    <entity charOffset="230-243" id="28272537.s0.e2" ontology_id="HP_0009125" text="lipodystrophy" type="HP"/>
+    <pair e1="28272537.s0.e0" e2="28272537.s0.e1" id="28272537.s0.p0" relation="true"/>
+    <pair e1="28272537.s0.e0" e2="28272537.s0.e2" id="28272537.s0.p1" relation="false"/>
+  </sentence>
+  <sentence id="28272537.s1" text="This is the first report showing that the phosphatidylcholine biosynthetic process gene can be responsible for isolated forms of retinal dystrophy, particularly without any skeletal involvement, thus further expanding the phenotypic spectrum induced by mutations in this gene">
+    <entity charOffset="42-82" id="28272537.s1.e0" ontology_id="GO_0006656" text="phosphatidylcholine biosynthetic process" type="GO"/>
+    <entity charOffset="129-146" id="28272537.s1.e1" ontology_id="HP_0000556" text="retinal dystrophy" type="HP"/>
+    <pair e1="28272537.s1.e0" e2="28272537.s1.e1" id="28272537.s1.p0" relation="true"/>
+  </sentence>
+</document>

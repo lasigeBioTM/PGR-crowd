@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29118297">
+  <sentence id="29118297.s0" text="In conclusion, overexpression of the striated muscle contraction-p.N49S mutation in a mouse heart can be responsible for the phenotype of deep trabeculation, dilated cardiomyopathy, and cardiac dysfunction, which resembles the phenotype of LVNC">
+    <entity charOffset="37-64" id="29118297.s0.e0" ontology_id="GO_0006941" text="striated muscle contraction" type="GO"/>
+    <entity charOffset="166-180" id="29118297.s0.e1" ontology_id="HP_0001638" text="cardiomyopathy" type="HP"/>
+    <pair e1="29118297.s0.e0" e2="29118297.s0.e1" id="29118297.s0.p0" relation="true"/>
+  </sentence>
+</document>

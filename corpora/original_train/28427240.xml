@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<document id="28427240">
+  <sentence id="28427240.s0" text="Here, we examined the effects of protein monoubiquitination on the progression of gastric cancer.">
+    <entity charOffset="33-59" id="28427240.s0.e0" ontology_id="GO_0006513" text="protein monoubiquitination" type="GO"/>
+    <entity charOffset="90-96" id="28427240.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28427240.s0.e0" e2="28427240.s0.e1" id="28427240.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28427240.s1" text="protein monoubiquitination was highly expressed in gastric tumors and gastric cancer cells.">
+    <entity charOffset="0-26" id="28427240.s1.e0" ontology_id="GO_0006513" text="protein monoubiquitination" type="GO"/>
+    <entity charOffset="59-65" id="28427240.s1.e1" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <pair e1="28427240.s1.e0" e2="28427240.s1.e1" id="28427240.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="28427240.s2" text="Suppression of protein monoubiquitination also attenuated the invasive and metastatic abilities of gastric cancer cells by altering expression of epithelial-mesenchymal transition (cytokine production)-related factors.">
+    <entity charOffset="15-41" id="28427240.s2.e0" ontology_id="GO_0006513" text="protein monoubiquitination" type="GO"/>
+    <entity charOffset="107-113" id="28427240.s2.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="181-200" id="28427240.s2.e2" ontology_id="GO_0001816" text="cytokine production" type="GO"/>
+    <pair e1="28427240.s2.e0" e2="28427240.s2.e1" id="28427240.s2.p0" relation="true"/>
+    <pair e1="28427240.s2.e1" e2="28427240.s2.e2" id="28427240.s2.p1" relation="true"/>
+  </sentence>
+  <sentence id="28427240.s3" text="A xenograft model in which nude epidermis development were injected with protein monoubiquitination knockdown human gastric cancer cells confirmed that suppression of UBE2T also decreased tumor formation and growth in vivo.">
+    <entity charOffset="32-53" id="28427240.s3.e0" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="73-99" id="28427240.s3.e1" ontology_id="GO_0006513" text="protein monoubiquitination" type="GO"/>
+    <entity charOffset="124-130" id="28427240.s3.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="188-193" id="28427240.s3.e3" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28427240.s3.e0" e2="28427240.s3.e2" id="28427240.s3.p0" relation="false"/>
+    <pair e1="28427240.s3.e0" e2="28427240.s3.e3" id="28427240.s3.p1" relation="false"/>
+    <pair e1="28427240.s3.e1" e2="28427240.s3.e2" id="28427240.s3.p2" relation="true"/>
+    <pair e1="28427240.s3.e1" e2="28427240.s3.e3" id="28427240.s3.p3" relation="true"/>
+  </sentence>
+  <sentence id="28427240.s4" text="These results suggest that protein monoubiquitination plays a critical role in gastric cancer, and that it may serve as a useful prognostic biomarker and therapeutic target in gastric cancer patients">
+    <entity charOffset="27-53" id="28427240.s4.e0" ontology_id="GO_0006513" text="protein monoubiquitination" type="GO"/>
+    <entity charOffset="87-93" id="28427240.s4.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28427240.s4.e0" e2="28427240.s4.e1" id="28427240.s4.p0" relation="true"/>
+  </sentence>
+</document>

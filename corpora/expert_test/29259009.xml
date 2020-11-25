@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29259009">
+  <sentence id="29259009.s0" text="Overall, our findings establish small GTPase mediated signal transduction as a tumor-suppressive hub in MM and provide a mechanistic rationale for combining trametinib with HDAC inhibitors or bortezomib to treat patients with tumors exhibiting low RASSF4 expression.&lt;b&gt;Significance:&lt;/b&gt; These findings provide a mechanistic rationale for combining trametinib with HDAC inhibitors or bortezomib in patients with multiple myeloma whose tumors exhibit low RASSF4 expression.">
+    <entity charOffset="32-73" id="29259009.s0.e0" ontology_id="GO_0007264" text="small GTPase mediated signal transduction" type="GO"/>
+    <entity charOffset="79-84" id="29259009.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29259009.s0.e0" e2="29259009.s0.e1" id="29259009.s0.p0" relation="true"/>
+  </sentence>
+</document>

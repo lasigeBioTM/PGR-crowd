@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="28777491">
+  <sentence id="28777491.s0" text="Horstick et al. (2013) previously reported a homozygous p.Trp284Ser variant in skeletal muscle contraction as the cause of Native American myopathy (NAM) in 5 Lumbee Native American families with congenital hypotonia and weakness, cleft palate, short stature, ptosis, kyphoscoliosis, talipes deformities, and susceptibility to malignant hyperthermia (MH).">
+    <entity charOffset="79-106" id="28777491.s0.e0" ontology_id="GO_0003009" text="skeletal muscle contraction" type="GO"/>
+    <entity charOffset="231-243" id="28777491.s0.e1" ontology_id="HP_0000175" text="cleft palate" type="HP"/>
+    <entity charOffset="245-258" id="28777491.s0.e2" ontology_id="HP_0004322" text="short stature" type="HP"/>
+    <entity charOffset="260-266" id="28777491.s0.e3" ontology_id="HP_0000508" text="ptosis" type="HP"/>
+    <entity charOffset="268-282" id="28777491.s0.e4" ontology_id="HP_0002751" text="kyphoscoliosis" type="HP"/>
+    <pair e1="28777491.s0.e0" e2="28777491.s0.e1" id="28777491.s0.p0" relation="true"/>
+    <pair e1="28777491.s0.e0" e2="28777491.s0.e2" id="28777491.s0.p1" relation="true"/>
+    <pair e1="28777491.s0.e0" e2="28777491.s0.e3" id="28777491.s0.p2" relation="true"/>
+    <pair e1="28777491.s0.e0" e2="28777491.s0.e4" id="28777491.s0.p3" relation="true"/>
+  </sentence>
+</document>

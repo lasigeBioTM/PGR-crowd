@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29342219">
+  <sentence id="29342219.s0" text="Overexpression of many factors predicted poor prognosis in breast (cellular response to ionizing radiation, EEF1E1, EEF2) and lung cancer (EEF1A2, EEF1B2, EEF1G, EEF1E1).">
+    <entity charOffset="67-106" id="29342219.s0.e0" ontology_id="GO_0071479" text="cellular response to ionizing radiation" type="GO"/>
+    <entity charOffset="131-137" id="29342219.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29342219.s0.e0" e2="29342219.s0.e1" id="29342219.s0.p0" relation="false"/>
+  </sentence>
+</document>

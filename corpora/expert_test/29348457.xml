@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<document id="29348457">
+  <sentence id="29348457.s0" text="By using three human tumor cell lines of different tissue origin (epidermoid HEp-3 and prostate PC-3 carcinomas and HT-1080 fibrosarcoma) and several metastasis models conducted in both mammalian and avian settings, we show that transforming growth factor beta activation is involved in the early dissemination of primary cancer cells, namely in the intravasation step of the metastatic cascade.">
+    <entity charOffset="101-111" id="29348457.s0.e0" ontology_id="HP_0030731" text="carcinomas" type="HP"/>
+    <entity charOffset="229-271" id="29348457.s0.e1" ontology_id="GO_0036363" text="transforming growth factor beta activation" type="GO"/>
+    <entity charOffset="322-328" id="29348457.s0.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29348457.s0.e0" e2="29348457.s0.e1" id="29348457.s0.p0" relation="false"/>
+    <pair e1="29348457.s0.e1" e2="29348457.s0.e2" id="29348457.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="29348457.s1" text="transforming growth factor beta activation was dispensable in the late steps of carcinoma cell metastasis that follow tumor cell intravasation, including vascular arrest, extravasation, and tissue colonization.">
+    <entity charOffset="0-42" id="29348457.s1.e0" ontology_id="GO_0036363" text="transforming growth factor beta activation" type="GO"/>
+    <entity charOffset="118-123" id="29348457.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29348457.s1.e0" e2="29348457.s1.e1" id="29348457.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="29348457.s2" text="Knockdown of transforming growth factor beta activation in all tested cell lines led to significant inhibition of tumor cell intravasation, but did not affect primary tumor growth.">
+    <entity charOffset="13-55" id="29348457.s2.e0" ontology_id="GO_0036363" text="transforming growth factor beta activation" type="GO"/>
+    <entity charOffset="114-119" id="29348457.s2.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29348457.s2.e0" e2="29348457.s2.e1" id="29348457.s2.p0" relation="true"/>
+  </sentence>
+</document>

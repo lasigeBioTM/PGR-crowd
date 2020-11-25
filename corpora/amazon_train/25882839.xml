@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="25882839">
+  <sentence id="25882839.s0" text="protein ubiquitination is an endoplasmic reticulum membrane ubiquitin ligase that contributes to the ubiquitination of activated inositol 1,4,5-trisphosphate (IP3) receptors, and also, when point mutated (arginine to cysteine at position 199), causes autosomal dominant sensory ataxia (ADSA), a disease characterized by neurodegeneration in the posterior columns of the spinal cord.">
+    <entity charOffset="0-22" id="25882839.s0.e0" ontology_id="GO_0016567" text="protein ubiquitination" type="GO"/>
+    <entity charOffset="278-284" id="25882839.s0.e1" ontology_id="HP_0001251" text="ataxia" type="HP"/>
+    <pair e1="25882839.s0.e0" e2="25882839.s0.e1" id="25882839.s0.p0" relation="true"/>
+  </sentence>
+</document>

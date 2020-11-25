@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="26725848">
+  <sentence id="26725848.s0" text="Our association analysis revealed a uniform pattern of Warburg effect mutations influencing prognosis across all tumor types, while copy number alterations in the electron transport chain gene SCO2, fatty acid uptake (CAV1, CD36) and lipogenesis (negative regulation of transcription by RNA polymerase II, positive regulation of transcription, DNA-templated, MLXIPL) genes were enriched in metastatic tumors.">
+    <entity charOffset="113-118" id="26725848.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="247-304" id="26725848.s0.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="306-357" id="26725848.s0.e2" ontology_id="GO_0045893" text="positive regulation of transcription, DNA-templated" type="GO"/>
+    <pair e1="26725848.s0.e0" e2="26725848.s0.e2" id="26725848.s0.p0" relation="false"/>
+    <pair e1="26725848.s0.e0" e2="26725848.s0.e1" id="26725848.s0.p1" relation="false"/>
+  </sentence>
+</document>

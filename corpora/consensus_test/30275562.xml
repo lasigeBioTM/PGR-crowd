@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="30275562">
+  <sentence id="30275562.s0" text="In addition, we demonstrated that positive regulation of protein ubiquitination-enhanced tumor growth is dependent on depletion of p62 in vivo.">
+    <entity charOffset="34-79" id="30275562.s0.e0" ontology_id="GO_0031398" text="positive regulation of protein ubiquitination" type="GO"/>
+    <entity charOffset="89-94" id="30275562.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="30275562.s0.e0" e2="30275562.s0.e1" id="30275562.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="30275562.s1" text="Furthermore, positive regulation of protein ubiquitination enhanced cancer cell proliferation, viability, and colony formation in vitro via suppression of p62.">
+    <entity charOffset="13-58" id="30275562.s1.e0" ontology_id="GO_0031398" text="positive regulation of protein ubiquitination" type="GO"/>
+    <entity charOffset="68-74" id="30275562.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30275562.s1.e0" e2="30275562.s1.e1" id="30275562.s1.p0" relation="true"/>
+  </sentence>
+</document>

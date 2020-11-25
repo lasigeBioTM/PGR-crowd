@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<document id="26978485">
+  <sentence id="26978485.s0" text="A moderate to severe reduction (&amp;gt;50%) in positive regulation of cell death activity resulting from recessive deletions and/or missense mutations has been shown to cause muscle organ development 1 hyperprolinemia (HPI).">
+    <entity charOffset="44-77" id="26978485.s0.e0" ontology_id="GO_0010942" text="positive regulation of cell death" type="GO"/>
+    <entity charOffset="172-196" id="26978485.s0.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="199-214" id="26978485.s0.e2" ontology_id="HP_0008358" text="hyperprolinemia" type="HP"/>
+    <pair e1="26978485.s0.e0" e2="26978485.s0.e2" id="26978485.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="26978485.s1" text="Here we studied the frequency of a recurrent small 22q11.2 deletion encompassing positive regulation of cell death and the neighboring cell adhesion gene in three case-control studies, one comprising HPI patients (n = 83), and the other two comprising autism spectrum disorder (ASD) patients (total of n = 2800), analyzed with high-resolution microarrays.">
+    <entity charOffset="81-114" id="26978485.s1.e0" ontology_id="GO_0010942" text="positive regulation of cell death" type="GO"/>
+    <entity charOffset="135-148" id="26978485.s1.e1" ontology_id="GO_0007155" text="cell adhesion" type="GO"/>
+    <entity charOffset="252-258" id="26978485.s1.e2" ontology_id="HP_0000717" text="autism" type="HP"/>
+    <pair e1="26978485.s1.e0" e2="26978485.s1.e2" id="26978485.s1.p0" relation="true"/>
+    <pair e1="26978485.s1.e1" e2="26978485.s1.e2" id="26978485.s1.p1" relation="true"/>
+  </sentence>
+</document>

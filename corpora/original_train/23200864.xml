@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="23200864">
+  <sentence id="23200864.s0" text="By using exome and capillary sequencing, we here identify biallelic biological_process mutations in four patients from three unrelated families presenting an autosomal-recessive blepharophimosis-ptosis-intellectual-disability syndrome characterized by developmental delay, growth retardation with a small head circumference, facial dysmorphisms, and low cholesterol levels.">
+    <entity charOffset="68-86" id="23200864.s0.e0" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="299-323" id="23200864.s0.e1" ontology_id="HP_0000252" text="small head circumference" type="HP"/>
+    <entity charOffset="325-344" id="23200864.s0.e2" ontology_id="HP_0001999" text="facial dysmorphisms" type="HP"/>
+    <pair e1="23200864.s0.e0" e2="23200864.s0.e1" id="23200864.s0.p0" relation="true"/>
+    <pair e1="23200864.s0.e0" e2="23200864.s0.e2" id="23200864.s0.p1" relation="true"/>
+  </sentence>
+</document>

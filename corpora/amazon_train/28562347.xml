@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<document id="28562347">
+  <sentence id="28562347.s0" text="This study aimed to evaluate the interactions between single nucleotide polymorphisms of response to oxidative stress (rs1917799) and protein polyubiquitination (rs158572 and rs158916) in gastric cancer and its precancerous diseases.">
+    <entity charOffset="89-117" id="28562347.s0.e0" ontology_id="GO_0006979" text="response to oxidative stress" type="GO"/>
+    <entity charOffset="134-160" id="28562347.s0.e1" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="196-202" id="28562347.s0.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28562347.s0.e0" e2="28562347.s0.e2" id="28562347.s0.p0" relation="true"/>
+    <pair e1="28562347.s0.e1" e2="28562347.s0.e2" id="28562347.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="28562347.s1" text="response to oxidative stress rs1917799 also showed a significant interaction with ERCC8 rs158916 to reduce gastric cancer risk.">
+    <entity charOffset="0-28" id="28562347.s1.e0" ontology_id="GO_0006979" text="response to oxidative stress" type="GO"/>
+    <entity charOffset="115-121" id="28562347.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28562347.s1.e0" e2="28562347.s1.e1" id="28562347.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="28562347.s2" text="The expressions of response to oxidative stress, protein polyubiquitination and ERCC6-ERCC8 combination have similarities that higher positivity was observed in chronic superficial gastritis compared with chronic atrophic gastritis and gastric cancer.">
+    <entity charOffset="19-47" id="28562347.s2.e0" ontology_id="GO_0006979" text="response to oxidative stress" type="GO"/>
+    <entity charOffset="49-75" id="28562347.s2.e1" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="244-250" id="28562347.s2.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28562347.s2.e0" e2="28562347.s2.e2" id="28562347.s2.p0" relation="true"/>
+    <pair e1="28562347.s2.e1" e2="28562347.s2.e2" id="28562347.s2.p1" relation="false"/>
+  </sentence>
+</document>

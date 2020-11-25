@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="22383991">
+  <sentence id="22383991.s0" text="Some of the genes causing the Fanconi anemia (FA) syndrome, such as mitotic cytokinesis, mitochondrial translational elongation, double-strand break repair via homologous recombination, and DNA repair, are associated with high or moderate risk of developing breast cancer.">
+    <entity charOffset="68-87" id="22383991.s0.e0" ontology_id="GO_0000281" text="mitotic cytokinesis" type="GO"/>
+    <entity charOffset="89-127" id="22383991.s0.e1" ontology_id="GO_0070125" text="mitochondrial translational elongation" type="GO"/>
+    <entity charOffset="129-184" id="22383991.s0.e2" ontology_id="GO_0000724" text="double-strand break repair via homologous recombination" type="GO"/>
+    <entity charOffset="190-200" id="22383991.s0.e3" ontology_id="GO_0006281" text="DNA repair" type="GO"/>
+    <entity charOffset="265-271" id="22383991.s0.e4" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="22383991.s0.e0" e2="22383991.s0.e4" id="22383991.s0.p0" relation="true"/>
+    <pair e1="22383991.s0.e1" e2="22383991.s0.e4" id="22383991.s0.p1" relation="true"/>
+    <pair e1="22383991.s0.e2" e2="22383991.s0.e4" id="22383991.s0.p2" relation="true"/>
+    <pair e1="22383991.s0.e3" e2="22383991.s0.e4" id="22383991.s0.p3" relation="true"/>
+  </sentence>
+</document>

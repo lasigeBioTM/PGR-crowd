@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="27129268">
+  <sentence id="27129268.s0" text="Recent studies have linked mutations in the SLC24A4 (NCKX4) and ion transmembrane transport (NCKX5) genes to amylogenesis imperfecta (AI) and non-syndromic oculocutaneous albinism (OCA6), respectively.">
+    <entity charOffset="64-91" id="27129268.s0.e0" ontology_id="GO_0034220" text="ion transmembrane transport" type="GO"/>
+    <entity charOffset="171-179" id="27129268.s0.e1" ontology_id="HP_0001022" text="albinism" type="HP"/>
+    <pair e1="27129268.s0.e0" e2="27129268.s0.e1" id="27129268.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="27129268.s1" text="We also analyzed two mutations in a Drosophila ion transport gene that have been reported to result in an increased susceptibility for seizures, and found that both resulted in mutant proteins with significantly reduced but observable NCKX activity.">
+    <entity charOffset="47-60" id="27129268.s1.e0" ontology_id="GO_0006811" text="ion transport" type="GO"/>
+    <entity charOffset="135-143" id="27129268.s1.e1" ontology_id="HP_0001250" text="seizures" type="HP"/>
+    <pair e1="27129268.s1.e0" e2="27129268.s1.e1" id="27129268.s1.p0" relation="true"/>
+  </sentence>
+</document>

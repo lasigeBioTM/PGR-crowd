@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="28376086">
+  <sentence id="28376086.s0" text="The mitochondrial protein mitochondrial membrane fission has been recently identified as a novel pathogenic cause in a wide spectrum of neurological diseases, including inherited optic atrophy, Charcot-Marie-Tooth type 2, Leigh syndrome, progressive myoclonic ataxia and lethal congenital pontocerebellar hypoplasia.">
+    <entity charOffset="26-56" id="28376086.s0.e0" ontology_id="GO_0090149" text="mitochondrial membrane fission" type="GO"/>
+    <entity charOffset="179-192" id="28376086.s0.e1" ontology_id="HP_0000648" text="optic atrophy" type="HP"/>
+    <entity charOffset="294-315" id="28376086.s0.e2" ontology_id="HP_0001321" text="cerebellar hypoplasia" type="HP"/>
+    <pair e1="28376086.s0.e0" e2="28376086.s0.e2" id="28376086.s0.p0" relation="true"/>
+    <pair e1="28376086.s0.e0" e2="28376086.s0.e1" id="28376086.s0.p1" relation="true"/>
+  </sentence>
+</document>

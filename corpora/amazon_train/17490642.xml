@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<document id="17490642">
+  <sentence id="17490642.s0" text="Mutations in both proteins cause lens cataract and careful consideration of the detail of these cataract phenotypes alerts us to several interesting features concerning the function of biological_process (biological_process) and CP49 (visual perception) in the lens.">
+    <entity charOffset="38-46" id="17490642.s0.e0" ontology_id="HP_0000518" text="cataract" type="HP"/>
+    <entity charOffset="185-203" id="17490642.s0.e1" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="205-223" id="17490642.s0.e2" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="235-252" id="17490642.s0.e3" ontology_id="GO_0007601" text="visual perception" type="GO"/>
+    <pair e1="17490642.s0.e0" e2="17490642.s0.e2" id="17490642.s0.p0" relation="true"/>
+    <pair e1="17490642.s0.e0" e2="17490642.s0.e3" id="17490642.s0.p1" relation="true"/>
+    <pair e1="17490642.s0.e0" e2="17490642.s0.e1" id="17490642.s0.p2" relation="true"/>
+  </sentence>
+  <sentence id="17490642.s1" text="With the first filensin (biological_process) mutation now having been reported to cause a recessive cataract phenotype, there is the suggestion that the mutation could predispose heterozygote carriers to the early onset of age-related nuclear cataract.">
+    <entity charOffset="25-43" id="17490642.s1.e0" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="100-108" id="17490642.s1.e1" ontology_id="HP_0000518" text="cataract" type="HP"/>
+    <pair e1="17490642.s1.e0" e2="17490642.s1.e1" id="17490642.s1.p0" relation="false"/>
+  </sentence>
+</document>

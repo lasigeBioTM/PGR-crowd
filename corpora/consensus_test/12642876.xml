@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="12642876">
+  <sentence id="12642876.s0" text="Its restricted expression in normal tissues and unique early upregulation during tumor development make microvillus organization an excellent candidate as a new clinical marker of HCC">
+    <entity charOffset="81-86" id="12642876.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="104-128" id="12642876.s0.e1" ontology_id="GO_0032528" text="microvillus organization" type="GO"/>
+    <pair e1="12642876.s0.e0" e2="12642876.s0.e1" id="12642876.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="12642876.s1" text="Liver cancer is very common worldwide and the rates of hepatocellular carcinoma (phosphatidylinositol phosphorylation) have increased by over 70% in the last 2 decades in the US.">
+    <entity charOffset="55-79" id="12642876.s1.e0" ontology_id="HP_0001402" text="hepatocellular carcinoma" type="HP"/>
+    <entity charOffset="81-117" id="12642876.s1.e1" ontology_id="GO_0046854" text="phosphatidylinositol phosphorylation" type="GO"/>
+  </sentence>
+</document>

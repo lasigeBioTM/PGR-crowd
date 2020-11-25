@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29417940">
+  <sentence id="29417940.s0" text="An early intervention using biomarkers to predict acute myocardial infarction (AMI) will effectively reduce global heart attack incidence, particularly among high-risk patients with muscle organ development 2 diabetes mellitus (T2DM).">
+    <entity charOffset="56-77" id="29417940.s0.e0" ontology_id="HP_0001658" text="myocardial infarction" type="HP"/>
+    <entity charOffset="182-206" id="29417940.s0.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <pair e1="29417940.s0.e0" e2="29417940.s0.e1" id="29417940.s0.p0" relation="true"/>
+  </sentence>
+</document>

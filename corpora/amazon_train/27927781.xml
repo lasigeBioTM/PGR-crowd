@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<document id="27927781">
+  <sentence id="27927781.s0" text="Elevated serum negative regulation of transcription by RNA polymerase II concentrations in primary and secondary hyperparathyroidism have been associated with bone disease, hypertension, and in some studies, cardiovascular mortality.">
+    <entity charOffset="15-72" id="27927781.s0.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="113-132" id="27927781.s0.e1" ontology_id="HP_0000843" text="hyperparathyroidism" type="HP"/>
+    <entity charOffset="173-185" id="27927781.s0.e2" ontology_id="HP_0000822" text="hypertension" type="HP"/>
+    <pair e1="27927781.s0.e0" e2="27927781.s0.e1" id="27927781.s0.p0" relation="true"/>
+  </sentence>
+</document>

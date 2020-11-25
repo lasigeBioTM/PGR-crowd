@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="20655465">
+  <sentence id="20655465.s0" text="We cellular response to interleukin-4 NF1 mutations in neuroblastoma cell lines and in primary tumors.">
+    <entity charOffset="3-37" id="20655465.s0.e0" ontology_id="GO_0071353" text="cellular response to interleukin-4" type="GO"/>
+    <entity charOffset="55-68" id="20655465.s0.e1" ontology_id="HP_0003006" text="neuroblastoma" type="HP"/>
+    <pair e1="20655465.s0.e0" e2="20655465.s0.e1" id="20655465.s0.p0" relation="false"/>
+  </sentence>
+</document>

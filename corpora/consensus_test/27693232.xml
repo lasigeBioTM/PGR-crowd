@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="27693232">
+  <sentence id="27693232.s0" text="Although overlapping features with Bohring-Opitz and Bainbridge-Ropers syndromes exist, features that distinguish the ASXL2-associated condition from monoubiquitinated histone H2A deubiquitination- and transcription, DNA-templated-related disorders are macrocephaly, absence of growth retardation, and more variability in the degree of intellectual disabilities.">
+    <entity charOffset="150-196" id="27693232.s0.e0" ontology_id="GO_0035522" text="monoubiquitinated histone H2A deubiquitination" type="GO"/>
+    <entity charOffset="202-230" id="27693232.s0.e1" ontology_id="GO_0006351" text="transcription, DNA-templated" type="GO"/>
+    <entity charOffset="253-265" id="27693232.s0.e2" ontology_id="HP_0000256" text="macrocephaly" type="HP"/>
+    <entity charOffset="336-361" id="27693232.s0.e3" ontology_id="HP_0001249" text="intellectual disabilities" type="HP"/>
+    <pair e1="27693232.s0.e0" e2="27693232.s0.e3" id="27693232.s0.p0" relation="false"/>
+    <pair e1="27693232.s0.e0" e2="27693232.s0.e2" id="27693232.s0.p1" relation="true"/>
+    <pair e1="27693232.s0.e1" e2="27693232.s0.e2" id="27693232.s0.p2" relation="true"/>
+    <pair e1="27693232.s0.e1" e2="27693232.s0.e3" id="27693232.s0.p3" relation="true"/>
+  </sentence>
+</document>

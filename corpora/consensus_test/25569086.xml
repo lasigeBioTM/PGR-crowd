@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="25569086">
+  <sentence id="25569086.s0" text="The ADAMTS18 gene is often down-regulated by hypermethylation in ccRCC-derived cell lines and primary tumors, indicating its critical role as a negative regulation of cytokine production in ccRCC.">
+    <entity charOffset="102-107" id="25569086.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="144-186" id="25569086.s0.e1" ontology_id="GO_0001818" text="negative regulation of cytokine production" type="GO"/>
+    <pair e1="25569086.s0.e0" e2="25569086.s0.e1" id="25569086.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="25569086.s1" text="ADAMTS18, located at 16q23.1, has been reported to be a critical negative regulation of cytokine production in multiple primary tumors; however, this has not yet been verified in clear cell renal cell carcinoma (ccRCC).">
+    <entity charOffset="65-107" id="25569086.s1.e0" ontology_id="GO_0001818" text="negative regulation of cytokine production" type="GO"/>
+    <entity charOffset="128-133" id="25569086.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="25569086.s1.e0" e2="25569086.s1.e1" id="25569086.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="25569086.s2" text="To identify tumor suppressor genes (negative regulation of cytokine productions) silenced by hypermethylation and discover new epigenetic biomarkers for early cancer detection.">
+    <entity charOffset="12-17" id="25569086.s2.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="36-78" id="25569086.s2.e1" ontology_id="GO_0001818" text="negative regulation of cytokine production" type="GO"/>
+    <pair e1="25569086.s2.e0" e2="25569086.s2.e1" id="25569086.s2.p0" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="26660953">
+  <sentence id="26660953.s0" text="Taken together, these results suggest the implication of platelet aggregation in a new autosomal recessive MCA.">
+    <entity charOffset="57-77" id="26660953.s0.e0" ontology_id="GO_0070527" text="platelet aggregation" type="GO"/>
+    <entity charOffset="87-106" id="26660953.s0.e1" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <pair e1="26660953.s0.e0" e2="26660953.s0.e1" id="26660953.s0.p0" relation="true"/>
+  </sentence>
+</document>

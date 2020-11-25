@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="29314551">
+  <sentence id="29314551.s0" text="We report the case of a boy with a novel pathogenic MYH3 mutation, presenting with the classical clinical features of activation of innate immune response in association with unilateral carpal bone fusion and multiple vertebral fusions.">
+    <entity charOffset="118-154" id="29314551.s0.e0" ontology_id="GO_0002218" text="activation of innate immune response" type="GO"/>
+    <entity charOffset="218-235" id="29314551.s0.e1" ontology_id="HP_0002948" text="vertebral fusions" type="HP"/>
+  </sentence>
+</document>

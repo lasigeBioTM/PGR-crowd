@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<document id="26965286">
+  <sentence id="26965286.s0" text="80.5 % of luminal-type tumours developed bone metastasis as opposed to 41.7 % of basal and 55.6 % of signal transduction-like tumours.">
+    <entity charOffset="23-30" id="26965286.s0.e0" ontology_id="HP_0002664" text="tumours" type="HP"/>
+    <entity charOffset="101-120" id="26965286.s0.e1" ontology_id="GO_0007165" text="signal transduction" type="GO"/>
+    <pair e1="26965286.s0.e0" e2="26965286.s0.e1" id="26965286.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="26965286.s1" text="A novel 15-gene signature identified 82.4 % of the tumours with bone metastasis, 85.2 % of the tumours which had bone metastasis as first site of metastasis and 100 % of the ones with bone metastasis only (p 9.99e-09), in the training negative regulation of transcription, DNA-templated.">
+    <entity charOffset="51-58" id="26965286.s1.e0" ontology_id="HP_0002664" text="tumours" type="HP"/>
+    <entity charOffset="235-286" id="26965286.s1.e1" ontology_id="GO_0045892" text="negative regulation of transcription, DNA-templated" type="GO"/>
+  </sentence>
+  <sentence id="26965286.s2" text="The expression levels of the up-regulated genes (regulation of translational initiation, retina homeostasis and PH-4) were also found to be correlated to epithelial to mesenchymal transition status of the tumour.">
+    <entity charOffset="49-87" id="26965286.s2.e0" ontology_id="GO_0006446" text="regulation of translational initiation" type="GO"/>
+    <entity charOffset="89-107" id="26965286.s2.e1" ontology_id="GO_0001895" text="retina homeostasis" type="GO"/>
+    <entity charOffset="205-211" id="26965286.s2.e2" ontology_id="HP_0002664" text="tumour" type="HP"/>
+    <pair e1="26965286.s2.e0" e2="26965286.s2.e2" id="26965286.s2.p0" relation="true"/>
+    <pair e1="26965286.s2.e1" e2="26965286.s2.e2" id="26965286.s2.p1" relation="true"/>
+  </sentence>
+</document>

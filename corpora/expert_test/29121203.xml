@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="29121203">
+  <sentence id="29121203.s0" text="Targeted exome sequencing identified biallelic mutations in WDR19, encoding an IFT-A subunit previously associated with MZSDS-related chondrodysplasia, Jeune asphyxiating thoracic dysplasia and cranioectodermal dysplasia, linked to primary cilia dysfunction, and in biological_process which encodes tektin-1 an uncharacterized member of the tektin family, mutations of which may cause ciliary dyskinesia.">
+    <entity charOffset="171-189" id="29121203.s0.e0" ontology_id="HP_0006644" text="thoracic dysplasia" type="HP"/>
+    <entity charOffset="266-284" id="29121203.s0.e1" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="385-403" id="29121203.s0.e2" ontology_id="HP_0012265" text="ciliary dyskinesia" type="HP"/>
+    <pair e1="29121203.s0.e0" e2="29121203.s0.e1" id="29121203.s0.p0" relation="false"/>
+    <pair e1="29121203.s0.e1" e2="29121203.s0.e2" id="29121203.s0.p1" relation="true"/>
+  </sentence>
+</document>

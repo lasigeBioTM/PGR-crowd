@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="28089576">
+  <sentence id="28089576.s0" text="Mutations in the Pejvakin (biological_process) gene cause autosomal recessive hearing loss DFNB59 with audiological features of auditory neuropathy spectrum disorder (ANSD) or cochlear dysfunction.">
+    <entity charOffset="27-45" id="28089576.s0.e0" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="137-147" id="28089576.s0.e1" ontology_id="HP_0009830" text="neuropathy" type="HP"/>
+    <pair e1="28089576.s0.e0" e2="28089576.s0.e1" id="28089576.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28089576.s1" text="Here, we demonstrate that epidermis development with conditional ablation of the Pjvk gene in all sensory hair cells or only in outer hair cells (OHCs) show similar auditory phenotypes with early-onset profound hearing loss.">
+    <entity charOffset="26-47" id="28089576.s1.e0" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="202-210" id="28089576.s1.e1" ontology_id="HP_0012829" text="profound" type="HP"/>
+    <entity charOffset="211-223" id="28089576.s1.e2" ontology_id="HP_0000365" text="hearing loss" type="HP"/>
+  </sentence>
+</document>

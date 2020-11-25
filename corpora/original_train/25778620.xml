@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<document id="25778620">
+  <sentence id="25778620.s0" text="Knockout of genes encoding metabotropic glutamate receptor 5 (G protein-coupled glutamate receptor signaling pathway) or its endogenous regulators, such as Norbin, induce a schizophrenia-like phenotype in rodents, suggesting dysregulation of mGluR5 in schizophrenia.">
+    <entity charOffset="62-116" id="25778620.s0.e0" ontology_id="GO_0007216" text="G protein-coupled glutamate receptor signaling pathway" type="GO"/>
+    <entity charOffset="173-186" id="25778620.s0.e1" ontology_id="HP_0100753" text="schizophrenia" type="HP"/>
+    <pair e1="25778620.s0.e0" e2="25778620.s0.e1" id="25778620.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="25778620.s1" text="We assessed mGluR5 mRNA and protein levels in the dorsolateral prefrontal cortex (DLPFC) using a large cohort of schizophrenia and control subjects (n = 37/group), and additionally measured protein levels of recently discovered mGluR5 endogenous regulators, Norbin (neurochondrin), Tamalin (biological_process), and Preso1 (positive regulation of synapse structural plasticity), which regulate mGluR5 localization, internalization and signaling.">
+    <entity charOffset="113-126" id="25778620.s1.e0" ontology_id="HP_0100753" text="schizophrenia" type="HP"/>
+    <entity charOffset="291-309" id="25778620.s1.e1" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="324-376" id="25778620.s1.e2" ontology_id="GO_0051835" text="positive regulation of synapse structural plasticity" type="GO"/>
+    <pair e1="25778620.s1.e0" e2="25778620.s1.e1" id="25778620.s1.p0" relation="false"/>
+    <pair e1="25778620.s1.e0" e2="25778620.s1.e2" id="25778620.s1.p1" relation="false"/>
+  </sentence>
+  <sentence id="25778620.s2" text="G protein-coupled glutamate receptor signaling pathway protein was significantly associated with mGluR5 mRNA and mGluR5 endogenous regulators in control subjects, but these associations were lost in schizophrenia subjects.">
+    <entity charOffset="0-54" id="25778620.s2.e0" ontology_id="GO_0007216" text="G protein-coupled glutamate receptor signaling pathway" type="GO"/>
+    <entity charOffset="199-212" id="25778620.s2.e1" ontology_id="HP_0100753" text="schizophrenia" type="HP"/>
+    <pair e1="25778620.s2.e0" e2="25778620.s2.e1" id="25778620.s2.p0" relation="false"/>
+  </sentence>
+  <sentence id="25778620.s3" text="The results from our study provide compelling evidence that G protein-coupled glutamate receptor signaling pathway regulation is altered in schizophrenia, likely contributing to the altered glutamatergic signaling that is associated with the disorder">
+    <entity charOffset="60-114" id="25778620.s3.e0" ontology_id="GO_0007216" text="G protein-coupled glutamate receptor signaling pathway" type="GO"/>
+    <entity charOffset="140-153" id="25778620.s3.e1" ontology_id="HP_0100753" text="schizophrenia" type="HP"/>
+    <pair e1="25778620.s3.e0" e2="25778620.s3.e1" id="25778620.s3.p0" relation="false"/>
+  </sentence>
+</document>

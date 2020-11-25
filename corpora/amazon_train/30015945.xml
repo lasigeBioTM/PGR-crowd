@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="30015945">
+  <sentence id="30015945.s0" text="UCA1 knockdown significantly inhibited biological_process cell viability, colony formation and the bromodomain containing 4 (positive regulation of transcription elongation from RNA polymerase II promoter) expression level in vitro, and retarded PTC tumor growth in vivo.">
+    <entity charOffset="39-57" id="30015945.s0.e0" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="125-204" id="30015945.s0.e1" ontology_id="GO_0032968" text="positive regulation of transcription elongation from RNA polymerase II promoter" type="GO"/>
+    <entity charOffset="250-255" id="30015945.s0.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="30015945.s0.e0" e2="30015945.s0.e2" id="30015945.s0.p0" relation="true"/>
+    <pair e1="30015945.s0.e1" e2="30015945.s0.e2" id="30015945.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="30015945.s1" text="In the previous study, microRNA (protein polyubiquitination)‑204 inhibited thyroid cancer progression and was regulated by UCA1 in other types of cancer.">
+    <entity charOffset="33-59" id="30015945.s1.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="83-89" id="30015945.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30015945.s1.e0" e2="30015945.s1.e1" id="30015945.s1.p0" relation="true"/>
+  </sentence>
+</document>

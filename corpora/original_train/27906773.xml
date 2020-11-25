@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="27906773">
+  <sentence id="27906773.s0" text="Aminoacyl-tRNA synthetase complex (negative regulation of cell proliferation)-interacting multifunctional protein 1 (negative regulation of endothelial cell proliferation) is a cytokine that is known to amplify the actions of tumor necrosis factor-α and to be involved in microglial activation and neuronal death.">
+    <entity charOffset="35-76" id="27906773.s0.e0" ontology_id="GO_0008285" text="negative regulation of cell proliferation" type="GO"/>
+    <entity charOffset="117-170" id="27906773.s0.e1" ontology_id="GO_0001937" text="negative regulation of endothelial cell proliferation" type="GO"/>
+    <entity charOffset="226-231" id="27906773.s0.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="27906773.s0.e0" e2="27906773.s0.e2" id="27906773.s0.p0" relation="false"/>
+    <pair e1="27906773.s0.e1" e2="27906773.s0.e2" id="27906773.s0.p1" relation="false"/>
+  </sentence>
+</document>

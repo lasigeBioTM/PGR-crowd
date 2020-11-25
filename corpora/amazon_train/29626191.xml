@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="29626191">
+  <sentence id="29626191.s0" text="Neurofibromatosis muscle organ development 2 (NF2) is a tumor-forming disease of the nervous system caused by deletion or by loss-of-function mutations in NF2, encoding the tumor suppressing protein neurofibromin 2 (also known as schwannomin or negative regulation of cell proliferation).">
+    <entity charOffset="18-42" id="29626191.s0.e0" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="56-61" id="29626191.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="245-286" id="29626191.s0.e2" ontology_id="GO_0008285" text="negative regulation of cell proliferation" type="GO"/>
+    <pair e1="29626191.s0.e1" e2="29626191.s0.e2" id="29626191.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29626191.s1" text="The correlation of the tumor-suppressive function and conformation (open or closed) of neurofibromin 2 has been subject to much speculation, often based on extrapolation from other cellular response to oxidative stress proteins, and controversy.">
+    <entity charOffset="23-28" id="29626191.s1.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="181-218" id="29626191.s1.e1" ontology_id="GO_0034599" text="cellular response to oxidative stress" type="GO"/>
+    <pair e1="29626191.s1.e0" e2="29626191.s1.e1" id="29626191.s1.p0" relation="true"/>
+  </sentence>
+</document>

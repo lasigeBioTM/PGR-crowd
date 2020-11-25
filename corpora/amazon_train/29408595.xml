@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<document id="29408595">
+  <sentence id="29408595.s0" text="The roles of positive regulation of cell proliferation in human breast cancer remains elusive.">
+    <entity charOffset="13-54" id="29408595.s0.e0" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <entity charOffset="71-77" id="29408595.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29408595.s0.e0" e2="29408595.s0.e1" id="29408595.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29408595.s1" text="Here we report that positive regulation of cell proliferation acts as an oncogenic protein in human breast cancer.">
+    <entity charOffset="20-61" id="29408595.s1.e0" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <entity charOffset="107-113" id="29408595.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29408595.s1.e0" e2="29408595.s1.e1" id="29408595.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="29408595.s2" text="We analyzed the expression of positive regulation of cell proliferation in 148 patients with breast cancer.">
+    <entity charOffset="30-71" id="29408595.s2.e0" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <entity charOffset="100-106" id="29408595.s2.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29408595.s2.e0" e2="29408595.s2.e1" id="29408595.s2.p0" relation="true"/>
+  </sentence>
+  <sentence id="29408595.s3" text="The mRNA and protein levels of positive regulation of cell proliferation are significantly up-regulated in human breast cancer compared with matched adjacent non-cancer tissues.">
+    <entity charOffset="31-72" id="29408595.s3.e0" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <entity charOffset="120-126" id="29408595.s3.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29408595.s3.e0" e2="29408595.s3.e1" id="29408595.s3.p0" relation="true"/>
+  </sentence>
+  <sentence id="29408595.s4" text="Lentivirus-mediated knockdown of positive regulation of cell proliferation represses in vitro proliferation and colony formation and in vivo growth of breast cancer cells, whereas STX3 overexpression promotes the growth of breast cancer cells in vitro and in vivo.">
+    <entity charOffset="33-74" id="29408595.s4.e0" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <entity charOffset="158-164" id="29408595.s4.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29408595.s4.e0" e2="29408595.s4.e1" id="29408595.s4.p0" relation="true"/>
+  </sentence>
+  <sentence id="29408595.s5" text="We cellular response to interleukin-4 that positive regulation of cell proliferation promotes the proliferation of breast cancer cells by increasing the activation of the Akt-regulation of cell growth signaling, and Akt inhibitor Ipatasertib or positive regulation of keratinocyte proliferation-2206 represses STX3 effects on the growth of breast cancer cells.">
+    <entity charOffset="3-37" id="29408595.s5.e0" ontology_id="GO_0071353" text="cellular response to interleukin-4" type="GO"/>
+    <entity charOffset="43-84" id="29408595.s5.e1" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <entity charOffset="122-128" id="29408595.s5.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="175-200" id="29408595.s5.e3" ontology_id="GO_0001558" text="regulation of cell growth" type="GO"/>
+    <entity charOffset="245-294" id="29408595.s5.e4" ontology_id="GO_0010838" text="positive regulation of keratinocyte proliferation" type="GO"/>
+    <pair e1="29408595.s5.e1" e2="29408595.s5.e2" id="29408595.s5.p0" relation="true"/>
+  </sentence>
+  <sentence id="29408595.s6" text="Therefore, positive regulation of cell proliferation promotes the growth of breast cancer cells by regulating the negative regulation of protein phosphorylation-phosphorylation-Akt-mTOR signaling">
+    <entity charOffset="11-52" id="29408595.s6.e0" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <entity charOffset="83-89" id="29408595.s6.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="114-160" id="29408595.s6.e2" ontology_id="GO_0001933" text="negative regulation of protein phosphorylation" type="GO"/>
+    <entity charOffset="161-176" id="29408595.s6.e3" ontology_id="GO_0016310" text="phosphorylation" type="GO"/>
+    <pair e1="29408595.s6.e0" e2="29408595.s6.e1" id="29408595.s6.p0" relation="true"/>
+    <pair e1="29408595.s6.e1" e2="29408595.s6.e2" id="29408595.s6.p1" relation="false"/>
+    <pair e1="29408595.s6.e1" e2="29408595.s6.e3" id="29408595.s6.p2" relation="true"/>
+  </sentence>
+</document>

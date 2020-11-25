@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="26886902">
+  <sentence id="26886902.s0" text="The patient together with her younger brother was diagnosed at the age of 5 years with familial congenital hypopituitarism, due to homozygous mutation c.150delA in central nervous system development gene.">
+    <entity charOffset="107-122" id="26886902.s0.e0" ontology_id="HP_0040075" text="hypopituitarism" type="HP"/>
+    <entity charOffset="164-198" id="26886902.s0.e1" ontology_id="GO_0007417" text="central nervous system development" type="GO"/>
+    <pair e1="26886902.s0.e0" e2="26886902.s0.e1" id="26886902.s0.p0" relation="true"/>
+  </sentence>
+</document>

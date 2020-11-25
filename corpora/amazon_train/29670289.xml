@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="29670289">
+  <sentence id="29670289.s0" text="Mutations in double-strand break repair via homologous recombination are implicated in cancer development and in a severe congenital inflammatory disease known as Aicardi-Goutières syndrome.">
+    <entity charOffset="13-68" id="29670289.s0.e0" ontology_id="GO_0000724" text="double-strand break repair via homologous recombination" type="GO"/>
+    <entity charOffset="87-93" id="29670289.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29670289.s0.e0" e2="29670289.s0.e1" id="29670289.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29670289.s1" text="The mechanism by which double-strand break repair via homologous recombination protects against cancer and chronic inflammation is unknown.">
+    <entity charOffset="23-78" id="29670289.s1.e0" ontology_id="GO_0000724" text="double-strand break repair via homologous recombination" type="GO"/>
+    <entity charOffset="96-102" id="29670289.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29670289.s1.e0" e2="29670289.s1.e1" id="29670289.s1.p0" relation="true"/>
+  </sentence>
+</document>

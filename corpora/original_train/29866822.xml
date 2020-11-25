@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="29866822">
+  <sentence id="29866822.s0" text="Activating mutations in the activation of MAPK activity or positive regulation of cell proliferation receptor tyrosine kinases are hallmarks of gastrointestinal stromal tumor (GIST).">
+    <entity charOffset="28-55" id="29866822.s0.e0" ontology_id="GO_0000187" text="activation of MAPK activity" type="GO"/>
+    <entity charOffset="59-100" id="29866822.s0.e1" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <entity charOffset="169-174" id="29866822.s0.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29866822.s0.e0" e2="29866822.s0.e2" id="29866822.s0.p0" relation="true"/>
+    <pair e1="29866822.s0.e1" e2="29866822.s0.e2" id="29866822.s0.p1" relation="true"/>
+  </sentence>
+</document>

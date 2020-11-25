@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="29217762">
+  <sentence id="29217762.s0" text="Overall, our findings show how the tumor suppressor regulation of double-strand break repair via homologous recombination is regulated in hepatocellular carcinoma and establish the mechanism underlying positive regulation of protein ubiquitination-mediated tumorigenesis in this disease.&lt;b&gt;Significance:&lt;/b&gt; These findings provide mechanistic insights into regulation of the tumor suppressive sirtuin SIRT6 and its implications for the development of hepatocellular carcinoma.">
+    <entity charOffset="35-40" id="29217762.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="52-121" id="29217762.s0.e1" ontology_id="GO_0010569" text="regulation of double-strand break repair via homologous recombination" type="GO"/>
+    <entity charOffset="138-162" id="29217762.s0.e2" ontology_id="HP_0001402" text="hepatocellular carcinoma" type="HP"/>
+    <entity charOffset="202-247" id="29217762.s0.e3" ontology_id="GO_0031398" text="positive regulation of protein ubiquitination" type="GO"/>
+    <pair e1="29217762.s0.e0" e2="29217762.s0.e1" id="29217762.s0.p0" relation="false"/>
+    <pair e1="29217762.s0.e2" e2="29217762.s0.e3" id="29217762.s0.p1" relation="false"/>
+  </sentence>
+  <sentence id="29217762.s1" text="In mouse models of hepatocellular carcinoma, regulation of double-strand break repair via homologous recombination downregulation and consequent induction of ANXA2 were critical for UBE3A-mediated tumorigenesis.">
+    <entity charOffset="19-43" id="29217762.s1.e0" ontology_id="HP_0001402" text="hepatocellular carcinoma" type="HP"/>
+    <entity charOffset="45-114" id="29217762.s1.e1" ontology_id="GO_0010569" text="regulation of double-strand break repair via homologous recombination" type="GO"/>
+    <entity charOffset="197-202" id="29217762.s1.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29217762.s1.e0" e2="29217762.s1.e1" id="29217762.s1.p0" relation="false"/>
+    <pair e1="29217762.s1.e1" e2="29217762.s1.e2" id="29217762.s1.p1" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29054766">
+  <sentence id="29054766.s0" text="This case unravels a previously unrecognized phenotype of camptodactyly due to a significant skeletal deformity of PRS with a heterogeneous negative regulation of apoptotic process mutation of hexanucleotide duplication.">
+    <entity charOffset="126-139" id="29054766.s0.e0" ontology_id="HP_0001425" text="heterogeneous" type="HP"/>
+    <entity charOffset="140-180" id="29054766.s0.e1" ontology_id="GO_0043066" text="negative regulation of apoptotic process" type="GO"/>
+    <pair e1="29054766.s0.e0" e2="29054766.s0.e1" id="29054766.s0.p0" relation="true"/>
+  </sentence>
+</document>

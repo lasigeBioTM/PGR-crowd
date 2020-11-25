@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="30500452">
+  <sentence id="30500452.s0" text="Vascular endothelial cell cellular protein catabolic process is related to many vascular diseases, including cardiovascular disease (CVD).">
+    <entity charOffset="26-60" id="30500452.s0.e0" ontology_id="GO_0044257" text="cellular protein catabolic process" type="GO"/>
+    <entity charOffset="109-131" id="30500452.s0.e1" ontology_id="HP_0001626" text="cardiovascular disease" type="HP"/>
+  </sentence>
+</document>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="30100047">
+  <sentence id="30100047.s0" text="After a rapid overview of current knowledge regarding somatic genomic alterations, this state-of-neuropeptide signaling pathway addresses pathways to improve small-cell lung cancer outcome such as the targeting of DNA cellular protein catabolic process repair mechanisms firstly anti-PARPs, inhibitory molecules of negative regulation of transcription by RNA polymerase II, derepression of the NOTCH pathway, rovalbituzumab-tesirine, inhibition of serine/threonine Aurora A kinase, temozolomide and its dependence on methylation of the negative regulation of apoptotic process promoter.">
+    <entity charOffset="97-127" id="30100047.s0.e0" ontology_id="GO_0007218" text="neuropeptide signaling pathway" type="GO"/>
+    <entity charOffset="174-180" id="30100047.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="218-252" id="30100047.s0.e2" ontology_id="GO_0044257" text="cellular protein catabolic process" type="GO"/>
+    <entity charOffset="315-372" id="30100047.s0.e3" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="536-576" id="30100047.s0.e4" ontology_id="GO_0043066" text="negative regulation of apoptotic process" type="GO"/>
+    <pair e1="30100047.s0.e1" e2="30100047.s0.e2" id="30100047.s0.p0" relation="true"/>
+    <pair e1="30100047.s0.e1" e2="30100047.s0.e3" id="30100047.s0.p1" relation="true"/>
+    <pair e1="30100047.s0.e1" e2="30100047.s0.e4" id="30100047.s0.p2" relation="true"/>
+  </sentence>
+</document>

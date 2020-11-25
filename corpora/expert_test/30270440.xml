@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<document id="30270440">
+  <sentence id="30270440.s0" text="Recent research published in the Journal of Pathology showed that genetic depletion of any of the NOX2 subunits Cyba, superoxide metabolic process, Ncf1, Ncf2 and Ncf4 reduced the formation of lung metastases following intravenous injection of murine tumor cells.">
+    <entity charOffset="118-146" id="30270440.s0.e0" ontology_id="GO_0006801" text="superoxide metabolic process" type="GO"/>
+    <entity charOffset="251-256" id="30270440.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="30270440.s0.e0" e2="30270440.s0.e1" id="30270440.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="30270440.s1" text="These findings, together with the role of superoxide metabolic process in maintaining self-tolerance, imply that NOX2 is a targetable immune checkpoint in cancer.">
+    <entity charOffset="42-70" id="30270440.s1.e0" ontology_id="GO_0006801" text="superoxide metabolic process" type="GO"/>
+    <entity charOffset="155-161" id="30270440.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30270440.s1.e0" e2="30270440.s1.e1" id="30270440.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="30270440.s2" text="The impact of superoxide metabolic process and regulation of cell growth on cancer development is only partly explored.">
+    <entity charOffset="14-42" id="30270440.s2.e0" ontology_id="GO_0006801" text="superoxide metabolic process" type="GO"/>
+    <entity charOffset="47-72" id="30270440.s2.e1" ontology_id="GO_0001558" text="regulation of cell growth" type="GO"/>
+    <entity charOffset="76-82" id="30270440.s2.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30270440.s2.e0" e2="30270440.s2.e2" id="30270440.s2.p0" relation="true"/>
+    <pair e1="30270440.s2.e1" e2="30270440.s2.e2" id="30270440.s2.p1" relation="true"/>
+  </sentence>
+</document>

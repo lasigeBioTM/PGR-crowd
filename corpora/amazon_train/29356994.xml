@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<document id="29356994">
+  <sentence id="29356994.s0" text="Gorlin syndrome is a rare multisystem inherited disorder which can predispose to basal cell carcinomas (BCCs), childhood medulloblastomas in addition to various developmental abnormalities; the majority of cases are due to mutations in the positive regulation of cholesterol efflux gene.">
+    <entity charOffset="121-137" id="29356994.s0.e0" ontology_id="HP_0002885" text="medulloblastomas" type="HP"/>
+    <entity charOffset="240-281" id="29356994.s0.e1" ontology_id="GO_0010875" text="positive regulation of cholesterol efflux" type="GO"/>
+    <pair e1="29356994.s0.e0" e2="29356994.s0.e1" id="29356994.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29356994.s1" text="Certain phenotypic features have been identified as being more prevalent in individuals with a negative regulation of transcription by RNA polymerase II mutation such as childhood medulloblastoma, infundibulocystic BCCs and trichoepitheliomas.">
+    <entity charOffset="95-152" id="29356994.s1.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="180-195" id="29356994.s1.e1" ontology_id="HP_0002885" text="medulloblastoma" type="HP"/>
+    <entity charOffset="224-242" id="29356994.s1.e2" ontology_id="HP_0025367" text="trichoepitheliomas" type="HP"/>
+    <pair e1="29356994.s1.e0" e2="29356994.s1.e1" id="29356994.s1.p0" relation="true"/>
+    <pair e1="29356994.s1.e0" e2="29356994.s1.e2" id="29356994.s1.p1" relation="true"/>
+  </sentence>
+  <sentence id="29356994.s2" text="Recently hamartomatous skin lesions have also been noted in families with childhood medulloblastoma, a &amp;quot;Gorlin like&amp;quot; phenotype and a negative regulation of transcription by RNA polymerase II mutation.">
+    <entity charOffset="84-99" id="29356994.s2.e0" ontology_id="HP_0002885" text="medulloblastoma" type="HP"/>
+    <entity charOffset="143-200" id="29356994.s2.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="29356994.s2.e0" e2="29356994.s2.e1" id="29356994.s2.p0" relation="true"/>
+  </sentence>
+</document>

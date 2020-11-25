@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<document id="24357125">
+  <sentence id="24357125.s0" text="Likely haploinsufficiency of one or several of the 19 genes in the common deleted interval (ACTN1, DCAF5, double-strand break repair via homologous recombination, GALNTL1, nucleobase-containing compound metabolic process, zinc ion transport, PLEKHD1, CCDC177, cellular response to DNA damage stimulus, LOC100289511, mRNA splicing, via spliceosome, SLC10A1, eye development, mitochondrial calcium ion transmembrane transport, single fertilizationP1, mitochondrial respiratory chain complex IV assembly, negative regulation of ERK1 and ERK2 cascade, SYNJ2BP-COX16, ADAM21) was responsible for these manifestations, but apart from SMOC1, mutations in which cause autosomal recessive Waardenburg anophthalmia syndrome, and ACTN1, mutations in which are associated with congenital macrothrombocytopenia, no disease associations have so far been reported for the other genes.">
+    <entity charOffset="106-161" id="24357125.s0.e0" ontology_id="GO_0000724" text="double-strand break repair via homologous recombination" type="GO"/>
+    <entity charOffset="172-220" id="24357125.s0.e1" ontology_id="GO_0006139" text="nucleobase-containing compound metabolic process" type="GO"/>
+    <entity charOffset="222-240" id="24357125.s0.e2" ontology_id="GO_0006829" text="zinc ion transport" type="GO"/>
+    <entity charOffset="260-300" id="24357125.s0.e3" ontology_id="GO_0006974" text="cellular response to DNA damage stimulus" type="GO"/>
+    <entity charOffset="316-346" id="24357125.s0.e4" ontology_id="GO_0000398" text="mRNA splicing, via spliceosome" type="GO"/>
+    <entity charOffset="357-372" id="24357125.s0.e5" ontology_id="GO_0001654" text="eye development" type="GO"/>
+    <entity charOffset="374-423" id="24357125.s0.e6" ontology_id="GO_0006851" text="mitochondrial calcium ion transmembrane transport" type="GO"/>
+    <entity charOffset="425-445" id="24357125.s0.e7" ontology_id="GO_0007338" text="single fertilization" type="GO"/>
+    <entity charOffset="449-500" id="24357125.s0.e8" ontology_id="GO_0033617" text="mitochondrial respiratory chain complex IV assembly" type="GO"/>
+    <entity charOffset="502-546" id="24357125.s0.e9" ontology_id="GO_0070373" text="negative regulation of ERK1 and ERK2 cascade" type="GO"/>
+    <entity charOffset="660-679" id="24357125.s0.e10" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="776-797" id="24357125.s0.e11" ontology_id="HP_0040185" text="macrothrombocytopenia" type="HP"/>
+    <pair e1="24357125.s0.e0" e2="24357125.s0.e10" id="24357125.s0.p0" relation="false"/>
+    <pair e1="24357125.s0.e1" e2="24357125.s0.e11" id="24357125.s0.p1" relation="false"/>
+    <pair e1="24357125.s0.e1" e2="24357125.s0.e10" id="24357125.s0.p2" relation="false"/>
+    <pair e1="24357125.s0.e2" e2="24357125.s0.e11" id="24357125.s0.p3" relation="false"/>
+    <pair e1="24357125.s0.e3" e2="24357125.s0.e10" id="24357125.s0.p4" relation="false"/>
+    <pair e1="24357125.s0.e4" e2="24357125.s0.e11" id="24357125.s0.p5" relation="false"/>
+    <pair e1="24357125.s0.e5" e2="24357125.s0.e10" id="24357125.s0.p6" relation="true"/>
+    <pair e1="24357125.s0.e6" e2="24357125.s0.e11" id="24357125.s0.p7" relation="false"/>
+    <pair e1="24357125.s0.e6" e2="24357125.s0.e10" id="24357125.s0.p8" relation="false"/>
+    <pair e1="24357125.s0.e7" e2="24357125.s0.e11" id="24357125.s0.p9" relation="false"/>
+    <pair e1="24357125.s0.e8" e2="24357125.s0.e11" id="24357125.s0.p10" relation="false"/>
+    <pair e1="24357125.s0.e9" e2="24357125.s0.e11" id="24357125.s0.p11" relation="false"/>
+  </sentence>
+</document>

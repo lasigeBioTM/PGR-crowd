@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="29044474">
+  <sentence id="29044474.s0" text="We confirmed that this nonsense DNA damage response, signal transduction by p53 class mediator mutation segregated with deafness in this family.">
+    <entity charOffset="32-94" id="29044474.s0.e0" ontology_id="GO_0030330" text="DNA damage response, signal transduction by p53 class mediator" type="GO"/>
+    <entity charOffset="120-128" id="29044474.s0.e1" ontology_id="HP_0000365" text="deafness" type="HP"/>
+    <pair e1="29044474.s0.e0" e2="29044474.s0.e1" id="29044474.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29044474.s1" text="In conclusion, we described a novel nonsense DNA damage response, signal transduction by p53 class mediator mutation that was responsible for the hearing loss in a Brazilian family.">
+    <entity charOffset="45-107" id="29044474.s1.e0" ontology_id="GO_0030330" text="DNA damage response, signal transduction by p53 class mediator" type="GO"/>
+    <entity charOffset="146-158" id="29044474.s1.e1" ontology_id="HP_0000365" text="hearing loss" type="HP"/>
+    <pair e1="29044474.s1.e0" e2="29044474.s1.e1" id="29044474.s1.p0" relation="true"/>
+  </sentence>
+</document>

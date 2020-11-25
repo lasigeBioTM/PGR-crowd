@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27151206">
+  <sentence id="27151206.s0" text="Older members of a previously reported Arab-Israeli family have intellectual disability of variable severity, persistent feeding difficulties in infancy with dysphagia of liquids and dysphonia with a muffled voice in early adulthood, generalized hypotonia, weakness of proximal muscles, elongated interstrand cross-link repair with narrow bitemporal diameter, and reduced facial movements.">
+    <entity charOffset="64-87" id="27151206.s0.e0" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <entity charOffset="269-277" id="27151206.s0.e1" ontology_id="HP_0012840" text="proximal" type="HP"/>
+    <entity charOffset="297-326" id="27151206.s0.e2" ontology_id="GO_0036297" text="interstrand cross-link repair" type="GO"/>
+  </sentence>
+</document>

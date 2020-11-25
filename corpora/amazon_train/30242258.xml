@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="30242258">
+  <sentence id="30242258.s0" text="We show that tumour cells specifically induce cell cycle arrest activity in mesenchymal stromal cells (MSCs) required for the transcription of the complement factor C1q.">
+    <entity charOffset="13-19" id="30242258.s0.e0" ontology_id="HP_0002664" text="tumour" type="HP"/>
+    <entity charOffset="46-63" id="30242258.s0.e1" ontology_id="GO_0007050" text="cell cycle arrest" type="GO"/>
+    <pair e1="30242258.s0.e0" e2="30242258.s0.e1" id="30242258.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="30242258.s1" text="cell cycle arrest activation in the microenvironment is a pre-requisite for the activation of canonical Wnt signalling in tumour cells">
+    <entity charOffset="0-17" id="30242258.s1.e0" ontology_id="GO_0007050" text="cell cycle arrest" type="GO"/>
+    <entity charOffset="122-128" id="30242258.s1.e1" ontology_id="HP_0002664" text="tumour" type="HP"/>
+    <pair e1="30242258.s1.e0" e2="30242258.s1.e1" id="30242258.s1.p0" relation="true"/>
+  </sentence>
+</document>

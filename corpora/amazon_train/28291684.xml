@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="28291684">
+  <sentence id="28291684.s0" text="To gain an insight into the likely molecular basis of their observed cytotoxic effects, Autodock Vina binding free energies of each of the isolated compounds with seven molecular targets implicated in cancer development (protein phosphorylation, MAPK10, protein phosphorylation, protein phosphorylation, MAPK1, cellular response to transforming growth factor beta stimulus and VEGF), were calculated.">
+    <entity charOffset="201-207" id="28291684.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="221-244" id="28291684.s0.e1" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <entity charOffset="254-277" id="28291684.s0.e2" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <entity charOffset="279-302" id="28291684.s0.e3" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <entity charOffset="311-372" id="28291684.s0.e4" ontology_id="GO_0071560" text="cellular response to transforming growth factor beta stimulus" type="GO"/>
+    <pair e1="28291684.s0.e0" e2="28291684.s0.e1" id="28291684.s0.p0" relation="true"/>
+    <pair e1="28291684.s0.e0" e2="28291684.s0.e2" id="28291684.s0.p1" relation="true"/>
+    <pair e1="28291684.s0.e0" e2="28291684.s0.e3" id="28291684.s0.p2" relation="true"/>
+    <pair e1="28291684.s0.e0" e2="28291684.s0.e4" id="28291684.s0.p3" relation="true"/>
+  </sentence>
+</document>

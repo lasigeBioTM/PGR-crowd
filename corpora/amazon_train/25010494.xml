@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="25010494">
+  <sentence id="25010494.s0" text="Absence epilepsy (AE) is a common muscle organ development of genetic generalized epilepsy (GGE), particularly in children.">
+    <entity charOffset="8-16" id="25010494.s0.e0" ontology_id="HP_0001250" text="epilepsy" type="HP"/>
+    <entity charOffset="34-58" id="25010494.s0.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+  </sentence>
+  <sentence id="25010494.s1" text="By creating new Pcnxl2 frameshift alleles using TALEN mutagenesis, we show that Pcnxl2 deficiency is responsible for mitigating the seizure phenomuscle organ development - making Pcnxl2 the first known modifier gene for absence seizures in any species.">
+    <entity charOffset="132-139" id="25010494.s1.e0" ontology_id="HP_0001250" text="seizure" type="HP"/>
+    <entity charOffset="145-169" id="25010494.s1.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+  </sentence>
+  <sentence id="25010494.s2" text="Together these new findings expand our knowledge of how natural variation modulates seizures, and highlights the feasibility of characterizing and validating modifiers in mouse strains and substrains in the post-genome sequence transcription by RNA polymerase II.">
+    <entity charOffset="84-92" id="25010494.s2.e0" ontology_id="HP_0001250" text="seizures" type="HP"/>
+    <entity charOffset="228-262" id="25010494.s2.e1" ontology_id="GO_0006366" text="transcription by RNA polymerase II" type="GO"/>
+  </sentence>
+</document>

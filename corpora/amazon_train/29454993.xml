@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<document id="29454993">
+  <sentence id="29454993.s0" text="Mutations in the human tRNA 3'-terminal CCA addition gene encoding tRNA nucleotidyltransferase (tRNA-NT), an essential enzyme responsible for addition of the camera-type eye development (cytidine-cytidine-adenosine) sequence to the 3'-termini of tRNAs, have been linked to disease phenotypes including congenital sideroblastic anemia with B-cell immunodeficiency, periodic fevers and developmental delay (SIFD) or retinitis pigmentosa with erythrocyte microcytosis.">
+    <entity charOffset="23-52" id="29454993.s0.e0" ontology_id="GO_0001680" text="tRNA 3'-terminal CCA addition" type="GO"/>
+    <entity charOffset="158-185" id="29454993.s0.e1" ontology_id="GO_0043010" text="camera-type eye development" type="GO"/>
+    <entity charOffset="384-403" id="29454993.s0.e2" ontology_id="HP_0001263" text="developmental delay" type="HP"/>
+    <pair e1="29454993.s0.e0" e2="29454993.s0.e2" id="29454993.s0.p0" relation="true"/>
+  </sentence>
+</document>

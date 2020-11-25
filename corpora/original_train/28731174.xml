@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="28731174">
+  <sentence id="28731174.s0" text="Furthermore, positive regulation of transcription by RNA polymerase II is associated with unfavorable overall survival (n=866, p=0.004) and represents an independent prognostic factor (HR=2.36, p=0.000) in lung adenocarcinoma (negative regulation of protein catabolic process) patients, but is not associated with overall survival of squamous cell carcinoma (negative regulation of peptidase activity) patients (n=524, p=0.27).">
+    <entity charOffset="13-70" id="28731174.s0.e0" ontology_id="GO_0045944" text="positive regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="206-225" id="28731174.s0.e1" ontology_id="HP_0030078" text="lung adenocarcinoma" type="HP"/>
+    <entity charOffset="227-275" id="28731174.s0.e2" ontology_id="GO_0042177" text="negative regulation of protein catabolic process" type="GO"/>
+    <entity charOffset="334-357" id="28731174.s0.e3" ontology_id="HP_0002860" text="squamous cell carcinoma" type="HP"/>
+    <entity charOffset="359-400" id="28731174.s0.e4" ontology_id="GO_0010466" text="negative regulation of peptidase activity" type="GO"/>
+    <pair e1="28731174.s0.e0" e2="28731174.s0.e3" id="28731174.s0.p0" relation="false"/>
+    <pair e1="28731174.s0.e1" e2="28731174.s0.e2" id="28731174.s0.p1" relation="false"/>
+    <pair e1="28731174.s0.e1" e2="28731174.s0.e4" id="28731174.s0.p2" relation="false"/>
+    <pair e1="28731174.s0.e2" e2="28731174.s0.e3" id="28731174.s0.p3" relation="false"/>
+    <pair e1="28731174.s0.e3" e2="28731174.s0.e4" id="28731174.s0.p4" relation="false"/>
+  </sentence>
+</document>

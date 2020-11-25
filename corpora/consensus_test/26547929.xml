@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="26547929">
+  <sentence id="26547929.s0" text="Our study suggests that miR-9 functions as a tumor suppressor in HCC progression by inhibiting a series of target genes, including the newly validated miR-9/negative regulation of translation/AKT&amp;amp;ERK axis, thus providing potential therapeutic targets and novel prognostic biomarkers for HCC patients.">
+    <entity charOffset="45-50" id="26547929.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="157-191" id="26547929.s0.e1" ontology_id="GO_0017148" text="negative regulation of translation" type="GO"/>
+    <pair e1="26547929.s0.e0" e2="26547929.s0.e1" id="26547929.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="26547929.s1" text="Mechanically, miR-9 plays a tumor suppressive role partially through a functional miR-9/negative regulation of translation/AKT&amp;amp;ERK axis.">
+    <entity charOffset="28-33" id="26547929.s1.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="88-122" id="26547929.s1.e1" ontology_id="GO_0017148" text="negative regulation of translation" type="GO"/>
+    <pair e1="26547929.s1.e0" e2="26547929.s1.e1" id="26547929.s1.p0" relation="false"/>
+  </sentence>
+</document>

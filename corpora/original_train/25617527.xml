@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="25617527">
+  <sentence id="25617527.s0" text="mitochondrial calcium ion transmembrane transport protein was detected in 107 TNBC, 42 ductal carcinoma in situ (DCIS) and 65 adjacent non-tumor breast tissues using immunohistochemical (IHC) staining.">
+    <entity charOffset="0-49" id="25617527.s0.e0" ontology_id="GO_0006851" text="mitochondrial calcium ion transmembrane transport" type="GO"/>
+    <entity charOffset="139-144" id="25617527.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="25617527.s0.e0" e2="25617527.s0.e1" id="25617527.s0.p0" relation="true"/>
+  </sentence>
+</document>

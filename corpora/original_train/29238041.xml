@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="29238041">
+  <sentence id="29238041.s0" text="In this work we investigated the role of forkhead box O1 (cellular response to starvation) in the transcriptional regulation in macrophages, which affects the anti-tumor functions of tumor-associated macrophages (TAMs).">
+    <entity charOffset="58-89" id="29238041.s0.e0" ontology_id="GO_0009267" text="cellular response to starvation" type="GO"/>
+    <entity charOffset="164-169" id="29238041.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29238041.s0.e0" e2="29238041.s0.e1" id="29238041.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29238041.s1" text="Furthermore, we used FoxO1 conditional knockout epidermis development to show that FoxO1 deficiency in myeloid cells exacerbates tumor growth.">
+    <entity charOffset="48-69" id="29238041.s1.e0" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="129-134" id="29238041.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29238041.s1.e0" e2="29238041.s1.e1" id="29238041.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="29238041.s2" text="These results demonstrate that the protumoral property of TAMs is induced by the hypoxia-triggered cellular response to starvation deficiency, which could be a potential target of novel anti-tumor therapies">
+    <entity charOffset="38-43" id="29238041.s2.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="99-130" id="29238041.s2.e1" ontology_id="GO_0009267" text="cellular response to starvation" type="GO"/>
+    <pair e1="29238041.s2.e0" e2="29238041.s2.e1" id="29238041.s2.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="26381604">
+  <sentence id="26381604.s0" text="Patients with urea cycle and DNA replication initiation mutations appear to have the most severe short stature and microcephaly.">
+    <entity charOffset="14-24" id="26381604.s0.e0" ontology_id="GO_0000050" text="urea cycle" type="GO"/>
+    <entity charOffset="29-55" id="26381604.s0.e1" ontology_id="GO_0006270" text="DNA replication initiation" type="GO"/>
+    <entity charOffset="97-110" id="26381604.s0.e2" ontology_id="HP_0004322" text="short stature" type="HP"/>
+    <entity charOffset="115-127" id="26381604.s0.e3" ontology_id="HP_0000252" text="microcephaly" type="HP"/>
+    <pair e1="26381604.s0.e0" e2="26381604.s0.e2" id="26381604.s0.p0" relation="false"/>
+    <pair e1="26381604.s0.e0" e2="26381604.s0.e3" id="26381604.s0.p1" relation="false"/>
+    <pair e1="26381604.s0.e1" e2="26381604.s0.e2" id="26381604.s0.p2" relation="true"/>
+    <pair e1="26381604.s0.e1" e2="26381604.s0.e3" id="26381604.s0.p3" relation="true"/>
+  </sentence>
+</document>

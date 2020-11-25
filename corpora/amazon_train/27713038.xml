@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="27713038">
+  <sentence id="27713038.s0" text="High-throughput sequencing analysis has accelerated searches for genes associated with risk for colorectal cancer (CRC); germline mutations in base-excision repair, AP site formation, nuclear-transcribed mRNA catabolic process, nonsense-mediated decay, FANCM, nucleotide-excision repair, DNA incision, TP53, BUB1, attachment of spindle microtubules to kinetochore, neural crest formation, and protein dephosphorylation have been recently proposed to increase CRC risk.">
+    <entity charOffset="107-113" id="27713038.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="143-182" id="27713038.s0.e1" ontology_id="GO_0006285" text="base-excision repair, AP site formation" type="GO"/>
+    <entity charOffset="184-251" id="27713038.s0.e2" ontology_id="GO_0000184" text="nuclear-transcribed mRNA catabolic process, nonsense-mediated decay" type="GO"/>
+    <entity charOffset="260-300" id="27713038.s0.e3" ontology_id="GO_0033683" text="nucleotide-excision repair, DNA incision" type="GO"/>
+    <entity charOffset="314-363" id="27713038.s0.e4" ontology_id="GO_0008608" text="attachment of spindle microtubules to kinetochore" type="GO"/>
+    <entity charOffset="365-387" id="27713038.s0.e5" ontology_id="GO_0014029" text="neural crest formation" type="GO"/>
+    <entity charOffset="393-418" id="27713038.s0.e6" ontology_id="GO_0006470" text="protein dephosphorylation" type="GO"/>
+    <pair e1="27713038.s0.e0" e2="27713038.s0.e1" id="27713038.s0.p0" relation="true"/>
+    <pair e1="27713038.s0.e0" e2="27713038.s0.e2" id="27713038.s0.p1" relation="true"/>
+    <pair e1="27713038.s0.e0" e2="27713038.s0.e3" id="27713038.s0.p2" relation="true"/>
+    <pair e1="27713038.s0.e0" e2="27713038.s0.e4" id="27713038.s0.p3" relation="true"/>
+    <pair e1="27713038.s0.e0" e2="27713038.s0.e5" id="27713038.s0.p4" relation="true"/>
+    <pair e1="27713038.s0.e0" e2="27713038.s0.e6" id="27713038.s0.p5" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<document id="29901224">
+  <sentence id="29901224.s0" text="We reinforce the potential of CASP3 as an interesting target to be explored in adult and pediatric eye development, and alert for its dual biological role in H-regulation of transcription, DNA-templated cells and tumor microenvironment">
+    <entity charOffset="99-114" id="29901224.s0.e0" ontology_id="GO_0001654" text="eye development" type="GO"/>
+    <entity charOffset="160-202" id="29901224.s0.e1" ontology_id="GO_0006355" text="regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="213-218" id="29901224.s0.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29901224.s0.e1" e2="29901224.s0.e2" id="29901224.s0.p0" relation="true"/>
+  </sentence>
+</document>

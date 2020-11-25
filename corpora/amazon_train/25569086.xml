@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<document id="25569086">
+  <sentence id="25569086.s0" text="To identify tumor suppressor genes (negative regulation of cytokine productions) silenced by hypermethylation and discover new epigenetic biomarkers for early cancer detection.">
+    <entity charOffset="36-78" id="25569086.s0.e0" ontology_id="GO_0001818" text="negative regulation of cytokine production" type="GO"/>
+    <entity charOffset="159-165" id="25569086.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="25569086.s0.e0" e2="25569086.s0.e1" id="25569086.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="25569086.s1" text="negative regulation of platelet aggregation, located at 16q23.1, has been reported to be a critical negative regulation of cytokine production in multiple primary tumors; however, this has not yet been verified in clear cell renal cell carcinoma (ccRCC).">
+    <entity charOffset="0-43" id="25569086.s1.e0" ontology_id="GO_0090331" text="negative regulation of platelet aggregation" type="GO"/>
+    <entity charOffset="100-142" id="25569086.s1.e1" ontology_id="GO_0001818" text="negative regulation of cytokine production" type="GO"/>
+    <entity charOffset="163-168" id="25569086.s1.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="214-245" id="25569086.s1.e3" ontology_id="HP_0006770" text="clear cell renal cell carcinoma" type="HP"/>
+    <pair e1="25569086.s1.e0" e2="25569086.s1.e2" id="25569086.s1.p0" relation="true"/>
+    <pair e1="25569086.s1.e0" e2="25569086.s1.e3" id="25569086.s1.p1" relation="true"/>
+    <pair e1="25569086.s1.e1" e2="25569086.s1.e3" id="25569086.s1.p2" relation="true"/>
+  </sentence>
+  <sentence id="25569086.s2" text="proteolysis was further performed for 101 ccRCC primary tumors and 20 adjacent normal tissues.">
+    <entity charOffset="0-11" id="25569086.s2.e0" ontology_id="GO_0006508" text="proteolysis" type="GO"/>
+    <entity charOffset="56-61" id="25569086.s2.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="25569086.s2.e0" e2="25569086.s2.e1" id="25569086.s2.p0" relation="true"/>
+  </sentence>
+  <sentence id="25569086.s3" text="Furthermore, the methylation status of negative regulation of platelet aggregation was not significantly associated with gender, age, location, tumor diameter, pathological stage, nuclear grade or short-term DFS in patients with ccRCC (p &amp;gt; 0.05).">
+    <entity charOffset="39-82" id="25569086.s3.e0" ontology_id="GO_0090331" text="negative regulation of platelet aggregation" type="GO"/>
+    <entity charOffset="144-149" id="25569086.s3.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="25569086.s3.e0" e2="25569086.s3.e1" id="25569086.s3.p0" relation="true"/>
+  </sentence>
+  <sentence id="25569086.s4" text="The negative regulation of platelet aggregation gene is often down-regulated by hypermethylation in ccRCC-derived cell lines and primary tumors, indicating its critical role as a TSG in ccRCC.">
+    <entity charOffset="4-47" id="25569086.s4.e0" ontology_id="GO_0090331" text="negative regulation of platelet aggregation" type="GO"/>
+    <entity charOffset="137-142" id="25569086.s4.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="25569086.s4.e0" e2="25569086.s4.e1" id="25569086.s4.p0" relation="true"/>
+  </sentence>
+  <sentence id="25569086.s5" text="We conclude that negative regulation of platelet aggregation gene hypermethylation may be involved in the tumorigenesis of ccRCC and may serve as a novel biomarker for this disease.">
+    <entity charOffset="17-60" id="25569086.s5.e0" ontology_id="GO_0090331" text="negative regulation of platelet aggregation" type="GO"/>
+    <entity charOffset="106-111" id="25569086.s5.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="25569086.s5.e0" e2="25569086.s5.e1" id="25569086.s5.p0" relation="true"/>
+  </sentence>
+</document>

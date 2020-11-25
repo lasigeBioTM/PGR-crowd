@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<document id="29321361">
+  <sentence id="29321361.s0" text="The contiguous deletion of positive regulation of transcription, DNA-templated and its neighbouring genes, MAOA/B and cellular response to leukemia inhibitory factor, reportedly leads to syndromic clinical features such as microcephaly, intellectual disability, and epilepsy.">
+    <entity charOffset="27-78" id="29321361.s0.e0" ontology_id="GO_0045893" text="positive regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="118-165" id="29321361.s0.e1" ontology_id="GO_1990830" text="cellular response to leukemia inhibitory factor" type="GO"/>
+    <entity charOffset="223-235" id="29321361.s0.e2" ontology_id="HP_0000252" text="microcephaly" type="HP"/>
+    <entity charOffset="237-260" id="29321361.s0.e3" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <entity charOffset="266-274" id="29321361.s0.e4" ontology_id="HP_0001250" text="epilepsy" type="HP"/>
+    <pair e1="29321361.s0.e0" e2="29321361.s0.e2" id="29321361.s0.p0" relation="true"/>
+    <pair e1="29321361.s0.e0" e2="29321361.s0.e4" id="29321361.s0.p1" relation="true"/>
+    <pair e1="29321361.s0.e1" e2="29321361.s0.e3" id="29321361.s0.p2" relation="false"/>
+    <pair e1="29321361.s0.e1" e2="29321361.s0.e4" id="29321361.s0.p3" relation="false"/>
+  </sentence>
+  <sentence id="29321361.s1" text="This familial study demonstrates that a deficiency in one of two MAO genes may not lead to psychomotor delay, and deletion of cellular response to leukemia inhibitory factor may not cause epilepsy.">
+    <entity charOffset="126-173" id="29321361.s1.e0" ontology_id="GO_1990830" text="cellular response to leukemia inhibitory factor" type="GO"/>
+    <entity charOffset="188-196" id="29321361.s1.e1" ontology_id="HP_0001250" text="epilepsy" type="HP"/>
+    <pair e1="29321361.s1.e0" e2="29321361.s1.e1" id="29321361.s1.p0" relation="false"/>
+  </sentence>
+</document>

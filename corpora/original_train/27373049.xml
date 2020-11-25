@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="27373049">
+  <sentence id="27373049.s0" text="regulation of translation has a variable phenotype with typical clinical characteristics including downward-slant of palpebral fissure, malar hypoplasia, mandibular hypoplasia and microtia.">
+    <entity charOffset="0-25" id="27373049.s0.e0" ontology_id="GO_0006417" text="regulation of translation" type="GO"/>
+    <entity charOffset="136-152" id="27373049.s0.e1" ontology_id="HP_0000272" text="malar hypoplasia" type="HP"/>
+    <entity charOffset="154-175" id="27373049.s0.e2" ontology_id="HP_0000347" text="mandibular hypoplasia" type="HP"/>
+    <pair e1="27373049.s0.e0" e2="27373049.s0.e1" id="27373049.s0.p0" relation="true"/>
+    <pair e1="27373049.s0.e0" e2="27373049.s0.e2" id="27373049.s0.p1" relation="true"/>
+  </sentence>
+</document>

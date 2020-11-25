@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="29860398">
+  <sentence id="29860398.s0" text="The inhibition of CTGF/CCN2 with the monoclonal neutralizing antibody FG-3019 reduces fibrosis in several chronic disorders including the mdx mice, a murine model for Duchenne muscular dystrophy (peptide biosynthetic process).">
+    <entity charOffset="176-194" id="29860398.s0.e0" ontology_id="HP_0003560" text="muscular dystrophy" type="HP"/>
+    <entity charOffset="196-224" id="29860398.s0.e1" ontology_id="GO_0043043" text="peptide biosynthetic process" type="GO"/>
+  </sentence>
+</document>

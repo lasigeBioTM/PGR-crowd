@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29376860">
+  <sentence id="29376860.s0" text="As an important multifunctional protein involved in regulation of mitochondrial metabolism, positive regulation of transcription by RNA polymerase II was identified as a causative gene for Parkinson's disease (PD), yet the relationship between CHCHD2 and neurodegenerative dementia is not well understood.">
+    <entity charOffset="66-79" id="29376860.s0.e0" ontology_id="HP_0001427" text="mitochondrial" type="HP"/>
+    <entity charOffset="92-149" id="29376860.s0.e1" ontology_id="GO_0045944" text="positive regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="29376860.s0.e0" e2="29376860.s0.e1" id="29376860.s0.p0" relation="true"/>
+  </sentence>
+</document>

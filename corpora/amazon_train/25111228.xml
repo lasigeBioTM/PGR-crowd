@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="25111228">
+  <sentence id="25111228.s0" text="Although mammalian homotypic cell-cell adhesion is expressed in the central nervous system as well as in skeletal muscle, patients carrying mutations in MEGF10 do not show symptoms of central nervous system dysfunction.">
+    <entity charOffset="19-47" id="25111228.s0.e0" ontology_id="GO_0034109" text="homotypic cell-cell adhesion" type="GO"/>
+    <entity charOffset="68-75" id="25111228.s0.e1" ontology_id="HP_0030645" text="central" type="HP"/>
+    <pair e1="25111228.s0.e0" e2="25111228.s0.e1" id="25111228.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="25111228.s1" text="The histological and behavioral abnormalities seen in the affected flies negative regulation of transcription, DNA-templated the stage for further studies examining the signaling pathway modulated by homotypic cell-cell adhesion/Drpr in muscle, as well as assessing the effects of genetic and/or pharmacological manipulations on the observed muscle defects.">
+    <entity charOffset="21-45" id="25111228.s1.e0" ontology_id="HP_0000708" text="behavioral abnormalities" type="HP"/>
+    <entity charOffset="73-124" id="25111228.s1.e1" ontology_id="GO_0045892" text="negative regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="200-228" id="25111228.s1.e2" ontology_id="GO_0034109" text="homotypic cell-cell adhesion" type="GO"/>
+  </sentence>
+</document>

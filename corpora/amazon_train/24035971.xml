@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<document id="24035971">
+  <sentence id="24035971.s0" text="Hereby, we describe a 18 months old girl presenting with trigonocephaly and dysmorphic facial features, including hypotelorism, broad depressed nasal bridge, micrognathia, synophrys, epicanthal folds, and with a stage 4 neuroblastoma without positive regulation of gene expression amplification, carrying a germline 11q deletion (11q14.1-q22.3), outside from Jacobsen syndrome and from neuroblastoma 11q critical regions.">
+    <entity charOffset="57-71" id="24035971.s0.e0" ontology_id="HP_0000243" text="trigonocephaly" type="HP"/>
+    <entity charOffset="114-126" id="24035971.s0.e1" ontology_id="HP_0000601" text="hypotelorism" type="HP"/>
+    <entity charOffset="158-170" id="24035971.s0.e2" ontology_id="HP_0000347" text="micrognathia" type="HP"/>
+    <entity charOffset="183-199" id="24035971.s0.e3" ontology_id="HP_0000286" text="epicanthal folds" type="HP"/>
+    <entity charOffset="220-233" id="24035971.s0.e4" ontology_id="HP_0003006" text="neuroblastoma" type="HP"/>
+    <entity charOffset="242-280" id="24035971.s0.e5" ontology_id="GO_0010628" text="positive regulation of gene expression" type="GO"/>
+    <pair e1="24035971.s0.e0" e2="24035971.s0.e5" id="24035971.s0.p0" relation="true"/>
+    <pair e1="24035971.s0.e1" e2="24035971.s0.e5" id="24035971.s0.p1" relation="true"/>
+    <pair e1="24035971.s0.e2" e2="24035971.s0.e5" id="24035971.s0.p2" relation="false"/>
+    <pair e1="24035971.s0.e3" e2="24035971.s0.e5" id="24035971.s0.p3" relation="false"/>
+    <pair e1="24035971.s0.e4" e2="24035971.s0.e5" id="24035971.s0.p4" relation="true"/>
+  </sentence>
+</document>

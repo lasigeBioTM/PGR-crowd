@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="28195350">
+  <sentence id="28195350.s0" text="Various genes (eg, regulation of mitochondrial membrane permeability, Golgi organization, PNPLA6) traditionally rooted in either the ataxia or hereditary spastic paraplegia classification system have now been shown to cause ataxia on the one end of the disease continuum and hereditary spastic paraplegia on the other.">
+    <entity charOffset="19-68" id="28195350.s0.e0" ontology_id="GO_0046902" text="regulation of mitochondrial membrane permeability" type="GO"/>
+    <entity charOffset="70-88" id="28195350.s0.e1" ontology_id="GO_0007030" text="Golgi organization" type="GO"/>
+    <entity charOffset="133-139" id="28195350.s0.e2" ontology_id="HP_0001251" text="ataxia" type="HP"/>
+    <pair e1="28195350.s0.e0" e2="28195350.s0.e2" id="28195350.s0.p0" relation="true"/>
+    <pair e1="28195350.s0.e1" e2="28195350.s0.e2" id="28195350.s0.p1" relation="true"/>
+  </sentence>
+</document>

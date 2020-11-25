@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="26782618">
+  <sentence id="26782618.s0" text="Occult macular dystrophy (keratan sulfate biosynthetic process) is an inherited macular disease characterized by progressive visual decline with the absence of visible retinal abnormalities.">
+    <entity charOffset="7-24" id="26782618.s0.e0" ontology_id="HP_0007754" text="macular dystrophy" type="HP"/>
+    <entity charOffset="26-62" id="26782618.s0.e1" ontology_id="GO_0018146" text="keratan sulfate biosynthetic process" type="GO"/>
+  </sentence>
+</document>

@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="24670872">
+  <sentence id="24670872.s0" text="Furthermore, targeted knockout of negative regulation of phosphatase activity in epidermis development results in retinal degeneration with abnormal positive regulation of transcription by RNA polymerase II response.">
+    <entity charOffset="34-77" id="24670872.s0.e0" ontology_id="GO_0010923" text="negative regulation of phosphatase activity" type="GO"/>
+    <entity charOffset="81-102" id="24670872.s0.e1" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="114-134" id="24670872.s0.e2" ontology_id="HP_0000546" text="retinal degeneration" type="HP"/>
+    <entity charOffset="149-206" id="24670872.s0.e3" ontology_id="GO_0045944" text="positive regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="24670872.s0.e0" e2="24670872.s0.e2" id="24670872.s0.p0" relation="true"/>
+    <pair e1="24670872.s0.e1" e2="24670872.s0.e2" id="24670872.s0.p1" relation="true"/>
+    <pair e1="24670872.s0.e2" e2="24670872.s0.e3" id="24670872.s0.p2" relation="true"/>
+  </sentence>
+</document>

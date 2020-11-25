@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="27903752">
+  <sentence id="27903752.s0" text="Markers such as SERPINI1, biological_process, and negative regulation of cell migration were modulated by ABBV-075 and other central nervous system development inhibitors across cancer cell lines and xenograft tumors but not in blood and skin.">
+    <entity charOffset="26-44" id="27903752.s0.e0" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="50-87" id="27903752.s0.e1" ontology_id="GO_0030336" text="negative regulation of cell migration" type="GO"/>
+    <entity charOffset="125-159" id="27903752.s0.e2" ontology_id="GO_0007417" text="central nervous system development" type="GO"/>
+    <entity charOffset="178-184" id="27903752.s0.e3" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="210-216" id="27903752.s0.e4" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <pair e1="27903752.s0.e0" e2="27903752.s0.e4" id="27903752.s0.p0" relation="true"/>
+    <pair e1="27903752.s0.e1" e2="27903752.s0.e4" id="27903752.s0.p1" relation="true"/>
+    <pair e1="27903752.s0.e2" e2="27903752.s0.e4" id="27903752.s0.p2" relation="true"/>
+    <pair e1="27903752.s0.e2" e2="27903752.s0.e3" id="27903752.s0.p3" relation="true"/>
+  </sentence>
+</document>

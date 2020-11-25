@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<document id="29061647">
+  <sentence id="29061647.s0" text="Pyridoxine-dependent epilepsy (cellular aldehyde metabolic process) is a rare disease characterized by mutations in the lysine degradation gene &lt;i&gt;ALDH7A1&lt;/i&gt; leading to recurrent neonatal seizures, which are uniquely alleviated by high doses of pyridoxine or pyridoxal 5'-phosphate (vitamin B6 vitamers).">
+    <entity charOffset="21-29" id="29061647.s0.e0" ontology_id="HP_0001250" text="epilepsy" type="HP"/>
+    <entity charOffset="31-66" id="29061647.s0.e1" ontology_id="GO_0006081" text="cellular aldehyde metabolic process" type="GO"/>
+    <entity charOffset="189-197" id="29061647.s0.e2" ontology_id="HP_0001250" text="seizures" type="HP"/>
+    <pair e1="29061647.s0.e0" e2="29061647.s0.e1" id="29061647.s0.p0" relation="true"/>
+    <pair e1="29061647.s0.e1" e2="29061647.s0.e2" id="29061647.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="29061647.s1" text="Remarkably, as is the case in human cellular aldehyde metabolic process, the seizures show an almost immediate sensitivity to pyridoxine and pyridoxal 5'-phosphate, with a resulting extension of the life span.">
+    <entity charOffset="36-71" id="29061647.s1.e0" ontology_id="GO_0006081" text="cellular aldehyde metabolic process" type="GO"/>
+    <entity charOffset="77-85" id="29061647.s1.e1" ontology_id="HP_0001250" text="seizures" type="HP"/>
+    <pair e1="29061647.s1.e0" e2="29061647.s1.e1" id="29061647.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="29061647.s2" text="Impaired lysine degradation with accumulation of cellular aldehyde metabolic process biomarkers, B6 deficiency, and low γ-aminobutyric acid levels were observed in the &lt;i&gt;cellular aldehyde metabolic process&lt;/i&gt;&lt;sup&gt;-/-&lt;/sup&gt; larvae, which may play a significant role in the seizure phenotype and PDE pathogenesis.">
+    <entity charOffset="49-84" id="29061647.s2.e0" ontology_id="GO_0006081" text="cellular aldehyde metabolic process" type="GO"/>
+    <entity charOffset="171-206" id="29061647.s2.e1" ontology_id="GO_0006081" text="cellular aldehyde metabolic process" type="GO"/>
+    <entity charOffset="274-281" id="29061647.s2.e2" ontology_id="HP_0001250" text="seizure" type="HP"/>
+    <pair e1="29061647.s2.e0" e2="29061647.s2.e2" id="29061647.s2.p0" relation="true"/>
+    <pair e1="29061647.s2.e1" e2="29061647.s2.e2" id="29061647.s2.p1" relation="true"/>
+  </sentence>
+</document>

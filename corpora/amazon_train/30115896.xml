@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<document id="30115896">
+  <sentence id="30115896.s0" text="This study investigates the soluble factors released by tumor-associated dendritic cells (TADCs) responsible for increasing cancer stem cell (CSC) properties, cell mobility, and epithelial-to-mesenchymal transition (cytokine production).">
+    <entity charOffset="124-130" id="30115896.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="216-235" id="30115896.s0.e1" ontology_id="GO_0001816" text="cytokine production" type="GO"/>
+    <pair e1="30115896.s0.e0" e2="30115896.s0.e1" id="30115896.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="30115896.s1" text="Dendritic cells (DCs) of colon cancer patients were collected for phenotype and chemotaxis expression by flow cytometry and Luminex assays.">
+    <entity charOffset="31-37" id="30115896.s1.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="80-90" id="30115896.s1.e1" ontology_id="GO_0006935" text="chemotaxis" type="GO"/>
+    <pair e1="30115896.s1.e0" e2="30115896.s1.e1" id="30115896.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="30115896.s2" text="The transcriptome of chemotaxis-treated cancer cells was established by next generation sequencing.">
+    <entity charOffset="21-31" id="30115896.s2.e0" ontology_id="GO_0006935" text="chemotaxis" type="GO"/>
+    <entity charOffset="40-46" id="30115896.s2.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30115896.s2.e0" e2="30115896.s2.e1" id="30115896.s2.p0" relation="true"/>
+  </sentence>
+  <sentence id="30115896.s3" text="Additionally, CXCL1 increases the metastatic ability of a cancer by enhancing cell migration, matrix metalloproteinase-7 expression and cytokine production.">
+    <entity charOffset="58-64" id="30115896.s3.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="136-155" id="30115896.s3.e1" ontology_id="GO_0001816" text="cytokine production" type="GO"/>
+  </sentence>
+  <sentence id="30115896.s4" text="The enhanced chemotaxis expression in DCs is also noted in mice transplanted with colon cancer cells.">
+    <entity charOffset="13-23" id="30115896.s4.e0" ontology_id="GO_0006935" text="chemotaxis" type="GO"/>
+    <entity charOffset="88-94" id="30115896.s4.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30115896.s4.e0" e2="30115896.s4.e1" id="30115896.s4.p0" relation="true"/>
+  </sentence>
+  <sentence id="30115896.s5" text="Concurrently, chemotaxis displays a specific microRNA (protein polyubiquitination) upregulated by the prototypical colon cancer onco-miR miR-105.">
+    <entity charOffset="14-24" id="30115896.s5.e0" ontology_id="GO_0006935" text="chemotaxis" type="GO"/>
+    <entity charOffset="55-81" id="30115896.s5.e1" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="121-127" id="30115896.s5.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30115896.s5.e0" e2="30115896.s5.e2" id="30115896.s5.p0" relation="true"/>
+    <pair e1="30115896.s5.e1" e2="30115896.s5.e2" id="30115896.s5.p1" relation="true"/>
+  </sentence>
+  <sentence id="30115896.s6" text="Analysis of publicly available data reveals chemotaxis-driven oncogenes and protein polyubiquitination-105 have a negative prognostic impact on the outcome of colon cancer.">
+    <entity charOffset="44-54" id="30115896.s6.e0" ontology_id="GO_0006935" text="chemotaxis" type="GO"/>
+    <entity charOffset="76-102" id="30115896.s6.e1" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="165-171" id="30115896.s6.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30115896.s6.e0" e2="30115896.s6.e2" id="30115896.s6.p0" relation="true"/>
+    <pair e1="30115896.s6.e1" e2="30115896.s6.e2" id="30115896.s6.p1" relation="true"/>
+  </sentence>
+</document>

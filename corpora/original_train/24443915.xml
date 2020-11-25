@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="24443915">
+  <sentence id="24443915.s0" text="Recently, autosomal recessive loss-of-function mutations in EXPH5 (encoding exophilin-5, also known as keratinocyte development, a protein involved in intracellular vesicle transport) were identified in a new mechanobullous disease resembling a form of epidermolysis bullosa simplex (EBS).">
+    <entity charOffset="10-29" id="24443915.s0.e0" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="103-127" id="24443915.s0.e1" ontology_id="GO_0003334" text="keratinocyte development" type="GO"/>
+    <pair e1="24443915.s0.e0" e2="24443915.s0.e1" id="24443915.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="24443915.s1" text="This case represents the third pedigree with keratinocyte development mutations resulting in inherited skin fragility.">
+    <entity charOffset="45-69" id="24443915.s1.e0" ontology_id="GO_0003334" text="keratinocyte development" type="GO"/>
+    <entity charOffset="103-117" id="24443915.s1.e1" ontology_id="HP_0001030" text="skin fragility" type="HP"/>
+    <pair e1="24443915.s1.e0" e2="24443915.s1.e1" id="24443915.s1.p0" relation="true"/>
+  </sentence>
+</document>

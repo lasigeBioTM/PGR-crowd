@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="25310821">
+  <sentence id="25310821.s0" text="Hirschsprung disease (endothelin receptor signaling pathway) is a congenital and heterogeneous disorder characterized by the absence of intramural nervous plexuses along variable lengths of the hindgut.">
+    <entity charOffset="22-59" id="25310821.s0.e0" ontology_id="GO_0086100" text="endothelin receptor signaling pathway" type="GO"/>
+    <entity charOffset="81-94" id="25310821.s0.e1" ontology_id="HP_0001425" text="heterogeneous" type="HP"/>
+  </sentence>
+  <sentence id="25310821.s1" text="To discover additional risk loci, we performed a GWAS of 123 sporadic endothelin receptor signaling pathway patients and 432 unaffected controls using a large-scale platform with coverage of over 1 million polymorphic markers.">
+    <entity charOffset="61-69" id="25310821.s1.e0" ontology_id="HP_0003745" text="sporadic" type="HP"/>
+    <entity charOffset="70-107" id="25310821.s1.e1" ontology_id="GO_0086100" text="endothelin receptor signaling pathway" type="GO"/>
+    <pair e1="25310821.s1.e0" e2="25310821.s1.e1" id="25310821.s1.p0" relation="true"/>
+  </sentence>
+</document>

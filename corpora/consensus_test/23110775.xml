@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="23110775">
+  <sentence id="23110775.s0" text="Bartter syndrome muscle organ development IV is a rare subtype of the Bartter syndromes that leads to both severe renal salt wasting and sensorineural deafness.">
+    <entity charOffset="17-41" id="23110775.s0.e0" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="114-132" id="23110775.s0.e1" ontology_id="HP_0000127" text="renal salt wasting" type="HP"/>
+    <entity charOffset="151-159" id="23110775.s0.e2" ontology_id="HP_0000365" text="deafness" type="HP"/>
+  </sentence>
+  <sentence id="23110775.s1" text="In this study, we report the identification of the first insertion mutation, p.W102Vfs*7, in the ion transmembrane transport gene of a newborn girl with acute clinical symptoms including early-onset chronic renal failure.">
+    <entity charOffset="97-124" id="23110775.s1.e0" ontology_id="GO_0034220" text="ion transmembrane transport" type="GO"/>
+    <entity charOffset="199-206" id="23110775.s1.e1" ontology_id="HP_0011010" text="chronic" type="HP"/>
+    <entity charOffset="207-220" id="23110775.s1.e2" ontology_id="HP_0000083" text="renal failure" type="HP"/>
+    <pair e1="23110775.s1.e0" e2="23110775.s1.e2" id="23110775.s1.p0" relation="true"/>
+    <pair e1="23110775.s1.e0" e2="23110775.s1.e1" id="23110775.s1.p1" relation="true"/>
+  </sentence>
+</document>

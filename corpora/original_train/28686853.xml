@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="28686853">
+  <sentence id="28686853.s0" text="These subjects share a negative regulation of transcription, DNA-templated of common facial features that include a prominent maxilla and upper nuclear-transcribed mRNA catabolic process, nonsense-mediated decay that readily reveal the upper gingiva, widely spaced teeth, and a broad nasal tip.">
+    <entity charOffset="23-74" id="28686853.s0.e0" ontology_id="GO_0045892" text="negative regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="144-211" id="28686853.s0.e1" ontology_id="GO_0000184" text="nuclear-transcribed mRNA catabolic process, nonsense-mediated decay" type="GO"/>
+    <entity charOffset="251-270" id="28686853.s0.e2" ontology_id="HP_0000687" text="widely spaced teeth" type="HP"/>
+    <pair e1="28686853.s0.e0" e2="28686853.s0.e2" id="28686853.s0.p0" relation="false"/>
+    <pair e1="28686853.s0.e1" e2="28686853.s0.e2" id="28686853.s0.p1" relation="false"/>
+  </sentence>
+</document>

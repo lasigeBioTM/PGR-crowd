@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27997051">
+  <sentence id="27997051.s0" text="Although regulation of collagen fibril organization immunoreactivity was almost absent in neurons containing neurofibrillary tangles, AEBP1 was highly expressed in neurons with pretangles and in the tau-immunopositive, dystrophic neurites of senile plaques.">
+    <entity charOffset="9-51" id="27997051.s0.e0" ontology_id="GO_1904026" text="regulation of collagen fibril organization" type="GO"/>
+    <entity charOffset="109-132" id="27997051.s0.e1" ontology_id="HP_0002185" text="neurofibrillary tangles" type="HP"/>
+    <pair e1="27997051.s0.e0" e2="27997051.s0.e1" id="27997051.s0.p0" relation="true"/>
+  </sentence>
+</document>

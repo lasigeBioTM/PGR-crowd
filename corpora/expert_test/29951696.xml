@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29951696">
+  <sentence id="29951696.s0" text="Polymorphisms in the biological_process gene have been linked to congenital heart anomalies and intellectual disabilities.">
+    <entity charOffset="21-39" id="29951696.s0.e0" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="96-121" id="29951696.s0.e1" ontology_id="HP_0001249" text="intellectual disabilities" type="HP"/>
+    <pair e1="29951696.s0.e0" e2="29951696.s0.e1" id="29951696.s0.p0" relation="true"/>
+  </sentence>
+</document>

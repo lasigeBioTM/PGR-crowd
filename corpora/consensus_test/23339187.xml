@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="23339187">
+  <sentence id="23339187.s0" text="Blocking the expression of PAK1, DIAPH2, and regulation of cell shape significantly inhibits breast cancer cell migration induced by let-7b repression.">
+    <entity charOffset="45-69" id="23339187.s0.e0" ontology_id="GO_0008360" text="regulation of cell shape" type="GO"/>
+    <entity charOffset="100-106" id="23339187.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="23339187.s0.e0" e2="23339187.s0.e1" id="23339187.s0.p0" relation="true"/>
+  </sentence>
+</document>

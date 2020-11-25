@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<document id="24365204">
+  <sentence id="24365204.s0" text="As a result, we identified one gene negative regulation of transcription, DNA-templated with a joint effect significantly associated with schizophrenia and gene expression profiling analysis suggested that they were mainly neuro- and immune-related genes, such as glutamatergic gene (G protein-coupled glutamate receptor signaling pathway), GABAergic genes (chloride transmembrane transport, extrinsic apoptotic signaling pathway via death domain receptors) and genes located in the MHC region (antigen processing and presentation of peptide antigen via MHC class I, biological_process, negative regulation of transcription by RNA polymerase II).">
+    <entity charOffset="36-87" id="24365204.s0.e0" ontology_id="GO_0045892" text="negative regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="138-151" id="24365204.s0.e1" ontology_id="HP_0100753" text="schizophrenia" type="HP"/>
+    <entity charOffset="284-338" id="24365204.s0.e2" ontology_id="GO_0007216" text="G protein-coupled glutamate receptor signaling pathway" type="GO"/>
+    <entity charOffset="358-390" id="24365204.s0.e3" ontology_id="GO_1902476" text="chloride transmembrane transport" type="GO"/>
+    <entity charOffset="392-456" id="24365204.s0.e4" ontology_id="GO_0008625" text="extrinsic apoptotic signaling pathway via death domain receptors" type="GO"/>
+    <entity charOffset="495-565" id="24365204.s0.e5" ontology_id="GO_0002474" text="antigen processing and presentation of peptide antigen via MHC class I" type="GO"/>
+    <entity charOffset="567-585" id="24365204.s0.e6" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="587-644" id="24365204.s0.e7" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="24365204.s0.e0" e2="24365204.s0.e1" id="24365204.s0.p0" relation="false"/>
+    <pair e1="24365204.s0.e1" e2="24365204.s0.e2" id="24365204.s0.p1" relation="false"/>
+    <pair e1="24365204.s0.e1" e2="24365204.s0.e3" id="24365204.s0.p2" relation="false"/>
+    <pair e1="24365204.s0.e1" e2="24365204.s0.e4" id="24365204.s0.p3" relation="false"/>
+    <pair e1="24365204.s0.e1" e2="24365204.s0.e5" id="24365204.s0.p4" relation="false"/>
+    <pair e1="24365204.s0.e1" e2="24365204.s0.e6" id="24365204.s0.p5" relation="false"/>
+    <pair e1="24365204.s0.e1" e2="24365204.s0.e7" id="24365204.s0.p6" relation="false"/>
+  </sentence>
+  <sentence id="24365204.s1" text="In our study, we identified a negative regulation of transcription, DNA-templated of susceptibility genes that had been missed in single-marker GWAS, and our findings could promote the study of the genetic mechanisms in schizophrenia.">
+    <entity charOffset="30-81" id="24365204.s1.e0" ontology_id="GO_0045892" text="negative regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="220-233" id="24365204.s1.e1" ontology_id="HP_0100753" text="schizophrenia" type="HP"/>
+    <pair e1="24365204.s1.e0" e2="24365204.s1.e1" id="24365204.s1.p0" relation="false"/>
+  </sentence>
+</document>

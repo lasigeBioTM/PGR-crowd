@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="28069802">
+  <sentence id="28069802.s0" text="We identified novel ALK fusions in a neuroblastoma (BEND5-ALK) and an astrocytoma (PPP1CB-ALK), novel protein phosphorylation fusions in an astrocytoma (BCAS1-BRAF) and a ganglioglioma (TMEM106B-BRAF), and a novel PAX3-smoothened signaling pathway fusion in a rhabdomyosarcoma.">
+    <entity charOffset="37-50" id="28069802.s0.e0" ontology_id="HP_0003006" text="neuroblastoma" type="HP"/>
+    <entity charOffset="70-81" id="28069802.s0.e1" ontology_id="HP_0009592" text="astrocytoma" type="HP"/>
+    <entity charOffset="102-125" id="28069802.s0.e2" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <entity charOffset="219-247" id="28069802.s0.e3" ontology_id="GO_0007224" text="smoothened signaling pathway" type="GO"/>
+    <pair e1="28069802.s0.e0" e2="28069802.s0.e2" id="28069802.s0.p0" relation="false"/>
+    <pair e1="28069802.s0.e0" e2="28069802.s0.e3" id="28069802.s0.p1" relation="false"/>
+    <pair e1="28069802.s0.e1" e2="28069802.s0.e3" id="28069802.s0.p2" relation="false"/>
+    <pair e1="28069802.s0.e1" e2="28069802.s0.e2" id="28069802.s0.p3" relation="true"/>
+  </sentence>
+</document>

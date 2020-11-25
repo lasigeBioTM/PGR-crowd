@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30072435">
+  <sentence id="30072435.s0" text="Overall, 40 of the 73 ICA patients (55%) and 23 of the 56 kindreds (41%) carry mutations located in translated or untranslated exons of &lt;i&gt;nuclear-transcribed mRNA catabolic process, nonsense-mediated decay.&lt;/i&gt; Eleven of the 43 kindreds affected by sporadic disease (26%) carry &lt;i&gt;RPSA&lt;/i&gt; mutations, whereas 12 of the 13 multiplex kindreds (92%) carry &lt;i&gt;RPSA&lt;/i&gt; mutations.">
+    <entity charOffset="139-206" id="30072435.s0.e0" ontology_id="GO_0000184" text="nuclear-transcribed mRNA catabolic process, nonsense-mediated decay" type="GO"/>
+    <entity charOffset="250-258" id="30072435.s0.e1" ontology_id="HP_0003745" text="sporadic" type="HP"/>
+    <pair e1="30072435.s0.e0" e2="30072435.s0.e1" id="30072435.s0.p0" relation="false"/>
+  </sentence>
+</document>

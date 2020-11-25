@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="27765924">
+  <sentence id="27765924.s0" text="It is well known that protein polyubiquitination-145-5p (the guide strand) functions as a tumor suppressor in several types of cancer.">
+    <entity charOffset="22-48" id="27765924.s0.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="90-95" id="27765924.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="127-133" id="27765924.s0.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27765924.s0.e0" e2="27765924.s0.e1" id="27765924.s0.p0" relation="true"/>
+    <pair e1="27765924.s0.e0" e2="27765924.s0.e2" id="27765924.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="27765924.s1" text="Expression levels of protein polyubiquitination-145-5p and miR-145-3p were markedly reduced in cancer tissues, and ectopic expression of these miRNAs inhibited cancer cell aggressiveness, suggesting that both miR-145-3p as well as miR-145-5p acted as antitumor miRNAs.">
+    <entity charOffset="21-47" id="27765924.s1.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="172-186" id="27765924.s1.e1" ontology_id="HP_0000718" text="aggressiveness" type="HP"/>
+    <pair e1="27765924.s1.e0" e2="27765924.s1.e1" id="27765924.s1.p0" relation="true"/>
+  </sentence>
+</document>

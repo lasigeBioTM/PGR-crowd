@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="26758872">
+  <sentence id="26758872.s0" text="Meesmann epithelial corneal dystrophy (MECD) is a rare autosomal dominant disorder caused by dominant-negative mutations within the intermediate filament cytoskeleton organization or KRT12 genes, which encode the cytoskeletal protein keratins K3 and visual perception, respectively.">
+    <entity charOffset="20-37" id="26758872.s0.e0" ontology_id="HP_0001131" text="corneal dystrophy" type="HP"/>
+    <entity charOffset="132-179" id="26758872.s0.e1" ontology_id="GO_0045104" text="intermediate filament cytoskeleton organization" type="GO"/>
+    <entity charOffset="250-267" id="26758872.s0.e2" ontology_id="GO_0007601" text="visual perception" type="GO"/>
+    <pair e1="26758872.s0.e0" e2="26758872.s0.e1" id="26758872.s0.p0" relation="false"/>
+    <pair e1="26758872.s0.e0" e2="26758872.s0.e2" id="26758872.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="26758872.s1" text="Although no overt changes in corneal opacity were detected by slit-lamp examination, the corneas of homozygous mutant epidermis development exhibited histological and ultrastructural epithelial cell fragility phenotypes.">
+    <entity charOffset="29-44" id="26758872.s1.e0" ontology_id="HP_0007957" text="corneal opacity" type="HP"/>
+    <entity charOffset="118-139" id="26758872.s1.e1" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+  </sentence>
+</document>

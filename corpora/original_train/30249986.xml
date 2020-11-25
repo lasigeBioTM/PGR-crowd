@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="30249986">
+  <sentence id="30249986.s0" text="Oxidative stress, which is induced by reactive oxygen species (regulation of cell growth), causes cellular cellular protein catabolic process which contributes to the pathogenesis of neurodegenerative diseases.">
+    <entity charOffset="63-88" id="30249986.s0.e0" ontology_id="GO_0001558" text="regulation of cell growth" type="GO"/>
+    <entity charOffset="107-141" id="30249986.s0.e1" ontology_id="GO_0044257" text="cellular protein catabolic process" type="GO"/>
+    <entity charOffset="183-209" id="30249986.s0.e2" ontology_id="HP_0002180" text="neurodegenerative diseases" type="HP"/>
+    <pair e1="30249986.s0.e0" e2="30249986.s0.e2" id="30249986.s0.p0" relation="false"/>
+    <pair e1="30249986.s0.e1" e2="30249986.s0.e2" id="30249986.s0.p1" relation="false"/>
+  </sentence>
+  <sentence id="30249986.s1" text="First, we tested whether the pretreatment of &lt;i&gt;Momordica charantia&lt;/i&gt; ethanol extract (MCEE) attenuates H₂O₂-induced cell death in human neuroblastoma negative regulation of transcription by RNA polymerase II-N-MC cells.">
+    <entity charOffset="139-152" id="30249986.s1.e0" ontology_id="HP_0003006" text="neuroblastoma" type="HP"/>
+    <entity charOffset="153-210" id="30249986.s1.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="30249986.s1.e0" e2="30249986.s1.e1" id="30249986.s1.p0" relation="false"/>
+  </sentence>
+</document>

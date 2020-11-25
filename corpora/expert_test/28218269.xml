@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="28218269">
+  <sentence id="28218269.s0" text="Fragile X syndrome (FXS), caused by the loss of functional regulation of alternative mRNA splicing, via spliceosome, is a leading cause of autism.">
+    <entity charOffset="59-115" id="28218269.s0.e0" ontology_id="GO_0000381" text="regulation of alternative mRNA splicing, via spliceosome" type="GO"/>
+    <entity charOffset="139-145" id="28218269.s0.e1" ontology_id="HP_0000717" text="autism" type="HP"/>
+    <pair e1="28218269.s0.e0" e2="28218269.s0.e1" id="28218269.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28218269.s1" text="Genetic reduction of cAMP biosynthetic process also ameliorates autism-related symptoms including repetitive behaviour, defective social interaction and audiogenic seizures.">
+    <entity charOffset="21-46" id="28218269.s1.e0" ontology_id="GO_0006171" text="cAMP biosynthetic process" type="GO"/>
+    <entity charOffset="164-172" id="28218269.s1.e1" ontology_id="HP_0001250" text="seizures" type="HP"/>
+    <pair e1="28218269.s1.e0" e2="28218269.s1.e1" id="28218269.s1.p0" relation="true"/>
+  </sentence>
+</document>

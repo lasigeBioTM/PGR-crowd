@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29325022">
+  <sentence id="29325022.s0" text="Mutations of the sigma subunit of the heterotetrameric adaptor-related protein complex 2 (AP2σ) impair signalling of the calcium-sensing receptor (CaSR), and cause familial hypocalciuric hypercalcaemia muscle organ development 3 (FHH3).">
+    <entity charOffset="187-201" id="29325022.s0.e0" ontology_id="HP_0003072" text="hypercalcaemia" type="HP"/>
+    <entity charOffset="202-226" id="29325022.s0.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <pair e1="29325022.s0.e0" e2="29325022.s0.e1" id="29325022.s0.p0" relation="false"/>
+  </sentence>
+</document>

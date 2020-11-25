@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="28106506">
+  <sentence id="28106506.s0" text="The tumor necrosis factor (negative regulation of transcription by RNA polymerase II) family ligand ectodysplasin A (positive regulation of NF-kappaB transcription factor activity) is produced as 2 full-length splice variants, EDA1 and EDA2, that bind to EDA receptor (EDAR) and X-linked EDA receptor (XEDAR/EDA2R), respectively.">
+    <entity charOffset="4-9" id="28106506.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="27-84" id="28106506.s0.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="117-179" id="28106506.s0.e2" ontology_id="GO_0051092" text="positive regulation of NF-kappaB transcription factor activity" type="GO"/>
+    <pair e1="28106506.s0.e0" e2="28106506.s0.e1" id="28106506.s0.p0" relation="false"/>
+    <pair e1="28106506.s0.e0" e2="28106506.s0.e2" id="28106506.s0.p1" relation="false"/>
+  </sentence>
+  <sentence id="28106506.s1" text="Inactivating mutations in Eda or Edar cause hypohidrotic ectodermal dysplasia (positive regulation of NF-kappaB transcription factor activity), a condition characterized by malformations of the teeth, hair and glands, with milder deficiencies affecting only the teeth.">
+    <entity charOffset="57-77" id="28106506.s1.e0" ontology_id="HP_0000968" text="ectodermal dysplasia" type="HP"/>
+    <entity charOffset="79-141" id="28106506.s1.e1" ontology_id="GO_0051092" text="positive regulation of NF-kappaB transcription factor activity" type="GO"/>
+    <pair e1="28106506.s1.e0" e2="28106506.s1.e1" id="28106506.s1.p0" relation="true"/>
+  </sentence>
+</document>

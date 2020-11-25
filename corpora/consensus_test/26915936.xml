@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="26915936">
+  <sentence id="26915936.s0" text="Since the distal arthrogryposes (DAs) are genetically heterogeneous, an unbiased approach to mutation identification was undertaken through whole-exome next-generation sequencing of DNA from a single regulation of cellular amino acid metabolic process-affected female.">
+    <entity charOffset="54-67" id="26915936.s0.e0" ontology_id="HP_0001425" text="heterogeneous" type="HP"/>
+    <entity charOffset="200-251" id="26915936.s0.e1" ontology_id="GO_0006521" text="regulation of cellular amino acid metabolic process" type="GO"/>
+  </sentence>
+</document>

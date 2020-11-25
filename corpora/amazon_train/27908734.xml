@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<document id="27908734">
+  <sentence id="27908734.s0" text="However, the biological function and mechanism of glyceraldehyde-3-phosphate biosynthetic process in cancer remain largely unknown.">
+    <entity charOffset="50-97" id="27908734.s0.e0" ontology_id="GO_0046166" text="glyceraldehyde-3-phosphate biosynthetic process" type="GO"/>
+    <entity charOffset="101-107" id="27908734.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27908734.s0.e0" e2="27908734.s0.e1" id="27908734.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="27908734.s1" text="In this study, we have found that TPI1 expression was greatly decreased in clinical phosphatidylinositol phosphorylation samples, positively correlated with overall survival, and negatively associated with histological differentiation, tumor size and organ metastasis.">
+    <entity charOffset="84-120" id="27908734.s1.e0" ontology_id="GO_0046854" text="phosphatidylinositol phosphorylation" type="GO"/>
+    <entity charOffset="236-241" id="27908734.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="27908734.s1.e0" e2="27908734.s1.e1" id="27908734.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="27908734.s2" text="Moreover, overexpression of glyceraldehyde-3-phosphate biosynthetic process led to slowed tumor growth and decreased tumor weight in vivo.">
+    <entity charOffset="28-75" id="27908734.s2.e0" ontology_id="GO_0046166" text="glyceraldehyde-3-phosphate biosynthetic process" type="GO"/>
+    <entity charOffset="90-95" id="27908734.s2.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="27908734.s2.e0" e2="27908734.s2.e1" id="27908734.s2.p0" relation="true"/>
+  </sentence>
+  <sentence id="27908734.s3" text="Therefore, our data suggested that glyceraldehyde-3-phosphate biosynthetic process functioned as a tumor suppressor in phosphatidylinositol phosphorylation and might serve as a potential therapeutic target for the treatment of HCC">
+    <entity charOffset="35-82" id="27908734.s3.e0" ontology_id="GO_0046166" text="glyceraldehyde-3-phosphate biosynthetic process" type="GO"/>
+    <entity charOffset="99-104" id="27908734.s3.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="119-155" id="27908734.s3.e2" ontology_id="GO_0046854" text="phosphatidylinositol phosphorylation" type="GO"/>
+    <pair e1="27908734.s3.e0" e2="27908734.s3.e1" id="27908734.s3.p0" relation="true"/>
+  </sentence>
+</document>

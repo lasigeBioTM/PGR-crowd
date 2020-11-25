@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="25122612">
+  <sentence id="25122612.s0" text="We used Cregulation of insulin secretion-C to investigate long-range interactions at three breast cancer gene deserts mapping to 2q35, 8q24.21, and 9q31.2.">
+    <entity charOffset="9-40" id="25122612.s0.e0" ontology_id="GO_0050796" text="regulation of insulin secretion" type="GO"/>
+    <entity charOffset="98-104" id="25122612.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+  </sentence>
+</document>

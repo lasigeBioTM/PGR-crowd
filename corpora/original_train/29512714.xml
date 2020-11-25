@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<document id="29512714">
+  <sentence id="29512714.s0" text="The tumor suppressor characteristics of cyclin‑dependent kinase 10 (peptidyl-threonine phosphorylation) in nasopharyngeal carcinoma and breast cancer have been previously demonstrated.">
+    <entity charOffset="4-9" id="29512714.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="68-102" id="29512714.s0.e1" ontology_id="GO_0018107" text="peptidyl-threonine phosphorylation" type="GO"/>
+    <pair e1="29512714.s0.e0" e2="29512714.s0.e1" id="29512714.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="29512714.s1" text="In the present study the expression status of peptidyl-threonine phosphorylation and its prognostic significance in gastric cancer was determined, as well as its role in cell proliferation and invasion.">
+    <entity charOffset="46-80" id="29512714.s1.e0" ontology_id="GO_0018107" text="peptidyl-threonine phosphorylation" type="GO"/>
+    <entity charOffset="124-130" id="29512714.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29512714.s1.e0" e2="29512714.s1.e1" id="29512714.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="29512714.s2" text="Immunoblot analysis revealed that peptidyl-threonine phosphorylation protein expression was notably decreased in gastric cancer compared with normal tissues.">
+    <entity charOffset="34-68" id="29512714.s2.e0" ontology_id="GO_0018107" text="peptidyl-threonine phosphorylation" type="GO"/>
+    <entity charOffset="121-127" id="29512714.s2.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29512714.s2.e0" e2="29512714.s2.e1" id="29512714.s2.p0" relation="false"/>
+  </sentence>
+  <sentence id="29512714.s3" text="Immunohistochemistry demonstrated that the loss of peptidyl-threonine phosphorylation expression, which was observed in 50.8% of primary gastric cancer tissues (n=128), significantly correlated with advanced tumor stage (P&amp;lt;0.001), frequent lymph node metastasis (P&amp;lt;0.001), distant metastasis (P=0.013), tumor differentiation (P=0.004) and unfavorable overall survival (P&amp;lt;0.001).">
+    <entity charOffset="51-85" id="29512714.s3.e0" ontology_id="GO_0018107" text="peptidyl-threonine phosphorylation" type="GO"/>
+    <entity charOffset="145-151" id="29512714.s3.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29512714.s3.e0" e2="29512714.s3.e1" id="29512714.s3.p0" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29314300">
+  <sentence id="29314300.s0" text="The tumor cells expressed maintenance of gastrointestinal epithelium, GLUT-1, and vimentin and were negative for S-100 protein, epithelial membrane antigen, smooth muscle actin, desmin, claudin-1, neurofilament and SOX10.">
+    <entity charOffset="4-9" id="29314300.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="26-68" id="29314300.s0.e1" ontology_id="GO_0030277" text="maintenance of gastrointestinal epithelium" type="GO"/>
+    <pair e1="29314300.s0.e0" e2="29314300.s0.e1" id="29314300.s0.p0" relation="true"/>
+  </sentence>
+</document>

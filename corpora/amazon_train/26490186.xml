@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<document id="26490186">
+  <sentence id="26490186.s0" text="The cell-cell signaling variation p.Pro108Thr, located in the T-box domain, was identified in a patient with tricuspid atresia, an exon-intron boundary variation of positive regulation of transcription, DNA-templated (IVS4+5G&amp;gt;A) was detected in a Tetralogy of Fallot patient and an 8p23 microdeletion was detected in one patient with atrioventricular septal defect and psychomotor delay.">
+    <entity charOffset="4-23" id="26490186.s0.e0" ontology_id="GO_0007267" text="cell-cell signaling" type="GO"/>
+    <entity charOffset="109-126" id="26490186.s0.e1" ontology_id="HP_0011662" text="tricuspid atresia" type="HP"/>
+    <entity charOffset="165-216" id="26490186.s0.e2" ontology_id="GO_0045893" text="positive regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="337-367" id="26490186.s0.e3" ontology_id="HP_0006695" text="atrioventricular septal defect" type="HP"/>
+    <entity charOffset="372-389" id="26490186.s0.e4" ontology_id="HP_0001263" text="psychomotor delay" type="HP"/>
+    <pair e1="26490186.s0.e0" e2="26490186.s0.e1" id="26490186.s0.p0" relation="true"/>
+    <pair e1="26490186.s0.e0" e2="26490186.s0.e3" id="26490186.s0.p1" relation="false"/>
+    <pair e1="26490186.s0.e0" e2="26490186.s0.e4" id="26490186.s0.p2" relation="true"/>
+    <pair e1="26490186.s0.e1" e2="26490186.s0.e2" id="26490186.s0.p3" relation="true"/>
+    <pair e1="26490186.s0.e2" e2="26490186.s0.e3" id="26490186.s0.p4" relation="false"/>
+    <pair e1="26490186.s0.e2" e2="26490186.s0.e4" id="26490186.s0.p5" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<document id="29499418">
+  <sentence id="29499418.s0" text="The percentage of autosomal recessive forms due to mutations in proteolysis, protein peptidyl-prolyl isomerization, protein folding, negative regulation of angiogenesis, and positive regulation of cell proliferation was unusually high (48%).">
+    <entity charOffset="18-37" id="29499418.s0.e0" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="64-75" id="29499418.s0.e1" ontology_id="GO_0006508" text="proteolysis" type="GO"/>
+    <entity charOffset="77-114" id="29499418.s0.e2" ontology_id="GO_0000413" text="protein peptidyl-prolyl isomerization" type="GO"/>
+    <entity charOffset="116-131" id="29499418.s0.e3" ontology_id="GO_0006457" text="protein folding" type="GO"/>
+    <entity charOffset="133-168" id="29499418.s0.e4" ontology_id="GO_0016525" text="negative regulation of angiogenesis" type="GO"/>
+    <entity charOffset="174-215" id="29499418.s0.e5" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <pair e1="29499418.s0.e0" e2="29499418.s0.e1" id="29499418.s0.p0" relation="true"/>
+    <pair e1="29499418.s0.e0" e2="29499418.s0.e2" id="29499418.s0.p1" relation="true"/>
+    <pair e1="29499418.s0.e0" e2="29499418.s0.e3" id="29499418.s0.p2" relation="true"/>
+    <pair e1="29499418.s0.e0" e2="29499418.s0.e4" id="29499418.s0.p3" relation="true"/>
+    <pair e1="29499418.s0.e0" e2="29499418.s0.e5" id="29499418.s0.p4" relation="true"/>
+  </sentence>
+</document>

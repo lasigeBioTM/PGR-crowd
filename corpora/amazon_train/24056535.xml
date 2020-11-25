@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<document id="24056535">
+  <sentence id="24056535.s0" text="Mutations in filamin A (negative regulation of transcription by RNA polymerase I) or post-translational protein modification-ribosylation factor guanine nucleotide-exchange factor 2 (receptor recycling) cause periventricular nodular heterotopia, but most patients with this malformation do not have a known aetiology.">
+    <entity charOffset="24-80" id="24056535.s0.e0" ontology_id="GO_0016479" text="negative regulation of transcription by RNA polymerase I" type="GO"/>
+    <entity charOffset="85-124" id="24056535.s0.e1" ontology_id="GO_0043687" text="post-translational protein modification" type="GO"/>
+    <entity charOffset="183-201" id="24056535.s0.e2" ontology_id="GO_0001881" text="receptor recycling" type="GO"/>
+    <entity charOffset="233-244" id="24056535.s0.e3" ontology_id="HP_0002282" text="heterotopia" type="HP"/>
+    <pair e1="24056535.s0.e0" e2="24056535.s0.e3" id="24056535.s0.p0" relation="true"/>
+    <pair e1="24056535.s0.e1" e2="24056535.s0.e3" id="24056535.s0.p1" relation="true"/>
+    <pair e1="24056535.s0.e2" e2="24056535.s0.e3" id="24056535.s0.p2" relation="true"/>
+  </sentence>
+  <sentence id="24056535.s1" text="Using whole exome sequencing in 14 patients with isolated periventricular nodular heterotopia but no copy number variants, we identified one patient with periventricular nodular heterotopia, developmental delay and epilepsy and a de novo missense mutation in the chromosome 6 open reading frame 70 (biological_process) gene, mapping in the minimal critical deleted region.">
+    <entity charOffset="191-210" id="24056535.s1.e0" ontology_id="HP_0001263" text="developmental delay" type="HP"/>
+    <entity charOffset="299-317" id="24056535.s1.e1" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <pair e1="24056535.s1.e0" e2="24056535.s1.e1" id="24056535.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="24056535.s2" text="Silencing of the contiguous nervous system development or Notch signaling pathway genes only produced slightly delayed migration but not periventricular nodular heterotopia.">
+    <entity charOffset="28-54" id="24056535.s2.e0" ontology_id="GO_0007399" text="nervous system development" type="GO"/>
+    <entity charOffset="58-81" id="24056535.s2.e1" ontology_id="GO_0007219" text="Notch signaling pathway" type="GO"/>
+    <entity charOffset="161-172" id="24056535.s2.e2" ontology_id="HP_0002282" text="heterotopia" type="HP"/>
+    <pair e1="24056535.s2.e0" e2="24056535.s2.e2" id="24056535.s2.p0" relation="true"/>
+    <pair e1="24056535.s2.e1" e2="24056535.s2.e2" id="24056535.s2.p1" relation="true"/>
+  </sentence>
+  <sentence id="24056535.s3" text="Our data suggest that, of the genes within this minimal critical region, biological_process plays a major role in the control of neuronal migration and its haploinsufficiency or mutation causes periventricular nodular heterotopia.">
+    <entity charOffset="73-91" id="24056535.s3.e0" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="218-229" id="24056535.s3.e1" ontology_id="HP_0002282" text="heterotopia" type="HP"/>
+    <pair e1="24056535.s3.e0" e2="24056535.s3.e1" id="24056535.s3.p0" relation="true"/>
+  </sentence>
+</document>

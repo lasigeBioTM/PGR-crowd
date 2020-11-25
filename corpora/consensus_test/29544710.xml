@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<document id="29544710">
+  <sentence id="29544710.s0" text="Treatment should be considered in infertile women with deeply infiltrating endometriosis when they Fc-gamma receptor signaling pathway involved in phagocytosis to conceive.">
+    <entity charOffset="75-88" id="29544710.s0.e0" ontology_id="HP_0030127" text="endometriosis" type="HP"/>
+    <entity charOffset="99-159" id="29544710.s0.e1" ontology_id="GO_0038096" text="Fc-gamma receptor signaling pathway involved in phagocytosis" type="GO"/>
+  </sentence>
+  <sentence id="29544710.s1" text="The purpose of these recommendations is to answer the following question: in case of deeply infiltrating endometriosis associated infertility, what is the chloride transport therapeutic strategy? First-line surgery and then in vitro fertilization (IVF) in case of persistent infertility or first-line IVF, without surgery? After exhaustive literature analysis, we suggest the following recommendations: studies focusing on spontaneous fertility of infertile patients with deeply infiltrating endometriosis found spontaneous pregnancy rates about 10%.">
+    <entity charOffset="105-118" id="29544710.s1.e0" ontology_id="HP_0030127" text="endometriosis" type="HP"/>
+    <entity charOffset="155-173" id="29544710.s1.e1" ontology_id="GO_0006821" text="chloride transport" type="GO"/>
+  </sentence>
+</document>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="27966653">
+  <sentence id="27966653.s0" text="In A549 lung cancer cells, which endogenously express CXCR1, the depletion of biological_process and detection of light stimulus involved in visual perception significantly reduced growth and invasion by downregulating response to molecule of bacterial origin-stimulated angiogenesis phosphorylation, actin polymerization and the expression of genes related to metastasis.">
+    <entity charOffset="13-19" id="27966653.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="78-96" id="27966653.s0.e1" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="101-158" id="27966653.s0.e2" ontology_id="GO_0050908" text="detection of light stimulus involved in visual perception" type="GO"/>
+    <entity charOffset="219-259" id="27966653.s0.e3" ontology_id="GO_0002237" text="response to molecule of bacterial origin" type="GO"/>
+    <entity charOffset="271-283" id="27966653.s0.e4" ontology_id="GO_0001525" text="angiogenesis" type="GO"/>
+    <pair e1="27966653.s0.e0" e2="27966653.s0.e1" id="27966653.s0.p0" relation="true"/>
+    <pair e1="27966653.s0.e0" e2="27966653.s0.e2" id="27966653.s0.p1" relation="true"/>
+    <pair e1="27966653.s0.e0" e2="27966653.s0.e3" id="27966653.s0.p2" relation="true"/>
+    <pair e1="27966653.s0.e0" e2="27966653.s0.e4" id="27966653.s0.p3" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<document id="24357125">
+  <sentence id="24357125.s0" text="Likely haploinsufficiency of one or several of the 19 genes in the common deleted interval (actin filament organization, post-translational protein modification, double-strand break repair via homologous recombination, protein O-linked glycosylation via serine, ERH, zinc ion transport, biological_process, biological_process, cellular response to DNA damage stimulus, LOC100289511, mRNA splicing, via spliceosome, bile acid and bile salt transport, eye development, SLC8A3, single fertilizationP1, mitochondrial respiratory chain complex IV assembly, negative regulation of ERK1 and ERK2 cascade, SYNJ2BP-COX16, ADAM21) was responsible for these manifestations, but apart from SMOC1, mutations in which cause autosomal recessive Waardenburg anophthalmia syndrome, and ACTN1, mutations in which are associated with congenital macrothrombocytopenia, no disease associations have so far been reported for the other genes.">
+    <entity charOffset="92-119" id="24357125.s0.e0" ontology_id="GO_0007015" text="actin filament organization" type="GO"/>
+    <entity charOffset="121-160" id="24357125.s0.e1" ontology_id="GO_0043687" text="post-translational protein modification" type="GO"/>
+    <entity charOffset="162-217" id="24357125.s0.e2" ontology_id="GO_0000724" text="double-strand break repair via homologous recombination" type="GO"/>
+    <entity charOffset="219-260" id="24357125.s0.e3" ontology_id="GO_0018242" text="protein O-linked glycosylation via serine" type="GO"/>
+    <entity charOffset="267-285" id="24357125.s0.e4" ontology_id="GO_0006829" text="zinc ion transport" type="GO"/>
+    <entity charOffset="287-305" id="24357125.s0.e5" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="307-325" id="24357125.s0.e6" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="327-367" id="24357125.s0.e7" ontology_id="GO_0006974" text="cellular response to DNA damage stimulus" type="GO"/>
+    <entity charOffset="383-413" id="24357125.s0.e8" ontology_id="GO_0000398" text="mRNA splicing, via spliceosome" type="GO"/>
+    <entity charOffset="415-448" id="24357125.s0.e9" ontology_id="GO_0015721" text="bile acid and bile salt transport" type="GO"/>
+    <entity charOffset="450-465" id="24357125.s0.e10" ontology_id="GO_0001654" text="eye development" type="GO"/>
+    <entity charOffset="475-495" id="24357125.s0.e11" ontology_id="GO_0007338" text="single fertilization" type="GO"/>
+    <entity charOffset="499-550" id="24357125.s0.e12" ontology_id="GO_0033617" text="mitochondrial respiratory chain complex IV assembly" type="GO"/>
+    <entity charOffset="552-596" id="24357125.s0.e13" ontology_id="GO_0070373" text="negative regulation of ERK1 and ERK2 cascade" type="GO"/>
+    <entity charOffset="710-729" id="24357125.s0.e14" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="826-847" id="24357125.s0.e15" ontology_id="HP_0040185" text="macrothrombocytopenia" type="HP"/>
+    <pair e1="24357125.s0.e0" e2="24357125.s0.e14" id="24357125.s0.p0" relation="false"/>
+    <pair e1="24357125.s0.e0" e2="24357125.s0.e15" id="24357125.s0.p1" relation="false"/>
+    <pair e1="24357125.s0.e1" e2="24357125.s0.e14" id="24357125.s0.p2" relation="false"/>
+    <pair e1="24357125.s0.e1" e2="24357125.s0.e15" id="24357125.s0.p3" relation="false"/>
+    <pair e1="24357125.s0.e2" e2="24357125.s0.e15" id="24357125.s0.p4" relation="false"/>
+    <pair e1="24357125.s0.e3" e2="24357125.s0.e14" id="24357125.s0.p5" relation="false"/>
+    <pair e1="24357125.s0.e3" e2="24357125.s0.e15" id="24357125.s0.p6" relation="false"/>
+    <pair e1="24357125.s0.e4" e2="24357125.s0.e14" id="24357125.s0.p7" relation="false"/>
+    <pair e1="24357125.s0.e5" e2="24357125.s0.e14" id="24357125.s0.p8" relation="false"/>
+    <pair e1="24357125.s0.e5" e2="24357125.s0.e15" id="24357125.s0.p9" relation="false"/>
+    <pair e1="24357125.s0.e6" e2="24357125.s0.e14" id="24357125.s0.p10" relation="false"/>
+    <pair e1="24357125.s0.e6" e2="24357125.s0.e15" id="24357125.s0.p11" relation="false"/>
+    <pair e1="24357125.s0.e7" e2="24357125.s0.e15" id="24357125.s0.p12" relation="false"/>
+    <pair e1="24357125.s0.e8" e2="24357125.s0.e14" id="24357125.s0.p13" relation="false"/>
+    <pair e1="24357125.s0.e9" e2="24357125.s0.e14" id="24357125.s0.p14" relation="false"/>
+    <pair e1="24357125.s0.e9" e2="24357125.s0.e15" id="24357125.s0.p15" relation="false"/>
+    <pair e1="24357125.s0.e10" e2="24357125.s0.e15" id="24357125.s0.p16" relation="false"/>
+    <pair e1="24357125.s0.e11" e2="24357125.s0.e14" id="24357125.s0.p17" relation="false"/>
+    <pair e1="24357125.s0.e12" e2="24357125.s0.e14" id="24357125.s0.p18" relation="false"/>
+    <pair e1="24357125.s0.e13" e2="24357125.s0.e14" id="24357125.s0.p19" relation="false"/>
+  </sentence>
+</document>

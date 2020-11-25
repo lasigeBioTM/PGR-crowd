@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<document id="23335591">
+  <sentence id="23335591.s0" text="Over the past decade, the genetic basis of several forms of autosomal recessive quaternary ammonium group transport cases has been solved with the identification of four causative genes (skeletal system development, regulation of transcription by RNA polymerase II, regulation of somitogenesis and mesoderm development).">
+    <entity charOffset="60-79" id="23335591.s0.e0" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="80-115" id="23335591.s0.e1" ontology_id="GO_0015697" text="quaternary ammonium group transport" type="GO"/>
+    <entity charOffset="187-214" id="23335591.s0.e2" ontology_id="GO_0001501" text="skeletal system development" type="GO"/>
+    <entity charOffset="216-264" id="23335591.s0.e3" ontology_id="GO_0006357" text="regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="266-293" id="23335591.s0.e4" ontology_id="GO_0014807" text="regulation of somitogenesis" type="GO"/>
+    <entity charOffset="298-318" id="23335591.s0.e5" ontology_id="GO_0007498" text="mesoderm development" type="GO"/>
+    <pair e1="23335591.s0.e0" e2="23335591.s0.e1" id="23335591.s0.p0" relation="true"/>
+    <pair e1="23335591.s0.e0" e2="23335591.s0.e2" id="23335591.s0.p1" relation="true"/>
+    <pair e1="23335591.s0.e0" e2="23335591.s0.e3" id="23335591.s0.p2" relation="true"/>
+    <pair e1="23335591.s0.e0" e2="23335591.s0.e4" id="23335591.s0.p3" relation="true"/>
+    <pair e1="23335591.s0.e0" e2="23335591.s0.e5" id="23335591.s0.p4" relation="true"/>
+  </sentence>
+</document>

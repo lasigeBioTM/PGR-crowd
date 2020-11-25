@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<document id="26202106">
+  <sentence id="26202106.s0" text="Progressive retinal atrophy (signal transduction) is the collective name of a class of hereditary retinal dystrophies in the dog and is often described as the equivalent of retinitis pigmentosa in humans.">
+    <entity charOffset="12-27" id="26202106.s0.e0" ontology_id="HP_0001105" text="retinal atrophy" type="HP"/>
+    <entity charOffset="29-48" id="26202106.s0.e1" ontology_id="GO_0007165" text="signal transduction" type="GO"/>
+    <entity charOffset="98-117" id="26202106.s0.e2" ontology_id="HP_0000556" text="retinal dystrophies" type="HP"/>
+    <pair e1="26202106.s0.e0" e2="26202106.s0.e1" id="26202106.s0.p0" relation="false"/>
+    <pair e1="26202106.s0.e1" e2="26202106.s0.e2" id="26202106.s0.p1" relation="false"/>
+  </sentence>
+  <sentence id="26202106.s1" text="signal transduction is characterized by visual impairment due to degeneration of the photoreceptors in the retina, usually leading to blindness.">
+    <entity charOffset="0-19" id="26202106.s1.e0" ontology_id="GO_0007165" text="signal transduction" type="GO"/>
+    <entity charOffset="40-57" id="26202106.s1.e1" ontology_id="HP_0000505" text="visual impairment" type="HP"/>
+    <entity charOffset="134-143" id="26202106.s1.e2" ontology_id="HP_0000618" text="blindness" type="HP"/>
+    <pair e1="26202106.s1.e0" e2="26202106.s1.e1" id="26202106.s1.p0" relation="false"/>
+    <pair e1="26202106.s1.e0" e2="26202106.s1.e2" id="26202106.s1.p1" relation="false"/>
+  </sentence>
+  <sentence id="26202106.s2" text="signal transduction has been reported in dogs from more than 100 breeds and can be genetically heterogeneous both between and within breeds.">
+    <entity charOffset="0-19" id="26202106.s2.e0" ontology_id="GO_0007165" text="signal transduction" type="GO"/>
+    <entity charOffset="95-108" id="26202106.s2.e1" ontology_id="HP_0001425" text="heterogeneous" type="HP"/>
+    <pair e1="26202106.s2.e0" e2="26202106.s2.e1" id="26202106.s2.p0" relation="false"/>
+  </sentence>
+  <sentence id="26202106.s3" text="The study indicated genetic heterogeneity as the mutation was present in all signal transduction-affected individuals in one large family of Shelties, whereas some other cases in the studied Sheltie population were not associated with this rhodopsin mediated signaling pathway mutation.">
+    <entity charOffset="28-41" id="26202106.s3.e0" ontology_id="HP_0001425" text="heterogeneity" type="HP"/>
+    <entity charOffset="77-96" id="26202106.s3.e1" ontology_id="GO_0007165" text="signal transduction" type="GO"/>
+    <entity charOffset="240-276" id="26202106.s3.e2" ontology_id="GO_0016056" text="rhodopsin mediated signaling pathway" type="GO"/>
+    <pair e1="26202106.s3.e0" e2="26202106.s3.e1" id="26202106.s3.p0" relation="false"/>
+    <pair e1="26202106.s3.e0" e2="26202106.s3.e2" id="26202106.s3.p1" relation="false"/>
+  </sentence>
+</document>

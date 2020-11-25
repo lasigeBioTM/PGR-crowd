@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="27103084">
+  <sentence id="27103084.s0" text="Herein, we report a third patient (not related to the previously reported family) with bilateral colobomatous microphthalmia and developmental delay in whom genetic studies identified a homozygous camera-type eye morphogenesis splicing mutation c.2968-2A&amp;gt;T (p.Val990Cysfs*13).">
+    <entity charOffset="110-124" id="27103084.s0.e0" ontology_id="HP_0000568" text="microphthalmia" type="HP"/>
+    <entity charOffset="129-148" id="27103084.s0.e1" ontology_id="HP_0001263" text="developmental delay" type="HP"/>
+    <entity charOffset="197-226" id="27103084.s0.e2" ontology_id="GO_0048593" text="camera-type eye morphogenesis" type="GO"/>
+    <pair e1="27103084.s0.e0" e2="27103084.s0.e2" id="27103084.s0.p0" relation="true"/>
+    <pair e1="27103084.s0.e1" e2="27103084.s0.e2" id="27103084.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="27103084.s1" text="In a recent study combining autozygome and exome analysis, a homozygous loss of function mutation in camera-type eye morphogenesis (previously named ODZ3) was reported in two siblings with isolated bilateral colobomatous microphthalmia from a consanguineous Saudi family.">
+    <entity charOffset="101-130" id="27103084.s1.e0" ontology_id="GO_0048593" text="camera-type eye morphogenesis" type="GO"/>
+    <entity charOffset="221-235" id="27103084.s1.e1" ontology_id="HP_0000568" text="microphthalmia" type="HP"/>
+    <pair e1="27103084.s1.e0" e2="27103084.s1.e1" id="27103084.s1.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29950560">
+  <sentence id="29950560.s0" text="Here we show, using whole-exome and cancer gene panel sequencing of 79 aGCTs from two independent cohorts, that truncating mutation of the histone lysine methyltransferase gene KMT2D (also known as histone H3-K4 methylation) is a recurrent somatic event in aGCT.">
+    <entity charOffset="36-42" id="29950560.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="198-223" id="29950560.s0.e1" ontology_id="GO_0051568" text="histone H3-K4 methylation" type="GO"/>
+    <pair e1="29950560.s0.e0" e2="29950560.s0.e1" id="29950560.s0.p0" relation="false"/>
+  </sentence>
+</document>

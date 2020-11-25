@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="30025107">
+  <sentence id="30025107.s0" text="The hallmarks of this disease are macular drusen, carbohydrate metabolic process alterations, and geographic atrophy (GA).">
+    <entity charOffset="50-80" id="30025107.s0.e0" ontology_id="GO_0005975" text="carbohydrate metabolic process" type="GO"/>
+    <entity charOffset="98-116" id="30025107.s0.e1" ontology_id="HP_0031609" text="geographic atrophy" type="HP"/>
+  </sentence>
+</document>

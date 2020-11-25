@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="25608039">
+  <sentence id="25608039.s0" text="These findings underscore the specificity of protective effects observed here in models of Parkinson's disease, and previously in Huntington's disease, and support the development of negative regulation of transcription by RNA polymerase II inhibitors as potential therapeutics for the two neurodegenerative diseases.">
+    <entity charOffset="183-240" id="25608039.s0.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="290-316" id="25608039.s0.e1" ontology_id="HP_0002180" text="neurodegenerative diseases" type="HP"/>
+    <pair e1="25608039.s0.e0" e2="25608039.s0.e1" id="25608039.s0.p0" relation="false"/>
+  </sentence>
+</document>

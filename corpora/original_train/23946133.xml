@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="23946133">
+  <sentence id="23946133.s0" text="This study was undertaken to investigate the prevalence of sequence variants in photoreceptor cell maintenance in patients with Leber congenital amaurosis (clathrin coat assembly), early-onset retinal dystrophy (EORD), and autosomal recessive retinitis pigmentosa (arRP); to delineate the ocular phenotypes; and to provide an overview of all published LCA5 variants in an online database.">
+    <entity charOffset="80-110" id="23946133.s0.e0" ontology_id="GO_0045494" text="photoreceptor cell maintenance" type="GO"/>
+    <entity charOffset="156-178" id="23946133.s0.e1" ontology_id="GO_0048268" text="clathrin coat assembly" type="GO"/>
+    <entity charOffset="193-210" id="23946133.s0.e2" ontology_id="HP_0000556" text="retinal dystrophy" type="HP"/>
+    <entity charOffset="223-242" id="23946133.s0.e3" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <pair e1="23946133.s0.e0" e2="23946133.s0.e2" id="23946133.s0.p0" relation="false"/>
+    <pair e1="23946133.s0.e0" e2="23946133.s0.e3" id="23946133.s0.p1" relation="true"/>
+    <pair e1="23946133.s0.e1" e2="23946133.s0.e2" id="23946133.s0.p2" relation="false"/>
+  </sentence>
+</document>

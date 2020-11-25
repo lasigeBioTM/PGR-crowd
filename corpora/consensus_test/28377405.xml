@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="28377405">
+  <sentence id="28377405.s0" text="In immunodeficient epidermis development, proliferation was inhibited in breast cancer cells expressing forms of hERG1 with impaired K&lt;sup&gt;+&lt;/sup&gt; flow, whereas metastasis of breast cancer cells was reduced when the hERG1/β&lt;sub&gt;1&lt;/sub&gt; integrin interaction was disrupted.">
+    <entity charOffset="19-40" id="28377405.s0.e0" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="80-86" id="28377405.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+  </sentence>
+</document>

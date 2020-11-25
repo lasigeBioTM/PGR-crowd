@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="28981088">
+  <sentence id="28981088.s0" text="Mutations in heat shock transcription factor 4 (regulation of transcription, DNA-templated) have been associated with cataract; however, the mechanisms regarding how mutations in HSF4 cause cataract are still obscure.">
+    <entity charOffset="48-90" id="28981088.s0.e0" ontology_id="GO_0006355" text="regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="118-126" id="28981088.s0.e1" ontology_id="HP_0000518" text="cataract" type="HP"/>
+    <pair e1="28981088.s0.e0" e2="28981088.s0.e1" id="28981088.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28981088.s1" text="The mutant zebrasuperoxide metabolic process developed an early-onset cataract with multiple developmental defects in lens.">
+    <entity charOffset="16-44" id="28981088.s1.e0" ontology_id="GO_0006801" text="superoxide metabolic process" type="GO"/>
+    <entity charOffset="70-78" id="28981088.s1.e1" ontology_id="HP_0000518" text="cataract" type="HP"/>
+  </sentence>
+</document>

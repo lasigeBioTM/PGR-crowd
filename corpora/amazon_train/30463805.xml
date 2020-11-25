@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<document id="30463805">
+  <sentence id="30463805.s0" text="Several publications had illustrated the relationship of between response to bacterium polymorphism and urinary cancer, but the results were not consistent.">
+    <entity charOffset="65-86" id="30463805.s0.e0" ontology_id="GO_0009617" text="response to bacterium" type="GO"/>
+    <entity charOffset="112-118" id="30463805.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30463805.s0.e0" e2="30463805.s0.e1" id="30463805.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="30463805.s1" text="Odds ratios (ORs) and 95% confidence intervals (CIs) were conducted to evaluate the overall strength of the associations in five genetic models, as well as in subgroup analyses, stratified by ethnicity, cancer muscle organ development or source of control.">
+    <entity charOffset="203-209" id="30463805.s1.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="210-234" id="30463805.s1.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <pair e1="30463805.s1.e0" e2="30463805.s1.e1" id="30463805.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="30463805.s2" text="In the stratified analyses by cancer types, the risk of mitochondrial transport is downgrade by rs7804372 in all five genetic models.">
+    <entity charOffset="30-36" id="30463805.s2.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="56-79" id="30463805.s2.e1" ontology_id="GO_0006839" text="mitochondrial transport" type="GO"/>
+  </sentence>
+  <sentence id="30463805.s3" text="Conclusion rs1049334 polymorphismof response to bacterium upgrade the risk of urinary cancer, while rs1049337 and rs7804372 polymorphisms may act as a protector of urinary cancer.">
+    <entity charOffset="36-57" id="30463805.s3.e0" ontology_id="GO_0009617" text="response to bacterium" type="GO"/>
+    <entity charOffset="86-92" id="30463805.s3.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30463805.s3.e0" e2="30463805.s3.e1" id="30463805.s3.p0" relation="true"/>
+  </sentence>
+</document>

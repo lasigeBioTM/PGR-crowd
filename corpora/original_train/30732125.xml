@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30732125">
+  <sentence id="30732125.s0" text="Ltd), a vascular positive regulation of protein phosphorylationothelial growth factor receptor 2 (VEGFR-2) tyrosine kinase inhibitor, has been proven to be safe and to significantly prolong survival in advanced chemotherapy-refractory gastric cancer.">
+    <entity charOffset="17-63" id="30732125.s0.e0" ontology_id="GO_0001934" text="positive regulation of protein phosphorylation" type="GO"/>
+    <entity charOffset="243-249" id="30732125.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30732125.s0.e0" e2="30732125.s0.e1" id="30732125.s0.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="29107665">
+  <sentence id="29107665.s0" text="Oral squamous cell carcinoma studies have correlated regulation of cell shape expression with metastatic disease and poor prognosis.">
+    <entity charOffset="5-28" id="29107665.s0.e0" ontology_id="HP_0002860" text="squamous cell carcinoma" type="HP"/>
+    <entity charOffset="53-77" id="29107665.s0.e1" ontology_id="GO_0008360" text="regulation of cell shape" type="GO"/>
+    <pair e1="29107665.s0.e0" e2="29107665.s0.e1" id="29107665.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="29107665.s1" text="The association between low regulation of cell shape expression and p16&lt;sup&gt;+&lt;/sup&gt; HNSCCs suggests that alternative signaling pathways may be used for their tumorigenesis">
+    <entity charOffset="28-52" id="29107665.s1.e0" ontology_id="GO_0008360" text="regulation of cell shape" type="GO"/>
+    <entity charOffset="158-163" id="29107665.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29107665.s1.e0" e2="29107665.s1.e1" id="29107665.s1.p0" relation="true"/>
+  </sentence>
+</document>

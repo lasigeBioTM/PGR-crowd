@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<document id="25927284">
+  <sentence id="25927284.s0" text="We performed a quantitative proteomics study of EOC patient tumor tissues and identified changes in expression of several key regulators of actin cytoskeleton/cell adhesion and cell migration (CAPN1, 14-3-3, extracellular matrix disassembly, PFN1, mitotic cytokinesis, CFN1) associated with loss of double-strand break repair via homologous recombination function.">
+    <entity charOffset="60-65" id="25927284.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="208-240" id="25927284.s0.e1" ontology_id="GO_0022617" text="extracellular matrix disassembly" type="GO"/>
+    <entity charOffset="248-267" id="25927284.s0.e2" ontology_id="GO_0000281" text="mitotic cytokinesis" type="GO"/>
+    <entity charOffset="299-354" id="25927284.s0.e3" ontology_id="GO_0000724" text="double-strand break repair via homologous recombination" type="GO"/>
+    <pair e1="25927284.s0.e0" e2="25927284.s0.e3" id="25927284.s0.p0" relation="true"/>
+    <pair e1="25927284.s0.e0" e2="25927284.s0.e1" id="25927284.s0.p1" relation="false"/>
+    <pair e1="25927284.s0.e0" e2="25927284.s0.e2" id="25927284.s0.p2" relation="true"/>
+  </sentence>
+  <sentence id="25927284.s1" text="By immunohistochemistry of ovarian tumors with double-strand break repair via homologous recombination(+/+) and BRCA1(null) status, we further verified our proteomic-based finding of elevated negative regulation of actin filament polymerization expression associated with BRCA1 deficiency.">
+    <entity charOffset="35-40" id="25927284.s1.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="47-102" id="25927284.s1.e1" ontology_id="GO_0000724" text="double-strand break repair via homologous recombination" type="GO"/>
+    <entity charOffset="192-244" id="25927284.s1.e2" ontology_id="GO_0030837" text="negative regulation of actin filament polymerization" type="GO"/>
+    <pair e1="25927284.s1.e0" e2="25927284.s1.e1" id="25927284.s1.p0" relation="true"/>
+    <pair e1="25927284.s1.e0" e2="25927284.s1.e2" id="25927284.s1.p1" relation="true"/>
+  </sentence>
+  <sentence id="25927284.s2" text="Finally, we established a causal link between negative regulation of actin filament polymerization and double-strand break repair via homologous recombination-induced changes in cell migration thus uncovering a novel mechanistic basis for BRCA1-dependent regulation of ovarian cancer cell migration.">
+    <entity charOffset="46-98" id="25927284.s2.e0" ontology_id="GO_0030837" text="negative regulation of actin filament polymerization" type="GO"/>
+    <entity charOffset="103-158" id="25927284.s2.e1" ontology_id="GO_0000724" text="double-strand break repair via homologous recombination" type="GO"/>
+    <entity charOffset="277-283" id="25927284.s2.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="25927284.s2.e0" e2="25927284.s2.e2" id="25927284.s2.p0" relation="true"/>
+    <pair e1="25927284.s2.e1" e2="25927284.s2.e2" id="25927284.s2.p1" relation="true"/>
+  </sentence>
+</document>

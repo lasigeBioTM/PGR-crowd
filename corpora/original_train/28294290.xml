@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="28294290">
+  <sentence id="28294290.s0" text="We analyzed commonly reported European and Asian obesity-related gene variants in a Mexican-Mestizo population through each single nucleotide polymorphism (SNP) and a genetic risk score (negative regulation of apoptotic process) based on 23 selected SNPs.">
+    <entity charOffset="49-56" id="28294290.s0.e0" ontology_id="HP_0001513" text="obesity" type="HP"/>
+    <entity charOffset="187-227" id="28294290.s0.e1" ontology_id="GO_0043066" text="negative regulation of apoptotic process" type="GO"/>
+    <pair e1="28294290.s0.e0" e2="28294290.s0.e1" id="28294290.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="28294290.s1" text="ME attenuated the influence of positive regulation of macrophage derived foam cell differentiation rs512535 and TNFA rs361525 on obesity risk in FMP.">
+    <entity charOffset="31-98" id="28294290.s1.e0" ontology_id="GO_0010744" text="positive regulation of macrophage derived foam cell differentiation" type="GO"/>
+    <entity charOffset="129-136" id="28294290.s1.e1" ontology_id="HP_0001513" text="obesity" type="HP"/>
+    <pair e1="28294290.s1.e0" e2="28294290.s1.e1" id="28294290.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="28294290.s2" text="We report associations for 6 out of 23 SNPs and for the negative regulation of apoptotic process, which confer obesity risk, a novel finding for Mexican-Mestizo physically active population.">
+    <entity charOffset="56-96" id="28294290.s2.e0" ontology_id="GO_0043066" text="negative regulation of apoptotic process" type="GO"/>
+    <entity charOffset="111-118" id="28294290.s2.e1" ontology_id="HP_0001513" text="obesity" type="HP"/>
+    <pair e1="28294290.s2.e0" e2="28294290.s2.e1" id="28294290.s2.p0" relation="false"/>
+  </sentence>
+</document>

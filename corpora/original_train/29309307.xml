@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="29309307">
+  <sentence id="29309307.s0" text="postsynaptic actin cytoskeleton organization-osteoblast differentiation fusions have been reported as the pathognomonic genetic abnormality defining an unusual subset of actin-positive, perivascular myoid tumors, known as &amp;quot;pericytoma with the t(7;12) translocation.&amp;quot; In addition, GLI1 oncogenic activation through a related MALAT1-GLI1 gene fusion has been recently reported in 2 unrelated gastric tumors, namely plexiform fibromyxoma and gastroblastoma.">
+    <entity charOffset="0-44" id="29309307.s0.e0" ontology_id="GO_0098974" text="postsynaptic actin cytoskeleton organization" type="GO"/>
+    <entity charOffset="45-71" id="29309307.s0.e1" ontology_id="GO_0001649" text="osteoblast differentiation" type="GO"/>
+    <entity charOffset="205-211" id="29309307.s0.e2" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <pair e1="29309307.s0.e0" e2="29309307.s0.e2" id="29309307.s0.p0" relation="true"/>
+    <pair e1="29309307.s0.e1" e2="29309307.s0.e2" id="29309307.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="29309307.s1" text="Our findings open new opportunities for targeted therapy, as tumors with GLI1 oncogenic activation, and subsequent positive regulation of cholesterol efflux overexpression, might be sensitive to sonic hedgehog pathway inhibitors">
+    <entity charOffset="61-67" id="29309307.s1.e0" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <entity charOffset="115-156" id="29309307.s1.e1" ontology_id="GO_0010875" text="positive regulation of cholesterol efflux" type="GO"/>
+    <pair e1="29309307.s1.e0" e2="29309307.s1.e1" id="29309307.s1.p0" relation="true"/>
+  </sentence>
+</document>

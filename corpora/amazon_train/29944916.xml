@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="29944916">
+  <sentence id="29944916.s0" text="Both patients presented the negative regulation of lipopolysaccharide-mediated signaling pathway features of the disease including microcephaly, congenital cataract and postnatal growth failure.">
+    <entity charOffset="28-96" id="29944916.s0.e0" ontology_id="GO_0031665" text="negative regulation of lipopolysaccharide-mediated signaling pathway" type="GO"/>
+    <entity charOffset="131-143" id="29944916.s0.e1" ontology_id="HP_0000252" text="microcephaly" type="HP"/>
+    <entity charOffset="156-164" id="29944916.s0.e2" ontology_id="HP_0000518" text="cataract" type="HP"/>
+    <entity charOffset="169-193" id="29944916.s0.e3" ontology_id="HP_0008897" text="postnatal growth failure" type="HP"/>
+    <pair e1="29944916.s0.e0" e2="29944916.s0.e1" id="29944916.s0.p0" relation="true"/>
+  </sentence>
+</document>

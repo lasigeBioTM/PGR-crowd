@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="29859466">
+  <sentence id="29859466.s0" text="Most of the available anticancer drugs are designed to coenzyme A biosynthetic process on specific targets by altering the activity of involved transporters and genes.">
+    <entity charOffset="26-32" id="29859466.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="55-86" id="29859466.s0.e1" ontology_id="GO_0015937" text="coenzyme A biosynthetic process" type="GO"/>
+    <pair e1="29859466.s0.e0" e2="29859466.s0.e1" id="29859466.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="29859466.s1" text="We used Cytoscape network analysis and Search tool for retrieval of intercoenzyme A biosynthetic processing genes/ proteins (STRING) to study the possible interactions to show the links between the antioxidants, antibiotics, anti-inflammatory and antimitotic agents and their targets for their possible use in cancer.">
+    <entity charOffset="73-104" id="29859466.s1.e0" ontology_id="GO_0015937" text="coenzyme A biosynthetic process" type="GO"/>
+    <entity charOffset="310-316" id="29859466.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29859466.s1.e0" e2="29859466.s1.e1" id="29859466.s1.p0" relation="false"/>
+  </sentence>
+</document>

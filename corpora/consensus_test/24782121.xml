@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="24782121">
+  <sentence id="24782121.s0" text="However, there is considerable clinical heterogeneity among patients, and the molecular basis for the evolution of immunodeficiency into microtubule-based process/AML remains unknown.">
+    <entity charOffset="40-53" id="24782121.s0.e0" ontology_id="HP_0001425" text="heterogeneity" type="HP"/>
+    <entity charOffset="137-162" id="24782121.s0.e1" ontology_id="GO_0007017" text="microtubule-based process" type="GO"/>
+    <pair e1="24782121.s0.e0" e2="24782121.s0.e1" id="24782121.s0.p0" relation="false"/>
+  </sentence>
+</document>

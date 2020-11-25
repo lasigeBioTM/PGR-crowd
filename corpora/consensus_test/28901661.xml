@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28901661">
+  <sentence id="28901661.s0" text="Mutations in the D40/KNL1/CASC5 gene, which was initially characterized as a gene involved in chromosomal translocation in leukemia and as a member of the cancer/testis gene family, was later found to encode a kinetochore protein essential for mitotic cell division and to cause centrosome duplication.">
+    <entity charOffset="155-161" id="28901661.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="279-301" id="28901661.s0.e1" ontology_id="GO_0051298" text="centrosome duplication" type="GO"/>
+    <pair e1="28901661.s0.e0" e2="28901661.s0.e1" id="28901661.s0.p0" relation="true"/>
+  </sentence>
+</document>

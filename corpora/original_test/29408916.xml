@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29408916">
+  <sentence id="29408916.s0" text="Constitutive activation of interferon signaling pathways has been reported in colorectal cancer (CRC), leading to a strong CD8+ T cell response through stimulation of negative regulation of NF-kappaB transcription factor activity expression.">
+    <entity charOffset="89-95" id="29408916.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="167-229" id="29408916.s0.e1" ontology_id="GO_0032088" text="negative regulation of NF-kappaB transcription factor activity" type="GO"/>
+    <pair e1="29408916.s0.e0" e2="29408916.s0.e1" id="29408916.s0.p0" relation="true"/>
+  </sentence>
+</document>

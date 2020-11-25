@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="29257344">
+  <sentence id="29257344.s0" text="The expression of uncarboxylated cartilage condensation (ucMGP), carboxylated MGP (cMGP), matrix metalloproteinase (MMP)‑13, collagen muscle organ development X, collagen type II, tumor necrosis factor (negative regulation of transcription by RNA polymerase II)‑α and interleukin (IL)‑1β were detected by ELISA, immunohistochemistry, reverse transcription‑quantitative polymerase chain reaction and western blotting.">
+    <entity charOffset="33-55" id="29257344.s0.e0" ontology_id="GO_0001502" text="cartilage condensation" type="GO"/>
+    <entity charOffset="134-158" id="29257344.s0.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="180-185" id="29257344.s0.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="203-260" id="29257344.s0.e3" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="29257344.s0.e0" e2="29257344.s0.e2" id="29257344.s0.p0" relation="false"/>
+    <pair e1="29257344.s0.e1" e2="29257344.s0.e2" id="29257344.s0.p1" relation="false"/>
+    <pair e1="29257344.s0.e2" e2="29257344.s0.e3" id="29257344.s0.p2" relation="false"/>
+  </sentence>
+</document>

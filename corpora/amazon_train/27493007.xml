@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="27493007">
+  <sentence id="27493007.s0" text="The genetic study by panels of known genes associated with tubulointerstitial disease allowed us to discover autosomal dominant distal renal tubular acidosis associated with a de novo mutation in exon 14 of the anion transport gene, which would have been impossible to diagnose clinically due to the advanced nature of the kidney disease when it was discovered">
+    <entity charOffset="128-134" id="27493007.s0.e0" ontology_id="HP_0012839" text="distal" type="HP"/>
+    <entity charOffset="135-157" id="27493007.s0.e1" ontology_id="HP_0001947" text="renal tubular acidosis" type="HP"/>
+    <entity charOffset="211-226" id="27493007.s0.e2" ontology_id="GO_0006820" text="anion transport" type="GO"/>
+    <pair e1="27493007.s0.e0" e2="27493007.s0.e2" id="27493007.s0.p0" relation="true"/>
+    <pair e1="27493007.s0.e1" e2="27493007.s0.e2" id="27493007.s0.p1" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="29526753">
+  <sentence id="29526753.s0" text="But the role of definitive hemopoiesis in breast cancer remains unclear.">
+    <entity charOffset="16-38" id="29526753.s0.e0" ontology_id="GO_0060216" text="definitive hemopoiesis" type="GO"/>
+    <entity charOffset="49-55" id="29526753.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29526753.s0.e0" e2="29526753.s0.e1" id="29526753.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29526753.s1" text="Functionally, definitive hemopoiesis overexpression accelerated breast cancer cell proliferation and migration, while an opposite effect was observed when MFAP5 was knocked down.">
+    <entity charOffset="14-36" id="29526753.s1.e0" ontology_id="GO_0060216" text="definitive hemopoiesis" type="GO"/>
+    <entity charOffset="71-77" id="29526753.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29526753.s1.e0" e2="29526753.s1.e1" id="29526753.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="29526753.s2" text="These findings may provide a better understanding about the mechanism of breast cancer and suggest that definitive hemopoiesis may be a potential prognostic biomarker and therapeutic target for breast cancer, especially for bone metastasis of breast cancer">
+    <entity charOffset="80-86" id="29526753.s2.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="104-126" id="29526753.s2.e1" ontology_id="GO_0060216" text="definitive hemopoiesis" type="GO"/>
+    <pair e1="29526753.s2.e0" e2="29526753.s2.e1" id="29526753.s2.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30057031">
+  <sentence id="30057031.s0" text="Five individuals who carry IRF2BPL nonsense variants resulting in a premature lysosome localization codon display severe neurodevelopmental regression, hypotonia, progressive ataxia, seizures, and a lack of coordination.">
+    <entity charOffset="78-99" id="30057031.s0.e0" ontology_id="GO_0032418" text="lysosome localization" type="GO"/>
+    <entity charOffset="121-150" id="30057031.s0.e1" ontology_id="HP_0002376" text="neurodevelopmental regression" type="HP"/>
+    <entity charOffset="175-181" id="30057031.s0.e2" ontology_id="HP_0001251" text="ataxia" type="HP"/>
+  </sentence>
+</document>

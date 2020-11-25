@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29893028">
+  <sentence id="29893028.s0" text="Concerning angiogenesis G2548A polymorphism, our results showed that the OR of obesity associated with 2548 AA/GG was 1.87[1.106-2.78] P = .028 vs 1.41[1.035-1.85] P = .045 for 223AA/GG polymorphism.">
+    <entity charOffset="11-23" id="29893028.s0.e0" ontology_id="GO_0001525" text="angiogenesis" type="GO"/>
+    <entity charOffset="79-86" id="29893028.s0.e1" ontology_id="HP_0001513" text="obesity" type="HP"/>
+    <pair e1="29893028.s0.e0" e2="29893028.s0.e1" id="29893028.s0.p0" relation="true"/>
+  </sentence>
+</document>

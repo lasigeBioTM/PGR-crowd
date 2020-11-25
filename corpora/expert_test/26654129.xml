@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="26654129">
+  <sentence id="26654129.s0" text="The Nodal co-receptor activation of MAPK activity is expressed transiently during normal germ cell development and is ectopically expressed in non-seminomas that arise from germ cell neoplasia in situ, suggesting that its aberrant expression may underlie germ cell dysregulation and hence germ cell cancer.">
+    <entity charOffset="22-49" id="26654129.s0.e0" ontology_id="GO_0000187" text="activation of MAPK activity" type="GO"/>
+    <entity charOffset="183-192" id="26654129.s0.e1" ontology_id="HP_0002664" text="neoplasia" type="HP"/>
+    <pair e1="26654129.s0.e0" e2="26654129.s0.e1" id="26654129.s0.p0" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<document id="23110775">
+  <sentence id="23110775.s0" text="This autosomal recessive disease is caused by mutations in the gene encoding barttin, ion transmembrane transport, an essential subunit of the positive regulation of cell proliferation-K chloride channels expressed in renal and inner ear epithelia.">
+    <entity charOffset="5-24" id="23110775.s0.e0" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="86-113" id="23110775.s0.e1" ontology_id="GO_0034220" text="ion transmembrane transport" type="GO"/>
+    <entity charOffset="143-184" id="23110775.s0.e2" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <pair e1="23110775.s0.e0" e2="23110775.s0.e1" id="23110775.s0.p0" relation="true"/>
+  </sentence>
+</document>

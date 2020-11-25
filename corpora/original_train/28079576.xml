@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="28079576">
+  <sentence id="28079576.s0" text="The tumors were characterized by immunohistochemistry for pituitary hormones, cytokeratins, positive regulation of I-kappaB kinase/NF-kappaB signaling, and the neuronal markers mRNA processing, neurofilaments (NFP), and MAP2.">
+    <entity charOffset="4-10" id="28079576.s0.e0" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <entity charOffset="92-150" id="28079576.s0.e1" ontology_id="GO_0043123" text="positive regulation of I-kappaB kinase/NF-kappaB signaling" type="GO"/>
+    <entity charOffset="177-192" id="28079576.s0.e2" ontology_id="GO_0006397" text="mRNA processing" type="GO"/>
+    <pair e1="28079576.s0.e0" e2="28079576.s0.e1" id="28079576.s0.p0" relation="false"/>
+    <pair e1="28079576.s0.e0" e2="28079576.s0.e2" id="28079576.s0.p1" relation="false"/>
+  </sentence>
+  <sentence id="28079576.s1" text="Double-labeling immunohistochemistry for positive regulation of I-kappaB kinase/NF-kappaB signaling/GH, Pit-1/NFP, Pit-1/MAP2, and NeuN/GH was performed in 9/10 tumors.">
+    <entity charOffset="41-99" id="28079576.s1.e0" ontology_id="GO_0043123" text="positive regulation of I-kappaB kinase/NF-kappaB signaling" type="GO"/>
+    <entity charOffset="161-167" id="28079576.s1.e1" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <pair e1="28079576.s1.e0" e2="28079576.s1.e1" id="28079576.s1.p0" relation="false"/>
+  </sentence>
+</document>

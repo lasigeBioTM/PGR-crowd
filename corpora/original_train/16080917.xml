@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<document id="16080917">
+  <sentence id="16080917.s0" text="Corneal changes in aniridia-related keratopathy (positive regulation of cytokine-mediated signaling pathway) include peripheral pannus and epithelial abnormalities, which eventually result in corneal opacity and contribute to visual loss.">
+    <entity charOffset="49-107" id="16080917.s0.e0" ontology_id="GO_0001961" text="positive regulation of cytokine-mediated signaling pathway" type="GO"/>
+    <entity charOffset="192-207" id="16080917.s0.e1" ontology_id="HP_0007957" text="corneal opacity" type="HP"/>
+    <entity charOffset="226-237" id="16080917.s0.e2" ontology_id="HP_0000572" text="visual loss" type="HP"/>
+    <pair e1="16080917.s0.e0" e2="16080917.s0.e1" id="16080917.s0.p0" relation="false"/>
+    <pair e1="16080917.s0.e0" e2="16080917.s0.e2" id="16080917.s0.p1" relation="false"/>
+  </sentence>
+  <sentence id="16080917.s1" text="The corneal abnormalities of positive regulation of transcription, DNA-templated+/- epidermis development provide an excellent model for the corneal changes seen in positive regulation of transcription, DNA-templated+/- humans.">
+    <entity charOffset="4-25" id="16080917.s1.e0" ontology_id="HP_0000481" text="corneal abnormalities" type="HP"/>
+    <entity charOffset="29-80" id="16080917.s1.e1" ontology_id="GO_0045893" text="positive regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="84-105" id="16080917.s1.e2" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="165-216" id="16080917.s1.e3" ontology_id="GO_0045893" text="positive regulation of transcription, DNA-templated" type="GO"/>
+    <pair e1="16080917.s1.e0" e2="16080917.s1.e3" id="16080917.s1.p0" relation="true"/>
+    <pair e1="16080917.s1.e0" e2="16080917.s1.e1" id="16080917.s1.p1" relation="true"/>
+    <pair e1="16080917.s1.e0" e2="16080917.s1.e2" id="16080917.s1.p2" relation="false"/>
+  </sentence>
+</document>

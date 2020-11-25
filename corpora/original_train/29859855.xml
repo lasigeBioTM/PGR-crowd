@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<document id="29859855">
+  <sentence id="29859855.s0" text="A large, complex, and robust gene network containing well-known lung cancer-related genes, including positive regulation of protein phosphorylation and transcription, RNA-templated, was identified from combined gene lists for lung adenocarcinoma.">
+    <entity charOffset="69-75" id="29859855.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="101-147" id="29859855.s0.e1" ontology_id="GO_0001934" text="positive regulation of protein phosphorylation" type="GO"/>
+    <entity charOffset="152-180" id="29859855.s0.e2" ontology_id="GO_0001172" text="transcription, RNA-templated" type="GO"/>
+    <entity charOffset="226-245" id="29859855.s0.e3" ontology_id="HP_0030078" text="lung adenocarcinoma" type="HP"/>
+    <pair e1="29859855.s0.e0" e2="29859855.s0.e1" id="29859855.s0.p0" relation="true"/>
+    <pair e1="29859855.s0.e2" e2="29859855.s0.e3" id="29859855.s0.p1" relation="false"/>
+  </sentence>
+</document>

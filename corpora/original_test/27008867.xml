@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27008867">
+  <sentence id="27008867.s0" text="Bardet Biedl syndrome (visual perception) is a multisystem genetically heterogeneous ciliopathy that most commonly leads to obesity, photoreceptor degeneration, digit anomalies, genito-urinary abnormalities, as well as cognitive impairment with autism, among other features.">
+    <entity charOffset="23-40" id="27008867.s0.e0" ontology_id="GO_0007601" text="visual perception" type="GO"/>
+    <entity charOffset="245-251" id="27008867.s0.e1" ontology_id="HP_0000717" text="autism" type="HP"/>
+    <pair e1="27008867.s0.e0" e2="27008867.s0.e1" id="27008867.s0.p0" relation="true"/>
+  </sentence>
+</document>

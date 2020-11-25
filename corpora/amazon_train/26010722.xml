@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="26010722">
+  <sentence id="26010722.s0" text="The results indicated two mutated driver pathways are important for the pathogenesis of microtubule-based process: pathway in cancer and in regulation of actin cytoskeleton.">
+    <entity charOffset="88-113" id="26010722.s0.e0" ontology_id="GO_0007017" text="microtubule-based process" type="GO"/>
+    <entity charOffset="126-132" id="26010722.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="26010722.s0.e0" e2="26010722.s0.e1" id="26010722.s0.p0" relation="true"/>
+  </sentence>
+</document>

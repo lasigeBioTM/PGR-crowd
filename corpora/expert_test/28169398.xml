@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="28169398">
+  <sentence id="28169398.s0" text="The gonadoblastoma gene, testis-specific protein Y-encoded (sex differentiation), on the Y chromosome and its X-homologue, negative regulation of DNA replication, are cell cycle regulators and function as a proto-oncogene and a tumor suppressor respectively in human oncogenesis.">
+    <entity charOffset="4-18" id="28169398.s0.e0" ontology_id="HP_0000150" text="gonadoblastoma" type="HP"/>
+    <entity charOffset="60-79" id="28169398.s0.e1" ontology_id="GO_0007548" text="sex differentiation" type="GO"/>
+    <entity charOffset="123-161" id="28169398.s0.e2" ontology_id="GO_0008156" text="negative regulation of DNA replication" type="GO"/>
+    <entity charOffset="228-233" id="28169398.s0.e3" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28169398.s0.e0" e2="28169398.s0.e1" id="28169398.s0.p0" relation="true"/>
+    <pair e1="28169398.s0.e2" e2="28169398.s0.e3" id="28169398.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="28169398.s1" text="Hence, sex differentiation and negative regulation of DNA replication exert opposing effects on the transactivation functions of AR and AR-Vs important for various physiological and disease processes sensitive to male sex hormone actions, thereby not only affecting the pathogenesis of male-specific prostate cancer but also likely contributing to sex differences in the health and diseases of man">
+    <entity charOffset="7-26" id="28169398.s1.e0" ontology_id="GO_0007548" text="sex differentiation" type="GO"/>
+    <entity charOffset="31-69" id="28169398.s1.e1" ontology_id="GO_0008156" text="negative regulation of DNA replication" type="GO"/>
+    <entity charOffset="309-315" id="28169398.s1.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28169398.s1.e0" e2="28169398.s1.e2" id="28169398.s1.p0" relation="true"/>
+    <pair e1="28169398.s1.e1" e2="28169398.s1.e2" id="28169398.s1.p1" relation="true"/>
+  </sentence>
+</document>

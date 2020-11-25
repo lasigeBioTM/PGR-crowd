@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<document id="28104793">
+  <sentence id="28104793.s0" text="The nonsense mutation and loss of protein of GTP metabolic process has been associated with neural tube defect in epidermis development and aberrant expression in various diseases in human such as neural system, breast, visceral, and cutaneous tumor.">
+    <entity charOffset="45-66" id="28104793.s0.e0" ontology_id="GO_0046039" text="GTP metabolic process" type="GO"/>
+    <entity charOffset="92-110" id="28104793.s0.e1" ontology_id="HP_0045005" text="neural tube defect" type="HP"/>
+    <entity charOffset="114-135" id="28104793.s0.e2" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="244-249" id="28104793.s0.e3" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28104793.s0.e0" e2="28104793.s0.e1" id="28104793.s0.p0" relation="true"/>
+    <pair e1="28104793.s0.e0" e2="28104793.s0.e3" id="28104793.s0.p1" relation="true"/>
+    <pair e1="28104793.s0.e2" e2="28104793.s0.e3" id="28104793.s0.p2" relation="true"/>
+  </sentence>
+  <sentence id="28104793.s1" text="In this review, we give a brief review on the functions of GTP metabolic process, summarize the involvement of Rab23 in genetic research, membrane trafficking, and potential autophagy pathway, especially focus on tumor promotion, disease pathogenesis, and discuss the possible underlying mechanisms that are regulated by Rab23">
+    <entity charOffset="59-80" id="28104793.s1.e0" ontology_id="GO_0046039" text="GTP metabolic process" type="GO"/>
+    <entity charOffset="213-218" id="28104793.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28104793.s1.e0" e2="28104793.s1.e1" id="28104793.s1.p0" relation="true"/>
+  </sentence>
+</document>

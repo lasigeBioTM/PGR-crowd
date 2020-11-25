@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<document id="30306274">
+  <sentence id="30306274.s0" text="Single marker-based association tests for corneal astigmatism identified four genome-wide significant loci (P &amp;lt; 5 × 10&lt;sup&gt;-8&lt;/sup&gt;) near the genes ZC3H11B (1q41), LINC00340 (6p22.3), HERC2/OCA2 (15q13.1) and ubiquitin-dependent protein catabolic process/TSPAN10 (17q25.3).">
+    <entity charOffset="50-61" id="30306274.s0.e0" ontology_id="HP_0000483" text="astigmatism" type="HP"/>
+    <entity charOffset="212-257" id="30306274.s0.e1" ontology_id="GO_0006511" text="ubiquitin-dependent protein catabolic process" type="GO"/>
+    <pair e1="30306274.s0.e0" e2="30306274.s0.e1" id="30306274.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="30306274.s1" text="Three of these loci also demonstrated genome-wide significant association with refractive astigmatism: LINC00340, cellular response to DNA damage stimulus/OCA2 and ubiquitin-dependent protein catabolic process/TSPAN10.">
+    <entity charOffset="90-101" id="30306274.s1.e0" ontology_id="HP_0000483" text="astigmatism" type="HP"/>
+    <entity charOffset="114-154" id="30306274.s1.e1" ontology_id="GO_0006974" text="cellular response to DNA damage stimulus" type="GO"/>
+    <entity charOffset="164-209" id="30306274.s1.e2" ontology_id="GO_0006511" text="ubiquitin-dependent protein catabolic process" type="GO"/>
+    <pair e1="30306274.s1.e0" e2="30306274.s1.e1" id="30306274.s1.p0" relation="false"/>
+    <pair e1="30306274.s1.e0" e2="30306274.s1.e2" id="30306274.s1.p1" relation="false"/>
+  </sentence>
+  <sentence id="30306274.s2" text="These loci have previously demonstrated association with axial length (ZC3H11B), myopia (NPLOC4), spherical equivalent refractive error (LINC00340) and eye colour (cellular response to DNA damage stimulus).">
+    <entity charOffset="81-87" id="30306274.s2.e0" ontology_id="HP_0000545" text="myopia" type="HP"/>
+    <entity charOffset="164-204" id="30306274.s2.e1" ontology_id="GO_0006974" text="cellular response to DNA damage stimulus" type="GO"/>
+    <pair e1="30306274.s2.e0" e2="30306274.s2.e1" id="30306274.s2.p0" relation="true"/>
+  </sentence>
+</document>

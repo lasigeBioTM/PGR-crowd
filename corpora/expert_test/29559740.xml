@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29559740">
+  <sentence id="29559740.s0" text="After exclusive analysis of 10 common variations of three hearing loss-related genes, GJB2, mtDNA12srRNA and SLC26A4, a novel truncated variant of striated muscle contraction, c.87dupA (p.Gly30Argfs*12) (NCBI ClinVar Submission ID: SUB3136126), was identified by whole-exome sequencing.">
+    <entity charOffset="58-70" id="29559740.s0.e0" ontology_id="HP_0000365" text="hearing loss" type="HP"/>
+    <entity charOffset="147-174" id="29559740.s0.e1" ontology_id="GO_0006941" text="striated muscle contraction" type="GO"/>
+    <pair e1="29559740.s0.e0" e2="29559740.s0.e1" id="29559740.s0.p0" relation="false"/>
+  </sentence>
+</document>

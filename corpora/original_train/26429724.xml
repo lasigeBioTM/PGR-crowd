@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="26429724">
+  <sentence id="26429724.s0" text="These epidermis development develop prostate tumors similar to a subset of poor outcome, treatment-associated human PC tumors.">
+    <entity charOffset="6-27" id="26429724.s0.e0" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="45-51" id="26429724.s0.e1" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <pair e1="26429724.s0.e0" e2="26429724.s0.e1" id="26429724.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="26429724.s1" text="Correlation analysis using microarray data from (signal transduction × PWK/PhJ) F2 prostate tumors identified 35 metastasis-associated transcripts within the two loci.">
+    <entity charOffset="49-68" id="26429724.s1.e0" ontology_id="GO_0007165" text="signal transduction" type="GO"/>
+    <entity charOffset="92-98" id="26429724.s1.e1" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <pair e1="26429724.s1.e0" e2="26429724.s1.e1" id="26429724.s1.p0" relation="false"/>
+  </sentence>
+</document>

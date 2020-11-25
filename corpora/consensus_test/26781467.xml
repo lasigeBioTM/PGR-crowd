@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="26781467">
+  <sentence id="26781467.s0" text="Mechanistically, TUFM knockdown activated lipid biosynthetic process and phosphorylated GSK3β and increased the nuclear accumulation of β-catenin, leading to the induction of EMT and increased migration and metastasis of A549 lung cancer cells.">
+    <entity charOffset="42-68" id="26781467.s0.e0" ontology_id="GO_0008610" text="lipid biosynthetic process" type="GO"/>
+    <entity charOffset="231-237" id="26781467.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="26781467.s0.e0" e2="26781467.s0.e1" id="26781467.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="26781467.s1" text="Here, we show that translational elongation is downregulated in human cancer tissues.">
+    <entity charOffset="19-43" id="26781467.s1.e0" ontology_id="GO_0006414" text="translational elongation" type="GO"/>
+    <entity charOffset="70-76" id="26781467.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="26781467.s1.e0" e2="26781467.s1.e1" id="26781467.s1.p0" relation="true"/>
+  </sentence>
+</document>

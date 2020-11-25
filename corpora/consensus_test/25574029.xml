@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="25574029">
+  <sentence id="25574029.s0" text="activation of innate immune response(Gt-ex13) homozygotes are early embryo lethal, but Matr3(Gt-ex13) heterozygotes exhibit incompletely penetrant BAV, CoA and PDA phenotypes similar to those in the human proband, as well as ventricular septal defect (VSD) and double-outlet right ventricle (DORV).">
+    <entity charOffset="0-36" id="25574029.s0.e0" ontology_id="GO_0002218" text="activation of innate immune response" type="GO"/>
+    <entity charOffset="225-250" id="25574029.s0.e1" ontology_id="HP_0001629" text="ventricular septal defect" type="HP"/>
+    <pair e1="25574029.s0.e0" e2="25574029.s0.e1" id="25574029.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="25574029.s1" text="The 1p breakpoint disrupts the 5' UTR of biological_process, which encodes AT-hook DNA-binding motif containing-1 protein, and AHDC1-truncating mutations have recently been described in a syndrome that includes developmental delay, but not congenital heart disease [Xia, F., Bainbridge, M.N., Tan, T.Y., Wangler, M.F., Scheuerle, A.E., Zackai, E.H., Harr, M.H., Sutton, V.R., Nalam, R.L., Zhu, W. et al. (2014) De Novo truncating mutations in AHDC1 in individuals with syndromic expressive language delay, hypotonia, and sleep apnea.">
+    <entity charOffset="41-59" id="25574029.s1.e0" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="211-230" id="25574029.s1.e1" ontology_id="HP_0001263" text="developmental delay" type="HP"/>
+    <pair e1="25574029.s1.e0" e2="25574029.s1.e1" id="25574029.s1.p0" relation="true"/>
+  </sentence>
+</document>

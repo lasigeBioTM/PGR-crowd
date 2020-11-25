@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="20549361">
+  <sentence id="20549361.s0" text="Malonyl coenzyme A (CoA) decarboxylase (EC 4.1.1.9, acetyl-CoA biosynthetic process) deficiency, or malonic aciduria, is a rare inborn error of metabolism characterised by a variable phenotype of developmental delay, seizures, cardiomyopathy and acidosis.">
+    <entity charOffset="52-83" id="20549361.s0.e0" ontology_id="GO_0006085" text="acetyl-CoA biosynthetic process" type="GO"/>
+    <entity charOffset="217-225" id="20549361.s0.e1" ontology_id="HP_0001250" text="seizures" type="HP"/>
+    <entity charOffset="227-241" id="20549361.s0.e2" ontology_id="HP_0001638" text="cardiomyopathy" type="HP"/>
+    <pair e1="20549361.s0.e0" e2="20549361.s0.e1" id="20549361.s0.p0" relation="true"/>
+    <pair e1="20549361.s0.e0" e2="20549361.s0.e2" id="20549361.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="20549361.s1" text="This case of malonic aciduria with cardiomyopathy demonstrates improvement in cardiac function attributable to polysaccharide digestion-restricted/MCT-supplemented diet">
+    <entity charOffset="35-49" id="20549361.s1.e0" ontology_id="HP_0001638" text="cardiomyopathy" type="HP"/>
+    <entity charOffset="111-135" id="20549361.s1.e1" ontology_id="GO_0044245" text="polysaccharide digestion" type="GO"/>
+    <pair e1="20549361.s1.e0" e2="20549361.s1.e1" id="20549361.s1.p0" relation="false"/>
+  </sentence>
+</document>

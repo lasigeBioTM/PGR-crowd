@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="30481156">
+  <sentence id="30481156.s0" text="We present a family in which we found both germline and somatic mosaicism for negative regulation of transcription by RNA polymerase II.">
+    <entity charOffset="56-73" id="30481156.s0.e0" ontology_id="HP_0001442" text="somatic mosaicism" type="HP"/>
+    <entity charOffset="78-135" id="30481156.s0.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="30481156.s0.e0" e2="30481156.s0.e1" id="30481156.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="30481156.s1" text="This study illustrates that germline mosaicism is important to consider in apparently sporadic de novo negative regulation of transcription by RNA polymerase II mutations, because of its particular importance for genetic counseling, specifically when evaluating the risk for family members and when considering the possibility of somatic mosaicism in the parent with germline mosaicism">
+    <entity charOffset="86-94" id="30481156.s1.e0" ontology_id="HP_0003745" text="sporadic" type="HP"/>
+    <entity charOffset="103-160" id="30481156.s1.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="330-347" id="30481156.s1.e2" ontology_id="HP_0001442" text="somatic mosaicism" type="HP"/>
+    <pair e1="30481156.s1.e0" e2="30481156.s1.e1" id="30481156.s1.p0" relation="true"/>
+    <pair e1="30481156.s1.e1" e2="30481156.s1.e2" id="30481156.s1.p1" relation="false"/>
+  </sentence>
+</document>

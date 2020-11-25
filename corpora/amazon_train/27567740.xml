@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27567740">
+  <sentence id="27567740.s0" text="Recently, a missense mutation (R7S) in yet another member of this family, response to unfolded protein, was found to cause an axonal motor neuropathy (distal hereditary motor neuropathy type 2C, dHMN2C).">
+    <entity charOffset="74-102" id="27567740.s0.e0" ontology_id="GO_0006986" text="response to unfolded protein" type="GO"/>
+    <entity charOffset="139-149" id="27567740.s0.e1" ontology_id="HP_0009830" text="neuropathy" type="HP"/>
+    <pair e1="27567740.s0.e0" e2="27567740.s0.e1" id="27567740.s0.p0" relation="true"/>
+  </sentence>
+</document>

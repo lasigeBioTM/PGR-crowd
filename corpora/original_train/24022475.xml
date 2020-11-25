@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="24022475">
+  <sentence id="24022475.s0" text="We describe a previously unreported syndrome characterized by secondary (post-natal) microcephaly with fronto-temporal negative regulation of protein kinase activity hypoplasia, multiple pituitary hormone deficiency, seizures, severe visual impairment and abnormalities of the kidneys and urinary tract in a highly consanguineous family with six affected children.">
+    <entity charOffset="85-97" id="24022475.s0.e0" ontology_id="HP_0000252" text="microcephaly" type="HP"/>
+    <entity charOffset="119-165" id="24022475.s0.e1" ontology_id="GO_0006469" text="negative regulation of protein kinase activity" type="GO"/>
+    <pair e1="24022475.s0.e0" e2="24022475.s0.e1" id="24022475.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="24022475.s1" text="We also show expression of response to hypoxia within the central nervous system, including the hypothalamus, as well as the renal tract during human embryonic development.">
+    <entity charOffset="27-46" id="24022475.s1.e0" ontology_id="GO_0001666" text="response to hypoxia" type="GO"/>
+    <entity charOffset="58-65" id="24022475.s1.e1" ontology_id="HP_0030645" text="central" type="HP"/>
+    <pair e1="24022475.s1.e0" e2="24022475.s1.e1" id="24022475.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="24022475.s2" text="The progressive neurological abnormalities, congenital hypopituitarism and post-retinal visual pathway dysfunction in affected individuals demonstrates for the first time the essential role of response to hypoxia in the development of the hypothalamo-pituitary axis, post-natal brain growth, and visual and renal function in humans.">
+    <entity charOffset="55-70" id="24022475.s2.e0" ontology_id="HP_0040075" text="hypopituitarism" type="HP"/>
+    <entity charOffset="193-212" id="24022475.s2.e1" ontology_id="GO_0001666" text="response to hypoxia" type="GO"/>
+    <pair e1="24022475.s2.e0" e2="24022475.s2.e1" id="24022475.s2.p0" relation="true"/>
+  </sentence>
+</document>

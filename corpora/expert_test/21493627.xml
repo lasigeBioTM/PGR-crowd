@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="21493627">
+  <sentence id="21493627.s0" text="The fetus inherited an additional likely pathogenic novel missense change to a second MKS gene, positive regulation of transcription, DNA-templated; p.R2210C, suggesting oligogenic inheritance in this disorder">
+    <entity charOffset="96-147" id="21493627.s0.e0" ontology_id="GO_0045893" text="positive regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="170-192" id="21493627.s0.e1" ontology_id="HP_0010983" text="oligogenic inheritance" type="HP"/>
+    <pair e1="21493627.s0.e0" e2="21493627.s0.e1" id="21493627.s0.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="29408916">
+  <sentence id="29408916.s0" text="Logistic regression analysis adjusted for age and gender reported a moderate association between rectal cancer risk and two negative regulation of NF-kappaB transcription factor activity SNPs, rs1684575 T&amp;gt;G (OR: 1.60, 95% CI: 1.13-2.27, recessive model) and rs3751710 (OR: 0.70, 95% CI: 0.51-0.96, dominant model).">
+    <entity charOffset="104-110" id="29408916.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="124-186" id="29408916.s0.e1" ontology_id="GO_0032088" text="negative regulation of NF-kappaB transcription factor activity" type="GO"/>
+    <pair e1="29408916.s0.e0" e2="29408916.s0.e1" id="29408916.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29408916.s1" text="Constitutive activation of interferon signaling pathways has been reported in colorectal cancer (CRC), leading to a strong CD8+ T cell response through stimulation of negative regulation of NF-kappaB transcription factor activity expression.">
+    <entity charOffset="89-95" id="29408916.s1.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="167-229" id="29408916.s1.e1" ontology_id="GO_0032088" text="negative regulation of NF-kappaB transcription factor activity" type="GO"/>
+    <pair e1="29408916.s1.e0" e2="29408916.s1.e1" id="29408916.s1.p0" relation="false"/>
+  </sentence>
+</document>

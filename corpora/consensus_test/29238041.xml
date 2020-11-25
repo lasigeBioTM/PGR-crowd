@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="29238041">
+  <sentence id="29238041.s0" text="The suppression of cellular response to starvation expression in TAM was induced by the hypoxic condition in the tumor microenviroment.">
+    <entity charOffset="19-50" id="29238041.s0.e0" ontology_id="GO_0009267" text="cellular response to starvation" type="GO"/>
+    <entity charOffset="113-118" id="29238041.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29238041.s0.e0" e2="29238041.s0.e1" id="29238041.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29238041.s1" text="First, we showed that TAMs expressed reduced levels of cellular response to starvation, which was associated with their protumoral M2 polarization state.">
+    <entity charOffset="55-86" id="29238041.s1.e0" ontology_id="GO_0009267" text="cellular response to starvation" type="GO"/>
+    <entity charOffset="123-128" id="29238041.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29238041.s1.e0" e2="29238041.s1.e1" id="29238041.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="29238041.s2" text="Furthermore, we used cellular response to starvation conditional knockout mice to show that FoxO1 deficiency in myeloid cells exacerbates tumor growth.">
+    <entity charOffset="21-52" id="29238041.s2.e0" ontology_id="GO_0009267" text="cellular response to starvation" type="GO"/>
+    <entity charOffset="138-143" id="29238041.s2.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29238041.s2.e0" e2="29238041.s2.e1" id="29238041.s2.p0" relation="true"/>
+  </sentence>
+</document>

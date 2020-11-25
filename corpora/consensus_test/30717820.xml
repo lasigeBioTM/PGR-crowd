@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="30717820">
+  <sentence id="30717820.s0" text="Dasatinib treatment of the epidermis development with intrasplenic xenografts decreased tumor growth and increased survival times, compared with mice treated with vehicle only.">
+    <entity charOffset="27-48" id="30717820.s0.e0" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="88-93" id="30717820.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+  </sentence>
+</document>

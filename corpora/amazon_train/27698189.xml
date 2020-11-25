@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<document id="27698189">
+  <sentence id="27698189.s0" text="In this study, we applied this strategy to identify novel gene interactions in positive regulation of protein phosphorylation-mutant cancer cells.">
+    <entity charOffset="79-125" id="27698189.s0.e0" ontology_id="GO_0001934" text="positive regulation of protein phosphorylation" type="GO"/>
+    <entity charOffset="133-139" id="27698189.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27698189.s0.e0" e2="27698189.s0.e1" id="27698189.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="27698189.s1" text="Silencing of transforming growth factor beta receptor signaling pathway or LAMB3 recapitulated the synthetic lethal effects of miR-1298 expression in positive regulation of protein phosphorylation-driven cancer cells, whereas coexpression of both proteins was critical to rescue miR-1298-induced cell death.">
+    <entity charOffset="13-71" id="27698189.s1.e0" ontology_id="GO_0007179" text="transforming growth factor beta receptor signaling pathway" type="GO"/>
+    <entity charOffset="150-196" id="27698189.s1.e1" ontology_id="GO_0001934" text="positive regulation of protein phosphorylation" type="GO"/>
+    <entity charOffset="204-210" id="27698189.s1.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27698189.s1.e0" e2="27698189.s1.e2" id="27698189.s1.p0" relation="true"/>
+    <pair e1="27698189.s1.e1" e2="27698189.s1.e2" id="27698189.s1.p1" relation="true"/>
+  </sentence>
+  <sentence id="27698189.s2" text="In clinical specimens, elevated endodermal cell differentiation expression correlated with poorer survival in lung cancer patients with an oncogenic KRAS gene signature, suggesting a novel candidate biomarker in this disease setting.">
+    <entity charOffset="32-63" id="27698189.s2.e0" ontology_id="GO_0035987" text="endodermal cell differentiation" type="GO"/>
+    <entity charOffset="115-121" id="27698189.s2.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27698189.s2.e0" e2="27698189.s2.e1" id="27698189.s2.p0" relation="true"/>
+  </sentence>
+  <sentence id="27698189.s3" text="Our results define a novel regulatory pathway in positive regulation of protein phosphorylation-driven cancers, which offers a potential therapeutic target for their eradication.">
+    <entity charOffset="49-95" id="27698189.s3.e0" ontology_id="GO_0001934" text="positive regulation of protein phosphorylation" type="GO"/>
+    <entity charOffset="103-109" id="27698189.s3.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27698189.s3.e0" e2="27698189.s3.e1" id="27698189.s3.p0" relation="true"/>
+  </sentence>
+</document>

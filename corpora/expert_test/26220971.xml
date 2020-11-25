@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="26220971">
+  <sentence id="26220971.s0" text="Homozygous recessive mutations in either elastic fiber assembly (encoding fibulin-4) or FBLN5 (encoding fibulin-5), critical genes for elastogenesis, lead to autosomal recessive cutis laxa types 1B and 1A, respectively.">
+    <entity charOffset="41-63" id="26220971.s0.e0" ontology_id="GO_0048251" text="elastic fiber assembly" type="GO"/>
+    <entity charOffset="158-177" id="26220971.s0.e1" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <pair e1="26220971.s0.e0" e2="26220971.s0.e1" id="26220971.s0.p0" relation="true"/>
+  </sentence>
+</document>

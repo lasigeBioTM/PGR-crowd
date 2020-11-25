@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="25357075">
+  <sentence id="25357075.s0" text="In Mfrprd6 eyes, a significant 1.5- to 2.0-fold decrease was observed among transcripts of genes linked to retinal degeneration, including those involved in visual cycle (Rpe65, Lrat, Rgr), phototransduction (G protein-coupled receptor signaling pathway, Guca1b, Rgs9), and photoreceptor disc morphogenesis (Rpgrip1 and Fscn2).">
+    <entity charOffset="107-127" id="25357075.s0.e0" ontology_id="HP_0000546" text="retinal degeneration" type="HP"/>
+    <entity charOffset="209-253" id="25357075.s0.e1" ontology_id="GO_0007186" text="G protein-coupled receptor signaling pathway" type="GO"/>
+    <pair e1="25357075.s0.e0" e2="25357075.s0.e1" id="25357075.s0.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="27323939">
+  <sentence id="27323939.s0" text="Focal epilepsies, where seizures initiate in spatially limited networks, are the most frequent epilepsy muscle organ development, accounting for two-thirds of patients.">
+    <entity charOffset="6-16" id="27323939.s0.e0" ontology_id="HP_0001250" text="epilepsies" type="HP"/>
+    <entity charOffset="24-32" id="27323939.s0.e1" ontology_id="HP_0001250" text="seizures" type="HP"/>
+    <entity charOffset="104-128" id="27323939.s0.e2" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+  </sentence>
+  <sentence id="27323939.s1" text="Brain somatic mutations in the gene encoding mTOR (regulation of cell growth) have recently been linked to focal cortical dysplasia and other associated brain pathologies including hemimegalencephaly.">
+    <entity charOffset="51-76" id="27323939.s1.e0" ontology_id="GO_0001558" text="regulation of cell growth" type="GO"/>
+    <entity charOffset="181-199" id="27323939.s1.e1" ontology_id="HP_0007206" text="hemimegalencephaly" type="HP"/>
+    <pair e1="27323939.s1.e0" e2="27323939.s1.e1" id="27323939.s1.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="26251151">
+  <sentence id="26251151.s0" text="In an effort to identify new mutations responsible for monocyte chemotaxis, we performed whole-exome sequencing analysis of 48 patients with no documented mutations/deletions in our first screening and identified a de novo splicing error mutation in RPL27 and a frameshift deletion in RPS27 in sporadic patients with DBA.">
+    <entity charOffset="55-74" id="26251151.s0.e0" ontology_id="GO_0002548" text="monocyte chemotaxis" type="GO"/>
+    <entity charOffset="294-302" id="26251151.s0.e1" ontology_id="HP_0003745" text="sporadic" type="HP"/>
+    <pair e1="26251151.s0.e0" e2="26251151.s0.e1" id="26251151.s0.p0" relation="false"/>
+  </sentence>
+</document>

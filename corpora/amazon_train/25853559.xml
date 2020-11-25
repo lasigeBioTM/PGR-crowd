@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="25853559">
+  <sentence id="25853559.s0" text="Genetic variation in the neutrophil degranulation/regulation of cell growth region has been linked to beta-type HPV infection and squamous cell carcinoma of the skin, cervical cancer, HPV persistence and progression to cervical cancer.">
+    <entity charOffset="25-49" id="25853559.s0.e0" ontology_id="GO_0043312" text="neutrophil degranulation" type="GO"/>
+    <entity charOffset="50-75" id="25853559.s0.e1" ontology_id="GO_0001558" text="regulation of cell growth" type="GO"/>
+    <entity charOffset="130-165" id="25853559.s0.e2" ontology_id="HP_0006739" text="squamous cell carcinoma of the skin" type="HP"/>
+    <entity charOffset="176-182" id="25853559.s0.e3" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="25853559.s0.e0" e2="25853559.s0.e3" id="25853559.s0.p0" relation="true"/>
+    <pair e1="25853559.s0.e0" e2="25853559.s0.e2" id="25853559.s0.p1" relation="true"/>
+    <pair e1="25853559.s0.e1" e2="25853559.s0.e3" id="25853559.s0.p2" relation="true"/>
+    <pair e1="25853559.s0.e1" e2="25853559.s0.e2" id="25853559.s0.p3" relation="true"/>
+  </sentence>
+  <sentence id="25853559.s1" text="Here, we have tested the hypothesis that the common regulation of cell growth SNP rs7208422 is associated with high-risk HPV infection and risk of head and neck squamous cell carcinoma (HNSCC).">
+    <entity charOffset="52-77" id="25853559.s1.e0" ontology_id="GO_0001558" text="regulation of cell growth" type="GO"/>
+    <entity charOffset="161-184" id="25853559.s1.e1" ontology_id="HP_0002860" text="squamous cell carcinoma" type="HP"/>
+    <pair e1="25853559.s1.e0" e2="25853559.s1.e1" id="25853559.s1.p0" relation="true"/>
+  </sentence>
+</document>

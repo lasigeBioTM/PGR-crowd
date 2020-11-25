@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="27899487">
+  <sentence id="27899487.s0" text="Our studies show that DKD susceptibility was linked to mitochondrial dysfunction, mediated largely by Edn1-artery smooth muscle contraction in glomerular endothelial cells representing an early event in DKD progression, and suggest that cross talk between glomerular endothelial injury and podocytes leads to defects and depletion, albuminuria, and glomerulosclerosis">
+    <entity charOffset="107-139" id="27899487.s0.e0" ontology_id="GO_0014824" text="artery smooth muscle contraction" type="GO"/>
+    <entity charOffset="332-343" id="27899487.s0.e1" ontology_id="HP_0012592" text="albuminuria" type="HP"/>
+    <pair e1="27899487.s0.e0" e2="27899487.s0.e1" id="27899487.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="27899487.s1" text="Selective artery smooth muscle contraction blockade or mitochondrial-targeted reactive oxygen species scavenging prevented mitochondrial oxidative stress of endothelial cells and ameliorated diabetes-induced endothelial injury, podocyte loss, albuminuria, and glomerulosclerosis.">
+    <entity charOffset="10-42" id="27899487.s1.e0" ontology_id="GO_0014824" text="artery smooth muscle contraction" type="GO"/>
+    <entity charOffset="243-254" id="27899487.s1.e1" ontology_id="HP_0012592" text="albuminuria" type="HP"/>
+    <pair e1="27899487.s1.e0" e2="27899487.s1.e1" id="27899487.s1.p0" relation="false"/>
+  </sentence>
+</document>

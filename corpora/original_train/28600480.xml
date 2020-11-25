@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<document id="28600480">
+  <sentence id="28600480.s0" text="Tumor growth in xenografts as well as positive regulation of protein phosphorylation signaling were assessed in HCT116 cells expressing IL17RD with either a mutant 3' untranslated region (UTR) or wild-type (WT) 3'UTR.&lt;b&gt;Results:&lt;/b&gt; protein polyubiquitination-31, miR-34a, miR-106b, and miR-193a-3p were significantly dysregulated in ulcerative colitis-neoplasia and adjacent tissue.">
+    <entity charOffset="38-84" id="28600480.s0.e0" ontology_id="GO_0001934" text="positive regulation of protein phosphorylation" type="GO"/>
+    <entity charOffset="233-259" id="28600480.s0.e1" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="353-362" id="28600480.s0.e2" ontology_id="HP_0002664" text="neoplasia" type="HP"/>
+    <pair e1="28600480.s0.e0" e2="28600480.s0.e2" id="28600480.s0.p0" relation="true"/>
+    <pair e1="28600480.s0.e1" e2="28600480.s0.e2" id="28600480.s0.p1" relation="false"/>
+  </sentence>
+  <sentence id="28600480.s1" text="Significant down-regulation of protein polyubiquitination-193a-3p was also seen in an independent cohort of ulcerative colitis cancers.">
+    <entity charOffset="31-57" id="28600480.s1.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="127-133" id="28600480.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28600480.s1.e0" e2="28600480.s1.e1" id="28600480.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="28600480.s2" text="Changes in methylation of protein polyubiquitination-193a or expression of pri-miR-193a were not observed in ulcerative colitis cancer.">
+    <entity charOffset="26-52" id="28600480.s2.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="128-134" id="28600480.s2.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28600480.s2.e0" e2="28600480.s2.e1" id="28600480.s2.p0" relation="false"/>
+  </sentence>
+  <sentence id="28600480.s3" text="IL17RD expression was increased in ulcerative colitis cancers, and protein polyubiquitination-193a-3p treatment decreased growth and positive regulation of protein phosphorylation signaling of HCT116 cells in xenografts expressing both IL17RD with WT 3'UTR compared with cells expressing IL17RD with mutant 3'UTR.&lt;b&gt;Conclusions:&lt;/b&gt; miR-193a-3p is downregulated in ulcerative colitis neoplasia, and its loss promotes carcinogenesis through upregulation of IL17RD.">
+    <entity charOffset="54-60" id="28600480.s3.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="67-93" id="28600480.s3.e1" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="133-179" id="28600480.s3.e2" ontology_id="GO_0001934" text="positive regulation of protein phosphorylation" type="GO"/>
+    <entity charOffset="384-393" id="28600480.s3.e3" ontology_id="HP_0002664" text="neoplasia" type="HP"/>
+    <pair e1="28600480.s3.e0" e2="28600480.s3.e1" id="28600480.s3.p0" relation="false"/>
+    <pair e1="28600480.s3.e1" e2="28600480.s3.e3" id="28600480.s3.p1" relation="false"/>
+    <pair e1="28600480.s3.e2" e2="28600480.s3.e3" id="28600480.s3.p2" relation="true"/>
+  </sentence>
+</document>

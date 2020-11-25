@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="29259115">
+  <sentence id="29259115.s0" text="While there has been growing interest in the homodimeric gene products of regulation of cellular respiration (regulation of cellular respiration) and regulation of autophagy (regulation of autophagy), the importance of the inner mitochondrial CISD3 protein has only recently been recognized in cancer.">
+    <entity charOffset="74-108" id="29259115.s0.e0" ontology_id="GO_0043457" text="regulation of cellular respiration" type="GO"/>
+    <entity charOffset="110-144" id="29259115.s0.e1" ontology_id="GO_0043457" text="regulation of cellular respiration" type="GO"/>
+    <entity charOffset="150-173" id="29259115.s0.e2" ontology_id="GO_0010506" text="regulation of autophagy" type="GO"/>
+    <entity charOffset="175-198" id="29259115.s0.e3" ontology_id="GO_0010506" text="regulation of autophagy" type="GO"/>
+    <entity charOffset="294-300" id="29259115.s0.e4" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29259115.s0.e0" e2="29259115.s0.e4" id="29259115.s0.p0" relation="true"/>
+    <pair e1="29259115.s0.e1" e2="29259115.s0.e4" id="29259115.s0.p1" relation="false"/>
+    <pair e1="29259115.s0.e2" e2="29259115.s0.e4" id="29259115.s0.p2" relation="false"/>
+    <pair e1="29259115.s0.e3" e2="29259115.s0.e4" id="29259115.s0.p3" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="30535804">
+  <sentence id="30535804.s0" text="Although a digenic inheritance pattern of hearing impairment has been reported for heterozygous missense variants of cellular calcium ion homeostasis and CDH23, our findings indicate a monogenic cause of hearing impairment in cases with loss-of-function variants of ATP2B2">
+    <entity charOffset="11-30" id="30535804.s0.e0" ontology_id="HP_0010984" text="digenic inheritance" type="HP"/>
+    <entity charOffset="42-60" id="30535804.s0.e1" ontology_id="HP_0000365" text="hearing impairment" type="HP"/>
+    <entity charOffset="117-149" id="30535804.s0.e2" ontology_id="GO_0006874" text="cellular calcium ion homeostasis" type="GO"/>
+    <pair e1="30535804.s0.e0" e2="30535804.s0.e2" id="30535804.s0.p0" relation="true"/>
+    <pair e1="30535804.s0.e1" e2="30535804.s0.e2" id="30535804.s0.p1" relation="true"/>
+  </sentence>
+</document>

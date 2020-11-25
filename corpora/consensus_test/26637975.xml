@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="26637975">
+  <sentence id="26637975.s0" text="The disease phenomuscle organ development comprises characteristic circumferential skin creases accompanied by intellectual disability, a cleft palate, short stature, and dysmorphic features.">
+    <entity charOffset="17-41" id="26637975.s0.e0" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="138-150" id="26637975.s0.e1" ontology_id="HP_0000175" text="cleft palate" type="HP"/>
+    <entity charOffset="152-165" id="26637975.s0.e2" ontology_id="HP_0004322" text="short stature" type="HP"/>
+  </sentence>
+</document>

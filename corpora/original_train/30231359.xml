@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="30231359">
+  <sentence id="30231359.s0" text="The incproteolysisnce rate of hepatocellular carcinoma (phosphatidylinositol phosphorylation) is rising.">
+    <entity charOffset="7-18" id="30231359.s0.e0" ontology_id="GO_0006508" text="proteolysis" type="GO"/>
+    <entity charOffset="30-54" id="30231359.s0.e1" ontology_id="HP_0001402" text="hepatocellular carcinoma" type="HP"/>
+    <entity charOffset="56-92" id="30231359.s0.e2" ontology_id="GO_0046854" text="phosphatidylinositol phosphorylation" type="GO"/>
+    <pair e1="30231359.s0.e0" e2="30231359.s0.e1" id="30231359.s0.p0" relation="false"/>
+    <pair e1="30231359.s0.e1" e2="30231359.s0.e2" id="30231359.s0.p1" relation="false"/>
+  </sentence>
+</document>

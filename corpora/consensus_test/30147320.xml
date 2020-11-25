@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="30147320">
+  <sentence id="30147320.s0" text="Since prion diseases have quite heterogeneous phenomuscle organ developments, a complex analysis, a combination of genetic screening, cerebrospinal fluid biomarker analysis and imaging technologies could improve the early disease diagnosis">
+    <entity charOffset="32-45" id="30147320.s0.e0" ontology_id="HP_0001425" text="heterogeneous" type="HP"/>
+    <entity charOffset="51-75" id="30147320.s0.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+  </sentence>
+</document>

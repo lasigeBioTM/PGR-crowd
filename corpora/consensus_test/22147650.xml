@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="22147650">
+  <sentence id="22147650.s0" text="positive regulation of peptidyl-tyrosine phosphorylation and PRND are significantly over-expressed in osteosarcoma.">
+    <entity charOffset="0-56" id="22147650.s0.e0" ontology_id="GO_0050731" text="positive regulation of peptidyl-tyrosine phosphorylation" type="GO"/>
+    <entity charOffset="102-114" id="22147650.s0.e1" ontology_id="HP_0002669" text="osteosarcoma" type="HP"/>
+    <pair e1="22147650.s0.e0" e2="22147650.s0.e1" id="22147650.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="22147650.s1" text="PRNP and acrosome reaction appear involved with some important genes related to tumorigenesis and apoptosis.">
+    <entity charOffset="9-26" id="22147650.s1.e0" ontology_id="GO_0007340" text="acrosome reaction" type="GO"/>
+    <entity charOffset="80-85" id="22147650.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="22147650.s1.e0" e2="22147650.s1.e1" id="22147650.s1.p0" relation="true"/>
+  </sentence>
+</document>

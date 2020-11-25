@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<document id="24898506">
+  <sentence id="24898506.s0" text="These include other keratin genes for monilethrix, the HR gene for atrichia congenita, the genes cell-cell adhesion, negative regulation of Wnt signaling pathway and spliceosomal snRNP assembly for the autosomal dominant form of hypotrichosis simplex, and the genes keratinization, lipid catabolic process and G protein-coupled receptor signaling pathway for the autosomal recessive forms of hypotrichosis as well as U2HR for hypotrichosis muscle organ development Marie Unna.">
+    <entity charOffset="97-115" id="24898506.s0.e0" ontology_id="GO_0098609" text="cell-cell adhesion" type="GO"/>
+    <entity charOffset="117-161" id="24898506.s0.e1" ontology_id="GO_0030178" text="negative regulation of Wnt signaling pathway" type="GO"/>
+    <entity charOffset="166-193" id="24898506.s0.e2" ontology_id="GO_0000387" text="spliceosomal snRNP assembly" type="GO"/>
+    <entity charOffset="229-242" id="24898506.s0.e3" ontology_id="HP_0001006" text="hypotrichosis" type="HP"/>
+    <entity charOffset="266-280" id="24898506.s0.e4" ontology_id="GO_0031424" text="keratinization" type="GO"/>
+    <entity charOffset="282-305" id="24898506.s0.e5" ontology_id="GO_0016042" text="lipid catabolic process" type="GO"/>
+    <entity charOffset="310-354" id="24898506.s0.e6" ontology_id="GO_0007186" text="G protein-coupled receptor signaling pathway" type="GO"/>
+    <entity charOffset="363-382" id="24898506.s0.e7" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="440-464" id="24898506.s0.e8" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <pair e1="24898506.s0.e0" e2="24898506.s0.e7" id="24898506.s0.p0" relation="false"/>
+    <pair e1="24898506.s0.e0" e2="24898506.s0.e3" id="24898506.s0.p1" relation="true"/>
+    <pair e1="24898506.s0.e1" e2="24898506.s0.e3" id="24898506.s0.p2" relation="true"/>
+    <pair e1="24898506.s0.e2" e2="24898506.s0.e7" id="24898506.s0.p3" relation="false"/>
+    <pair e1="24898506.s0.e2" e2="24898506.s0.e3" id="24898506.s0.p4" relation="true"/>
+    <pair e1="24898506.s0.e3" e2="24898506.s0.e4" id="24898506.s0.p5" relation="true"/>
+    <pair e1="24898506.s0.e3" e2="24898506.s0.e5" id="24898506.s0.p6" relation="true"/>
+    <pair e1="24898506.s0.e3" e2="24898506.s0.e6" id="24898506.s0.p7" relation="false"/>
+    <pair e1="24898506.s0.e4" e2="24898506.s0.e7" id="24898506.s0.p8" relation="true"/>
+    <pair e1="24898506.s0.e5" e2="24898506.s0.e7" id="24898506.s0.p9" relation="false"/>
+  </sentence>
+</document>

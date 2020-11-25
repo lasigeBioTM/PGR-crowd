@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="28749373">
+  <sentence id="28749373.s0" text="The regulation of transcription, DNA-templated-MC was also validated against measurements and simulations in heterogeneous phantoms created by placing lung or bone slabs in a water phantom.">
+    <entity charOffset="4-46" id="28749373.s0.e0" ontology_id="GO_0006355" text="regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="109-122" id="28749373.s0.e1" ontology_id="HP_0001425" text="heterogeneous" type="HP"/>
+    <pair e1="28749373.s0.e0" e2="28749373.s0.e1" id="28749373.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28749373.s1" text="The regulation of transcription, DNA-templated-MC algorithm demonstrated improved dosimetric accuracy over the RS-PBA in the presence of homogenous, heterogeneous and anthropomorphic phantoms.">
+    <entity charOffset="4-46" id="28749373.s1.e0" ontology_id="GO_0006355" text="regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="149-162" id="28749373.s1.e1" ontology_id="HP_0001425" text="heterogeneous" type="HP"/>
+    <pair e1="28749373.s1.e0" e2="28749373.s1.e1" id="28749373.s1.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="26975038">
+  <sentence id="26975038.s0" text="Moreover, CpG island methylation status of ubiquitin-dependent protein catabolic process, a candidate tumor-suppressor gene, was determined in ANKL samples.">
+    <entity charOffset="43-88" id="26975038.s0.e0" ontology_id="GO_0006511" text="ubiquitin-dependent protein catabolic process" type="GO"/>
+    <entity charOffset="102-107" id="26975038.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="26975038.s0.e0" e2="26975038.s0.e1" id="26975038.s0.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="26881841">
+  <sentence id="26881841.s0" text="Usher syndrome muscle organ development III (USH3A) is an autosomal recessive disorder caused by mutations in clarin-1 (CLRN1) gene, leading to progressive retinal degeneration and sensorineural deafness.">
+    <entity charOffset="15-39" id="26881841.s0.e0" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="195-203" id="26881841.s0.e1" ontology_id="HP_0000365" text="deafness" type="HP"/>
+  </sentence>
+</document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="29401312">
+  <sentence id="29401312.s0" text="While none of these miRNAs have been previously linked to glaucoma, miR-122-5p may target three glaucoma-associated genes: positive regulation of autophagy, ER overload response and TGF-ß1.">
+    <entity charOffset="58-66" id="29401312.s0.e0" ontology_id="HP_0000501" text="glaucoma" type="HP"/>
+    <entity charOffset="123-155" id="29401312.s0.e1" ontology_id="GO_0010508" text="positive regulation of autophagy" type="GO"/>
+    <entity charOffset="157-177" id="29401312.s0.e2" ontology_id="GO_0006983" text="ER overload response" type="GO"/>
+    <pair e1="29401312.s0.e0" e2="29401312.s0.e2" id="29401312.s0.p0" relation="true"/>
+    <pair e1="29401312.s0.e0" e2="29401312.s0.e1" id="29401312.s0.p1" relation="true"/>
+  </sentence>
+</document>

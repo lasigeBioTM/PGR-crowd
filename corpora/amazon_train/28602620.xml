@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<document id="28602620">
+  <sentence id="28602620.s0" text="We identified integrin α7 (heterotypic cell-cell adhesion) as a major laminin receptor in GSCs and in primary high-grade glioma specimens.">
+    <entity charOffset="27-57" id="28602620.s0.e0" ontology_id="GO_0034113" text="heterotypic cell-cell adhesion" type="GO"/>
+    <entity charOffset="121-127" id="28602620.s0.e1" ontology_id="HP_0009733" text="glioma" type="HP"/>
+    <pair e1="28602620.s0.e0" e2="28602620.s0.e1" id="28602620.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28602620.s1" text="Analyses of mRNA profiles in comprehensive datasets revealed that high heterotypic cell-cell adhesion expression negatively correlated with survival of patients with both low- and high-grade glioma.">
+    <entity charOffset="71-101" id="28602620.s1.e0" ontology_id="GO_0034113" text="heterotypic cell-cell adhesion" type="GO"/>
+    <entity charOffset="191-197" id="28602620.s1.e1" ontology_id="HP_0009733" text="glioma" type="HP"/>
+    <pair e1="28602620.s1.e0" e2="28602620.s1.e1" id="28602620.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="28602620.s2" text="We also found that targeting of heterotypic cell-cell adhesion by RNAi or blocking mAbs impaired laminin-induced signaling, and it led to a significant delay in tumor engraftment plus a strong reduction in tumor size and invasion.">
+    <entity charOffset="32-62" id="28602620.s2.e0" ontology_id="GO_0034113" text="heterotypic cell-cell adhesion" type="GO"/>
+    <entity charOffset="161-166" id="28602620.s2.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28602620.s2.e0" e2="28602620.s2.e1" id="28602620.s2.p0" relation="true"/>
+  </sentence>
+  <sentence id="28602620.s3" text="Our data, therefore, highlight heterotypic cell-cell adhesion as a glioblastoma biomarker and candidate therapeutic target">
+    <entity charOffset="31-61" id="28602620.s3.e0" ontology_id="GO_0034113" text="heterotypic cell-cell adhesion" type="GO"/>
+    <entity charOffset="67-79" id="28602620.s3.e1" ontology_id="HP_0012174" text="glioblastoma" type="HP"/>
+    <pair e1="28602620.s3.e0" e2="28602620.s3.e1" id="28602620.s3.p0" relation="true"/>
+  </sentence>
+</document>

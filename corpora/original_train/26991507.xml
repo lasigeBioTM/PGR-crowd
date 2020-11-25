@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<document id="26991507">
+  <sentence id="26991507.s0" text="This includes the first two genes linked to recessively inherited isolated dystonia, that is, positive regulation of cytosolic calcium ion concentration (hippocalcin) and COL6A3 (collagen VI alpha 3).">
+    <entity charOffset="75-83" id="26991507.s0.e0" ontology_id="HP_0001332" text="dystonia" type="HP"/>
+    <entity charOffset="94-152" id="26991507.s0.e1" ontology_id="GO_0007204" text="positive regulation of cytosolic calcium ion concentration" type="GO"/>
+    <pair e1="26991507.s0.e0" e2="26991507.s0.e1" id="26991507.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="26991507.s1" text="The novel myoclonus-dystonia genes KCTD17 and modulation of chemical synaptic transmission also implicate abnormal calcium signaling in dystonia.">
+    <entity charOffset="20-28" id="26991507.s1.e0" ontology_id="HP_0001332" text="dystonia" type="HP"/>
+    <entity charOffset="46-90" id="26991507.s1.e1" ontology_id="GO_0050804" text="modulation of chemical synaptic transmission" type="GO"/>
+    <pair e1="26991507.s1.e0" e2="26991507.s1.e1" id="26991507.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="26991507.s2" text="Defects in neurodevelopment likewise seem to be a recurrent scheme underpinning mainly complex dystonias, for example those attributable to biallelic mutations in GCH1, TH, positive regulation of cytosolic calcium ion concentration, or to heterozygous negative regulation of microtubule polymerization mutations.">
+    <entity charOffset="95-103" id="26991507.s2.e0" ontology_id="HP_0001332" text="dystonia" type="HP"/>
+    <entity charOffset="173-231" id="26991507.s2.e1" ontology_id="GO_0007204" text="positive regulation of cytosolic calcium ion concentration" type="GO"/>
+    <entity charOffset="252-301" id="26991507.s2.e2" ontology_id="GO_0031115" text="negative regulation of microtubule polymerization" type="GO"/>
+    <pair e1="26991507.s2.e0" e2="26991507.s2.e1" id="26991507.s2.p0" relation="false"/>
+    <pair e1="26991507.s2.e0" e2="26991507.s2.e2" id="26991507.s2.p1" relation="true"/>
+  </sentence>
+</document>

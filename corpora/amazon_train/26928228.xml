@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<document id="26928228">
+  <sentence id="26928228.s0" text="We found evidence for at least five independent causal variants, each associated with different phenotype sets, including estrogen receptor (ER(+) or ER(-)) and human signal transduction (signal transduction(+) or HER2(-)) tumor subtypes, mammographic density and tumor grade.">
+    <entity charOffset="167-186" id="26928228.s0.e0" ontology_id="GO_0007165" text="signal transduction" type="GO"/>
+    <entity charOffset="188-207" id="26928228.s0.e1" ontology_id="GO_0007165" text="signal transduction" type="GO"/>
+    <entity charOffset="223-228" id="26928228.s0.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="26928228.s0.e0" e2="26928228.s0.e2" id="26928228.s0.p0" relation="true"/>
+    <pair e1="26928228.s0.e1" e2="26928228.s0.e2" id="26928228.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="26928228.s1" text="The best candidate causal variants for ER(-) tumors lie in four separate enhancer elements, and their risk alleles reduce expression of transcription by RNA polymerase II, positive regulation of mitochondrial translation and biological_process, whereas the risk alleles of the strongest candidates for the remaining independent causal variant disrupt a silencer element and putatively increase ESR1 and RMND1 expression.">
+    <entity charOffset="45-50" id="26928228.s1.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="136-170" id="26928228.s1.e1" ontology_id="GO_0006366" text="transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="172-220" id="26928228.s1.e2" ontology_id="GO_0070131" text="positive regulation of mitochondrial translation" type="GO"/>
+    <entity charOffset="225-243" id="26928228.s1.e3" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <pair e1="26928228.s1.e0" e2="26928228.s1.e1" id="26928228.s1.p0" relation="true"/>
+    <pair e1="26928228.s1.e0" e2="26928228.s1.e2" id="26928228.s1.p1" relation="true"/>
+    <pair e1="26928228.s1.e0" e2="26928228.s1.e3" id="26928228.s1.p2" relation="true"/>
+  </sentence>
+</document>

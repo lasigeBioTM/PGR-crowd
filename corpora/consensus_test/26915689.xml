@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="26915689">
+  <sentence id="26915689.s0" text="Of note, all those genes are causative for progressive hearing loss in humans, but not in epidermis development.">
+    <entity charOffset="55-67" id="26915689.s0.e0" ontology_id="HP_0000365" text="hearing loss" type="HP"/>
+    <entity charOffset="90-111" id="26915689.s0.e1" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+  </sentence>
+  <sentence id="26915689.s1" text="The deafness genes GJB3, negative regulation of transcription by RNA polymerase II, GRHL2, DFNA5, and ATP6B1 were expressed in marmoset cochleae in patterns different from those in mouse cochleae.">
+    <entity charOffset="4-12" id="26915689.s1.e0" ontology_id="HP_0000365" text="deafness" type="HP"/>
+    <entity charOffset="25-82" id="26915689.s1.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="26915689.s1.e0" e2="26915689.s1.e1" id="26915689.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="26915689.s2" text="The other tested genes, including the deafness gene regulation of cell shape, in which mutation recapitulates deafness in epidermis development, were expressed in a similar manner in both species.">
+    <entity charOffset="38-46" id="26915689.s2.e0" ontology_id="HP_0000365" text="deafness" type="HP"/>
+    <entity charOffset="52-76" id="26915689.s2.e1" ontology_id="GO_0008360" text="regulation of cell shape" type="GO"/>
+    <entity charOffset="122-143" id="26915689.s2.e2" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <pair e1="26915689.s2.e0" e2="26915689.s2.e1" id="26915689.s2.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="29431240">
+  <sentence id="29431240.s0" text="It has been reported that positive regulation of gene expression downstream regulated gene 1 (DNA damage response, signal transduction by p53 class mediator) is related to the prognosis of non-small cell lung cancer (NSCLC), and associated with c-Myc degradation in NSCLC cell lines.">
+    <entity charOffset="26-64" id="29431240.s0.e0" ontology_id="GO_0010628" text="positive regulation of gene expression" type="GO"/>
+    <entity charOffset="94-156" id="29431240.s0.e1" ontology_id="GO_0030330" text="DNA damage response, signal transduction by p53 class mediator" type="GO"/>
+    <entity charOffset="209-215" id="29431240.s0.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29431240.s0.e0" e2="29431240.s0.e2" id="29431240.s0.p0" relation="true"/>
+    <pair e1="29431240.s0.e1" e2="29431240.s0.e2" id="29431240.s0.p1" relation="true"/>
+  </sentence>
+</document>

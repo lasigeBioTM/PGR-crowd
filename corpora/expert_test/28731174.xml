@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="28731174">
+  <sentence id="28731174.s0" text="Further functional studies show that forced expression of positive regulation of transcription by RNA polymerase II in lung cancer cells obviously promotes cell proliferation and invasion, whereas inhibits cell apoptosis.">
+    <entity charOffset="58-115" id="28731174.s0.e0" ontology_id="GO_0045944" text="positive regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="124-130" id="28731174.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28731174.s0.e0" e2="28731174.s0.e1" id="28731174.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28731174.s1" text="Furthermore, positive regulation of transcription by RNA polymerase II is associated with unfavorable overall survival (n=866, p=0.004) and represents an independent prognostic factor (HR=2.36, p=0.000) in lung adenocarcinoma (ADC) patients, but is not associated with overall survival of squamous cell carcinoma (SCC) patients (n=524, p=0.27).">
+    <entity charOffset="13-70" id="28731174.s1.e0" ontology_id="GO_0045944" text="positive regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="206-225" id="28731174.s1.e1" ontology_id="HP_0030078" text="lung adenocarcinoma" type="HP"/>
+    <pair e1="28731174.s1.e0" e2="28731174.s1.e1" id="28731174.s1.p0" relation="true"/>
+  </sentence>
+</document>

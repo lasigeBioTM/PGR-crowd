@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<document id="29321360">
+  <sentence id="29321360.s0" text="Ellis-glycoprotein biosynthetic process Creveld syndrome is an autosomal recessive skeletal dysplasia primarily characterized by the features such as disproportionate dwarfism, short ribs, short limbs, dysplastic nails, cardiovascular malformations, post-axial polydactyly (cilium assembly) (bilateral) of hands and feet.">
+    <entity charOffset="6-39" id="29321360.s0.e0" ontology_id="GO_0009101" text="glycoprotein biosynthetic process" type="GO"/>
+    <entity charOffset="63-82" id="29321360.s0.e1" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="83-101" id="29321360.s0.e2" ontology_id="HP_0002652" text="skeletal dysplasia" type="HP"/>
+    <entity charOffset="189-200" id="29321360.s0.e3" ontology_id="HP_0009826" text="short limbs" type="HP"/>
+    <entity charOffset="202-218" id="29321360.s0.e4" ontology_id="HP_0002164" text="dysplastic nails" type="HP"/>
+    <entity charOffset="220-248" id="29321360.s0.e5" ontology_id="HP_0030680" text="cardiovascular malformations" type="HP"/>
+    <entity charOffset="255-260" id="29321360.s0.e6" ontology_id="HP_0025287" text="axial" type="HP"/>
+    <entity charOffset="261-272" id="29321360.s0.e7" ontology_id="HP_0010442" text="polydactyly" type="HP"/>
+    <entity charOffset="274-289" id="29321360.s0.e8" ontology_id="GO_0060271" text="cilium assembly" type="GO"/>
+    <pair e1="29321360.s0.e0" e2="29321360.s0.e1" id="29321360.s0.p0" relation="true"/>
+    <pair e1="29321360.s0.e0" e2="29321360.s0.e4" id="29321360.s0.p1" relation="true"/>
+    <pair e1="29321360.s0.e1" e2="29321360.s0.e8" id="29321360.s0.p2" relation="true"/>
+    <pair e1="29321360.s0.e3" e2="29321360.s0.e8" id="29321360.s0.p3" relation="true"/>
+  </sentence>
+  <sentence id="29321360.s1" text="This study reports first case of variants in the genes causing endochondral bone growth syndrome and profound deafness in the same family">
+    <entity charOffset="63-87" id="29321360.s1.e0" ontology_id="GO_0003416" text="endochondral bone growth" type="GO"/>
+    <entity charOffset="101-109" id="29321360.s1.e1" ontology_id="HP_0012829" text="profound" type="HP"/>
+    <entity charOffset="110-118" id="29321360.s1.e2" ontology_id="HP_0000365" text="deafness" type="HP"/>
+  </sentence>
+</document>

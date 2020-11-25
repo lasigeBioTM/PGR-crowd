@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<document id="30504367">
+  <sentence id="30504367.s0" text="Several important genetic alterations (i.e., mutations, deletions) have been identified to be involved in the initiation and progression of pancreatic cancer, including positive regulation of protein phosphorylation and inactivation of tumor suppressors, such as TP53, transforming growth factor beta receptor signaling pathway and CDKN2A.">
+    <entity charOffset="151-157" id="30504367.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="169-215" id="30504367.s0.e1" ontology_id="GO_0001934" text="positive regulation of protein phosphorylation" type="GO"/>
+    <entity charOffset="236-241" id="30504367.s0.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="269-327" id="30504367.s0.e3" ontology_id="GO_0007179" text="transforming growth factor beta receptor signaling pathway" type="GO"/>
+    <pair e1="30504367.s0.e0" e2="30504367.s0.e3" id="30504367.s0.p0" relation="true"/>
+    <pair e1="30504367.s0.e1" e2="30504367.s0.e2" id="30504367.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="30504367.s1" text="However, siRNA-based therapeutics interstrand cross-link repair important challenges, including rapid serum degradation, poor tumor cell uptake and cellular uptake, leading to off-target effects.">
+    <entity charOffset="34-63" id="30504367.s1.e0" ontology_id="GO_0036297" text="interstrand cross-link repair" type="GO"/>
+    <entity charOffset="126-131" id="30504367.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="30504367.s1.e0" e2="30504367.s1.e1" id="30504367.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="30504367.s2" text="Therefore, there is a G protein-coupled receptor signaling pathway need for the development of safe and effective nanoparticles for better tumor-specific delivery of anti-cancer therapeutics.">
+    <entity charOffset="22-66" id="30504367.s2.e0" ontology_id="GO_0007186" text="G protein-coupled receptor signaling pathway" type="GO"/>
+    <entity charOffset="139-144" id="30504367.s2.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="171-177" id="30504367.s2.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30504367.s2.e0" e2="30504367.s2.e2" id="30504367.s2.p0" relation="false"/>
+    <pair e1="30504367.s2.e0" e2="30504367.s2.e1" id="30504367.s2.p1" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="18180767">
+  <sentence id="18180767.s0" text="These fetal structures generate regions with abnormal activity in autism, including the dorsolateral prefrontal cortex (BA46), the prolyl-tRNA aminoacylation opercularis of the inferior frontal cortex and the fusiform gyrus.">
+    <entity charOffset="66-72" id="18180767.s0.e0" ontology_id="HP_0000717" text="autism" type="HP"/>
+    <entity charOffset="131-157" id="18180767.s0.e1" ontology_id="GO_0006433" text="prolyl-tRNA aminoacylation" type="GO"/>
+  </sentence>
+</document>

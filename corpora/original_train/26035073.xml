@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<document id="26035073">
+  <sentence id="26035073.s0" text="Next, using histone succinylation-1 colon cancer cells inducibly expressing SASS6, SASS6 overexpression was shown to induce centrosome amplification, mitotic abnormalities such as chromosomal misalignment and lagging chromosome, and chromosomal numerical changes.">
+    <entity charOffset="12-33" id="26035073.s0.e0" ontology_id="GO_0106077" text="histone succinylation" type="GO"/>
+    <entity charOffset="42-48" id="26035073.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="26035073.s0.e0" e2="26035073.s0.e1" id="26035073.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="26035073.s1" text="centriole replication upregulation in colon cancer was also revealed in the Cancer Genome Atlas (TCGA) data and was shown to be an independent predictor of poor survival (multivariate analysis: hazard ratio, 2.805; 95% confidence interval, 1.244‑7.512; P=0.0112).">
+    <entity charOffset="0-21" id="26035073.s1.e0" ontology_id="GO_0007099" text="centriole replication" type="GO"/>
+    <entity charOffset="44-50" id="26035073.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="26035073.s1.e0" e2="26035073.s1.e1" id="26035073.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="26035073.s2" text="Finally, further analysis of the TCGA data demonstrated centriole replication upregulation in a modest manner in 8 of 11 cancer types other than colon cancer, and SASS6 upregulation was found to be associated with a poor survival outcome in patients with kidney renal cell carcinoma and lung adenocarcinoma.">
+    <entity charOffset="56-77" id="26035073.s2.e0" ontology_id="GO_0007099" text="centriole replication" type="GO"/>
+    <entity charOffset="121-127" id="26035073.s2.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="287-306" id="26035073.s2.e2" ontology_id="HP_0030078" text="lung adenocarcinoma" type="HP"/>
+    <pair e1="26035073.s2.e0" e2="26035073.s2.e1" id="26035073.s2.p0" relation="false"/>
+    <pair e1="26035073.s2.e0" e2="26035073.s2.e2" id="26035073.s2.p1" relation="false"/>
+  </sentence>
+  <sentence id="26035073.s3" text="Our present findings revealed that the upregulation of centriole replication expression is involved in the pathogenesis of CRC and is associated with a poor prognosis among patients with colon cancer.">
+    <entity charOffset="55-76" id="26035073.s3.e0" ontology_id="GO_0007099" text="centriole replication" type="GO"/>
+    <entity charOffset="193-199" id="26035073.s3.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="26035073.s3.e0" e2="26035073.s3.e1" id="26035073.s3.p0" relation="false"/>
+  </sentence>
+</document>

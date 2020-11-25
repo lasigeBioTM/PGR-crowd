@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="28972307">
+  <sentence id="28972307.s0" text="However, the significance of MAPK cascade overexpression in human breast cancer (HBC) remains to be investigated.">
+    <entity charOffset="29-41" id="28972307.s0.e0" ontology_id="GO_0000165" text="MAPK cascade" type="GO"/>
+    <entity charOffset="73-79" id="28972307.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28972307.s0.e0" e2="28972307.s0.e1" id="28972307.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28972307.s1" text="Inhibition of ERα by its siRNA or tamoxifen reduces cellular levels of MAPK cascade and Pol III gene expression and decreases the rate of colony formation of breast cancer cells.">
+    <entity charOffset="71-83" id="28972307.s1.e0" ontology_id="GO_0000165" text="MAPK cascade" type="GO"/>
+    <entity charOffset="165-171" id="28972307.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28972307.s1.e0" e2="28972307.s1.e1" id="28972307.s1.p0" relation="true"/>
+  </sentence>
+</document>

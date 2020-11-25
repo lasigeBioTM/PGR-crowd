@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="30293388">
+  <sentence id="30293388.s0" text="&lt;b&gt;Objective:&lt;/b&gt; To investigate the expression of granulocyte-colony stimulating factor receptor (G-CSFR) in a mouse model of colitis-associated cancer (carnitine shuttle), and the roles of G-CSFR positive immune cells in the development of CAC.">
+    <entity charOffset="146-152" id="30293388.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="154-171" id="30293388.s0.e1" ontology_id="GO_0006853" text="carnitine shuttle" type="GO"/>
+  </sentence>
+</document>

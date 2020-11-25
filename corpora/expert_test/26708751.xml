@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="26708751">
+  <sentence id="26708751.s0" text="We report four individuals from three unrelated families who have homozygous missense or compound heterozygous truncating mutations in ion transmembrane transport and persistent hypotonia, encephalopathy, growth failure, and severe intellectual disability.">
+    <entity charOffset="135-162" id="26708751.s0.e0" ontology_id="GO_0034220" text="ion transmembrane transport" type="GO"/>
+    <entity charOffset="189-203" id="26708751.s0.e1" ontology_id="HP_0001298" text="encephalopathy" type="HP"/>
+    <pair e1="26708751.s0.e0" e2="26708751.s0.e1" id="26708751.s0.p0" relation="true"/>
+  </sentence>
+</document>

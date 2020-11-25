@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="24516401">
+  <sentence id="24516401.s0" text="As seen in human patients, heterozygous E168d2 (&amp;quot;E168d2/+&amp;quot;) but not R90W (&amp;quot;R90W/+&amp;quot;) epidermis development show severely impaired retinal function, while mice homozygous for either mutation are blind and undergo rapid photoreceptor degeneration.">
+    <entity charOffset="104-125" id="24516401.s0.e0" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="131-137" id="24516401.s0.e1" ontology_id="HP_0012828" text="severe" type="HP"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="18264100">
+  <sentence id="18264100.s0" text="Studying consanguineous families with Ghosal hematodiaphyseal dysplasia syndrome (GHDD), a disorder of increased bone density, we identified mutations in TBXAS1, which encodes thromboxane synthase (icosanoid metabolic process).">
+    <entity charOffset="103-125" id="18264100.s0.e0" ontology_id="HP_0011001" text="increased bone density" type="HP"/>
+    <entity charOffset="198-225" id="18264100.s0.e1" ontology_id="GO_0006690" text="icosanoid metabolic process" type="GO"/>
+    <pair e1="18264100.s0.e0" e2="18264100.s0.e1" id="18264100.s0.p0" relation="false"/>
+  </sentence>
+</document>

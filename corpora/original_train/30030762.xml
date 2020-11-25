@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<document id="30030762">
+  <sentence id="30030762.s0" text="In gastrointestinal tumors, negative regulation of transcription by RNA polymerase II plays an oncogenic role through DNA demethylation.">
+    <entity charOffset="20-26" id="30030762.s0.e0" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <entity charOffset="28-85" id="30030762.s0.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="30030762.s0.e0" e2="30030762.s0.e1" id="30030762.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="30030762.s1" text="However, the role of negative regulation of transcription by RNA polymerase II in the prognosis of human glioma prognosis remains unclear.">
+    <entity charOffset="21-78" id="30030762.s1.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="105-111" id="30030762.s1.e1" ontology_id="HP_0009733" text="glioma" type="HP"/>
+    <pair e1="30030762.s1.e0" e2="30030762.s1.e1" id="30030762.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="30030762.s2" text="In this research, we discovered that negative regulation of transcription by RNA polymerase II was significantly increased in glioma tissues in contrast to normal brain tissues (NBTs; P &amp;lt; 0.05).">
+    <entity charOffset="37-94" id="30030762.s2.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="126-132" id="30030762.s2.e1" ontology_id="HP_0009733" text="glioma" type="HP"/>
+    <pair e1="30030762.s2.e0" e2="30030762.s2.e1" id="30030762.s2.p0" relation="false"/>
+  </sentence>
+  <sentence id="30030762.s3" text="In an in vitro experiment, negative regulation of transcription by RNA polymerase II can promote the proliferation, migration, and invasion of glioma cells and inhibit cell apoptosis by activating positive regulation of protein phosphorylation-angiogenesis pathway.">
+    <entity charOffset="27-84" id="30030762.s3.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="143-149" id="30030762.s3.e1" ontology_id="HP_0009733" text="glioma" type="HP"/>
+    <entity charOffset="197-243" id="30030762.s3.e2" ontology_id="GO_0001934" text="positive regulation of protein phosphorylation" type="GO"/>
+    <entity charOffset="244-256" id="30030762.s3.e3" ontology_id="GO_0001525" text="angiogenesis" type="GO"/>
+    <pair e1="30030762.s3.e0" e2="30030762.s3.e1" id="30030762.s3.p0" relation="false"/>
+    <pair e1="30030762.s3.e1" e2="30030762.s3.e2" id="30030762.s3.p1" relation="false"/>
+    <pair e1="30030762.s3.e1" e2="30030762.s3.e3" id="30030762.s3.p2" relation="false"/>
+  </sentence>
+</document>

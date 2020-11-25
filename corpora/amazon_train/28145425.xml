@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="28145425">
+  <sentence id="28145425.s0" text="p.(Arg320His) mutation in the protein tetramerization gene in human 11p15.1 has recently been identified in patients with progressive myoclonus epilepsies, a group of rare inherited disorders manifesting with action myoclonus, myoclonic epilepsy, and ataxia.">
+    <entity charOffset="30-53" id="28145425.s0.e0" ontology_id="GO_0051262" text="protein tetramerization" type="GO"/>
+    <entity charOffset="134-143" id="28145425.s0.e1" ontology_id="HP_0001336" text="myoclonus" type="HP"/>
+    <entity charOffset="237-245" id="28145425.s0.e2" ontology_id="HP_0001250" text="epilepsy" type="HP"/>
+    <pair e1="28145425.s0.e0" e2="28145425.s0.e1" id="28145425.s0.p0" relation="true"/>
+    <pair e1="28145425.s0.e0" e2="28145425.s0.e2" id="28145425.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="28145425.s1" text="As previously observed in the mutant mouse carrying a disrupted protein tetramerization gene, these findings reveal that individuals with a KCNC1 loss-of-function variant can present intellectual disability without seizure and epilepsy">
+    <entity charOffset="64-87" id="28145425.s1.e0" ontology_id="GO_0051262" text="protein tetramerization" type="GO"/>
+    <entity charOffset="183-206" id="28145425.s1.e1" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <pair e1="28145425.s1.e0" e2="28145425.s1.e1" id="28145425.s1.p0" relation="true"/>
+  </sentence>
+</document>

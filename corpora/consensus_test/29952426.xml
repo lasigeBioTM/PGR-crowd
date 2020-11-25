@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="29952426">
+  <sentence id="29952426.s0" text="However, the ectopic expression of G protein-coupled receptor signaling pathway was recently discovered in intra-tumoral blood vessels endothelia and/or in tumoral cells of many extra-gonadal human tumors (particularly in endocrine tumours).">
+    <entity charOffset="35-79" id="29952426.s0.e0" ontology_id="GO_0007186" text="G protein-coupled receptor signaling pathway" type="GO"/>
+    <entity charOffset="198-204" id="29952426.s0.e1" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <pair e1="29952426.s0.e0" e2="29952426.s0.e1" id="29952426.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29952426.s1" text="The paper reviews the data concerning the appearance of ectopic G protein-coupled receptor signaling pathway in particular human neoplasms.">
+    <entity charOffset="64-108" id="29952426.s1.e0" ontology_id="GO_0007186" text="G protein-coupled receptor signaling pathway" type="GO"/>
+    <entity charOffset="129-138" id="29952426.s1.e1" ontology_id="HP_0002664" text="neoplasms" type="HP"/>
+    <pair e1="29952426.s1.e0" e2="29952426.s1.e1" id="29952426.s1.p0" relation="false"/>
+  </sentence>
+</document>

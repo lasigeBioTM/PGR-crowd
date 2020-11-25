@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="25909288">
+  <sentence id="25909288.s0" text="protein hydroxylation knockdown in MDA-MB-231 breast cancer cells significantly impeded cell proliferation and resulted in the accumulation of G1 and G2/M cells by decreasing the mRNA levels of G1/S transition- and G2/M-related transcription factors and their target genes.">
+    <entity charOffset="0-21" id="25909288.s0.e0" ontology_id="GO_0018126" text="protein hydroxylation" type="GO"/>
+    <entity charOffset="53-59" id="25909288.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="25909288.s0.e0" e2="25909288.s0.e1" id="25909288.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="25909288.s1" text="We also confirmed that protein hydroxylation is highly expressed in breast cancer tissues by bioinformatic analysis and immunohistochemistry.">
+    <entity charOffset="23-44" id="25909288.s1.e0" ontology_id="GO_0018126" text="protein hydroxylation" type="GO"/>
+    <entity charOffset="75-81" id="25909288.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="25909288.s1.e0" e2="25909288.s1.e1" id="25909288.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="25909288.s2" text="Thus, we propose that protein hydroxylation is required for breast cancer cell proliferation and is associated with poor prognosis in breast cancer.">
+    <entity charOffset="22-43" id="25909288.s2.e0" ontology_id="GO_0018126" text="protein hydroxylation" type="GO"/>
+    <entity charOffset="67-73" id="25909288.s2.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="25909288.s2.e0" e2="25909288.s2.e1" id="25909288.s2.p0" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="26786290">
+  <sentence id="26786290.s0" text="The genes with the highest number of hypermethylated CpG sites in INRG M tumors are TERT, PCDHGA4, DLX5, and DLX6-antigen processing and presentation of peptide antigen via MHC class I1.">
+    <entity charOffset="73-78" id="26786290.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="114-184" id="26786290.s0.e1" ontology_id="GO_0002474" text="antigen processing and presentation of peptide antigen via MHC class I" type="GO"/>
+    <pair e1="26786290.s0.e0" e2="26786290.s0.e1" id="26786290.s0.p0" relation="false"/>
+  </sentence>
+</document>

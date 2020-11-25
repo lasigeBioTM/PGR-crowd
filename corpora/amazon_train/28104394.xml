@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28104394">
+  <sentence id="28104394.s0" text="The mutational analysis of the whole mitochondrial DNA revealed the presence of m.1555A&amp;gt;G mutation in MT-RNR1 gene associated to the m.8527A&amp;gt;G (p.M&amp;gt;V) and the m.8392C&amp;gt;T (p.136P&amp;gt;S) variations in the mitochondrial biological_process gene in patient1 and his family members with variable phenotype including hearing impairment.">
+    <entity charOffset="227-245" id="28104394.s0.e0" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="320-338" id="28104394.s0.e1" ontology_id="HP_0000365" text="hearing impairment" type="HP"/>
+    <pair e1="28104394.s0.e0" e2="28104394.s0.e1" id="28104394.s0.p0" relation="true"/>
+  </sentence>
+</document>

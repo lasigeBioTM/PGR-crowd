@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<document id="27983999">
+  <sentence id="27983999.s0" text="Our study indicates the novel nucleus organization p.W371G missense mutation causes infantile onset intellectual disability and cerebellar hypoplasia in recessive mode of inheritance.">
+    <entity charOffset="30-50" id="27983999.s0.e0" ontology_id="GO_0006997" text="nucleus organization" type="GO"/>
+    <entity charOffset="100-123" id="27983999.s0.e1" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <entity charOffset="128-149" id="27983999.s0.e2" ontology_id="HP_0001321" text="cerebellar hypoplasia" type="HP"/>
+    <entity charOffset="163-182" id="27983999.s0.e3" ontology_id="HP_0000005" text="mode of inheritance" type="HP"/>
+    <pair e1="27983999.s0.e0" e2="27983999.s0.e2" id="27983999.s0.p0" relation="true"/>
+    <pair e1="27983999.s0.e0" e2="27983999.s0.e1" id="27983999.s0.p1" relation="true"/>
+    <pair e1="27983999.s0.e0" e2="27983999.s0.e3" id="27983999.s0.p2" relation="true"/>
+  </sentence>
+  <sentence id="27983999.s1" text="Our findings imply that microcephaly is a variable phenotype in nucleus organization-related disease, suggest WDR73 to be a candidate gene of severe intellectual disability and cerebellar hypoplasia, and expand the molecular spectrum of WDR73-related disease">
+    <entity charOffset="24-36" id="27983999.s1.e0" ontology_id="HP_0000252" text="microcephaly" type="HP"/>
+    <entity charOffset="64-84" id="27983999.s1.e1" ontology_id="GO_0006997" text="nucleus organization" type="GO"/>
+    <pair e1="27983999.s1.e0" e2="27983999.s1.e1" id="27983999.s1.p0" relation="true"/>
+  </sentence>
+</document>

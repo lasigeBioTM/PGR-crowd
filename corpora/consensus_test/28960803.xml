@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="28960803">
+  <sentence id="28960803.s0" text="We present two new cases of Warsaw Breakage Syndrome (sister chromatid cohesion), an autosomal recessive cohesinopathy, in sisters aged 13 and 11 years who both had compound heterozygous mutations in DDX11.">
+    <entity charOffset="54-79" id="28960803.s0.e0" ontology_id="GO_0007062" text="sister chromatid cohesion" type="GO"/>
+    <entity charOffset="85-104" id="28960803.s0.e1" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+  </sentence>
+</document>

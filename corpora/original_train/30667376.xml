@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30667376">
+  <sentence id="30667376.s0" text="Genetic sequencing confirmed a homozygous R565Q missense mutation in the catalytic domain of phototransduction, visible light, a cone-specific phototransduction enzyme associated with achromatopsia in humans.">
+    <entity charOffset="93-125" id="30667376.s0.e0" ontology_id="GO_0007603" text="phototransduction, visible light" type="GO"/>
+    <entity charOffset="184-197" id="30667376.s0.e1" ontology_id="HP_0011516" text="achromatopsia" type="HP"/>
+    <pair e1="30667376.s0.e0" e2="30667376.s0.e1" id="30667376.s0.p0" relation="false"/>
+  </sentence>
+</document>

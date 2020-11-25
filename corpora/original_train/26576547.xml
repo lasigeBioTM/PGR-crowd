@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="26576547">
+  <sentence id="26576547.s0" text="Using whole-exome sequencing (WES), we identified four de novo variants in protein dephosphorylation in a total of seven unrelated individuals with intellectual disability (ID) and other shared clinical characteristics, including autism spectrum disorder, macrocephaly, hypotonia, seizures, and dysmorphic features.">
+    <entity charOffset="75-100" id="26576547.s0.e0" ontology_id="GO_0006470" text="protein dephosphorylation" type="GO"/>
+    <entity charOffset="148-171" id="26576547.s0.e1" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <entity charOffset="230-236" id="26576547.s0.e2" ontology_id="HP_0000717" text="autism" type="HP"/>
+    <entity charOffset="256-268" id="26576547.s0.e3" ontology_id="HP_0000256" text="macrocephaly" type="HP"/>
+    <entity charOffset="281-289" id="26576547.s0.e4" ontology_id="HP_0001250" text="seizures" type="HP"/>
+    <pair e1="26576547.s0.e0" e2="26576547.s0.e1" id="26576547.s0.p0" relation="true"/>
+    <pair e1="26576547.s0.e0" e2="26576547.s0.e2" id="26576547.s0.p1" relation="false"/>
+    <pair e1="26576547.s0.e0" e2="26576547.s0.e3" id="26576547.s0.p2" relation="true"/>
+    <pair e1="26576547.s0.e0" e2="26576547.s0.e4" id="26576547.s0.p3" relation="true"/>
+  </sentence>
+</document>

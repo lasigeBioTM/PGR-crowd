@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28913623">
+  <sentence id="28913623.s0" text="The known pathogenic molecules involved in ichthyosis syndromes with prominent hair abnormalities include SPINK5, ERCC2, transcription-coupled nucleotide-excision repair, GTF2H5, MPLKIP, ST14, CLDN1 and MBTPS2.">
+    <entity charOffset="79-97" id="28913623.s0.e0" ontology_id="HP_0001595" text="hair abnormalities" type="HP"/>
+    <entity charOffset="121-169" id="28913623.s0.e1" ontology_id="GO_0006283" text="transcription-coupled nucleotide-excision repair" type="GO"/>
+    <pair e1="28913623.s0.e0" e2="28913623.s0.e1" id="28913623.s0.p0" relation="true"/>
+  </sentence>
+</document>

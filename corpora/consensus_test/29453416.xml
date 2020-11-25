@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="29453416">
+  <sentence id="29453416.s0" text="The molecular basis of this condition started to be defined recently, and the genes related to the syndrome (ACTG2-heterozygous variant in sporadic cases; and MYH11 (myosin heavy chain 11), positive regulation of actin filament polymerization (leiomodin 1) and MYLK (myosin T cell costimulation chain (positive regulation of intracellular transport) kinase)-autosomal recessive inheritance), encode proteins involved in the smooth muscle contraction, supporting a myopathic basis for the disease.">
+    <entity charOffset="139-147" id="29453416.s0.e0" ontology_id="HP_0003745" text="sporadic" type="HP"/>
+    <entity charOffset="190-242" id="29453416.s0.e1" ontology_id="GO_0030838" text="positive regulation of actin filament polymerization" type="GO"/>
+    <entity charOffset="274-294" id="29453416.s0.e2" ontology_id="GO_0031295" text="T cell costimulation" type="GO"/>
+    <entity charOffset="302-348" id="29453416.s0.e3" ontology_id="GO_0032388" text="positive regulation of intracellular transport" type="GO"/>
+    <entity charOffset="378-389" id="29453416.s0.e4" ontology_id="HP_0000005" text="inheritance" type="HP"/>
+    <pair e1="29453416.s0.e0" e2="29453416.s0.e1" id="29453416.s0.p0" relation="false"/>
+    <pair e1="29453416.s0.e3" e2="29453416.s0.e4" id="29453416.s0.p1" relation="false"/>
+  </sentence>
+</document>

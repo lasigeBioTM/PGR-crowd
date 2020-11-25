@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<document id="27320698">
+  <sentence id="27320698.s0" text="The eye features were a notable part of this child's presentation and mutations in the linkeropathy genes (proteoglycan biosynthetic process, heparan sulfate proteoglycan biosynthetic process, B4GALT7, glycosaminoglycan biosynthetic process, and glycosaminoglycan biosynthetic process) can be associated with ocular findings, including blue sclerae, refractive errors, corneal clouding, strabismus, nystagmus, cataracts, glaucoma, and retinal abnormalities, including retinal detachment.">
+    <entity charOffset="107-140" id="27320698.s0.e0" ontology_id="GO_0030166" text="proteoglycan biosynthetic process" type="GO"/>
+    <entity charOffset="142-191" id="27320698.s0.e1" ontology_id="GO_0015012" text="heparan sulfate proteoglycan biosynthetic process" type="GO"/>
+    <entity charOffset="202-240" id="27320698.s0.e2" ontology_id="GO_0006024" text="glycosaminoglycan biosynthetic process" type="GO"/>
+    <entity charOffset="246-284" id="27320698.s0.e3" ontology_id="GO_0006024" text="glycosaminoglycan biosynthetic process" type="GO"/>
+    <entity charOffset="369-385" id="27320698.s0.e4" ontology_id="HP_0007957" text="corneal clouding" type="HP"/>
+    <entity charOffset="387-397" id="27320698.s0.e5" ontology_id="HP_0000486" text="strabismus" type="HP"/>
+    <entity charOffset="410-419" id="27320698.s0.e6" ontology_id="HP_0000518" text="cataracts" type="HP"/>
+    <entity charOffset="421-429" id="27320698.s0.e7" ontology_id="HP_0000501" text="glaucoma" type="HP"/>
+    <entity charOffset="468-486" id="27320698.s0.e8" ontology_id="HP_0000541" text="retinal detachment" type="HP"/>
+    <pair e1="27320698.s0.e0" e2="27320698.s0.e6" id="27320698.s0.p0" relation="true"/>
+    <pair e1="27320698.s0.e0" e2="27320698.s0.e8" id="27320698.s0.p1" relation="false"/>
+    <pair e1="27320698.s0.e1" e2="27320698.s0.e4" id="27320698.s0.p2" relation="true"/>
+    <pair e1="27320698.s0.e1" e2="27320698.s0.e5" id="27320698.s0.p3" relation="false"/>
+    <pair e1="27320698.s0.e2" e2="27320698.s0.e5" id="27320698.s0.p4" relation="true"/>
+    <pair e1="27320698.s0.e3" e2="27320698.s0.e4" id="27320698.s0.p5" relation="false"/>
+    <pair e1="27320698.s0.e3" e2="27320698.s0.e8" id="27320698.s0.p6" relation="true"/>
+    <pair e1="27320698.s0.e3" e2="27320698.s0.e7" id="27320698.s0.p7" relation="true"/>
+  </sentence>
+</document>

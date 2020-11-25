@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28359976">
+  <sentence id="28359976.s0" text="We found that hypermethylation of mitotic cytokinesis and reduced gene expression was prevalent in several types of human cancers.">
+    <entity charOffset="34-53" id="28359976.s0.e0" ontology_id="GO_0000281" text="mitotic cytokinesis" type="GO"/>
+    <entity charOffset="122-128" id="28359976.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28359976.s0.e0" e2="28359976.s0.e1" id="28359976.s0.p0" relation="true"/>
+  </sentence>
+</document>

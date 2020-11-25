@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="25869670">
+  <sentence id="25869670.s0" text="Consistent with a role in transition zone function, mutation of mouse Tmem231 disrupts the localization of proteins including Arl13b and Inpp5e to cilia, resulting in phenomuscle organ developments characteristic of MKS such as polydactyly and kidney cysts.">
+    <entity charOffset="172-196" id="25869670.s0.e0" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="228-239" id="25869670.s0.e1" ontology_id="HP_0010442" text="polydactyly" type="HP"/>
+  </sentence>
+</document>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="29073238">
+  <sentence id="29073238.s0" text="Reproductive aging phenotypes, including age at menarche (AM) and age at natural menopause (negative regulation of muscle contraction), are well-established risk factors for breast cancer.">
+    <entity charOffset="92-133" id="29073238.s0.e0" ontology_id="GO_0045932" text="negative regulation of muscle contraction" type="GO"/>
+    <entity charOffset="181-187" id="29073238.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29073238.s0.e0" e2="29073238.s0.e1" id="29073238.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="29073238.s1" text="Using data from the Women's Circle of Health Study (WCHS) of 1,307 European-American (EA) and 1,365 African-American (AA) breast cancer cases and controls, we aimed to replicate 53 earlier GWAS variants for AM and ANM in AA and EA groups and to perform analyses on total and negative regulation of transcription, DNA-templated reproductive lifespan (TRLS; NRLS).">
+    <entity charOffset="129-135" id="29073238.s1.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="275-326" id="29073238.s1.e1" ontology_id="GO_0045892" text="negative regulation of transcription, DNA-templated" type="GO"/>
+    <pair e1="29073238.s1.e0" e2="29073238.s1.e1" id="29073238.s1.p0" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="26506440">
+  <sentence id="26506440.s0" text="De novo loss of function (LOF) mutations in the transcription, DNA-templated gene cause Bainbridge-Ropers syndrome, a severe form of intellectual disability (ID) and developmental delay, but there is evidence that they also occur in healthy individuals.">
+    <entity charOffset="48-76" id="26506440.s0.e0" ontology_id="GO_0006351" text="transcription, DNA-templated" type="GO"/>
+    <entity charOffset="133-156" id="26506440.s0.e1" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <entity charOffset="166-185" id="26506440.s0.e2" ontology_id="HP_0001263" text="developmental delay" type="HP"/>
+    <pair e1="26506440.s0.e0" e2="26506440.s0.e1" id="26506440.s0.p0" relation="true"/>
+    <pair e1="26506440.s0.e0" e2="26506440.s0.e2" id="26506440.s0.p1" relation="true"/>
+  </sentence>
+</document>

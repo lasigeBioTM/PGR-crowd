@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<document id="28591699">
+  <sentence id="28591699.s0" text="Leiomyoma of deep soft tissue is a rare muscle organ development of benign smooth muscle tumor that mostly occurs in the retroperitoneum or abdominal cavity of women, and about which very little genetic information exists.">
+    <entity charOffset="40-64" id="28591699.s0.e0" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="89-94" id="28591699.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28591699.s0.e0" e2="28591699.s0.e1" id="28591699.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="28591699.s1" text="G-banding showed that three tumors carried rearrangements of the long cilium assembly of chromosome 12, three others had 8q rearrangements, the 7th tumor had deletion of the long arm of chromosome 7, del(7)(q22), and the 8th had aberrations of chromosome bands 3q21~23 and 11q21~22.">
+    <entity charOffset="28-33" id="28591699.s1.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="70-85" id="28591699.s1.e1" ontology_id="GO_0060271" text="cilium assembly" type="GO"/>
+    <pair e1="28591699.s1.e0" e2="28591699.s1.e1" id="28591699.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="28591699.s2" text="In the leiomyomas with 12q rearrangements, both HMGA2 and positive regulation of transcription by RNA polymerase II were expressed whereas in the tumors with 8q aberrations, only PLAG1 was expressed.">
+    <entity charOffset="58-115" id="28591699.s2.e0" ontology_id="GO_0045944" text="positive regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="146-151" id="28591699.s2.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28591699.s2.e0" e2="28591699.s2.e1" id="28591699.s2.p0" relation="true"/>
+  </sentence>
+  <sentence id="28591699.s3" text="In two tumors with 12q rearrangements, RPSAP52 on 12q14.3 was fused with non-coding RNA (accession number XR_944195) from 14q32.2 or MAPK cascade from14q24.1.">
+    <entity charOffset="7-12" id="28591699.s3.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="133-145" id="28591699.s3.e1" ontology_id="GO_0000165" text="MAPK cascade" type="GO"/>
+    <pair e1="28591699.s3.e0" e2="28591699.s3.e1" id="28591699.s3.p0" relation="false"/>
+  </sentence>
+</document>

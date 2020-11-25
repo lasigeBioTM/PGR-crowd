@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<document id="25357075">
+  <sentence id="25357075.s0" text="Mutations in the membrane frizzled-related protein (MFRP/embryo development ending in birth or egg hatching) gene, specifically expressed in the retinal pigment epithelium (carbohydrate metabolic process) and ciliary body, cause nanophthalmia or posterior microphthalmia with retinitis pigmentosa in humans, and photoreceptor degeneration in epidermis development.">
+    <entity charOffset="57-107" id="25357075.s0.e0" ontology_id="GO_0009792" text="embryo development ending in birth or egg hatching" type="GO"/>
+    <entity charOffset="173-203" id="25357075.s0.e1" ontology_id="GO_0005975" text="carbohydrate metabolic process" type="GO"/>
+    <entity charOffset="256-270" id="25357075.s0.e2" ontology_id="HP_0000568" text="microphthalmia" type="HP"/>
+    <entity charOffset="342-363" id="25357075.s0.e3" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <pair e1="25357075.s0.e0" e2="25357075.s0.e2" id="25357075.s0.p0" relation="true"/>
+    <pair e1="25357075.s0.e1" e2="25357075.s0.e2" id="25357075.s0.p1" relation="false"/>
+  </sentence>
+  <sentence id="25357075.s1" text="In Mfrprd6 eyes, a significant 1.5- to 2.0-fold decrease was observed among transcripts of genes linked to retinal degeneration, including those involved in visual cycle (Rpe65, retinol metabolic process, visual perception), phototransduction (Pde6a, Guca1b, negative regulation of signal transduction), and photoreceptor disc morphogenesis (visual perception and Fscn2).">
+    <entity charOffset="107-127" id="25357075.s1.e0" ontology_id="HP_0000546" text="retinal degeneration" type="HP"/>
+    <entity charOffset="178-203" id="25357075.s1.e1" ontology_id="GO_0042572" text="retinol metabolic process" type="GO"/>
+    <entity charOffset="205-222" id="25357075.s1.e2" ontology_id="GO_0007601" text="visual perception" type="GO"/>
+    <entity charOffset="259-301" id="25357075.s1.e3" ontology_id="GO_0009968" text="negative regulation of signal transduction" type="GO"/>
+    <entity charOffset="342-359" id="25357075.s1.e4" ontology_id="GO_0007601" text="visual perception" type="GO"/>
+    <pair e1="25357075.s1.e0" e2="25357075.s1.e4" id="25357075.s1.p0" relation="false"/>
+    <pair e1="25357075.s1.e0" e2="25357075.s1.e1" id="25357075.s1.p1" relation="true"/>
+    <pair e1="25357075.s1.e0" e2="25357075.s1.e2" id="25357075.s1.p2" relation="true"/>
+    <pair e1="25357075.s1.e0" e2="25357075.s1.e3" id="25357075.s1.p3" relation="true"/>
+  </sentence>
+  <sentence id="25357075.s2" text="Transcripts of Prss56, a gene associated with angle-closure glaucoma, posterior microphthalmia and myopia, were increased in embryo development ending in birth or egg hatchingrd6 eyes by 17-fold.">
+    <entity charOffset="80-94" id="25357075.s2.e0" ontology_id="HP_0000568" text="microphthalmia" type="HP"/>
+    <entity charOffset="125-175" id="25357075.s2.e1" ontology_id="GO_0009792" text="embryo development ending in birth or egg hatching" type="GO"/>
+    <pair e1="25357075.s2.e0" e2="25357075.s2.e1" id="25357075.s2.p0" relation="true"/>
+  </sentence>
+</document>

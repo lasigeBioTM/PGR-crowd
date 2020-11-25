@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="28254648">
+  <sentence id="28254648.s0" text="Recently mutations in the central nervous system myelination/CNTN1 complex have been associated with similar severe phenotypes and central nervous system myelination gene mutations, causing loss of the CASPR protein, were shown to cause severe, prenatal onset arthrogryposis multiplex congenita in four unrelated families.">
+    <entity charOffset="26-60" id="28254648.s0.e0" ontology_id="GO_0022010" text="central nervous system myelination" type="GO"/>
+    <entity charOffset="131-165" id="28254648.s0.e1" ontology_id="GO_0022010" text="central nervous system myelination" type="GO"/>
+    <entity charOffset="245-259" id="28254648.s0.e2" ontology_id="HP_0003577" text="prenatal onset" type="HP"/>
+    <entity charOffset="260-274" id="28254648.s0.e3" ontology_id="HP_0002804" text="arthrogryposis" type="HP"/>
+    <pair e1="28254648.s0.e0" e2="28254648.s0.e3" id="28254648.s0.p0" relation="true"/>
+    <pair e1="28254648.s0.e0" e2="28254648.s0.e2" id="28254648.s0.p1" relation="false"/>
+    <pair e1="28254648.s0.e1" e2="28254648.s0.e3" id="28254648.s0.p2" relation="true"/>
+    <pair e1="28254648.s0.e1" e2="28254648.s0.e2" id="28254648.s0.p3" relation="false"/>
+  </sentence>
+  <sentence id="28254648.s1" text="We further expand the existing central nervous system myelination-associated phenotype to include profound cerebral and cerebellar atrophy">
+    <entity charOffset="31-65" id="28254648.s1.e0" ontology_id="GO_0022010" text="central nervous system myelination" type="GO"/>
+    <entity charOffset="98-106" id="28254648.s1.e1" ontology_id="HP_0012829" text="profound" type="HP"/>
+    <pair e1="28254648.s1.e0" e2="28254648.s1.e1" id="28254648.s1.p0" relation="false"/>
+  </sentence>
+</document>

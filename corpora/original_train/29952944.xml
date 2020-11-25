@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29952944">
+  <sentence id="29952944.s0" text="No differences were found in age, multicellular organism development, mean arterial pressure, heart rate, HDL, cirrhosis etiology, degree of alcohol consumption, encephalopathy, variceal bleeding history, or hepatocellular carcinoma between patients with or without adrenal insufficiency.">
+    <entity charOffset="34-68" id="29952944.s0.e0" ontology_id="GO_0007275" text="multicellular organism development" type="GO"/>
+    <entity charOffset="162-176" id="29952944.s0.e1" ontology_id="HP_0001298" text="encephalopathy" type="HP"/>
+    <pair e1="29952944.s0.e0" e2="29952944.s0.e1" id="29952944.s0.p0" relation="false"/>
+  </sentence>
+</document>

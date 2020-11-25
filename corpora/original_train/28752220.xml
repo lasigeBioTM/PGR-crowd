@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28752220">
+  <sentence id="28752220.s0" text="Therefore, hypertrophic cardiomyopathy and tubulopathy may not be considered as constant features of mitochondrial translational elongation.">
+    <entity charOffset="24-38" id="28752220.s0.e0" ontology_id="HP_0001638" text="cardiomyopathy" type="HP"/>
+    <entity charOffset="101-139" id="28752220.s0.e1" ontology_id="GO_0070125" text="mitochondrial translational elongation" type="GO"/>
+    <pair e1="28752220.s0.e0" e2="28752220.s0.e1" id="28752220.s0.p0" relation="true"/>
+  </sentence>
+</document>

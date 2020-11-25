@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="23063620">
+  <sentence id="23063620.s0" text="We describe five affected individuals with similar dysmorphic facies, and three of them had either complete situs inversus, dextrocardia, or transposition of the G protein-coupled receptor signaling pathway arteries; similar cardiac abnormalities were previously identified in a mouse mutant for the orthologous limb morphogenesis.">
+    <entity charOffset="51-68" id="23063620.s0.e0" ontology_id="HP_0001999" text="dysmorphic facies" type="HP"/>
+    <entity charOffset="124-136" id="23063620.s0.e1" ontology_id="HP_0001651" text="dextrocardia" type="HP"/>
+    <entity charOffset="162-206" id="23063620.s0.e2" ontology_id="GO_0007186" text="G protein-coupled receptor signaling pathway" type="GO"/>
+    <entity charOffset="225-246" id="23063620.s0.e3" ontology_id="HP_0001627" text="cardiac abnormalities" type="HP"/>
+    <entity charOffset="312-330" id="23063620.s0.e4" ontology_id="GO_0035108" text="limb morphogenesis" type="GO"/>
+    <pair e1="23063620.s0.e0" e2="23063620.s0.e4" id="23063620.s0.p0" relation="true"/>
+    <pair e1="23063620.s0.e1" e2="23063620.s0.e4" id="23063620.s0.p1" relation="true"/>
+    <pair e1="23063620.s0.e3" e2="23063620.s0.e4" id="23063620.s0.p2" relation="true"/>
+  </sentence>
+</document>

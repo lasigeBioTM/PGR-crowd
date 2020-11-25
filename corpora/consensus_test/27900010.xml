@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="27900010">
+  <sentence id="27900010.s0" text="In humans, &lt;i&gt;negative regulation of cell proliferation&lt;/i&gt; is the gene responsible for the disease neurofibromatosis muscle organ development II, which results in the development of brain tumors, including acoustic neurinoma and meningioma.">
+    <entity charOffset="14-55" id="27900010.s0.e0" ontology_id="GO_0008285" text="negative regulation of cell proliferation" type="GO"/>
+    <entity charOffset="100-117" id="27900010.s0.e1" ontology_id="HP_0001067" text="neurofibromatosis" type="HP"/>
+    <entity charOffset="118-142" id="27900010.s0.e2" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <pair e1="27900010.s0.e0" e2="27900010.s0.e1" id="27900010.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="27900010.s1" text="It was hypothesized that the whorl formation of meningiomas may occur as a result of a disturbance in the planar cell polarity (biological_process) of arachnoid cells, thus, genes understood to govern PCP signaling were analyzed for alterations.">
+    <entity charOffset="48-59" id="27900010.s1.e0" ontology_id="HP_0002858" text="meningiomas" type="HP"/>
+    <entity charOffset="128-146" id="27900010.s1.e1" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+  </sentence>
+</document>

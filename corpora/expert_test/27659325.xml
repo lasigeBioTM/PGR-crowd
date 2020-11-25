@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27659325">
+  <sentence id="27659325.s0" text="The aim of the study was to understand the role of SLIT2-ROBO1/2-actin cytoskeleton organization signalling pathways in development of breast cancer (BC).">
+    <entity charOffset="65-96" id="27659325.s0.e0" ontology_id="GO_0030036" text="actin cytoskeleton organization" type="GO"/>
+    <entity charOffset="142-148" id="27659325.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27659325.s0.e0" e2="27659325.s0.e1" id="27659325.s0.p0" relation="true"/>
+  </sentence>
+</document>

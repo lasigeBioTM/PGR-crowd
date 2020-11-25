@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<document id="26725848">
+  <sentence id="26725848.s0" text="While a distinct negative regulation of transcription, DNA-templated of processes drive metastasis when compared to tumorigenesis, it is yet unclear if genetic alterations in metabolic pathways are associated with metastatic progression of human cancers.">
+    <entity charOffset="17-68" id="26725848.s0.e0" ontology_id="GO_0045892" text="negative regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="246-252" id="26725848.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="26725848.s0.e0" e2="26725848.s0.e1" id="26725848.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="26725848.s1" text="Here, we analyzed the mutation, copy number variation and gene expression patterns of a literature-derived model of metabolic genes associated with glycolysis (Warburg effect), fatty acid metabolism (lipogenesis, oxidation, lipolysis, esterification) and fatty acid uptake in &amp;gt;9000 primary or metastatic tumor samples from the multi-cancer TCGA datanegative regulation of transcription, DNA-templateds.">
+    <entity charOffset="307-312" id="26725848.s1.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="336-342" id="26725848.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="352-403" id="26725848.s1.e2" ontology_id="GO_0045892" text="negative regulation of transcription, DNA-templated" type="GO"/>
+    <pair e1="26725848.s1.e0" e2="26725848.s1.e2" id="26725848.s1.p0" relation="false"/>
+    <pair e1="26725848.s1.e1" e2="26725848.s1.e2" id="26725848.s1.p1" relation="false"/>
+  </sentence>
+  <sentence id="26725848.s2" text="Our association analysis revealed a uniform pattern of Warburg effect mutations influencing prognosis across all tumor types, while copy number alterations in the electron transport chain gene eye development, fatty acid uptake (response to bacterium, CD36) and lipogenesis (PPARA, PPARD, positive regulation of cell proliferation) genes were enriched in metastatic tumors.">
+    <entity charOffset="113-118" id="26725848.s2.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="193-208" id="26725848.s2.e1" ontology_id="GO_0001654" text="eye development" type="GO"/>
+    <entity charOffset="229-250" id="26725848.s2.e2" ontology_id="GO_0009617" text="response to bacterium" type="GO"/>
+    <entity charOffset="289-330" id="26725848.s2.e3" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <pair e1="26725848.s2.e0" e2="26725848.s2.e1" id="26725848.s2.p0" relation="false"/>
+    <pair e1="26725848.s2.e0" e2="26725848.s2.e2" id="26725848.s2.p1" relation="false"/>
+    <pair e1="26725848.s2.e0" e2="26725848.s2.e3" id="26725848.s2.p2" relation="false"/>
+  </sentence>
+  <sentence id="26725848.s3" text="Using gene expression profiles, we established a gene-signature (response to bacterium, CD36, positive regulation of cell proliferation, fatty acid beta-oxidation, monoterpenoid metabolic process) that strongly associated with epithelial-mesenchymal program across multiple cancers.">
+    <entity charOffset="65-86" id="26725848.s3.e0" ontology_id="GO_0009617" text="response to bacterium" type="GO"/>
+    <entity charOffset="94-135" id="26725848.s3.e1" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <entity charOffset="137-162" id="26725848.s3.e2" ontology_id="GO_0006635" text="fatty acid beta-oxidation" type="GO"/>
+    <entity charOffset="164-195" id="26725848.s3.e3" ontology_id="GO_0016098" text="monoterpenoid metabolic process" type="GO"/>
+    <entity charOffset="274-280" id="26725848.s3.e4" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="26725848.s3.e0" e2="26725848.s3.e4" id="26725848.s3.p0" relation="false"/>
+    <pair e1="26725848.s3.e1" e2="26725848.s3.e4" id="26725848.s3.p1" relation="false"/>
+    <pair e1="26725848.s3.e2" e2="26725848.s3.e4" id="26725848.s3.p2" relation="false"/>
+    <pair e1="26725848.s3.e3" e2="26725848.s3.e4" id="26725848.s3.p3" relation="false"/>
+  </sentence>
+</document>

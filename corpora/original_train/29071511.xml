@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<document id="29071511">
+  <sentence id="29071511.s0" text="The most common and severe form, primary hyperoxaluria Type I, is due to the deficit of liver peroxisomal alanine/glyoxylate aminotransferase (glyoxylate catabolic process).">
+    <entity charOffset="41-54" id="29071511.s0.e0" ontology_id="HP_0003159" text="hyperoxaluria" type="HP"/>
+    <entity charOffset="143-171" id="29071511.s0.e1" ontology_id="GO_0009436" text="glyoxylate catabolic process" type="GO"/>
+    <pair e1="29071511.s0.e0" e2="29071511.s0.e1" id="29071511.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29071511.s1" text="Primary hyperoxaluria muscle organ development II and primary hyperoxaluria Type III are due to the deficit of glyoxylate reductase/hydroxypyruvate reductase (glyoxylate metabolic process) and 4-hydroxy-2-oxoglutarate aldolase (4-hydroxyproline catabolic process), respectively.">
+    <entity charOffset="8-21" id="29071511.s1.e0" ontology_id="HP_0003159" text="hyperoxaluria" type="HP"/>
+    <entity charOffset="22-46" id="29071511.s1.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="159-187" id="29071511.s1.e2" ontology_id="GO_0046487" text="glyoxylate metabolic process" type="GO"/>
+    <entity charOffset="228-262" id="29071511.s1.e3" ontology_id="GO_0019470" text="4-hydroxyproline catabolic process" type="GO"/>
+    <pair e1="29071511.s1.e0" e2="29071511.s1.e1" id="29071511.s1.p0" relation="false"/>
+    <pair e1="29071511.s1.e0" e2="29071511.s1.e2" id="29071511.s1.p1" relation="true"/>
+    <pair e1="29071511.s1.e0" e2="29071511.s1.e3" id="29071511.s1.p2" relation="true"/>
+  </sentence>
+</document>

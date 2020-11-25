@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="29712898">
+  <sentence id="29712898.s0" text="Here we show that a series of transcription fcoenzyme A biosynthetic processors, including C/EBPβ, GCM1, and GATA1, could act as potential modulators of histone methylation in tumor cells.">
+    <entity charOffset="45-76" id="29712898.s0.e0" ontology_id="GO_0015937" text="coenzyme A biosynthetic process" type="GO"/>
+    <entity charOffset="176-181" id="29712898.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+  </sentence>
+  <sentence id="29712898.s1" text="By recruiting the methyltransferase positive regulation of cell proliferation, C/EBPβ can maintain an open chromatin state by H3K79 methylation of multiple drug-resistance genes, thereby augmenting the chemoresistance of tumor cells.">
+    <entity charOffset="36-77" id="29712898.s1.e0" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <entity charOffset="221-226" id="29712898.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29712898.s1.e0" e2="29712898.s1.e1" id="29712898.s1.p0" relation="true"/>
+  </sentence>
+</document>

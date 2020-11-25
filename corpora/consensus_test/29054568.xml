@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<document id="29054568">
+  <sentence id="29054568.s0" text="Identifying genetic risk alleles for ovarian cancer has had a significant negative regulation of transcription by RNA polymerase II on disease prevention strategies; for example it is now routine clinical practice for individuals with germline double-strand break repair via homologous recombination and mitotic cytokinesis mutations to undergo risk reducing salpingo-oophorectomy.">
+    <entity charOffset="45-51" id="29054568.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="74-131" id="29054568.s0.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="244-299" id="29054568.s0.e2" ontology_id="GO_0000724" text="double-strand break repair via homologous recombination" type="GO"/>
+    <entity charOffset="304-323" id="29054568.s0.e3" ontology_id="GO_0000281" text="mitotic cytokinesis" type="GO"/>
+    <pair e1="29054568.s0.e0" e2="29054568.s0.e2" id="29054568.s0.p0" relation="true"/>
+    <pair e1="29054568.s0.e0" e2="29054568.s0.e3" id="29054568.s0.p1" relation="true"/>
+  </sentence>
+</document>

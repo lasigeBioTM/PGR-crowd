@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="28470677">
+  <sentence id="28470677.s0" text="According to The Cancer Genome Atlas data and our previous RNA-sequencing data, the mRNA expression level of negative regulation of translational initiation but not N-acetylglucosamine metabolic process, L-methylmalonyl-CoA metabolic process or monocyte activation involved in immune response was significantly lower in pancreatic tumors than in normal adjacent tissues.">
+    <entity charOffset="109-156" id="28470677.s0.e0" ontology_id="GO_0045947" text="negative regulation of translational initiation" type="GO"/>
+    <entity charOffset="165-202" id="28470677.s0.e1" ontology_id="GO_0006044" text="N-acetylglucosamine metabolic process" type="GO"/>
+    <entity charOffset="204-241" id="28470677.s0.e2" ontology_id="GO_0046491" text="L-methylmalonyl-CoA metabolic process" type="GO"/>
+    <entity charOffset="245-292" id="28470677.s0.e3" ontology_id="GO_0002280" text="monocyte activation involved in immune response" type="GO"/>
+    <entity charOffset="331-337" id="28470677.s0.e4" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <pair e1="28470677.s0.e0" e2="28470677.s0.e4" id="28470677.s0.p0" relation="false"/>
+    <pair e1="28470677.s0.e1" e2="28470677.s0.e4" id="28470677.s0.p1" relation="false"/>
+    <pair e1="28470677.s0.e2" e2="28470677.s0.e4" id="28470677.s0.p2" relation="false"/>
+    <pair e1="28470677.s0.e3" e2="28470677.s0.e4" id="28470677.s0.p3" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="29892902">
+  <sentence id="29892902.s0" text="As the first report in Korea, this study identified three vesicle-mediated transport mutations as the underlying cause of axonal peripheral neuropathy with or without the HSP phenotype.">
+    <entity charOffset="58-84" id="29892902.s0.e0" ontology_id="GO_0016192" text="vesicle-mediated transport" type="GO"/>
+    <entity charOffset="129-139" id="29892902.s0.e1" ontology_id="HP_0030646" text="peripheral" type="HP"/>
+    <entity charOffset="140-150" id="29892902.s0.e2" ontology_id="HP_0009830" text="neuropathy" type="HP"/>
+    <pair e1="29892902.s0.e0" e2="29892902.s0.e2" id="29892902.s0.p0" relation="true"/>
+    <pair e1="29892902.s0.e0" e2="29892902.s0.e1" id="29892902.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="29892902.s1" text="Mutations in the vesicle-mediated transport showed a wide phenotypic spectrum from hereditary spastic paraplegia (HSP) to axonal Charcot-Marie-Tooth peripheral neuropathy type 2 (CMT2).">
+    <entity charOffset="17-43" id="29892902.s1.e0" ontology_id="GO_0016192" text="vesicle-mediated transport" type="GO"/>
+    <entity charOffset="149-159" id="29892902.s1.e1" ontology_id="HP_0030646" text="peripheral" type="HP"/>
+    <pair e1="29892902.s1.e0" e2="29892902.s1.e1" id="29892902.s1.p0" relation="true"/>
+  </sentence>
+</document>

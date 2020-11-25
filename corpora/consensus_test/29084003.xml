@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="29084003">
+  <sentence id="29084003.s0" text="Furthermore, we identified some potential lung cancer driver genes, such as negative regulation of transcription by RNA polymerase II, G1/S transition of mitotic cell cycle, SLC2A1, protein phosphorylation, and CDC20, whose expression is significantly upregulated in lung cancer, and the copy number of these genes is amplified in the genome of patients with lung cancer.">
+    <entity charOffset="47-53" id="29084003.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="76-133" id="29084003.s0.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="135-172" id="29084003.s0.e2" ontology_id="GO_0000082" text="G1/S transition of mitotic cell cycle" type="GO"/>
+    <entity charOffset="182-205" id="29084003.s0.e3" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <pair e1="29084003.s0.e0" e2="29084003.s0.e2" id="29084003.s0.p0" relation="true"/>
+    <pair e1="29084003.s0.e0" e2="29084003.s0.e3" id="29084003.s0.p1" relation="true"/>
+    <pair e1="29084003.s0.e0" e2="29084003.s0.e1" id="29084003.s0.p2" relation="true"/>
+  </sentence>
+</document>

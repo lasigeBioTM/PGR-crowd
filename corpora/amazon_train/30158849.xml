@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="30158849">
+  <sentence id="30158849.s0" text="Homozygous null mutation of tumor suppressor &lt;i&gt;WWOX/negative regulation of Wnt signaling pathway&lt;/i&gt; gene leads to severe neural diseases, metabolic disorders and early death in the newborns of humans, epidermis development and rats.">
+    <entity charOffset="28-33" id="30158849.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="53-97" id="30158849.s0.e1" ontology_id="GO_0030178" text="negative regulation of Wnt signaling pathway" type="GO"/>
+    <entity charOffset="203-224" id="30158849.s0.e2" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <pair e1="30158849.s0.e0" e2="30158849.s0.e1" id="30158849.s0.p0" relation="true"/>
+    <pair e1="30158849.s0.e0" e2="30158849.s0.e2" id="30158849.s0.p1" relation="true"/>
+  </sentence>
+  <sentence id="30158849.s1" text="&lt;i&gt;In vitro&lt;/i&gt; analysis revealed that knockdown of negative regulation of Wnt signaling pathway protein in neuroblastoma cells results in aggregation of TRAPPC6AΔ, I-kappaB kinase/NF-kappaB signaling, amyloid β, and microtubule cytoskeleton organization in a sequential manner.">
+    <entity charOffset="52-96" id="30158849.s1.e0" ontology_id="GO_0030178" text="negative regulation of Wnt signaling pathway" type="GO"/>
+    <entity charOffset="108-121" id="30158849.s1.e1" ontology_id="HP_0003006" text="neuroblastoma" type="HP"/>
+    <entity charOffset="165-200" id="30158849.s1.e2" ontology_id="GO_0007249" text="I-kappaB kinase/NF-kappaB signaling" type="GO"/>
+    <entity charOffset="217-254" id="30158849.s1.e3" ontology_id="GO_0000226" text="microtubule cytoskeleton organization" type="GO"/>
+    <pair e1="30158849.s1.e0" e2="30158849.s1.e1" id="30158849.s1.p0" relation="true"/>
+    <pair e1="30158849.s1.e1" e2="30158849.s1.e2" id="30158849.s1.p1" relation="true"/>
+  </sentence>
+</document>

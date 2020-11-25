@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="26300425">
+  <sentence id="26300425.s0" text="In clinical practices, the therapeutic outcomes and prognosis of hepatocellular carcinoma (phosphatidylinositol phosphorylation) patients with different tumor numbers after surgery are very different; however, the underlying mechanisms of the tumorigenesis and development of HCC with different tumor numbers are still not well understood.">
+    <entity charOffset="65-89" id="26300425.s0.e0" ontology_id="HP_0001402" text="hepatocellular carcinoma" type="HP"/>
+    <entity charOffset="91-127" id="26300425.s0.e1" ontology_id="GO_0046854" text="phosphatidylinositol phosphorylation" type="GO"/>
+    <entity charOffset="153-158" id="26300425.s0.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="26300425.s0.e1" e2="26300425.s0.e2" id="26300425.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="26300425.s1" text="These information revealed that there might be different molecular mechanisms of the tumorigenesis and development of the phosphatidylinositol phosphorylation with single and multiple lesions.">
+    <entity charOffset="85-90" id="26300425.s1.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="122-158" id="26300425.s1.e1" ontology_id="GO_0046854" text="phosphatidylinositol phosphorylation" type="GO"/>
+    <pair e1="26300425.s1.e0" e2="26300425.s1.e1" id="26300425.s1.p0" relation="true"/>
+  </sentence>
+</document>

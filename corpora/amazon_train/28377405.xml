@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28377405">
+  <sentence id="28377405.s0" text="Although open hERG1 channels did not interact as strongly with β&lt;sub&gt;1&lt;/sub&gt; integrins as did closed channels, current flow through hERG1 channels was necessary to activate the integrin-dependent phosphorylation of Tyr&lt;sup&gt;397&lt;/sup&gt; in focal adhesion kinase (transforming growth factor beta receptor signaling pathway) in both normal and cancer cells.">
+    <entity charOffset="259-317" id="28377405.s0.e0" ontology_id="GO_0007179" text="transforming growth factor beta receptor signaling pathway" type="GO"/>
+    <entity charOffset="338-344" id="28377405.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28377405.s0.e0" e2="28377405.s0.e1" id="28377405.s0.p0" relation="true"/>
+  </sentence>
+</document>

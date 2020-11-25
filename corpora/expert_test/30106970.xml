@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="30106970">
+  <sentence id="30106970.s0" text="Succinate dehydrogenase subunit B and D (SDHB and tricarboxylic acid cycle) mutations represent the most frequent cause of hereditary pheochromocytoma and paraganglioma (PPGL).">
+    <entity charOffset="50-74" id="30106970.s0.e0" ontology_id="GO_0006099" text="tricarboxylic acid cycle" type="GO"/>
+    <entity charOffset="155-168" id="30106970.s0.e1" ontology_id="HP_0002668" text="paraganglioma" type="HP"/>
+    <pair e1="30106970.s0.e0" e2="30106970.s0.e1" id="30106970.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="30106970.s1" text="In tricarboxylic acid cycle-related syndrome, PPGL maintenance seems to be reduced compared to tricarboxylic acid cycle (p = 0.04 vs 0.95) due to higher probability of tumor cell regression in SDHB vs SDHD (p = 0.87 vs 0.00).">
+    <entity charOffset="3-27" id="30106970.s1.e0" ontology_id="GO_0006099" text="tricarboxylic acid cycle" type="GO"/>
+    <entity charOffset="95-119" id="30106970.s1.e1" ontology_id="GO_0006099" text="tricarboxylic acid cycle" type="GO"/>
+    <entity charOffset="168-173" id="30106970.s1.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="30106970.s1.e0" e2="30106970.s1.e2" id="30106970.s1.p0" relation="true"/>
+    <pair e1="30106970.s1.e1" e2="30106970.s1.e2" id="30106970.s1.p1" relation="true"/>
+  </sentence>
+</document>

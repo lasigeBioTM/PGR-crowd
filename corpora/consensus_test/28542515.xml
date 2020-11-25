@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="28542515">
+  <sentence id="28542515.s0" text="X-linked hearing impairment is the rarest form of genetic hearing loss (HL) and represents only a positive regulation of glucose transmembrane transport fraction of all cases.">
+    <entity charOffset="9-27" id="28542515.s0.e0" ontology_id="HP_0000365" text="hearing impairment" type="HP"/>
+    <entity charOffset="98-152" id="28542515.s0.e1" ontology_id="GO_0010828" text="positive regulation of glucose transmembrane transport" type="GO"/>
+  </sentence>
+</document>

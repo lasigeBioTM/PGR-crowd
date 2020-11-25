@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="30106120">
+  <sentence id="30106120.s0" text="Finally, it was observed that 4 mRNA splicing, via spliceosome genes were highly expressed in gastric cancer tissue compared with para‑carcinoma tissue in the 12 patients; the increased TSPAN4 was significant (&amp;gt;5‑fold).">
+    <entity charOffset="32-62" id="30106120.s0.e0" ontology_id="GO_0000398" text="mRNA splicing, via spliceosome" type="GO"/>
+    <entity charOffset="102-108" id="30106120.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+  </sentence>
+</document>

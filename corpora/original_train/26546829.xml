@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<document id="26546829">
+  <sentence id="26546829.s0" text="Familial hypercholesterolemia is usually due to loss-of-function mutations in intestinal cholesterol absorption, the gene coding for low density lipoprotein receptor and genes encoding for proteins that interact with the receptor: positive regulation of macrophage derived foam cell differentiation, negative regulation of receptor recycling and LDLRAP1.">
+    <entity charOffset="9-29" id="26546829.s0.e0" ontology_id="HP_0003124" text="hypercholesterolemia" type="HP"/>
+    <entity charOffset="78-111" id="26546829.s0.e1" ontology_id="GO_0030299" text="intestinal cholesterol absorption" type="GO"/>
+    <entity charOffset="231-298" id="26546829.s0.e2" ontology_id="GO_0010744" text="positive regulation of macrophage derived foam cell differentiation" type="GO"/>
+    <entity charOffset="300-341" id="26546829.s0.e3" ontology_id="GO_0001920" text="negative regulation of receptor recycling" type="GO"/>
+    <pair e1="26546829.s0.e0" e2="26546829.s0.e1" id="26546829.s0.p0" relation="true"/>
+    <pair e1="26546829.s0.e0" e2="26546829.s0.e2" id="26546829.s0.p1" relation="true"/>
+    <pair e1="26546829.s0.e0" e2="26546829.s0.e3" id="26546829.s0.p2" relation="true"/>
+  </sentence>
+  <sentence id="26546829.s1" text="Monogenic hypertriglyceridemia is the result of mutations in genes that regulate the metabolism of triglyceride rich lipoproteins (eg LPL, positive regulation of phospholipase activity, APOA5, LMF1, GPIHBP1).">
+    <entity charOffset="10-30" id="26546829.s1.e0" ontology_id="HP_0002155" text="hypertriglyceridemia" type="HP"/>
+    <entity charOffset="139-184" id="26546829.s1.e1" ontology_id="GO_0010518" text="positive regulation of phospholipase activity" type="GO"/>
+    <pair e1="26546829.s1.e0" e2="26546829.s1.e1" id="26546829.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="26546829.s2" text="Conversely familial hypobetalipoproteinemia is caused by inactivation of the negative regulation of receptor recycling gene which increases the number of LDL receptors and decreases plasma cholesterol.">
+    <entity charOffset="20-43" id="26546829.s2.e0" ontology_id="HP_0003563" text="hypobetalipoproteinemia" type="HP"/>
+    <entity charOffset="77-118" id="26546829.s2.e1" ontology_id="GO_0001920" text="negative regulation of receptor recycling" type="GO"/>
+    <pair e1="26546829.s2.e0" e2="26546829.s2.e1" id="26546829.s2.p0" relation="false"/>
+  </sentence>
+</document>

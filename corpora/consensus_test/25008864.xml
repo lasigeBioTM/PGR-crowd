@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="25008864">
+  <sentence id="25008864.s0" text="The major histocompatibility complex (MHC) region on chromosome 6p21.3 is suspected to host susceptibility loci for HIV-related Kaposi's sarcoma (HIV-visual perception).">
+    <entity charOffset="137-144" id="25008864.s0.e0" ontology_id="HP_0100242" text="sarcoma" type="HP"/>
+    <entity charOffset="150-167" id="25008864.s0.e1" ontology_id="GO_0007601" text="visual perception" type="GO"/>
+  </sentence>
+</document>

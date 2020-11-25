@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<document id="30442880">
+  <sentence id="30442880.s0" text="BACKGROUND The distribution of positive regulation of cell-matrix adhesion mass and obesity-associated gene (DNA dealkylation involved in DNA repair) genes rs9939609 and rs1421085 in obese and normal ethnic Mongolians was analyzed to investigate the association of FTO gene polymorphisms with obesity and metabolic syndrome in ethnic Mongolians.">
+    <entity charOffset="31-74" id="30442880.s0.e0" ontology_id="GO_0001954" text="positive regulation of cell-matrix adhesion" type="GO"/>
+    <entity charOffset="84-91" id="30442880.s0.e1" ontology_id="HP_0001513" text="obesity" type="HP"/>
+    <entity charOffset="109-148" id="30442880.s0.e2" ontology_id="GO_0006307" text="DNA dealkylation involved in DNA repair" type="GO"/>
+    <pair e1="30442880.s0.e1" e2="30442880.s0.e2" id="30442880.s0.p0" relation="true"/>
+  </sentence>
+</document>

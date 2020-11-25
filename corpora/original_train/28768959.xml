@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<document id="28768959">
+  <sentence id="28768959.s0" text="Although mutations in keratan sulfate biosynthetic process, fibroblast growth factor receptor signaling pathway, negative regulation of kinase activity, and positive regulation of transcription by RNA polymerase II typically lead to skeletal dysplasia, and mutations in adenylate cyclase-activating G protein-coupled receptor signaling pathway, positive regulation of receptor internalization1, cellular response to hormone stimulus, response to estradiol, cell activation, signal transduction, and IGF1R usually underlie hormonal defects of the growth hormone (GH)-insulin-like growth factor 1 (IGF1) axis, such mutations have also been identified in patients with idiopathic short stature (ISS).">
+    <entity charOffset="22-58" id="28768959.s0.e0" ontology_id="GO_0018146" text="keratan sulfate biosynthetic process" type="GO"/>
+    <entity charOffset="60-111" id="28768959.s0.e1" ontology_id="GO_0008543" text="fibroblast growth factor receptor signaling pathway" type="GO"/>
+    <entity charOffset="113-151" id="28768959.s0.e2" ontology_id="GO_0033673" text="negative regulation of kinase activity" type="GO"/>
+    <entity charOffset="157-214" id="28768959.s0.e3" ontology_id="GO_0045944" text="positive regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="233-251" id="28768959.s0.e4" ontology_id="HP_0002652" text="skeletal dysplasia" type="HP"/>
+    <entity charOffset="270-343" id="28768959.s0.e5" ontology_id="GO_0007189" text="adenylate cyclase-activating G protein-coupled receptor signaling pathway" type="GO"/>
+    <entity charOffset="345-392" id="28768959.s0.e6" ontology_id="GO_0002092" text="positive regulation of receptor internalization" type="GO"/>
+    <entity charOffset="395-432" id="28768959.s0.e7" ontology_id="GO_0032870" text="cellular response to hormone stimulus" type="GO"/>
+    <entity charOffset="434-455" id="28768959.s0.e8" ontology_id="GO_0032355" text="response to estradiol" type="GO"/>
+    <entity charOffset="457-472" id="28768959.s0.e9" ontology_id="GO_0001775" text="cell activation" type="GO"/>
+    <entity charOffset="474-493" id="28768959.s0.e10" ontology_id="GO_0007165" text="signal transduction" type="GO"/>
+    <entity charOffset="677-690" id="28768959.s0.e11" ontology_id="HP_0004322" text="short stature" type="HP"/>
+    <pair e1="28768959.s0.e0" e2="28768959.s0.e4" id="28768959.s0.p0" relation="true"/>
+    <pair e1="28768959.s0.e0" e2="28768959.s0.e11" id="28768959.s0.p1" relation="true"/>
+    <pair e1="28768959.s0.e1" e2="28768959.s0.e4" id="28768959.s0.p2" relation="true"/>
+    <pair e1="28768959.s0.e1" e2="28768959.s0.e11" id="28768959.s0.p3" relation="true"/>
+    <pair e1="28768959.s0.e2" e2="28768959.s0.e4" id="28768959.s0.p4" relation="false"/>
+    <pair e1="28768959.s0.e3" e2="28768959.s0.e4" id="28768959.s0.p5" relation="false"/>
+    <pair e1="28768959.s0.e3" e2="28768959.s0.e11" id="28768959.s0.p6" relation="true"/>
+    <pair e1="28768959.s0.e4" e2="28768959.s0.e5" id="28768959.s0.p7" relation="false"/>
+    <pair e1="28768959.s0.e4" e2="28768959.s0.e7" id="28768959.s0.p8" relation="false"/>
+    <pair e1="28768959.s0.e4" e2="28768959.s0.e9" id="28768959.s0.p9" relation="false"/>
+    <pair e1="28768959.s0.e4" e2="28768959.s0.e10" id="28768959.s0.p10" relation="false"/>
+    <pair e1="28768959.s0.e4" e2="28768959.s0.e6" id="28768959.s0.p11" relation="false"/>
+    <pair e1="28768959.s0.e6" e2="28768959.s0.e11" id="28768959.s0.p12" relation="true"/>
+    <pair e1="28768959.s0.e7" e2="28768959.s0.e11" id="28768959.s0.p13" relation="true"/>
+    <pair e1="28768959.s0.e8" e2="28768959.s0.e11" id="28768959.s0.p14" relation="true"/>
+    <pair e1="28768959.s0.e9" e2="28768959.s0.e11" id="28768959.s0.p15" relation="true"/>
+    <pair e1="28768959.s0.e10" e2="28768959.s0.e11" id="28768959.s0.p16" relation="false"/>
+  </sentence>
+</document>

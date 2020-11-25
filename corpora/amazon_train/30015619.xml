@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="30015619">
+  <sentence id="30015619.s0" text="Abnormalities in nucleic acid processing are associated with the development of amyotrophic lateral sclerosis (signal transduction) and frontotemporal dementia (FTD).">
+    <entity charOffset="111-130" id="30015619.s0.e0" ontology_id="GO_0007165" text="signal transduction" type="GO"/>
+    <entity charOffset="136-159" id="30015619.s0.e1" ontology_id="HP_0002145" text="frontotemporal dementia" type="HP"/>
+    <pair e1="30015619.s0.e0" e2="30015619.s0.e1" id="30015619.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="30015619.s1" text="Mutations in &lt;i&gt;Matrin 3&lt;/i&gt; (&lt;i&gt;activation of innate immune response&lt;/i&gt;), a poorly understood DNA- and RNA-binding protein, cause familial signal transduction/FTD, and MATR3 pathology is a feature of sporadic disease, suggesting that MATR3 dysfunction is integrally linked to ALS pathogenesis.">
+    <entity charOffset="33-69" id="30015619.s1.e0" ontology_id="GO_0002218" text="activation of innate immune response" type="GO"/>
+    <entity charOffset="141-160" id="30015619.s1.e1" ontology_id="GO_0007165" text="signal transduction" type="GO"/>
+    <entity charOffset="202-210" id="30015619.s1.e2" ontology_id="HP_0003745" text="sporadic" type="HP"/>
+    <pair e1="30015619.s1.e0" e2="30015619.s1.e2" id="30015619.s1.p0" relation="true"/>
+    <pair e1="30015619.s1.e1" e2="30015619.s1.e2" id="30015619.s1.p1" relation="true"/>
+  </sentence>
+</document>

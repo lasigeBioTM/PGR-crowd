@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="24269018">
+  <sentence id="24269018.s0" text="We analyzed the nucleotide repeat lengths of 6 genes (ATXN8, neuron projection development, PPP2R2B, NOP56, DMPK, and JPH3) that have previously been associated with neurologic or neuromuscular disorders, in several hundred sporadic patients with ALS and healthy control subjects.">
+    <entity charOffset="61-90" id="24269018.s0.e0" ontology_id="GO_0031175" text="neuron projection development" type="GO"/>
+    <entity charOffset="224-232" id="24269018.s0.e1" ontology_id="HP_0003745" text="sporadic" type="HP"/>
+    <pair e1="24269018.s0.e0" e2="24269018.s0.e1" id="24269018.s0.p0" relation="true"/>
+  </sentence>
+</document>

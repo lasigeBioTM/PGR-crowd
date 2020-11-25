@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29949095">
+  <sentence id="29949095.s0" text="We characterize adult-onset, progressive clinical symptoms of two afflicted kindred and introduce the symptom of profound spasticity not previously associated with the protein tetramerization phenotype.">
+    <entity charOffset="113-121" id="29949095.s0.e0" ontology_id="HP_0012829" text="profound" type="HP"/>
+    <entity charOffset="168-191" id="29949095.s0.e1" ontology_id="GO_0051262" text="protein tetramerization" type="GO"/>
+    <pair e1="29949095.s0.e0" e2="29949095.s0.e1" id="29949095.s0.p0" relation="true"/>
+  </sentence>
+</document>

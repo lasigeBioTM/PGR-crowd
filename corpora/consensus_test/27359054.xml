@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27359054">
+  <sentence id="27359054.s0" text="Further generation of precursor metabolites and energy proportional hazard models analysis revealed that the reduced expression of PLIN1 is an independent predictor of overall survival in estrogen receptor positive (p &amp;lt; 0.0001, HR = 0.87, 95% CI = 0.81-0.92, N = 3,600) and luminal A-subtype (p = 0.02, HR = 0.88, 95% CI = 0.78-0.98, N = 1,469) breast cancer patients.">
+    <entity charOffset="8-54" id="27359054.s0.e0" ontology_id="GO_0006091" text="generation of precursor metabolites and energy" type="GO"/>
+    <entity charOffset="355-361" id="27359054.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27359054.s0.e0" e2="27359054.s0.e1" id="27359054.s0.p0" relation="true"/>
+  </sentence>
+</document>

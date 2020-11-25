@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30176312">
+  <sentence id="30176312.s0" text="Several studies have investigated single nucleotide polymorphisms (SNPs) in a number of genes associated with the susceptibility to or severity and outcome of community-acquired pneumonia (CAP), but no research has yet been conducted on the role of response to peptidoglycan gene polymorphisms in CAP.">
+    <entity charOffset="178-187" id="30176312.s0.e0" ontology_id="HP_0002090" text="pneumonia" type="HP"/>
+    <entity charOffset="249-274" id="30176312.s0.e1" ontology_id="GO_0032494" text="response to peptidoglycan" type="GO"/>
+    <pair e1="30176312.s0.e0" e2="30176312.s0.e1" id="30176312.s0.p0" relation="true"/>
+  </sentence>
+</document>

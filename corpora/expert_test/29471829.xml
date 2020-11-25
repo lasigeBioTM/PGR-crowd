@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29471829">
+  <sentence id="29471829.s0" text="In ALDH&lt;sup&gt;+&lt;/sup&gt;CD24&lt;sup&gt;-&lt;/sup&gt;CD44&lt;sup&gt;+&lt;/sup&gt; BCSCs, we identified P4HA2, PTGR1 and multi-organism toxin transport as potential prognostic markers, which were virtually related to the status of BCSCs and tumor growth in TNBC cells">
+    <entity charOffset="90-120" id="29471829.s0.e0" ontology_id="GO_1990967" text="multi-organism toxin transport" type="GO"/>
+    <entity charOffset="210-215" id="29471829.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29471829.s0.e0" e2="29471829.s0.e1" id="29471829.s0.p0" relation="true"/>
+  </sentence>
+</document>

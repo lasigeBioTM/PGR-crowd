@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<document id="29293945">
+  <sentence id="29293945.s0" text="We aimed to test effects of such gCNVs on the risk of lung cancer and chronic obstructive pulmonary disease (intracellular protein transport).">
+    <entity charOffset="59-65" id="29293945.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="109-140" id="29293945.s0.e1" ontology_id="GO_0006886" text="intracellular protein transport" type="GO"/>
+  </sentence>
+  <sentence id="29293945.s1" text="Genomic imbalance of lung cancer was determined by the array comparative genomic hybridization (aCGH), and common gCNVs at these imbalance regions were genotyped in lung cancer-based and intracellular protein transport-based retrospective studies.">
+    <entity charOffset="26-32" id="29293945.s1.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="187-218" id="29293945.s1.e1" ontology_id="GO_0006886" text="intracellular protein transport" type="GO"/>
+    <pair e1="29293945.s1.e0" e2="29293945.s1.e1" id="29293945.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="29293945.s2" text="The CNVR_3425.1, overlapping the chr16q24.1 with genomic imbalance, was significantly associated with increased risks of lung cancer (OR = 1.76; 95% CI = 1.46-2.11) and intracellular protein transport (OR = 1.98; 95% CI = 1.57-2.51).">
+    <entity charOffset="126-132" id="29293945.s2.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="169-200" id="29293945.s2.e1" ontology_id="GO_0006886" text="intracellular protein transport" type="GO"/>
+    <pair e1="29293945.s2.e0" e2="29293945.s2.e1" id="29293945.s2.p0" relation="true"/>
+  </sentence>
+  <sentence id="29293945.s3" text="The increase copy of CNVR_3425.1 forms a new additional truncated positive regulation of transcription, DNA-templated adjacent non-coding developmental regulatory RNA (FENDRR) sequences comparing the gene promoter and perturbs the transcriptional factors (TFs) binding to the original FENDRR promoter and further downregulates FENDRR, a long intergenic non-coding RNA (lincRNA) that functions to inhibit lung cancer by affecting expressions of an abundant number of genes, including the tumor suppressor FOXF1.">
+    <entity charOffset="66-117" id="29293945.s3.e0" ontology_id="GO_0045893" text="positive regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="409-415" id="29293945.s3.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="487-492" id="29293945.s3.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29293945.s3.e0" e2="29293945.s3.e2" id="29293945.s3.p0" relation="true"/>
+    <pair e1="29293945.s3.e0" e2="29293945.s3.e1" id="29293945.s3.p1" relation="true"/>
+  </sentence>
+</document>

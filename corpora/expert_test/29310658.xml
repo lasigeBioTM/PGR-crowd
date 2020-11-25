@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29310658">
+  <sentence id="29310658.s0" text="Among these genes, mutations in double-strand break repair gene involve in inclusion body myopathy with Paget disease of bone and frontotemporal dementia (IBMPFD), familial amyotrophic lateral sclerosis (ALS), autism spectrum disorders (ASD), and hereditary spastic paraplegia (HSP).">
+    <entity charOffset="32-58" id="29310658.s0.e0" ontology_id="GO_0006302" text="double-strand break repair" type="GO"/>
+    <entity charOffset="130-153" id="29310658.s0.e1" ontology_id="HP_0002145" text="frontotemporal dementia" type="HP"/>
+    <pair e1="29310658.s0.e0" e2="29310658.s0.e1" id="29310658.s0.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="28716533">
+  <sentence id="28716533.s0" text="Mutations in regulation of macroautophagy have been associated with rare cases of X-linked juvenile and adult forms of amyotrophic lateral sclerosis (signal transduction) and ALS linked to frontotemporal dementia (FTD).">
+    <entity charOffset="13-41" id="28716533.s0.e0" ontology_id="GO_0016241" text="regulation of macroautophagy" type="GO"/>
+    <entity charOffset="150-169" id="28716533.s0.e1" ontology_id="GO_0007165" text="signal transduction" type="GO"/>
+    <entity charOffset="189-212" id="28716533.s0.e2" ontology_id="HP_0002145" text="frontotemporal dementia" type="HP"/>
+    <pair e1="28716533.s0.e0" e2="28716533.s0.e2" id="28716533.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28716533.s1" text="Here, we report 1 known (c.1489C&amp;gt;T, p.Pro497Ser, P497S) and 3 novel (c.1481C&amp;gt;T, p.Pro494Leu, P494L; c.1498C&amp;gt;T, p.Pro500Ser, P500S; and c.1516C&amp;gt;G, p.Pro506Ala, P506A) missense mutations in the PXX domain of UBQLN2 in familial motor neuron diseases including signal transduction and spastic paraplegia (SP).">
+    <entity charOffset="269-288" id="28716533.s1.e0" ontology_id="GO_0007165" text="signal transduction" type="GO"/>
+    <entity charOffset="293-311" id="28716533.s1.e1" ontology_id="HP_0001258" text="spastic paraplegia" type="HP"/>
+  </sentence>
+  <sentence id="28716533.s2" text="A novel missense mutation (c.1462G&amp;gt;A, p.Ala488Thr, A488T) adjacent to this hotspot regulation of macroautophagy domain was identified in a sporadic case of ALS.">
+    <entity charOffset="86-114" id="28716533.s2.e0" ontology_id="GO_0016241" text="regulation of macroautophagy" type="GO"/>
+    <entity charOffset="142-150" id="28716533.s2.e1" ontology_id="HP_0003745" text="sporadic" type="HP"/>
+    <pair e1="28716533.s2.e0" e2="28716533.s2.e1" id="28716533.s2.p0" relation="true"/>
+  </sentence>
+</document>

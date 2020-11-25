@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="28610954">
+  <sentence id="28610954.s0" text="A proteolysis inhibitor significantly inhibited cell invasion and migration in ALDOA-HIF-1α axis-induced lung cancer.">
+    <entity charOffset="2-13" id="28610954.s0.e0" ontology_id="GO_0006508" text="proteolysis" type="GO"/>
+    <entity charOffset="110-116" id="28610954.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28610954.s0.e0" e2="28610954.s0.e1" id="28610954.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28610954.s1" text="In summary, our results reveal the molecular mechanism of Aldolase A in promoting lung cancer metastasis via PHD-mediated stabilization of HIF-1α and the subsequent activation of proteolysis.">
+    <entity charOffset="87-93" id="28610954.s1.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="179-190" id="28610954.s1.e1" ontology_id="GO_0006508" text="proteolysis" type="GO"/>
+    <pair e1="28610954.s1.e0" e2="28610954.s1.e1" id="28610954.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="28610954.s2" text="The regulation of cell shape-HIF-1α axis may provide a new therapeutic target for metastatic lung cancer treatment">
+    <entity charOffset="4-28" id="28610954.s2.e0" ontology_id="GO_0008360" text="regulation of cell shape" type="GO"/>
+    <entity charOffset="98-104" id="28610954.s2.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28610954.s2.e0" e2="28610954.s2.e1" id="28610954.s2.p0" relation="true"/>
+  </sentence>
+</document>

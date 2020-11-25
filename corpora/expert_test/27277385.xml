@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27277385">
+  <sentence id="27277385.s0" text="Besides the hallmark features, this patient also presents problems not previously associated with small GTPase mediated signal transduction syndrome, including cervical vertebral fusion, mild hearing loss, and colonic fibrosis.">
+    <entity charOffset="98-139" id="27277385.s0.e0" ontology_id="GO_0007264" text="small GTPase mediated signal transduction" type="GO"/>
+    <entity charOffset="192-204" id="27277385.s0.e1" ontology_id="HP_0000365" text="hearing loss" type="HP"/>
+    <pair e1="27277385.s0.e0" e2="27277385.s0.e1" id="27277385.s0.p0" relation="true"/>
+  </sentence>
+</document>

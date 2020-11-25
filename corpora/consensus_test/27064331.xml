@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27064331">
+  <sentence id="27064331.s0" text="The combination of sensorineural hearing loss and partial agenesis of the corpus callosum is a highly recognizable clinico-radiological entity that should prompt mutational analysis of the establishment of mitotic spindle orientation gene.">
+    <entity charOffset="58-89" id="27064331.s0.e0" ontology_id="HP_0001274" text="agenesis of the corpus callosum" type="HP"/>
+    <entity charOffset="189-233" id="27064331.s0.e1" ontology_id="GO_0000132" text="establishment of mitotic spindle orientation" type="GO"/>
+    <pair e1="27064331.s0.e0" e2="27064331.s0.e1" id="27064331.s0.p0" relation="true"/>
+  </sentence>
+</document>

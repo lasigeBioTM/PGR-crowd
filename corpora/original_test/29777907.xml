@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29777907">
+  <sentence id="29777907.s0" text="Variants of WNK1 (lysine deficient protein kinase 1), ADRB2 (b2 adrenergic receptor), NEDD4L (ubiquitin-protein ligase ubiquitin-dependent protein catabolic process-like), KLK1 (kallikrein 1) contribute to hypertension, and AKR1C3 (aldo-keto reductase family1 member C3), is associated with preeclampsia.">
+    <entity charOffset="119-164" id="29777907.s0.e0" ontology_id="GO_0006511" text="ubiquitin-dependent protein catabolic process" type="GO"/>
+    <entity charOffset="206-218" id="29777907.s0.e1" ontology_id="HP_0000822" text="hypertension" type="HP"/>
+    <pair e1="29777907.s0.e0" e2="29777907.s0.e1" id="29777907.s0.p0" relation="true"/>
+  </sentence>
+</document>

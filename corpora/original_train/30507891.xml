@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30507891">
+  <sentence id="30507891.s0" text="For diagnosis of central nervous system degeneration in adolescents with bulbar symptoms, G protein-coupled receptor signaling pathway attention should be paid to JALS">
+    <entity charOffset="17-52" id="30507891.s0.e0" ontology_id="HP_0007009" text="central nervous system degeneration" type="HP"/>
+    <entity charOffset="90-134" id="30507891.s0.e1" ontology_id="GO_0007186" text="G protein-coupled receptor signaling pathway" type="GO"/>
+    <pair e1="30507891.s0.e0" e2="30507891.s0.e1" id="30507891.s0.p0" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30483049">
+  <sentence id="30483049.s0" text="However, sequencing of large human cohorts reveals a cumulative frequency of additional rare negative regulation of endothelial cell proliferation mutations that raise the possibility of CaM variants not exclusively causing severe cardiac arrhythmias.">
+    <entity charOffset="93-146" id="30483049.s0.e0" ontology_id="GO_0001937" text="negative regulation of endothelial cell proliferation" type="GO"/>
+    <entity charOffset="231-250" id="30483049.s0.e1" ontology_id="HP_0011675" text="cardiac arrhythmias" type="HP"/>
+    <pair e1="30483049.s0.e0" e2="30483049.s0.e1" id="30483049.s0.p0" relation="false"/>
+  </sentence>
+</document>

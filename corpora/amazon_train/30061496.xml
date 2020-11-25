@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30061496">
+  <sentence id="30061496.s0" text="protein glycosylation-CDG is an autosomal recessive disease with a large phenotypic spectrum, and is associated with mutations in the &lt;i&gt;PMM2&lt;/i&gt; gene.">
+    <entity charOffset="0-21" id="30061496.s0.e0" ontology_id="GO_0006486" text="protein glycosylation" type="GO"/>
+    <entity charOffset="32-51" id="30061496.s0.e1" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <pair e1="30061496.s0.e0" e2="30061496.s0.e1" id="30061496.s0.p0" relation="true"/>
+  </sentence>
+</document>

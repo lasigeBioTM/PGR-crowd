@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<document id="29773061">
+  <sentence id="29773061.s0" text="Mutations in isocitrate metabolic process and IDH2 have recently been observed in multiple tumors, including gliomas, acute myeloid leukemia, myelodysplastic syndromes, and chondrosarcoma.">
+    <entity charOffset="13-41" id="29773061.s0.e0" ontology_id="GO_0006102" text="isocitrate metabolic process" type="GO"/>
+    <entity charOffset="173-187" id="29773061.s0.e1" ontology_id="HP_0006765" text="chondrosarcoma" type="HP"/>
+    <pair e1="29773061.s0.e0" e2="29773061.s0.e1" id="29773061.s0.p0" relation="true"/>
+    <pair e1="29773061.s0.e0" e2="29773061.s0.e1" id="29773061.s0.p1" relation="true"/>
+  </sentence>
+</document>

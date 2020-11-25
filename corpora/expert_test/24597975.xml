@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="24597975">
+  <sentence id="24597975.s0" text="Recently, loss-of-function mutations in positive regulation of retrograde protein transport, ER to cytosol were reported in association with severe developmental delay, deafness and dystonia.">
+    <entity charOffset="40-106" id="24597975.s0.e0" ontology_id="GO_1904154" text="positive regulation of retrograde protein transport, ER to cytosol" type="GO"/>
+    <entity charOffset="182-190" id="24597975.s0.e1" ontology_id="HP_0001332" text="dystonia" type="HP"/>
+    <pair e1="24597975.s0.e0" e2="24597975.s0.e1" id="24597975.s0.p0" relation="true"/>
+  </sentence>
+</document>

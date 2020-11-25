@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="27164068">
+  <sentence id="27164068.s0" text="According to the Ottawa Heart Genomics Study genome-wide association study, a recent research identified that Q688 spastic paraplegia 7 (regulation of mitochondrial membrane permeability) variant is associated with apoptotic DNA fragmentation as it bypasses the regulation of tyrosine phosphorylation of AFG3L2 and enhances the processing and maturation of SPG7 protein.">
+    <entity charOffset="115-133" id="27164068.s0.e0" ontology_id="HP_0001258" text="spastic paraplegia" type="HP"/>
+    <entity charOffset="137-186" id="27164068.s0.e1" ontology_id="GO_0046902" text="regulation of mitochondrial membrane permeability" type="GO"/>
+    <entity charOffset="215-242" id="27164068.s0.e2" ontology_id="GO_0006309" text="apoptotic DNA fragmentation" type="GO"/>
+    <pair e1="27164068.s0.e0" e2="27164068.s0.e1" id="27164068.s0.p0" relation="false"/>
+    <pair e1="27164068.s0.e0" e2="27164068.s0.e2" id="27164068.s0.p1" relation="false"/>
+  </sentence>
+</document>

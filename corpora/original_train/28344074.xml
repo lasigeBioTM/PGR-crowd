@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<document id="28344074">
+  <sentence id="28344074.s0" text="In the present study, we investigated the spatiotemporal distributions of negative regulation of protein export from nucleus and 4 representative nucleoporins (GP210, NUP205, mRNA export from nucleus and NUP50) of NPCs in human Cu/Zn superoxide dismutase-1 mutation transgenic (response to superoxide-thyroid gland development) mice and sporadic ALS patients.">
+    <entity charOffset="74-124" id="28344074.s0.e0" ontology_id="GO_0046826" text="negative regulation of protein export from nucleus" type="GO"/>
+    <entity charOffset="175-199" id="28344074.s0.e1" ontology_id="GO_0006406" text="mRNA export from nucleus" type="GO"/>
+    <entity charOffset="278-300" id="28344074.s0.e2" ontology_id="GO_0000303" text="response to superoxide" type="GO"/>
+    <entity charOffset="301-326" id="28344074.s0.e3" ontology_id="GO_0030878" text="thyroid gland development" type="GO"/>
+    <entity charOffset="337-345" id="28344074.s0.e4" ontology_id="HP_0003745" text="sporadic" type="HP"/>
+    <pair e1="28344074.s0.e0" e2="28344074.s0.e4" id="28344074.s0.p0" relation="false"/>
+    <pair e1="28344074.s0.e1" e2="28344074.s0.e4" id="28344074.s0.p1" relation="false"/>
+    <pair e1="28344074.s0.e2" e2="28344074.s0.e4" id="28344074.s0.p2" relation="false"/>
+    <pair e1="28344074.s0.e3" e2="28344074.s0.e4" id="28344074.s0.p3" relation="false"/>
+  </sentence>
+  <sentence id="28344074.s1" text="The present study indicated that the mislocalization of these proteins of NPCs may underlie the pathogenesis of signal transduction both in response to superoxide-Tg mice and human sporadic ALS patients, and these dysfunctions may be a fundamental pathway for ALS that is not specific only in C9-ALS but also in SOD1-ALS, which may be amenable to pharmacotherapeutic intervention">
+    <entity charOffset="112-131" id="28344074.s1.e0" ontology_id="GO_0007165" text="signal transduction" type="GO"/>
+    <entity charOffset="140-162" id="28344074.s1.e1" ontology_id="GO_0000303" text="response to superoxide" type="GO"/>
+    <entity charOffset="181-189" id="28344074.s1.e2" ontology_id="HP_0003745" text="sporadic" type="HP"/>
+    <pair e1="28344074.s1.e0" e2="28344074.s1.e2" id="28344074.s1.p0" relation="false"/>
+    <pair e1="28344074.s1.e1" e2="28344074.s1.e2" id="28344074.s1.p1" relation="false"/>
+  </sentence>
+</document>

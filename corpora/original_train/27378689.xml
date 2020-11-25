@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="27378689">
+  <sentence id="27378689.s0" text="Hypohidrotic ectodermal dysplasia (positive regulation of NF-kappaB transcription factor activity) results from mutation of the positive regulation of NF-kappaB transcription factor activity, EDAR or EDARADD genes and is characterized by reduced or absent eccrine sweat glands, hair follicles and teeth, and defective formation of salivary, mammary and craniofacial glands.">
+    <entity charOffset="13-33" id="27378689.s0.e0" ontology_id="HP_0000968" text="ectodermal dysplasia" type="HP"/>
+    <entity charOffset="35-97" id="27378689.s0.e1" ontology_id="GO_0051092" text="positive regulation of NF-kappaB transcription factor activity" type="GO"/>
+    <entity charOffset="128-190" id="27378689.s0.e2" ontology_id="GO_0051092" text="positive regulation of NF-kappaB transcription factor activity" type="GO"/>
+    <pair e1="27378689.s0.e0" e2="27378689.s0.e1" id="27378689.s0.p0" relation="true"/>
+    <pair e1="27378689.s0.e0" e2="27378689.s0.e2" id="27378689.s0.p1" relation="true"/>
+  </sentence>
+</document>

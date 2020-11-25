@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="26384305">
+  <sentence id="26384305.s0" text="Although Sur8 has been shown to be a scaffold protein of the Ras-angiogenesis pathway, its interaction with other signaling pathways and its involvement in tumor malignancy has not been reported.">
+    <entity charOffset="65-77" id="26384305.s0.e0" ontology_id="GO_0001525" text="angiogenesis" type="GO"/>
+    <entity charOffset="156-161" id="26384305.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="26384305.s0.e0" e2="26384305.s0.e1" id="26384305.s0.p0" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="27380241">
+  <sentence id="27380241.s0" text="These disorders include cancer, bipolar disorder, schizophrenia, autism, Cri-du-phosphatidylcholine biosynthetic process syndrome, myopia, cortical cataract-linked Alzheimer's disease, and infectious diseases.">
+    <entity charOffset="24-30" id="27380241.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="50-63" id="27380241.s0.e1" ontology_id="HP_0100753" text="schizophrenia" type="HP"/>
+    <entity charOffset="65-71" id="27380241.s0.e2" ontology_id="HP_0000717" text="autism" type="HP"/>
+    <entity charOffset="80-120" id="27380241.s0.e3" ontology_id="GO_0006656" text="phosphatidylcholine biosynthetic process" type="GO"/>
+    <entity charOffset="148-156" id="27380241.s0.e4" ontology_id="HP_0000518" text="cataract" type="HP"/>
+    <pair e1="27380241.s0.e0" e2="27380241.s0.e3" id="27380241.s0.p0" relation="false"/>
+    <pair e1="27380241.s0.e1" e2="27380241.s0.e3" id="27380241.s0.p1" relation="false"/>
+    <pair e1="27380241.s0.e2" e2="27380241.s0.e3" id="27380241.s0.p2" relation="false"/>
+    <pair e1="27380241.s0.e3" e2="27380241.s0.e4" id="27380241.s0.p3" relation="false"/>
+  </sentence>
+</document>

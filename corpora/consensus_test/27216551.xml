@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<document id="27216551">
+  <sentence id="27216551.s0" text="Through the examination of 48 candidate genes known to be responsible for autosomal recessive SPG, we identified a novel homozygous 4-bp deletion, c.914_917delGTAA, p.Ser305Ilefs*2 in exon2 of the DDHD1 gene encoding phosphatidic acid-preferring phospholipase A1 (positive regulation of mitochondrial fission).">
+    <entity charOffset="74-93" id="27216551.s0.e0" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="264-308" id="27216551.s0.e1" ontology_id="GO_0090141" text="positive regulation of mitochondrial fission" type="GO"/>
+    <pair e1="27216551.s0.e0" e2="27216551.s0.e1" id="27216551.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="27216551.s1" text="Spastic paraplegia (intraciliary transport) muscle organ development 28 is an autosomal recessive SPG caused by mutations in the positive regulation of mitochondrial fission gene.">
+    <entity charOffset="20-42" id="27216551.s1.e0" ontology_id="GO_0042073" text="intraciliary transport" type="GO"/>
+    <entity charOffset="44-68" id="27216551.s1.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="78-97" id="27216551.s1.e2" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="129-173" id="27216551.s1.e3" ontology_id="GO_0090141" text="positive regulation of mitochondrial fission" type="GO"/>
+    <pair e1="27216551.s1.e0" e2="27216551.s1.e2" id="27216551.s1.p0" relation="false"/>
+    <pair e1="27216551.s1.e2" e2="27216551.s1.e3" id="27216551.s1.p1" relation="true"/>
+  </sentence>
+</document>

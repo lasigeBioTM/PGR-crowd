@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<document id="27359054">
+  <sentence id="27359054.s0" text="Here we found that perilipin-1 (lipid metabolic process) mRNA expression is significantly downregulated in human breast cancer.">
+    <entity charOffset="32-55" id="27359054.s0.e0" ontology_id="GO_0006629" text="lipid metabolic process" type="GO"/>
+    <entity charOffset="120-126" id="27359054.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27359054.s0.e0" e2="27359054.s0.e1" id="27359054.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="27359054.s1" text="Further Cox proportional hazard models analysis revealed that the reduced expression of lipid metabolic process is an independent predictor of overall survival in estrogen receptor positive (p &amp;lt; 0.0001, HR = 0.87, 95% CI = 0.81-0.92, N = 3,600) and luminal A-subtype (p = 0.02, HR = 0.88, 95% CI = 0.78-0.98, N = 1,469) breast cancer patients.">
+    <entity charOffset="88-111" id="27359054.s1.e0" ontology_id="GO_0006629" text="lipid metabolic process" type="GO"/>
+    <entity charOffset="330-336" id="27359054.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27359054.s1.e0" e2="27359054.s1.e1" id="27359054.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="27359054.s2" text="We also demonstrated that the exogenous expression of lipid metabolic process in human breast cancer MCF-7 and MDA-MB-231 cells significantly inhibits cell proliferation, migration, invasion and in vivo tumorigenesis in mice.">
+    <entity charOffset="54-77" id="27359054.s2.e0" ontology_id="GO_0006629" text="lipid metabolic process" type="GO"/>
+    <entity charOffset="94-100" id="27359054.s2.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27359054.s2.e0" e2="27359054.s2.e1" id="27359054.s2.p0" relation="true"/>
+  </sentence>
+  <sentence id="27359054.s3" text="Together, these data provide novel insights into a prognostic significance of lipid metabolic process in human breast cancer and reveal a potentially new gene therapy target for breast cancer">
+    <entity charOffset="78-101" id="27359054.s3.e0" ontology_id="GO_0006629" text="lipid metabolic process" type="GO"/>
+    <entity charOffset="118-124" id="27359054.s3.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27359054.s3.e0" e2="27359054.s3.e1" id="27359054.s3.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="22366784">
+  <sentence id="22366784.s0" text="To identify additional prostate cancer susceptibility loci, we genotyped nine SNPs that were nominally associated with prostate cancer (P &amp;lt; 1 × 10(-4)) in our previous GWAS in three independent studies of prostate cancer in Japanese negative regulation of phosphatase activity (2,557 individuals with prostate cancer (cases) and 3,003 controls).">
+    <entity charOffset="32-38" id="22366784.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="236-279" id="22366784.s0.e1" ontology_id="GO_0010923" text="negative regulation of phosphatase activity" type="GO"/>
+    <pair e1="22366784.s0.e0" e2="22366784.s0.e1" id="22366784.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="22366784.s1" text="In a meta-analysis of our previous GWAS and the replication studies, which included a total of 7,141 prostate cancer cases and 11,804 controls from a single ancestry group, three new loci reached genome-wide significance on chromosomes 11q12 (rs1938781; P = 1.10 × 10(-10); DNA replication-FAM111B), 10q26 (rs2252004; P = 1.98 × 10(-8)) and 3p11.2 (rs2055109; P = 3.94 × 10(-8)).">
+    <entity charOffset="110-116" id="22366784.s1.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="274-289" id="22366784.s1.e1" ontology_id="GO_0006260" text="DNA replication" type="GO"/>
+    <pair e1="22366784.s1.e0" e2="22366784.s1.e1" id="22366784.s1.p0" relation="false"/>
+  </sentence>
+</document>

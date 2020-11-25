@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28642546">
+  <sentence id="28642546.s0" text="Mutations in sodium ion transport, a Na&lt;sup&gt;+&lt;/sup&gt; dependent OH&lt;sup&gt;-&lt;/sup&gt; transporter, cause congenital hereditary endothelial dystrophy (CHED) and Fuchs' endothelial corneal dystrophy (FECD), the two most common forms of endothelial degeneration.">
+    <entity charOffset="13-33" id="28642546.s0.e0" ontology_id="GO_0006814" text="sodium ion transport" type="GO"/>
+    <entity charOffset="170-187" id="28642546.s0.e1" ontology_id="HP_0001131" text="corneal dystrophy" type="HP"/>
+    <pair e1="28642546.s0.e0" e2="28642546.s0.e1" id="28642546.s0.p0" relation="true"/>
+  </sentence>
+</document>

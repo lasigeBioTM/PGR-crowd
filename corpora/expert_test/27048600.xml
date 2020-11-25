@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27048600">
+  <sentence id="27048600.s0" text="We have performed WES for 4102 (1847 female; 2255 male) intellectual disability/developmental delay cases and we report five patients with a neurodevelopmental disorder associated with developmental delay, intellectual disability, behavioral problems, hypotonia, speech problems, microcephaly, pachygyria and dysmorphic features in whom we have identified de novo missense and canonical splice site mutations in peptidyl-serine phosphorylation, the gene encoding CK2α, the catalytic subunit of protein kinase CK2, a ubiquitous serine/threonine kinase composed of two regulatory (β) and two catalytic (α and/or α') subunits.">
+    <entity charOffset="56-79" id="27048600.s0.e0" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <entity charOffset="412-443" id="27048600.s0.e1" ontology_id="GO_0018105" text="peptidyl-serine phosphorylation" type="GO"/>
+    <pair e1="27048600.s0.e0" e2="27048600.s0.e1" id="27048600.s0.p0" relation="false"/>
+  </sentence>
+</document>

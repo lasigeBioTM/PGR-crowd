@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="16960806">
+  <sentence id="16960806.s0" text="Considering that visual perception associates with CRYBB2 and that the latter protein has been implicated in microphthalmia, mutational analysis of CRYBA4 was performed in 32 patients affected with microphthalmia (small eye).">
+    <entity charOffset="17-34" id="16960806.s0.e0" ontology_id="GO_0007601" text="visual perception" type="GO"/>
+    <entity charOffset="109-123" id="16960806.s0.e1" ontology_id="HP_0000568" text="microphthalmia" type="HP"/>
+    <pair e1="16960806.s0.e0" e2="16960806.s0.e1" id="16960806.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="16960806.s1" text="To date, visual perception was the only gene in this cluster not associated with either human or murine cataracts.">
+    <entity charOffset="9-26" id="16960806.s1.e0" ontology_id="GO_0007601" text="visual perception" type="GO"/>
+    <entity charOffset="104-112" id="16960806.s1.e1" ontology_id="HP_0000518" text="cataract" type="HP"/>
+    <pair e1="16960806.s1.e0" e2="16960806.s1.e1" id="16960806.s1.p0" relation="false"/>
+  </sentence>
+</document>

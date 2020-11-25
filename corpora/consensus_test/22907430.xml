@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="22907430">
+  <sentence id="22907430.s0" text="We hypothesize that two potential mechanisms, loss of cell negative regulation of apoptotic process-determining transcription factors by methylation of their promoters and functional inactivation of their corresponding genomic-binding sites by DNA methylation, can promote a differentiation defect of neuroendocrine cells thus enhancing the ability of tumor progenitor cells to transition toward SCLC.">
+    <entity charOffset="59-99" id="22907430.s0.e0" ontology_id="GO_0043066" text="negative regulation of apoptotic process" type="GO"/>
+    <entity charOffset="352-357" id="22907430.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+  </sentence>
+</document>

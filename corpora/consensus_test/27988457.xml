@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="27988457">
+  <sentence id="27988457.s0" text="Notably, in two lung cancer models with positive regulation of cell proliferation amplification, the antitumor efficacy was higher, suggesting that the simultaneous inhibition of VEGF and FGF receptors in FGFR1 dependent tumors can be therapeutically advantageous.">
+    <entity charOffset="40-81" id="27988457.s0.e0" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <entity charOffset="105-110" id="27988457.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="27988457.s0.e0" e2="27988457.s0.e1" id="27988457.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="27988457.s1" text="In cell assays, lucitanib potently inhibited the growth of tumor cell lines with amplified positive regulation of cell proliferation or mutated/amplified FGFR2.">
+    <entity charOffset="59-64" id="27988457.s1.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="91-132" id="27988457.s1.e1" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <pair e1="27988457.s1.e0" e2="27988457.s1.e1" id="27988457.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="27988457.s2" text="Lucitanib is a small molecule inhibitor of vascular endothelial growth factor (VEGF) receptors 1 to 3 (VEGFR1 to 3), platelet derived growth factor α/β (PDGFRα/β) and positive regulation of cell proliferation-3 tyrosine kinases and has demonstrated activity in a phase I/II clinical study, with objective RECIST responses in breast cancer patients with FGFR1 or FGF3/4/19 gene amplification, as well as in patients anticipated to benefit from anti-angiogenic agents.">
+    <entity charOffset="167-208" id="27988457.s2.e0" ontology_id="GO_0008284" text="positive regulation of cell proliferation" type="GO"/>
+    <entity charOffset="332-338" id="27988457.s2.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27988457.s2.e0" e2="27988457.s2.e1" id="27988457.s2.p0" relation="true"/>
+  </sentence>
+</document>

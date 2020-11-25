@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="24697219">
+  <sentence id="24697219.s0" text="EEF1A2 gene is highly expressed in the central nervous system and positive regulation of lipid kinase activity knockout mice show the neuronal degeneration.">
+    <entity charOffset="39-46" id="24697219.s0.e0" ontology_id="HP_0030645" text="central" type="HP"/>
+    <entity charOffset="66-110" id="24697219.s0.e1" ontology_id="GO_0090218" text="positive regulation of lipid kinase activity" type="GO"/>
+    <pair e1="24697219.s0.e0" e2="24697219.s0.e1" id="24697219.s0.p0" relation="false"/>
+  </sentence>
+</document>

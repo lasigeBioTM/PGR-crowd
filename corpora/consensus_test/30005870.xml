@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<document id="30005870">
+  <sentence id="30005870.s0" text="Overexpression of protein targeting to membrane in gastric cancer was verified at both transcriptional and translational levels.">
+    <entity charOffset="18-47" id="30005870.s0.e0" ontology_id="GO_0006612" text="protein targeting to membrane" type="GO"/>
+    <entity charOffset="59-65" id="30005870.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30005870.s0.e0" e2="30005870.s0.e1" id="30005870.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="30005870.s1" text="Cellular studies showed that protein targeting to membrane could induce an aggressive phenotype in gastric cancer cells and that its expression was correlated with markers of the epithelial-mesenchymal transition (cytokine production).">
+    <entity charOffset="29-58" id="30005870.s1.e0" ontology_id="GO_0006612" text="protein targeting to membrane" type="GO"/>
+    <entity charOffset="107-113" id="30005870.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="214-233" id="30005870.s1.e2" ontology_id="GO_0001816" text="cytokine production" type="GO"/>
+    <pair e1="30005870.s1.e0" e2="30005870.s1.e1" id="30005870.s1.p0" relation="true"/>
+    <pair e1="30005870.s1.e1" e2="30005870.s1.e2" id="30005870.s1.p1" relation="false"/>
+  </sentence>
+  <sentence id="30005870.s2" text="In addition, we verified the co-expression of and interplay between Rab3IP and regulation of transcription, DNA-templated during gastric cancer progression.">
+    <entity charOffset="79-121" id="30005870.s2.e0" ontology_id="GO_0006355" text="regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="137-143" id="30005870.s2.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30005870.s2.e0" e2="30005870.s2.e1" id="30005870.s2.p0" relation="true"/>
+  </sentence>
+</document>

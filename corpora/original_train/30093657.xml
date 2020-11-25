@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30093657">
+  <sentence id="30093657.s0" text="We show that an inhaled PI3Kδ inhibitor improves survival rates following S. pneumoniae infection in wild-type epidermis development and in mice with activated PI3Kδ.">
+    <entity charOffset="77-86" id="30093657.s0.e0" ontology_id="HP_0002090" text="pneumonia" type="HP"/>
+    <entity charOffset="111-132" id="30093657.s0.e1" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <pair e1="30093657.s0.e0" e2="30093657.s0.e1" id="30093657.s0.p0" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29506883">
+  <sentence id="29506883.s0" text="In the present case, magnetic resonance imaging (MRI) obtained during infancy revealed symmetric lesions in the substantia nigra of a patient with Leigh syndrome with an mitochondrial respiratory chain complex I assembly mutation; lesions of the bilateral putamen and brainstem were subsequently observed.">
+    <entity charOffset="170-220" id="29506883.s0.e0" ontology_id="GO_0032981" text="mitochondrial respiratory chain complex I assembly" type="GO"/>
+    <entity charOffset="246-255" id="29506883.s0.e1" ontology_id="HP_0012832" text="bilateral" type="HP"/>
+    <pair e1="29506883.s0.e0" e2="29506883.s0.e1" id="29506883.s0.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<document id="30106970">
+  <sentence id="30106970.s0" text="Succinate dehydrogenase subunit B and D (tricarboxylic acid cycle and SDHD) mutations represent the most frequent cause of hereditary pheochromocytoma and paraganglioma (Ptricarboxylic acid cycle).">
+    <entity charOffset="41-65" id="30106970.s0.e0" ontology_id="GO_0006099" text="tricarboxylic acid cycle" type="GO"/>
+    <entity charOffset="155-168" id="30106970.s0.e1" ontology_id="HP_0002668" text="paraganglioma" type="HP"/>
+    <entity charOffset="171-195" id="30106970.s0.e2" ontology_id="GO_0006099" text="tricarboxylic acid cycle" type="GO"/>
+    <pair e1="30106970.s0.e0" e2="30106970.s0.e1" id="30106970.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="30106970.s1" text="In SDHB-related syndrome, Ptricarboxylic acid cycle maintenance seems to be reduced compared to SDHD (p = 0.04 vs 0.95) due to higher probability of tumor cell regression in SDHB vs SDHD (p = 0.87 vs 0.00).">
+    <entity charOffset="27-51" id="30106970.s1.e0" ontology_id="GO_0006099" text="tricarboxylic acid cycle" type="GO"/>
+    <entity charOffset="149-154" id="30106970.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="30106970.s1.e0" e2="30106970.s1.e1" id="30106970.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="30106970.s2" text="However, when tricarboxylic acid cycle-tumors give rise to metastases, metastatic cells are able to thrive with decreased probability of regression compared with tricarboxylic acid cycle counterparts (p = 0.17 vs 0.89).">
+    <entity charOffset="14-38" id="30106970.s2.e0" ontology_id="GO_0006099" text="tricarboxylic acid cycle" type="GO"/>
+    <entity charOffset="39-44" id="30106970.s2.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="162-186" id="30106970.s2.e2" ontology_id="GO_0006099" text="tricarboxylic acid cycle" type="GO"/>
+    <pair e1="30106970.s2.e0" e2="30106970.s2.e1" id="30106970.s2.p0" relation="true"/>
+    <pair e1="30106970.s2.e1" e2="30106970.s2.e2" id="30106970.s2.p1" relation="true"/>
+  </sentence>
+  <sentence id="30106970.s3" text="These findings align with data suggesting that tricarboxylic acid cycle-related PPGL require less genetic events for tumor initiation and maintenance compared to those related to tricarboxylic acid cycle, but fail to initiate biology that promotes metastatic spread and metastatic cell survival in host tissues.">
+    <entity charOffset="47-71" id="30106970.s3.e0" ontology_id="GO_0006099" text="tricarboxylic acid cycle" type="GO"/>
+    <entity charOffset="117-122" id="30106970.s3.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="179-203" id="30106970.s3.e2" ontology_id="GO_0006099" text="tricarboxylic acid cycle" type="GO"/>
+    <pair e1="30106970.s3.e0" e2="30106970.s3.e1" id="30106970.s3.p0" relation="true"/>
+    <pair e1="30106970.s3.e1" e2="30106970.s3.e2" id="30106970.s3.p1" relation="true"/>
+  </sentence>
+  <sentence id="30106970.s4" text="By contrast, the higher number of genetic abnormalities required for tumor initiation and maintenance in tricarboxylic acid cycle PPGL result in a lower penetrance of PGL, but when cells give rise to metastases they are assumed to be better adapted to sustain survival.">
+    <entity charOffset="69-74" id="30106970.s4.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="105-129" id="30106970.s4.e1" ontology_id="GO_0006099" text="tricarboxylic acid cycle" type="GO"/>
+    <pair e1="30106970.s4.e0" e2="30106970.s4.e1" id="30106970.s4.p0" relation="true"/>
+  </sentence>
+</document>

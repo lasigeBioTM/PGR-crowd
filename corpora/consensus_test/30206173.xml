@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30206173">
+  <sentence id="30206173.s0" text="We confirmed previous studies showing that tumor necrosis factor alpha (negative regulation of transcription by RNA polymerase II-α) induced reactivation of infectious virus, and by analyzing expression of the progenitor cell marker CD34 as well as myeloid cell differentiation markers in IE&lt;sup&gt;+&lt;/sup&gt; cells after treatment with TNF-α, we showed that TNF-α induced transcriptional reactivation of IE gene expression independently of differentiation.">
+    <entity charOffset="43-48" id="30206173.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="72-129" id="30206173.s0.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="30206173.s0.e0" e2="30206173.s0.e1" id="30206173.s0.p0" relation="false"/>
+  </sentence>
+</document>

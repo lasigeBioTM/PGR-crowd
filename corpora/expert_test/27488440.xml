@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="27488440">
+  <sentence id="27488440.s0" text="Downregulation of miR-29a caused overexpression of LOXL2 and response to unfolded protein in lung cancer and IPF, suggesting that these genes are involved in the pathogenesis of these two diseases">
+    <entity charOffset="61-89" id="27488440.s0.e0" ontology_id="GO_0006986" text="response to unfolded protein" type="GO"/>
+    <entity charOffset="98-104" id="27488440.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27488440.s0.e0" e2="27488440.s0.e1" id="27488440.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="27488440.s1" text="Overexpression of LOXL2 and response to unfolded protein was observed in clinical specimens of lung cancer and fibrotic lesions.">
+    <entity charOffset="28-56" id="27488440.s1.e0" ontology_id="GO_0006986" text="response to unfolded protein" type="GO"/>
+    <entity charOffset="100-106" id="27488440.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27488440.s1.e0" e2="27488440.s1.e1" id="27488440.s1.p0" relation="true"/>
+  </sentence>
+</document>

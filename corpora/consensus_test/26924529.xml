@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="26924529">
+  <sentence id="26924529.s0" text="Affected individuals presented with prenatal-onset spinal muscular atrophy (spliceosomal snRNP assembly), multiple congenital contractures (arthrogryposis multiplex congenita), respiratory distress, and congenital bone fractures.">
+    <entity charOffset="76-103" id="26924529.s0.e0" ontology_id="GO_0000387" text="spliceosomal snRNP assembly" type="GO"/>
+    <entity charOffset="203-228" id="26924529.s0.e1" ontology_id="HP_0005855" text="congenital bone fractures" type="HP"/>
+  </sentence>
+</document>

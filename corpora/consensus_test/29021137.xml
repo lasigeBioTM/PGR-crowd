@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29021137">
+  <sentence id="29021137.s0" text="Our results identify protein polyubiquitination as both a partner and regulator of Wnt signaling, with an important role in suppressing colon cancer development.">
+    <entity charOffset="21-47" id="29021137.s0.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="142-148" id="29021137.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29021137.s0.e0" e2="29021137.s0.e1" id="29021137.s0.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="26053550">
+  <sentence id="26053550.s0" text="However, we observed nominal significant associations of 2 SNPs in the NDUFS1 gene and 4 SNPs in the NDUFS2 gene with early onset schizophrenia (protein homooligomerization), but none of these associations survived the Bonferroni correction.">
+    <entity charOffset="130-143" id="26053550.s0.e0" ontology_id="HP_0100753" text="schizophrenia" type="HP"/>
+    <entity charOffset="145-172" id="26053550.s0.e1" ontology_id="GO_0051260" text="protein homooligomerization" type="GO"/>
+  </sentence>
+</document>

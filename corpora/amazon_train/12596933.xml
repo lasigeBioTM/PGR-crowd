@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<document id="12596933">
+  <sentence id="12596933.s0" text="the quantitative aspects of the Ca2+-feedback to Ret-GCs in regulating the T cell costimulation sensitivity and adaptation in intact rods; 2. functional differences between positive regulation of guanylate cyclase activity and receptor guanylyl cyclase signaling pathway in intact rod photoreceptors; and 3. whether positive regulation of guanylate cyclase activity mutants with impaired Ca2+ binding lead to retinal disease in vivo by constitutive activation of Ret-GCs and elevation of intracellular cGMP, as predicted from in vitro studies">
+    <entity charOffset="75-95" id="12596933.s0.e0" ontology_id="GO_0031295" text="T cell costimulation" type="GO"/>
+    <entity charOffset="173-222" id="12596933.s0.e1" ontology_id="GO_0031284" text="positive regulation of guanylate cyclase activity" type="GO"/>
+    <entity charOffset="227-270" id="12596933.s0.e2" ontology_id="GO_0007168" text="receptor guanylyl cyclase signaling pathway" type="GO"/>
+    <entity charOffset="316-365" id="12596933.s0.e3" ontology_id="GO_0031284" text="positive regulation of guanylate cyclase activity" type="GO"/>
+    <entity charOffset="409-424" id="12596933.s0.e4" ontology_id="HP_0000479" text="retinal disease" type="HP"/>
+    <pair e1="12596933.s0.e0" e2="12596933.s0.e4" id="12596933.s0.p0" relation="true"/>
+    <pair e1="12596933.s0.e1" e2="12596933.s0.e4" id="12596933.s0.p1" relation="true"/>
+    <pair e1="12596933.s0.e2" e2="12596933.s0.e4" id="12596933.s0.p2" relation="true"/>
+    <pair e1="12596933.s0.e3" e2="12596933.s0.e4" id="12596933.s0.p3" relation="true"/>
+  </sentence>
+</document>

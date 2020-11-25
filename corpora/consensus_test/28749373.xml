@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="28749373">
+  <sentence id="28749373.s0" text="For complex disease sites like breast, head and neck, and lung cancer, the regulation of transcription, DNA-templated-MC algorithm will provide significantly more accurate treatment planning">
+    <entity charOffset="63-69" id="28749373.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="75-117" id="28749373.s0.e1" ontology_id="GO_0006355" text="regulation of transcription, DNA-templated" type="GO"/>
+  </sentence>
+</document>

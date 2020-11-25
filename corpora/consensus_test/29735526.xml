@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29735526">
+  <sentence id="29735526.s0" text="Finally, the proteasome inhibitor bortezomib is a potent enhancer of global developmental delay in our fly model, evidence of a defective proteasome &amp;quot;bounce-back&amp;quot; response that is also observed in nematode and cellular models of glycoprotein catabolic process Deficiency.">
+    <entity charOffset="76-95" id="29735526.s0.e0" ontology_id="HP_0001263" text="developmental delay" type="HP"/>
+    <entity charOffset="239-269" id="29735526.s0.e1" ontology_id="GO_0006516" text="glycoprotein catabolic process" type="GO"/>
+    <pair e1="29735526.s0.e0" e2="29735526.s0.e1" id="29735526.s0.p0" relation="false"/>
+  </sentence>
+</document>

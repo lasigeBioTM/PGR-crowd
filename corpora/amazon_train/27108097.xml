@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27108097">
+  <sentence id="27108097.s0" text="On the other hand, intraperitoneal administration of PQQ exerted protective effects on rats that had received rotenone injection into the medial forebrain bundle through decreasing the apomorphine-evoked rotation, inhibiting neuronal loss and TH down-regulation in SNc, increasing the antioxidative ability, and regulating intracellular expressions of apoptotic mitochondrial changes and Ndufs 4.">
+    <entity charOffset="225-238" id="27108097.s0.e0" ontology_id="HP_0002529" text="neuronal loss" type="HP"/>
+    <entity charOffset="352-383" id="27108097.s0.e1" ontology_id="GO_0008637" text="apoptotic mitochondrial changes" type="GO"/>
+    <pair e1="27108097.s0.e0" e2="27108097.s0.e1" id="27108097.s0.p0" relation="true"/>
+  </sentence>
+</document>

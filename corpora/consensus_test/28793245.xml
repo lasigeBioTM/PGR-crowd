@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<document id="28793245">
+  <sentence id="28793245.s0" text="osteoblast differentiation expression is absent in normal urothelial cells, but it begins to be expressed in pre-neoplastic bladder tumors and continues to be expressed in invasive mouse BCa.">
+    <entity charOffset="0-26" id="28793245.s0.e0" ontology_id="GO_0001649" text="osteoblast differentiation" type="GO"/>
+    <entity charOffset="132-138" id="28793245.s0.e1" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <pair e1="28793245.s0.e0" e2="28793245.s0.e1" id="28793245.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28793245.s1" text="Ablation of osteoblast differentiation-expressing cells within primary invasive intracellular signal transduction led to enhanced tumor regression, supporting the essential role of SOX2-positive cells in regulating BCa maintenance and progression.">
+    <entity charOffset="12-38" id="28793245.s1.e0" ontology_id="GO_0001649" text="osteoblast differentiation" type="GO"/>
+    <entity charOffset="80-113" id="28793245.s1.e1" ontology_id="GO_0035556" text="intracellular signal transduction" type="GO"/>
+    <entity charOffset="130-135" id="28793245.s1.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28793245.s1.e0" e2="28793245.s1.e2" id="28793245.s1.p0" relation="true"/>
+    <pair e1="28793245.s1.e1" e2="28793245.s1.e2" id="28793245.s1.p1" relation="true"/>
+  </sentence>
+  <sentence id="28793245.s2" text="Using s as a reporter of Sox2 transcriptional expression, we demonstrated that Sox2-expressing cells protein phosphorylation a subpopulation of tumor cells that fuel the growth of established BCa.">
+    <entity charOffset="101-124" id="28793245.s2.e0" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <entity charOffset="144-149" id="28793245.s2.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+  </sentence>
+</document>

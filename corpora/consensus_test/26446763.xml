@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="26446763">
+  <sentence id="26446763.s0" text="Mutations in magnesium ion homeostasis were shown to cause hypomagnesemia, seizures and intellectual disability.">
+    <entity charOffset="13-38" id="26446763.s0.e0" ontology_id="GO_0010960" text="magnesium ion homeostasis" type="GO"/>
+    <entity charOffset="75-83" id="26446763.s0.e1" ontology_id="HP_0001250" text="seizures" type="HP"/>
+    <pair e1="26446763.s0.e0" e2="26446763.s0.e1" id="26446763.s0.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="29307790">
+  <sentence id="29307790.s0" text="The aCGH analysis revealed a pathogenic CNV in the 14q11.2 region, while targeted exome sequencing revealed pathogenic variants in genes associated with intellectual disability (HUWE1, biological_process), including a gene coding for mandibulofacial dysostosis with microcephaly (mRNA splicing, via spliceosome).">
+    <entity charOffset="185-203" id="29307790.s0.e0" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="234-260" id="29307790.s0.e1" ontology_id="HP_0005321" text="mandibulofacial dysostosis" type="HP"/>
+    <entity charOffset="266-278" id="29307790.s0.e2" ontology_id="HP_0000252" text="microcephaly" type="HP"/>
+    <entity charOffset="280-310" id="29307790.s0.e3" ontology_id="GO_0000398" text="mRNA splicing, via spliceosome" type="GO"/>
+    <pair e1="29307790.s0.e0" e2="29307790.s0.e1" id="29307790.s0.p0" relation="false"/>
+    <pair e1="29307790.s0.e0" e2="29307790.s0.e2" id="29307790.s0.p1" relation="false"/>
+    <pair e1="29307790.s0.e1" e2="29307790.s0.e3" id="29307790.s0.p2" relation="true"/>
+    <pair e1="29307790.s0.e2" e2="29307790.s0.e3" id="29307790.s0.p3" relation="true"/>
+  </sentence>
+</document>

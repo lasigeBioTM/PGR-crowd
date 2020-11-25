@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<document id="30005951">
+  <sentence id="30005951.s0" text="Besides dramatic metabolic alterations, cancer cells display severe changes in the protein acetylation phenotype with likely consequences in tumor progression and treatment response.">
+    <entity charOffset="83-102" id="30005951.s0.e0" ontology_id="GO_0006473" text="protein acetylation" type="GO"/>
+    <entity charOffset="141-146" id="30005951.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="30005951.s0.e0" e2="30005951.s0.e1" id="30005951.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="30005951.s1" text="In this study, we use a comprehensive systems-driven approach to investigate the effect of protein acetylation disruption on metabolic pathways and its negative regulation of transcription by RNA polymerase II on drug response in a cellular model of colon cancer progression.">
+    <entity charOffset="91-110" id="30005951.s1.e0" ontology_id="GO_0006473" text="protein acetylation" type="GO"/>
+    <entity charOffset="152-209" id="30005951.s1.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="256-262" id="30005951.s1.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30005951.s1.e0" e2="30005951.s1.e2" id="30005951.s1.p0" relation="false"/>
+    <pair e1="30005951.s1.e1" e2="30005951.s1.e2" id="30005951.s1.p1" relation="false"/>
+  </sentence>
+  <sentence id="30005951.s2" text="A mapping of the expression data to a comprehensive genome-scale reconstruction of human metabolism allowed for the in-depth functional characterization of 24 h-oscillating transcripts and pointed to a protein acetylation-driven metabolic reprogramming in tumorigenesis.">
+    <entity charOffset="202-221" id="30005951.s2.e0" ontology_id="GO_0006473" text="protein acetylation" type="GO"/>
+    <entity charOffset="256-261" id="30005951.s2.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="30005951.s2.e0" e2="30005951.s2.e1" id="30005951.s2.p0" relation="false"/>
+  </sentence>
+  <sentence id="30005951.s3" text="We further identified a reciprocal connection of hexose metabolic process to the protein acetylation in the primary tumor, which is lost in the metastatic cells.">
+    <entity charOffset="49-73" id="30005951.s3.e0" ontology_id="GO_0019318" text="hexose metabolic process" type="GO"/>
+    <entity charOffset="81-100" id="30005951.s3.e1" ontology_id="GO_0006473" text="protein acetylation" type="GO"/>
+    <entity charOffset="116-121" id="30005951.s3.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="30005951.s3.e0" e2="30005951.s3.e2" id="30005951.s3.p0" relation="false"/>
+    <pair e1="30005951.s3.e1" e2="30005951.s3.e2" id="30005951.s3.p1" relation="false"/>
+  </sentence>
+</document>

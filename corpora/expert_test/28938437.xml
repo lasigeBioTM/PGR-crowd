@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28938437">
+  <sentence id="28938437.s0" text="In response to surgical induction of endometriosis, regulation of transcription involved in G1/S transition of mitotic cell cycle-/- female mice develop significant fibrosis in contrast to wild-type mice.">
+    <entity charOffset="37-50" id="28938437.s0.e0" ontology_id="HP_0030127" text="endometriosis" type="HP"/>
+    <entity charOffset="52-129" id="28938437.s0.e1" ontology_id="GO_0000083" text="regulation of transcription involved in G1/S transition of mitotic cell cycle" type="GO"/>
+    <pair e1="28938437.s0.e0" e2="28938437.s0.e1" id="28938437.s0.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="28401061">
+  <sentence id="28401061.s0" text="Transcription factors (TFs) are major cell negative regulation of apoptotic process regulators frequently involved in cancer, particularly in leukemia.">
+    <entity charOffset="43-83" id="28401061.s0.e0" ontology_id="GO_0043066" text="negative regulation of apoptotic process" type="GO"/>
+    <entity charOffset="118-124" id="28401061.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+  </sentence>
+</document>

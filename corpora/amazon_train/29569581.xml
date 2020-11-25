@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="29569581">
+  <sentence id="29569581.s0" text="All three and two patients with negative regulation of transcription by RNA polymerase II variants had hypothyroidism and developmental delay, respectively.">
+    <entity charOffset="32-89" id="29569581.s0.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="103-117" id="29569581.s0.e1" ontology_id="HP_0000821" text="hypothyroidism" type="HP"/>
+    <entity charOffset="122-141" id="29569581.s0.e2" ontology_id="HP_0001263" text="developmental delay" type="HP"/>
+    <pair e1="29569581.s0.e0" e2="29569581.s0.e1" id="29569581.s0.p0" relation="true"/>
+    <pair e1="29569581.s0.e0" e2="29569581.s0.e2" id="29569581.s0.p1" relation="false"/>
+  </sentence>
+</document>

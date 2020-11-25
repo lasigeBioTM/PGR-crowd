@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30180950">
+  <sentence id="30180950.s0" text="Taken together, our results illustrated that LINC00963-miR-608-protein homooligomerization pathway might be a potential target for melanoma therapy">
+    <entity charOffset="63-90" id="30180950.s0.e0" ontology_id="GO_0051260" text="protein homooligomerization" type="GO"/>
+    <entity charOffset="131-139" id="30180950.s0.e1" ontology_id="HP_0002861" text="melanoma" type="HP"/>
+    <pair e1="30180950.s0.e0" e2="30180950.s0.e1" id="30180950.s0.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="27607025">
+  <sentence id="27607025.s0" text="As a reason why the present case showed lethal phenomuscle organ development despite the in-frame deletion mutation, rapid degradation of neo-synthesized α6 protein and/or impaired transport of integrin were suggested from previous reports, and the lack of localization of integrin α6β4 to the epidermal basement membrane resulted in skin fragility.">
+    <entity charOffset="52-76" id="27607025.s0.e0" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="334-348" id="27607025.s0.e1" ontology_id="HP_0001030" text="skin fragility" type="HP"/>
+  </sentence>
+</document>

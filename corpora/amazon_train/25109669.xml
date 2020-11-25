@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="25109669">
+  <sentence id="25109669.s0" text="Episodic ataxia type 2 (positive regulation of cytosolic calcium ion concentration) is an autosomal dominant disorder associated with attacks of ataxia that are typically precipitated by stress, ethanol, caffeine or exercise.">
+    <entity charOffset="9-15" id="25109669.s0.e0" ontology_id="HP_0001251" text="ataxia" type="HP"/>
+    <entity charOffset="24-82" id="25109669.s0.e1" ontology_id="GO_0007204" text="positive regulation of cytosolic calcium ion concentration" type="GO"/>
+    <pair e1="25109669.s0.e0" e2="25109669.s0.e1" id="25109669.s0.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="25965574">
+  <sentence id="25965574.s0" text="TAF12, regulation of transcription, DNA-templated, and DNA repair co-located on human chromosome 1p32-35.3 and mouse chromosome 4qD1-D3 were identified as oncogenes that are gained in tumors in both species and required for disease initiation and progression.">
+    <entity charOffset="7-49" id="25965574.s0.e0" ontology_id="GO_0006355" text="regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="55-65" id="25965574.s0.e1" ontology_id="GO_0006281" text="DNA repair" type="GO"/>
+    <entity charOffset="184-190" id="25965574.s0.e2" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <pair e1="25965574.s0.e0" e2="25965574.s0.e2" id="25965574.s0.p0" relation="false"/>
+    <pair e1="25965574.s0.e1" e2="25965574.s0.e2" id="25965574.s0.p1" relation="true"/>
+  </sentence>
+</document>

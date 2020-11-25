@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<document id="25357075">
+  <sentence id="25357075.s0" text="Mutations in the membrane frizzled-related protein (embryo development ending in birth or egg hatching/Mfrp) gene, specifically expressed in the retinal pigment epithelium (RPE) and ciliary body, cause nanophthalmia or posterior microphthalmia with retinitis pigmentosa in humans, and photoreceptor degeneration in mice.">
+    <entity charOffset="52-102" id="25357075.s0.e0" ontology_id="GO_0009792" text="embryo development ending in birth or egg hatching" type="GO"/>
+    <entity charOffset="229-243" id="25357075.s0.e1" ontology_id="HP_0000568" text="microphthalmia" type="HP"/>
+    <pair e1="25357075.s0.e0" e2="25357075.s0.e1" id="25357075.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="25357075.s1" text="In embryo development ending in birth or egg hatchingrd6 eyes, a significant 1.5- to 2.0-fold decrease was observed among transcripts of genes linked to retinal degeneration, including those involved in visual cycle (retinoid metabolic process, Lrat, Rgr), phototransduction (G protein-coupled receptor signaling pathway, receptor guanylyl cyclase signaling pathway, Rgs9), and photoreceptor disc morphogenesis (Rpgrip1 and actin cytoskeleton organization).">
+    <entity charOffset="3-53" id="25357075.s1.e0" ontology_id="GO_0009792" text="embryo development ending in birth or egg hatching" type="GO"/>
+    <entity charOffset="153-173" id="25357075.s1.e1" ontology_id="HP_0000546" text="retinal degeneration" type="HP"/>
+    <entity charOffset="217-243" id="25357075.s1.e2" ontology_id="GO_0001523" text="retinoid metabolic process" type="GO"/>
+    <entity charOffset="276-320" id="25357075.s1.e3" ontology_id="GO_0007186" text="G protein-coupled receptor signaling pathway" type="GO"/>
+    <entity charOffset="322-365" id="25357075.s1.e4" ontology_id="GO_0007168" text="receptor guanylyl cyclase signaling pathway" type="GO"/>
+    <entity charOffset="424-455" id="25357075.s1.e5" ontology_id="GO_0030036" text="actin cytoskeleton organization" type="GO"/>
+    <pair e1="25357075.s1.e0" e2="25357075.s1.e1" id="25357075.s1.p0" relation="true"/>
+    <pair e1="25357075.s1.e1" e2="25357075.s1.e2" id="25357075.s1.p1" relation="true"/>
+    <pair e1="25357075.s1.e1" e2="25357075.s1.e3" id="25357075.s1.p2" relation="true"/>
+    <pair e1="25357075.s1.e1" e2="25357075.s1.e4" id="25357075.s1.p3" relation="true"/>
+    <pair e1="25357075.s1.e1" e2="25357075.s1.e5" id="25357075.s1.p4" relation="true"/>
+  </sentence>
+  <sentence id="25357075.s2" text="Transcripts of camera-type eye development, a gene associated with angle-closure glaucoma, posterior microphthalmia and myopia, were increased in embryo development ending in birth or egg hatchingrd6 eyes by 17-fold.">
+    <entity charOffset="15-42" id="25357075.s2.e0" ontology_id="GO_0043010" text="camera-type eye development" type="GO"/>
+    <entity charOffset="81-89" id="25357075.s2.e1" ontology_id="HP_0000501" text="glaucoma" type="HP"/>
+    <entity charOffset="101-115" id="25357075.s2.e2" ontology_id="HP_0000568" text="microphthalmia" type="HP"/>
+    <entity charOffset="120-126" id="25357075.s2.e3" ontology_id="HP_0000545" text="myopia" type="HP"/>
+    <entity charOffset="146-196" id="25357075.s2.e4" ontology_id="GO_0009792" text="embryo development ending in birth or egg hatching" type="GO"/>
+    <pair e1="25357075.s2.e0" e2="25357075.s2.e2" id="25357075.s2.p0" relation="true"/>
+    <pair e1="25357075.s2.e0" e2="25357075.s2.e1" id="25357075.s2.p1" relation="true"/>
+    <pair e1="25357075.s2.e0" e2="25357075.s2.e3" id="25357075.s2.p2" relation="true"/>
+    <pair e1="25357075.s2.e1" e2="25357075.s2.e4" id="25357075.s2.p3" relation="true"/>
+    <pair e1="25357075.s2.e3" e2="25357075.s2.e4" id="25357075.s2.p4" relation="true"/>
+  </sentence>
+</document>

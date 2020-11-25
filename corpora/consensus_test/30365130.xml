@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="30365130">
+  <sentence id="30365130.s0" text="Following examination of the association of the identified SNPs to serum concentrations of triglycerides, HDL‑cholesterol, or LDL‑cholesterol, linkage disequilibrium of the SNPs, and results of previous genome‑wide association studies, we newly identified chromosomal region 19p12 as a susceptibility locus for hypertriglyceridemia, eight loci (MOB3C‑TMOD4, positive regulation of fatty acid biosynthetic process, EHD3, COL6A3, ZNF860‑CACNA1D, COL6A5, DCLRE1C, ZNF77) for hypo‑HDL‑cholesterolemia, and three loci (KIAA0319‑FAM65B, UBD, LOC105375015) for hyper‑LDL‑cholesterolemia.">
+    <entity charOffset="311-331" id="30365130.s0.e0" ontology_id="HP_0002155" text="hypertriglyceridemia" type="HP"/>
+    <entity charOffset="358-412" id="30365130.s0.e1" ontology_id="GO_0045723" text="positive regulation of fatty acid biosynthetic process" type="GO"/>
+    <pair e1="30365130.s0.e0" e2="30365130.s0.e1" id="30365130.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="30365130.s1" text="Multivariable logistic regression analysis with adjustment for age and multicellular organism development revealed that all 25, 28 and 65 of these SNPs were significantly associated with hypertriglyceridemia, hypo‑HDL‑cholesterolemia and hyper‑LDL‑cholesterolemia, respectively.">
+    <entity charOffset="71-105" id="30365130.s1.e0" ontology_id="GO_0007275" text="multicellular organism development" type="GO"/>
+    <entity charOffset="187-207" id="30365130.s1.e1" ontology_id="HP_0002155" text="hypertriglyceridemia" type="HP"/>
+  </sentence>
+</document>

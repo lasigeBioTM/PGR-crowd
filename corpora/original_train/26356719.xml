@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="26356719">
+  <sentence id="26356719.s0" text="Therefore, we performed this preliminary clinical study to investigate the possible association between 2 adipokines, C1q/tumor necrosis factor-related protein-3 and -5 (CTRP-3 and CTRP-5), with lung function and other markers of inflammation in intracellular protein transport.">
+    <entity charOffset="122-127" id="26356719.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="246-277" id="26356719.s0.e1" ontology_id="GO_0006886" text="intracellular protein transport" type="GO"/>
+    <pair e1="26356719.s0.e0" e2="26356719.s0.e1" id="26356719.s0.p0" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30043672">
+  <sentence id="30043672.s0" text="The therapeutic strategy to recover immune function through the restoration of impaired Tregs function with the mounting evidences regarding positive regulation of protein phosphorylation in autoimmune mediated disorder (MS, SLE, RA, T1D) suggest as working hypothesis the direct targeting KRAS activation using cancer-derived small molecules may be clinically relevant">
+    <entity charOffset="141-187" id="30043672.s0.e0" ontology_id="GO_0001934" text="positive regulation of protein phosphorylation" type="GO"/>
+    <entity charOffset="312-318" id="30043672.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30043672.s0.e0" e2="30043672.s0.e1" id="30043672.s0.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="29666340">
+  <sentence id="29666340.s0" text="There was a significantly higher expression level of negative regulation of B cell apoptotic process in the tumour than in the adjacent normal tissue (0.0052 ± 0.0021 vs 0.0027 ± 0.0018, P &amp;lt; 0.001).">
+    <entity charOffset="53-100" id="29666340.s0.e0" ontology_id="GO_0002903" text="negative regulation of B cell apoptotic process" type="GO"/>
+    <entity charOffset="108-114" id="29666340.s0.e1" ontology_id="HP_0002664" text="tumour" type="HP"/>
+    <pair e1="29666340.s0.e0" e2="29666340.s0.e1" id="29666340.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29666340.s1" text="Patients with genotype AA were found to have remarkably higher negative regulation of B cell apoptotic process expression in the tumour than those with genotype CC (P = 0.01).">
+    <entity charOffset="63-110" id="29666340.s1.e0" ontology_id="GO_0002903" text="negative regulation of B cell apoptotic process" type="GO"/>
+    <entity charOffset="129-135" id="29666340.s1.e1" ontology_id="HP_0002664" text="tumour" type="HP"/>
+    <pair e1="29666340.s1.e0" e2="29666340.s1.e1" id="29666340.s1.p0" relation="true"/>
+  </sentence>
+</document>

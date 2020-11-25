@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29346644">
+  <sentence id="29346644.s0" text="Furthermore, we detected association of rs58978565 near TNR (P = 2.3 × 10-8), rs28368872 near biological_process (P = 2.9 × 10-8) and rs142450006 near MMP9 (P = 0.0006) with progression to choroidal neovascularization but not geographic atrophy.">
+    <entity charOffset="94-112" id="29346644.s0.e0" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="189-217" id="29346644.s0.e1" ontology_id="HP_0011506" text="choroidal neovascularization" type="HP"/>
+    <pair e1="29346644.s0.e0" e2="29346644.s0.e1" id="29346644.s0.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27261254">
+  <sentence id="27261254.s0" text="Mutations in carbohydrate metabolic process, which codes for an enzyme early in brain ganglioside biosynthesis, result in an early-onset seizure disorder with profound motor and cognitive decay, whereas mutations in B4GALNT1, a gene encoding a later step, result in hereditary spastic paraplegia accompanied by intellectual deficits.">
+    <entity charOffset="13-43" id="27261254.s0.e0" ontology_id="GO_0005975" text="carbohydrate metabolic process" type="GO"/>
+    <entity charOffset="137-144" id="27261254.s0.e1" ontology_id="HP_0001250" text="seizure" type="HP"/>
+    <pair e1="27261254.s0.e0" e2="27261254.s0.e1" id="27261254.s0.p0" relation="true"/>
+  </sentence>
+</document>

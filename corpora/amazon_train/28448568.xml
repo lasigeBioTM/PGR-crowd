@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="28448568">
+  <sentence id="28448568.s0" text="The therapeutic capacity of fenretinide (N-[4-hydroxyphenyl] retinamide; 4-receptor-mediated endocytosis) has been demonstrated for several conditions, including cancer, obesity, diabetes, and ocular disease.">
+    <entity charOffset="75-104" id="28448568.s0.e0" ontology_id="GO_0006898" text="receptor-mediated endocytosis" type="GO"/>
+    <entity charOffset="170-177" id="28448568.s0.e1" ontology_id="HP_0001513" text="obesity" type="HP"/>
+  </sentence>
+  <sentence id="28448568.s1" text="For example, administration of 3-keto-receptor-mediated endocytosis instead of fenretinide may be preferential if inhibition of SCD1 or unsaturated fatty acid biosynthetic process activity is the goal (cancer), while MPR may be better for retinoid metabolic process modulation (carotenoid metabolism).">
+    <entity charOffset="38-67" id="28448568.s1.e0" ontology_id="GO_0006898" text="receptor-mediated endocytosis" type="GO"/>
+    <entity charOffset="136-179" id="28448568.s1.e1" ontology_id="GO_0006636" text="unsaturated fatty acid biosynthetic process" type="GO"/>
+    <entity charOffset="202-208" id="28448568.s1.e2" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="239-265" id="28448568.s1.e3" ontology_id="GO_0001523" text="retinoid metabolic process" type="GO"/>
+    <pair e1="28448568.s1.e1" e2="28448568.s1.e2" id="28448568.s1.p0" relation="true"/>
+    <pair e1="28448568.s1.e2" e2="28448568.s1.e3" id="28448568.s1.p1" relation="true"/>
+  </sentence>
+</document>

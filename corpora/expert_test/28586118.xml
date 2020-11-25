@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="28586118">
+  <sentence id="28586118.s0" text="A panel of hypermethylated genes including APC, CSPG2, neuron development, visual perception, HOXA9, pyruvate metabolic process, cardiac cell fate determination, JAK3, regulation of transcription, DNA-templated, SOX1, and negative regulation of transcription, DNA-templated predicted cancer-specific survival and SOX1 (HR = 3.46), PITX2 (HR = 4.17), CSPG2 (HR = 5.35), and JAK3 hypermethylation (HR = 0.19) did so independently.">
+    <entity charOffset="55-73" id="28586118.s0.e0" ontology_id="GO_0048666" text="neuron development" type="GO"/>
+    <entity charOffset="75-92" id="28586118.s0.e1" ontology_id="GO_0007601" text="visual perception" type="GO"/>
+    <entity charOffset="101-127" id="28586118.s0.e2" ontology_id="GO_0006090" text="pyruvate metabolic process" type="GO"/>
+    <entity charOffset="129-160" id="28586118.s0.e3" ontology_id="GO_0060913" text="cardiac cell fate determination" type="GO"/>
+    <entity charOffset="168-210" id="28586118.s0.e4" ontology_id="GO_0006355" text="regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="222-273" id="28586118.s0.e5" ontology_id="GO_0045892" text="negative regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="284-290" id="28586118.s0.e6" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28586118.s0.e0" e2="28586118.s0.e6" id="28586118.s0.p0" relation="true"/>
+    <pair e1="28586118.s0.e1" e2="28586118.s0.e6" id="28586118.s0.p1" relation="true"/>
+    <pair e1="28586118.s0.e2" e2="28586118.s0.e6" id="28586118.s0.p2" relation="true"/>
+    <pair e1="28586118.s0.e3" e2="28586118.s0.e6" id="28586118.s0.p3" relation="true"/>
+    <pair e1="28586118.s0.e4" e2="28586118.s0.e6" id="28586118.s0.p4" relation="true"/>
+    <pair e1="28586118.s0.e5" e2="28586118.s0.e6" id="28586118.s0.p5" relation="true"/>
+  </sentence>
+</document>

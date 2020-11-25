@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<document id="30459815">
+  <sentence id="30459815.s0" text="Silencing expression of G1/S transition of mitotic cell cycle, transforming growth factor beta receptor signaling pathway and regulation of transcription, DNA-templated in the human oral cancer cell line OECM-1 confirmed that those genes play essential roles in oral cancer cell invasion.">
+    <entity charOffset="24-61" id="30459815.s0.e0" ontology_id="GO_0000082" text="G1/S transition of mitotic cell cycle" type="GO"/>
+    <entity charOffset="63-121" id="30459815.s0.e1" ontology_id="GO_0007179" text="transforming growth factor beta receptor signaling pathway" type="GO"/>
+    <entity charOffset="126-168" id="30459815.s0.e2" ontology_id="GO_0006355" text="regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="187-193" id="30459815.s0.e3" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30459815.s0.e0" e2="30459815.s0.e3" id="30459815.s0.p0" relation="true"/>
+    <pair e1="30459815.s0.e1" e2="30459815.s0.e3" id="30459815.s0.p1" relation="true"/>
+    <pair e1="30459815.s0.e2" e2="30459815.s0.e3" id="30459815.s0.p2" relation="true"/>
+  </sentence>
+  <sentence id="30459815.s1" text="Our study identified a unique gene signature - G1/S transition of mitotic cell cycle, transforming growth factor beta receptor signaling pathway and regulation of transcription, DNA-templated - which may be involved in oral cancer lymph node metastasis">
+    <entity charOffset="47-84" id="30459815.s1.e0" ontology_id="GO_0000082" text="G1/S transition of mitotic cell cycle" type="GO"/>
+    <entity charOffset="86-144" id="30459815.s1.e1" ontology_id="GO_0007179" text="transforming growth factor beta receptor signaling pathway" type="GO"/>
+    <entity charOffset="149-191" id="30459815.s1.e2" ontology_id="GO_0006355" text="regulation of transcription, DNA-templated" type="GO"/>
+    <entity charOffset="224-230" id="30459815.s1.e3" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30459815.s1.e0" e2="30459815.s1.e3" id="30459815.s1.p0" relation="true"/>
+    <pair e1="30459815.s1.e1" e2="30459815.s1.e3" id="30459815.s1.p1" relation="true"/>
+    <pair e1="30459815.s1.e2" e2="30459815.s1.e3" id="30459815.s1.p2" relation="true"/>
+  </sentence>
+</document>

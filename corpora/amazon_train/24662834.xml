@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<document id="24662834">
+  <sentence id="24662834.s0" text="Here, we show that invasive breast tumors exhibit significant spermatogenesis-ITH and that this heterogeneity is critical for tumor growth and metastasis.">
+    <entity charOffset="35-41" id="24662834.s0.e0" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <entity charOffset="62-77" id="24662834.s0.e1" ontology_id="GO_0007283" text="spermatogenesis" type="GO"/>
+    <entity charOffset="96-109" id="24662834.s0.e2" ontology_id="HP_0001425" text="heterogeneity" type="HP"/>
+    <entity charOffset="126-131" id="24662834.s0.e3" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="24662834.s0.e0" e2="24662834.s0.e1" id="24662834.s0.p0" relation="true"/>
+    <pair e1="24662834.s0.e1" e2="24662834.s0.e2" id="24662834.s0.p1" relation="true"/>
+    <pair e1="24662834.s0.e1" e2="24662834.s0.e3" id="24662834.s0.p2" relation="true"/>
+  </sentence>
+  <sentence id="24662834.s1" text="Rather, we observed that, in ADAM23-heterotypic environments, ADAM23-negative cells promote tumor growth and metastasis by enhancing the proliferation and invasion of adjacent A23-positive cells through the production of regulation of myelination (Leucine-rich Glioma Inactivated 4) and nitric oxide (NO).">
+    <entity charOffset="92-97" id="24662834.s1.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="221-246" id="24662834.s1.e1" ontology_id="GO_0031641" text="regulation of myelination" type="GO"/>
+    <pair e1="24662834.s1.e0" e2="24662834.s1.e1" id="24662834.s1.p0" relation="true"/>
+  </sentence>
+</document>

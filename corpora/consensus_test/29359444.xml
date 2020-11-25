@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="29359444">
+  <sentence id="29359444.s0" text="Arp2/3 complex-mediated actin nucleation mutations, first reported to be the cause of the Prader-Willi like syndrome with autism by Schaaf et al. (2013) Nature Genetics, 45: 1405-1408 show the wide range of phenotypic spectrum from lethal arthrogryposis multiplex congenital to autism spectrum disorder (ASD) and mild intellectual disability (ID).">
+    <entity charOffset="0-40" id="29359444.s0.e0" ontology_id="GO_0034314" text="Arp2/3 complex-mediated actin nucleation" type="GO"/>
+    <entity charOffset="122-128" id="29359444.s0.e1" ontology_id="HP_0000717" text="autism" type="HP"/>
+    <pair e1="29359444.s0.e0" e2="29359444.s0.e1" id="29359444.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29359444.s1" text="Our results indicate that Arp2/3 complex-mediated actin nucleation mutations cause multiple congenital anomalies and intellectual disability accompanied by arthrogryposis multiplex congenita and various endocrinologic abnormalities, supporting that the view that clinical phenotypes of MAGEL2 mutations are variable">
+    <entity charOffset="26-66" id="29359444.s1.e0" ontology_id="GO_0034314" text="Arp2/3 complex-mediated actin nucleation" type="GO"/>
+    <entity charOffset="117-140" id="29359444.s1.e1" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <pair e1="29359444.s1.e0" e2="29359444.s1.e1" id="29359444.s1.p0" relation="true"/>
+  </sentence>
+</document>

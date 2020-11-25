@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<document id="22196487">
+  <sentence id="22196487.s0" text="We summarize recent updates on the genes and related clinical syndromes involved in the pathogenesis of early-onset epileptic encephalopathies: Aristaless-related homeobox (protein sumoylation), cyclin-dependent kinase-like 5 (CDKL5), syntaxin-binding protein 1 (protein localization to plasma membrane), solute carrier family 25 member 22 (L-glutamate transmembrane transport), nonerythrocytic α-spectrin-1 (MAPK cascade), phospholipase Cβ1 (PLCβ1), membrane-associated guanylate kinase inverted-2 (MAGI2), polynucleotide kinase 3'-phosphatase (response to oxidative stress), sodium channel neuronal muscle organ development 1α subunit (cardiac muscle cell action potential involved in contraction), protocadherin 19 (PCDH19), and pyridoxamine 5-prime-phosphate oxidase (pyridoxal phosphate biosynthetic process)">
+    <entity charOffset="116-142" id="22196487.s0.e0" ontology_id="HP_0200134" text="epileptic encephalopathies" type="HP"/>
+    <entity charOffset="173-192" id="22196487.s0.e1" ontology_id="GO_0016925" text="protein sumoylation" type="GO"/>
+    <entity charOffset="263-302" id="22196487.s0.e2" ontology_id="GO_0072659" text="protein localization to plasma membrane" type="GO"/>
+    <entity charOffset="341-376" id="22196487.s0.e3" ontology_id="GO_0015813" text="L-glutamate transmembrane transport" type="GO"/>
+    <entity charOffset="409-421" id="22196487.s0.e4" ontology_id="GO_0000165" text="MAPK cascade" type="GO"/>
+    <entity charOffset="546-574" id="22196487.s0.e5" ontology_id="GO_0006979" text="response to oxidative stress" type="GO"/>
+    <entity charOffset="601-625" id="22196487.s0.e6" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="638-698" id="22196487.s0.e7" ontology_id="GO_0086002" text="cardiac muscle cell action potential involved in contraction" type="GO"/>
+    <entity charOffset="772-812" id="22196487.s0.e8" ontology_id="GO_0042823" text="pyridoxal phosphate biosynthetic process" type="GO"/>
+    <pair e1="22196487.s0.e0" e2="22196487.s0.e1" id="22196487.s0.p0" relation="false"/>
+    <pair e1="22196487.s0.e0" e2="22196487.s0.e2" id="22196487.s0.p1" relation="true"/>
+    <pair e1="22196487.s0.e0" e2="22196487.s0.e3" id="22196487.s0.p2" relation="true"/>
+    <pair e1="22196487.s0.e0" e2="22196487.s0.e4" id="22196487.s0.p3" relation="true"/>
+    <pair e1="22196487.s0.e0" e2="22196487.s0.e5" id="22196487.s0.p4" relation="true"/>
+    <pair e1="22196487.s0.e0" e2="22196487.s0.e6" id="22196487.s0.p5" relation="false"/>
+    <pair e1="22196487.s0.e0" e2="22196487.s0.e7" id="22196487.s0.p6" relation="true"/>
+    <pair e1="22196487.s0.e0" e2="22196487.s0.e8" id="22196487.s0.p7" relation="true"/>
+  </sentence>
+</document>

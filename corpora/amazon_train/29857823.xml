@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="29857823">
+  <sentence id="29857823.s0" text="This study aimed to investigate negative regulation of apoptotic process expression in tamoxifen resistant (TAM-R) and tamoxifen sensitive (TAM-S) breast carcinoma patients and analyze its correlation with clinicopathological characteristics and survival.">
+    <entity charOffset="32-72" id="29857823.s0.e0" ontology_id="GO_0043066" text="negative regulation of apoptotic process" type="GO"/>
+    <entity charOffset="147-163" id="29857823.s0.e1" ontology_id="HP_0003002" text="breast carcinoma" type="HP"/>
+    <pair e1="29857823.s0.e0" e2="29857823.s0.e1" id="29857823.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29857823.s1" text="Immunohistochemical analysis was performed to evaluate negative regulation of apoptotic process protein expression in 36 TAM-R and 36 TAM-S formalin-fixed paraffin-embedded (FFPE) breast tumor tissues.">
+    <entity charOffset="55-95" id="29857823.s1.e0" ontology_id="GO_0043066" text="negative regulation of apoptotic process" type="GO"/>
+    <entity charOffset="187-192" id="29857823.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="29857823.s1.e0" e2="29857823.s1.e1" id="29857823.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="29857823.s2" text="Our data suggested that high expression of negative regulation of apoptotic process could be associated with better survival in estrogen receptor positive tamoxifen-treated breast carcinoma patients">
+    <entity charOffset="43-83" id="29857823.s2.e0" ontology_id="GO_0043066" text="negative regulation of apoptotic process" type="GO"/>
+    <entity charOffset="173-189" id="29857823.s2.e1" ontology_id="HP_0003002" text="breast carcinoma" type="HP"/>
+    <pair e1="29857823.s2.e0" e2="29857823.s2.e1" id="29857823.s2.p0" relation="true"/>
+  </sentence>
+</document>

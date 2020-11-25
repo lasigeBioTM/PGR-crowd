@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="24022475">
+  <sentence id="24022475.s0" text="The progressive neurological abnormalities, congenital hypopituitarism and post-retinal visual pathway dysfunction in affected individuals demonstrates for the first time the essential role of response to hypoxia in the development of the hypothalamo-pituitary axis, post-natal brain growth, and visual and renal function in humans.">
+    <entity charOffset="16-42" id="24022475.s0.e0" ontology_id="HP_0000707" text="neurological abnormalities" type="HP"/>
+    <entity charOffset="193-212" id="24022475.s0.e1" ontology_id="GO_0001666" text="response to hypoxia" type="GO"/>
+    <pair e1="24022475.s0.e0" e2="24022475.s0.e1" id="24022475.s0.p0" relation="false"/>
+  </sentence>
+</document>

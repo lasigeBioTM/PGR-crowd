@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29925637">
+  <sentence id="29925637.s0" text="We demonstrated that &lt;i&gt;linc-ADAL&lt;/i&gt; interacts with heterogeneous nuclear ribonucleoprotein U (regulation of alternative mRNA splicing, via spliceosome) and insulin-like growth factor 2 mRNA binding protein 2 (IGF2BP2) at distinct subcellular locations to regulate adipocyte differentiation and lipogenesis">
+    <entity charOffset="53-66" id="29925637.s0.e0" ontology_id="HP_0001425" text="heterogeneous" type="HP"/>
+    <entity charOffset="96-152" id="29925637.s0.e1" ontology_id="GO_0000381" text="regulation of alternative mRNA splicing, via spliceosome" type="GO"/>
+    <pair e1="29925637.s0.e0" e2="29925637.s0.e1" id="29925637.s0.p0" relation="true"/>
+  </sentence>
+</document>

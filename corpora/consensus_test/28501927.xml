@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="28501927">
+  <sentence id="28501927.s0" text="Carriers of CT or TT genotype of monocyte chemotaxis rs13900 had increased risk of hearing loss at birth and at 6 months of age (aOR = 3.59; p = 0.028 and aOR = 4.10; p = 0.039, respectively).">
+    <entity charOffset="33-52" id="28501927.s0.e0" ontology_id="GO_0002548" text="monocyte chemotaxis" type="GO"/>
+    <entity charOffset="83-95" id="28501927.s0.e1" ontology_id="HP_0000365" text="hearing loss" type="HP"/>
+    <pair e1="28501927.s0.e0" e2="28501927.s0.e1" id="28501927.s0.p0" relation="true"/>
+  </sentence>
+</document>

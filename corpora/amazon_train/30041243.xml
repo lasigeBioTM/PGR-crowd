@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30041243">
+  <sentence id="30041243.s0" text="The revision was based on data accumulated since the 2008 WHO classification of microtubule-based process, much of which relates to new molecular genetic information about these neoplasms.">
+    <entity charOffset="80-105" id="30041243.s0.e0" ontology_id="GO_0007017" text="microtubule-based process" type="GO"/>
+    <entity charOffset="178-187" id="30041243.s0.e1" ontology_id="HP_0002664" text="neoplasms" type="HP"/>
+    <pair e1="30041243.s0.e0" e2="30041243.s0.e1" id="30041243.s0.p0" relation="true"/>
+  </sentence>
+</document>

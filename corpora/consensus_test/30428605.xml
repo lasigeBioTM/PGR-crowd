@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30428605">
+  <sentence id="30428605.s0" text="Placental mRNA abundance for the folate receptor alpha (&lt;i&gt;FOLR1&lt;/i&gt;) was reduced with obesity, whilst &lt;i&gt;maintenance of DNA methylation1&lt;/i&gt; was increased with raised BMI, responses that were unaffected by GD.">
+    <entity charOffset="87-94" id="30428605.s0.e0" ontology_id="HP_0001513" text="obesity" type="HP"/>
+    <entity charOffset="106-136" id="30428605.s0.e1" ontology_id="GO_0010216" text="maintenance of DNA methylation" type="GO"/>
+    <pair e1="30428605.s0.e0" e2="30428605.s0.e1" id="30428605.s0.p0" relation="true"/>
+  </sentence>
+</document>

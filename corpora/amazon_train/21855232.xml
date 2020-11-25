@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="21855232">
+  <sentence id="21855232.s0" text="These tumors often exhibit a plasmablastic morphology, a finding which prompted our interest in looking for phosphorylation fusions in plasma cell neoplasms.">
+    <entity charOffset="6-12" id="21855232.s0.e0" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <entity charOffset="108-123" id="21855232.s0.e1" ontology_id="GO_0016310" text="phosphorylation" type="GO"/>
+    <entity charOffset="147-156" id="21855232.s0.e2" ontology_id="HP_0002664" text="neoplasms" type="HP"/>
+    <pair e1="21855232.s0.e0" e2="21855232.s0.e1" id="21855232.s0.p0" relation="true"/>
+    <pair e1="21855232.s0.e1" e2="21855232.s0.e2" id="21855232.s0.p1" relation="true"/>
+  </sentence>
+</document>

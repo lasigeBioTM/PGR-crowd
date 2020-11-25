@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="29084757">
+  <sentence id="29084757.s0" text="We report here two new nonsense mutations (pGln12* and pTyr110*) in positive regulation of cytosolic calcium ion concentration patients displaying nonsyndromic profound hearing loss, with no evidence of vestibular or retinal dysfunction.">
+    <entity charOffset="68-126" id="29084757.s0.e0" ontology_id="GO_0007204" text="positive regulation of cytosolic calcium ion concentration" type="GO"/>
+    <entity charOffset="169-181" id="29084757.s0.e1" ontology_id="HP_0000365" text="hearing loss" type="HP"/>
+    <pair e1="29084757.s0.e0" e2="29084757.s0.e1" id="29084757.s0.p0" relation="true"/>
+  </sentence>
+</document>

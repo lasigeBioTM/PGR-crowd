@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="30262717">
+  <sentence id="30262717.s0" text="Importantly, the role of sexual dimorphism in the genetic regulation of obesity and body positive regulation of cell-matrix adhesion distribution was also reported in a few studies.">
+    <entity charOffset="72-79" id="30262717.s0.e0" ontology_id="HP_0001513" text="obesity" type="HP"/>
+    <entity charOffset="89-132" id="30262717.s0.e1" ontology_id="GO_0001954" text="positive regulation of cell-matrix adhesion" type="GO"/>
+  </sentence>
+</document>

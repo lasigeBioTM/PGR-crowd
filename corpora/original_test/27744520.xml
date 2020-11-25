@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27744520">
+  <sentence id="27744520.s0" text="In this study, we employed a siRNA knockdown approach for heparan sulphate (EXT1) and heparan/chondroitin/dermatan sulphate-biosynthetic enzymes (glycosaminoglycan biosynthetic process) in the aggressive human breast cancer cell line MDA-MB-231 to study the impact on cell behaviour and hyaluronan biosynthesis.">
+    <entity charOffset="146-184" id="27744520.s0.e0" ontology_id="GO_0006024" text="glycosaminoglycan biosynthetic process" type="GO"/>
+    <entity charOffset="217-223" id="27744520.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="27744520.s0.e0" e2="27744520.s0.e1" id="27744520.s0.p0" relation="false"/>
+  </sentence>
+</document>

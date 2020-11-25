@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="30504325">
+  <sentence id="30504325.s0" text="Three submuscle organ developments, &lt;i&gt;PTPN11- , Ras protein signal transduction-&lt;/i&gt;, and &lt;i&gt;positive regulation of protein phosphorylation&lt;/i&gt;-mutated JMML, are characterized by heterozygous somatic gain-of-function mutations in non syndromic children, while two subtypes, JMML in neurofibromatosis type 1 and in JMML in children with ubiquitin-dependent protein catabolic process syndrome, are characterized by germ line RAS disease and acquired biallelic inactivation of the respective tumor suppressor genes in hematopoietic cells.">
+    <entity charOffset="9-33" id="30504325.s0.e0" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="49-80" id="30504325.s0.e1" ontology_id="GO_0007265" text="Ras protein signal transduction" type="GO"/>
+    <entity charOffset="94-140" id="30504325.s0.e2" ontology_id="GO_0001934" text="positive regulation of protein phosphorylation" type="GO"/>
+    <entity charOffset="283-300" id="30504325.s0.e3" ontology_id="HP_0001067" text="neurofibromatosis" type="HP"/>
+    <entity charOffset="337-382" id="30504325.s0.e4" ontology_id="GO_0006511" text="ubiquitin-dependent protein catabolic process" type="GO"/>
+    <entity charOffset="490-495" id="30504325.s0.e5" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="30504325.s0.e1" e2="30504325.s0.e3" id="30504325.s0.p0" relation="false"/>
+    <pair e1="30504325.s0.e2" e2="30504325.s0.e3" id="30504325.s0.p1" relation="false"/>
+  </sentence>
+</document>

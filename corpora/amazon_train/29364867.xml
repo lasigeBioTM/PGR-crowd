@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="29364867">
+  <sentence id="29364867.s0" text="Integration of cell culture genomes, transcriptomes and tumour phenotypes with functional studies and human data reveals additional widespread effects of oncogenic dosage variation on cell morphology and plasticity, histopathology and clinical outcome, with the highest positive regulation of protein phosphorylation&lt;sup&gt;MUT&lt;/sup&gt; levels underlying aggressive undifferentiated phenotypes.">
+    <entity charOffset="56-62" id="29364867.s0.e0" ontology_id="HP_0002664" text="tumour" type="HP"/>
+    <entity charOffset="270-316" id="29364867.s0.e1" ontology_id="GO_0001934" text="positive regulation of protein phosphorylation" type="GO"/>
+    <pair e1="29364867.s0.e0" e2="29364867.s0.e1" id="29364867.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29364867.s1" text="Mechanistically, different oncogenic gains and dosages evolve along distinct evolutionary routes, licensed by defined allelic states and/or combinations of hallmark tumour suppressor alterations (G1/S transition of mitotic cell cycle, Trp53, Tgfβ-pathway).">
+    <entity charOffset="165-171" id="29364867.s1.e0" ontology_id="HP_0002664" text="tumour" type="HP"/>
+    <entity charOffset="196-233" id="29364867.s1.e1" ontology_id="GO_0000082" text="G1/S transition of mitotic cell cycle" type="GO"/>
+    <pair e1="29364867.s1.e0" e2="29364867.s1.e1" id="29364867.s1.p0" relation="true"/>
+  </sentence>
+</document>

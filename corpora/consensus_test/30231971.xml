@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="30231971">
+  <sentence id="30231971.s0" text="Squamous cell carcinoma (SCC) can progress to malignant metastatic cancer, including an aggressive subtype known as spindle cell carcinoma (spSCC). spSCC formation involves epithelial-to-mesenchymal transition (cytokine production), yet the molecular basis of this event remains unknown.">
+    <entity charOffset="67-73" id="30231971.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="211-230" id="30231971.s0.e1" ontology_id="GO_0001816" text="cytokine production" type="GO"/>
+  </sentence>
+  <sentence id="30231971.s1" text="Here, we show that human spnegative regulation of peptidase activity tumours also feature strong nuclear localisation of regulation of cell cycle and overexpression of activated YAP (NLS-YAP-5SA) with Keratin-5 (K5-CreERt) is sufficient to induce rapid formation of both SCC and spSCC in mice.">
+    <entity charOffset="27-68" id="30231971.s1.e0" ontology_id="GO_0010466" text="negative regulation of peptidase activity" type="GO"/>
+    <entity charOffset="69-76" id="30231971.s1.e1" ontology_id="HP_0002664" text="tumours" type="HP"/>
+    <entity charOffset="121-145" id="30231971.s1.e2" ontology_id="GO_0051726" text="regulation of cell cycle" type="GO"/>
+    <pair e1="30231971.s1.e1" e2="30231971.s1.e2" id="30231971.s1.p0" relation="true"/>
+  </sentence>
+</document>

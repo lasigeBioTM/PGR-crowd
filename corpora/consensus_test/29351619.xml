@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="29351619">
+  <sentence id="29351619.s0" text="Limb-girdle muscular dystrophy muscle organ development 2D (LGMD2D) is a rare autosomal-recessive disease, affecting striated muscle, due to mutation of SGCA, the gene coding for α-sarcoglycan.">
+    <entity charOffset="12-30" id="29351619.s0.e0" ontology_id="HP_0003560" text="muscular dystrophy" type="HP"/>
+    <entity charOffset="31-55" id="29351619.s0.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+  </sentence>
+</document>

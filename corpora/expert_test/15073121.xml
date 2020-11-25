@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="15073121">
+  <sentence id="15073121.s0" text="Conversely, skeletal system development, 6, 14, and 20 are consistently up-regulated in breast carcinomas (P = 0.005, P &amp;lt; 0.0001, P = 0.003, and P = 0.001, respectively).">
+    <entity charOffset="12-39" id="15073121.s0.e0" ontology_id="GO_0001501" text="skeletal system development" type="GO"/>
+    <entity charOffset="88-104" id="15073121.s0.e1" ontology_id="HP_0003002" text="breast carcinoma" type="HP"/>
+    <pair e1="15073121.s0.e0" e2="15073121.s0.e1" id="15073121.s0.p0" relation="true"/>
+  </sentence>
+</document>

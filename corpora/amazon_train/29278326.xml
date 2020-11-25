@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<document id="29278326">
+  <sentence id="29278326.s0" text="We recently found that phosphatidic acid biosynthetic process is a principal triglyceride hydrolase in the central nervous system (CNS) and that genetic deletion of this enzyme in mice leads to ectopic lipid droplet (positive regulation of macroautophagy) accumulation in neurons throughout the brain.">
+    <entity charOffset="23-61" id="29278326.s0.e0" ontology_id="GO_0006654" text="phosphatidic acid biosynthetic process" type="GO"/>
+    <entity charOffset="107-114" id="29278326.s0.e1" ontology_id="HP_0030645" text="central" type="HP"/>
+    <entity charOffset="217-254" id="29278326.s0.e2" ontology_id="GO_0016239" text="positive regulation of macroautophagy" type="GO"/>
+    <pair e1="29278326.s0.e0" e2="29278326.s0.e1" id="29278326.s0.p0" relation="true"/>
+  </sentence>
+</document>

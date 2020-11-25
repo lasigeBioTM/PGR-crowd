@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="15915442">
+  <sentence id="15915442.s0" text="Similarly, SEPT4 has lymphoid and non-lymphoid forms; mitotic cytokinesis has lymphoid and central nervous system (CNS) forms; and mitotic cytokinesis and protein heterooligomerization are elevated in lymphoid tissues but both have forms that cluster away from the lymphoid forms.">
+    <entity charOffset="54-73" id="15915442.s0.e0" ontology_id="GO_0000281" text="mitotic cytokinesis" type="GO"/>
+    <entity charOffset="91-98" id="15915442.s0.e1" ontology_id="HP_0030645" text="central" type="HP"/>
+    <entity charOffset="131-150" id="15915442.s0.e2" ontology_id="GO_0000281" text="mitotic cytokinesis" type="GO"/>
+    <entity charOffset="155-184" id="15915442.s0.e3" ontology_id="GO_0051291" text="protein heterooligomerization" type="GO"/>
+    <pair e1="15915442.s0.e0" e2="15915442.s0.e1" id="15915442.s0.p0" relation="false"/>
+    <pair e1="15915442.s0.e1" e2="15915442.s0.e2" id="15915442.s0.p1" relation="false"/>
+    <pair e1="15915442.s0.e1" e2="15915442.s0.e3" id="15915442.s0.p2" relation="false"/>
+  </sentence>
+</document>

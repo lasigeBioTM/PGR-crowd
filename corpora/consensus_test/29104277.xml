@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="29104277">
+  <sentence id="29104277.s0" text="Heparanase (&lt;i&gt;cell-matrix adhesion&lt;/i&gt;) expression was identified in 50% of GBM tumours by immunostaining, and was characterised by a high intratumoural heterogeneity of the presence of the HPSE protein.">
+    <entity charOffset="15-35" id="29104277.s0.e0" ontology_id="GO_0007160" text="cell-matrix adhesion" type="GO"/>
+    <entity charOffset="81-88" id="29104277.s0.e1" ontology_id="HP_0002664" text="tumours" type="HP"/>
+    <entity charOffset="154-167" id="29104277.s0.e2" ontology_id="HP_0001425" text="heterogeneity" type="HP"/>
+    <pair e1="29104277.s0.e0" e2="29104277.s0.e2" id="29104277.s0.p0" relation="true"/>
+    <pair e1="29104277.s0.e0" e2="29104277.s0.e1" id="29104277.s0.p1" relation="false"/>
+  </sentence>
+  <sentence id="29104277.s1" text="RT-PCR analysis showed that the overall transcriptional activity of the main HS biosynthesis-involved genes (&lt;i&gt;EXT1&lt;/i&gt;, &lt;i&gt;EXT2&lt;/i&gt;, &lt;i&gt;NDST1&lt;/i&gt;, &lt;i&gt;NDST2&lt;/i&gt;, &lt;i&gt;GLCE&lt;/i&gt;, &lt;i&gt;HS2ST1&lt;/i&gt;, &lt;i&gt;HS3ST1&lt;/i&gt;, &lt;i&gt;HS3ST2&lt;/i&gt;, &lt;i&gt;HS6ST1&lt;/i&gt;, &lt;i&gt;HS6ST2&lt;/i&gt;, &lt;i&gt;SULF1&lt;/i&gt;, &lt;i&gt;SULF2&lt;/i&gt;, &lt;i&gt;cell-matrix adhesion&lt;/i&gt;) was decreased by 1.5-2-fold in Grade II-III glioma (&lt;i&gt;p&lt;/i&gt; &amp;lt; 0.01) and by 3-fold in Grade IV glioma (glioblastoma multiforme, GBM) (&lt;i&gt;p&lt;/i&gt; &amp;lt; 0.05), as compared with the para-tumourous tissue.">
+    <entity charOffset="282-302" id="29104277.s1.e0" ontology_id="GO_0007160" text="cell-matrix adhesion" type="GO"/>
+    <entity charOffset="352-358" id="29104277.s1.e1" ontology_id="HP_0009733" text="glioma" type="HP"/>
+    <pair e1="29104277.s1.e0" e2="29104277.s1.e1" id="29104277.s1.p0" relation="false"/>
+  </sentence>
+</document>

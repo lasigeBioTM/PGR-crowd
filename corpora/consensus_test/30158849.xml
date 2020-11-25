@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="30158849">
+  <sentence id="30158849.s0" text="&lt;i&gt;In vitro&lt;/i&gt; analysis revealed that knockdown of WWOX protein in neuroblastoma cells results in aggregation of TRregulation of presynapse assemblyC6AΔ, TIAF1, amyloid β, and Tau in a sequential manner.">
+    <entity charOffset="68-81" id="30158849.s0.e0" ontology_id="HP_0003006" text="neuroblastoma" type="HP"/>
+    <entity charOffset="116-149" id="30158849.s0.e1" ontology_id="GO_1905606" text="regulation of presynapse assembly" type="GO"/>
+  </sentence>
+  <sentence id="30158849.s1" text="Homozygous null mutation of tumor suppressor &lt;i&gt;negative regulation of Wnt signaling pathway/Wwox&lt;/i&gt; gene leads to severe neural diseases, metabolic disorders and early death in the newborns of humans, mice and rats.">
+    <entity charOffset="28-33" id="30158849.s1.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="48-92" id="30158849.s1.e1" ontology_id="GO_0030178" text="negative regulation of Wnt signaling pathway" type="GO"/>
+    <pair e1="30158849.s1.e0" e2="30158849.s1.e1" id="30158849.s1.p0" relation="true"/>
+  </sentence>
+</document>

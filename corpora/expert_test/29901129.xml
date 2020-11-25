@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="29901129">
+  <sentence id="29901129.s0" text="The key clinical features of the patient with receptor-mediated endocytosis included short stature, joint contractures, pigeon breast, and myotonia that led to progressive stiffness of the face and limbs; barely discernible kyphosis was also noted.">
+    <entity charOffset="46-75" id="29901129.s0.e0" ontology_id="GO_0006898" text="receptor-mediated endocytosis" type="GO"/>
+    <entity charOffset="224-232" id="29901129.s0.e1" ontology_id="HP_0002808" text="kyphosis" type="HP"/>
+    <pair e1="29901129.s0.e0" e2="29901129.s0.e1" id="29901129.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29901129.s1" text="The family members harboring 1 heterozygous mutation in receptor-mediated endocytosis did not exhibit any skeletal abnormalities.">
+    <entity charOffset="56-85" id="29901129.s1.e0" ontology_id="GO_0006898" text="receptor-mediated endocytosis" type="GO"/>
+    <entity charOffset="106-128" id="29901129.s1.e1" ontology_id="HP_0000924" text="skeletal abnormalities" type="HP"/>
+    <pair e1="29901129.s1.e0" e2="29901129.s1.e1" id="29901129.s1.p0" relation="true"/>
+  </sentence>
+</document>

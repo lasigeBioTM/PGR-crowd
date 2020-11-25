@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="28147318">
+  <sentence id="28147318.s0" text="epidermis development but not KRT6C mRNA expression was increased in chemotherapy resistant primary serous ovarian cancer cells compared to chemotherapy sensitive cells.">
+    <entity charOffset="0-21" id="28147318.s0.e0" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="115-121" id="28147318.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28147318.s0.e0" e2="28147318.s0.e1" id="28147318.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="28147318.s1" text="KRT5 and keratinization (KRT6A, KRT6B &amp;amp; KRT6C) gene expression was assessed in publically available serous ovarian cancer data sets, ovarian cancer cell lines and primary serous ovarian cancer cells.">
+    <entity charOffset="9-23" id="28147318.s1.e0" ontology_id="GO_0031424" text="keratinization" type="GO"/>
+    <entity charOffset="119-125" id="28147318.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28147318.s1.e0" e2="28147318.s1.e1" id="28147318.s1.p0" relation="false"/>
+  </sentence>
+</document>

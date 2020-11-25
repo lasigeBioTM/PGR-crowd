@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="29974186">
+  <sentence id="29974186.s0" text="Some RA patients are likely to increase visceral positive regulation of cell-matrix adhesion without obesity [Body Mass Index (BMI) ≥ 25].">
+    <entity charOffset="49-92" id="29974186.s0.e0" ontology_id="GO_0001954" text="positive regulation of cell-matrix adhesion" type="GO"/>
+    <entity charOffset="101-108" id="29974186.s0.e1" ontology_id="HP_0001513" text="obesity" type="HP"/>
+  </sentence>
+</document>

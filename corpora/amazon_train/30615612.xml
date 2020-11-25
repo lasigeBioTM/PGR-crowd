@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30615612">
+  <sentence id="30615612.s0" text="Phase 2 occurs postnatally through adult stages with bone marrow production of granulocyte precursors and positive selection of mutants due to chronic positive regulation of phosphatidylinositol 3-kinase signaling therapy to reverse the severe neutropenia.">
+    <entity charOffset="151-213" id="30615612.s0.e0" ontology_id="GO_0014068" text="positive regulation of phosphatidylinositol 3-kinase signaling" type="GO"/>
+    <entity charOffset="244-255" id="30615612.s0.e1" ontology_id="HP_0001875" text="neutropenia" type="HP"/>
+    <pair e1="30615612.s0.e0" e2="30615612.s0.e1" id="30615612.s0.p0" relation="true"/>
+  </sentence>
+</document>

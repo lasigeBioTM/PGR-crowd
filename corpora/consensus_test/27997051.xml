@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="27997051">
+  <sentence id="27997051.s0" text="Although AEBP1 immunoreactivity was almost absent in neurons containing neurofibrillary tangles, AEBP1 was highly expressed in neurons with pretangles and in the microtubule cytoskeleton organization-immunopositive, dystrophic neurites of senile plaques.">
+    <entity charOffset="72-95" id="27997051.s0.e0" ontology_id="HP_0002185" text="neurofibrillary tangles" type="HP"/>
+    <entity charOffset="162-199" id="27997051.s0.e1" ontology_id="GO_0000226" text="microtubule cytoskeleton organization" type="GO"/>
+  </sentence>
+</document>

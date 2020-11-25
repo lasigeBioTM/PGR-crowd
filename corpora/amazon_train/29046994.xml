@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="29046994">
+  <sentence id="29046994.s0" text="We measured the expression of autophagy genes in peripheral blood mononuclear cells of 20 patients with Huntington's disease (HD), 20 with spinocerebellar ataxia muscle organ development 2 (negative regulation of receptor internalization), and 20 healthy individuals.">
+    <entity charOffset="155-161" id="29046994.s0.e0" ontology_id="HP_0001251" text="ataxia" type="HP"/>
+    <entity charOffset="162-186" id="29046994.s0.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="190-237" id="29046994.s0.e2" ontology_id="GO_0002091" text="negative regulation of receptor internalization" type="GO"/>
+    <pair e1="29046994.s0.e0" e2="29046994.s0.e1" id="29046994.s0.p0" relation="true"/>
+    <pair e1="29046994.s0.e0" e2="29046994.s0.e2" id="29046994.s0.p1" relation="true"/>
+  </sentence>
+</document>

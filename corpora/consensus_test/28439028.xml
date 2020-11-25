@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="28439028">
+  <sentence id="28439028.s0" text="Hereditary sensory and autonomic neuropathy muscle organ development III, or familial dysautonomia [FD; Online Mendelian Inheritance in Man (OMIM) 223900], affects the development and long-term viability of neurons in the peripheral nervous system (PNS) and retina.">
+    <entity charOffset="33-43" id="28439028.s0.e0" ontology_id="HP_0009830" text="neuropathy" type="HP"/>
+    <entity charOffset="44-68" id="28439028.s0.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+  </sentence>
+</document>

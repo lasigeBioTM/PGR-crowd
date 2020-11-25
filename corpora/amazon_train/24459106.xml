@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="24459106">
+  <sentence id="24459106.s0" text="In a family with sensory neuropathy with loss of pain perception and destruction of the pedal skeleton we report a missense mutation in a highly conserved amino acid residue of atlastin GTPase 3 (protein homooligomerization), an endoplasmic reticulum-shaping GTPase.">
+    <entity charOffset="25-35" id="24459106.s0.e0" ontology_id="HP_0009830" text="neuropathy" type="HP"/>
+    <entity charOffset="196-223" id="24459106.s0.e1" ontology_id="GO_0051260" text="protein homooligomerization" type="GO"/>
+    <pair e1="24459106.s0.e0" e2="24459106.s0.e1" id="24459106.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="24459106.s1" text="ATL3 is a paralogue of endoplasmic reticulum organization, a membrane curvature-generating molecule that is involved in spastic paraplegia and hereditary sensory neuropathy.">
+    <entity charOffset="23-57" id="24459106.s1.e0" ontology_id="GO_0007029" text="endoplasmic reticulum organization" type="GO"/>
+    <entity charOffset="162-172" id="24459106.s1.e1" ontology_id="HP_0009830" text="neuropathy" type="HP"/>
+    <pair e1="24459106.s1.e0" e2="24459106.s1.e1" id="24459106.s1.p0" relation="true"/>
+  </sentence>
+</document>

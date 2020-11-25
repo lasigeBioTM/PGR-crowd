@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="26079437">
+  <sentence id="26079437.s0" text="These expanded roles underscore the significance of vertebrate biological_process proteins as factors contributing to a number of diseases, including neural tube defects, tumor metastases, and various genetic syndromes characterized by abnormal migratory cell behaviors">
+    <entity charOffset="63-81" id="26079437.s0.e0" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <entity charOffset="150-169" id="26079437.s0.e1" ontology_id="HP_0045005" text="neural tube defects" type="HP"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27650623">
+  <sentence id="27650623.s0" text="Craniofrontonasal syndrome (CFNS) is a very rare genetic disorder with variable clinical phenomuscle organ developments, including brachycephaly, hypertelorism, and a bifid nasal tip.">
+    <entity charOffset="94-118" id="27650623.s0.e0" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="131-144" id="27650623.s0.e1" ontology_id="HP_0000248" text="brachycephaly" type="HP"/>
+    <entity charOffset="146-159" id="27650623.s0.e2" ontology_id="HP_0000316" text="hypertelorism" type="HP"/>
+  </sentence>
+</document>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="12827610">
+  <sentence id="12827610.s0" text="Although the 4 PKPs displayed different levels and patterns of subcellular distribution in tumors, there was a positive correlation between immunoreactivity for desmosome assembly and PKP3, as well as for PKP2 and p0071, suggesting possible functional similarities associated with differentiation, tumor growth, and disease prognosis.">
+    <entity charOffset="91-96" id="12827610.s0.e0" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <entity charOffset="161-179" id="12827610.s0.e1" ontology_id="GO_0002159" text="desmosome assembly" type="GO"/>
+    <pair e1="12827610.s0.e0" e2="12827610.s0.e1" id="12827610.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="12827610.s1" text="In contrast, strong desmosome assembly immunoreactivity was observed in 85.7% of metastatic tumors.">
+    <entity charOffset="20-38" id="12827610.s1.e0" ontology_id="GO_0002159" text="desmosome assembly" type="GO"/>
+    <entity charOffset="92-97" id="12827610.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="12827610.s1.e0" e2="12827610.s1.e1" id="12827610.s1.p0" relation="true"/>
+  </sentence>
+</document>

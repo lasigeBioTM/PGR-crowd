@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<document id="29499401">
+  <sentence id="29499401.s0" text="Hepatocyte growth factor (neutrophil apoptotic process)/c-MET signaling plays an important role in cell proliferation, survival, migration and motility of cancer cells.">
+    <entity charOffset="26-54" id="29499401.s0.e0" ontology_id="GO_0001781" text="neutrophil apoptotic process" type="GO"/>
+    <entity charOffset="155-161" id="29499401.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="29499401.s0.e0" e2="29499401.s0.e1" id="29499401.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29499401.s1" text="The scope of the present review is to recapitulate and review the evidence of negative regulation of cell-cell adhesion participation in cancer development and progression, exploring the clinical, biological and functional descriptions of the involvement of this protein in diverse neoplasias.">
+    <entity charOffset="78-119" id="29499401.s1.e0" ontology_id="GO_0022408" text="negative regulation of cell-cell adhesion" type="GO"/>
+    <entity charOffset="137-143" id="29499401.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="282-292" id="29499401.s1.e2" ontology_id="HP_0002664" text="neoplasias" type="HP"/>
+    <pair e1="29499401.s1.e0" e2="29499401.s1.e1" id="29499401.s1.p0" relation="true"/>
+    <pair e1="29499401.s1.e0" e2="29499401.s1.e2" id="29499401.s1.p1" relation="true"/>
+  </sentence>
+  <sentence id="29499401.s2" text="Most studies are in agreement as to the belief that, in a large range of human cancers, the negative regulation of cell-cell adhesion gene promoter is frequently methylated, resulting in the epigenetic silence of this gene.">
+    <entity charOffset="79-85" id="29499401.s2.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="92-133" id="29499401.s2.e1" ontology_id="GO_0022408" text="negative regulation of cell-cell adhesion" type="GO"/>
+    <pair e1="29499401.s2.e0" e2="29499401.s2.e1" id="29499401.s2.p0" relation="true"/>
+  </sentence>
+  <sentence id="29499401.s3" text="Functional assays indicate that SPINT2 reactivation ameliorates the malignant phenomuscle organ development, specifically reducing cell viability, migration and invasion in diverse cancer cell lines.">
+    <entity charOffset="83-107" id="29499401.s3.e0" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="181-187" id="29499401.s3.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+  </sentence>
+  <sentence id="29499401.s4" text="In sum, the negative regulation of cell-cell adhesion gene is epigenetically silenced or downregulated in human cancers, altering the balance of neutrophil apoptotic process activation/inhibition ratio, which contributes to cancer development and progression">
+    <entity charOffset="12-53" id="29499401.s4.e0" ontology_id="GO_0022408" text="negative regulation of cell-cell adhesion" type="GO"/>
+    <entity charOffset="112-118" id="29499401.s4.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="145-173" id="29499401.s4.e2" ontology_id="GO_0001781" text="neutrophil apoptotic process" type="GO"/>
+    <pair e1="29499401.s4.e0" e2="29499401.s4.e1" id="29499401.s4.p0" relation="true"/>
+  </sentence>
+</document>

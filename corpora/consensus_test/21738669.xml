@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<document id="21738669">
+  <sentence id="21738669.s0" text="This variant was present in 56% of signal transduction cases and 87% of obligate carriers, and displayed a recessive mode of inheritance with full penetrance within those lineages in which it segregated.">
+    <entity charOffset="35-54" id="21738669.s0.e0" ontology_id="GO_0007165" text="signal transduction" type="GO"/>
+    <entity charOffset="117-136" id="21738669.s0.e1" ontology_id="HP_0000005" text="mode of inheritance" type="HP"/>
+  </sentence>
+  <sentence id="21738669.s1" text="A large proportion of cases (approximately 44%) remain unexplained, indicating that signal transduction in this breed is genetically heterogeneous and caused by at least three mutations.">
+    <entity charOffset="84-103" id="21738669.s1.e0" ontology_id="GO_0007165" text="signal transduction" type="GO"/>
+    <entity charOffset="133-146" id="21738669.s1.e1" ontology_id="HP_0001425" text="heterogeneous" type="HP"/>
+    <pair e1="21738669.s1.e0" e2="21738669.s1.e1" id="21738669.s1.p0" relation="false"/>
+  </sentence>
+  <sentence id="21738669.s2" text="bicarbonate transport is important for retinal function and has not previously been associated with spontaneously occurring retinal degenerations in any other species, including humans">
+    <entity charOffset="0-21" id="21738669.s2.e0" ontology_id="GO_0015701" text="bicarbonate transport" type="GO"/>
+    <entity charOffset="124-145" id="21738669.s2.e1" ontology_id="HP_0000546" text="retinal degenerations" type="HP"/>
+    <pair e1="21738669.s2.e0" e2="21738669.s2.e1" id="21738669.s2.p0" relation="false"/>
+  </sentence>
+</document>

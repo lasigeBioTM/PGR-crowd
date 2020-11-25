@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<document id="30690883">
+  <sentence id="30690883.s0" text="Increasing evidence has shown that negative regulation of transcription by RNA polymerase II-interacting protein (WTIP) plays important roles both physiologically and pathologically in humans; however, the role of WTIP in cancer is unknown.">
+    <entity charOffset="35-92" id="30690883.s0.e0" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="222-228" id="30690883.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30690883.s0.e0" e2="30690883.s0.e1" id="30690883.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="30690883.s1" text="Here, we investigated the role and mechanism of response to hypoxia in cell proliferation and tumorigenesis of non-small-cell lung cancer (NSCLC).">
+    <entity charOffset="48-67" id="30690883.s1.e0" ontology_id="GO_0001666" text="response to hypoxia" type="GO"/>
+    <entity charOffset="94-99" id="30690883.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+  </sentence>
+  <sentence id="30690883.s2" text="We report that response to hypoxia is a tumor suppressor in human NSCLC.">
+    <entity charOffset="15-34" id="30690883.s2.e0" ontology_id="GO_0001666" text="response to hypoxia" type="GO"/>
+    <entity charOffset="40-45" id="30690883.s2.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="30690883.s2.e0" e2="30690883.s2.e1" id="30690883.s2.p0" relation="true"/>
+  </sentence>
+  <sentence id="30690883.s3" text="Moreover, ectopic overexpression of response to hypoxia dramatically inhibits cell proliferation and tumorigenesis in vitro and in vivo; conversely, depletion of WTIP expression shows the opposite effects.">
+    <entity charOffset="36-55" id="30690883.s3.e0" ontology_id="GO_0001666" text="response to hypoxia" type="GO"/>
+    <entity charOffset="101-106" id="30690883.s3.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="30690883.s3.e0" e2="30690883.s3.e1" id="30690883.s3.p0" relation="true"/>
+  </sentence>
+</document>

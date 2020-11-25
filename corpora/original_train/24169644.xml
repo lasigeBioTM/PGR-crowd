@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<document id="24169644">
+  <sentence id="24169644.s0" text="A third of patients with paraganglial tumors, pheochromocytoma, and paraganglioma, carry germline mutations in one of the susceptibility genes, regulation of cell adhesion, VHL, NF1, mitochondrial electron transport, succinate to ubiquinone, succinate metabolic process, tricarboxylic acid cycle, tricarboxylic acid cycle, tricarboxylic acid cycle, negative regulation of cell proliferation, and MAX.">
+    <entity charOffset="38-44" id="24169644.s0.e0" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <entity charOffset="46-62" id="24169644.s0.e1" ontology_id="HP_0002666" text="pheochromocytoma" type="HP"/>
+    <entity charOffset="68-81" id="24169644.s0.e2" ontology_id="HP_0002668" text="paraganglioma" type="HP"/>
+    <entity charOffset="144-171" id="24169644.s0.e3" ontology_id="GO_0030155" text="regulation of cell adhesion" type="GO"/>
+    <entity charOffset="183-240" id="24169644.s0.e4" ontology_id="GO_0006121" text="mitochondrial electron transport, succinate to ubiquinone" type="GO"/>
+    <entity charOffset="242-269" id="24169644.s0.e5" ontology_id="GO_0006105" text="succinate metabolic process" type="GO"/>
+    <entity charOffset="271-295" id="24169644.s0.e6" ontology_id="GO_0006099" text="tricarboxylic acid cycle" type="GO"/>
+    <entity charOffset="297-321" id="24169644.s0.e7" ontology_id="GO_0006099" text="tricarboxylic acid cycle" type="GO"/>
+    <entity charOffset="323-347" id="24169644.s0.e8" ontology_id="GO_0006099" text="tricarboxylic acid cycle" type="GO"/>
+    <entity charOffset="349-390" id="24169644.s0.e9" ontology_id="GO_0008285" text="negative regulation of cell proliferation" type="GO"/>
+    <pair e1="24169644.s0.e0" e2="24169644.s0.e4" id="24169644.s0.p0" relation="true"/>
+    <pair e1="24169644.s0.e0" e2="24169644.s0.e5" id="24169644.s0.p1" relation="true"/>
+    <pair e1="24169644.s0.e0" e2="24169644.s0.e6" id="24169644.s0.p2" relation="true"/>
+    <pair e1="24169644.s0.e1" e2="24169644.s0.e3" id="24169644.s0.p3" relation="true"/>
+    <pair e1="24169644.s0.e1" e2="24169644.s0.e4" id="24169644.s0.p4" relation="true"/>
+    <pair e1="24169644.s0.e1" e2="24169644.s0.e5" id="24169644.s0.p5" relation="true"/>
+    <pair e1="24169644.s0.e1" e2="24169644.s0.e6" id="24169644.s0.p6" relation="true"/>
+    <pair e1="24169644.s0.e1" e2="24169644.s0.e7" id="24169644.s0.p7" relation="true"/>
+    <pair e1="24169644.s0.e1" e2="24169644.s0.e8" id="24169644.s0.p8" relation="true"/>
+    <pair e1="24169644.s0.e2" e2="24169644.s0.e5" id="24169644.s0.p9" relation="true"/>
+    <pair e1="24169644.s0.e2" e2="24169644.s0.e6" id="24169644.s0.p10" relation="true"/>
+    <pair e1="24169644.s0.e2" e2="24169644.s0.e7" id="24169644.s0.p11" relation="true"/>
+    <pair e1="24169644.s0.e2" e2="24169644.s0.e9" id="24169644.s0.p12" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<document id="28776571">
+  <sentence id="28776571.s0" text="Focal alterations affected G1/S transition of mitotic cell cycle, G1/S transition of mitotic cell cycle, CCNE1, positive regulation of protein phosphorylation, EPHA3, angiogenesis, FGFR1, transforming growth factor beta receptor signaling pathway, NF1, RB1, regulation of cell adhesion, TP53, and additional novel amplifications in CCNE1, activation of MAPK activity, EGFR, RET, BRAF, NTRK2 were seen in G3 compared with the G1 tumor areas.">
+    <entity charOffset="27-64" id="28776571.s0.e0" ontology_id="GO_0000082" text="G1/S transition of mitotic cell cycle" type="GO"/>
+    <entity charOffset="66-103" id="28776571.s0.e1" ontology_id="GO_0000082" text="G1/S transition of mitotic cell cycle" type="GO"/>
+    <entity charOffset="112-158" id="28776571.s0.e2" ontology_id="GO_0001934" text="positive regulation of protein phosphorylation" type="GO"/>
+    <entity charOffset="167-179" id="28776571.s0.e3" ontology_id="GO_0001525" text="angiogenesis" type="GO"/>
+    <entity charOffset="188-246" id="28776571.s0.e4" ontology_id="GO_0007179" text="transforming growth factor beta receptor signaling pathway" type="GO"/>
+    <entity charOffset="258-285" id="28776571.s0.e5" ontology_id="GO_0030155" text="regulation of cell adhesion" type="GO"/>
+    <entity charOffset="339-366" id="28776571.s0.e6" ontology_id="GO_0000187" text="activation of MAPK activity" type="GO"/>
+    <entity charOffset="428-433" id="28776571.s0.e7" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="28776571.s0.e0" e2="28776571.s0.e7" id="28776571.s0.p0" relation="true"/>
+    <pair e1="28776571.s0.e1" e2="28776571.s0.e7" id="28776571.s0.p1" relation="true"/>
+    <pair e1="28776571.s0.e2" e2="28776571.s0.e7" id="28776571.s0.p2" relation="true"/>
+    <pair e1="28776571.s0.e3" e2="28776571.s0.e7" id="28776571.s0.p3" relation="false"/>
+    <pair e1="28776571.s0.e4" e2="28776571.s0.e7" id="28776571.s0.p4" relation="false"/>
+    <pair e1="28776571.s0.e5" e2="28776571.s0.e7" id="28776571.s0.p5" relation="true"/>
+    <pair e1="28776571.s0.e6" e2="28776571.s0.e7" id="28776571.s0.p6" relation="true"/>
+  </sentence>
+</document>

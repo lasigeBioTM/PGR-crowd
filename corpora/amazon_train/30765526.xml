@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<document id="30765526">
+  <sentence id="30765526.s0" text="These epidermis development displayed hypertension, hyperkalemia, hyperactive NCC, and other features fully recapitulating human and mouse models of PHAII caused by gain-of-function ion homeostasis.">
+    <entity charOffset="6-27" id="30765526.s0.e0" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="38-50" id="30765526.s0.e1" ontology_id="HP_0000822" text="hypertension" type="HP"/>
+    <entity charOffset="52-64" id="30765526.s0.e2" ontology_id="HP_0002153" text="hyperkalemia" type="HP"/>
+    <entity charOffset="182-197" id="30765526.s0.e3" ontology_id="GO_0050801" text="ion homeostasis" type="GO"/>
+    <pair e1="30765526.s0.e1" e2="30765526.s0.e3" id="30765526.s0.p0" relation="true"/>
+    <pair e1="30765526.s0.e2" e2="30765526.s0.e3" id="30765526.s0.p1" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="28990958">
+  <sentence id="28990958.s0" text="The quality of care for LTC residents with intracellular protein transport is heterogeneous in regard to both the facility and the patient.">
+    <entity charOffset="43-74" id="28990958.s0.e0" ontology_id="GO_0006886" text="intracellular protein transport" type="GO"/>
+    <entity charOffset="78-91" id="28990958.s0.e1" ontology_id="HP_0001425" text="heterogeneous" type="HP"/>
+  </sentence>
+</document>

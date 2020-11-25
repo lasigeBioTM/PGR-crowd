@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="29652635">
+  <sentence id="29652635.s0" text="Furthermore, we show that increased long-chain fatty-acyl-CoA metabolic process expression in human patients is associated with diabetic nephropathy, lupus nephritis, and protein homotetramerization nephropathy.">
+    <entity charOffset="36-79" id="29652635.s0.e0" ontology_id="GO_0035336" text="long-chain fatty-acyl-CoA metabolic process" type="GO"/>
+    <entity charOffset="137-148" id="29652635.s0.e1" ontology_id="HP_0000112" text="nephropathy" type="HP"/>
+    <entity charOffset="171-198" id="29652635.s0.e2" ontology_id="GO_0051289" text="protein homotetramerization" type="GO"/>
+    <pair e1="29652635.s0.e0" e2="29652635.s0.e1" id="29652635.s0.p0" relation="false"/>
+    <pair e1="29652635.s0.e1" e2="29652635.s0.e2" id="29652635.s0.p1" relation="false"/>
+  </sentence>
+</document>

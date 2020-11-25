@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="25617527">
+  <sentence id="25617527.s0" text="The strongly positive rate of mitochondrial calcium ion transmembrane transport in TNBC was 69.2% (74/107), which was significantly higher than in both DCIS 35.7% (15/42) and adjacent non-tumor tissues 12.3% (8/65).">
+    <entity charOffset="30-79" id="25617527.s0.e0" ontology_id="GO_0006851" text="mitochondrial calcium ion transmembrane transport" type="GO"/>
+    <entity charOffset="188-193" id="25617527.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="25617527.s0.e0" e2="25617527.s0.e1" id="25617527.s0.p0" relation="true"/>
+  </sentence>
+</document>

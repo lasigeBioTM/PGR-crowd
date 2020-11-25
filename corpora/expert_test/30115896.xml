@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<document id="30115896">
+  <sentence id="30115896.s0" text="Additionally, chemotaxis increases the metastatic ability of a cancer by enhancing cell migration, matrix metalloproteinase-7 expression and EMT.">
+    <entity charOffset="14-24" id="30115896.s0.e0" ontology_id="GO_0006935" text="chemotaxis" type="GO"/>
+    <entity charOffset="63-69" id="30115896.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30115896.s0.e0" e2="30115896.s0.e1" id="30115896.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="30115896.s1" text="Inflammatory chemokine chemotaxis, present in large amounts in DCs isolated from colon cancer patients, and SW620-conditioned TADCs, enhance CSC characteristics in cancer, supported by enhanced anchorage-independent growth, CD133 expression and aldehyde dehydrogenase activity.">
+    <entity charOffset="23-33" id="30115896.s1.e0" ontology_id="GO_0006935" text="chemotaxis" type="GO"/>
+    <entity charOffset="87-93" id="30115896.s1.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30115896.s1.e0" e2="30115896.s1.e1" id="30115896.s1.p0" relation="true"/>
+  </sentence>
+  <sentence id="30115896.s2" text="Transcriptome analysis of chemotaxis-treated SW620 cells indicates that CXCL1 increases potential oncogene expression in colon cancer, including &lt;i&gt;PTHLH&lt;/i&gt;, &lt;i&gt;TYRP1&lt;/i&gt;, &lt;i&gt;FOXO1&lt;/i&gt;, &lt;i&gt;TCF4&lt;/i&gt; and &lt;i&gt;ZNF880&lt;/i&gt;.">
+    <entity charOffset="26-36" id="30115896.s2.e0" ontology_id="GO_0006935" text="chemotaxis" type="GO"/>
+    <entity charOffset="127-133" id="30115896.s2.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30115896.s2.e0" e2="30115896.s2.e1" id="30115896.s2.p0" relation="true"/>
+  </sentence>
+</document>

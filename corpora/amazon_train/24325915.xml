@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<document id="24325915">
+  <sentence id="24325915.s0" text="Associations with TN breast cancer were confirmed for 10 loci (positive regulation of Wnt signaling pathway, negative regulation of transcription by RNA polymerase II, proteolysis, 2q35, 2p24.1, TERT-rs10069690, ESR1, regulation of apoptotic process, 19p13.1, RALY), and we identified associations with TN breast cancer for 15 additional breast cancer loci (P &amp;lt; 0.05: protein import into peroxisome matrix, translocation, 2q24.1, 2q31.1, spermatogenesis, EBF1, TCF7L2, 11q13.1, 11q24.3, 12p13.1, PTHLH, NTN4, 12q24, mitotic cytokinesis, RAD51L1-rs2588809, MKL1).">
+    <entity charOffset="28-34" id="24325915.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="63-107" id="24325915.s0.e1" ontology_id="GO_0030177" text="positive regulation of Wnt signaling pathway" type="GO"/>
+    <entity charOffset="109-166" id="24325915.s0.e2" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="168-179" id="24325915.s0.e3" ontology_id="GO_0006508" text="proteolysis" type="GO"/>
+    <entity charOffset="218-249" id="24325915.s0.e4" ontology_id="GO_0042981" text="regulation of apoptotic process" type="GO"/>
+    <entity charOffset="371-423" id="24325915.s0.e5" ontology_id="GO_0016561" text="protein import into peroxisome matrix, translocation" type="GO"/>
+    <entity charOffset="441-456" id="24325915.s0.e6" ontology_id="GO_0007283" text="spermatogenesis" type="GO"/>
+    <entity charOffset="519-538" id="24325915.s0.e7" ontology_id="GO_0000281" text="mitotic cytokinesis" type="GO"/>
+    <pair e1="24325915.s0.e0" e2="24325915.s0.e1" id="24325915.s0.p0" relation="true"/>
+    <pair e1="24325915.s0.e0" e2="24325915.s0.e2" id="24325915.s0.p1" relation="true"/>
+    <pair e1="24325915.s0.e0" e2="24325915.s0.e3" id="24325915.s0.p2" relation="true"/>
+    <pair e1="24325915.s0.e0" e2="24325915.s0.e4" id="24325915.s0.p3" relation="true"/>
+    <pair e1="24325915.s0.e0" e2="24325915.s0.e5" id="24325915.s0.p4" relation="true"/>
+    <pair e1="24325915.s0.e0" e2="24325915.s0.e6" id="24325915.s0.p5" relation="true"/>
+    <pair e1="24325915.s0.e0" e2="24325915.s0.e7" id="24325915.s0.p6" relation="true"/>
+  </sentence>
+</document>

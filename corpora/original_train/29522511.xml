@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="29522511">
+  <sentence id="29522511.s0" text="Exome sequencing of superior coloboma patients identified rare variants in a Bone Morphogenetic Protein (Bmp) receptor (protein phosphorylation) and T-box transcription factor (negative regulation of transcription by RNA polymerase II).">
+    <entity charOffset="29-37" id="29522511.s0.e0" ontology_id="HP_0000589" text="coloboma" type="HP"/>
+    <entity charOffset="120-143" id="29522511.s0.e1" ontology_id="GO_0006468" text="protein phosphorylation" type="GO"/>
+    <entity charOffset="177-234" id="29522511.s0.e2" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="29522511.s0.e0" e2="29522511.s0.e1" id="29522511.s0.p0" relation="false"/>
+    <pair e1="29522511.s0.e0" e2="29522511.s0.e2" id="29522511.s0.p1" relation="false"/>
+  </sentence>
+</document>

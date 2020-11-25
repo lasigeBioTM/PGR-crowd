@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="26841242">
+  <sentence id="26841242.s0" text="Patients with autosomal dominant vibratory urticaria have localized hives and systemic manifestations in response to dermal vibration, with coincident degranulation of antigen receptor-mediated signaling pathway cells and increased histamine levels in serum.">
+    <entity charOffset="43-52" id="26841242.s0.e0" ontology_id="HP_0001025" text="urticaria" type="HP"/>
+    <entity charOffset="168-211" id="26841242.s0.e1" ontology_id="GO_0050851" text="antigen receptor-mediated signaling pathway" type="GO"/>
+    <pair e1="26841242.s0.e0" e2="26841242.s0.e1" id="26841242.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="26841242.s1" text="We identified a previously unknown missense substitution in cell adhesion (also known as EMR2), which was predicted to result in the replacement of cysteine with tyrosine at amino acid position 492 (p.C492Y), as the only nonsynonymous variant cosegregating with vibratory urticaria in two large kindreds.">
+    <entity charOffset="60-73" id="26841242.s1.e0" ontology_id="GO_0007155" text="cell adhesion" type="GO"/>
+    <entity charOffset="272-281" id="26841242.s1.e1" ontology_id="HP_0001025" text="urticaria" type="HP"/>
+    <pair e1="26841242.s1.e0" e2="26841242.s1.e1" id="26841242.s1.p0" relation="true"/>
+  </sentence>
+</document>

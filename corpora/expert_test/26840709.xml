@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<document id="26840709">
+  <sentence id="26840709.s0" text="Our findings suggest that DEGs encoding subunits of NADH, G1/S transition of mitotic cell cycle, G1/S transition of mitotic cell cycle, MAPK1, STAT3, activation of MAPKK activity, and JAK1 might be associated with the development of lung adenocarcinoma.">
+    <entity charOffset="58-95" id="26840709.s0.e0" ontology_id="GO_0000082" text="G1/S transition of mitotic cell cycle" type="GO"/>
+    <entity charOffset="97-134" id="26840709.s0.e1" ontology_id="GO_0000082" text="G1/S transition of mitotic cell cycle" type="GO"/>
+    <entity charOffset="150-178" id="26840709.s0.e2" ontology_id="GO_0000186" text="activation of MAPKK activity" type="GO"/>
+    <entity charOffset="233-252" id="26840709.s0.e3" ontology_id="HP_0030078" text="lung adenocarcinoma" type="HP"/>
+    <pair e1="26840709.s0.e0" e2="26840709.s0.e3" id="26840709.s0.p0" relation="true"/>
+    <pair e1="26840709.s0.e1" e2="26840709.s0.e3" id="26840709.s0.p1" relation="true"/>
+    <pair e1="26840709.s0.e2" e2="26840709.s0.e3" id="26840709.s0.p2" relation="true"/>
+  </sentence>
+</document>

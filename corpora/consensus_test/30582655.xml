@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="30582655">
+  <sentence id="30582655.s0" text="Importantly, cell line and animal experiments both confirmed that E2F6 promotes ovarian cancer stemness, whereas E2F6 or negative regulation of transcription by RNA polymerase II depletion derepressed miR-193a, which opposes cancer stemness, by alleviating DNA methylation and repressive chromatin.">
+    <entity charOffset="88-94" id="30582655.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="121-178" id="30582655.s0.e1" ontology_id="GO_0000122" text="negative regulation of transcription by RNA polymerase II" type="GO"/>
+    <pair e1="30582655.s0.e0" e2="30582655.s0.e1" id="30582655.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="30582655.s1" text="To decipher a mechanism for this, we previously generated a mathematical model of how estrogen-mediated upregulation of the transcription factor, E2F6, upregulates the ovarian cancer stem/initiating cell marker, activation of MAPK activity, by epigenetic silencing the tumor suppressor miR-193a, and a competing endogenous (ceRNA) mechanism.">
+    <entity charOffset="212-239" id="30582655.s1.e0" ontology_id="GO_0000187" text="activation of MAPK activity" type="GO"/>
+    <entity charOffset="269-274" id="30582655.s1.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="30582655.s1.e0" e2="30582655.s1.e1" id="30582655.s1.p0" relation="true"/>
+  </sentence>
+</document>

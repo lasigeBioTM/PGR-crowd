@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="26376864">
+  <sentence id="26376864.s0" text="Our results indicate that gene-based meta-analysis of GWAS provides a useful strategy to cellular response to interleukin-4 loci of interest that were not identified in standard single-marker analyses due to high allelic heterogeneity.">
+    <entity charOffset="89-123" id="26376864.s0.e0" ontology_id="GO_0071353" text="cellular response to interleukin-4" type="GO"/>
+    <entity charOffset="221-234" id="26376864.s0.e1" ontology_id="HP_0001425" text="heterogeneity" type="HP"/>
+  </sentence>
+</document>

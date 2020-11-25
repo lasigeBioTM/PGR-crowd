@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="26637980">
+  <sentence id="26637980.s0" text="Meier-Gorlin syndrome (MGS) is a genetically heterogeneous primordial dwarfism syndrome known to be caused by biallelic loss-of-function mutations in one of five genes encoding pre-replication complex proteins: urea cycle, ORC4, ORC6, DNA replication checkpoint, and CDC6.">
+    <entity charOffset="45-58" id="26637980.s0.e0" ontology_id="HP_0001425" text="heterogeneous" type="HP"/>
+    <entity charOffset="211-221" id="26637980.s0.e1" ontology_id="GO_0000050" text="urea cycle" type="GO"/>
+    <entity charOffset="235-261" id="26637980.s0.e2" ontology_id="GO_0000076" text="DNA replication checkpoint" type="GO"/>
+    <pair e1="26637980.s0.e0" e2="26637980.s0.e1" id="26637980.s0.p0" relation="false"/>
+    <pair e1="26637980.s0.e0" e2="26637980.s0.e2" id="26637980.s0.p1" relation="false"/>
+  </sentence>
+</document>

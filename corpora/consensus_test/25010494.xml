@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<document id="25010494">
+  <sentence id="25010494.s0" text="Absence epilepsy (AE) is a common type of genetic gentranscription by RNA polymerase IIlized epilepsy (GGE), particularly in children.">
+    <entity charOffset="8-16" id="25010494.s0.e0" ontology_id="HP_0001250" text="epilepsy" type="HP"/>
+    <entity charOffset="53-87" id="25010494.s0.e1" ontology_id="GO_0006366" text="transcription by RNA polymerase II" type="GO"/>
+  </sentence>
+  <sentence id="25010494.s1" text="By creating new Pcnxl2 frameshift alleles using TALEN mutagenesis, we show that Pcnxl2 deficiency is responsible for mitigating the seizure phenomuscle organ development - making Pcnxl2 the first known modifier gene for absence seizures in any species.">
+    <entity charOffset="145-169" id="25010494.s1.e0" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <entity charOffset="228-236" id="25010494.s1.e1" ontology_id="HP_0001250" text="seizures" type="HP"/>
+  </sentence>
+</document>

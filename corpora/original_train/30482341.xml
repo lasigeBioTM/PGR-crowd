@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30482341">
+  <sentence id="30482341.s0" text="Identifying the central and peripheral vestibular mechanisms responsible for pathology can aid in management of peptidyl-tyrosine phosphorylation.">
+    <entity charOffset="28-38" id="30482341.s0.e0" ontology_id="HP_0030646" text="peripheral" type="HP"/>
+    <entity charOffset="112-145" id="30482341.s0.e1" ontology_id="GO_0018108" text="peptidyl-tyrosine phosphorylation" type="GO"/>
+    <pair e1="30482341.s0.e0" e2="30482341.s0.e1" id="30482341.s0.p0" relation="false"/>
+  </sentence>
+</document>

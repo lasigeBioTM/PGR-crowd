@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<document id="28179590">
+  <sentence id="28179590.s0" text="Our WES data is largely matched with the earlier 'adenoma-carcinoma model' (cellular response to DNA damage stimulus, KRAS, Ras protein signal transduction and GNAS mutations), but there are newly identified transforming growth factor beta receptor signaling pathway, MTOR, ACVR1B, negative regulation of protein kinase activity, ATM, CNOT1, EP300, ARID2, RET and MAP2K4 mutations in this study.">
+    <entity charOffset="58-67" id="28179590.s0.e0" ontology_id="HP_0030731" text="carcinoma" type="HP"/>
+    <entity charOffset="76-116" id="28179590.s0.e1" ontology_id="GO_0006974" text="cellular response to DNA damage stimulus" type="GO"/>
+    <entity charOffset="124-155" id="28179590.s0.e2" ontology_id="GO_0007265" text="Ras protein signal transduction" type="GO"/>
+    <entity charOffset="208-266" id="28179590.s0.e3" ontology_id="GO_0007179" text="transforming growth factor beta receptor signaling pathway" type="GO"/>
+    <entity charOffset="282-328" id="28179590.s0.e4" ontology_id="GO_0006469" text="negative regulation of protein kinase activity" type="GO"/>
+    <pair e1="28179590.s0.e0" e2="28179590.s0.e3" id="28179590.s0.p0" relation="true"/>
+    <pair e1="28179590.s0.e0" e2="28179590.s0.e4" id="28179590.s0.p1" relation="false"/>
+    <pair e1="28179590.s0.e0" e2="28179590.s0.e1" id="28179590.s0.p2" relation="true"/>
+    <pair e1="28179590.s0.e0" e2="28179590.s0.e2" id="28179590.s0.p3" relation="true"/>
+  </sentence>
+  <sentence id="28179590.s1" text="We identified 22 genes including APC, positive regulation of protein phosphorylation, TP53, GNAS, Ras protein signal transduction, SMAD4, nucleosome disassembly, and PIK3CA with non-silent mutations in the cancer Census Genes.">
+    <entity charOffset="38-84" id="28179590.s1.e0" ontology_id="GO_0001934" text="positive regulation of protein phosphorylation" type="GO"/>
+    <entity charOffset="98-129" id="28179590.s1.e1" ontology_id="GO_0007265" text="Ras protein signal transduction" type="GO"/>
+    <entity charOffset="138-160" id="28179590.s1.e2" ontology_id="GO_0006337" text="nucleosome disassembly" type="GO"/>
+    <entity charOffset="206-212" id="28179590.s1.e3" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="28179590.s1.e0" e2="28179590.s1.e3" id="28179590.s1.p0" relation="true"/>
+    <pair e1="28179590.s1.e1" e2="28179590.s1.e3" id="28179590.s1.p1" relation="true"/>
+    <pair e1="28179590.s1.e2" e2="28179590.s1.e3" id="28179590.s1.p2" relation="false"/>
+  </sentence>
+</document>

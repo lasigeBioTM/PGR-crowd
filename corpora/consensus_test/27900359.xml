@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="27900359">
+  <sentence id="27900359.s0" text="Although homozygous inactivation of &lt;i&gt;CHEK2&lt;/i&gt; in epidermis development led to cancers in multiple organs, accumulation of additional human cases is needed to establish its pathogenic role in humans">
+    <entity charOffset="52-73" id="27900359.s0.e0" ontology_id="GO_0008544" text="epidermis development" type="GO"/>
+    <entity charOffset="81-87" id="27900359.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+  </sentence>
+</document>

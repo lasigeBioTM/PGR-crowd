@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<document id="27925158">
+  <sentence id="27925158.s0" text="Characteristic findings among all forms of muscle contraction include short horizontal ribs, short limbs and polydactyly.">
+    <entity charOffset="43-61" id="27925158.s0.e0" ontology_id="GO_0006936" text="muscle contraction" type="GO"/>
+    <entity charOffset="93-104" id="27925158.s0.e1" ontology_id="HP_0009826" text="short limbs" type="HP"/>
+    <entity charOffset="109-120" id="27925158.s0.e2" ontology_id="HP_0010442" text="polydactyly" type="HP"/>
+    <pair e1="27925158.s0.e0" e2="27925158.s0.e2" id="27925158.s0.p0" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="27094817">
+  <sentence id="27094817.s0" text="The core phenotype of X-linked protein acetylation-related N-terminal-acetyltransferase deficiency in both males and females includes developmental delay, severe intellectual disability, postnatal growth failure with severe microcephaly, and skeletal or cardiac anomalies.">
+    <entity charOffset="31-50" id="27094817.s0.e0" ontology_id="GO_0006473" text="protein acetylation" type="GO"/>
+    <entity charOffset="134-153" id="27094817.s0.e1" ontology_id="HP_0001263" text="developmental delay" type="HP"/>
+    <entity charOffset="254-271" id="27094817.s0.e2" ontology_id="HP_0001627" text="cardiac anomalies" type="HP"/>
+    <pair e1="27094817.s0.e0" e2="27094817.s0.e2" id="27094817.s0.p0" relation="false"/>
+    <pair e1="27094817.s0.e0" e2="27094817.s0.e1" id="27094817.s0.p1" relation="true"/>
+  </sentence>
+</document>

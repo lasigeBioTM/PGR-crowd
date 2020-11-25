@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="25111228">
+  <sentence id="25111228.s0" text="Mutations in the gene encoding the single transmembrane receptor multiple epidermal growth factor-like domain 10 (homotypic cell-cell adhesion) cause an autosomal recessive congenital muscle disease in humans.">
+    <entity charOffset="114-142" id="25111228.s0.e0" ontology_id="GO_0034109" text="homotypic cell-cell adhesion" type="GO"/>
+    <entity charOffset="153-172" id="25111228.s0.e1" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <pair e1="25111228.s0.e0" e2="25111228.s0.e1" id="25111228.s0.p0" relation="true"/>
+  </sentence>
+</document>

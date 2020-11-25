@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="26826034">
+  <sentence id="26826034.s0" text="In this review we discuss recent advances in our knowledge of the MPC, and we argue that it may offer a promising target in diseases like cancer and muscle organ development 2 diabetes.">
+    <entity charOffset="138-144" id="26826034.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="149-173" id="26826034.s0.e1" ontology_id="GO_0007517" text="muscle organ development" type="GO"/>
+    <pair e1="26826034.s0.e0" e2="26826034.s0.e1" id="26826034.s0.p0" relation="false"/>
+  </sentence>
+</document>

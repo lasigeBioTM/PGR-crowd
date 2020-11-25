@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27553092">
+  <sentence id="27553092.s0" text="β-Ureidopropionase deficiency is a rare autosomal recessive disease affecting the last step of pyrimidine degradation, and it is caused by a mutation in the beta-alanine biosynthetic process via 3-ureidopropionate gene.">
+    <entity charOffset="40-59" id="27553092.s0.e0" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="157-213" id="27553092.s0.e1" ontology_id="GO_0033396" text="beta-alanine biosynthetic process via 3-ureidopropionate" type="GO"/>
+    <pair e1="27553092.s0.e0" e2="27553092.s0.e1" id="27553092.s0.p0" relation="true"/>
+  </sentence>
+</document>

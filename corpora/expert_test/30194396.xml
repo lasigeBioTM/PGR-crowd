@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30194396">
+  <sentence id="30194396.s0" text="Five variants were previously reported to confer risk of various malignant or benign tumors (rs78378222 in TP53, rs10069690 in transcription, RNA-templated, rs1800057 and rs1801516 in ATM, and rs7907606 at OBFC1) and four signals are located at established risk loci for hormone-related traits (endometriosis and breast cancer) at 1q36.12 (CDC42/WNT4), 2p25.1 (GREB1), 20p12.3 (MCM8), and 6q26.2 (SYNE1/ESR1).">
+    <entity charOffset="127-155" id="30194396.s0.e0" ontology_id="GO_0001172" text="transcription, RNA-templated" type="GO"/>
+    <entity charOffset="320-326" id="30194396.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="30194396.s0.e0" e2="30194396.s0.e1" id="30194396.s0.p0" relation="false"/>
+  </sentence>
+</document>

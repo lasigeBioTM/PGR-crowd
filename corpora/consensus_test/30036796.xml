@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="30036796">
+  <sentence id="30036796.s0" text="To further explore this, we investigated the associations of peripheral transcription, DNA-templated-1&lt;sub&gt;F&lt;/sub&gt; methylation (52 CpGs) with the cortisol stress response (Trier Social Stress Test) and with childhood trauma in three independent studies (total N = 241) including healthy controls, patients with schizophrenia and bipolar disorder and unaffected siblings of patients with one of these disorders.">
+    <entity charOffset="72-100" id="30036796.s0.e0" ontology_id="GO_0006351" text="transcription, DNA-templated" type="GO"/>
+    <entity charOffset="311-324" id="30036796.s0.e1" ontology_id="HP_0100753" text="schizophrenia" type="HP"/>
+  </sentence>
+</document>

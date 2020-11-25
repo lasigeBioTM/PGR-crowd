@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="29656860">
+  <sentence id="29656860.s0" text="Clinical features of affected individuals with LGD variants in N-terminal protein amino acid acetylation include variable levels of intellectual disability, delayed speech and motor milestones, and autism spectrum disorder.">
+    <entity charOffset="63-104" id="29656860.s0.e0" ontology_id="GO_0006474" text="N-terminal protein amino acid acetylation" type="GO"/>
+    <entity charOffset="198-204" id="29656860.s0.e1" ontology_id="HP_0000717" text="autism" type="HP"/>
+    <pair e1="29656860.s0.e0" e2="29656860.s0.e1" id="29656860.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="29656860.s1" text="Further supporting a mechanism of haploinsufficiency, individuals with copy-number variant (CNV) deletions involving N-terminal protein amino acid acetylation and surrounding genes can present with mild intellectual disability, mild dysmorphic features, motor delays, and decreased growth.">
+    <entity charOffset="117-158" id="29656860.s1.e0" ontology_id="GO_0006474" text="N-terminal protein amino acid acetylation" type="GO"/>
+    <entity charOffset="203-226" id="29656860.s1.e1" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <entity charOffset="254-266" id="29656860.s1.e2" ontology_id="HP_0001270" text="motor delays" type="HP"/>
+    <pair e1="29656860.s1.e0" e2="29656860.s1.e1" id="29656860.s1.p0" relation="true"/>
+    <pair e1="29656860.s1.e0" e2="29656860.s1.e2" id="29656860.s1.p1" relation="true"/>
+  </sentence>
+</document>

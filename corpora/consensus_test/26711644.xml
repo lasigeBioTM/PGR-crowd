@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="26711644">
+  <sentence id="26711644.s0" text="Considering the genetic heterogeneity of phosphatidylinositol phosphorylation, four datasets from four studies consisting of 15 pairs of HCC and adjacent normal samples were analyzed.">
+    <entity charOffset="24-37" id="26711644.s0.e0" ontology_id="HP_0001425" text="heterogeneity" type="HP"/>
+    <entity charOffset="41-77" id="26711644.s0.e1" ontology_id="GO_0046854" text="phosphatidylinositol phosphorylation" type="GO"/>
+  </sentence>
+</document>

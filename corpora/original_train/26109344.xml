@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<document id="26109344">
+  <sentence id="26109344.s0" text="To identify potential biological differences by bile acid metabolic process among Luminal A breast cancers, gene expression data from 108 CAU and 57 AA breast tumors were analyzed.">
+    <entity charOffset="48-75" id="26109344.s0.e0" ontology_id="GO_0008206" text="bile acid metabolic process" type="GO"/>
+    <entity charOffset="159-165" id="26109344.s0.e1" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <pair e1="26109344.s0.e0" e2="26109344.s0.e1" id="26109344.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="26109344.s1" text="Six genes (positive regulation of cell death, MUC1, CRYBB2, L-serine metabolic process, SQLE, dTMP biosynthetic process) were differentially expressed by race among Luminal A breast cancers and were associated with survival (HR &amp;lt;0.8, HR &amp;gt;1.25).">
+    <entity charOffset="11-44" id="26109344.s1.e0" ontology_id="GO_0010942" text="positive regulation of cell death" type="GO"/>
+    <entity charOffset="60-86" id="26109344.s1.e1" ontology_id="GO_0006563" text="L-serine metabolic process" type="GO"/>
+    <entity charOffset="94-119" id="26109344.s1.e2" ontology_id="GO_0006231" text="dTMP biosynthetic process" type="GO"/>
+    <entity charOffset="182-188" id="26109344.s1.e3" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="26109344.s1.e0" e2="26109344.s1.e3" id="26109344.s1.p0" relation="false"/>
+    <pair e1="26109344.s1.e1" e2="26109344.s1.e3" id="26109344.s1.p1" relation="false"/>
+    <pair e1="26109344.s1.e2" e2="26109344.s1.e3" id="26109344.s1.p2" relation="false"/>
+  </sentence>
+  <sentence id="26109344.s2" text="For all six genes, tumors in AA had higher expression of poor prognosis genes (visual perception, L-serine metabolic process, sterol biosynthetic process, dTMP biosynthetic process) and lower expression of good prognosis genes (positive regulation of cell death, DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest).">
+    <entity charOffset="19-25" id="26109344.s2.e0" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <entity charOffset="79-96" id="26109344.s2.e1" ontology_id="GO_0007601" text="visual perception" type="GO"/>
+    <entity charOffset="98-124" id="26109344.s2.e2" ontology_id="GO_0006563" text="L-serine metabolic process" type="GO"/>
+    <entity charOffset="126-153" id="26109344.s2.e3" ontology_id="GO_0016126" text="sterol biosynthetic process" type="GO"/>
+    <entity charOffset="155-180" id="26109344.s2.e4" ontology_id="GO_0006231" text="dTMP biosynthetic process" type="GO"/>
+    <entity charOffset="228-261" id="26109344.s2.e5" ontology_id="GO_0010942" text="positive regulation of cell death" type="GO"/>
+    <entity charOffset="263-356" id="26109344.s2.e6" ontology_id="GO_0006977" text="DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest" type="GO"/>
+    <pair e1="26109344.s2.e0" e2="26109344.s2.e5" id="26109344.s2.p0" relation="false"/>
+    <pair e1="26109344.s2.e0" e2="26109344.s2.e6" id="26109344.s2.p1" relation="false"/>
+    <pair e1="26109344.s2.e0" e2="26109344.s2.e1" id="26109344.s2.p2" relation="false"/>
+    <pair e1="26109344.s2.e0" e2="26109344.s2.e2" id="26109344.s2.p3" relation="false"/>
+    <pair e1="26109344.s2.e0" e2="26109344.s2.e3" id="26109344.s2.p4" relation="false"/>
+    <pair e1="26109344.s2.e0" e2="26109344.s2.e4" id="26109344.s2.p5" relation="false"/>
+  </sentence>
+  <sentence id="26109344.s3" text="Some of these differences (visual perception and L-serine metabolic process) may exist from the earliest stages of tumor development, or may even precede malignancy">
+    <entity charOffset="27-44" id="26109344.s3.e0" ontology_id="GO_0007601" text="visual perception" type="GO"/>
+    <entity charOffset="49-75" id="26109344.s3.e1" ontology_id="GO_0006563" text="L-serine metabolic process" type="GO"/>
+    <entity charOffset="115-120" id="26109344.s3.e2" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="26109344.s3.e0" e2="26109344.s3.e2" id="26109344.s3.p0" relation="false"/>
+    <pair e1="26109344.s3.e1" e2="26109344.s3.e2" id="26109344.s3.p1" relation="false"/>
+  </sentence>
+</document>

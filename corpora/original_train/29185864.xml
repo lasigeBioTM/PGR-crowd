@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="29185864">
+  <sentence id="29185864.s0" text="Molecular diagnosis is consistent with the genetic heterogeneity of the guanine salvage gene responsible for guanine salvage deficiency.">
+    <entity charOffset="51-64" id="29185864.s0.e0" ontology_id="HP_0001425" text="heterogeneity" type="HP"/>
+    <entity charOffset="72-87" id="29185864.s0.e1" ontology_id="GO_0006178" text="guanine salvage" type="GO"/>
+    <entity charOffset="109-124" id="29185864.s0.e2" ontology_id="GO_0006178" text="guanine salvage" type="GO"/>
+    <pair e1="29185864.s0.e0" e2="29185864.s0.e2" id="29185864.s0.p0" relation="false"/>
+    <pair e1="29185864.s0.e0" e2="29185864.s0.e1" id="29185864.s0.p1" relation="false"/>
+  </sentence>
+</document>

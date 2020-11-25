@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="26399219">
+  <sentence id="26399219.s0" text="Epithelial-mesenchymal transition (cytokine production) is a process whereby epithelial cells assume mesenchymal characteristics to facilitate cancer metastasis.">
+    <entity charOffset="35-54" id="26399219.s0.e0" ontology_id="GO_0001816" text="cytokine production" type="GO"/>
+    <entity charOffset="143-149" id="26399219.s0.e1" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <pair e1="26399219.s0.e0" e2="26399219.s0.e1" id="26399219.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="26399219.s1" text="However, cytokine production also contributes to the initiation and development of primary tumors.">
+    <entity charOffset="9-28" id="26399219.s1.e0" ontology_id="GO_0001816" text="cytokine production" type="GO"/>
+    <entity charOffset="91-97" id="26399219.s1.e1" ontology_id="HP_0002664" text="tumors" type="HP"/>
+    <pair e1="26399219.s1.e0" e2="26399219.s1.e1" id="26399219.s1.p0" relation="true"/>
+  </sentence>
+</document>

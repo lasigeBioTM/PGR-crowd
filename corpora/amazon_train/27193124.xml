@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<document id="27193124">
+  <sentence id="27193124.s0" text="Here, we have performed a prospective nationwide genetic association study using the Human Exome BeadChip and identified gene variants in encoding dynactin 4 (ER to Golgi vesicle-mediated transport), retinoic acid early transcript 1E (natural killer cell mediated cytotoxicity), and V-positive regulation of protein phosphorylation murine thymoma viral oncogene homolog 3 (AKT3) to be associated with unfavourable outcome in patients with pneumococcal meningitis.">
+    <entity charOffset="159-197" id="27193124.s0.e0" ontology_id="GO_0006888" text="ER to Golgi vesicle-mediated transport" type="GO"/>
+    <entity charOffset="235-276" id="27193124.s0.e1" ontology_id="GO_0042267" text="natural killer cell mediated cytotoxicity" type="GO"/>
+    <entity charOffset="285-331" id="27193124.s0.e2" ontology_id="GO_0001934" text="positive regulation of protein phosphorylation" type="GO"/>
+    <entity charOffset="452-462" id="27193124.s0.e3" ontology_id="HP_0001287" text="meningitis" type="HP"/>
+    <pair e1="27193124.s0.e0" e2="27193124.s0.e3" id="27193124.s0.p0" relation="true"/>
+    <pair e1="27193124.s0.e1" e2="27193124.s0.e3" id="27193124.s0.p1" relation="true"/>
+    <pair e1="27193124.s0.e2" e2="27193124.s0.e3" id="27193124.s0.p2" relation="true"/>
+  </sentence>
+  <sentence id="27193124.s1" text="No clinical replication cohort is available, so we validated the role of one of these targets, positive regulation of blood vessel endothelial cell migration, in a pneumococcal meningitis mouse model.">
+    <entity charOffset="95-157" id="27193124.s1.e0" ontology_id="GO_0043536" text="positive regulation of blood vessel endothelial cell migration" type="GO"/>
+    <entity charOffset="177-187" id="27193124.s1.e1" ontology_id="HP_0001287" text="meningitis" type="HP"/>
+    <pair e1="27193124.s1.e0" e2="27193124.s1.e1" id="27193124.s1.p0" relation="true"/>
+  </sentence>
+</document>

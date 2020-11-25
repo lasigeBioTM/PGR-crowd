@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<document id="22752289">
+  <sentence id="22752289.s0" text="A majority of the familial breast cancer cases are not explained by mutations in the chloride transport-known high susceptibility genes double-strand break repair via homologous recombination and BRCA2.">
+    <entity charOffset="34-40" id="22752289.s0.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="85-103" id="22752289.s0.e1" ontology_id="GO_0006821" text="chloride transport" type="GO"/>
+    <entity charOffset="136-191" id="22752289.s0.e2" ontology_id="GO_0000724" text="double-strand break repair via homologous recombination" type="GO"/>
+    <pair e1="22752289.s0.e0" e2="22752289.s0.e2" id="22752289.s0.p0" relation="true"/>
+  </sentence>
+</document>

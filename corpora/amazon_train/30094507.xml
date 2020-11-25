@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<document id="30094507">
+  <sentence id="30094507.s0" text="Somewhat arbitrarily, three disorders were successively put forward as the underlying cause of HIES: autosomal dominant (AD) STAT3 deficiency, the only disorder corresponding to the original definition of HIES, and autosomal recessive (AR) positive regulation of GTPase activity and UDP-N-acetylglucosamine biosynthetic process deficiencies, in which atopy and high serum IgE levels occur in a context of manifestations not seen in patients with typical HIES.">
+    <entity charOffset="215-234" id="30094507.s0.e0" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="240-278" id="30094507.s0.e1" ontology_id="GO_0043547" text="positive regulation of GTPase activity" type="GO"/>
+    <entity charOffset="283-327" id="30094507.s0.e2" ontology_id="GO_0006048" text="UDP-N-acetylglucosamine biosynthetic process" type="GO"/>
+    <pair e1="30094507.s0.e0" e2="30094507.s0.e1" id="30094507.s0.p0" relation="true"/>
+    <pair e1="30094507.s0.e0" e2="30094507.s0.e2" id="30094507.s0.p1" relation="true"/>
+  </sentence>
+</document>

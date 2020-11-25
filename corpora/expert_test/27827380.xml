@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="27827380">
+  <sentence id="27827380.s0" text="While examining pedigrees of JEB patients with negative regulation of cold-induced thermogenesis mutations, we observed that heterozygous carriers of functional null mutations displayed subtle enamel pitting in the absence of skin fragility or other JEB symptoms.">
+    <entity charOffset="47-96" id="27827380.s0.e0" ontology_id="GO_0120163" text="negative regulation of cold-induced thermogenesis" type="GO"/>
+    <entity charOffset="226-240" id="27827380.s0.e1" ontology_id="HP_0001030" text="skin fragility" type="HP"/>
+    <pair e1="27827380.s0.e0" e2="27827380.s0.e1" id="27827380.s0.p0" relation="true"/>
+  </sentence>
+</document>

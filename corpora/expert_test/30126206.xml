@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<document id="30126206">
+  <sentence id="30126206.s0" text="In co-culture experiments using positive regulation of protein kinase B signaling-OVA melanoma cells and tumor-specific CD3+ T cells, EGCG reduced &lt;i&gt;PD-L1&lt;/i&gt; mRNA expression about 30% in F10-OVA cells and restored &lt;i&gt;interleukin-2&lt;/i&gt; mRNA expression in tumor-specific CD3+ T cells.">
+    <entity charOffset="32-81" id="30126206.s0.e0" ontology_id="GO_0051897" text="positive regulation of protein kinase B signaling" type="GO"/>
+    <entity charOffset="105-110" id="30126206.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="30126206.s0.e0" e2="30126206.s0.e1" id="30126206.s0.p0" relation="false"/>
+  </sentence>
+  <sentence id="30126206.s1" text="We here report that (-)-epigallocatechin gallate (EGCG) inhibited programmed cell death ligand 1 (PD-L1) expression in non⁻small-cell lung cancer cells, induced by both interferon (blood coagulation)-γ and epidermal growth factor (EGF).">
+    <entity charOffset="139-145" id="30126206.s1.e0" ontology_id="HP_0002664" text="cancer" type="HP"/>
+    <entity charOffset="181-198" id="30126206.s1.e1" ontology_id="GO_0007596" text="blood coagulation" type="GO"/>
+    <pair e1="30126206.s1.e0" e2="30126206.s1.e1" id="30126206.s1.p0" relation="true"/>
+  </sentence>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="30004071">
+  <sentence id="30004071.s0" text="MIB1/regulation of proteasomal protein catabolic process-67 was low and highlighted 4%-5% tumor nuclei.">
+    <entity charOffset="5-56" id="30004071.s0.e0" ontology_id="GO_0061136" text="regulation of proteasomal protein catabolic process" type="GO"/>
+    <entity charOffset="90-95" id="30004071.s0.e1" ontology_id="HP_0002664" text="tumor" type="HP"/>
+    <pair e1="30004071.s0.e0" e2="30004071.s0.e1" id="30004071.s0.p0" relation="false"/>
+  </sentence>
+</document>

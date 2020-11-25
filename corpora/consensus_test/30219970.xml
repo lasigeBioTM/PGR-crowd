@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="30219970">
+  <sentence id="30219970.s0" text="A retrospective series of 52 sporadic primary surgically resected SI-epidermal cell differentiation, which were metastatic at diagnosis, was analyzed by high-coverage target sequencing (HCTS) for the mutational status of 57 genes and copy number status of 40 genes selected from recently published genome sequencing data.">
+    <entity charOffset="29-37" id="30219970.s0.e0" ontology_id="HP_0003745" text="sporadic" type="HP"/>
+    <entity charOffset="69-99" id="30219970.s0.e1" ontology_id="GO_0009913" text="epidermal cell differentiation" type="GO"/>
+  </sentence>
+</document>

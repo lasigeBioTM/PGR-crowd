@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<document id="24888247">
+  <sentence id="24888247.s0" text="Polymorphisms in the genes encoding carbamoyl-phosphate synthase 1 (CPS1) and N-acetylglutamate synthase (urea cycle) were recently reported to be risk factors for the development of hyperammonemia during valproic acid-based therapy.">
+    <entity charOffset="106-116" id="24888247.s0.e0" ontology_id="GO_0000050" text="urea cycle" type="GO"/>
+    <entity charOffset="183-197" id="24888247.s0.e1" ontology_id="HP_0001987" text="hyperammonemia" type="HP"/>
+    <pair e1="24888247.s0.e0" e2="24888247.s0.e1" id="24888247.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="24888247.s1" text="This study aimed to examine the influence of patient characteristics, including polymorphisms in steroid biosynthetic process 4217C&amp;gt;A and urea cycle -3064C&amp;gt;A, on the development of hyperammonemia in Japanese pediatric epilepsy patients.">
+    <entity charOffset="97-125" id="24888247.s1.e0" ontology_id="GO_0006694" text="steroid biosynthetic process" type="GO"/>
+    <entity charOffset="141-151" id="24888247.s1.e1" ontology_id="GO_0000050" text="urea cycle" type="GO"/>
+    <entity charOffset="187-201" id="24888247.s1.e2" ontology_id="HP_0001987" text="hyperammonemia" type="HP"/>
+    <entity charOffset="224-232" id="24888247.s1.e3" ontology_id="HP_0001250" text="epilepsy" type="HP"/>
+    <pair e1="24888247.s1.e0" e2="24888247.s1.e3" id="24888247.s1.p0" relation="false"/>
+    <pair e1="24888247.s1.e0" e2="24888247.s1.e2" id="24888247.s1.p1" relation="false"/>
+    <pair e1="24888247.s1.e1" e2="24888247.s1.e3" id="24888247.s1.p2" relation="true"/>
+    <pair e1="24888247.s1.e1" e2="24888247.s1.e2" id="24888247.s1.p3" relation="true"/>
+  </sentence>
+  <sentence id="24888247.s2" text="With regard to the steroid biosynthetic process 4217C&amp;gt;A polymorphism, we did not observe a significant association with the development of hyperammonemia.">
+    <entity charOffset="19-47" id="24888247.s2.e0" ontology_id="GO_0006694" text="steroid biosynthetic process" type="GO"/>
+    <entity charOffset="142-156" id="24888247.s2.e1" ontology_id="HP_0001987" text="hyperammonemia" type="HP"/>
+    <pair e1="24888247.s2.e0" e2="24888247.s2.e1" id="24888247.s2.p0" relation="false"/>
+  </sentence>
+</document>

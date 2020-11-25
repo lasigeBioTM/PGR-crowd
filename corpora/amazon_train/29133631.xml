@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="29133631">
+  <sentence id="29133631.s0" text="Leber's hereditary optic neuropathy (biological_process) is a common inherited mitochondrial disorder that is characterized by the degeneration of the optic nerves, leading to vision loss.">
+    <entity charOffset="25-35" id="29133631.s0.e0" ontology_id="HP_0009830" text="neuropathy" type="HP"/>
+    <entity charOffset="37-55" id="29133631.s0.e1" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+  </sentence>
+</document>

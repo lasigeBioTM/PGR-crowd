@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document id="30618607">
+  <sentence id="30618607.s0" text="Deficits in protein polyubiquitinationNA biogenesis have been linked to neurological deficits in humans, and widespread changes in miRNA levels occur in epilepsy, traumatic brain injury, and in response to less dramatic brain insults in rodent models.">
+    <entity charOffset="12-38" id="30618607.s0.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="153-161" id="30618607.s0.e1" ontology_id="HP_0001250" text="epilepsy" type="HP"/>
+    <pair e1="30618607.s0.e0" e2="30618607.s0.e1" id="30618607.s0.p0" relation="true"/>
+  </sentence>
+  <sentence id="30618607.s1" text="Recently, microdeletions encompassing &lt;i&gt;MIR137HG&lt;/i&gt;, the host gene which encodes the protein polyubiquitinationNA miR-137, have been linked to autism and intellectual disability, and genome wide association studies have linked this locus to schizophrenia.">
+    <entity charOffset="87-113" id="30618607.s1.e0" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="145-151" id="30618607.s1.e1" ontology_id="HP_0000717" text="autism" type="HP"/>
+    <entity charOffset="156-179" id="30618607.s1.e2" ontology_id="HP_0001249" text="intellectual disability" type="HP"/>
+    <pair e1="30618607.s1.e0" e2="30618607.s1.e1" id="30618607.s1.p0" relation="true"/>
+    <pair e1="30618607.s1.e0" e2="30618607.s1.e2" id="30618607.s1.p1" relation="true"/>
+  </sentence>
+</document>

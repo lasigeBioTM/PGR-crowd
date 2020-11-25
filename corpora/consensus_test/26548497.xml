@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<document id="26548497">
+  <sentence id="26548497.s0" text="FGD is a heterogeneous disorder for which causal mutations have been identified in MC2R, MRAP, G1/S transition of mitotic cell cycle and TXNRD2.">
+    <entity charOffset="9-22" id="26548497.s0.e0" ontology_id="HP_0001425" text="heterogeneous" type="HP"/>
+    <entity charOffset="95-132" id="26548497.s0.e1" ontology_id="GO_0000082" text="G1/S transition of mitotic cell cycle" type="GO"/>
+    <pair e1="26548497.s0.e0" e2="26548497.s0.e1" id="26548497.s0.p0" relation="false"/>
+  </sentence>
+</document>

@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<document id="30245141">
+  <sentence id="30245141.s0" text="We summarize genetic, clinical and neuropathological findings related to the 27 genes reported in the literature since 1997, associated either with autosomal dominant (AD): MAPK cascade, positive regulation of receptor recycling, positive regulation of gene expression, tetrahydrobiopterin biosynthetic process, negative regulation of receptor internalization, endosome organization, synaptic vesicle transport, GIGYF2, proteolysis, protein folding, positive regulation of mRNA cap binding, UCHL1, positive regulation of transcription by RNA polymerase II, and glucosylceramide catabolic process; or autosomal recessive (AR) inheritance: protein polyubiquitination, positive regulation of protein phosphorylation, DJ1, cellular calcium ion homeostasis, PLA2G6, ubiquitin-dependent protein catabolic process, synaptic vesicle uncoating, phosphatidylinositol dephosphorylation, SPG11, mitochondrion organization, positive regulation of cell migration, and biological_process; or an X-linked transmission: RAB39B.">
+    <entity charOffset="173-185" id="30245141.s0.e0" ontology_id="GO_0000165" text="MAPK cascade" type="GO"/>
+    <entity charOffset="187-228" id="30245141.s0.e1" ontology_id="GO_0001921" text="positive regulation of receptor recycling" type="GO"/>
+    <entity charOffset="230-268" id="30245141.s0.e2" ontology_id="GO_0010628" text="positive regulation of gene expression" type="GO"/>
+    <entity charOffset="270-310" id="30245141.s0.e3" ontology_id="GO_0006729" text="tetrahydrobiopterin biosynthetic process" type="GO"/>
+    <entity charOffset="312-359" id="30245141.s0.e4" ontology_id="GO_0002091" text="negative regulation of receptor internalization" type="GO"/>
+    <entity charOffset="361-382" id="30245141.s0.e5" ontology_id="GO_0007032" text="endosome organization" type="GO"/>
+    <entity charOffset="384-410" id="30245141.s0.e6" ontology_id="GO_0048489" text="synaptic vesicle transport" type="GO"/>
+    <entity charOffset="420-431" id="30245141.s0.e7" ontology_id="GO_0006508" text="proteolysis" type="GO"/>
+    <entity charOffset="433-448" id="30245141.s0.e8" ontology_id="GO_0006457" text="protein folding" type="GO"/>
+    <entity charOffset="450-489" id="30245141.s0.e9" ontology_id="GO_1905612" text="positive regulation of mRNA cap binding" type="GO"/>
+    <entity charOffset="498-555" id="30245141.s0.e10" ontology_id="GO_0045944" text="positive regulation of transcription by RNA polymerase II" type="GO"/>
+    <entity charOffset="561-595" id="30245141.s0.e11" ontology_id="GO_0006680" text="glucosylceramide catabolic process" type="GO"/>
+    <entity charOffset="600-619" id="30245141.s0.e12" ontology_id="HP_0000007" text="autosomal recessive" type="HP"/>
+    <entity charOffset="638-664" id="30245141.s0.e13" ontology_id="GO_0000209" text="protein polyubiquitination" type="GO"/>
+    <entity charOffset="666-712" id="30245141.s0.e14" ontology_id="GO_0001934" text="positive regulation of protein phosphorylation" type="GO"/>
+    <entity charOffset="719-751" id="30245141.s0.e15" ontology_id="GO_0006874" text="cellular calcium ion homeostasis" type="GO"/>
+    <entity charOffset="761-806" id="30245141.s0.e16" ontology_id="GO_0006511" text="ubiquitin-dependent protein catabolic process" type="GO"/>
+    <entity charOffset="808-834" id="30245141.s0.e17" ontology_id="GO_0016191" text="synaptic vesicle uncoating" type="GO"/>
+    <entity charOffset="836-874" id="30245141.s0.e18" ontology_id="GO_0046856" text="phosphatidylinositol dephosphorylation" type="GO"/>
+    <entity charOffset="883-909" id="30245141.s0.e19" ontology_id="GO_0007005" text="mitochondrion organization" type="GO"/>
+    <entity charOffset="911-948" id="30245141.s0.e20" ontology_id="GO_0030335" text="positive regulation of cell migration" type="GO"/>
+    <entity charOffset="954-972" id="30245141.s0.e21" ontology_id="GO_0008150" text="biological_process" type="GO"/>
+    <pair e1="30245141.s0.e0" e2="30245141.s0.e12" id="30245141.s0.p0" relation="false"/>
+    <pair e1="30245141.s0.e1" e2="30245141.s0.e12" id="30245141.s0.p1" relation="false"/>
+    <pair e1="30245141.s0.e2" e2="30245141.s0.e12" id="30245141.s0.p2" relation="false"/>
+    <pair e1="30245141.s0.e3" e2="30245141.s0.e12" id="30245141.s0.p3" relation="true"/>
+    <pair e1="30245141.s0.e4" e2="30245141.s0.e12" id="30245141.s0.p4" relation="false"/>
+    <pair e1="30245141.s0.e5" e2="30245141.s0.e12" id="30245141.s0.p5" relation="false"/>
+    <pair e1="30245141.s0.e6" e2="30245141.s0.e12" id="30245141.s0.p6" relation="false"/>
+    <pair e1="30245141.s0.e7" e2="30245141.s0.e12" id="30245141.s0.p7" relation="true"/>
+    <pair e1="30245141.s0.e8" e2="30245141.s0.e12" id="30245141.s0.p8" relation="false"/>
+    <pair e1="30245141.s0.e9" e2="30245141.s0.e12" id="30245141.s0.p9" relation="false"/>
+    <pair e1="30245141.s0.e10" e2="30245141.s0.e12" id="30245141.s0.p10" relation="false"/>
+    <pair e1="30245141.s0.e11" e2="30245141.s0.e12" id="30245141.s0.p11" relation="true"/>
+    <pair e1="30245141.s0.e12" e2="30245141.s0.e13" id="30245141.s0.p12" relation="true"/>
+    <pair e1="30245141.s0.e12" e2="30245141.s0.e14" id="30245141.s0.p13" relation="true"/>
+    <pair e1="30245141.s0.e12" e2="30245141.s0.e15" id="30245141.s0.p14" relation="true"/>
+    <pair e1="30245141.s0.e12" e2="30245141.s0.e16" id="30245141.s0.p15" relation="true"/>
+    <pair e1="30245141.s0.e12" e2="30245141.s0.e17" id="30245141.s0.p16" relation="true"/>
+    <pair e1="30245141.s0.e12" e2="30245141.s0.e18" id="30245141.s0.p17" relation="true"/>
+    <pair e1="30245141.s0.e12" e2="30245141.s0.e19" id="30245141.s0.p18" relation="true"/>
+    <pair e1="30245141.s0.e12" e2="30245141.s0.e20" id="30245141.s0.p19" relation="false"/>
+    <pair e1="30245141.s0.e12" e2="30245141.s0.e21" id="30245141.s0.p20" relation="false"/>
+  </sentence>
+</document>

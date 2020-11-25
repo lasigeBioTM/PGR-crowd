@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document id="12596933">
+  <sentence id="12596933.s0" text="the quantitative aspects of the Ca2+-feedback to Ret-GCs in regulating the light sensitivity and adaptation in intact mitotic cell cycle checkpoints; 2. functional differences between GCAP1 and GCAP2 in intact rod photoreceptors; and 3. whether GCAP mutants with impaired Ca2+ binding lead to retinal disease in vivo by constitutive activation of Ret-GCs and elevation of intracellular cGMP, as predicted from in vitro studies">
+    <entity charOffset="118-147" id="12596933.s0.e0" ontology_id="GO_0007093" text="mitotic cell cycle checkpoint" type="GO"/>
+    <entity charOffset="293-308" id="12596933.s0.e1" ontology_id="HP_0000479" text="retinal disease" type="HP"/>
+  </sentence>
+</document>
