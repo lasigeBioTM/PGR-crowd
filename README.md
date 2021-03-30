@@ -9,7 +9,7 @@ This project encompasses the following contributions:
 
 - Assessment of the quality of results obtained with the MTurk platform (through statistical analysis and direct comparison with on-site rater and domain expert).
 
-Our academic paper which describes the work in detail, will soon be available [here](https://doi.org/10.1093/database/baaa104).
+Our academic paper which describes the work in detail is available [here](https://doi.org/10.1093/database/baaa104).
 
 ## Reference
 
